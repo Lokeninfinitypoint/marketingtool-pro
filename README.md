@@ -1,5 +1,10 @@
 # 🚀 MarketingTool.Pro
 
+![GitHub](https://img.shields.io/github/license/Lokeninfinitypoint/marketingtool-pro)
+![GitHub issues](https://img.shields.io/github/issues/Lokeninfinitypoint/marketingtool-pro)
+![GitHub stars](https://img.shields.io/github/stars/Lokeninfinitypoint/marketingtool-pro)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Lokeninfinitypoint/marketingtool-pro/ci.yml)
+
 > 226+ AI-Powered Marketing Tools for Modern Businesses
 
 ## 🎯 Features
