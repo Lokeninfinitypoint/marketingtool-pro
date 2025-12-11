@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  app:
+    image: node:20-bullseye
+    container_name: marketingtool-dev
+    working_dir: /workspace
+    volumes:
+      - .:/workspace:cached
+      - node_modules:/workspace/node_modules
+    ports:
+      - "3000:3000"   # Dev server
+      - "4321:4321"   # Astro
+      - "5173:5173"   # Vite
+    environment:
+      - NODE_ENV=development
+    command: sleep infinity
+    networks:
+      - dev-network
+
+volumes:
+  node_modules:
+
+networks:
+  dev-network:
+    driver: bridge
