@@ -1,0 +1,33 @@
+{
+  "name": "MarketingTool.Pro Dev Container",
+  "dockerFile": "../Dockerfile.devcontainer",
+  
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh,target=/root/.ssh,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.gitconfig,target=/root/.gitconfig,type=bind,consistency=cached"
+  ],
+  
+  "forwardPorts": [3000, 4321],
+  
+  "postCreateCommand": "npm install",
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "astro-build.astro-vscode",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "github.copilot",
+        "eamodio.gitlens"
+      ],
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false
+      }
+    }
+  },
+  
+  "remoteUser": "root"
+}

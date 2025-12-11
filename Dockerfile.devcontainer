@@ -1,0 +1,24 @@
+FROM node:20-alpine
+
+# Install git and other essentials
+RUN apk add --no-cache \
+    git \
+    openssh \
+    bash \
+    curl \
+    vim \
+    nano
+
+# Set up git
+RUN git config --global user.name "infinity-jpg" && \
+    git config --global user.email "noreply@github.com" && \
+    git config --global init.defaultBranch main
+
+# Install GitHub CLI
+RUN apk add --no-cache github-cli
+
+# Create workspace directory
+WORKDIR /workspace
+
+# Keep container running
+CMD ["tail", "-f", "/dev/null"]
