@@ -1,0 +1,176 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+
+const plans = [
+  {
+    name: "Free",
+    price: "0",
+    period: "forever",
+    description: "Perfect for trying out our tools",
+    features: [
+      "10 tool uses per month",
+      "10 CMS items generation",
+      "Access to all 418 tools",
+      "Community support",
+      "Basic analytics",
+    ],
+    cta: "Start Free",
+    highlight: false,
+  },
+  {
+    name: "Pro",
+    price: "49",
+    period: "month",
+    description: "Best for professionals and agencies",
+    features: [
+      "Unlimited tool uses",
+      "1,000 CMS items per month",
+      "Access to all 418 tools",
+      "Priority support",
+      "Advanced analytics",
+      "API access",
+      "White-label option",
+      "Custom integrations",
+    ],
+    cta: "Start Pro Trial",
+    highlight: true,
+  },
+  {
+    name: "Enterprise",
+    price: "Custom",
+    period: "month",
+    description: "For large teams and organizations",
+    features: [
+      "Unlimited everything",
+      "Unlimited CMS items",
+      "Dedicated support",
+      "Custom integrations",
+      "SLA guarantee",
+      "Training & onboarding",
+      "Custom development",
+      "Volume discounts",
+    ],
+    cta: "Contact Sales",
+    highlight: false,
+  },
+];
+---
+
+<BaseLayout title="Pricing Plans | MarketingTool.Pro">
+  <Header slot="header" />
+  
+  <div class="pt-20 min-h-screen bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Header -->
+      <div class="text-center mb-16">
+        <h1 class="text-5xl font-bold text-gray-900 mb-4">Simple, Transparent Pricing</h1>
+        <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+          Choose the plan that fits your needs. All plans include access to all 418 AI marketing tools.
+        </p>
+      </div>
+
+      <!-- Pricing Cards -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+        {plans.map((plan) => (
+          <div class={`bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 ${
+            plan.highlight 
+              ? 'border-4 border-blue-500 transform scale-105' 
+              : 'border-2 border-gray-200 hover:shadow-xl'
+          }`}>
+            {plan.highlight && (
+              <div class="bg-gradient-to-r from-blue-600 to-purple-600 text-white text-center py-2 font-semibold">
+                Most Popular
+              </div>
+            )}
+            <div class="p-8">
+              <h3 class="text-2xl font-bold text-gray-900 mb-2">{plan.name}</h3>
+              <div class="mb-4">
+                {plan.price === "Custom" ? (
+                  <div class="text-4xl font-bold text-gray-900">Contact Us</div>
+                ) : (
+                  <div class="flex items-baseline">
+                    <span class="text-5xl font-bold text-gray-900">${plan.price}</span>
+                    <span class="text-xl text-gray-500 ml-2">/{plan.period}</span>
+                  </div>
+                )}
+              </div>
+              <p class="text-gray-600 mb-6 h-12">{plan.description}</p>
+              
+              <a 
+                href={plan.price === "Custom" ? "mailto:support@marketingtool.pro" : "/auth/signup"}
+                class={`block w-full text-center py-3 px-6 rounded-lg font-semibold transition-colors mb-6 ${
+                  plan.highlight
+                    ? 'bg-blue-600 text-white hover:bg-blue-700'
+                    : 'bg-gray-900 text-white hover:bg-gray-800'
+                }`}
+              >
+                {plan.cta}
+              </a>
+
+              <ul class="space-y-3">
+                {plan.features.map((feature) => (
+                  <li class="flex items-start">
+                    <svg class="w-6 h-6 text-green-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                    </svg>
+                    <span class="text-gray-700">{feature}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <!-- FAQ Section -->
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Frequently Asked Questions</h2>
+        <div class="space-y-6">
+          <div class="bg-white p-6 rounded-xl shadow-md">
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Can I change plans later?</h3>
+            <p class="text-gray-600">Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately.</p>
+          </div>
+          <div class="bg-white p-6 rounded-xl shadow-md">
+            <h3 class="text-xl font-bold text-gray-900 mb-2">What payment methods do you accept?</h3>
+            <p class="text-gray-600">We accept all major credit cards, PayPal, and can arrange invoicing for enterprise customers.</p>
+          </div>
+          <div class="bg-white p-6 rounded-xl shadow-md">
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Is there a free trial?</h3>
+            <p class="text-gray-600">The Free plan is available forever. Pro plan includes a 14-day free trial with full access.</p>
+          </div>
+          <div class="bg-white p-6 rounded-xl shadow-md">
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Can I cancel anytime?</h3>
+            <p class="text-gray-600">Yes, you can cancel your subscription at any time. No questions asked.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA Section -->
+      <div class="mt-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-12 text-center text-white">
+        <h2 class="text-3xl font-bold mb-4">Ready to transform your marketing?</h2>
+        <p class="text-xl mb-8 opacity-90">Join thousands of marketers using AI to grow their business</p>
+        <a href="/auth/signup" class="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-colors shadow-lg">
+          Start Free Today
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <footer slot="footer" class="bg-gray-900 text-white py-12 px-4">
+    <div class="max-w-7xl mx-auto text-center">
+      <div class="mb-6">
+        <span class="text-2xl font-bold">MarketingTool.Pro</span>
+      </div>
+      <p class="text-gray-400 mb-4">Operated by Infinity Solutions</p>
+      <p class="text-gray-400 mb-6">Jaipur, Rajasthan, India 🇮🇳</p>
+      <div class="flex justify-center space-x-6 text-sm">
+        <a href="/privacy" class="text-gray-400 hover:text-white transition-colors">Privacy</a>
+        <a href="/terms" class="text-gray-400 hover:text-white transition-colors">Terms</a>
+        <a href="mailto:support@marketingtool.pro" class="text-gray-400 hover:text-white transition-colors">Support</a>
+      </div>
+    </div>
+  </footer>
+</BaseLayout>

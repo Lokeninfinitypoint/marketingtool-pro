@@ -1,0 +1,27 @@
+{
+  "name": "ai-marketing-tools-pro-webflow",
+  "version": "1.0.0",
+  "description": "418+ AI Marketing Tools for Webflow Designer",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "webflow",
+    "ai",
+    "marketing",
+    "automation",
+    "content-generation",
+    "seo",
+    "ppc",
+    "ads",
+    "cms"
+  ],
+  "author": "MarketingTool.Pro <support@marketingtool.pro>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lokeninfinitypoint/marketingtool-pro"
+  },
+  "homepage": "https://marketingtool.pro"
+}

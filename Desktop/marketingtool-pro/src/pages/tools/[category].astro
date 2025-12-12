@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+
+export async function getStaticPaths() {
+  const categories = [
+    'meta-facebook-ads', 'google-ads', 'seo-tools', 'content-generation',
+    'social-media', 'email-marketing', 'analytics', 'e-commerce',
+    'video-marketing', 'influencer-tools', 'a-b-testing', 'conversion-tools', 'ai-agents'
+  ];
+  
+  return categories.map(category => ({
+    params: { category }
+  }));
+}
+
+const { category } = Astro.params;
+const categoryName = category?.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ') || 'Tools';
+
+// Sample tools - in production, this would come from a database
+const tools = Array.from({ length: 50 }, (_, i) => ({
+  id: i + 1,
+  name: `${categoryName} Tool ${i + 1}`,
+  description: `Powerful AI-powered tool for ${categoryName.toLowerCase()}`,
+  popular: i < 5,
+}));
+---
+
+<BaseLayout title={`${categoryName} Tools | MarketingTool.Pro`}>
+  <Header slot="header" />
+  
+  <div class="pt-20 min-h-screen bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Back Button -->
+      <a href="/dashboard" class="inline-flex items-center text-blue-600 hover:text-blue-700 mb-6">
+        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+        </svg>
+        Back to Dashboard
+      </a>
+
+      <!-- Category Header -->
+      <div class="mb-12">
+        <h1 class="text-4xl font-bold text-gray-900 mb-4">{categoryName}</h1>
+        <p class="text-xl text-gray-600">{tools.length}+ powerful tools to enhance your {categoryName.toLowerCase()}</p>
+      </div>
+
+      <!-- Tools Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {tools.map((tool) => (
+          <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-xl transition-all duration-300 border-2 border-transparent hover:border-blue-500">
+            {tool.popular && (
+              <span class="inline-block bg-yellow-100 text-yellow-800 text-xs font-semibold px-2 py-1 rounded mb-3">
+                ⭐ Popular
+              </span>
+            )}
+            <h3 class="text-xl font-bold text-gray-900 mb-2">{tool.name}</h3>
+            <p class="text-gray-600 mb-4">{tool.description}</p>
+            <button 
+              class="w-full bg-blue-600 text-white py-2 px-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              onclick="alert('This tool would open in the Webflow extension. Install from webflow.com/apps')"
+            >
+              Launch Tool
+            </button>
+          </div>
+        ))}
+      </div>
+
+    </div>
+  </div>
+
+  <footer slot="footer" class="bg-gray-900 text-white py-12 px-4">
+    <div class="max-w-7xl mx-auto text-center">
+      <div class="mb-6">
+        <span class="text-2xl font-bold">MarketingTool.Pro</span>
+      </div>
+      <p class="text-gray-400 mb-4">Operated by Infinity Solutions</p>
+      <p class="text-gray-400 mb-6">Jaipur, Rajasthan, India 🇮🇳</p>
+    </div>
+  </footer>
+</BaseLayout>

@@ -1,0 +1,61 @@
+{
+  "manifestVersion": "1.0.0",
+  "id": "ai-marketing-tools-pro",
+  "name": "AI Marketing Tools Pro",
+  "shortDescription": "418+ AI-powered marketing tools in Webflow Designer",
+  "description": "Access 418+ AI marketing tools directly in Webflow Designer. Search, filter by category, and launch tools instantly. Includes Meta/Facebook Ads management, Google Ads optimization, SEO tools, content generation, social media automation, analytics, and bulk CMS content generation.",
+  "version": "1.0.0",
+  "author": "MarketingTool.Pro",
+  "authorEmail": "support@marketingtool.pro",
+  "authorUrl": "https://marketingtool.pro",
+  "categories": ["marketing", "productivity", "content", "analytics"],
+  "tags": ["ai", "marketing", "automation", "content-generation", "seo", "ppc", "facebook-ads", "google-ads", "meta-ads", "social-media", "analytics", "cms", "bulk-content", "email-marketing", "copywriting", "ads-optimization"],
+  "homepage": "https://marketingtool.pro",
+  "repository": "https://github.com/Lokeninfinitypoint/marketingtool-pro",
+  "support": {
+    "email": "support@marketingtool.pro",
+    "url": "https://marketingtool.pro/help-center"
+  },
+  "legal": {
+    "privacyPolicy": "https://marketingtool.pro/privacy",
+    "termsOfService": "https://marketingtool.pro/terms"
+  },
+  "pricing": [
+    {
+      "name": "Free",
+      "price": 0,
+      "currency": "USD",
+      "interval": "month",
+      "description": "Access all 418 tools with 10 uses per month, 10 CMS items, community support"
+    },
+    {
+      "name": "Pro",
+      "price": 49,
+      "currency": "USD",
+      "interval": "month",
+      "description": "Unlimited tool access, 1,000 CMS items per month, priority support, API access"
+    },
+    {
+      "name": "Enterprise",
+      "price": null,
+      "currency": "USD",
+      "interval": "month",
+      "description": "Unlimited everything, dedicated support, white-label option, custom integrations"
+    }
+  ],
+  "designerExtension": {
+    "entryPoint": "src/index.html",
+    "displayName": "AI Marketing Tools",
+    "description": "Access 418+ AI marketing tools directly in Webflow Designer. Search, filter by category, and launch tools instantly.",
+    "width": 400,
+    "height": 600,
+    "resizable": true,
+    "permissions": []
+  },
+  "dataClient": {
+    "entryPoint": "src/data-client.html",
+    "displayName": "AI Content Generator",
+    "description": "Bulk generate AI content into Webflow CMS. Create blog posts, product descriptions, and more at scale.",
+    "permissions": ["cms:write"]
+  }
+}
