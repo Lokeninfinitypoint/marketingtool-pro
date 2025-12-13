@@ -1,0 +1,64 @@
+version: '3.8'
+
+services:
+  # Next.js Application
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: marketingtool-dashboard
+    ports:
+      - "3001:3000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=file:./prisma/dev.db
+      - NEXTAUTH_SECRET=${NEXTAUTH_SECRET:-development-secret-change-in-production}
+      - NEXTAUTH_URL=${NEXTAUTH_URL:-http://localhost:3001}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    volumes:
+      - ./prisma:/app/prisma
+      - db-data:/app/prisma
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+  # PostgreSQL Database (for production)
+  postgres:
+    image: postgres:16-alpine
+    container_name: marketingtool-postgres
+    environment:
+      POSTGRES_USER: marketingtool
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      POSTGRES_DB: marketingtool
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+  # Nginx Reverse Proxy
+  nginx:
+    image: nginx:alpine
+    container_name: marketingtool-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - app
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+volumes:
+  db-data:
+  postgres-data:
+
+networks:
+  marketingtool-network:
+    driver: bridge
