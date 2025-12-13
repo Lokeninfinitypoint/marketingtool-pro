@@ -76,7 +76,7 @@
           </div>
         </div>
 
-        <!-- Resources Dropdown -->
+        <!-- Resources Dropdown (Blog) -->
         <div class="relative group">
           <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm font-medium">
             <span>Resources</span>
@@ -87,33 +87,79 @@
           <div class="absolute left-0 mt-2 w-56 bg-slate-900 border border-purple-500/20 rounded-xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
             <!-- Resources Header -->
             <div class="px-4 py-2 border-b border-gray-800">
-              <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">Learn & Support</p>
+              <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">Blog & Resources</p>
+            </div>
+
+            <a href="/blog" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">📰 All Articles</span>
+              <p class="text-xs text-gray-400 mt-0.5">Latest marketing insights</p>
+            </a>
+
+            <a href="/blog?category=ppc" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">🎯 PPC Advertising</span>
+              <p class="text-xs text-gray-400 mt-0.5">Meta & Google Ads guides</p>
+            </a>
+
+            <a href="/blog?category=seo" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">🔍 SEO Optimization</span>
+              <p class="text-xs text-gray-400 mt-0.5">Organic traffic strategies</p>
+            </a>
+
+            <a href="/blog?category=writing" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">✍️ Copywriting</span>
+              <p class="text-xs text-gray-400 mt-0.5">High-converting ad copy</p>
+            </a>
+
+            <a href="/blog?category=tools" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">🛠️ Marketing Tools</span>
+              <p class="text-xs text-gray-400 mt-0.5">Tool reviews & tutorials</p>
+            </a>
+          </div>
+        </div>
+
+        <!-- Company Dropdown -->
+        <div class="relative group">
+          <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm font-medium">
+            <span>Company</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-56 bg-slate-900 border border-purple-500/20 rounded-xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
+            <!-- Company Header -->
+            <div class="px-4 py-2 border-b border-gray-800">
+              <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">About & Support</p>
             </div>
 
             <a href="https://app.marketingtool.pro/help" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
               <span class="font-medium">📚 Help Center</span>
-              <p class="text-xs text-gray-400 mt-0.5">Guides & documentation</p>
-            </a>
-
-            <a href="/pricing" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
-              <span class="font-medium">💎 Pricing</span>
-              <p class="text-xs text-gray-400 mt-0.5">Plans & features</p>
-            </a>
-
-            <a href="/about" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
-              <span class="font-medium">🏢 About Us</span>
-              <p class="text-xs text-gray-400 mt-0.5">Our story & mission</p>
+              <p class="text-xs text-gray-400 mt-0.5">Unified tools documentation</p>
             </a>
 
             <a href="/changelog" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
               <span class="font-medium">📋 Changelog</span>
-              <p class="text-xs text-gray-400 mt-0.5">Latest updates</p>
+              <p class="text-xs text-gray-400 mt-0.5">Latest updates & features</p>
+            </a>
+
+            <a href="/affiliate" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">🤝 Affiliate Program</span>
+              <p class="text-xs text-gray-400 mt-0.5">Earn with MarketingTool</p>
+            </a>
+
+            <a href="/contact" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">✉️ Contact Us</span>
+              <p class="text-xs text-gray-400 mt-0.5">Get in touch</p>
+            </a>
+
+            <a href="/careers" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+              <span class="font-medium">💼 Careers</span>
+              <p class="text-xs text-gray-400 mt-0.5">Join our team</p>
             </a>
 
             <div class="border-t border-gray-800 mt-2 pt-2">
-              <a href="/contact" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
-                <span class="font-medium">✉️ Contact Us</span>
-                <p class="text-xs text-gray-400 mt-0.5">Get in touch</p>
+              <a href="/about" class="block px-4 py-2.5 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">
+                <span class="font-medium">🏢 About Us</span>
+                <p class="text-xs text-gray-400 mt-0.5">Our story & mission</p>
               </a>
             </div>
           </div>
@@ -123,14 +169,11 @@
 
       <!-- CTA Buttons -->
       <div class="flex items-center space-x-3">
-        <a href="/pricing" class="text-gray-300 hover:text-white transition-colors text-sm font-medium">
-          Pricing
+        <a href="https://app.marketingtool.pro/auth/signin" class="px-4 py-2 text-gray-300 hover:text-white transition-colors text-sm font-medium">
+          Sign In
         </a>
-        <a href="https://app.marketingtool.pro" class="px-6 py-2.5 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-lg hover:shadow-lg hover:shadow-purple-500/50 transition-all duration-200 text-sm font-semibold flex items-center gap-2">
-          Try Free
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
-          </svg>
+        <a href="https://app.marketingtool.pro/auth/signup" class="px-6 py-2.5 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-lg hover:shadow-lg hover:shadow-purple-500/50 transition-all duration-200 text-sm font-semibold">
+          Free Trial
         </a>
       </div>
     </div>
