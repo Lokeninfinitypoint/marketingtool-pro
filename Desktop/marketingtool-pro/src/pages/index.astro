@@ -8,8 +8,8 @@ import Footer from '../components/Footer.astro';
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MarketingTool.Pro - AI Business Growth Platform</title>
-  <meta name="description" content="Future-proof your business with AI automation. Streamline workflows, boost productivity, and stay ahead of the competition." />
+  <title>MarketingTool.Pro - AI-Powered Marketing Automation for Meta & Google Ads</title>
+  <meta name="description" content="The secret marketing automation platform top agencies use. Create, optimize, and scale ads across Meta, Google, and 418+ marketing tools with AI." />
   <link href="https://fonts.googleapis.com" rel="preconnect" />
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:regular,500,600%7CInter+Tight:regular,500%7CChivo+Mono:regular,500" />
@@ -23,10 +23,12 @@ import Footer from '../components/Footer.astro';
 
     html, body {
       font-family: 'DM Sans', 'Inter Tight', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #020202 0%, #2a0845 50%, #020202 100%);
+      background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 25%, #16213e 50%, #1a1a2e 75%, #0a0a0f 100%);
       color: #ffffff;
       line-height: 1.6;
       overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
 
     /* Hero V2 Section */
@@ -93,13 +95,18 @@ import Footer from '../components/Footer.astro';
 
     .rt-sub-text {
       font-size: 14px;
-      font-weight: 500;
-      letter-spacing: 1px;
+      font-weight: 600;
+      letter-spacing: 2px;
       text-transform: uppercase;
-      color: #fbbf24;
-      margin-bottom: 20px;
+      color: #515FBC;
+      margin-bottom: 24px;
       opacity: 0;
       animation: slideUp 0.8s ease forwards;
+      padding: 8px 20px;
+      background: rgba(81, 95, 188, 0.1);
+      border-radius: 30px;
+      display: inline-block;
+      border: 1px solid rgba(81, 95, 188, 0.3);
     }
 
     @keyframes slideUp {
@@ -114,16 +121,14 @@ import Footer from '../components/Footer.astro';
     }
 
     .rt-hero-v2-wrap h1 {
-      font-size: clamp(2.5rem, 8vw, 4.5rem);
-      font-weight: 700;
-      line-height: 1.2;
-      margin-bottom: 24px;
-      background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      font-weight: 800;
+      line-height: 1.15;
+      margin-bottom: 32px;
+      color: #ffffff;
       animation: slideUp 0.8s ease 0.1s forwards;
       opacity: 0;
+      text-shadow: 0 0 80px rgba(139, 92, 246, 0.5);
     }
 
     .rt-hero-v2-para-wrap {
@@ -144,6 +149,15 @@ import Footer from '../components/Footer.astro';
       margin-bottom: 60px;
       opacity: 0;
       animation: slideUp 0.8s ease 0.3s forwards;
+    }
+
+    /* Primary Colors - Madgicx/Omneky Style */
+    :root {
+      --primary-purple: #515FBC;
+      --primary-light: #917aff;
+      --primary-dark: #322996;
+      --accent-purple: #8b5cf6;
+      --accent-pink: #ec4899;
     }
 
     /* Button Styles */
@@ -949,20 +963,25 @@ import Footer from '../components/Footer.astro';
   <section class="rt-hero-v2 rt-position-relative">
     <div class="rt-hero-v2-main">
       <div class="rt-hero-v2-wrap">
-        <div class="rt-sub-text">[ AI business growth ]</div>
-        <h1>Future-proof your business with AI automation today</h1>
+        <div class="rt-sub-text">[ The Secret Platform Top Agencies Use ]</div>
+        <h1>AI-Powered Marketing Automation For <em style="font-style: italic; background: linear-gradient(135deg, #515FBC 0%, #917aff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Meta & Google Ads</em></h1>
         <div class="rt-hero-v2-para-wrap">
-          <p class="rt-no-margin">Empower growth and efficiency with AI automation—streamline workflows, boost productivity, and stay ahead of competition</p>
+          <p class="rt-no-margin">MarketingTool.Pro automates your advertising campaigns with AI — create, optimize, and scale ads across Meta, Google, and 418+ marketing tools. Save 10x the time while maximizing ROI.</p>
         </div>
         <div class="rt-hero-v2-button-wrap">
-          <a href="https://app.marketingtool.pro" class="rt-button rt-button-base">Launch Dashboard</a>
-          <div class="rt-hero-v2-client-wrap">
-            <div class="rt-hero-v2-client-img-wrap">
-              <div class="rt-hero-v2-client-image"></div>
-              <div class="rt-hero-v2-client-image"></div>
-              <div class="rt-hero-v2-client-image"></div>
-            </div>
-            <div class="rt-text-color-white">2000+ signups</div>
+          <a href="https://app.marketingtool.pro" class="rt-button rt-button-base" style="padding: 16px 48px; font-size: 18px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5);">Try For Free — No Credit Card</a>
+          <a href="https://app.marketingtool.pro/tools" class="rt-button rt-button-secondary" style="padding: 16px 48px; font-size: 18px; background: rgba(255,255,255,0.1); border: 2px solid rgba(139, 92, 246, 0.5);">Browse 418 Tools</a>
+        </div>
+
+        <!-- Trusted By Logos -->
+        <div style="margin-top: 80px; text-align: center;">
+          <p style="font-size: 14px; color: #94a3b8; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 30px;">Trusted By Marketing Teams Worldwide</p>
+          <div style="display: flex; justify-content: center; align-items: center; gap: 60px; flex-wrap: wrap; opacity: 0.7;">
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Coinbase</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Spotify</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Slack</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Dropbox</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Airbnb</div>
           </div>
         </div>
       </div>
