@@ -1,0 +1,126 @@
+---
+// Footer Component with Company Information
+---
+
+<footer class="bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 border-t border-purple-500/20">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <!-- Footer Content Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+      
+      <!-- Company Info -->
+      <div>
+        <h3 class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">
+          MarketingTool.Pro
+        </h3>
+        <p class="text-gray-400 text-sm mb-4">
+          Master 418+ AI marketing tools in one unified platform.
+        </p>
+        <div class="space-y-2 text-sm text-gray-400">
+          <p><strong>Email:</strong> help@marketingtool.pro</p>
+          <p><strong>Phone:</strong> +1-855-574-2506</p>
+          <p><strong>Address:</strong> F-12 Govindam Tower, Jaipur 302012, India</p>
+        </div>
+      </div>
+
+      <!-- Product Links -->
+      <div>
+        <h4 class="text-white font-semibold mb-6">Product</h4>
+        <ul class="space-y-3 text-sm text-gray-400">
+          <li><a href="https://app.marketingtool.pro" class="hover:text-purple-400 transition-colors">Dashboard</a></li>
+          <li><a href="https://app.marketingtool.pro/tools" class="hover:text-purple-400 transition-colors">All 418 Tools</a></li>
+          <li><a href="https://app.marketingtool.pro/help" class="hover:text-purple-400 transition-colors">Help Center</a></li>
+          <li><a href="https://app.marketingtool.pro/ai/content-generator" class="hover:text-purple-400 transition-colors">AI Tools</a></li>
+        </ul>
+      </div>
+
+      <!-- Resources Links -->
+      <div>
+        <h4 class="text-white font-semibold mb-6">Resources</h4>
+        <ul class="space-y-3 text-sm text-gray-400">
+          <li><a href="/about" class="hover:text-purple-400 transition-colors">About Us</a></li>
+          <li><a href="/pricing" class="hover:text-purple-400 transition-colors">Pricing</a></li>
+          <li><a href="/faq" class="hover:text-purple-400 transition-colors">FAQ</a></li>
+          <li><a href="/contact" class="hover:text-purple-400 transition-colors">Contact</a></li>
+        </ul>
+      </div>
+
+      <!-- Legal Links -->
+      <div>
+        <h4 class="text-white font-semibold mb-6">Legal</h4>
+        <ul class="space-y-3 text-sm text-gray-400">
+          <li><a href="#" class="hover:text-purple-400 transition-colors">Privacy Policy</a></li>
+          <li><a href="#" class="hover:text-purple-400 transition-colors">Terms of Service</a></li>
+          <li><a href="#" class="hover:text-purple-400 transition-colors">Cookie Policy</a></li>
+          <li><a href="#" class="hover:text-purple-400 transition-colors">Security</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Divider -->
+    <div class="border-t border-purple-500/20 py-8 mb-8"></div>
+
+    <!-- Bottom Footer -->
+    <div class="flex flex-col md:flex-row justify-between items-center">
+      <!-- Copyright & Credentials -->
+      <div class="text-sm text-gray-400 mb-6 md:mb-0">
+        <p>© 2025 MarketingTool.Pro. All rights reserved.</p>
+        <p class="mt-2 text-xs text-gray-500">
+          <strong>Registration:</strong> 08AAUFC7776R1Z2 | <strong>Certificate:</strong> RJ-17-0526261
+        </p>
+      </div>
+
+      <!-- Social Links -->
+      <div class="flex gap-6">
+        <a href="#" class="text-gray-400 hover:text-purple-400 transition-colors" title="Twitter">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2s9 5 20 5a9.5 9.5 0 00-9-5.5c4.75 2.25 9-1 9-5.6.01-.23.015-.465 0-.69a7.55 7.55 0 002-3.74z"></path>
+          </svg>
+        </a>
+        <a href="#" class="text-gray-400 hover:text-purple-400 transition-colors" title="LinkedIn">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
+          </svg>
+        </a>
+        <a href="#" class="text-gray-400 hover:text-purple-400 transition-colors" title="Facebook">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M18 2h-3a6 6 0 00-6 6v3H7v4h2v8h4v-8h3l1-4h-4V8a2 2 0 012-2h3z"></path>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scroll to Top Button -->
+  <button 
+    id="scrollToTop" 
+    class="fixed bottom-8 right-8 bg-gradient-to-r from-purple-500 to-pink-500 text-white p-3 rounded-full shadow-lg hover:shadow-2xl transition-all opacity-0 pointer-events-none"
+    title="Back to top"
+  >
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"></path>
+    </svg>
+  </button>
+</footer>
+
+<style>
+  :global(body) {
+    scroll-behavior: smooth;
+  }
+</style>
+
+<script>
+  // Scroll to top functionality
+  const scrollButton = document.getElementById('scrollToTop');
+  
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      scrollButton.classList.remove('opacity-0', 'pointer-events-none');
+    } else {
+      scrollButton.classList.add('opacity-0', 'pointer-events-none');
+    }
+  });
+
+  scrollButton?.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>

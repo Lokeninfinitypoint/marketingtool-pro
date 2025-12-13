@@ -1,0 +1,102 @@
+---
+// Main Navigation Header Component - MarketingTool Pro Template
+---
+
+<header class="sticky top-0 z-50 w-full bg-gradient-to-r from-slate-950 via-purple-950 to-slate-950 border-b border-purple-500/10 backdrop-blur-md">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      
+      <!-- Logo -->
+      <a href="/" class="flex items-center space-x-2">
+        <div class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+          MarketingTool Pro
+        </div>
+      </a>
+
+      <!-- Navigation Menu -->
+      <nav class="hidden md:flex items-center space-x-1">
+
+        <!-- Home -->
+        <a href="/" class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors text-sm">
+          Home
+        </a>
+
+        <!-- Dashboard -->
+        <a href="https://app.marketingtool.pro" class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors text-sm">
+          Dashboard
+        </a>
+
+        <!-- Services Dropdown -->
+        <div class="relative group">
+          <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm">
+            <span>Services</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-48 bg-slate-900 border border-purple-500/20 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
+            <a href="https://app.marketingtool.pro/tools" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">All Tools</a>
+            <a href="https://app.marketingtool.pro/help" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Help Center</a>
+            <a href="https://app.marketingtool.pro/ai/content-generator" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">AI Tools</a>
+          </div>
+        </div>
+
+        <!-- Resources Dropdown -->
+        <div class="relative group">
+          <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm">
+            <span>Resources</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-48 bg-slate-900 border border-purple-500/20 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
+            <a href="/about" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">About Us</a>
+            <a href="/pricing" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Price</a>
+          </div>
+        </div>
+
+        <!-- Blog Dropdown -->
+        <div class="relative group">
+          <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm">
+            <span>Blog</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-48 bg-slate-900 border border-purple-500/20 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
+            <a href="/blog" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">All Posts</a>
+            <a href="/blog" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Marketing</a>
+            <a href="/blog" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Tips & Tricks</a>
+          </div>
+        </div>
+
+        <!-- Company Dropdown -->
+        <div class="relative group">
+          <button class="px-4 py-2 rounded-lg text-gray-300 hover:text-white hover:bg-white/5 transition-colors flex items-center space-x-1 text-sm">
+            <span>Company</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+            </svg>
+          </button>
+          <div class="absolute left-0 mt-2 w-48 bg-slate-900 border border-purple-500/20 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 py-2">
+            <a href="/careers" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Careers</a>
+            <a href="/changelog" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Changelog</a>
+            <a href="/affiliate" class="block px-4 py-2 text-gray-300 hover:text-white hover:bg-purple-600/20 transition-colors text-sm">Affiliate</a>
+          </div>
+        </div>
+
+      </nav>
+
+      <!-- CTA Buttons -->
+      <div class="flex items-center space-x-3">
+        <a href="https://app.marketingtool.pro/tools" class="text-gray-300 hover:text-white transition-colors text-sm font-medium">
+          Browse 418 Tools
+        </a>
+        <a href="https://app.marketingtool.pro" class="px-6 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:shadow-lg hover:shadow-purple-500/50 transition-all duration-200 text-sm font-semibold">
+          Launch Dashboard
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
