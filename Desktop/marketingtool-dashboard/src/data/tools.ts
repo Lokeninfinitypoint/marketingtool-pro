@@ -103,7 +103,7 @@ export const marketingTools = getAllTools();
 export const categories = Object.keys(toolsDatabase);
 
 export function getToolsByCategory(category: string) {
-  return toolsDatabase[category] || [];
+  return toolsDatabase[category as keyof typeof toolsDatabase] || [];
 }
 
 export function getAllTools() {
