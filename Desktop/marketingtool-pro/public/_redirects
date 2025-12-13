@@ -1,0 +1,11 @@
+# Netlify/Vercel Redirects for MarketingTool.Pro
+
+# Remove old Upstart theme pages
+/elements/* / 301
+/elements / 301
+
+# Redirect old URLs (if any)
+/upstart/* / 301
+
+# Ensure clean URLs
+/index.html / 301
