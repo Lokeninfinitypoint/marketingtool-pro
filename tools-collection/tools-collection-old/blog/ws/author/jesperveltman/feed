@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jesper Veltman, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jesperveltman/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 31 Aug 2022 22:09:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jesper Veltman, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5 Crafty Ways to Split Test Your Google Shopping Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2022/07/20/google-shopping-ab-testing</link>
+		
+		<dc:creator><![CDATA[Jesper Veltman]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2022 14:57:01 +0000</pubDate>
+				<category><![CDATA[Ecommerce Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=62887</guid>
+
+					<description><![CDATA[<p>No built-in A/B testing feature in Google Ads for Shopping campaigns? No problem.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/07/20/google-shopping-ab-testing">5 Crafty Ways to Split Test Your Google Shopping Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the best ways to increase your profitability? A/B split testing. Google Ads has a feature called the Experiments where you can create custom experiments for your campaigns and compare how your test group performs against your original campaigns (control group) over time.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-testing-experiments.png" alt="google ads experiments tab" width="720" height="284" class="aligncenter size-full wp-image-62893" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-testing-experiments.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-testing-experiments-480x189.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Only problem is, this is only available for Search and Display campaigns. Not for Shopping. Luckily, I’ve come up with five ways you can test multiple variations of your Shopping campaigns, which is what we&#8217;ll be diving into in this post.</p>
+<h2>How to A/B test product information</h2>
+<p>A/B testing product information like titles, images, or extensions can be useful for <a href="https://www.wordstream.com/blog/ws/2019/02/18/google-shopping-feed">optimizing your product feed</a></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-testing-product-copy.png" alt="google shopping ab testing product copy" width="448" height="431" class="aligncenter wp-image-62890" /></p>
+<p>This can be done in the set-up of your feed, either via a feed management tool or manually in Google Merchant Center. Once you&#8217;ve decided what you want to test, you’ll need to create equal groups of products. This can be done in several ways, I mainly use the following two methods:</p>
+<h3>1. The cluster analysis method</h3>
+<p>With a cluster analysis you’ll divide based on historical performance (e.g., dividing your products into equal groups based on metrics like clicks, revenue, costs, and conversion value). You can do this via spreadsheet for smaller datasets or in R (or other programming languages) for larger datasets.</p>
+<h3>2. The random split method</h3>
+<p>A random split can be done based on the ID of your product. For example, if you use numeric values as product IDs, you can assign group A to all even numbers and B to all uneven numbers.</p>
+<p>The most important thing while splitting your products is to make sure that all groups of your experiment have an equal number of products and that your key metrics are also very close.</p>
+<p>Once you&#8217;ve made the split, make the changes to the product IDs in your test group. Make sure you&#8217;re able to report on all of your product IDs and corresponding groups. This way you can analyze them and find winners. Below you can find an example of how this would look in your feed.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-test-experiment-setup.png" alt="google shopping a/b testing - title experiment setup" width="720" height="438" class="aligncenter size-full wp-image-62891" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-test-experiment-setup.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-ab-test-experiment-setup-480x292.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h2>How to A/B test campaign settings</h2>
+<p>If you want to split test campaign settings like <a href="https://www.wordstream.com/blog/ws/2022/03/02/target-roas">ROAS</a>, targeting, or different campaign types, you’ll need to make splits based on something other than product IDs. Ideally, you&#8217;ll want to offer the same products in both your control and test groups because performance can vary by product. There are three different splits you can make to test your settings. Just like the test set-up on product content, creating equal groups is key. With all methods, you need to do the data cluster analysis yourself. Create two or more equal groups and analyze based on the differences.</p>
+<h3>3. The Customer Match split method</h3>
+<p>With Customer Match, you can target <a href="https://www.wordstream.com/blog/ws/2021/04/12/first-party-data">first-party</a> audiences in Google Ads. It works by uploading a list of email addresses from your existing database that you want to target, and Google will match those email addresses to Google accounts.</p>
+<h4>How to do it</h4>
+<p>If you’re using Customer Match, you should be able to create a cookie split in your CRM software.  Then you can create two different campaigns using two different Google Customer Match Audiences. Change the setting that you want to test in your test campaign, and keep everything else the same in your control campaign. And that&#8217;s it.</p>
+<p><strong>Note: </strong>If you’re using Customer Match, make sure you have a third campaign running for all potential customers that are not inside of your database. This way you don’t lose any potential conversions.</p>
+<p><a href="https://www.wordstream.com/wp-content/uploads/2022/07/google-customer-match-google-shopping-upload-list.webp"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-customer-match-google-shopping-upload-list.webp" alt="google ads customer match setup" width="670" height="389" class="aligncenter size-full wp-image-62894" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-customer-match-google-shopping-upload-list.webp 670w, https://www.wordstream.com/wp-content/uploads/2022/07/google-customer-match-google-shopping-upload-list-480x279.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 670px, 100vw" /></a></p>
+<p style="text-align: center;"><em><a href="https://www.datafeedwatch.com/blog/attract-past-buyers-customer-match-google-shopping-campaigns" target="_blank" rel="noopener">Image source</a></em></p>
+<h4>Pros</h4>
+<ul>
+<li>Random split: By splitting cookies you actually have a random split which is often used in other A/B tests.</li>
+<li>Reliable data: Because of the random split, the results are reliable and reproducible.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Hard to implement: Not every advertiser has the resources to implement Customer Match or make the random split in their CRM.</li>
+<li>Not 100% complete: This experiment only applies to existing customers in your database. That means the results aren’t valid for new potential customers.</li>
+</ul>
+<h3>4. The geo split test method</h3>
+<p>Geo splits are often used to find incremental uplifts in campaigns. This could answer questions like: Is there incremental value in <a href="https://www.wordstream.com/blog/ws/2015/06/12/bidding-on-competitor-brands">advertising on branded keywords</a>?</p>
+<h4>How to do it</h4>
+<p>In a geo test, a market is divided into smaller geographical regions called geos. Each geo gets assigned either a control or a test group. Users in the test geos are exposed to the changed campaigns while users in the control geos are served the control campaigns. The split can be done on country or region, as long as both regional groups are highly correlated. You&#8217;ll need to use the cluster anaysis to determine your groups.</p>
+<h4>Pros</h4>
+<ul>
+<li>Easy to set up: Everyone with a <a href="https://www.wordstream.com/how-to-use-google-adwords">bit of Google Ads experience</a> can set this up.</li>
+<li>Reliable: Since we split the same campaigns, seasonality cannot be an influence.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Behavior can vary widely by geo. It’s essential to have two highly correlated groups. Also, seasonality can differ by geo-location. It’s not ideal to compare Alaska with Texas if you sell outdoor gear.</li>
+<li>Somewhat hard to prepare: Cluster analysis on <a href="https://www.wordstream.com/blog/ws/2021/07/07/google-ads-geotargeting">location targeting</a> can be tricky when dealing with smaller geo-locations.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-geo-test-setup.png" alt="google shopping a/b testing - geo experiment setup" width="720" height="440" class="aligncenter size-full wp-image-62892" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-geo-test-setup.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-geo-test-setup-480x293.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /><a href="https://www.peak.express"></a></p>
+<h3>5. The campaign split method</h3>
+<p>In a campaign split, you simply divide your campaigns or accounts into two highly correlated groups. Both groups need to have an equal number of key metrics like clicks, conversions, and costs.</p>
+<h4>How to do it</h4>
+<p>In one group of campaigns (test group), you make the changes while in the control group your current best practices will serve. If you label and track the different groups of campaigns, you can tell something about the differences in performance.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-bidding-options.png" alt="google shopping bidding options" width="720" height="365" class="aligncenter size-full wp-image-62910" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-bidding-options.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/google-shopping-bidding-options-480x243.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em>Budget and bidding strategy are two settings you could test.</em></p>
+<h4>Pros</h4>
+<ul>
+<li>Very easy to set up: You only need to change settings in half of your campaigns and that’s it.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li>Least reliable: Seasonality can play a part in different campaigns, especially if your campaigns are divided by product category (have you tried the <a href="https://www.wordstream.com/blog/ws/2021/08/25/google-shopping-ads-priority-bidding-structure">priority bidding campaign structure</a>?).</li>
+<li>Preparation can be hard: Cluster analysis on campaign groups can be hard when dealing with smaller sets of campaigns and data.</li>
+</ul>
+<h2>Final thoughts</h2>
+<p>That’s it! Five different ways to run A/B tests for your Google Shopping ads:</p>
+<ol>
+<li>Test product feed attributes, creating groups with a cluster analysis.</li>
+<li>Test product feed attributes, creating groups with a random split.</li>
+<li>Test campaign settings with Customer Match groups.</li>
+<li>Test campaign settings with geos.</li>
+<li>Test campaign settings with campaign groups</li>
+</ol>
+<p>&nbsp;</p>
+<p>The quality of the outcome is dependent on the quality of your preliminary (cluster) analysis and setup. What you get out is what you put in. Hopefully this helps you with the optimization of your Google Shopping campaigns. If you try any of these methods, share the results in the comments! For now, have a wonderful day and keep optimizing!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/07/20/google-shopping-ab-testing">5 Crafty Ways to Split Test Your Google Shopping Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

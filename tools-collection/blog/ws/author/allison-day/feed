@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Allison Day, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/allison-day/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 26 Nov 2021 05:38:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Allison Day, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>6 Easy Steps to Get Your Google Ads Ready for 2020</title>
+		<link>https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready#respond</comments>
+		
+		<dc:creator><![CDATA[Allison Day]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready/</guid>
+
+					<description><![CDATA[<p>The new year is the perfect time to refresh your Google Ads account. In this guide, we share six easy steps to get your Google Ads account ready, including revisiting your list of KPIs, trying manual bidding, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready">6 Easy Steps to Get Your Google Ads Ready for 2020</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Even the most sophisticated Google Ads accounts need a good clean-up every once in a while. And what better time to do so than the new year!?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="beb2be90-0429-4cbf-bf63-c1a2e417247a" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-account-ready-intro.jpg" alt="2019 to 2020 cliff jump image" width="768" height="496" /></div>
+</article>
+</div>
+<p>In this guide, I’m going to walk you through the steps you need to give your Google Ads account a quick refresh for the new year. And after you go through these steps once, you’ll realize that it really doesn’t take too long to give your account a good gut check. It might even be a good idea to even go through these steps monthly. With the increased results and decreased wasted spend that comes from this exercise, you’ll realize that it is 100% worth your time!</p>
+<h2>A quick quality reminder</h2>
+<p>Before we get into the six steps, I just want to remind you that one thing to ALWAYS aim for is a high Quality Score. If you’re not already aware, a high Quality Score improves your ads’ chances of being shown and decreases the amount you’ll need to bid on them.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a8b19874-3d25-493d-9964-ffabbc2ae565" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/relevance-plus-user-experience-equals-quality-score.png" alt="What Is Quality Score?" width="504" height="126" /></div>
+</article>
+</div>
+<h2>1. Come up with a list of KPIs (if you don’t have one already)</h2>
+<p>Your Google Ads key performance indicators, or KPIs, are the metrics that you use to determine how successful you consider your Google Ads to be. Every business has different KPIs depending on what they’re looking to gain from Google Ads. For example, if your main goal is to get traffic to your website, some of your KPIs would likely include clicks and click-through-rate (CTR). Or, if your priority is content downloads, some KPIs would include conversions, conversion rate, and cost per conversion (AKA cost per action, or CPA).</p>
+<p>So, as long as you know what your goals are from Google Ads, you’ll be able to come up with a list of KPIs.</p>
+<p><strong><em>Still not sure what your KPIs are? WordStream’s <a href="https://www.wordstream.com/google-adwords" target="_blank" rel="noopener">Google Ads Grader</a> can help you determine where to focus.</em></strong></p>
+<p><strong>Pro tip:</strong> Create a saved set of columns that show metrics you care most about (KPIs). When viewing any set of data (campaigns, ad groups, ads, etc.) you’ll see a “columns” button at the top left of the chart. Click on that and select “Modify columns.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="36a7d624-b5cf-4556-a7d9-7dd3b9fa2299" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-columns.jpg" alt="Google Ads account &quot;Columns&quot; option" width="700" height="70" /></div>
+</article>
+</div>
+<p>Here’s where you’ll make sure your KPIs are selected, as well as any other metrics that matter to you.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="13ff014f-8d4d-42a5-8a4b-2190a1f04528" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-modify-columns.jpg" alt="Google Ads account &quot;Modify Columns&quot; option" width="732" height="476" /></div>
+</article>
+</div>
+<p>Once you have the columns configured how you like, save the columns set and give it a name.</p>
+<h2>2. Identify KPIs that are low performing</h2>
+<p>In order to have a number to aim for (and know when something’s not right), you’ll need to think about the value a given action is worth to your business. For example, if someone downloads your content, what value does that bring to your business? And how much are you willing to pay for it? The number that comes to mind is your target CPA.</p>
+<p>Other than CPA, other common KPIs include quality score, CTR, conversion rate, and impression share. You may just strive to continuously improve some of these metrics based on historical data, rather than have a specific number to constantly aim for. Nevertheless, it’s important to check up on them.</p>
+<p>If you’re struggling to come up with benchmarks to aim for, it can be helpful to take a look at <a href="https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks">averages for competitors in your industry</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8d7fdd71-9c6a-433b-aabd-5bcc4e1614b4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-industry-benchmarks-average-ctr.png" alt="average ctr in adwords" width="800" height="912" /></div>
+</article>
+</div>
+<p>It is important to keep in mind that, depending on what you’re promoting, your benchmarks may differ. For example, if one campaign is promoting a content download, and another is promoting a demo request, then the campaign with a demo request is likely more valuable and has a higher average CPA. These two actions may both be considered “conversions,” so it can be helpful to track KPIs on a campaign-by-campaign basis.</p>
+<h3>So you’ve identified KPIs that are off, now what?</h3>
+<p>In the rest of this post, I’ll go through actions you can take to improve the overall performance of your account. But there are certain ways to make improvements to specific pain points in your account.</p>
+<p><strong>If your CTR is low, you’ll want to work on your ad copy</strong></p>
+<p>If everything looks pretty good in your account but your CTR is super low, it’s most likely because your ad copy is not resonating with your audience. Work on that!</p>
+<p><strong>For a low conversion rate, work on landing pages</strong></p>
+<p>So users are clicking on your ads and landing on your landing pages, but  then they’re not converting. Likely, you need to brush up on your landing pages.</p>
+<p>Other solutions aren’t quite as obvious as these—read on.</p>
+<h2>3. <strong>Revisit your bidding strategy</strong></h2>
+<p>As you may know, there are two main categories of bid strategies on Google Ads: manual bidding and automated bidding.</p>
+<p>Bid strategies are controlled on the campaign level. To switch, click on “Settings” under any campaign. Under “Bidding,” click on “Change bid strategy.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9364bdf2-ac04-4aba-8f7d-1fc03018e16f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-manual-bidding.jpg" alt="Google Ads account &quot;Manual bidding&quot; option" width="724" height="185" /></div>
+</article>
+</div>
+<p>Once you click, you’ll see the following options:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4cc1b8cf-2bc6-41c6-8a02-405ae1e08916" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-manual-cpc-bidding.jpg" alt="&quot;Manual CPC&quot; in list of bidding strategies" width="239" height="335" /></div>
+</article>
+</div>
+<p>There are pros and cons to both automated and manual bidding, and I wouldn’t recommend knocking either strategy until you’ve tried it. Better yet, you don’t need to use the same bid strategy across all campaigns in your account.</p>
+<p>An <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">automated bidding</a> strategy is less time-consuming. With this bidding strategy, you’ll need to let Google know what you want to focus on: conversions, conversion value, clicks, or impression share. Once you select an options, you’ll be prompted to fill out some information on your target or maximum spend based on, whichever goal you’re focusing on. From there, you’re trusting the Google algorithm to adjust bids for you based on their performance predictions.</p>
+<p>On the other hand, with manual bidding, you have the ability to decide yourself which ad groups and keywords you’d like to adjust bids on based on your own analysis of their performance. Therefore, this option gives you increased control over your bids. So, your decision on which bid strategy to use ultimately comes down to how much time and effort you’re willing to spend on bidding, and how much control you wish to have over your bids.</p>
+<h2>4. Add some negative keywords</h2>
+<p>Adding negative keywords is one of the easiest ways to eliminate wasted spend within your Google Ads account. Because the search terms that result in your ad being shown are constantly changing, it’s important to look through them, pick out the super irrelevant ones, and add those as negative keywords. You may want to consider having negative keyword lists for each campaign, as well as a keyword list for your entire account.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="29362b98-ead1-4a4f-b0cd-8542060e9168" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-negative-keywords.jpg" alt="negative keyword selected in Google Ads account" width="643" height="52" /></div>
+</article>
+</div>
+<p><strong>Pro tip</strong>: If one topic in particular is commonly showing up in your search terms and is not relevant to the ads it’s showing for but is relevant to your business, consider creating a new campaign/ad group for that topic.</p>
+<h2>5. Add a retargeting audience</h2>
+<p>As long as your site is tagged with <a href="https://www.wordstream.com/blog/ws/2018/02/21/adwords-event-tracking">Google’s tracking pixel</a>, and your website gets enough traffic to meet Google’s requirements, you should be able to refresh your Google Ads account by adding retargeting audience.</p>
+<p>A retargeting audience shows your ads to users that have previously visited your website. These audiences are configured at a campaign level.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c4f777d5-735c-4a93-968d-883d0055b1b7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-remarketing-elf.jpg" alt="Elf remarketing gif" width="433" height="266" /></div>
+</article>
+</div>
+<p>It’s always a good idea to come up with creative ways to retarget your website visitors—this is an easy way to reach users who have already shown interest in your brand, product, or services. As in, you’re working with a warmer audience who is more likely to convert. <a href="https://www.wordstream.com/blog/ws/2016/04/13/retargeting-ad-ideas">Remarketing campaigns</a> often work well with display ads, but it’s also great to use this tactic for search campaigns—try it out.</p>
+<h2>6. Make bid adjustments on devices</h2>
+<p>A great way to control your bidding is by making bid adjustments on devices based on their performance. This is controlled on the campaign or ad group level. Device settings can be adjusted by navigating to a campaign and clicking on “Devices.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="838a0eb5-9911-4426-8f88-a5ed4111c99c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/get-google-ads-account-ready-device-bid-adjustments.jpg" alt="options for device bid adjustments per campaigns" width="299" height="275" /></div>
+</article>
+</div>
+<p>Be sure that your columns are configured to show your KPIs (remember those, all the way back in Step 1?) and compare performance data for each device. Then, increase or decrease your bids accordingly. For example, if mobile devices have a <a href="https://www.wordstream.com/blog/ws/2018/08/13/google-ads-mobile-benchmarks">lower CPC</a> and higher conversion rate than computers, you’ll want to either increase your bid on mobile devices or decrease your bid on computers.</p>
+<h2>Remember to take notes!</h2>
+<p>By following these six steps, you’re sure to kick off the new year with a high-performing Google Ads account that helps you reach your business goals! When making lots of changes in your account, it’s important to make sure you’re keeping close tabs on the areas where the changes have been implemented. If you have a fairly large Google Ads account, it is a good idea to pick three or four campaigns to check on at once to avoid getting overwhelmed. Either way, I’d suggest creating some type of document and choosing your first three to analyze and collect notes on. I like to use Google Sheets, as Google Ads allows you to export data and provides Google Sheets as an option to export to.</p>
+<p>By taking notes and starting with a few campaigns, you can evaluate whether the new strategy is working or not and make adjustments accordingly. Happy 2020!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready">6 Easy Steps to Get Your Google Ads Ready for 2020</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/12/30/get-your-google-ads-ready/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

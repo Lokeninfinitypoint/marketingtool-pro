@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mike Emiliani, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/mike-emiliani/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 25 Mar 2024 21:03:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Mike Emiliani, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Layer Audiences &#038; Keywords to Uncover Cheaper Clicks</title>
+		<link>https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Emiliani]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords/</guid>
+
+					<description><![CDATA[<p>If you're looking for better Google Ads targeting, you need to try combining audiences and keywords. Here's how!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords">How to Layer Audiences &amp; Keywords to Uncover Cheaper Clicks</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There are <a href="https://searchengineland.com/the-most-critical-google-ads-adwords-trends-of-2019-310766">more advertisers using PPC platforms</a> than ever before, which can drive up costs per click and make it harder for advertisers with smaller budgets to see quality results. The days of cheap clicks and cheap leads on Facebook Ads and Instagram Ads are <a href="https://www.falcon.io/insights-hub/topics/social-media-roi/how-much-do-ads-cost-on-facebook-instagram-twitter-and-linkedin-in-2018/">coming to a close</a>. For some industries, SEO is changing so rapidly and dramatically that the solution might be a <a href="https://www.bloomberg.com/news/articles/2019-11-08/google-s-search-ad-embrace-crushes-online-travel-agents">new PPC strategy</a>.</p>
+<p>And if you’re a marketing manager or a small business owner trying to get more business for the same amount of budget as last year, you’ve got a substantial challenge. CPCs have risen year over year, making it harder to deliver those results.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6f4a43ab-f8db-477b-9b7e-034400983425" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-cpc-growth.jpg" alt="CPC growth bar graph" width="498" height="280" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Image via Search Engine Land.</em></p>
+<p>This sounds pretty doom and gloom, but don’t worry. I’m going to share a relatively safe, targeted, cost-effective solution for growth in an increasingly competitive search marketing landscape: layering <a href="https://www.wordstream.com/blog/content-distribution">audiences</a> and keywords.</p>
+<p>Let’s get started.</p>
+<h2>A refresher on audiences</h2>
+<p>Audiences are, at their core, segments of traffic or users that fit specific criteria. In Google Ads, there are many types of <a href="https://www.wordstream.com/blog/ws/2012/02/02/google-adwords-audience">audiences</a> that you can use to make your targeting more effective and your campaigns more successful. Here are a few <a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">Google audience targeting options</a>:</p>
+<ul>
+<li><strong>Remarketing Lists</strong>: Lists of users based on traffic that meets a certain criteria on your own website (visited but didn’t arrive at a particular page, visited a combination of pages, users who arrived at a confirmation page, etc.).</li>
+<li><strong>In-Market Audiences</strong>: Users actively researching, comparing and/or shopping for goods and services of a particular type.</li>
+<li><strong>Affinity Audiences</strong>: People who match a “holistic picture of their lifestyles, passions, and habits.”</li>
+<li><strong>Detailed Demographics:</strong> Users who match a particular trait including student, homeowner, engaged, and more.</li>
+<li><strong>Similar Audiences</strong>: Lists generated based on eligible remarketing list or customer list.</li>
+<li><strong>Customer Lists</strong>: Lists of email addresses, addresses, or phone numbers from a third-party data source like a customer relationship management tool or marketing platform like Hubspot, Salesforce, or Marketo.</li>
+<li><strong>Life Events:</strong> Users who have achieved or are in the process of achieving a significant life event including marriage, engagement, recently purchased a home and others.</li>
+<li><strong>Custom Intent &amp; Custom Affinity</strong>: Lists of audiences based on intent or likely intent, sometimes based on keywords (more on this one soon).</li>
+</ul>
+<p>Each of these types of audiences serves a different purpose in a digital marketing plan, and most can be used in both search and display. Some, however, can only be used in one or the other. Regardless, all of these <a href="https://www.wordstream.com/blog/ws/2012/02/02/google-adwords-audience">Google Ads audiences</a> shed valuable light onto who exactly is visiting your website, who is (and who isn’t) converting, and oftentimes at what rate and what cost.</p>
+<p>But not all of these audiences help you make the most out of your targeting, which brings me to my next point.</p>
+<h2>Combining audiences and keywords</h2>
+<p>You’re probably already using audiences with <a href="https://www.wordstream.com/blog/ws/2015/03/12/remarketing-lists-for-search-ads">remarketing campaigns</a> or observations in Google Analytics. That’s great—but you can do so much more for your account. Specifically, you can <strong>layer audiences on top of keywords for better targeting—and better results</strong>. This is an effective way to find who is both proactively searching for a particular good or service <em>and</em> in a higher stage of readiness to buy than someone else.</p>
+<p>Consider this example. You, the advertiser, are an orthodontist offering services for Invisalign, the clear retainer. You only want to target 20 miles around your practice, not, say, the whole state of Massachusetts. So you go ahead and set up a campaign, assign it a budget and call it “Invisalign” and pack it full of Invisalign-related keywords: “Invisalign cost,” “Invisalign near me,” “Invisalign,” and others.</p>
+<p>You come to find that the cost per click in this very local targeting is, on average, $10 dollars per click. That’s pretty expensive. Then, your <a href="https://www.wordstream.com/blog/ws/2018/09/06/incredibly-useful-google-ads-features">Auction Insights</a> reveal that you’re bidding against a whole range of advertisers. That explains why it’s so pricey.</p>
+<p>Some include more prominent dentist office chains that have substantially more budget to spend than you, the digitally-savvy competitor orthodontist office with a dedicated marketer on staff, and a litany of dentists and orthodontists in 20 miles who are all bidding on “Invisalign” with all range of bids.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="aeae455e-c14e-4a40-982f-114faf2fbcff" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-invisalign-google-ad.jpg" alt="example Google ad for Invisalign" width="624" height="207" /></div>
+</article>
+</div>
+<p>It’s a lot of competition you’re against, even though you’re spending a lot, you’re finding it hard to make an impact and get qualified individuals in the door for an appointment.</p>
+<p>How do you get qualified business without spending more money?</p>
+<p>The difference between bidding on, for example, “Invisalign’” and bidding on “Invisalign” in a campaign that’s only targeting dating services is subtle.</p>
+<p>The former is leaving you open to have anyone typing in “Invisalign” and clicking your ad. It could be someone that is overtly looking for Invisalign; it could be someone with no intention of picking a provider; it could be someone that accidentally clicked your ad and everything between all of those options. The point is that you paid at least $10 for that click regardless of the user’s action.</p>
+<p>By layering on the keyword “Invisalign” onto a campaign targeting a dating services audience, ads for that keyword are only being shown to people that are <em>in</em> that targeted audience.</p>
+<p>Think of this method as a Venn diagram where audience is on one side and keywords are on the other:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e6706b1d-6221-4675-bed7-4275dc77d034" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-invisalign-venn-diagram.jpg" alt="dating services and invisalign Venn diagram" width="624" height="351" /></div>
+</article>
+</div>
+<p>The intersection of the two circles is the group of users who will see your ads—a significantly reduced portion of potential users but substantially more qualified users compared to simply bidding on the keyword itself.</p>
+<p>Why choose dating services for the audience? Why not choose something else like business services or the <a href="https://www.wordstream.com/blog/ws/2018/08/23/custom-affinity-audiences">affinity audience</a> home decor?</p>
+<p>You can choose any audience with this technique. The underlying idea is who in these audience buckets, first, are most likely searching this term.</p>
+<p>With dating services, the logic is that if someone is not too far away from hitting the dating scene, they’ll be more committed to improving their smile.</p>
+<p>Business services, for example, could be another In-Market Audience to layer with “Invisalign” and you might see some success with. The results of this are ultimately contingent on the question: How many people in-market for business services are looking for Invisalign?</p>
+<p>Either way, by layering keywords with audience targeting, you’ll likely reduce that pricey cost per click.</p>
+<h2>How to set up audience and keyword targeting</h2>
+<p>Here’s how to get this set up in your <a href="https://www.wordstream.com/blog/ws/2017/05/02/adwords-account-structure-guide">Google Ads account</a>.</p>
+<ol>
+<li>Start a new campaign. If you’re building one campaign around one audience. It can be helpful to name the campaign the name of the audience:</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="00ce6441-6a52-4f1d-99af-8d33bc5d4166" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-new-campaign.jpg" alt="new campaign view in Google Ads" width="624" height="113" /></div>
+</article>
+</div>
+<ol start="2">
+<li>Ad groups and keywords can be arranged in different ways. I would stick to thinking about arrangement the same way you would with any other campaign or new ad group with a consistent theme. If your keywords, for example, are thematically consistent with Invisalign, then assemble your Invisalign-themed keywords in the Invisalign ad group. Ultimately, the significant difference between this campaign and one that’s not targeting an audience directly is the audience targeting itself.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9a7922a0-85bb-4373-9b8a-d1f09510d5fa" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-new-ad-groups.jpg" alt="new ad group" width="281" height="379" /></div>
+</article>
+</div>
+<ol start="3">
+<li>Under the “Audiences” tab of that campaign, start exploring your options for audiences. Start with what logically makes sense. For example, if you’re a lighting fixture business, see if there’s a lighting and fixtures Audience. If you’re a travel company, see if there’s an audience—or set of audiences—that pertain to trips going and coming from a destination. Remember, your keywords are the filter here.</li>
+</ol>
+<p>There are lots of searches that can go on for people in-market for dating services, but you only want the ones searching your keywords!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f2267064-9d2e-4474-94e7-097e0c4ac31e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-targeting-campaign.jpg" alt="add targeting to new campaign" width="624" height="428" /></div>
+</article>
+</div>
+<ol start="4">
+<li>Ad creation can be a little different here. After all, we’re looking to address a specific audience of people, not necessarily the entire population of possible people searching “Invisalign.” In this example, there’s a little room to tailor the ads a bit to address this specific group over, say, an audience of business professionals who might be interested in Invisalign for corporate appearance reasons. For this example, something like this would attempt to address those looking for Invisalign <em>and </em>shopping dating services:</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3034c1e9-264e-43fb-99b9-c709c5a7f972" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-google-ad.jpg" alt="Google ad example" width="384" height="163" /></div>
+</article>
+</div>
+<p>However, it is also worth <a href="https://www.wordstream.com/blog/ws/2018/02/13/adwords-ad-variations">testing</a> a more generic as well against a more tailored message. Sometimes messages that are <em>too </em>tailored can be off-putting and harm click-through rates. A more generic offering showcasing expertise and accolades is something to test as well:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4c57a4fd-3967-468c-97f4-9455762159ee" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/combining-audiences-and-keywords-google-ad-example.jpg" alt="Google ad example" width="384" height="165" /></div>
+</article>
+</div>
+<h2>Start testing with automated bidding</h2>
+<p>Now, in the last example, we established we’re only looking to show our ads to people who are both:</p>
+<ol>
+<li>Searching for something related to “Invisalign” and</li>
+<li>In-market for dating services</li>
+</ol>
+<p>That’s a significant reduction in possible traffic right there and is a big filter set up to position you to improve the quality of your traffic. But is there more that we can do?</p>
+<p>Yes: Try an <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">automated bidding strategy</a>.</p>
+<p>Target CPA by design is aimed to filter out low-quality clicks and favor high-quality clicks that are likely to convert.</p>
+<p>With an automated bidding strategy in place we’ve effectively filtered the filter’s filter. By filtering out the types of Invisalign-related searches that are at the intersection of keyword and Audience to now filtering those clicks down to the ones that are more likely to convert.</p>
+<p>The result is net fewer clicks and lower costs relative to bidding on a keyword outright but in exchange higher quality clicks coming through with a higher likelihood of conversion.</p>
+<h2>Get targeting!</h2>
+<p>Trying this strategy for yourself is very simple. All you need is your Google Ads or Microsoft Ads account and a little bit of budget set aside. How much specifically is going to vary by industry. For example, “Invisalign” searches layered with a dating services audience in a 20-mile radius can be vastly cheaper per click and larger in click volume than a campaign targeting variations of “HR software” layered with business services targeting the entire U.S.</p>
+<p>Start conservatively with a small budget regardless and don’t fret if the “Limited By Budget” flag engages while you’re testing—you want to make sure a layered keyword and audience works for you before putting too much ad spend behind it!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords">How to Layer Audiences &amp; Keywords to Uncover Cheaper Clicks</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

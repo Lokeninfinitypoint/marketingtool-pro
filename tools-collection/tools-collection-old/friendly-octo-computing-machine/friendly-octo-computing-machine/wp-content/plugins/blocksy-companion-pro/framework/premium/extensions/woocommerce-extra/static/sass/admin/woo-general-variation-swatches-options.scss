@@ -1,0 +1,54 @@
+.form-wrap .ct-term-screen-create {
+	margin-top: 1.5em;
+	margin-bottom: 2em;
+
+	.ct-control {
+		padding: 0;
+		max-width: 95%;
+
+		header label {
+			font-size: 13px;
+			font-weight: 400;
+		}
+
+		&[data-design="inline"] {
+			grid-template-columns: 1fr min(60%, 400px);
+		}
+	}
+
+	.ct-option-description {
+		opacity: 1;
+		font-size: 13px;
+		font-style: normal;
+		color: #646970;
+		margin-top: 5px;
+	}
+}
+
+
+.column-blc_swatch_preview {
+	width: 30px;
+
+	.ct-swatch {
+		display: flex;
+		margin-top: 3px;
+		// overflow: hidden;
+
+		// img {
+		// 	width: 100%;
+		// 	height: 100%;
+		// 	margin: 0;
+		// }
+	}
+
+	.ct-swatch-content {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 30px;
+		height: 30px;
+		border-radius: 3px;
+		box-sizing: border-box;
+		border: 1px solid rgba(0, 0, 0, 0.2);
+	}
+}

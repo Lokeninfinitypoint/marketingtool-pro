@@ -1,0 +1,22 @@
+.price,
+.ct-product-sku {
+	color: var(--theme-text-color);
+}
+
+.sale-price {
+	display: inline-flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	column-gap: 5px;
+	text-decoration: inherit;
+
+	del {
+		order: 2;
+		font-size: 80%;
+	}
+}
+
+.clear {
+	clear: both;
+}

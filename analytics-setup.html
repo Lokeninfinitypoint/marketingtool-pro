@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MarketingTool.Pro - Analytics Dashboard</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    .header {
+      text-align: center;
+      color: white;
+      margin-bottom: 40px;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .header p {
+      opacity: 0.9;
+      font-size: 1.1rem;
+    }
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+    .metric-card {
+      background: white;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .metric-label {
+      color: #718096;
+      font-size: 0.9rem;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .metric-value {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #667eea;
+      margin-bottom: 10px;
+    }
+    .metric-change {
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .metric-change.positive {
+      color: #48bb78;
+    }
+    .metric-change.negative {
+      color: #f56565;
+    }
+    .chart-section {
+      background: white;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+    .chart-title {
+      font-size: 1.5rem;
+      color: #2d3748;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    .revenue-table {
+      width: 100%;
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .revenue-table table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .revenue-table th {
+      background: #667eea;
+      color: white;
+      padding: 15px;
+      text-align: left;
+      font-weight: 600;
+    }
+    .revenue-table td {
+      padding: 15px;
+      border-bottom: 1px solid #e2e8f0;
+      color: #2d3748;
+    }
+    .revenue-table tr:last-child td {
+      border-bottom: none;
+    }
+    .revenue-table tr:hover {
+      background: #f7fafc;
+    }
+    .status-badge {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+    .status-active {
+      background: #c6f6d5;
+      color: #22543d;
+    }
+    .status-pending {
+      background: #feebc8;
+      color: #7c2d12;
+    }
+    .refresh-btn {
+      background: white;
+      color: #667eea;
+      border: 2px solid white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    .refresh-btn:hover {
+      background: transparent;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>📊 Analytics Dashboard</h1>
+      <p>MarketingTool.Pro - Real-time Metrics</p>
+      <button class="refresh-btn" onclick="location.reload()">🔄 Refresh Data</button>
+    </div>
+
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-label">Total Installs</div>
+        <div class="metric-value" id="totalInstalls">0</div>
+        <div class="metric-change positive">
+          <span>↑ +0 this week</span>
+        </div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-label">Active Users</div>
+        <div class="metric-value" id="activeUsers">0</div>
+        <div class="metric-change positive">
+          <span>↑ +0 this week</span>
+        </div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-label">Monthly Revenue</div>
+        <div class="metric-value" id="monthlyRevenue">$0</div>
+        <div class="metric-change positive">
+          <span>↑ +$0 this month</span>
+        </div>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-label">Conversion Rate</div>
+        <div class="metric-value" id="conversionRate">0%</div>
+        <div class="metric-change positive">
+          <span>↑ +0% this week</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="chart-section">
+      <h2 class="chart-title">📈 Growth Trend (Next 12 Months)</h2>
+      <canvas id="growthChart" width="800" height="300"></canvas>
+    </div>
+
+    <div class="revenue-table">
+      <table>
+        <thead>
+          <tr>
+            <th>Month</th>
+            <th>New Installs</th>
+            <th>Total Users</th>
+            <th>MRR</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="revenueTableBody">
+          <tr>
+            <td>January 2025</td>
+            <td>0</td>
+            <td>0</td>
+            <td>$0</td>
+            <td><span class="status-badge status-pending">Pending Approval</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    // Simulated data - replace with real API calls
+    const projectedData = [
+      { month: 'Jan 2025', installs: 0, users: 0, mrr: 0 },
+      { month: 'Feb 2025', installs: 5, users: 5, mrr: 175 },
+      { month: 'Mar 2025', installs: 10, users: 15, mrr: 515 },
+      { month: 'Apr 2025', installs: 15, users: 30, mrr: 1030 },
+      { month: 'May 2025', installs: 20, users: 50, mrr: 1715 },
+      { month: 'Jun 2025', installs: 25, users: 75, mrr: 2573 },
+      { month: 'Jul 2025', installs: 30, users: 105, mrr: 3603 },
+      { month: 'Aug 2025', installs: 35, users: 140, mrr: 4805 },
+      { month: 'Sep 2025', installs: 40, users: 180, mrr: 6180 },
+      { month: 'Oct 2025', installs: 45, users: 225, mrr: 7723 },
+      { month: 'Nov 2025', installs: 50, users: 275, mrr: 9435 },
+      { month: 'Dec 2025', installs: 50, users: 325, mrr: 11148 }
+    ];
+
+    // Update metrics
+    function updateMetrics() {
+      const currentMonth = projectedData[new Date().getMonth()];
+      document.getElementById('totalInstalls').textContent = currentMonth.users;
+      document.getElementById('activeUsers').textContent = Math.floor(currentMonth.users * 0.7);
+      document.getElementById('monthlyRevenue').textContent = '$' + currentMonth.mrr.toLocaleString();
+      document.getElementById('conversionRate').textContent = '15%';
+    }
+
+    // Draw simple chart
+    function drawChart() {
+      const canvas = document.getElementById('growthChart');
+      const ctx = canvas.getContext('2d');
+      const width = canvas.width;
+      const height = canvas.height;
+      const padding = 40;
+
+      // Clear canvas
+      ctx.clearRect(0, 0, width, height);
+
+      // Draw axes
+      ctx.strokeStyle = '#e2e8f0';
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(padding, padding);
+      ctx.lineTo(padding, height - padding);
+      ctx.lineTo(width - padding, height - padding);
+      ctx.stroke();
+
+      // Draw data line
+      ctx.strokeStyle = '#667eea';
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+
+      const maxMRR = Math.max(...projectedData.map(d => d.mrr));
+      const xStep = (width - 2 * padding) / (projectedData.length - 1);
+      const yScale = (height - 2 * padding) / maxMRR;
+
+      projectedData.forEach((point, index) => {
+        const x = padding + index * xStep;
+        const y = height - padding - (point.mrr * yScale);
+        
+        if (index === 0) {
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+
+        // Draw point
+        ctx.fillStyle = '#667eea';
+        ctx.beginPath();
+        ctx.arc(x, y, 5, 0, Math.PI * 2);
+        ctx.fill();
+      });
+
+      ctx.stroke();
+
+      // Draw labels
+      ctx.fillStyle = '#718096';
+      ctx.font = '12px sans-serif';
+      ctx.textAlign = 'center';
+      
+      projectedData.forEach((point, index) => {
+        if (index % 2 === 0) {
+          const x = padding + index * xStep;
+          ctx.fillText(point.month.slice(0, 3), x, height - padding + 20);
+        }
+      });
+    }
+
+    // Populate revenue table
+    function populateTable() {
+      const tbody = document.getElementById('revenueTableBody');
+      tbody.innerHTML = projectedData.map((row, index) => `
+        <tr>
+          <td>${row.month}</td>
+          <td>${row.installs}</td>
+          <td>${row.users}</td>
+          <td>$${row.mrr.toLocaleString()}</td>
+          <td><span class="status-badge ${index === 0 ? 'status-pending' : 'status-active'}">
+            ${index === 0 ? 'Pending Approval' : 'Projected'}
+          </span></td>
+        </tr>
+      `).join('');
+    }
+
+    // Initialize
+    updateMetrics();
+    drawChart();
+    populateTable();
+
+    // Auto-refresh every 5 minutes
+    setInterval(() => {
+      updateMetrics();
+    }, 300000);
+  </script>
+</body>
+</html>

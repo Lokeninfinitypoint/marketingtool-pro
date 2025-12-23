@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group Copy 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="PPC-specialist-V3" transform="translate(-1597, -3854)" stroke-width="1.46666667">
+            <g id="app-window-search-text" transform="translate(1598, 3855)">
+                <circle id="Oval" stroke="#FFAF24" cx="14.6666667" cy="14.6666667" r="5.13333333"></circle>
+                <line x1="22" y1="22" x2="18.2961778" y2="18.2971556" id="Shape" stroke="#FFAF24"></line>
+                <path d="M20.5333333,7.33333333 L20.5333333,1.46666667 C20.5333333,0.656649034 19.8766843,0 19.0666667,0 L1.46666667,0 C0.656649034,0 0,0.656649034 0,1.46666667 L0,17.6 C0,18.4100176 0.656649034,19.0666667 1.46666667,19.0666667 L8.8,19.0666667" id="Shape" stroke="#3A56BC"></path>
+                <line x1="0" y1="4.4" x2="20.5333333" y2="4.4" id="Shape" stroke="#3A56BC"></line>
+                <line x1="2.93333333" y1="8.8" x2="8.8" y2="8.8" id="Shape" stroke="#3A56BC"></line>
+                <line x1="2.93333333" y1="11.7333333" x2="5.86666667" y2="11.7333333" id="Shape" stroke="#3A56BC"></line>
+                <line x1="2.93333333" y1="14.6666667" x2="5.86666667" y2="14.6666667" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

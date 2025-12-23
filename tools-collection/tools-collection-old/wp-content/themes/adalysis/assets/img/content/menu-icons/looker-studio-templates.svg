@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="25px" viewBox="0 0 23 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Resources" transform="translate(-52, -147)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(22, 22)">
+                <g id="data-file-bars" transform="translate(31, 126)">
+                    <path d="M10.5,18 L10.5,9.75 C10.5,9.33578644 10.1642136,9 9.75,9 L8.25,9 C7.83578644,9 7.5,9.33578644 7.5,9.75 L7.5,18" id="Shape" stroke="#FFAF24"></path>
+                    <path d="M16.5,18 L16.5,12.75 C16.5,12.3357864 16.1642136,12 15.75,12 L14.25,12 C13.8357864,12 13.5,12.3357864 13.5,12.75 L13.5,18" id="Shape" stroke="#FFAF24"></path>
+                    <polyline id="Shape" stroke="#3A56BC" points="4.5 6.75 4.5 18 18 18"></polyline>
+                    <path d="M21,21 C21,21.8284271 20.3284271,22.5 19.5,22.5 L1.5,22.5 C0.671572875,22.5 0,21.8284271 0,21 L0,1.5 C0,0.671572875 0.671572875,0 1.5,0 L16.5,0 C16.8905054,0.000560246256 17.2653982,0.153387376 17.545,0.426 L20.545,3.309 C20.8343631,3.59104988 20.997691,3.97791702 20.998,4.382 L21,21 Z" id="Shape" stroke="#3A56BC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

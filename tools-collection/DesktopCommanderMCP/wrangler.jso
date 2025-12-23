@@ -1,0 +1,7 @@
+"r2_buckets": [
+  {
+    "binding": "R2",
+    "bucket_name": "my-bucket",
+    "bucket_id": "123456789"
+  }
+]

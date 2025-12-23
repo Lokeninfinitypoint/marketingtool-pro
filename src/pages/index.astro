@@ -1,0 +1,1521 @@
+---
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MarketingTool.Pro - AI-Powered Marketing Automation for Meta & Google Ads</title>
+  <meta name="description" content="The secret marketing automation platform top agencies use. Create, optimize, and scale ads across Meta, Google, and 418+ marketing tools with AI." />
+  <link href="https://fonts.googleapis.com" rel="preconnect" />
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:regular,500,600%7CInter+Tight:regular,500%7CChivo+Mono:regular,500" />
+  <style>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      font-family: 'DM Sans', 'Inter Tight', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 25%, #16213e 50%, #1a1a2e 75%, #0a0a0f 100%);
+      color: #ffffff;
+      line-height: 1.6;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* Hero V2 Section */
+    .rt-hero-v2 {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 120px 20px 80px;
+      position: relative;
+      overflow: hidden;
+      margin-top: 64px;
+    }
+
+    .rt-hero-v2::before {
+      content: '';
+      position: absolute;
+      top: -40%;
+      right: -15%;
+      width: 800px;
+      height: 800px;
+      background: radial-gradient(circle, rgba(139, 92, 246, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+      animation: float 8s ease-in-out infinite;
+    }
+
+    .rt-hero-v2::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -20%;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(236, 72, 153, 0.15) 0%, transparent 70%);
+      border-radius: 50%;
+      animation: float 10s ease-in-out infinite reverse;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(40px); }
+    }
+
+    .rt-position-relative {
+      position: relative;
+      z-index: 10;
+    }
+
+    .rt-hero-v2-main {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .rt-hero-v2-wrap {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      max-width: 900px;
+    }
+
+    .rt-sub-text {
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #515FBC;
+      margin-bottom: 24px;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+      padding: 8px 20px;
+      background: rgba(81, 95, 188, 0.1);
+      border-radius: 30px;
+      display: inline-block;
+      border: 1px solid rgba(81, 95, 188, 0.3);
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .rt-hero-v2-wrap h1 {
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      font-weight: 800;
+      line-height: 1.15;
+      margin-bottom: 32px;
+      color: #ffffff;
+      animation: slideUp 0.8s ease 0.1s forwards;
+      opacity: 0;
+      text-shadow: 0 0 80px rgba(139, 92, 246, 0.5);
+    }
+
+    .rt-hero-v2-para-wrap {
+      font-size: 1.125rem;
+      color: #cbd5e1;
+      max-width: 700px;
+      margin: 0 auto 32px;
+      line-height: 1.8;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.2s forwards;
+    }
+
+    .rt-hero-v2-button-wrap {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 60px;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.3s forwards;
+    }
+
+    /* Primary Colors - Madgicx/Omneky Style */
+    :root {
+      --primary-purple: #515FBC;
+      --primary-light: #917aff;
+      --primary-dark: #322996;
+      --accent-purple: #8b5cf6;
+      --accent-pink: #ec4899;
+    }
+
+    /* Button Styles */
+    .rt-button {
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .rt-button-base {
+      background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+      color: white;
+      box-shadow: 0 8px 32px rgba(139, 92, 246, 0.3);
+    }
+
+    .rt-button-base:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 48px rgba(139, 92, 246, 0.4);
+    }
+
+    .rt-button-secondary {
+      background: rgba(139, 92, 246, 0.1);
+      color: #e2e8f0;
+      border: 1px solid rgba(139, 92, 246, 0.3);
+    }
+
+    .rt-button-secondary:hover {
+      background: rgba(139, 92, 246, 0.2);
+      border-color: #8b5cf6;
+    }
+
+    .rt-hero-v2-client-wrap {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .rt-hero-v2-client-img-wrap {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .rt-hero-v2-client-image {
+      width: 60px;
+      height: 60px;
+      background: linear-gradient(135deg, #8b5cf6, #ec4899);
+      border-radius: 8px;
+      animation: slideUp 0.8s ease 0.4s forwards;
+      opacity: 0;
+    }
+
+    .rt-text-color-white {
+      color: #ffffff;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    /* Solution Section (Who We Are) */
+    .rt-solution {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-solution-main {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .rt-solution-left-part {
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-solution-right-part {
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.2s forwards;
+    }
+
+    .rt-text-style-h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    .rt-text-color-light-tomato {
+      color: #e66666;
+    }
+
+    .rt-solution-card-wrap {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+      margin-top: 40px;
+    }
+
+    .rt-solution-card {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      padding: 20px;
+      background: rgba(139, 92, 246, 0.05);
+      border-radius: 8px;
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      transition: all 0.3s ease;
+      opacity: 0;
+      animation: slideUp 0.6s ease forwards;
+    }
+
+    .rt-solution-card:nth-child(1) { animation-delay: 0.3s; }
+    .rt-solution-card:nth-child(2) { animation-delay: 0.4s; }
+    .rt-solution-card:nth-child(3) { animation-delay: 0.5s; }
+    .rt-solution-card:nth-child(4) { animation-delay: 0.6s; }
+
+    .rt-solution-card:hover {
+      background: rgba(139, 92, 246, 0.1);
+      border-color: rgba(139, 92, 246, 0.4);
+      transform: translateY(-4px);
+    }
+
+    .rt-text-style-h5 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    /* Feature Section */
+    .rt-feature-v2 {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-feature-v2-heading-wrap {
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .rt-feature-v2-heading-wrap .rt-sub-text {
+      margin-bottom: 16px;
+    }
+
+    .rt-feature-v2-heading-wrap h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 0;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-feature-v2-main-image {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .rt-feature-v2-left-part {
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+    }
+
+    .rt-feature-v2-card-wrap {
+      display: flex;
+      gap: 24px;
+      align-items: flex-start;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-feature-v2-card-wrap:nth-child(1) { animation-delay: 0.2s; }
+    .rt-feature-v2-card-wrap:nth-child(2) { animation-delay: 0.3s; }
+
+    .rt-feature-v2-content-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .rt-feature-v2-content-wrap img {
+      width: 40px;
+      height: 40px;
+    }
+
+    .rt-feature-v2-card-text-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .rt-feature-v2-card-text-wrap h3 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    .rt-feature-v2-card-text-wrap p {
+      color: #cbd5e1;
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .rt-feature-v2-right-part {
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+    }
+
+    /* Choose Us Section */
+    .rt-choose-us {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-choose-us-main {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .rt-choose-us-left-part {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 500px;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%);
+      border-radius: 16px;
+      font-size: 48px;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-choose-us-right-part {
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.2s forwards;
+    }
+
+    .rt-choose-us-right-part .rt-sub-text {
+      margin-bottom: 20px;
+    }
+
+    .rt-choose-us-right-part h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin-bottom: 24px;
+      margin-top: 0;
+    }
+
+    .rt-choose-us-para-wrap {
+      font-size: 1rem;
+      color: #cbd5e1;
+      margin-bottom: 32px;
+      line-height: 1.8;
+    }
+
+    .rt-choose-us-card-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-bottom: 32px;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.3s forwards;
+    }
+
+    .rt-choose-us-card {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .rt-choose-us-icon {
+      width: 24px;
+      height: 24px;
+      min-width: 24px;
+      color: #fbbf24;
+      font-size: 20px;
+    }
+
+    .rt-choose-us-text-wrap-v1 {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .rt-choose-us-text-wrap-v1 h3 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    .rt-choose-us-text-wrap-v1 p {
+      color: #cbd5e1;
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .rt-choose-us-button-wrap {
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.4s forwards;
+    }
+
+    /* Benefits Section */
+    .rt-benefit-v2 {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-benefits-v2-heading-wrap {
+      text-align: center;
+      margin-bottom: 80px;
+    }
+
+    .rt-benefits-v2-heading-wrap .rt-sub-text {
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-benefits-v2-heading-wrap h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 0;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.1s forwards;
+    }
+
+    .rt-benefits-v2-card-wrapper {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .rt-features-v2-inner-one {
+      padding: 32px;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%);
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      border-radius: 12px;
+      transition: all 0.3s ease;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-features-v2-inner-one:nth-child(1) { animation-delay: 0.2s; }
+    .rt-features-v2-inner-one:nth-child(2) { animation-delay: 0.3s; }
+    .rt-features-v2-inner-one:nth-child(3) { animation-delay: 0.4s; }
+
+    .rt-features-v2-inner-one:hover {
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.15) 0%, rgba(236, 72, 153, 0.1) 100%);
+      border-color: rgba(139, 92, 246, 0.4);
+      transform: translateY(-4px);
+    }
+
+    .rt-features-v2-inner-one h3 {
+      font-size: 20px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin-bottom: 16px;
+      margin-top: 0;
+    }
+
+    .rt-features-v2-inner-one p {
+      color: #cbd5e1;
+      font-size: 14px;
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    /* Choose Us V2 Section */
+    .rt-choose-us-v2 {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-choose-us-main-v2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .rt-choose-us-v2-left {
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-choose-us-heading-wrap {
+      margin-bottom: 40px;
+    }
+
+    .rt-choose-us-heading-wrap .rt-sub-text {
+      margin-bottom: 16px;
+    }
+
+    .rt-choose-us-heading-wrap h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    .rt-choose-us-v2-content-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.1s forwards;
+    }
+
+    .rt-our-focus-v2-item-right {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      padding: 24px;
+      background: rgba(139, 92, 246, 0.05);
+      border-radius: 8px;
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      transition: all 0.3s ease;
+    }
+
+    .rt-our-focus-v2-item-right:hover {
+      background: rgba(139, 92, 246, 0.1);
+      border-color: rgba(139, 92, 246, 0.4);
+      transform: translateY(-2px);
+    }
+
+    .rt-choose-us-text-wrap {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .rt-choose-us-text-wrap img {
+      width: 20px;
+      height: 20px;
+    }
+
+    .rt-choose-us-text-wrap .rt-text-style-h6 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin: 0;
+    }
+
+    .rt-choose-us-para-wrap-v2 {
+      color: #cbd5e1;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .rt-our-focus-v2-right {
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.2s forwards;
+      position: relative;
+    }
+
+    .rt-choose-us-content-wrap {
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%);
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      border-radius: 16px;
+      padding: 40px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .rt-choose-us-content-wrap .rt-text-style-h5 {
+      font-size: 18px;
+      font-weight: 600;
+      color: #f1f5f9;
+      margin-bottom: 20px;
+    }
+
+    .rt-choose-us-v2-image-wrap {
+      position: relative;
+      height: 250px;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(236, 72, 153, 0.02) 100%);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .rt-choose-us-marquee-main {
+      position: relative;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .rt-choose-us-marquee {
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+
+    .rt-marquee-item {
+      flex-shrink: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .rt-choose-us-glow {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .rt-choose-us-star-image {
+      position: absolute;
+      top: -20%;
+      right: -10%;
+      width: 400px;
+      height: 400px;
+      opacity: 0.3;
+      z-index: 1;
+    }
+
+    .rt-choose-us-glow-image {
+      position: absolute;
+      bottom: -30%;
+      left: -20%;
+      width: 600px;
+      height: 600px;
+      opacity: 0.2;
+      z-index: 0;
+    }
+
+    /* Integration Section */
+    .rt-integration {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .rt-integration-heading-main {
+      justify-content: center;
+      margin-bottom: 60px;
+    }
+
+    .rt-integration-heading-wrap {
+      text-align: center;
+    }
+
+    .rt-integration-heading-wrap .rt-sub-text {
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-integration-heading-wrap h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 0;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.1s forwards;
+    }
+
+    .rt-integration-image-main {
+      position: relative;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.2s forwards;
+    }
+
+    .rt-integration-image {
+      width: 100%;
+      border-radius: 16px;
+      overflow: hidden;
+      margin: 40px 0;
+    }
+
+    .rt-integration-image img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .rt-integration-icon-wrap {
+      text-align: center;
+      margin: 20px 0;
+      font-size: 48px;
+    }
+
+    .rt-integration-gradient {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 200px;
+      background: linear-gradient(180deg, transparent 0%, rgba(2, 2, 2, 0.8) 100%);
+      pointer-events: none;
+    }
+
+    .rt-container-large {
+      max-width: 1400px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .w-container {
+      max-width: 1400px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+    /* FAQ Section */
+    .rt-faq {
+      padding: 100px 20px;
+      position: relative;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .rt-faq-heading-wrap {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+
+    .rt-faq-heading-wrap .rt-sub-text {
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-faq-heading-wrap h2 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 0;
+      opacity: 0;
+      animation: slideUp 0.8s ease 0.1s forwards;
+    }
+
+    .rt-faq-dropdown-wrap {
+      background: rgba(30, 41, 59, 0.5);
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      border-radius: 8px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      opacity: 0;
+      animation: slideUp 0.8s ease forwards;
+    }
+
+    .rt-faq-dropdown-wrap:nth-child(1) { animation-delay: 0.2s; }
+    .rt-faq-dropdown-wrap:nth-child(2) { animation-delay: 0.25s; }
+    .rt-faq-dropdown-wrap:nth-child(3) { animation-delay: 0.3s; }
+    .rt-faq-dropdown-wrap:nth-child(4) { animation-delay: 0.35s; }
+    .rt-faq-dropdown-wrap:nth-child(5) { animation-delay: 0.4s; }
+    .rt-faq-dropdown-wrap:nth-child(6) { animation-delay: 0.45s; }
+
+    .rt-faq-top-part {
+      padding: 20px;
+      background: rgba(139, 92, 246, 0.05);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: all 0.3s ease;
+    }
+
+    .rt-faq-top-part:hover {
+      background: rgba(139, 92, 246, 0.1);
+    }
+
+    .r-faq-text-wrap {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .r-faq-text-wrap .rt-text-style-h6:first-child {
+      color: #e66666;
+      min-width: 32px;
+    }
+
+    .rt-faq-right-part {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .rt-faq-plus {
+      width: 20px;
+      height: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #e66666;
+      transition: transform 0.3s ease;
+    }
+
+    .rt-faq-plus::before {
+      content: '+';
+      font-size: 20px;
+    }
+
+    .rt-faq-bottom-part {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+
+    .rt-faq-dropdown-wrap.active .rt-faq-bottom-part {
+      max-height: 500px;
+      padding: 20px;
+    }
+
+    .rt-faq-para-wrap {
+      color: #cbd5e1;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .rt-no-margin {
+      margin: 0;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .rt-hero-v2 {
+        padding: 80px 20px 60px;
+        margin-top: 60px;
+      }
+
+      .rt-hero-v2-wrap h1 {
+        font-size: 2rem;
+      }
+
+      .rt-solution-main,
+      .rt-feature-v2-main-image,
+      .rt-choose-us-main,
+      .rt-benefits-v2-card-wrapper {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+
+      .rt-solution-card-wrap {
+        grid-template-columns: 1fr;
+      }
+
+      .rt-text-style-h2 {
+        font-size: 1.75rem;
+      }
+
+      .rt-choose-us-left-part {
+        min-height: 300px;
+      }
+
+      .rt-hero-v2-button-wrap {
+        flex-direction: column;
+      }
+
+      .rt-button {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  </style>
+  </style>
+</head>
+<body>
+  <Navigation />
+
+  <!-- Hero V2 Section -->
+  <section class="rt-hero-v2 rt-position-relative">
+    <div class="rt-hero-v2-main">
+      <div class="rt-hero-v2-wrap">
+        <div class="rt-sub-text">[ The Secret Platform Top Agencies Use ]</div>
+        <h1>AI-Powered Marketing Automation For <em style="font-style: italic; background: linear-gradient(135deg, #515FBC 0%, #917aff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Meta & Google Ads</em></h1>
+        <div class="rt-hero-v2-para-wrap">
+          <p class="rt-no-margin">MarketingTool.Pro automates your advertising campaigns with AI — create, optimize, and scale ads across Meta, Google, and 418+ marketing tools. Save 10x the time while maximizing ROI.</p>
+        </div>
+        <div class="rt-hero-v2-button-wrap">
+          <a href="https://app.marketingtool.pro" class="rt-button rt-button-base" style="padding: 16px 48px; font-size: 18px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.5);">Try For Free — No Credit Card</a>
+          <a href="https://app.marketingtool.pro/tools" class="rt-button rt-button-secondary" style="padding: 16px 48px; font-size: 18px; background: rgba(255,255,255,0.1); border: 2px solid rgba(139, 92, 246, 0.5);">Browse 418 Tools</a>
+        </div>
+
+        <!-- Trusted By Logos -->
+        <div style="margin-top: 80px; text-align: center;">
+          <p style="font-size: 14px; color: #94a3b8; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 30px;">Trusted By Marketing Teams Worldwide</p>
+          <div style="display: flex; justify-content: center; align-items: center; gap: 60px; flex-wrap: wrap; opacity: 0.7;">
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Coinbase</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Spotify</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Slack</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Dropbox</div>
+            <div style="color: #94a3b8; font-size: 24px; font-weight: 600; font-family: 'Inter Tight', sans-serif;">Airbnb</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Metrics Bar Section (Madgicx Style) -->
+  <section style="padding: 80px 20px; background: rgba(15, 15, 25, 0.8); position: relative;">
+    <div style="max-width: 1200px; margin: 0 auto;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; text-align: center;">
+        <!-- Metric 1 -->
+        <div style="opacity: 0; animation: slideUp 0.8s ease 0.1s forwards;">
+          <div style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 12px;">418+</div>
+          <div style="font-size: 1.125rem; color: #cbd5e1; font-weight: 600;">Marketing Tools</div>
+          <div style="font-size: 0.875rem; color: #94a3b8; margin-top: 8px;">All in one platform</div>
+        </div>
+        <!-- Metric 2 -->
+        <div style="opacity: 0; animation: slideUp 0.8s ease 0.2s forwards;">
+          <div style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 12px;">2,000+</div>
+          <div style="font-size: 1.125rem; color: #cbd5e1; font-weight: 600;">Active Users</div>
+          <div style="font-size: 0.875rem; color: #94a3b8; margin-top: 8px;">Growing every day</div>
+        </div>
+        <!-- Metric 3 -->
+        <div style="opacity: 0; animation: slideUp 0.8s ease 0.3s forwards;">
+          <div style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 12px;">15 hrs</div>
+          <div style="font-size: 1.125rem; color: #cbd5e1; font-weight: 600;">Saved Per Week</div>
+          <div style="font-size: 0.875rem; color: #94a3b8; margin-top: 8px;">Average time saved</div>
+        </div>
+        <!-- Metric 4 -->
+        <div style="opacity: 0; animation: slideUp 0.8s ease 0.4s forwards;">
+          <div style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 12px;">3.2x</div>
+          <div style="font-size: 1.125rem; color: #cbd5e1; font-weight: 600;">Average ROAS</div>
+          <div style="font-size: 0.875rem; color: #94a3b8; margin-top: 8px;">ROI improvement</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dashboard Screenshot Section -->
+  <section style="padding: 100px 20px; max-width: 1400px; margin: 0 auto;">
+    <div style="text-align: center; margin-bottom: 60px;">
+      <div class="rt-sub-text" style="margin-bottom: 20px; opacity: 0; animation: slideUp 0.8s ease forwards;">[ All 418 Tools in One Dashboard ]</div>
+      <h2 style="font-size: 2.5rem; font-weight: 700; color: #f1f5f9; margin: 0; opacity: 0; animation: slideUp 0.8s ease 0.1s forwards;">Access Every Marketing Tool You Need</h2>
+      <p style="font-size: 1.125rem; color: #cbd5e1; margin: 20px auto 0; max-width: 700px; opacity: 0; animation: slideUp 0.8s ease 0.2s forwards;">From Meta Ads to Google Analytics, AI content generation to SEO optimization - everything in one unified platform.</p>
+    </div>
+
+    <!-- Dashboard Screenshot Placeholder -->
+    <div style="opacity: 0; animation: slideUp 0.8s ease 0.3s forwards; position: relative; border-radius: 16px; overflow: hidden; border: 2px solid rgba(139, 92, 246, 0.3); box-shadow: 0 20px 60px rgba(139, 92, 246, 0.3);">
+      <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%); padding: 80px 40px; text-align: center; min-height: 500px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <div style="font-size: 64px; margin-bottom: 20px;">📊</div>
+        <div style="font-size: 1.25rem; color: #cbd5e1; font-weight: 600; margin-bottom: 12px;">MarketingTool.Pro Dashboard</div>
+        <div style="font-size: 0.875rem; color: #94a3b8;">418 Marketing Tools • AI Automation • Unified Analytics</div>
+      </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 40px; opacity: 0; animation: slideUp 0.8s ease 0.4s forwards;">
+      <a href="https://app.marketingtool.pro" class="rt-button rt-button-base" style="padding: 16px 48px; font-size: 18px;">Launch Dashboard Now</a>
+    </div>
+  </section>
+
+  <!-- Solution Section (Who We Are) -->
+  <section class="rt-solution">
+    <div class="rt-solution-main">
+      <div class="rt-solution-left-part">
+        <div class="rt-sub-text">[ who we are ]</div>
+      </div>
+      <div class="rt-solution-right-part">
+        <div class="rt-text-style-h2">We specialize in transforming businesses through cutting-edge AI automation solutions. Our mission is to help organizations streamline operations, reduce human error.</div>
+        <div class="rt-solution-card-wrap">
+          <div class="rt-solution-card">
+            <div class="rt-text-style-h2 rt-text-color-light-tomato">30+</div>
+            <div style="display: flex; gap: 12px; align-items: center;">
+              <span style="font-size: 16px;">⭐</span>
+              <div class="rt-text-style-h5">Hours saved weekly</div>
+            </div>
+          </div>
+          <div class="rt-solution-card">
+            <div class="rt-text-style-h2 rt-text-color-light-tomato">500+</div>
+            <div style="display: flex; gap: 12px; align-items: center;">
+              <span style="font-size: 16px;">⭐</span>
+              <div class="rt-text-style-h5">Businesses using AI</div>
+            </div>
+          </div>
+          <div class="rt-solution-card">
+            <div class="rt-text-style-h2 rt-text-color-light-tomato">99.9%</div>
+            <div style="display: flex; gap: 12px; align-items: center;">
+              <span style="font-size: 16px;">⭐</span>
+              <div class="rt-text-style-h5">Process efficiency</div>
+            </div>
+          </div>
+          <div class="rt-solution-card">
+            <div class="rt-text-style-h2 rt-text-color-light-tomato">100+</div>
+            <div style="display: flex; gap: 12px; align-items: center;">
+              <span style="font-size: 16px;">⭐</span>
+              <div class="rt-text-style-h5">Integrations available</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Feature V2 Section -->
+  <section class="rt-feature-v2">
+    <div class="rt-feature-v2-heading-wrap">
+      <div class="rt-sub-text">[ our unique features ]</div>
+      <h2>Seamless integration, intelligent workflow automation</h2>
+    </div>
+    <div class="rt-feature-v2-main-image">
+      <div class="rt-feature-v2-left-part">
+        <div class="rt-feature-v2-card-wrap">
+          <div class="rt-feature-v2-content-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='37' viewBox='0 0 36 37'%3E%3Ccircle cx='18' cy='18.5' r='18' fill='%238B5CF6' opacity='0.1'/%3E%3Ctext x='18' y='21' text-anchor='middle' font-size='20' fill='%238B5CF6'%3E⚡%3C/text%3E%3C/svg%3E" alt="feature" />
+            <div class="rt-feature-v2-card-text-wrap">
+              <h3>Real-time data processing</h3>
+              <p>Process data instantly for faster, smarter business decisions.</p>
+            </div>
+          </div>
+        </div>
+        <div class="rt-feature-v2-card-wrap">
+          <div class="rt-feature-v2-content-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='37' viewBox='0 0 36 37'%3E%3Ccircle cx='18' cy='18.5' r='18' fill='%238B5CF6' opacity='0.1'/%3E%3Ctext x='18' y='21' text-anchor='middle' font-size='20' fill='%238B5CF6'%3E🧠%3C/text%3E%3C/svg%3E" alt="feature" />
+            <div class="rt-feature-v2-card-text-wrap">
+              <h3>Smart decision-making</h3>
+              <p>Make smarter decisions faster with AI-powered insights.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="rt-feature-v2-right-part">
+        <div class="rt-feature-v2-card-wrap">
+          <div class="rt-feature-v2-content-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='37' viewBox='0 0 36 37'%3E%3Ccircle cx='18' cy='18.5' r='18' fill='%238B5CF6' opacity='0.1'/%3E%3Ctext x='18' y='21' text-anchor='middle' font-size='20' fill='%238B5CF6'%3E🔗%3C/text%3E%3C/svg%3E" alt="feature" />
+            <div class="rt-feature-v2-card-text-wrap">
+              <h3>Seamless integrations</h3>
+              <p>Connect all your tools with seamless, effortless integrations.</p>
+            </div>
+          </div>
+        </div>
+        <div class="rt-feature-v2-card-wrap">
+          <div class="rt-feature-v2-content-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='37' viewBox='0 0 36 37'%3E%3Ccircle cx='18' cy='18.5' r='18' fill='%238B5CF6' opacity='0.1'/%3E%3Ctext x='18' y='21' text-anchor='middle' font-size='20' fill='%238B5CF6'%3E📊%3C/text%3E%3C/svg%3E" alt="feature" />
+            <div class="rt-feature-v2-card-text-wrap">
+              <h3>Analytics & reporting</h3>
+              <p>Gain valuable insights with advanced analytics and reporting.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Choose Us Section -->
+  <section class="rt-choose-us">
+    <div class="rt-choose-us-main">
+      <div class="rt-choose-us-left-part">
+        📊 Dashboard Preview
+      </div>
+      <div class="rt-choose-us-right-part">
+        <div class="rt-sub-text">[ why choose us ]</div>
+        <h2>Smarter automation, faster results, better growth</h2>
+        <div class="rt-choose-us-para-wrap">
+          <p>Leverage smarter automation to achieve faster results, improve efficiency, and drive sustainable business growth effortlessly.</p>
+        </div>
+        <div class="rt-choose-us-card-wrap">
+          <div class="rt-choose-us-card">
+            <span class="rt-choose-us-icon">✓</span>
+            <div class="rt-choose-us-text-wrap-v1">
+              <h3>Boost productivity and efficiency</h3>
+              <p>Boost productivity and efficiency with smart automation that simplifies workflows and saves valuable time.</p>
+            </div>
+          </div>
+          <div class="rt-choose-us-card">
+            <span class="rt-choose-us-icon">✓</span>
+            <div class="rt-choose-us-text-wrap-v1">
+              <h3>Enterprise-grade security</h3>
+              <p>Enterprise-grade security safeguards your systems against all threats effectively.</p>
+            </div>
+          </div>
+        </div>
+        <div class="rt-choose-us-button-wrap">
+          <a href="https://app.marketingtool.pro/ai/content-generator" class="rt-button rt-button-base">Try AI Tools Free</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Benefits V2 Section -->
+  <section class="rt-benefit-v2">
+    <div class="rt-benefits-v2-heading-wrap">
+      <div class="rt-sub-text">[ our unique benefits ]</div>
+      <h2>Seamless integration, intelligent workflow automation</h2>
+    </div>
+    <div class="rt-benefits-v2-card-wrapper">
+      <div class="rt-features-v2-inner-one">
+        <h3>Business growth automation</h3>
+        <p>Automate processes efficiently to drive faster, sustainable business growth.</p>
+      </div>
+      <div class="rt-features-v2-inner-one">
+        <h3>System efficiency</h3>
+        <p>Enhance system efficiency through automation and smarter workflows.</p>
+      </div>
+      <div class="rt-features-v2-inner-one">
+        <h3>Increased productivity</h3>
+        <p>Boost productivity by streamlining tasks and improving team efficiency daily.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Choose Us V2 Section -->
+  <section class="rt-choose-us-v2">
+    <div class="rt-choose-us-main-v2">
+      <div class="rt-choose-us-v2-left">
+        <div class="rt-choose-us-heading-wrap">
+          <div class="rt-sub-text">[ why choose us ]</div>
+          <h2>We simplify complexity with smart AI-driven solutions</h2>
+        </div>
+        <div class="rt-choose-us-v2-content-wrap">
+          <div class="rt-our-focus-v2-item-right">
+            <div class="rt-choose-us-text-wrap">
+              <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18'%3E%3Ccircle cx='9' cy='9' r='8' fill='%238B5CF6' opacity='0.2'/%3E%3Ctext x='9' y='12' text-anchor='middle' font-size='12' fill='%238B5CF6'%3E✓%3C/text%3E%3C/svg%3E" alt="check" />
+              <div class="rt-text-style-h6">Real-time analytics & optimization</div>
+            </div>
+            <div class="rt-choose-us-para-wrap-v2">
+              <p class="rt-no-margin">Leverage real-time analytics and optimization to make faster, smarter, and data-driven decisions.</p>
+            </div>
+          </div>
+          <div class="rt-our-focus-v2-item-right">
+            <div class="rt-choose-us-text-wrap">
+              <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18'%3E%3Ccircle cx='9' cy='9' r='8' fill='%238B5CF6' opacity='0.2'/%3E%3Ctext x='9' y='12' text-anchor='middle' font-size='12' fill='%238B5CF6'%3E✓%3C/text%3E%3C/svg%3E" alt="check" />
+              <div class="rt-text-style-h6">Reduce manual workload by up to 70%</div>
+            </div>
+            <div class="rt-choose-us-para-wrap-v2">
+              <p class="rt-no-margin">Reduce manual workload by up to 70% using intelligent automation and streamlined workflows.</p>
+            </div>
+          </div>
+          <div class="rt-our-focus-v2-item-right">
+            <div class="rt-choose-us-text-wrap">
+              <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18'%3E%3Ccircle cx='9' cy='9' r='8' fill='%238B5CF6' opacity='0.2'/%3E%3Ctext x='9' y='12' text-anchor='middle' font-size='12' fill='%238B5CF6'%3E✓%3C/text%3E%3C/svg%3E" alt="check" />
+              <div class="rt-text-style-h6">Eliminate human error and delays</div>
+            </div>
+            <div class="rt-choose-us-para-wrap-v2">
+              <p class="rt-no-margin">Eliminate human error and delays by automating tasks with smart AI solutions.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="rt-our-focus-v2-right">
+        <div class="rt-choose-us-content-wrap">
+          <div class="rt-text-style-h5">Real-time data processing</div>
+          <div class="rt-choose-us-v2-image-wrap">
+            <div class="rt-choose-us-marquee-main">
+              <div class="rt-choose-us-marquee">
+                <div class="rt-marquee-item" style="background: linear-gradient(135deg, #8b5cf6, #ec4899); border-radius: 8px;"></div>
+              </div>
+              <div class="rt-choose-us-marquee">
+                <div class="rt-marquee-item" style="background: linear-gradient(135deg, #ec4899, #8b5cf6); border-radius: 8px;"></div>
+              </div>
+              <div class="rt-choose-us-marquee">
+                <div class="rt-marquee-item" style="background: linear-gradient(135deg, #8b5cf6, #ec4899); border-radius: 8px;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Integration Section -->
+  <section class="rt-integration">
+    <div class="rt-integration-heading-main">
+      <div class="rt-integration-heading-wrap">
+        <div class="rt-sub-text">[ integration ]</div>
+        <h2>Seamless AI integration with your existing systems</h2>
+      </div>
+    </div>
+    <div class="rt-integration-image-main">
+      <div class="rt-integration-image">
+        <div style="padding: 40px; background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%); border-radius: 16px; text-align: center;">
+          <div style="font-size: 48px; margin-bottom: 20px;">🔗</div>
+          <p style="color: #cbd5e1; margin: 0; font-size: 14px;">Seamless integration with 100+ tools including Slack, HubSpot, Salesforce, Zapier, Make, and more. Connect your favorite platforms instantly.</p>
+        </div>
+      </div>
+      <div class="rt-integration-icon-wrap">
+        📊 APIs • 🔌 Webhooks • 🔄 Real-time Sync
+      </div>
+      <div class="rt-integration-gradient"></div>
+    </div>
+  </section>
+
+  <!-- Testimonials Section (Madgicx/Addressable Style) -->
+  <section style="padding: 100px 20px; background: rgba(15, 15, 25, 0.5); position: relative;">
+    <div style="max-width: 1400px; margin: 0 auto;">
+      <!-- Section Header -->
+      <div style="text-align: center; margin-bottom: 80px;">
+        <div class="rt-sub-text" style="margin-bottom: 20px; opacity: 0; animation: slideUp 0.8s ease forwards;">[ Customer Success Stories ]</div>
+        <h2 style="font-size: 2.5rem; font-weight: 700; color: #f1f5f9; margin: 0; opacity: 0; animation: slideUp 0.8s ease 0.1s forwards;">See How Marketers Transform Their Results</h2>
+        <p style="font-size: 1.125rem; color: #cbd5e1; margin: 20px auto 0; max-width: 700px; opacity: 0; animation: slideUp 0.8s ease 0.2s forwards;">Real results from marketing teams using MarketingTool.Pro</p>
+      </div>
+
+      <!-- Testimonials Grid -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 32px;">
+
+        <!-- Testimonial 1 -->
+        <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 16px; padding: 32px; opacity: 0; animation: slideUp 0.8s ease 0.3s forwards;">
+          <!-- Rating -->
+          <div style="display: flex; gap: 4px; margin-bottom: 20px; font-size: 20px;">
+            ⭐⭐⭐⭐⭐
+          </div>
+
+          <!-- Quote -->
+          <p style="font-size: 1.125rem; color: #e2e8f0; line-height: 1.8; margin-bottom: 24px; font-style: italic;">
+            "MarketingTool.Pro increased our Meta Ads ROAS from 2.1x to 8.4x in just 3 months. The AI automation saved us 20+ hours per week."
+          </p>
+
+          <!-- Author -->
+          <div style="display: flex; align-items: center; gap: 16px;">
+            <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #8b5cf6, #ec4899); display: flex; align-items: center; justify-content: center; font-size: 24px; color: white; font-weight: 700;">SC</div>
+            <div>
+              <div style="font-weight: 600; color: #f1f5f9; font-size: 1.125rem;">Sarah Chen</div>
+              <div style="color: #94a3b8; font-size: 0.875rem;">Marketing Director at GrowthCo</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 16px; padding: 32px; opacity: 0; animation: slideUp 0.8s ease 0.4s forwards;">
+          <!-- Rating -->
+          <div style="display: flex; gap: 4px; margin-bottom: 20px; font-size: 20px;">
+            ⭐⭐⭐⭐⭐
+          </div>
+
+          <!-- Quote -->
+          <p style="font-size: 1.125rem; color: #e2e8f0; line-height: 1.8; margin-bottom: 24px; font-style: italic;">
+            "We consolidated 12 different tools into MarketingTool.Pro. Now our team has everything in one dashboard. Game changer for our agency."
+          </p>
+
+          <!-- Author -->
+          <div style="display: flex; align-items: center; gap: 16px;">
+            <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #ec4899, #8b5cf6); display: flex; align-items: center; justify-content: center; font-size: 24px; color: white; font-weight: 700;">MJ</div>
+            <div>
+              <div style="font-weight: 600; color: #f1f5f9; font-size: 1.125rem;">Mike Johnson</div>
+              <div style="color: #94a3b8; font-size: 0.875rem;">CEO at Digital Boost Agency</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div style="background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(236, 72, 153, 0.05) 100%); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 16px; padding: 32px; opacity: 0; animation: slideUp 0.8s ease 0.5s forwards;">
+          <!-- Rating -->
+          <div style="display: flex; gap: 4px; margin-bottom: 20px; font-size: 20px;">
+            ⭐⭐⭐⭐⭐
+          </div>
+
+          <!-- Quote -->
+          <p style="font-size: 1.125rem; color: #e2e8f0; line-height: 1.8; margin-bottom: 24px; font-style: italic;">
+            "The AI content generator alone paid for itself. We're creating 10x more ad variations and our CTR improved by 156%."
+          </p>
+
+          <!-- Author -->
+          <div style="display: flex; align-items: center; gap: 16px;">
+            <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(135deg, #8b5cf6, #ec4899); display: flex; align-items: center; justify-content: center; font-size: 24px; color: white; font-weight: 700;">ER</div>
+            <div>
+              <div style="font-weight: 600; color: #f1f5f9; font-size: 1.125rem;">Emily Rodriguez</div>
+              <div style="color: #94a3b8; font-size: 0.875rem;">Performance Marketing Lead at TechCorp</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Trust Badge Bar -->
+      <div style="margin-top: 60px; padding: 40px; background: rgba(30, 41, 59, 0.5); border: 1px solid rgba(139, 92, 246, 0.2); border-radius: 12px; opacity: 0; animation: slideUp 0.8s ease 0.6s forwards;">
+        <div style="display: flex; justify-content: center; align-items: center; gap: 60px; flex-wrap: wrap; text-align: center;">
+          <div>
+            <div style="font-size: 2rem; font-weight: 700; color: #8b5cf6; margin-bottom: 8px;">4.9/5</div>
+            <div style="color: #cbd5e1; font-size: 0.875rem;">Average Rating</div>
+          </div>
+          <div style="width: 1px; height: 40px; background: rgba(139, 92, 246, 0.2);"></div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 700; color: #8b5cf6; margin-bottom: 8px;">2,000+</div>
+            <div style="color: #cbd5e1; font-size: 0.875rem;">Happy Customers</div>
+          </div>
+          <div style="width: 1px; height: 40px; background: rgba(139, 92, 246, 0.2);"></div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 700; color: #8b5cf6; margin-bottom: 8px;">418+</div>
+            <div style="color: #cbd5e1; font-size: 0.875rem;">Marketing Tools</div>
+          </div>
+          <div style="width: 1px; height: 40px; background: rgba(139, 92, 246, 0.2);"></div>
+          <div>
+            <div style="font-size: 2rem; font-weight: 700; color: #8b5cf6; margin-bottom: 8px;">24/7</div>
+            <div style="color: #cbd5e1; font-size: 0.875rem;">Customer Support</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="rt-faq">
+    <div class="rt-faq-heading-wrap">
+      <div class="rt-sub-text">[ Our faq ]</div>
+      <h2>Frequently asked questions</h2>
+    </div>
+    
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">01.</div>
+          <div class="rt-text-style-h6">What is AI automation, and how does it work?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">AI automation uses artificial intelligence to perform repetitive tasks, analyze data, and optimize processes, enabling businesses to save time, reduce errors, and make smarter, faster decisions efficiently.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">02.</div>
+          <div class="rt-text-style-h6">What types of tasks can be automated with AI?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">AI can automate repetitive tasks like data entry, customer support, report generation, inventory management, and workflow optimization, allowing teams to focus on strategic, high-value activities and business growth.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">03.</div>
+          <div class="rt-text-style-h6">Is AI automation suitable for small businesses?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">Yes, AI automation is ideal for small businesses. It streamlines operations, reduces manual work, improves efficiency, and provides actionable insights, helping smaller teams compete and grow effectively.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">04.</div>
+          <div class="rt-text-style-h6">What industries benefit the most from AI automation?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">Industries like finance, healthcare, retail, manufacturing, and logistics benefit greatly from AI automation. It streamlines operations, reduces errors, enhances customer service, and drives efficiency across diverse business sectors.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">05.</div>
+          <div class="rt-text-style-h6">Can AI automation integrate with my existing tools?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">Absolutely. AI automation seamlessly integrates with your existing tools and platforms, allowing workflows to connect effortlessly, enhancing productivity, reducing manual effort, and ensuring a smooth transition without disrupting current operations.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="rt-faq-dropdown-wrap">
+      <div class="rt-faq-top-part">
+        <div class="r-faq-text-wrap">
+          <div class="rt-text-style-h6">06.</div>
+          <div class="rt-text-style-h6">What is MarketingTool.Pro pricing?</div>
+        </div>
+        <div class="rt-faq-right-part">
+          <div class="rt-faq-plus"></div>
+        </div>
+      </div>
+      <div class="rt-faq-bottom-part">
+        <div class="rt-faq-para-wrap">
+          <p class="rt-no-margin">We offer flexible pricing with a free tier for getting started. Visit our pricing page to see our Pro and Enterprise plans with advanced features and priority support.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="cta-section">
+    <h2>Ready to Transform Your Business?</h2>
+    <p>Access 418 marketing tools and AI features. No credit card needed. Join 2000+ businesses already automating with AI.</p>
+    <a href="https://app.marketingtool.pro" class="rt-button rt-button-base">Launch Dashboard Now</a>
+  </section>
+
+  <Footer />
+
+  <script>
+    // FAQ Toggle
+    document.querySelectorAll('.rt-faq-dropdown-wrap').forEach((item) => {
+      item.querySelector('.rt-faq-top-part').addEventListener('click', () => {
+        item.classList.toggle('active');
+      });
+    });
+
+    // Smooth scroll
+    document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth' });
+        }
+      });
+    });
+  </script>
+</body>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matt Buchanan, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/matt-buchanan/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 23 Feb 2024 20:13:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Matt Buchanan, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5 Steps to a Goal-Crushing Lead Generation Process</title>
+		<link>https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process#respond</comments>
+		
+		<dc:creator><![CDATA[Matt Buchanan]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process/</guid>
+
+					<description><![CDATA[<p>Learn five ways to improve your lead generation process, using  metrics, automation, existing customers, content audits, and your sales team.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process">5 Steps to a Goal-Crushing Lead Generation Process</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The process you use to create quality content and appealing offers for lead generation affects whether or not you <a href="https://www.wordstream.com/blog/ws/2023/01/12/how-to-generate-leads">generate leads</a>. But the process behind acquiring, qualifying, and converting those leads into sales requires even closer attention. This area of your daily operations needs continual improvement to connect the content you create to your bottom line.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4aafb212-c4a0-4f48-a1e2-203c31cd09be" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/improve-lead-generation-process-1.png" alt="6-step lead generation process" width="720" height="173" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><a href="https://www.outbrain.com/blog/optimize-your-lead-generation-process/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>We learned during the pandemic that you can’t take any part of your business for granted—especially lead generation. In this post, I&#8217;m going to offer these five ways to optimize your lead generation process so you can get the best results in whatever state the economy is in:</p>
+<ol>
+<li>Get your metrics established</li>
+<li>Make your CRM work smarter, not harder</li>
+<li>Lead on existing customers</li>
+<li>Perform a content audit</li>
+<li>Review your sales process</li>
+</ol>
+<h2>5 ways to optimize your lead generation process for more sales</h2>
+<p>Sometimes it&#8217;s not about generating more leads, but about getting the right process in place to convert them into customers. Below are five ways you can make sure you&#8217;re getting the most out of your lead generation process.</p>
+<h3>1. Get your metrics established</h3>
+<p>You can’t get where you want to go if you don’t know where you&#8217;ve been. If you are going to improve on the performance of your <a href="/blog/ws/2019/10/17/b2b-lead-generation">lead generation efforts</a>, you need to have a way of measuring that improvement. Here are some metrics to pay attention to:</p>
+<p><strong>CAC (customer acquisition cost)</strong></p>
+<p><a href="/blog/ws/2019/01/10/cac-vs-clv">CAC</a> measures the cost of acquiring a single new customer. You divide the money spent on acquiring customers by the total number of new customers you acquired in that same time period.</p>
+<p>If you spend $1,000 and you acquire 10 new customers, your CPA would be $100. Tracking this number closely can help you evaluate the performance of various marketing channels.</p>
+<p><strong>CPA (cost per acquisition)</strong></p>
+<p>Though they sound the same, <a href="/blog/ws/2010/05/25/lifetime-value-vs-cpa">CPA</a> is different. It measures the amount you spend to get any sort of conversion (as you define it, like ebook downloads, consults, free trials, etc.. So it will be up to you to identify what a conversion looks like. As a general equation, you can divide the <a href="/blog/ws/2018/10/15/lower-cost-per-acquisition">amount of money you spend on acquiring new leads</a> in a given timeframe by the number of new leads actually secured during that same period.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bab3928b-4e24-416b-b971-06eaa9be7dec" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-cpa-vs-cac-1.png" alt="difference between cac vs cpa in the lead generation process" width="717" height="285" /></div>
+</article>
+</div>
+<p><strong>Customer lifetime value</strong></p>
+<p>As a partner to the CAC metric, it’s also worthwhile to know how much an average customer is worth to you over the lifetime of that account. Carrying on the example from above, a CAC of $100 would not be very good if the average customer is only worth $75 to your business. On the other hand, if the average customer is worth $1,000, you would be in great shape.</p>
+<p><strong>Cost per lead by marketing channel</strong></p>
+<p>Not all <a href="/blog/ws/2019/08/28/cross-channel-lead-generation">marketing channels</a> are created equal. Your costs are going to vary from channel to channel, and you’ll obviously want to lean into those that offer you the most affordable and <a href="/blog/ws/2019/04/08/lead-quality">quality leads</a>. Without tracking this metric carefully, you’ll just be guessing as to which marketing channels represent the best value.</p>
+<p>It takes some time and effort to set up the systems necessary to track these various metrics. Fortunately, once they are set up and running smoothly, you can simply monitor the numbers and make your marketing decisions based on sound, accurate data.</p>
+<h3>2. Make your CRM work smarter, not harder</h3>
+<p>This section assumes that you are already using a <a href="/blog/ws/2020/11/09/crm-for-small-business">customer relationship management (CRM)</a> tool in your business. If you are not, we suggest that you get started right away. A quality CRM offers many potential gains for your business as compared to managing leads and <a href="/blog/ws/2021/06/21/build-client-relationships">customer relationships</a> with spreadsheets or even pen and paper.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2d6944fa-4465-43b9-ae12-dda7fd79ce44" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-mql-to-sql-1.png" alt="flowchart of lead generation process from lead to MQL to SQL" width="720" height="261" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><a href="https://gripped.io/sales-enablement/what-is-the-difference-between-a-marketing-qualified-lead-and-a-sales-qualified-lead/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>Even if you are already using a CRM, you might not be getting optimal performance from that piece of software. Most CRMs have incredibly powerful tools just waiting to be put into action. Some of the steps you can take to get the most from your CRM include the following:</p>
+<ul>
+<li>Automate inbound <a href="https://www.wordstream.com/blog/ws/2021/10/23/lead-qualification">lead qualification</a> so your sales team is only working on leads that have the potential to <a href="/blog/ws/2017/04/04/nurture-marketing">turn into sales</a>.</li>
+<li>Toward that end, take the time to identify the key data points and other factors that separate a good lead from the rest.</li>
+<li>Use your CRM to automate the process of passing a new lead from the marketing side of your business to the sales department.</li>
+<li>Review old leads to see where opportunities may have been missed in the past.</li>
+</ul>
+<p>Your CRM has the potential to not only improve the performance of your <a href="/blog/ws/2019/09/17/local-lead-generation-strategies">lead generation activities,</a> but also to save you time and reduce stress. Get it working at an optimal level to avoid letting potentially valuable leads go to waste.</p>
+<h3>3. Lean on your existing customers</h3>
+<p>There are three ways your existing customers can help you improve your lead generation process.</p>
+<p><strong>Referral programs</strong></p>
+<p>First and most obvious is through a <a href="/blog/ws/2021/04/14/referral-program-ideas">referral program</a>. Reward your clients with a discount when they bring in new leads for you.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="038e1ed3-e4dd-4bdf-9de1-a3b538c3b9d3" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-b2b-referral-email-1.png" alt="how to optimize your lead generation process—example of b2b referral email" width="720" height="476" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><a href="https://www.zoho.com/docs/referrals.html" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p><strong>Reengagement campaigns</strong></p>
+<p>While it&#8217;s great to generate new leads, you may be struggling to find worthwhile marketing opportunities in a down market, or lack the <a href="https://www.wordstream.com/blog/ws/2015/05/21/how-much-does-adwords-cost">budget to invest in new campaigns</a>.</p>
+<p>Consider turning back to your existing customer base to see if you can extract more value. For example, you might send an email to customers who have not <a href="/blog/ws/2021/04/23/influence-buyers-marketing-psychology">made a purchase</a> or used your product in at least one year, offering them a new feature, discount, or other incentive to come back.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5c8e0873-3d1e-48c4-a932-449aa42d43ca" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-reengagement-email-1.png" alt="example of asana optimizing lead generation process with reengagement emails" width="630" height="1024" /></div>
+</article>
+</div>
+<h3>4. Perform a content audit</h3>
+<p>In addition to technical concerns like page speed and tracking setup, perform a content audit for your <a href="/blog/ws/2021/06/15/lead-magnet-ideas">lead magnets</a> and CTAs. lead-generating materials.</p>
+<p>Some things to check include:</p>
+<ul>
+<li><strong>Consistency: </strong>You know exactly what your products or services do, why they are valuable, and what makes them <a href="/blog/ws/2014/04/07/unique-selling-proposition">unique in the marketplace.</a> So it’s easy to take for granted that your potential customers know these things as well—but they don’t. Make sure you have consistent messaging that covers those key points throughout your <a href="/blog/ws/2021/05/18/content-marketing-examples">marketing content.</a></li>
+<li><strong>Appeal: </strong>Are you communicating the most appealing <a href="/blog/ws/2017/02/21/features-vs-benefits">features and benefits</a> about your offerings?</li>
+<li><strong>Keywords: </strong>Are you using language that your ideal customers would use to find solutions to the problem you solve? Do your <a href="/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a> and target different keywords for different personas.</li>
+<li><strong>Headlines: </strong>Your <a href="/blog/ws/2017/05/17/how-to-write-great-headlines">headlines</a> are the ad for your ad. Whether it&#8217;s <a href="/blog/ws/2018/08/28/facebook-ad-headlines">ad headlines</a>, <a href="/blog/ws/2021/04/06/irresistible-blog-post-titles">blog post titles</a>, or even email subject lines, make sure they&#8217;re interesting, easy to read, and communicate value.</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0fcad3df-5fc5-43bf-8c28-c8439f34a1e2" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-content-audit-1.png" alt="examples good and bad blog post titles" width="500" height="504" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><a href="https://coschedule.com/blog/catchy-blog-titles" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h3>5. Review your sales process</h3>
+<p>Getting leads is a big step in the right direction. But leads alone are worth nothing. In fact, they are worth less than nothing if you used <a href="/blog/ws/2018/04/18/underused-ppc-strategies">paid advertising tactics</a>. Make sure your optimized lead generation process eventually gives way to an equally optimized sales process, so those leads can be translated into revenue.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b1ef7ce6-69e3-43d0-ac0f-32dc91beae57" data-langcode="en">
+<article>
+<div><img decoding="async" class="aligncenter" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize-lead-generation-process-sales-process-1.png" alt="how to improve lead generation process—chart of the sales process" width="720" height="290" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><a href="https://online.visual-paradigm.com/de/diagrams/templates/process-map/marketing/sales-process/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>You may begin the buying journey by <a href="https://www.wordstream.com/blog/social-selling">selling on social media</a>. But most sales processes involve a call at some point in the journey, where candidates may drop off. Make sure your sales team members are equipped to make those calls as fruitful as possible.</p>
+<p>Listen to calls with actual leads in your funnel. Is there a specific place along the <a href="/blog/ws/2019/11/21/customer-journey-mapping">customer journey </a>that they seem to get stuck? Are there questions that your sales team is not prepared to answer confidently?</p>
+<p>Then,<strong> </strong>update your sales script in response to the issues that were identified while listening to calls. Be proactive about addressing the questions that seem to come up over and over so you can position your sales team to be successful.</p>
+<h2>Exceed your goals with an improved lead generation process</h2>
+<p>If you are able to optimize how your sales process works, you might find that you don’t need as many leads as you once believed to meet your goals. An <a href="http://servicedirect.com" target="_blank" rel="noopener">improved lead generation process</a> that connects with your sales process will help you to make sure you never miss out on an opportunity again.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process">5 Steps to a Goal-Crushing Lead Generation Process</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/06/25/optimize-lead-generation-process/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

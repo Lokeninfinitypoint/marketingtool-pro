@@ -1,0 +1,17 @@
+{
+  "id": "link",
+  "title": "Stripe link",
+  "longTitle": "Stripe link",
+  "countries": [],
+  "currencies": [],
+  "version": "1.0.0",
+  "description": "Stripe Link wallet",
+  "icon": "link.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "external_docs": "https://stripe.com/payments/link",
+  "internal_docs": "https://docs.themeisle.com/category/2087-creating-forms",
+  "enabled": true
+}

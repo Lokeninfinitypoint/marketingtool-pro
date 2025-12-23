@@ -1,0 +1,20 @@
+{
+  "id": "cashapp",
+  "title": "Cash App Pay",
+  "longTitle": "Cash App Pay",
+  "countries": [],
+  "currencies": [
+    "usd"
+  ],
+  "version": "1.0.0",
+  "description": "Amazon Pay is a wallet payment method that lets your customers check out the same way as on Amazon.com.",
+  "icon": "cashapp.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "wallet": true,
+  "external_docs": "https://docs.stripe.com/payments/cash-app-pay",
+  "internal_docs": "https://docs.stripe.com/payments/cash-app-pay",
+  "enabled": true
+}

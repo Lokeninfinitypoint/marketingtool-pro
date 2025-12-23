@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keri Gonzalez, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/keri-gonzalez/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sun, 06 Nov 2022 23:53:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Keri Gonzalez, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>4 Tips to Succeed Using Google Ads Broad Match (with Data!)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match#respond</comments>
+		
+		<dc:creator><![CDATA[Keri Gonzalez]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match/</guid>
+
+					<description><![CDATA[<p>In this post, we share data from a successful use case with broad match (now that modified broad has gone away), and provide four tips for testing this safely while not breaking the bank: Monitor performance, trust automation, review your search query reports, and be patient with hitting targets.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match">4 Tips to Succeed Using Google Ads Broad Match (with Data!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<p>With roughly <a href="https://www.wordstream.com/blog/ws/2019/02/07/google-search-statistics">3.5 billion</a> searches per day, it can be difficult to capture all relevant search terms for your business through PPC. To make matters more difficult, Google announced last month that <a href="https://www.wordstream.com/blog/ws/2021/02/10/modified-broad-match-going-away">modified broad match is going away</a>, which means some search queries will no longer be eligible to show based on the word order of that query.</p>
+<p>This means that advertisers will need to not only expand their keyword lists for exact and phrase match, but they will also need to embrace broad match.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="208836be-f124-4bf7-b8d8-ebfdfeb5d831" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Broad-Match-1.png" alt="how-to-win-with-broad-match-header" width="800" height="482" /></div>
+</article>
+</div>
+<p>While this might seem scary (I, for one, know of some pretty wild searches I’ve seen come through broad match over the years), there is a way to embrace broad match while seeing a significant increase in conversions at your target CPA. Broad match can actually be a really good catch-all strategy for identifying new keywords to incorporate into your search campaigns.</p>
+<p>In this article, I’ll share some data from my own client’s success with broad match (in an industry hard hit by the pandemic) and provide four tips for testing this safely while not breaking the bank. They include:</p>
+<ol>
+<li>Monitor shifts in performance</li>
+<li>Embrace and trust automation</li>
+<li>Review your search query reports frequently</li>
+<li>Be patient with hitting targets</li>
+</ol>
+<h2>Seeing success with broad match (case study)</h2>
+<p>I’ve been working with a client in the travel industry for over two years now, and (unsurprisingly) with COVID-19, it has been more difficult to drive steady conversion volume. It’s also nearly impossible to <a href="https://www.wordstream.com/blog/ws/2020/03/30/covid-19-google-search-trends">stay on top of search trends</a> when there are hundreds of thousands of combinations when taking into account all of the different travel destinations.</p>
+<p>In February, we started taking our top converting search queries and adding them as broad match keywords, without modifiers. We’ve been working under a reduced CPA target, so we were hoping this would help us achieve a steady amount of conversion volume at a <a href="https://www.wordstream.com/blog/ws/2013/07/16/quality-score-cost-per-conversion">lower cost</a>. So far, we’ve seen a <strong>30% decrease in CPA</strong> from broad match keywords and a <strong>7% increase in overall conversion rate</strong>. These keywords also accounted for <strong>75% of our conversions in the month of February</strong>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c53ee148-91d5-47b9-a1b8-f5fef124e35f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-win-with-broad-match-case-study_0-1.png" alt="how-to-win-with-broad-match-case-study" width="800" height="144" /></div>
+</article>
+</div>
+<p>It’s safe to say that this proved to be an effective strategy. Not only did we improve our CPA, but we also <a href="/blog/ws/2021/02/24/microsoft-advertising-intelligence-tools">identified new keywords</a> that can be incorporated into our exact and phrase match keyword strategy.</p>
+<p>However, you do want to be careful when testing out broad keywords. It’s always important to ensure you’re not seeing a decrease in the <a href="https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate">quality of conversions</a> you’re driving, especially if you&#8217;re a B2B advertiser. For my client, these conversions are direct bookings so we knew that the value from these conversions was just as high as those coming from <a href="/blog/ws/2018/09/07/exact-match-keywords-even-more-variants">exact match keywords</a>.</p>
+<h2>4 tips for using broad match effectively</h2>
+<p>Still unsure if this is a strategy you can incorporate into your own campaigns? Here are some tips that might help you feel more confident in trying this out.</p>
+<h3>1. Monitor shifts in performance</h3>
+<p>Create dashboard reports within the Google interface to ensure you’re able to monitor for shifts in performance and CPA at the match type level. I always recommend including Cost, CPC and Cost-per-Conversion in those reports. This makes it easy for me to understand whether or not I need to do some extra work on my end to optimize the traffic coming through each match type. More to come on that below.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c0a613f4-f3cf-4d4c-9e6a-d54dff1e7b26" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-win-with-broad-match-dashboard-1.png" alt="how-to-win-with-broad-match-dashboard" width="800" height="270" /></div>
+</article>
+</div>
+<h3>2. Embrace and trust automation</h3>
+<p>Use an <a href="/blog/ws/2018/12/19/google-ads-automated-bidding">automated bid strategy</a> with this match type. Google has done a lot of work over the years in improving its ability to predict user behavior based on historic user data. Since this is going to act as a <a href="/blog/ws/2016/12/06/sales-funnel-stages">top-of-funnel strategy</a>, you’ll want to make sure you’re leveraging automation which will help improve the quality of<a href="/blog/ws/2014/08/14/increase-traffic-to-my-website"> traffic you’re driving to the website</a>.</p>
+<p>Note: You will want to make sure that the campaign you’re adding these broad keywords into already has at least 15 conversions before utilizing a ‘Target CPA’ or ‘Target ROAS’ bid strategy. If you’re creating a new campaign for this test, or haven’t met that criteria yet, make sure to start off with a ‘Maximize Conversion’ bid strategy. This lets the algorithm collect the data it needs before optimizing for a specific CPA target. For my own clients, I have seen success leaving it on a ‘Maximize Conversion’ strategy permanently as long as the campaign is hitting your own financial goals. If not, that’s where you slowly introduce a CPA target and give the campaign time (1-2 weeks) to hit that target.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1261cd8b-65f7-45fb-a239-ed310892d156" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20automated20bidding20strategies-1.png" alt="google ads automated bidding strategies" width="800" height="368" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>From our post on <a href="/blog/ws/2020/10/15/smart-bidding">How to Bid Like a Pro in Google Ads</a></em></p>
+<h3>3. Analyze your search queries frequently</h3>
+<p>It pays to do the extra work here. I’ve found that it’s important to get to know your broad match traffic. This means reviewing the <a href="/blog/ws/2020/09/03/google-search-terms-report-changes">search query reports</a> frequently enough so that you can understand what traffic is converting and what traffic is not converting. There are a few different ways I look at this data when deciding next steps.</p>
+<p><strong>Relevant terms with a low conversion rate</strong></p>
+<p>These search queries tend to drive up your CPA so it’s important to understand why. It might be worth looking into whether or not the <a href="/blog/ws/2013/08/15/ad-copywriting-tips">ad copy</a> and landing page is really serving this audience. If it’s not, I would test breaking it out into its own ad group with highly relevant ad copy. Sometime’s the gut reaction is to not bid on this traffic, however you’re likely leaving business on the table rather than trying to optimize that traffic and use it to your advantage.</p>
+<p><strong>Relevant terms with a high conversion rate</strong></p>
+<p>This is where you can really see an impact on your <a href="https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics">overall performance metrics</a>. Make sure you’re adding these search queries as keywords and giving them the budget they deserve.</p>
+<p><strong>Irrelevant terms with a low conversion rate or 0 conversions</strong></p>
+<p>If you’re using an automated bid strategy, these won’t come up as much as you think since Google is automatically going after those users more likely to convert. However, it’s still important to look through the searches and add <a href="https://www.wordstream.com/blog/ws/2018/06/06/negative-keyword-guide">negative keywords</a> for any traffic you know won’t convert.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2fd53ccb-b668-421a-9239-e416efddea01" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-win-with-broad-match-search-terms-1.png" alt="how to win with broad match search terms report" width="800" height="492" /></div>
+</article>
+</div>
+<h3>4. Be patient with hitting targets</h3>
+<p>The above work isn’t easy and it definitely takes time. You’ll want to ensure you’re giving your broad match strategy the proper time to hit targets and bring in those additional conversions. This means giving your bidding strategy time to gather the conversion data it needs to optimize traffic and giving yourself the time to do the work mentioned above. I always recommend to my clients that we give this strategy at least 4-6 weeks to show us what it’s capable of.</p>
+<h2>Follow these tips to succeed with broad match</h2>
+<p>PPC advertising will likely only get more complex. There are likely more changes coming down the pipeline and we need to make sure that we’re never complacent in how we manage and grow our campaigns. Google’s change to modified broad match keywords is only one example of many that will force us to identify new ways of structuring and optimizing campaigns.</p>
+<p><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader"><em><strong>Find more optimization opportunities with our Free Google Ads Performance Grader!</strong></em></a></p>
+<p>The good news is that as long as we stay on top of measuring the results from these changes, and the tests we’re running in our own campaigns, we can make an impact on performance at the end of the day.</p>
+<p>Oh, and here&#8217;s another way to <a href="/blog/ws/2021/06/08/broad-match-audience-targeting-google-ads">succeed in Google Ads without modified broad</a>!</p>
+</div>
+</div>
+</div>
+</section>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match">4 Tips to Succeed Using Google Ads Broad Match (with Data!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

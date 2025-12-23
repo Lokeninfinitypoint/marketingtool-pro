@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Automation" transform="translate(-1344, -963)">
+            <g id="Group-32-Copy" transform="translate(1198, 945)">
+                <g id="Group-26-Copy-4" transform="translate(129, 0)">
+                    <g id="cash-briefcase" transform="translate(19, 20)">
+                        <path d="M13.3571429,22.460718 C13.3571429,23.9901539 14.9875238,25.2307692 17,25.2307692 C19.0124762,25.2307692 20.6428571,23.9901539 20.6428571,22.460718 C20.6428571,20.9312821 19.0124762,19.6923077 17,19.6923077 C14.9875238,19.6923077 13.3571429,18.4516923 13.3571429,16.9222564 C13.3571429,15.3928205 14.9875238,14.1538462 17,14.1538462 C19.0124762,14.1538462 20.6428571,15.3928205 20.6428571,16.9222564" id="Shape" stroke="#FFAF24" stroke-width="2.13"></path>
+                        <line x1="17" y1="12.3076923" x2="17" y2="14.1538462" id="Shape" stroke="#FFAF24" stroke-width="2.13"></line>
+                        <line x1="17" y1="25.2307692" x2="17" y2="27.0769231" id="Shape" stroke="#FFAF24" stroke-width="2.13"></line>
+                        <rect id="Rectangle-path" stroke="#3A56BC" stroke-width="2.3" x="0" y="7.3846154" width="34" height="24.6153846" rx="2.46153846"></rect>
+                        <path d="M22.4108571,1.6820513 C22.0799299,0.677342623 21.1519858,-0.000137443357 20.1069524,0 L13.8930476,0 C12.8480142,-0.000137443357 11.9200701,0.677342623 11.5891429,1.6820513 L9.71428571,7.3846154 L24.2857143,7.3846154 L22.4108571,1.6820513 Z" id="Shape" stroke="#3A56BC" stroke-width="2.3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+/*---- Banner section -----*/
+.banner-section h1, .product-section h2{
+	font-family: 'Jomhuria', cursive;
+	line-height: 0.7 !important;
+}
+.banner-section .wp-block-search__inside-wrapper {
+    border: 0 !important;
+    background: #fff;
+    padding: 8px !important;
+}
+.banner-section .wp-block-search__inside-wrapper input{
+	padding: 10px !important;
+}
+.banner-section .wp-block-search__inside-wrapper .wp-block-search__button{
+	background: #ffd04a;
+	border: 0 !important;
+	color: #11235e;
+	font-weight: 600;
+    padding: 12px 22px !important;
+    border-radius: 7px;
+    font-size: 12px;
+    box-shadow: none;
+}
+.banner-section h1, .product-section h2{
+	font-weight: 400;
+}
+.product-section h2{
+	margin: 0;
+}
+/*---- Product Section -----*/
+.product-section li .wc-block-grid__product-title, .product-section li .wc-block-grid__product-onsale, .product-section .wc-block-grid__product-add-to-cart .wp-block-button__link.add_to_cart_button, .product-section .wc-block-grid__product-price.price{
+	font-family: 'Poppins', sans-serif;
+}
+.product-section li.wc-block-grid__product{
+	text-align: left !important;
+}
+.product-section li.wc-block-grid__product .wc-block-grid__product-onsale{
+	border: 0;
+	background: #11235e;
+	color: #fff;
+	position: absolute;
+    top: 65%;
+    transform: translateY(-50%);
+    right: 20px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    margin: 0;
+}
+.product-section li.wc-block-grid__product .wc-block-grid__product-title {
+    font-size: 16px;
+    color: #11235e;
+}
+.product-section .wc-block-grid__product-price.price {
+    display: inline-block;
+    width: 55%;
+    font-size: 18px;
+    color: #000;
+    font-weight: 700;
+}
+.product-section .wc-block-grid__product-add-to-cart {
+    display: inline-block;
+}
+.product-section .wc-block-grid__product-add-to-cart .wp-block-button__link.add_to_cart_button{
+	background: linear-gradient(to right, #349dff , #3872ff);
+	border-radius: 8px;
+	font-size: 14px;
+	padding: 6px 16px;
+	font-weight: 600;
+}

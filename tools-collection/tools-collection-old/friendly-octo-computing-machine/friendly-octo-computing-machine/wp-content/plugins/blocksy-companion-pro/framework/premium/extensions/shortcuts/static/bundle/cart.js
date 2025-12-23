@@ -1,0 +1,1 @@
+!function(){"use strict";window.ctEvents;(0,window.ctFrontend.registerDynamicChunk)("blocksy_shortcuts_cart",{mount:function(t,{event:e}){let n=document.querySelector(".ct-header-cart .ct-offcanvas-trigger");n?n.dispatchEvent(new MouseEvent(e.type,{view:window,bubbles:!0,cancelable:!0})):location.href=t.getAttribute("href")}})}();

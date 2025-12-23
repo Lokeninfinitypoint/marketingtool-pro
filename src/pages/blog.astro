@@ -1,0 +1,422 @@
+---
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+
+interface BlogPost {
+  id: string;
+  slug: string;
+  title: string;
+  category: 'ppc' | 'seo' | 'writing' | 'tools';
+  excerpt: string;
+  date: string;
+  author: string;
+  image: string;
+  content: string;
+}
+
+const blogPosts: BlogPost[] = [
+  {
+    id: '1',
+    slug: 'master-facebook-ads-2024',
+    title: 'Master Facebook Ads in 2024: Complete Guide',
+    category: 'ppc',
+    excerpt: 'Learn advanced Facebook advertising strategies to maximize ROI and scale your campaigns.',
+    date: '2024-12-10',
+    author: 'Sarah Chen',
+    image: '🎯',
+    content: 'Facebook Ads remain one of the most powerful marketing channels in 2024. In this comprehensive guide, we cover...'
+  },
+  {
+    id: '2',
+    slug: 'seo-fundamentals-2024',
+    title: 'SEO Fundamentals That Actually Work',
+    category: 'seo',
+    excerpt: 'Master the core SEO principles that drive organic traffic and improve search rankings.',
+    date: '2024-12-08',
+    author: 'John Smith',
+    image: '🔍',
+    content: 'Search Engine Optimization has evolved significantly. Here are the fundamentals that still matter in 2024...'
+  },
+  {
+    id: '3',
+    slug: 'copywriting-secrets',
+    title: 'Copywriting Secrets for High-Converting Ads',
+    category: 'writing',
+    excerpt: 'Write ad copy that actually converts. Proven formulas and frameworks from top copywriters.',
+    date: '2024-12-05',
+    author: 'Emma Wilson',
+    image: '✍️',
+    content: 'Great copywriting is both an art and a science. Here are the proven frameworks...'
+  },
+  {
+    id: '4',
+    slug: 'ai-marketing-tools-guide',
+    title: 'The Complete AI Marketing Tools Guide',
+    category: 'tools',
+    excerpt: 'Discover 418+ AI tools that can revolutionize your marketing workflow and save hours daily.',
+    date: '2024-12-01',
+    author: 'Mike Johnson',
+    image: '🤖',
+    content: 'Artificial Intelligence is transforming marketing. Here are the best AI tools available...'
+  },
+  {
+    id: '5',
+    slug: 'ppc-budget-optimization',
+    title: 'How to Optimize Your PPC Budget',
+    category: 'ppc',
+    excerpt: 'Stop wasting ad spend. Learn the exact strategies to optimize every dollar.',
+    date: '2024-11-28',
+    author: 'Sarah Chen',
+    image: '💰',
+    content: 'Budget optimization is crucial for PPC success. Here are the strategies that work...'
+  },
+  {
+    id: '6',
+    slug: 'seo-technical-audit',
+    title: 'Complete SEO Technical Audit Checklist',
+    category: 'seo',
+    excerpt: 'Find and fix technical SEO issues that are killing your search rankings.',
+    date: '2024-11-25',
+    author: 'John Smith',
+    image: '🔧',
+    content: 'Technical SEO is often overlooked. Here is a complete checklist to audit your site...'
+  },
+];
+
+const categories = ['ppc', 'seo', 'writing', 'tools'];
+const categoryLabels = {
+  ppc: 'PPC Advertising',
+  seo: 'SEO & Organic',
+  writing: 'Copywriting',
+  tools: 'Marketing Tools'
+};
+
+// Get category from URL query parameter
+const url = new URL(Astro.request.url);
+const selectedCategory = url.searchParams.get('category') || 'all';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog - MarketingTool.Pro</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: linear-gradient(135deg, #020617 0%, #1a1d3a 50%, #0f172a 100%);
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    .blog-header {
+      min-height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 80px 20px 60px;
+      margin-top: 64px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .blog-header::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(139, 92, 246, 0.15) 0%, transparent 70%);
+      border-radius: 50%;
+    }
+
+    .blog-header h1 {
+      font-size: 3.5rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, #fbbf24 0%, #8b5cf6 50%, #ec4899 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      position: relative;
+      z-index: 10;
+      margin-bottom: 16px;
+    }
+
+    .blog-header p {
+      font-size: 1.25rem;
+      color: #cbd5e1;
+      position: relative;
+      z-index: 10;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .blog-content {
+      padding: 60px 20px;
+    }
+
+    .category-tabs {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 40px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .tab-btn {
+      padding: 10px 20px;
+      background: rgba(139, 92, 246, 0.1);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      border-radius: 6px;
+      color: #cbd5e1;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .tab-btn:hover,
+    .tab-btn.active {
+      background: linear-gradient(135deg, #8b5cf6, #ec4899);
+      border-color: #8b5cf6;
+      color: white;
+    }
+
+    .blog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 32px;
+      margin-bottom: 60px;
+    }
+
+    .blog-card {
+      background: linear-gradient(135deg, rgba(30, 41, 59, 0.8) 0%, rgba(25, 32, 54, 0.8) 100%);
+      border: 1px solid rgba(139, 92, 246, 0.2);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+    }
+
+    .blog-card:hover {
+      border-color: rgba(139, 92, 246, 0.4);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(139, 92, 246, 0.2);
+    }
+
+    .blog-card-image {
+      width: 100%;
+      height: 200px;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.2), rgba(236, 72, 153, 0.2));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 64px;
+      border-bottom: 1px solid rgba(139, 92, 246, 0.1);
+    }
+
+    .blog-card-content {
+      padding: 24px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .blog-category {
+      display: inline-block;
+      padding: 4px 12px;
+      background: rgba(139, 92, 246, 0.2);
+      border-radius: 4px;
+      font-size: 12px;
+      color: #8b5cf6;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 12px;
+      width: fit-content;
+    }
+
+    .blog-card-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #f1f5f9;
+      flex-grow: 1;
+    }
+
+    .blog-card-excerpt {
+      color: #cbd5e1;
+      font-size: 14px;
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    .blog-card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 16px;
+      border-top: 1px solid rgba(139, 92, 246, 0.1);
+      font-size: 12px;
+      color: #94a3b8;
+    }
+
+    .blog-card-meta span {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .read-more {
+      color: #8b5cf6;
+      font-weight: 600;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.3s ease;
+    }
+
+    .read-more:hover {
+      gap: 10px;
+      color: #ec4899;
+    }
+
+    .no-posts {
+      text-align: center;
+      padding: 40px;
+      color: #64748b;
+    }
+
+    .no-posts-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .blog-header h1 {
+        font-size: 2.5rem;
+      }
+
+      .blog-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .category-tabs {
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding-bottom: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <Navigation />
+
+  <!-- Blog Header -->
+  <div class="blog-header">
+    <div>
+      <h1>Blog</h1>
+      <p>Expert insights on PPC, SEO, copywriting, and marketing tools</p>
+    </div>
+  </div>
+
+  <!-- Blog Content -->
+  <div class="blog-content">
+    <div class="container">
+      <!-- Category Tabs -->
+      <div class="category-tabs">
+        <button class="tab-btn" data-category="all" onclick="filterCategory('all')">All Posts</button>
+        <button class="tab-btn" data-category="ppc" onclick="filterCategory('ppc')">PPC Advertising</button>
+        <button class="tab-btn" data-category="seo" onclick="filterCategory('seo')">SEO & Organic</button>
+        <button class="tab-btn" data-category="writing" onclick="filterCategory('writing')">Copywriting</button>
+        <button class="tab-btn" data-category="tools" onclick="filterCategory('tools')">Marketing Tools</button>
+      </div>
+
+      <!-- Blog Grid -->
+      <div class="blog-grid" id="blogGrid">
+        {blogPosts.map((post) => (
+          <div class="blog-card" data-category={post.category} onclick={`window.location='/blog/${post.slug}'`}>
+            <div class="blog-card-image">{post.image}</div>
+            <div class="blog-card-content">
+              <span class="blog-category">{post.category.toUpperCase()}</span>
+              <h3 class="blog-card-title">{post.title}</h3>
+              <p class="blog-card-excerpt">{post.excerpt}</p>
+              <div class="blog-card-meta">
+                <span>📅 {new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                <span>✍️ {post.author}</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <!-- No posts message -->
+      <div class="no-posts" id="noPosts" style="display: none;">
+        <div class="no-posts-icon">📝</div>
+        <h3>No posts found</h3>
+        <p>Try selecting a different category</p>
+      </div>
+    </div>
+  </div>
+
+  <Footer />
+
+  <script define:vars={{ selectedCategory }}>
+    function filterCategory(category) {
+      const cards = document.querySelectorAll('.blog-card');
+      const buttons = document.querySelectorAll('.tab-btn');
+      let visibleCount = 0;
+
+      // Update active button
+      buttons.forEach((btn) => {
+        btn.classList.remove('active');
+        if (btn.dataset.category === category) {
+          btn.classList.add('active');
+        }
+      });
+
+      // Filter cards
+      cards.forEach((card) => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = 'block';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      // Show no posts message
+      document.getElementById('noPosts').style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+
+    // Initialize on page load with URL parameter
+    document.addEventListener('DOMContentLoaded', () => {
+      if (selectedCategory && selectedCategory !== 'all') {
+        filterCategory(selectedCategory);
+      } else {
+        // Set "All Posts" as active by default
+        const allButton = document.querySelector('[data-category="all"]');
+        if (allButton) allButton.classList.add('active');
+      }
+    });
+  </script>
+</body>
+</html>

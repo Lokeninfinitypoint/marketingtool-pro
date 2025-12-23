@@ -1,0 +1,67 @@
+@import '../../../../../../../static/sass/frontend/common-frontend/functions';
+
+.ct-toggle-filter-panel {
+	gap: 8px;
+	font-size: 11px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: var(--theme-text-color);
+
+	--toggle-button-radius: 3px;
+	--toggle-button-margin-start: 0;
+	// --toggle-button-margin-end: 1.2em;
+	--toggle-button-padding: 7px 13px;
+	--toggle-button-border-width: 1px;
+	--toggle-button-border-color: var(--theme-border-color);
+
+	--theme-icon-size: 12px;
+	--theme-icon-color: currentColor;
+
+	&:hover, &:active {
+		color: #fff;
+		--toggle-button-background: var(--theme-link-hover-color);
+		--toggle-button-border-color: var(--theme-link-hover-color);
+	}
+}
+
+
+
+#woo-filters-panel {
+
+	.ct-sidebar {
+		height: 100%;
+		margin: initial;
+	}
+
+	.widget-title {
+		font-size: 15px;
+		font-weight: 600;
+	}
+
+	// filter type - off-canvas
+	&[data-behaviour*='side'] {
+		--horizontal-alignment: stretch;
+	}
+
+	// filter type - drop-down
+	&[data-behaviour='drop-down'] {
+		display: flex;
+		flex-direction: column;
+
+		.ct-filter-content {
+			display: grid;
+			grid-template-columns: var(--grid-template-columns, repeat(4, 1fr));
+			gap: 30px;
+			margin-bottom: 25px;
+			padding-block: 25px;
+			border-block: 1px solid var(--theme-border-color);
+		}
+
+		&[data-height='custom'] {
+			.ct-widget {
+				height: var(--filter-panel-height);
+				overflow-y: scroll;
+			}
+		}
+	}
+}

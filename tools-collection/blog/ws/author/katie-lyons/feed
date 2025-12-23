@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Katie Lyons, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/katie-lyons/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 11 Jan 2024 21:30:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Katie Lyons, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Myth Busting: The Truth About Long-Tail Keywords</title>
+		<link>https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth#respond</comments>
+		
+		<dc:creator><![CDATA[Katie Lyons]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Keyword Research & Tools]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth/</guid>
+
+					<description><![CDATA[<p>We dispel some common myths about using long-tail keywords for PPC advertising and point you in the right direction for keyword research and discovery.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth">Myth Busting: The Truth About Long-Tail Keywords</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Some of the most popular questions I hear from clients are “What are your recommendations for long-tail keywords?” and “How do I go about finding long-tail keywords?” It seems as though there is some notion leading people to believe there is a magical secret to long-tail keywords. Well, you’re in luck because I am here to tell you that there really is no secret, but rather just a few best practices you should know before beginning your <a href="/blog/ws/2012/11/07/how-to-find-long-tail-keywords">search for long-tails keywords</a>. As you read on, I will dispel some common long-tail keyword myths and point you in the right direction for keyword research and discovery.</p>
+<h2>Myth #1: The longer tailed the keyword, the better</h2>
+<p>I sense that the instinctual thought about long-tail keywords is that they need to be fairly long because that’s the only way they are going to work, right? Well no, that’s not necessarily the case. As I often tell my clients, think about how many lazy searchers there are and also think about your own searching habits. More often than not, searchers are probably typing in as few words as they can in order to get results. For example, if I were to take to Google to search for a guide about long-tail keywords, I would probably search for something like “long-tail keywords” or maybe at most “long-tail keywords AdWords.” I certainly am not searching for something like “how do I find and add long-tail keywords to my account in AdWords.” Who even has time for that?</p>
+<h3>The truth</h3>
+<p>Longer tail keywords will by nature be less competitive and potentially less expensive, but this often comes hand in hand with a lower volume of searches. Sometimes if the long-tail keyword is too long/too specific you will see the dreaded red text from Google indicating your keyword is a “Low Search Volume” keyword, which means no one is searching for that keyword so Google is deeming it inactive unless search volume increases. This is the worst and just feels discouraging, because you aren’t given the chance to get any traction with the keyword. Even if you’re lucky enough to escape the low search designation, if you’re utilizing keywords that are too long and specific, it will be difficult to draw in a high enough volume of searches for that keyword for you to meet click and conversion goals.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9e775c9a-f7d7-474e-a41e-fc6c272e7927" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-low-search-volume-keywords-1.png" alt="low search volume keywords" width="582" height="68" /></div>
+</article>
+</div>
+<p>In general you should be trying to capture “longER tail” keywords rather than just general “long-tail” keywords. Sticking to 3-4 terms for these longer tail variations will still allow you to identify some of the more specific/less competitive/less costly keywords without getting to the point where you are using keywords that only one person searches for on a rare occasion. If you fill your account with tons of long-tail keywords that you found because they had one impression and one click in a year’s time, it’s most likely that you will end up with a whole lot of extra keywords that are just hanging around in your account without contributing to any sort of positive performance. And as you may know from a <a href="/blog/ws/2014/07/03/delete-adwords-account">previous blog</a>, I am a strong proponent for clean, organized accounts; so stay away from keywords that are simply going to clutter your account.</p>
+<h2>Myth #2: I can get away with using only long-tail keywords in my account</h2>
+<p>This myth is probably more prevalent among users in highly competitive industries that commonly find all of the popular keywords in their industry are too expensive to justify. Especially if you are just starting to build out your AdWords campaign, you have no proof as to whether or not the costly keywords will have any return, so it can be difficult to justify the spend.  With that, the tendency is to seek out just long-tail keywords in an attempt to avoid super competitive and <a href="/articles/most-expensive-keywords">expensive keywords</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="59e2b35c-106d-4d8a-bb8d-88bcd1b1afad" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/long-tail-keyword-sloth-1.jpg" alt="long tail keyword myth" width="832" height="583" /></div>
+</article>
+</div>
+<h3>The truth</h3>
+<p>Sure, you could probably get away with only using long-tail keywords in your account, but it’s most likely that reaching specific advertising goals will be quite tough. There’s a reason these long-tail keywords are less competitive and there’s a reason why you can’t get away with only focusing on the less popular variations of searches. The reason is simply that there aren’t a lot of people searching for them. If you use only long-tail keywords in your account you will find yourself waiting around for quite some time for an impactful number of impressions.</p>
+<h2>Myth #3: Long-tail keywords will save me a ton of money and really give me a competitive edge</h2>
+<p>The quest for long-tail keywords is often sparked by the desire to save money by avoiding the more general keywords (which <em>are</em> often more competitive and thus more expensive). If I were a business owner, I would have the exact same mindset and would also want to adopt this strategy because it makes sense, in theory. To be fair, there is definitely some truth to this myth where long-tail keywords can save some money and give you a competitive edge, but you will largely be saving money simply because those keywords aren’t garnering as many searches and clicks as some of the more generic/popular keywords. It’s pretty simple really: less clicks means less money spent.</p>
+<h3>The truth</h3>
+<p>Similar to the world of fad diets, if it was really that easy, don’t you think everyone would be doing it? Like I said, there is some truth to the myth in that you can save and see less competition with long-tail keywords, but it’s important to understand that focusing solely on long-tail keywords is not an immediate solution to meeting all of your advertising goals. You will most likely pay less for these keywords and thus meet some goals as far as cost savings, but if you aren’t seeing as many searches and clicks it can be hard to achieve the same lead and conversion goals as with some of the higher volume keywords.</p>
+<h2>The Best Way to Approach Long-Tail Keywords</h2>
+<p>Now that I’ve crushed all that you potentially knew to be true about long-tail keywords, you might be wondering how you should approach them moving forward. Here are a few pieces of advice that might help:</p>
+<h3>Use a combination of short-tail and long-tail</h3>
+<p>Search demand decreases somewhat significantly as your keywords take on longer tails. That’s not to say you should avoid either short-tail or long-tail by any means. You’ll want to use a combination of more generic, high-volume keywords with a variety of more specific longer-tail keywords. This will allow you to cast a wider net, but still monitor performance of the more descriptive phrases and determine if those keywords will convert and contribute to positive performance in your account. Using a combination will allow you to better identify <a href="/blog/ws/2014/06/30/commercial-intent-keywords">searcher intent</a> and see where searchers’ minds are at when looking for specific product or service offerings.</p>
+<h3>Utilize the search data and associated metrics in your own account</h3>
+<p>The search data from your own account is going to be the best way to gauge whether or not searchers are typing in searches that are in a longer tail form. As with the example above, if you are using short-tail keywords to help in keyword research, you will be able to get a better sense as to volume of specific queries and identify whether or not there is are enough impressions, clicks, etc. from the particular search in order to justify adding it as a keyword to your account. For example, if you are looking at your search queries based on impressions, you might be able to spot some popular searches that have generated clicks and even conversions, but that you aren’t currently utilizing as keywords.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="781d2e25-c423-4172-8ff9-850762476bd9" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/long-tail-keyword-myths-data-1.jpg" alt="long tail keyword data" width="460" height="214" /></div>
+</article>
+</div>
+<h3>Pay attention to match types on longer tails</h3>
+<p>It’s perfectly easy to sabotage your own long-tail keyword efforts by getting too restrictive with <a href="http://marketing.wordstream.com/adwordsmatchtypeguide.html">match types</a>. If you notice that a long-tail keyword isn’t driving any sort of performance, check the match type to see if you are requiring too much of your potential searchers. For example, if you are using an exact match version of a keyword such as [improve my account with long-tail keywords] you are insisting that your searcher enter that into the query bar and nothing else. That’s pretty demanding and unrealistic to think a large number of searchers are going to search for exactly that. Moving down the totem pole of match types at least starts to give you a bit more flexibility, so maybe a phrase or broad keyword might be a better approach.</p>
+<h3>Don’t immediately give up on a poor performing long-tail keyword</h3>
+<p>It can be easy to get frustrated with some of the more specific keywords in your account if they aren’t up to par with performance standards, but before you mass delete all <a href="https://www.wordstream.com/blog/ws/2018/08/07/low-search-volume-keywords">low search volume keywords</a> at least consider if you think that a particular keyword has potential. If you do think that a keyword could be worthwhile, investigate some other factors such as a too restrictive match type, broad/generic keywords with higher bids that are monopolizing searches, etc. Sometimes a keyword just needs a bit of a pick-me-up by raising the bid, adjusting match type, or simply rewording the keyword slightly.</p>
+<p>Ultimately the not so secret “secret” to long-tail keywords is to use your knowledge of how people typically search for your business, take advantage of what the data in your account is telling you, and test a few strategies to figure out what works best for your account.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth">Myth Busting: The Truth About Long-Tail Keywords</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/10/07/long-tail-keyword-myth/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 Reasons to Ditch Your Messy Google Ads Account and Start Over</title>
+		<link>https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account#respond</comments>
+		
+		<dc:creator><![CDATA[Katie Lyons]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account/</guid>
+
+					<description><![CDATA[<p>When the choice is between cleaning up an overwhelming mess and just deleting your AdWords account and starting over, starting over is often the best tack.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account">3 Reasons to Ditch Your Messy Google Ads Account and Start Over</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the biggest obstacles I face with clients is taking control of a messy and hard to manage account. Often times Google Ads (AdWords) accounts change hands over time, have an “old school” strategy for setup, or just have too many cooks in the kitchen for a lack of better terminology. This often leads to an account with more campaigns, ad groups, and keywords than you know what to do with.</p>
+<p>I speak with many clients who feel like they are drowning in their accounts and don’t even know where to begin. Upon analyzing these accounts, I often have the same sentiments; it can feel impossible to know what the best first step is because there are so many things that can and need to be fixed.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-account-help-1.jpg" alt="adwords account help" width="266" height="400" /></div>
+<p>The obvious question is then, “Do we try to fix what currently exists or would it be better to start over?” Either option can feel rather daunting, but in my experience, I’ve had more success and fewer headaches when we have scrapped the mess and started over with a neatly organized <a href="/blog/ws/2015/03/06/adwords-account-structure">Google Ads account structure</a> and a lot more simplicity.</p>
+<p>Here are 3 reasons why you should consider building out a new Google Ads account from scratch and walking away from the current mess of a situation that you are trying to navigate.</p>
+<h2>#1: It’ll be easier to manage</h2>
+<p>Just think about it. If you have 10 campaigns, 100 ad groups, and hundreds of thousands of keywords (this might be a bit dramatic for some, but it’ll get the point across), that means you have to look at each of these elements to decide what optimization steps to take in your account. Daily tactics include questioning which of the hundreds of thousands keyword bids should be changed, which match types are working well, which ads should be optimized, and overall just <strong>where to even begin</strong>.</p>
+<p>With an abundance of campaigns and ad groups, there is often overlap in the account, keywords competing against each other, and a whole lot of keywords that aren’t even seeing any performance and yet are taking up space and cluttering the account.</p>
+<p>I often see misspellings, different match types, and even just the plural version of a keyword located in different ad groups. It feels confusing to even try to explain this, so imagine trying to manage an account with a structure that doesn’t allow you to easily locate specific items. Having too much clutter makes it too hard to take action, especially if you have not been deeply involved in the setup and continued growth of the account.</p>
+<p>Starting over will most likely allow you to cut down on the number of keywords, ad groups, and campaigns necessary to advertise your specific product or service offering. Often a product/service can be communicated in only a handful of semantically related keywords rather than hundreds of overlapping keywords. If you start from a fresh slate, this will allow you to not only acquire a sense of organization, but you will be able to easily locate keywords and themes within the account, make changes to a smaller number of keywords during a normal workflow for optimization, and gain control in targeting and communicating to your potential searchers.</p>
+<h2>#2: You can track your performance more efficiently</h2>
+<p>Along with being able to manage individual aspects of your AdWords account within sifting through a bunch of waste, starting over with a neatly organized account will allow you to track performance much more effectively. Rather than having to look through every nook and cranny of your old messy account in an attempt to see which of the pieces is performing well, you will have fewer places to look and a better understanding of what is working well and what needs improvement. Looking at the performance of 100 or so keywords is certainly a lot more manageable than looking through the performance (or lack thereof) of 100,000+ keywords.</p>
+<p>Similarly, when there are too many moving pieces in an account, especially with broad keywords and just general overlap, it can be difficult to truly pinpoint what is working well – there could be 5 or more keywords all competing for the same search queries, and that means having to look at the performance of all 5 of those keywords just to identify if there is success or failure. By cutting down the number of keywords, you can look at just one instance of a keyword and much more quickly identify positive or negative performance.</p>
+<h2>#3: There won’t be as many surprises</h2>
+<p>You might be tempted to take the road of fixing your account rather than starting over because you have the common feeling that you do have some good data, that you can benefit from historical performance, and that a lot of work has gone into the account in the past so it doesn’t make sense to just walk away from it. I get that, I really do, but I can predict that you will run into more obstacles and surprises than you realize when trying to “fix” what’s wrong in your account now.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-account-surprises-1.jpg" alt="adwords account" width="1134" height="638" /></div>
+<p>With every <a href="/blog/ws/2011/10/13/when-to-pause-keywords">pause of a keyword</a> and with every change, you have to worry about the hundreds or thousands of other keywords that weren’t seeing performance previously but could easily be activated as soon as you make a change. In my experience, pausing one keyword meant seeing a performance spike in an unwanted area; keywords that we didn’t even realize were in the account would all of a sudden start seeing performance after even the smallest change. <strong>Especially with large, unorganized accounts, there can be numerous unknowns, which can make it very difficult to predict the outcome of a change to the account.</strong></p>
+<p>Starting over will allow you to avoid the scenario of being in a sinking ship where plugging one hole just causes a more forceful flow of water through another hole. If you start from scratch you’re building up successfully rather than trying to jump in five different directions just to salvage something that has been doomed from the beginning. You maintain control over what you are putting into your account and can drive forward movement rather than having to simply react to whatever goes wrong next.</p>
+<h2>Case Study: Why I Deleted My Client’s Google Ads Account</h2>
+<p>When one of my clients joined WordStream, he was new to his company’s Google Ads account and yet was tasked with the duty to help them at least break even in paid search. My first look at the account made me realize we had a lot of work ahead of us, as there were close to 50 active campaigns, even more ad groups, and literally hundreds of thousands of keywords. There were so many components to analyze and so many moving pieces that it was quite difficult to determine the best first steps.</p>
+<p>For a while we tried to salvage what we had, so we started pausing some obvious keywords that weren’t contributing to the account, started working on some of the keywords that were clearly wasting money, and focused on some of the <a href="/blog/ws/2011/05/02/five-ways-to-lower-cpa">high CPA areas</a>. Initially, <strong>we paused 100,000+ keywords and saw just about zero change in performance</strong>; this just goes to show how much junk was sitting in the account making it even more frustrating to manage, but really contributing nothing at all. From here we started making changes to keywords and run into more and more unexpected changes in performance due to keywords in the account that we didn’t even realize existed.</p>
+<p>Ultimately the pace of small changes wasn’t helping, and we were still just seeing performance metrics that weren’t in line with goals. Not only that, but the account wasn’t feeling any more manageable. We finally decided to simply ditch everything and completely start over so that we could have full control over every keyword, every bid, every match type, and so on.</p>
+<p>We started over in early to mid-May, so it has been about one and a half to two months since we revamped the account. So far performance has been great. We have seen:</p>
+<ul>
+<li>149% increase in CTR</li>
+<li>27% decrease in CPA</li>
+<li>Roughly a 40% decrease in overall cost</li>
+</ul>
+<p>Not bad, right?</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-account-start-over-1.png" alt="delete adwords account" width="912" height="150" /></div>
+<p>Other metrics such as <a href="/blog/ws/2013/10/28/adwords-impression-share">impression share</a> have certainly improved as well:</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ditch-messy-adwords-account-1.png" alt="adwords account data" width="596" height="149" /></div>
+<p>And seeing a graph where CTR is going up month over month and CPA going down is always a good feeling:</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-account-redo-ctr-increase-1.png" alt="delete my adwords account " width="977" height="167" /></div>
+<h2>The Biggest Takeaway</h2>
+<p>As if an improvement in performance isn’t a good enough motivator, I think that the biggest incentive for me in telling clients to consider starting over is that it will make account management that much easier. If your job is to manage even just one Google Ads account, you should want it to be as easily executable as possible. It’s not worth it to make your PPC experience miserable just because you’re afraid that starting over could lead to negative results or you don’t want to give up on an account that has existed for quite some time. An easy to navigate account is going to cut down on time spent working in the account and will make overall optimization much more convenient.</p>
+<p>I’m also not saying that starting over is for everyone; some accounts certainly just need a bit of a tune-up, but I certainly wouldn’t rule out the option of creating something new for your own sanity as well as overall performance.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account">3 Reasons to Ditch Your Messy Google Ads Account and Start Over</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/07/03/delete-adwords-account/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Ads Metrics: How to Make Sense of Your PPC Data</title>
+		<link>https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics#respond</comments>
+		
+		<dc:creator><![CDATA[Katie Lyons]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Reporting & Analysis]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics/</guid>
+
+					<description><![CDATA[<p>Which Google Ads metrics should you be focusing on? Learn where to start when it comes to analyzing the PPC metrics in your Google Ads account.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics">Google Ads Metrics: How to Make Sense of Your PPC Data</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When it comes to the paid search environment I think it’s safe to say that most people are very results-driven. After all, would you really go through all of the effort to build out, optimize, and monitor your Google Ads account on a frequent basis if all you got in return was a blank sheet of paper? Of course not – we put the effort into our search campaigns because we expect results, we want to see an outcome, and we need Google Ads performance metrics to alert us of our success or failure.</p>
+<p>That being said, looking through all of the data that Google provides can sometimes feel like searching for your child in a giant ball pit. In other words, it can be tough to find something meaningful in the chaos.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-metrics-chaos-1.jpg" alt="Top AdWords Metrics" width="940" height="705" /></div>
+<p>Let’s take a look at some of the Google Ads metrics that are going to help you really home in on your overall paid search performance and save you some time and confusion in the meantime. Though performance metric importance and priority is going to be slightly different for everyone, I’ll outline a few metrics that can help you come to some preliminary conclusions and determine next steps.</p>
+<h2>Firstly, Is Your Account Running? Better Go Catch It…</h2>
+<p>The first step in reviewing account data is to make sure your account is actually performing. You need performance data in order to analyze that data after all. To check that your account is running in a somewhat normal manner, I would focus on Impressions, Clicks, and CTR.</p>
+<h3>Number of Impressions</h3>
+<p>The first metric I like to look at is number of impressions for campaigns within the account. Actually, I take that back, I first check to see if there are impressions at all. I use this metric as somewhat of a preliminary check without doing too much digging into the meaning behind the numbers. Impressions are the number of times your ad was displayed to a searcher audience based on matches between your campaign keywords and terms used within search queries.</p>
+<p>As a very broad statement, your ads need to be displayed in order to see any sort of performance in your account. If your ad isn’t showing, you’re not even giving searchers a chance to click anything and definitely not leading them down the road to conversions. The bottom line here is that you first need impressions if you’re expecting to perform well in other areas.</p>
+<p>If you’ve looked at your impressions and feel like your ad is showing a significant amount of times based on your targeting, that’s awesome, you can move on to some of the more telling performance metrics. On the other hand if you just looked at your impressions and are now feeling like there is more to be desired, I’d suggest asking yourself the following questions:</p>
+<ol>
+<li><strong>Is my budget large enough? </strong>You want to make sure your budget is not limiting any traffic. Generally if your budget is being exhausted, Google will stop displaying your ads, thus causing you to miss out on potential impressions.</li>
+<li><strong>Are my bids and quality score holding me back? </strong>Your bids need to be competitive enough to get your ad to display, and you need a decent quality score in order to help with <a href="/blog/ws/2013/10/24/adwords-ad-rank-algorithm">ad rank</a>.</li>
+</ol>
+<h3>Clicks and Click Through Rate (CTR)</h3>
+<p>After I confirm that my ads are showing to searchers I like to do a quick skim over clicks and CTR, and make sure I don’t have any campaigns that are completely missing clicks or seem entirely skewed in terms of clicks to impressions. It’s a good start when your ads are showing to searchers, but if searchers aren’t clicking on the ads at all you might find yourself at a standstill. CTR helps evaluate how well you are communicating with searchers and can help determine the relevance and effectiveness of your campaign. A high ratio of clicks to impressions is an indication that you are targeting the right audience with appropriate keywords and ad text, and those searchers are responding by clicking through to your site – whereas a low CTR is pointing out that there is some disconnect between you and your audience.</p>
+<p>By the way, Google will tell you that 2% is a pretty good click-through rate, but that’s really just average. If you want to do better than average, check out our recent webinar, <strong>Totally Insane Techniques Guaranteed to Triple Your CTR:</strong></p>
+<div style=text-align:center;>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/BOyN_Tb_aqM?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<h2>Are You Cognizant of Where Your Money Is Going?</h2>
+<p>Now that you’ve confirmed that your account is running (i.e. ads are showing and searchers are clicking), you’ll want to look at some metrics that dive deeper into how well your account is performing based on the most important metric: MONEY. A huge aspect of interpreting your Google Ads data is determining whether or not you are taking advantage of your advertising dollars and not wasting money. You can’t expect high profits if you have high costs, so you’ll want to make sure you’re reducing wasted spend throughout your account.</p>
+<p>When determining whether or not your money is being well spent, I would suggest diving into CPC, CPA, and budget-focused Google Ads metrics.</p>
+<p>And for help with properly analyzing and visualizing your data, head to our <a href="https://www.wordstream.com/blog/ws/2021/09/07/ppc-reporting">PPC reporting guide</a>!</p>
+<h3>Cost Per Click (CPC) and Cost Per Acquisition (CPA)</h3>
+<p>Cost per click, the amount you pay for each click, is important because it ultimately determines the financial success of your campaigns. Cost per acquisition focuses more on how much your business pays in order to attain a conversion. Looking at both metrics will help you to answer the questions as to whether or not you are making money in your account. Generally your CPA will be higher than your CPC because not everyone who clicks your ad will go on to complete your desired action (or in other words, convert).</p>
+<p>It’s always a good feeling knowing that people are interested in your ads and are showing that interest by clicking, but if each click is costing you more than you would pay for a fancy dinner it’s probably not going to feel too great at the end of the day. Your return on investment (ROI) will be determined by how much you are paying for clicks, and by what kind of quality you are getting for that investment. It’s important to monitor your CPC so that you can determine if you are under- or overpaying for clicks. And it’s equally important to monitor CPA because it determines whether or not your conversions are being driven at a cost that is profitable.</p>
+<p>CPC of course varies depending on <a href="/articles/most-expensive-keywords">competitiveness of the industry</a> among other things, but you still need to take into consideration whether or not you can still make money after you pay for the cost of your clicks. That’s where CPA comes into play; if you’re paying more for that potential customer than you can make off of them, then essentially you are paying for that person to be your customer. Lowering CPC can require some strategy as you want to maintain value while lowering the price you’re paying for each click. Take a look at:</p>
+<ul>
+<li><a href="/quality-score">Quality Score optimization</a></li>
+<li>Keyword expansion</li>
+<li><a href="/blog/ws/2013/11/08/removing-negatives">Adding negatives</a></li>
+</ul>
+<p>Making improvements in these areas can help bring you towards a lower CPC.</p>
+<p>For even more helpful metrics, check out these <a href="https://www.wordstream.com/blog/ws/2021/10/19/ppc-metrics">28 essential PPC metrics (and how to improve each one!)</a>.</p>
+<h3>Wasted Budget</h3>
+<p>Not fully taking advantage of your entire budget is a crucial metric to pay attention to. Wasting money is far from ideal in most situations, and when it comes to your PPC spend, you want to make sure costs are low so that your overall ROI doesn’t suffer.</p>
+<p>The best way to reduce wasted spend and really take control of every dollar in your budget is to focus on negative keywords, which will help to make sure your account is targeted. Allowing your ad to receive clicks based on keywords that aren’t relative to your business offering is only going to lead to wasted spend and unhappy searchers. Monitoring and building out your negative keywords is going to help you better target searchers and filter out searchers that aren’t interested in your product or service and are thus less likely to convert.</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><span><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f5d1.png" alt="🗑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you wasting any spend in Google Ads? </span></p>
+<p><span>Find out instantly the </span><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" class="waffle-rich-text-link">Free Google Ads Performance Grader</a><span>. </span></p>
+<p><span></div></div></span></p>
+<p>&nbsp;</p>
+<h2>And Now a Look at One of Google’s More Controversial Metrics: Quality Score</h2>
+<p>As a quick refresher, quality score is a Google given measure of the quality, relevance, and performance of your PPC advertising campaigns and is applied to various levels within your account including overall account, campaigns, ad groups, keywords, ads, and even landing pages. Google uses quality score to determine ad rankings as well as how much you pay per click.</p>
+<p>Quality score is one of those metrics that has been argued about all over the place. “It’s the most important metric”… “You need a high quality score to perform” … “stop paying attention to quality score” … “there are so many more important metrics than quality score” … these are just a few of the arguments I have heard that continue to pull me in every which way as far as what to actually believe.</p>
+<p>Here’s what I think. One very important aspect for Google is that everything within your account is relevant, and ultimately Google just wants to show ads that align with search queries and make searchers happy with the results. Even if quality score didn’t exist, I would still recommend making sure that everything in your account truly is relevant in terms of ad groups, keywords, ad text, and landing pages, because taking those steps is what leads to clicks and conversions. By nature if a searcher enters something specific into a search query, that’s what they expect to see on the search results page. Isn’t that what you are trying to provide anyway? I don’t think that assigning a number to various aspects of your account should change the objective.</p>
+<p>The bottom line for me is that although quality score can seem like somewhat of a black box, the important thing to remember is that relevance and effectiveness are both crucial to solid performance, and optimizing your account within the theme of relevance is most likely going to be followed by higher quality scores, so why not take that path. (And if you want to dive deeper into the math behind Quality Score, Larry Kim recently wrote a very thorough, research-driven post about <a href="/blog/ws/2014/01/29/hacking-adwords">how to hack Google Ads</a> and get higher scores.)</p>
+<h2>A Final Summation</h2>
+<p>I’ve covered the basics as far as approaching Google Ads metrics, but I do want to stress that the “<a href="/blog/ws/2012/12/12/marketing-best-practices-problem">best practices</a>” don’t always fit every account. There are always exceptions and anomalies that will throw you off a bit, but the most important thing to focus on is good performance based on your business goals. Even if you find that something weird is working really well in your account, don’t completely discredit that weirdness; take advantage of any good performance and try to dig deeper as to why something specific is working well for you.</p>
+<p>On a related note, find out whether you should use the <a href="/blog/ws/2021/05/19/google-ads-insights-page-pros-cons">Google Ads Insights Page</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics">Google Ads Metrics: How to Make Sense of Your PPC Data</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/02/06/adwords-metrics/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

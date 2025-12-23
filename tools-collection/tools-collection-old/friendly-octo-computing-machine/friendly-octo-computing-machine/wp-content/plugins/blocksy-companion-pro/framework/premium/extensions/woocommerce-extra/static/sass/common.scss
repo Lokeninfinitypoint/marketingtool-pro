@@ -1,0 +1,84 @@
+.ct-woo-card-extra {
+	&[data-type='type-1'] {
+		display: flex;
+		flex-direction: column;
+		gap: 15px;
+		top: 15px;
+		inset-inline-end: 15px;
+
+		.ct-button {
+			padding: 0;
+			width: 32px;
+			min-height: 32px;
+			border-radius: 100%;
+
+			&:is(:hover, [data-button-state='active'], [data-button-state='loading']) {
+				color: var(--theme-button-text-hover-color);
+				background: var(--theme-button-background-hover-color);
+			}
+		}
+	}
+}
+
+// filters common
+.ct-filter-reset {
+	.ct-button-ghost {
+		gap: 10px;
+		--theme-button-font-size: 13px;
+		--theme-button-min-height: 40px;
+		--theme-button-padding: 5px 15px;
+	}
+}
+
+[data-display-type='inline'] .ct-filter-reset {
+	flex-basis: 100%;
+}
+
+// free shipping bar & stock scarcity
+.ct-product-stock-scarcity,
+[class*='ct-shipping-progress'] {
+	font-size: 15px;
+
+	p {
+		margin-bottom: 0;
+	}
+
+	.ct-progress-bar {
+		&:not(:empty) {
+			position: relative;
+			height: var(--product-progress-bar-height, 5px);
+			overflow: clip;
+			margin-top: 15px;
+			border-radius: 1px;
+			background: var(
+				--product-progress-bar-initial-color,
+				var(--theme-border-color)
+			);
+		}
+
+		span {
+			position: absolute;
+			inset-block: 0;
+			inset-inline-start: 0;
+			border-radius: inherit;
+			background: linear-gradient(
+				90deg,
+				var(
+						--product-progress-bar-active-color,
+						var(--theme-palette-color-1)
+					)
+					0%,
+				var(
+						--product-progress-bar-active-color-2,
+						var(
+							--product-progress-bar-active-color,
+							var(--theme-palette-color-1)
+						)
+					)
+					100%
+			);
+
+			transition: 0.15s ease-in-out;
+		}
+	}
+}

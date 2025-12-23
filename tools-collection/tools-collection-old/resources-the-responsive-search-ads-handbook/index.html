@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<!-- <meta name="apple-mobile-web-app-capable" content="yes" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no" />
+
+    
+    <link rel="preload" as="font" type="font/woff2" href="../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.woff2" crossorigin="anonymous">
+
+    <style>
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Light.eot');
+            src: local('NeutrifPro-Light'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Light.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Light.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Light.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Light.ttf') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url(https://adalysis.com'/wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.eot');
+            src: local('NeutrifPro-Regular'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.eot');
+            src: local('NeutrifPro-Medium'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Medium.ttf') format('truetype');
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.eot');
+            src: local('NeutrifPro-SemiBold'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-SemiBold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.eot');
+            src: local('NeutrifPro-Bold'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-Bold.ttf') format('truetype');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'NeutrifPro';
+            src: url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-RegularItalic.eot');
+            src: local('NeutrifPro-RegularItalic'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-RegularItalic.eot%3F') format('embedded-opentype'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-RegularItalic.woff2') format('woff2'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-RegularItalic.woff') format('woff'),
+            url('../wp-content/themes/adalysis/assets/fonts/NeutrifPro-RegularItalic.ttf') format('truetype');
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
+        }
+    </style>
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v24.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Responsive Search Ads Handbook - Adalysis</title>
+	<meta name="description" content="This comprehensive guide is all you need for an effective strategy. From the truth about Ad Strength to effective A/B testing. Download now." />
+	<link rel="canonical" href="../index.html%3Fp=8664.html" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The Responsive Search Ads Handbook - Adalysis" />
+	<meta property="og:description" content="This comprehensive guide is all you need for an effective strategy. From the truth about Ad Strength to effective A/B testing. Download now." />
+	<meta property="og:url" content="https://adalysis.com/resources-the-responsive-search-ads-handbook/" />
+	<meta property="og:site_name" content="Adalysis" />
+	<meta property="article:modified_time" content="2025-03-05T10:50:04+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- / Yoast SEO plugin. -->
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Adalysis &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Adalysis &raquo; Comments Feed" href="../comments/feed/index.html" />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='adalysis-style-css' href='../wp-content/cache/background-css/1/adalysis.com/wp-content/cache/min/1/wp-content/themes/adalysis/assets/css/style.min.css%3Fver=1755594643&amp;wpr_t=1761454583.css' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='boxzilla-css' href='../wp-content/cache/min/1/wp-content/plugins/boxzilla/assets/css/styles.css%3Fver=1755594643.css' type='text/css' media='all' />
+<script type="text/javascript" src="../wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://adalysis.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.5" />
+<link rel='shortlink' href='../index.html%3Fp=8664.html' />
+<link rel="alternate" type="application/json+oembed" href="https://adalysis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadalysis.com%2Fresources-the-responsive-search-ads-handbook%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://adalysis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadalysis.com%2Fresources-the-responsive-search-ads-handbook%2F&#038;format=xml" />
+<script>(()=>{var o=[],i={};["on","off","toggle","show"].forEach((l=>{i[l]=function(){o.push([l,arguments])}})),window.Boxzilla=i,window.boxzilla_queue=o})();</script><!-- anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-54SCKSR':true});</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-54SCKSR');</script>
+<!-- End Google Tag Manager -->
+<link rel="icon" href="../wp-content/uploads/2021/05/cropped-0BjHmlcO-32x32.png" sizes="32x32" />
+<link rel="icon" href="../wp-content/uploads/2021/05/cropped-0BjHmlcO-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../wp-content/uploads/2021/05/cropped-0BjHmlcO-180x180.png" />
+<meta name="msapplication-TileImage" content="https://adalysis.com/wp-content/uploads/2021/05/cropped-0BjHmlcO-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.wp-caption .wp-caption-text {
+  font-size: 0.75em; /* Tamaño de fuente más pequeño */
+  color: #7a7a7a; /* Gris menos oscuro */
+  text-align: left; /* Centrar el texto */
+}
+		</style>
+						<style type="text/css" id="c4wp-checkout-css">
+					.woocommerce-checkout .c4wp_captcha_field {
+						margin-bottom: 10px;
+						margin-top: 15px;
+						position: relative;
+						display: inline-block;
+					}
+				</style>
+							<style type="text/css" id="c4wp-v3-lp-form-css">
+				.login #login, .login #lostpasswordform {
+					min-width: 350px !important;
+				}
+				.wpforms-field-c4wp iframe {
+					width: 100% !important;
+				}
+			</style>
+			<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    <script>
+        const AJAX_URL = 'https://adalysis.com/wp-admin/admin-ajax.php';
+        const SITE_URL = 'https://adalysis.com';
+        const THEME_URL = 'https://adalysis.com/wp-content/themes/adalysis';
+    </script>
+<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">.icon-facebook{--wpr-bg-dfbbe6f8-d162-4365-9854-0512ff4ba729: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-facebook.svg');}.icon-twitter{--wpr-bg-8767223c-ce8b-4b5f-b585-47b313fec8e5: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-twitter.svg');}.icon-linkedin{--wpr-bg-6bf55d63-15e2-4077-add6-0e8455305427: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-linkedin.svg');}.icon-youtube{--wpr-bg-3af4ba97-2cc1-4756-88b8-07fb9cb9cd2b: url('../wp-content/themes/adalysis/assets/img/content/svg/youtube.svg');}.icon-youtube-2{--wpr-bg-bb8d6bfa-ce12-4fe1-a116-9d55b73985af: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-youtube.svg');}.icon-rss{--wpr-bg-e73ccf2f-572d-47fc-b709-20da8bfa6703: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-rss.svg');}.icon-x-new{--wpr-bg-c38f0a9a-ba1f-458a-88d4-6c173473da08: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-x-new.svg');}.icon-linkedin-new{--wpr-bg-23d90b39-8e63-4f75-a556-fc0a76ecaf5a: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-in-new.svg');}.icon-facebook-min{--wpr-bg-bb131f28-cefc-4ed2-900e-72374f1f4d94: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-facebook-min.svg');}.icon-facebook-min:hover{--wpr-bg-9d042647-0bd9-4c9e-8d49-5e87a817687a: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-facebook-min-hover.svg');}.icon-twitter-min{--wpr-bg-41ed6d94-6249-4ba2-89c7-85614d62f8e2: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-twitter-min.svg');}.icon-twitter-min:hover{--wpr-bg-d1087472-e685-40cb-8947-3c968d9f6943: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-twitter-min-hover.svg');}.icon-linkedin-min{--wpr-bg-3ebd9b92-f121-41a9-8b71-a021cb3579d8: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-linkedin-min.svg');}.icon-linkedin-min:hover{--wpr-bg-dead95dc-d78d-42b5-8138-a81163cb5d8f: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-linkedin-min-hover.svg');}.icon-youtube-min{--wpr-bg-5674969a-8bf4-4e2c-a79a-477cb72b1e96: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-youtube-min.svg');}.icon-youtube-min:hover{--wpr-bg-6a324ae8-bd03-4dde-b266-c715b5d9b385: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-youtube-min-hover.svg');}.icon-rss-min{--wpr-bg-4b58936c-a56b-4bd5-952e-4b98c0119c78: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-rss-min.svg');}.icon-rss-min:hover{--wpr-bg-6c7a0ce3-1a17-4f2c-9df5-7926bd85fc0d: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-rss-min-hover.svg');}.icon-comments{--wpr-bg-9cc7abcb-9f0b-4cec-90c1-ecbba468c6e9: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-comment.svg');}.icon-arrow-more{--wpr-bg-a5bb52f5-06a5-4859-8ad4-465af1aec25e: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-arrow-more.svg');}.icon-arrow-more-black{--wpr-bg-2696da81-4921-491c-b42e-df0baca247dd: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-arrow-more-black.svg');}.icon-search{--wpr-bg-e55ea254-6388-47fc-8c22-0ff2406196bb: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-search.svg');}.icon-twitter-gray{--wpr-bg-5f7ee286-c152-4149-8668-52ce5a67bc29: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-twitter-gray.svg');}.icon-x-gray{--wpr-bg-0a79fa75-8b4b-4026-a45b-e54853296214: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-x.svg');}.icon-linkedin-gray{--wpr-bg-9ee6ce5f-2f46-4443-b3d2-589e3e4f6dab: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-linkedin-gray.svg');}.icon-linkedin-new-gray{--wpr-bg-0fb7b72c-a28e-4ea0-80cf-540287ebbfe4: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-in.svg');}.icon-facebook-gray{--wpr-bg-d0dc2c20-cb42-459f-a0a6-36d30c6520f4: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-facebook-gray.svg');}.icon-youtube-gray{--wpr-bg-f03c6865-ccda-4963-a791-608eda996148: url('../wp-content/themes/adalysis/assets/img/content/svg/youtube-gray.svg');}.icon-youtube-gray-2{--wpr-bg-2d3df0b8-7d5a-4486-b367-0e75bd738c1e: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-youtube-gray.svg');}.icon-rss-gray{--wpr-bg-6dcd4afc-c8c3-41be-b8fa-2ee96870b808: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-rss-gray.svg');}.icon-play{--wpr-bg-01b5f42a-2b89-4618-a49d-e1a4361787d3: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-play.svg');}.icon-text-check{--wpr-bg-311465bd-c781-476c-be22-8dd3b18a45d1: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-text-check.svg');}.icon-btn-play{--wpr-bg-ac630ac0-eb7a-4643-99c5-59b4b853d8d0: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-btn-play.svg');}.adal-btn-blue-icon:hover span{--wpr-bg-5429c475-0582-4962-9221-c765c6e2aee0: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-btn-play-hover.svg');}.adal-btn-white-icon span{--wpr-bg-11f0b16b-b965-4cde-874d-2cca1a615008: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-btn-play-hover.svg');}.adal-btn-white-icon:hover span{--wpr-bg-8550083d-0641-4ebf-a58b-8bd6961ff9eb: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-btn-play.svg');}.adal-pagination .next span,.adal-pagination .prev span{--wpr-bg-01442e4b-7a96-428d-886a-177465f463f8: url('../wp-content/themes/adalysis/assets/img/content/pagination-arrow.svg');}.adal-pagination .next:hover span,.adal-pagination .prev:hover span{--wpr-bg-91afd52c-279b-4825-8d11-c665ffdc6666: url('../wp-content/themes/adalysis/assets/img/content/pagination-arrow-hover.svg');}.adal-form-checkbox label:after,.comment-form-cookies-consent label:after{--wpr-bg-cbb66574-d18e-46c1-9d32-17e60bbe5434: url('../wp-content/themes/adalysis/assets/img/content/svg/check-white.svg');}.adal-faq__item.active .adal-faq__item--header span{--wpr-bg-cb8b7c10-4584-4ff7-89aa-6e2939edd95a: url('../wp-content/themes/adalysis/assets/img/content/faq-open.svg');}.adal-faq__item--header span{--wpr-bg-9f359b47-de7b-4513-b5d9-d756ff983c62: url('../wp-content/themes/adalysis/assets/img/content/faq-close.svg');}.adal-actionable-info .adal-text-check .icon-text-check{--wpr-bg-dc873ea3-ce7f-4eb0-93d8-1149085b5791: url('../wp-content/themes/adalysis/assets/img/content/svg/text-check-white.svg');}.adal-actionable-info-2{--wpr-bg-6d9b3e49-227a-415d-86af-3dd6783e4ed7: url('../wp-content/themes/adalysis/assets/img/content/bg-blue-line-CTA.png');}.adal-actionable-info-2 .adal-text-check .icon-text-check{--wpr-bg-8e4400cf-b550-45f7-b52e-af7730f1e500: url('../wp-content/themes/adalysis/assets/img/content/svg/check-green.svg');}.adal-aside-cat__list a::before,.adal-aside-cat ul a::before,.widget_categories__list a::before,.widget_categories ul a::before{--wpr-bg-61328f94-c4a6-4c9a-84fa-9b99c4838c91: url('../wp-content/themes/adalysis/assets/img/content/svg/arrow-cat.svg');}.adal-aside-cat__list a:hover::before,.adal-aside-cat ul a:hover::before,.widget_categories__list a:hover::before,.widget_categories ul a:hover::before{--wpr-bg-d6b53be6-b099-4101-bb02-fd71fbbe5595: url('../wp-content/themes/adalysis/assets/img/content/svg/arrow-cat-hover.svg');}.adal-feature__banner{--wpr-bg-4814dd47-8b7c-4b5f-afe7-00483be12a38: url('../wp-content/themes/adalysis/assets/img/content/features-bg.png');}.adal-header__wrap-menu.active .adal-header__menu>li.active .has-child__arrow{--wpr-bg-b63756be-4fa4-49e2-9937-94fec0eff3ad: url('../wp-content/themes/adalysis/assets/img/content/svg/header-arrow-active.svg');}.adal-header__menu>li.menu-item-has-children>a::before{--wpr-bg-41b41196-b07f-4f44-ab59-12263eb3eb41: url('../wp-content/themes/adalysis/assets/img/content/svg/header-arrow.svg');}.adal-header__menu>li .menu-item-has-children__arrow,.adal-header__menu>li .has-child__arrow{--wpr-bg-3ab99f3a-9fab-4b65-b58f-3811c204a72a: url('../wp-content/themes/adalysis/assets/img/content/svg/header-arrow.svg');}.adal-header__menu .office-building{--wpr-bg-ef92f15c-25cb-4893-8a3e-4832b383bfc8: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/digital-agencies.svg');}.adal-header__menu .advertising{--wpr-bg-25f1ab06-7d33-4d79-970c-8c5f6f2b62c1: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/advertising.svg');}.adal-header__menu .equalizer{--wpr-bg-6637a730-c55f-4183-8010-e8a0633d4d98: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/account-optimization.svg');}.adal-header__menu .money-flow{--wpr-bg-c4db7612-0a77-4510-97e6-f396e7585cf5: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/budget-management.svg');}.adal-header__menu .blog{--wpr-bg-f82bfc2a-7569-4e9b-9f36-2d233806a60f: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/blog.svg');}.adal-header__menu .account-audit-report{--wpr-bg-4e0e41e1-e58e-458b-8d2f-79c95be10fad: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/account-audit-report.svg');}.adal-header__menu .looker-studio-templates{--wpr-bg-0b4c5f0a-4de0-41d0-9220-fcd3e35e2d04: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/looker-studio-templates.svg');}.adal-header__menu .free-tools{--wpr-bg-7e8a2f7f-9278-4c72-b256-77603f667e9f: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/free-tools.svg');}.adal-header__menu .guides{--wpr-bg-9c052ed1-8a00-4803-8e8f-1b8b32eddf2d: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/guides.svg');}.adal-header__menu .demo{--wpr-bg-59aa5f4e-1ce9-4815-888c-f720f12e2027: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/demo.svg');}.adal-header__menu .contact-us{--wpr-bg-50f97326-820b-4c2a-8484-6465252447af: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/contact-us.svg');}.adal-header__menu .about-us{--wpr-bg-dc07c32e-19ba-4077-9faf-c73beb506e70: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/about-us.svg');}.adal-header__menu .case-study{--wpr-bg-068536e8-63dd-434e-89e8-689bb74c82a2: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/case-study.svg');}.adal-header__menu .customer-reviews{--wpr-bg-fa5faf5e-3d3e-42d2-b674-2f868d0035c9: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/customer-reviews.svg');}.adal-header__menu .auditing{--wpr-bg-0a6ada60-83f9-4b58-a49c-e66359f891e0: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/auditing.svg');}.adal-header__menu .optimization{--wpr-bg-4ee764b6-c2e3-41ae-af18-b63ac745cc0f: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/optimization.svg');}.adal-header__menu .monitoring{--wpr-bg-fdcd3f26-100e-4cbb-8739-9948ec4c3442: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/monitoring.svg');}.adal-header__menu .automation{--wpr-bg-cda89629-d49e-474d-8a75-805ef76fd614: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/automation.svg');}.adal-header__menu .ppc-specialists{--wpr-bg-083446d5-4234-4256-9628-6c1a78ec6265: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/ppc-specialists.svg');}.adal-header__menu .team-leads{--wpr-bg-887a649f-6e91-45ce-bcda-2ada8fa98303: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/team-leads.svg');}.adal-header__menu .ad-management{--wpr-bg-e53c8ecd-2853-4895-9c0a-cbae849eb157: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/ad-management.svg');}.adal-header__menu .bidding{--wpr-bg-51166fd2-ca8e-48de-905f-64d2aa646961: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/bidding.svg');}.adal-header__menu .budgets{--wpr-bg-fc7d2d07-c771-4329-bde4-a98caf5afa06: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/budgets.svg');}.adal-header__menu .campaign-builder{--wpr-bg-47d48024-8ec0-4ebd-8a6f-2c0f589d7081: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/campaign-builder.svg');}.adal-header__menu .keywords-and-search-terms{--wpr-bg-b0c30033-9e77-4d0f-836d-aacf5d60b151: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/keywords-and-search-terms.svg');}.adal-header__menu .keywords{--wpr-bg-50b75117-5598-49fc-9b62-a2f6c01c7272: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/keywords.svg');}.adal-header__menu .search-terms{--wpr-bg-c03caa64-508e-4099-b6c2-86be3a98eaae: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/search-terms.svg');}.adal-header__menu .performance-boosting{--wpr-bg-6ba2ab35-ebe5-4826-ba53-2ab3a004ee36: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/performance-boosting.svg');}.adal-header__menu .performance-max{--wpr-bg-a5066650-710b-4a30-93c5-8e3353557898: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/performance-max.svg');}.adal-header__menu .performance-monitoring{--wpr-bg-a5708e56-f6ee-4cbc-8897-2dcf6a1135df: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/performance-monitoring.svg');}.adal-header__menu .quality-score-management{--wpr-bg-0a04f11b-8af2-43c7-a644-bbf4c6b667ba: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/quality-score-management.svg');}.adal-header__menu .reporting{--wpr-bg-1dc3f197-1252-493d-bbde-8664831c84f8: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/reporting.svg');}.adal-header__menu .rule-engine-and-aduit{--wpr-bg-9b71e2cd-20d4-498c-b496-7e2a3d13cd68: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/rule-engine-and-aduit.svg');}.adal-header__menu .affiliate-program{--wpr-bg-b23d85a0-602d-4eea-9f04-62377a6b71c1: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/affiliate-program.svg');}.adal-header__menu .change-log{--wpr-bg-6498ba73-22a6-414d-9fa6-bc93de024c26: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/change-log.svg');}.adal-header__menu .help-center{--wpr-bg-74803260-d348-4338-813a-8930f9ffe34a: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/help-center.svg');}.adal-header__menu .comparisons{--wpr-bg-b6491b28-c5f4-47b0-bdcf-a9cfd117e268: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/comparisons.svg');}.adal-header__menu .free-tool-comparisons{--wpr-bg-45f9c8bd-348e-4767-8445-b3ac5e682348: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/hammer-wrench.svg');}.adal-header__menu .careers{--wpr-bg-6818e116-76c7-49d5-8ae9-51e36e7d787f: url('../wp-content/themes/adalysis/assets/img/content/menu-icons/tool-box.svg');}.adal-modal__close span{--wpr-bg-488e867c-27a8-4853-96b9-1e4418413231: url('../wp-content/themes/adalysis/assets/img/content/svg/close-icon.svg');}.adal-post__content blockquote:before{--wpr-bg-2d2e164e-55c3-4fa4-b49e-eca9d56e0aee: url('../wp-content/themes/adalysis/assets/img/content/quote-before.png');}.adal-post__content blockquote:after{--wpr-bg-7d4c1cf1-cc8a-4406-869f-92fe73756f7a: url('../wp-content/themes/adalysis/assets/img/content/quote-after.png');}.adal-leave-comments .mc4wp-checkbox span:after{--wpr-bg-065f79bf-c50b-446c-b636-3caaa54cab15: url('../wp-content/themes/adalysis/assets/img/content/svg/check-white.svg');}.adal-hero-item{--wpr-bg-3d8de87f-d2aa-4b3c-af19-f5a4cec33251: url('../wp-content/themes/adalysis/assets/img/content/home-bg.webp');}.adal-hero-item-2{--wpr-bg-10dbc4ba-0fac-45d2-b8cb-1e39b826bb24: url('../wp-content/themes/adalysis/assets/img/content/bg-graphic-hero.webp');}.adal-hero-item-2 .check-list .check-list-item{--wpr-bg-5de4d8bb-d171-4ce3-951e-95a548c1588c: url('../wp-content/themes/adalysis/assets/img/content/svg/check-green.svg');}.adal-content-banner{--wpr-bg-885ad9e2-d6d4-4c2e-9bf2-25e14cb5bc4a: url('../wp-content/themes/adalysis/assets/img/content/text-banner-bg.png');}.adal-content-banner .adal-text-check .icon-text-check{--wpr-bg-ed5631bd-9232-469b-abc2-7d7d7d1544db: url('../wp-content/themes/adalysis/assets/img/content/svg/text-check-white.svg');}.adal-get-gree-blue{--wpr-bg-b13e45e1-b1ac-4521-84b1-d015743f9b57: url('../wp-content/themes/adalysis/assets/img/content/get-free-bg.png');}.adal-account-underperforming{--wpr-bg-9274d242-8149-4b25-9807-e10a7ea58b7c: url('../wp-content/themes/adalysis/assets/img/content/account-underperforming.png');}.adal-account-underperforming .adal-privacy-title .icon{--wpr-bg-bb1b1097-8397-4c8f-bbf1-6cb3fda5472a: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-privacy.svg');}.adal-free-audit-report .adal-text-check .icon{--wpr-bg-9c9722d6-fcb9-485e-a8af-948d7021eb8d: url('../wp-content/themes/adalysis/assets/img/content/svg/text-check-white.svg');}.adal-account-analysis-today{--wpr-bg-50037894-462a-4f89-b016-23305dc6496c: url('../wp-content/themes/adalysis/assets/img/content/bluebg-lines.png');}.adal-fkt-hero{--wpr-bg-24128d78-d9e1-4592-a843-1ac19bb5bf3b: url('../wp-content/themes/adalysis/assets/img/content/fkt-bg-left.png');}.adal-fkt-hero{--wpr-bg-442ce4f9-4d9a-4086-96ff-61fff1cabf4d: url('../wp-content/themes/adalysis/assets/img/content/fkt-bg-right.png');}.adal-fkt-cta{--wpr-bg-72fcacd4-8f9b-4b3d-a9aa-73611c0e4dc9: url('../wp-content/themes/adalysis/assets/img/content/fkt-cta-bg.png');}.adal-cta-3{--wpr-bg-d806055a-4f93-4727-99b4-63e95524a63d: url('../wp-content/themes/adalysis/assets/img/content/bg-blue-line-CTA.webp');}.adal-cta-3{--wpr-bg-51f42689-d4af-45a1-aa39-67b01dc0bb8f: url('../wp-content/themes/adalysis/assets/img/content/bg-blue-line-CTA.webp');}.adal-page-hero{--wpr-bg-d17a7816-90df-42e9-beeb-54659914d737: url('../wp-content/themes/adalysis/assets/img/content/csp-hero-bg-left.png');}.adal-page-hero{--wpr-bg-689d3244-dde3-412a-8a25-78ba63538495: url('../wp-content/themes/adalysis/assets/img/content/csp-hero-bg-right.png');}.adal-csp-auditing .adal-privacy-title .icon{--wpr-bg-ce7e5e7c-d66e-4b81-82b8-73f32098ad54: url('../wp-content/themes/adalysis/assets/img/content/svg/icon-privacy.svg');}.adal-page-hero-2{--wpr-bg-56acd391-cee3-43a8-8754-7d653ac77e53: url('../wp-content/themes/adalysis/assets/img/content/page-hero-2-left.png');}.adal-page-hero-2{--wpr-bg-31f16381-cd35-4588-806b-658a07208928: url('../wp-content/themes/adalysis/assets/img/content/page-hero-2-right.png');}.adal-page-hero-3{--wpr-bg-9bcae00e-8f16-4a90-b425-63a9d64cb394: url('../wp-content/themes/adalysis/assets/img/content/csp-hero-bg-left.png');}.adal-page-hero-3{--wpr-bg-55b6f394-7b3d-48e4-8b3a-d05b86664898: url('../wp-content/themes/adalysis/assets/img/content/csp-hero-bg-right.png');}.adal-price_range .range-slide .price-range::-webkit-slider-thumb{--wpr-bg-9b8f8966-af56-4dd8-b344-904180f27110: url('../wp-content/themes/adalysis/assets/img/content/thumbbg.png');}.adal-price_range .range-slide .price-range::-moz-range-thumb{--wpr-bg-65e40c8b-2a93-4335-a425-fe9ce1e50f74: url('../wp-content/themes/adalysis/assets/img/content/thumbbg.png');}.adal-price_range .plans .plan-card .plan-card-list .plan-card-feature{--wpr-bg-4b5914d8-3423-44d3-b048-0646f4649eca: url('../wp-content/themes/adalysis/assets/img/content/check-grey.svg');}.adal-price_range .plans .plan-card.selected-card .plan-card-list .plan-card-feature{--wpr-bg-f6188dd3-7d08-4183-a9a3-ab9c484952d6: url('../wp-content/themes/adalysis/assets/img/content/check-blue.svg');}.adal-price_range .all-plans .all-plans-feature{--wpr-bg-066eab79-c581-40b1-9918-75462eb83eaa: url('../wp-content/themes/adalysis/assets/img/content/check-blue.svg');}.adal-cta-5{--wpr-bg-6fc9586c-cd69-4e6c-a500-fb8f490dfa64: url('../wp-content/themes/adalysis/assets/img/content/bg-blue-line-CTA.webp');}.adal-cta-6{--wpr-bg-95b418ab-b571-4a4c-b127-1fa258518d37: url('../wp-content/themes/adalysis/assets/img/content/bg-blue-line-CTA.webp');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":".icon-facebook","style":".icon-facebook{--wpr-bg-dfbbe6f8-d162-4365-9854-0512ff4ba729: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook.svg');}","hash":"dfbbe6f8-d162-4365-9854-0512ff4ba729","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook.svg"},{"selector":".icon-twitter","style":".icon-twitter{--wpr-bg-8767223c-ce8b-4b5f-b585-47b313fec8e5: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter.svg');}","hash":"8767223c-ce8b-4b5f-b585-47b313fec8e5","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter.svg"},{"selector":".icon-linkedin","style":".icon-linkedin{--wpr-bg-6bf55d63-15e2-4077-add6-0e8455305427: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin.svg');}","hash":"6bf55d63-15e2-4077-add6-0e8455305427","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin.svg"},{"selector":".icon-youtube","style":".icon-youtube{--wpr-bg-3af4ba97-2cc1-4756-88b8-07fb9cb9cd2b: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/youtube.svg');}","hash":"3af4ba97-2cc1-4756-88b8-07fb9cb9cd2b","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/youtube.svg"},{"selector":".icon-youtube-2","style":".icon-youtube-2{--wpr-bg-bb8d6bfa-ce12-4fe1-a116-9d55b73985af: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube.svg');}","hash":"bb8d6bfa-ce12-4fe1-a116-9d55b73985af","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube.svg"},{"selector":".icon-rss","style":".icon-rss{--wpr-bg-e73ccf2f-572d-47fc-b709-20da8bfa6703: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss.svg');}","hash":"e73ccf2f-572d-47fc-b709-20da8bfa6703","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss.svg"},{"selector":".icon-x-new","style":".icon-x-new{--wpr-bg-c38f0a9a-ba1f-458a-88d4-6c173473da08: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-x-new.svg');}","hash":"c38f0a9a-ba1f-458a-88d4-6c173473da08","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-x-new.svg"},{"selector":".icon-linkedin-new","style":".icon-linkedin-new{--wpr-bg-23d90b39-8e63-4f75-a556-fc0a76ecaf5a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-in-new.svg');}","hash":"23d90b39-8e63-4f75-a556-fc0a76ecaf5a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-in-new.svg"},{"selector":".icon-facebook-min","style":".icon-facebook-min{--wpr-bg-bb131f28-cefc-4ed2-900e-72374f1f4d94: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-min.svg');}","hash":"bb131f28-cefc-4ed2-900e-72374f1f4d94","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-min.svg"},{"selector":".icon-facebook-min","style":".icon-facebook-min:hover{--wpr-bg-9d042647-0bd9-4c9e-8d49-5e87a817687a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-min-hover.svg');}","hash":"9d042647-0bd9-4c9e-8d49-5e87a817687a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-min-hover.svg"},{"selector":".icon-twitter-min","style":".icon-twitter-min{--wpr-bg-41ed6d94-6249-4ba2-89c7-85614d62f8e2: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-min.svg');}","hash":"41ed6d94-6249-4ba2-89c7-85614d62f8e2","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-min.svg"},{"selector":".icon-twitter-min","style":".icon-twitter-min:hover{--wpr-bg-d1087472-e685-40cb-8947-3c968d9f6943: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-min-hover.svg');}","hash":"d1087472-e685-40cb-8947-3c968d9f6943","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-min-hover.svg"},{"selector":".icon-linkedin-min","style":".icon-linkedin-min{--wpr-bg-3ebd9b92-f121-41a9-8b71-a021cb3579d8: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-min.svg');}","hash":"3ebd9b92-f121-41a9-8b71-a021cb3579d8","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-min.svg"},{"selector":".icon-linkedin-min","style":".icon-linkedin-min:hover{--wpr-bg-dead95dc-d78d-42b5-8138-a81163cb5d8f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-min-hover.svg');}","hash":"dead95dc-d78d-42b5-8138-a81163cb5d8f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-min-hover.svg"},{"selector":".icon-youtube-min","style":".icon-youtube-min{--wpr-bg-5674969a-8bf4-4e2c-a79a-477cb72b1e96: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-min.svg');}","hash":"5674969a-8bf4-4e2c-a79a-477cb72b1e96","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-min.svg"},{"selector":".icon-youtube-min","style":".icon-youtube-min:hover{--wpr-bg-6a324ae8-bd03-4dde-b266-c715b5d9b385: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-min-hover.svg');}","hash":"6a324ae8-bd03-4dde-b266-c715b5d9b385","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-min-hover.svg"},{"selector":".icon-rss-min","style":".icon-rss-min{--wpr-bg-4b58936c-a56b-4bd5-952e-4b98c0119c78: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-min.svg');}","hash":"4b58936c-a56b-4bd5-952e-4b98c0119c78","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-min.svg"},{"selector":".icon-rss-min","style":".icon-rss-min:hover{--wpr-bg-6c7a0ce3-1a17-4f2c-9df5-7926bd85fc0d: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-min-hover.svg');}","hash":"6c7a0ce3-1a17-4f2c-9df5-7926bd85fc0d","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-min-hover.svg"},{"selector":".icon-comments","style":".icon-comments{--wpr-bg-9cc7abcb-9f0b-4cec-90c1-ecbba468c6e9: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-comment.svg');}","hash":"9cc7abcb-9f0b-4cec-90c1-ecbba468c6e9","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-comment.svg"},{"selector":".icon-arrow-more","style":".icon-arrow-more{--wpr-bg-a5bb52f5-06a5-4859-8ad4-465af1aec25e: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-arrow-more.svg');}","hash":"a5bb52f5-06a5-4859-8ad4-465af1aec25e","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-arrow-more.svg"},{"selector":".icon-arrow-more-black","style":".icon-arrow-more-black{--wpr-bg-2696da81-4921-491c-b42e-df0baca247dd: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-arrow-more-black.svg');}","hash":"2696da81-4921-491c-b42e-df0baca247dd","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-arrow-more-black.svg"},{"selector":".icon-search","style":".icon-search{--wpr-bg-e55ea254-6388-47fc-8c22-0ff2406196bb: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-search.svg');}","hash":"e55ea254-6388-47fc-8c22-0ff2406196bb","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-search.svg"},{"selector":".icon-twitter-gray","style":".icon-twitter-gray{--wpr-bg-5f7ee286-c152-4149-8668-52ce5a67bc29: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-gray.svg');}","hash":"5f7ee286-c152-4149-8668-52ce5a67bc29","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-twitter-gray.svg"},{"selector":".icon-x-gray","style":".icon-x-gray{--wpr-bg-0a79fa75-8b4b-4026-a45b-e54853296214: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-x.svg');}","hash":"0a79fa75-8b4b-4026-a45b-e54853296214","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-x.svg"},{"selector":".icon-linkedin-gray","style":".icon-linkedin-gray{--wpr-bg-9ee6ce5f-2f46-4443-b3d2-589e3e4f6dab: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-gray.svg');}","hash":"9ee6ce5f-2f46-4443-b3d2-589e3e4f6dab","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-linkedin-gray.svg"},{"selector":".icon-linkedin-new-gray","style":".icon-linkedin-new-gray{--wpr-bg-0fb7b72c-a28e-4ea0-80cf-540287ebbfe4: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-in.svg');}","hash":"0fb7b72c-a28e-4ea0-80cf-540287ebbfe4","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-in.svg"},{"selector":".icon-facebook-gray","style":".icon-facebook-gray{--wpr-bg-d0dc2c20-cb42-459f-a0a6-36d30c6520f4: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-gray.svg');}","hash":"d0dc2c20-cb42-459f-a0a6-36d30c6520f4","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-facebook-gray.svg"},{"selector":".icon-youtube-gray","style":".icon-youtube-gray{--wpr-bg-f03c6865-ccda-4963-a791-608eda996148: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/youtube-gray.svg');}","hash":"f03c6865-ccda-4963-a791-608eda996148","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/youtube-gray.svg"},{"selector":".icon-youtube-gray-2","style":".icon-youtube-gray-2{--wpr-bg-2d3df0b8-7d5a-4486-b367-0e75bd738c1e: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-gray.svg');}","hash":"2d3df0b8-7d5a-4486-b367-0e75bd738c1e","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-youtube-gray.svg"},{"selector":".icon-rss-gray","style":".icon-rss-gray{--wpr-bg-6dcd4afc-c8c3-41be-b8fa-2ee96870b808: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-gray.svg');}","hash":"6dcd4afc-c8c3-41be-b8fa-2ee96870b808","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-rss-gray.svg"},{"selector":".icon-play","style":".icon-play{--wpr-bg-01b5f42a-2b89-4618-a49d-e1a4361787d3: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-play.svg');}","hash":"01b5f42a-2b89-4618-a49d-e1a4361787d3","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-play.svg"},{"selector":".icon-text-check","style":".icon-text-check{--wpr-bg-311465bd-c781-476c-be22-8dd3b18a45d1: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-text-check.svg');}","hash":"311465bd-c781-476c-be22-8dd3b18a45d1","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-text-check.svg"},{"selector":".icon-btn-play","style":".icon-btn-play{--wpr-bg-ac630ac0-eb7a-4643-99c5-59b4b853d8d0: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play.svg');}","hash":"ac630ac0-eb7a-4643-99c5-59b4b853d8d0","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play.svg"},{"selector":".adal-btn-blue-icon span","style":".adal-btn-blue-icon:hover span{--wpr-bg-5429c475-0582-4962-9221-c765c6e2aee0: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play-hover.svg');}","hash":"5429c475-0582-4962-9221-c765c6e2aee0","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play-hover.svg"},{"selector":".adal-btn-white-icon span","style":".adal-btn-white-icon span{--wpr-bg-11f0b16b-b965-4cde-874d-2cca1a615008: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play-hover.svg');}","hash":"11f0b16b-b965-4cde-874d-2cca1a615008","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play-hover.svg"},{"selector":".adal-btn-white-icon span","style":".adal-btn-white-icon:hover span{--wpr-bg-8550083d-0641-4ebf-a58b-8bd6961ff9eb: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play.svg');}","hash":"8550083d-0641-4ebf-a58b-8bd6961ff9eb","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-btn-play.svg"},{"selector":".adal-pagination .next span,.adal-pagination .prev span","style":".adal-pagination .next span,.adal-pagination .prev span{--wpr-bg-01442e4b-7a96-428d-886a-177465f463f8: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/pagination-arrow.svg');}","hash":"01442e4b-7a96-428d-886a-177465f463f8","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/pagination-arrow.svg"},{"selector":".adal-pagination .next span,.adal-pagination .prev span","style":".adal-pagination .next:hover span,.adal-pagination .prev:hover span{--wpr-bg-91afd52c-279b-4825-8d11-c665ffdc6666: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/pagination-arrow-hover.svg');}","hash":"91afd52c-279b-4825-8d11-c665ffdc6666","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/pagination-arrow-hover.svg"},{"selector":".adal-form-checkbox label,.comment-form-cookies-consent label","style":".adal-form-checkbox label:after,.comment-form-cookies-consent label:after{--wpr-bg-cbb66574-d18e-46c1-9d32-17e60bbe5434: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-white.svg');}","hash":"cbb66574-d18e-46c1-9d32-17e60bbe5434","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-white.svg"},{"selector":".adal-faq__item.active .adal-faq__item--header span","style":".adal-faq__item.active .adal-faq__item--header span{--wpr-bg-cb8b7c10-4584-4ff7-89aa-6e2939edd95a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/faq-open.svg');}","hash":"cb8b7c10-4584-4ff7-89aa-6e2939edd95a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/faq-open.svg"},{"selector":".adal-faq__item--header span","style":".adal-faq__item--header span{--wpr-bg-9f359b47-de7b-4513-b5d9-d756ff983c62: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/faq-close.svg');}","hash":"9f359b47-de7b-4513-b5d9-d756ff983c62","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/faq-close.svg"},{"selector":".adal-actionable-info .adal-text-check .icon-text-check","style":".adal-actionable-info .adal-text-check .icon-text-check{--wpr-bg-dc873ea3-ce7f-4eb0-93d8-1149085b5791: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg');}","hash":"dc873ea3-ce7f-4eb0-93d8-1149085b5791","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg"},{"selector":".adal-actionable-info-2","style":".adal-actionable-info-2{--wpr-bg-6d9b3e49-227a-415d-86af-3dd6783e4ed7: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.png');}","hash":"6d9b3e49-227a-415d-86af-3dd6783e4ed7","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.png"},{"selector":".adal-actionable-info-2 .adal-text-check .icon-text-check","style":".adal-actionable-info-2 .adal-text-check .icon-text-check{--wpr-bg-8e4400cf-b550-45f7-b52e-af7730f1e500: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-green.svg');}","hash":"8e4400cf-b550-45f7-b52e-af7730f1e500","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-green.svg"},{"selector":".adal-aside-cat__list a,.adal-aside-cat ul a,.widget_categories__list a,.widget_categories ul a","style":".adal-aside-cat__list a::before,.adal-aside-cat ul a::before,.widget_categories__list a::before,.widget_categories ul a::before{--wpr-bg-61328f94-c4a6-4c9a-84fa-9b99c4838c91: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/arrow-cat.svg');}","hash":"61328f94-c4a6-4c9a-84fa-9b99c4838c91","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/arrow-cat.svg"},{"selector":".adal-aside-cat__list a,.adal-aside-cat ul a,.widget_categories__list a,.widget_categories ul a","style":".adal-aside-cat__list a:hover::before,.adal-aside-cat ul a:hover::before,.widget_categories__list a:hover::before,.widget_categories ul a:hover::before{--wpr-bg-d6b53be6-b099-4101-bb02-fd71fbbe5595: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/arrow-cat-hover.svg');}","hash":"d6b53be6-b099-4101-bb02-fd71fbbe5595","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/arrow-cat-hover.svg"},{"selector":".adal-feature__banner","style":".adal-feature__banner{--wpr-bg-4814dd47-8b7c-4b5f-afe7-00483be12a38: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/features-bg.png');}","hash":"4814dd47-8b7c-4b5f-afe7-00483be12a38","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/features-bg.png"},{"selector":".adal-header__wrap-menu.active .adal-header__menu>li.active .has-child__arrow","style":".adal-header__wrap-menu.active .adal-header__menu>li.active .has-child__arrow{--wpr-bg-b63756be-4fa4-49e2-9937-94fec0eff3ad: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow-active.svg');}","hash":"b63756be-4fa4-49e2-9937-94fec0eff3ad","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow-active.svg"},{"selector":".adal-header__menu>li.menu-item-has-children>a","style":".adal-header__menu>li.menu-item-has-children>a::before{--wpr-bg-41b41196-b07f-4f44-ab59-12263eb3eb41: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow.svg');}","hash":"41b41196-b07f-4f44-ab59-12263eb3eb41","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow.svg"},{"selector":".adal-header__menu>li .menu-item-has-children__arrow,.adal-header__menu>li .has-child__arrow","style":".adal-header__menu>li .menu-item-has-children__arrow,.adal-header__menu>li .has-child__arrow{--wpr-bg-3ab99f3a-9fab-4b65-b58f-3811c204a72a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow.svg');}","hash":"3ab99f3a-9fab-4b65-b58f-3811c204a72a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/header-arrow.svg"},{"selector":".adal-header__menu .office-building","style":".adal-header__menu .office-building{--wpr-bg-ef92f15c-25cb-4893-8a3e-4832b383bfc8: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/digital-agencies.svg');}","hash":"ef92f15c-25cb-4893-8a3e-4832b383bfc8","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/digital-agencies.svg"},{"selector":".adal-header__menu .advertising","style":".adal-header__menu .advertising{--wpr-bg-25f1ab06-7d33-4d79-970c-8c5f6f2b62c1: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/advertising.svg');}","hash":"25f1ab06-7d33-4d79-970c-8c5f6f2b62c1","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/advertising.svg"},{"selector":".adal-header__menu .equalizer","style":".adal-header__menu .equalizer{--wpr-bg-6637a730-c55f-4183-8010-e8a0633d4d98: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/account-optimization.svg');}","hash":"6637a730-c55f-4183-8010-e8a0633d4d98","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/account-optimization.svg"},{"selector":".adal-header__menu .money-flow","style":".adal-header__menu .money-flow{--wpr-bg-c4db7612-0a77-4510-97e6-f396e7585cf5: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/budget-management.svg');}","hash":"c4db7612-0a77-4510-97e6-f396e7585cf5","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/budget-management.svg"},{"selector":".adal-header__menu .blog","style":".adal-header__menu .blog{--wpr-bg-f82bfc2a-7569-4e9b-9f36-2d233806a60f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/blog.svg');}","hash":"f82bfc2a-7569-4e9b-9f36-2d233806a60f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/blog.svg"},{"selector":".adal-header__menu .account-audit-report","style":".adal-header__menu .account-audit-report{--wpr-bg-4e0e41e1-e58e-458b-8d2f-79c95be10fad: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/account-audit-report.svg');}","hash":"4e0e41e1-e58e-458b-8d2f-79c95be10fad","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/account-audit-report.svg"},{"selector":".adal-header__menu .looker-studio-templates","style":".adal-header__menu .looker-studio-templates{--wpr-bg-0b4c5f0a-4de0-41d0-9220-fcd3e35e2d04: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/looker-studio-templates.svg');}","hash":"0b4c5f0a-4de0-41d0-9220-fcd3e35e2d04","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/looker-studio-templates.svg"},{"selector":".adal-header__menu .free-tools","style":".adal-header__menu .free-tools{--wpr-bg-7e8a2f7f-9278-4c72-b256-77603f667e9f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/free-tools.svg');}","hash":"7e8a2f7f-9278-4c72-b256-77603f667e9f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/free-tools.svg"},{"selector":".adal-header__menu .guides","style":".adal-header__menu .guides{--wpr-bg-9c052ed1-8a00-4803-8e8f-1b8b32eddf2d: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/guides.svg');}","hash":"9c052ed1-8a00-4803-8e8f-1b8b32eddf2d","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/guides.svg"},{"selector":".adal-header__menu .demo","style":".adal-header__menu .demo{--wpr-bg-59aa5f4e-1ce9-4815-888c-f720f12e2027: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/demo.svg');}","hash":"59aa5f4e-1ce9-4815-888c-f720f12e2027","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/demo.svg"},{"selector":".adal-header__menu .contact-us","style":".adal-header__menu .contact-us{--wpr-bg-50f97326-820b-4c2a-8484-6465252447af: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/contact-us.svg');}","hash":"50f97326-820b-4c2a-8484-6465252447af","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/contact-us.svg"},{"selector":".adal-header__menu .about-us","style":".adal-header__menu .about-us{--wpr-bg-dc07c32e-19ba-4077-9faf-c73beb506e70: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/about-us.svg');}","hash":"dc07c32e-19ba-4077-9faf-c73beb506e70","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/about-us.svg"},{"selector":".adal-header__menu .case-study","style":".adal-header__menu .case-study{--wpr-bg-068536e8-63dd-434e-89e8-689bb74c82a2: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/case-study.svg');}","hash":"068536e8-63dd-434e-89e8-689bb74c82a2","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/case-study.svg"},{"selector":".adal-header__menu .customer-reviews","style":".adal-header__menu .customer-reviews{--wpr-bg-fa5faf5e-3d3e-42d2-b674-2f868d0035c9: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/customer-reviews.svg');}","hash":"fa5faf5e-3d3e-42d2-b674-2f868d0035c9","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/customer-reviews.svg"},{"selector":".adal-header__menu .auditing","style":".adal-header__menu .auditing{--wpr-bg-0a6ada60-83f9-4b58-a49c-e66359f891e0: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/auditing.svg');}","hash":"0a6ada60-83f9-4b58-a49c-e66359f891e0","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/auditing.svg"},{"selector":".adal-header__menu .optimization","style":".adal-header__menu .optimization{--wpr-bg-4ee764b6-c2e3-41ae-af18-b63ac745cc0f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/optimization.svg');}","hash":"4ee764b6-c2e3-41ae-af18-b63ac745cc0f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/optimization.svg"},{"selector":".adal-header__menu .monitoring","style":".adal-header__menu .monitoring{--wpr-bg-fdcd3f26-100e-4cbb-8739-9948ec4c3442: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/monitoring.svg');}","hash":"fdcd3f26-100e-4cbb-8739-9948ec4c3442","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/monitoring.svg"},{"selector":".adal-header__menu .automation","style":".adal-header__menu .automation{--wpr-bg-cda89629-d49e-474d-8a75-805ef76fd614: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/automation.svg');}","hash":"cda89629-d49e-474d-8a75-805ef76fd614","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/automation.svg"},{"selector":".adal-header__menu .ppc-specialists","style":".adal-header__menu .ppc-specialists{--wpr-bg-083446d5-4234-4256-9628-6c1a78ec6265: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/ppc-specialists.svg');}","hash":"083446d5-4234-4256-9628-6c1a78ec6265","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/ppc-specialists.svg"},{"selector":".adal-header__menu .team-leads","style":".adal-header__menu .team-leads{--wpr-bg-887a649f-6e91-45ce-bcda-2ada8fa98303: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/team-leads.svg');}","hash":"887a649f-6e91-45ce-bcda-2ada8fa98303","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/team-leads.svg"},{"selector":".adal-header__menu .ad-management","style":".adal-header__menu .ad-management{--wpr-bg-e53c8ecd-2853-4895-9c0a-cbae849eb157: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/ad-management.svg');}","hash":"e53c8ecd-2853-4895-9c0a-cbae849eb157","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/ad-management.svg"},{"selector":".adal-header__menu .bidding","style":".adal-header__menu .bidding{--wpr-bg-51166fd2-ca8e-48de-905f-64d2aa646961: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/bidding.svg');}","hash":"51166fd2-ca8e-48de-905f-64d2aa646961","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/bidding.svg"},{"selector":".adal-header__menu .budgets","style":".adal-header__menu .budgets{--wpr-bg-fc7d2d07-c771-4329-bde4-a98caf5afa06: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/budgets.svg');}","hash":"fc7d2d07-c771-4329-bde4-a98caf5afa06","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/budgets.svg"},{"selector":".adal-header__menu .campaign-builder","style":".adal-header__menu .campaign-builder{--wpr-bg-47d48024-8ec0-4ebd-8a6f-2c0f589d7081: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/campaign-builder.svg');}","hash":"47d48024-8ec0-4ebd-8a6f-2c0f589d7081","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/campaign-builder.svg"},{"selector":".adal-header__menu .keywords-and-search-terms","style":".adal-header__menu .keywords-and-search-terms{--wpr-bg-b0c30033-9e77-4d0f-836d-aacf5d60b151: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/keywords-and-search-terms.svg');}","hash":"b0c30033-9e77-4d0f-836d-aacf5d60b151","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/keywords-and-search-terms.svg"},{"selector":".adal-header__menu .keywords","style":".adal-header__menu .keywords{--wpr-bg-50b75117-5598-49fc-9b62-a2f6c01c7272: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/keywords.svg');}","hash":"50b75117-5598-49fc-9b62-a2f6c01c7272","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/keywords.svg"},{"selector":".adal-header__menu .search-terms","style":".adal-header__menu .search-terms{--wpr-bg-c03caa64-508e-4099-b6c2-86be3a98eaae: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/search-terms.svg');}","hash":"c03caa64-508e-4099-b6c2-86be3a98eaae","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/search-terms.svg"},{"selector":".adal-header__menu .performance-boosting","style":".adal-header__menu .performance-boosting{--wpr-bg-6ba2ab35-ebe5-4826-ba53-2ab3a004ee36: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-boosting.svg');}","hash":"6ba2ab35-ebe5-4826-ba53-2ab3a004ee36","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-boosting.svg"},{"selector":".adal-header__menu .performance-max","style":".adal-header__menu .performance-max{--wpr-bg-a5066650-710b-4a30-93c5-8e3353557898: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-max.svg');}","hash":"a5066650-710b-4a30-93c5-8e3353557898","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-max.svg"},{"selector":".adal-header__menu .performance-monitoring","style":".adal-header__menu .performance-monitoring{--wpr-bg-a5708e56-f6ee-4cbc-8897-2dcf6a1135df: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-monitoring.svg');}","hash":"a5708e56-f6ee-4cbc-8897-2dcf6a1135df","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/performance-monitoring.svg"},{"selector":".adal-header__menu .quality-score-management","style":".adal-header__menu .quality-score-management{--wpr-bg-0a04f11b-8af2-43c7-a644-bbf4c6b667ba: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/quality-score-management.svg');}","hash":"0a04f11b-8af2-43c7-a644-bbf4c6b667ba","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/quality-score-management.svg"},{"selector":".adal-header__menu .reporting","style":".adal-header__menu .reporting{--wpr-bg-1dc3f197-1252-493d-bbde-8664831c84f8: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/reporting.svg');}","hash":"1dc3f197-1252-493d-bbde-8664831c84f8","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/reporting.svg"},{"selector":".adal-header__menu .rule-engine-and-aduit","style":".adal-header__menu .rule-engine-and-aduit{--wpr-bg-9b71e2cd-20d4-498c-b496-7e2a3d13cd68: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/rule-engine-and-aduit.svg');}","hash":"9b71e2cd-20d4-498c-b496-7e2a3d13cd68","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/rule-engine-and-aduit.svg"},{"selector":".adal-header__menu .affiliate-program","style":".adal-header__menu .affiliate-program{--wpr-bg-b23d85a0-602d-4eea-9f04-62377a6b71c1: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/affiliate-program.svg');}","hash":"b23d85a0-602d-4eea-9f04-62377a6b71c1","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/affiliate-program.svg"},{"selector":".adal-header__menu .change-log","style":".adal-header__menu .change-log{--wpr-bg-6498ba73-22a6-414d-9fa6-bc93de024c26: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/change-log.svg');}","hash":"6498ba73-22a6-414d-9fa6-bc93de024c26","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/change-log.svg"},{"selector":".adal-header__menu .help-center","style":".adal-header__menu .help-center{--wpr-bg-74803260-d348-4338-813a-8930f9ffe34a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/help-center.svg');}","hash":"74803260-d348-4338-813a-8930f9ffe34a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/help-center.svg"},{"selector":".adal-header__menu .comparisons","style":".adal-header__menu .comparisons{--wpr-bg-b6491b28-c5f4-47b0-bdcf-a9cfd117e268: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/comparisons.svg');}","hash":"b6491b28-c5f4-47b0-bdcf-a9cfd117e268","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/comparisons.svg"},{"selector":".adal-header__menu .free-tool-comparisons","style":".adal-header__menu .free-tool-comparisons{--wpr-bg-45f9c8bd-348e-4767-8445-b3ac5e682348: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/hammer-wrench.svg');}","hash":"45f9c8bd-348e-4767-8445-b3ac5e682348","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/hammer-wrench.svg"},{"selector":".adal-header__menu .careers","style":".adal-header__menu .careers{--wpr-bg-6818e116-76c7-49d5-8ae9-51e36e7d787f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/tool-box.svg');}","hash":"6818e116-76c7-49d5-8ae9-51e36e7d787f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/menu-icons\/tool-box.svg"},{"selector":".adal-modal__close span","style":".adal-modal__close span{--wpr-bg-488e867c-27a8-4853-96b9-1e4418413231: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/close-icon.svg');}","hash":"488e867c-27a8-4853-96b9-1e4418413231","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/close-icon.svg"},{"selector":".adal-post__content blockquote","style":".adal-post__content blockquote:before{--wpr-bg-2d2e164e-55c3-4fa4-b49e-eca9d56e0aee: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/quote-before.png');}","hash":"2d2e164e-55c3-4fa4-b49e-eca9d56e0aee","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/quote-before.png"},{"selector":".adal-post__content blockquote","style":".adal-post__content blockquote:after{--wpr-bg-7d4c1cf1-cc8a-4406-869f-92fe73756f7a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/quote-after.png');}","hash":"7d4c1cf1-cc8a-4406-869f-92fe73756f7a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/quote-after.png"},{"selector":".adal-leave-comments .mc4wp-checkbox span","style":".adal-leave-comments .mc4wp-checkbox span:after{--wpr-bg-065f79bf-c50b-446c-b636-3caaa54cab15: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-white.svg');}","hash":"065f79bf-c50b-446c-b636-3caaa54cab15","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-white.svg"},{"selector":".adal-hero-item","style":".adal-hero-item{--wpr-bg-3d8de87f-d2aa-4b3c-af19-f5a4cec33251: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/home-bg.webp');}","hash":"3d8de87f-d2aa-4b3c-af19-f5a4cec33251","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/home-bg.webp"},{"selector":".adal-hero-item-2","style":".adal-hero-item-2{--wpr-bg-10dbc4ba-0fac-45d2-b8cb-1e39b826bb24: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-graphic-hero.webp');}","hash":"10dbc4ba-0fac-45d2-b8cb-1e39b826bb24","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-graphic-hero.webp"},{"selector":".adal-hero-item-2 .check-list .check-list-item","style":".adal-hero-item-2 .check-list .check-list-item{--wpr-bg-5de4d8bb-d171-4ce3-951e-95a548c1588c: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-green.svg');}","hash":"5de4d8bb-d171-4ce3-951e-95a548c1588c","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/check-green.svg"},{"selector":".adal-content-banner","style":".adal-content-banner{--wpr-bg-885ad9e2-d6d4-4c2e-9bf2-25e14cb5bc4a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/text-banner-bg.png');}","hash":"885ad9e2-d6d4-4c2e-9bf2-25e14cb5bc4a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/text-banner-bg.png"},{"selector":".adal-content-banner .adal-text-check .icon-text-check","style":".adal-content-banner .adal-text-check .icon-text-check{--wpr-bg-ed5631bd-9232-469b-abc2-7d7d7d1544db: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg');}","hash":"ed5631bd-9232-469b-abc2-7d7d7d1544db","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg"},{"selector":".adal-get-gree-blue","style":".adal-get-gree-blue{--wpr-bg-b13e45e1-b1ac-4521-84b1-d015743f9b57: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/get-free-bg.png');}","hash":"b13e45e1-b1ac-4521-84b1-d015743f9b57","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/get-free-bg.png"},{"selector":".adal-account-underperforming","style":".adal-account-underperforming{--wpr-bg-9274d242-8149-4b25-9807-e10a7ea58b7c: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/account-underperforming.png');}","hash":"9274d242-8149-4b25-9807-e10a7ea58b7c","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/account-underperforming.png"},{"selector":".adal-account-underperforming .adal-privacy-title .icon","style":".adal-account-underperforming .adal-privacy-title .icon{--wpr-bg-bb1b1097-8397-4c8f-bbf1-6cb3fda5472a: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-privacy.svg');}","hash":"bb1b1097-8397-4c8f-bbf1-6cb3fda5472a","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-privacy.svg"},{"selector":".adal-free-audit-report .adal-text-check .icon","style":".adal-free-audit-report .adal-text-check .icon{--wpr-bg-9c9722d6-fcb9-485e-a8af-948d7021eb8d: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg');}","hash":"9c9722d6-fcb9-485e-a8af-948d7021eb8d","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/text-check-white.svg"},{"selector":".adal-account-analysis-today","style":".adal-account-analysis-today{--wpr-bg-50037894-462a-4f89-b016-23305dc6496c: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bluebg-lines.png');}","hash":"50037894-462a-4f89-b016-23305dc6496c","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bluebg-lines.png"},{"selector":".adal-fkt-hero","style":".adal-fkt-hero{--wpr-bg-24128d78-d9e1-4592-a843-1ac19bb5bf3b: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-bg-left.png');}","hash":"24128d78-d9e1-4592-a843-1ac19bb5bf3b","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-bg-left.png"},{"selector":".adal-fkt-hero","style":".adal-fkt-hero{--wpr-bg-442ce4f9-4d9a-4086-96ff-61fff1cabf4d: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-bg-right.png');}","hash":"442ce4f9-4d9a-4086-96ff-61fff1cabf4d","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-bg-right.png"},{"selector":".adal-fkt-cta","style":".adal-fkt-cta{--wpr-bg-72fcacd4-8f9b-4b3d-a9aa-73611c0e4dc9: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-cta-bg.png');}","hash":"72fcacd4-8f9b-4b3d-a9aa-73611c0e4dc9","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/fkt-cta-bg.png"},{"selector":".adal-cta-3","style":".adal-cta-3{--wpr-bg-d806055a-4f93-4727-99b4-63e95524a63d: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp');}","hash":"d806055a-4f93-4727-99b4-63e95524a63d","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp"},{"selector":".adal-cta-3","style":".adal-cta-3{--wpr-bg-51f42689-d4af-45a1-aa39-67b01dc0bb8f: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp');}","hash":"51f42689-d4af-45a1-aa39-67b01dc0bb8f","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp"},{"selector":".adal-page-hero","style":".adal-page-hero{--wpr-bg-d17a7816-90df-42e9-beeb-54659914d737: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-left.png');}","hash":"d17a7816-90df-42e9-beeb-54659914d737","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-left.png"},{"selector":".adal-page-hero","style":".adal-page-hero{--wpr-bg-689d3244-dde3-412a-8a25-78ba63538495: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-right.png');}","hash":"689d3244-dde3-412a-8a25-78ba63538495","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-right.png"},{"selector":".adal-csp-auditing .adal-privacy-title .icon","style":".adal-csp-auditing .adal-privacy-title .icon{--wpr-bg-ce7e5e7c-d66e-4b81-82b8-73f32098ad54: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-privacy.svg');}","hash":"ce7e5e7c-d66e-4b81-82b8-73f32098ad54","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/svg\/icon-privacy.svg"},{"selector":".adal-page-hero-2","style":".adal-page-hero-2{--wpr-bg-56acd391-cee3-43a8-8754-7d653ac77e53: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/page-hero-2-left.png');}","hash":"56acd391-cee3-43a8-8754-7d653ac77e53","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/page-hero-2-left.png"},{"selector":".adal-page-hero-2","style":".adal-page-hero-2{--wpr-bg-31f16381-cd35-4588-806b-658a07208928: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/page-hero-2-right.png');}","hash":"31f16381-cd35-4588-806b-658a07208928","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/page-hero-2-right.png"},{"selector":".adal-page-hero-3","style":".adal-page-hero-3{--wpr-bg-9bcae00e-8f16-4a90-b425-63a9d64cb394: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-left.png');}","hash":"9bcae00e-8f16-4a90-b425-63a9d64cb394","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-left.png"},{"selector":".adal-page-hero-3","style":".adal-page-hero-3{--wpr-bg-55b6f394-7b3d-48e4-8b3a-d05b86664898: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-right.png');}","hash":"55b6f394-7b3d-48e4-8b3a-d05b86664898","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/csp-hero-bg-right.png"},{"selector":".adal-price_range .range-slide .price-range","style":".adal-price_range .range-slide .price-range::-webkit-slider-thumb{--wpr-bg-9b8f8966-af56-4dd8-b344-904180f27110: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/thumbbg.png');}","hash":"9b8f8966-af56-4dd8-b344-904180f27110","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/thumbbg.png"},{"selector":".adal-price_range .range-slide .price-range","style":".adal-price_range .range-slide .price-range::-moz-range-thumb{--wpr-bg-65e40c8b-2a93-4335-a425-fe9ce1e50f74: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/thumbbg.png');}","hash":"65e40c8b-2a93-4335-a425-fe9ce1e50f74","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/thumbbg.png"},{"selector":".adal-price_range .plans .plan-card .plan-card-list .plan-card-feature","style":".adal-price_range .plans .plan-card .plan-card-list .plan-card-feature{--wpr-bg-4b5914d8-3423-44d3-b048-0646f4649eca: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-grey.svg');}","hash":"4b5914d8-3423-44d3-b048-0646f4649eca","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-grey.svg"},{"selector":".adal-price_range .plans .plan-card.selected-card .plan-card-list .plan-card-feature","style":".adal-price_range .plans .plan-card.selected-card .plan-card-list .plan-card-feature{--wpr-bg-f6188dd3-7d08-4183-a9a3-ab9c484952d6: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-blue.svg');}","hash":"f6188dd3-7d08-4183-a9a3-ab9c484952d6","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-blue.svg"},{"selector":".adal-price_range .all-plans .all-plans-feature","style":".adal-price_range .all-plans .all-plans-feature{--wpr-bg-066eab79-c581-40b1-9918-75462eb83eaa: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-blue.svg');}","hash":"066eab79-c581-40b1-9918-75462eb83eaa","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/check-blue.svg"},{"selector":".adal-cta-5","style":".adal-cta-5{--wpr-bg-6fc9586c-cd69-4e6c-a500-fb8f490dfa64: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp');}","hash":"6fc9586c-cd69-4e6c-a500-fb8f490dfa64","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp"},{"selector":".adal-cta-6","style":".adal-cta-6{--wpr-bg-95b418ab-b571-4a4c-b127-1fa258518d37: url('https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp');}","hash":"95b418ab-b571-4a4c-b127-1fa258518d37","url":"https:\/\/adalysis.com\/wp-content\/themes\/adalysis\/assets\/img\/content\/bg-blue-line-CTA.webp"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.19.1.2" data-wpr-features="wpr_lazyload_css_bg_img wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_minify_css wpr_cdn wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
+<body class="page-template-default page page-id-8664 adalysis">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54SCKSR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header data-rocket-location-hash="13768d53742c9054ff8178dbfef0b54b" class="adal-header">
+        <div data-rocket-location-hash="2db59cf4e943c75fd7a547354bb3fe39" class="adal-container">
+            <div data-rocket-location-hash="78494f5a7b1653afe9f44c8f81042d27" class="adal-header__wrap">
+                                    <a href="../blog/easily-analyze-ad-extension-usage/feed/index.html" class="adal-header__logo" title="logo">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2044'%3E%3C/svg%3E" alt="Adalysis" width="150" height="44" data-lazy-src="https://adalysis.com/wp-content/uploads/2021/03/logo-v2.svg"><noscript><img src="../wp-content/uploads/2021/03/logo-v2.svg" alt="Adalysis" width="150" height="44"></noscript>
+                    </a>
+                
+                <div class="adal-header__wrap-menu">
+                                        <ul class="adal-header__menu"><li id="menu-item-9311" class="product-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="../index.html%3Fp=8664.html#">Product</a>
+<ul class="sub-menu">
+	<li id="menu-item-319" class="equalizer menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=317.html">Account optimization <br>&#038; automation<div class="description">Boost and scale your <br>account’s performance</div></a></li>
+	<li id="menu-item-9016" class="money-flow menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9009.html">Budget management <br>solution<div class="description">Take control of your <br>PPC budgets</div></a></li>
+	<li id="menu-item-9669" class="auditing menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9605.html">Auditing<div class="description">Smarter PPC audits, <br>faster results</div></a></li>
+	<li id="menu-item-9666" class="optimization menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9623.html">Optimization<div class="description">Scale your campaigns, <br>not your workload</div></a></li>
+	<li id="menu-item-9667" class="monitoring menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9621.html">Monitoring<div class="description">Never miss an issue or <br>opportunity again</div></a></li>
+	<li id="menu-item-9668" class="automation menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9618.html">Automation<div class="description">Save time and grow faster</div></a></li>
+	<li id="menu-item-10206" class="performance-monitoring menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10146.html">Performance <br>monitoring<div class="description">Stay on top of the big trends <br>and small details</div></a></li>
+	<li id="menu-item-10181" class="performance-boosting menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10107.html">Performance <br>boosting<div class="description">Find hidden opportunities <br>faster</div></a></li>
+	<li id="menu-item-10208" class="budgets menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10101.html">Budgets<div class="description">Get all the budget tools <br>you need</div></a></li>
+	<li id="menu-item-10205" class="rule-engine-and-aduit menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10168.html">Rule engine and audits<div class="description">PPC audits on your <br>terms</div></a></li>
+	<li id="menu-item-10178" class="bidding menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10093.html">Bidding<div class="description">Smart bidding tools and <br>faster insights</div></a></li>
+	<li id="menu-item-10180" class="performance-max menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10109.html">Performance Max<div class="description">Make Performance Max <br>work for you</div></a></li>
+	<li id="menu-item-10224" class="quality-score-management menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10154.html">Quality score <br>management<div class="description">Impression-weighted, <br>aggregate insights</div></a></li>
+	<li id="menu-item-10225" class="campaign-builder menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10103.html">Campaign <br>builder<div class="description">The easy way to build <br>campaigns at scale</div></a></li>
+	<li id="menu-item-10226" class="reporting menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10163.html">Reporting<div class="description">Automate your PPC <br>reporting</div></a></li>
+	<li id="menu-item-10177" class="ad-management menu-item menu-item-type-post_type menu-item-object-page"><a href="../ppc-ad-testing-tools/index.html">Ad management<div class="description">Boost efficiency with smart <br>tools and AI</div></a></li>
+	<li id="menu-item-10179" class="keywords menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10105.html">Keywords<div class="description">For all aspects of keyword <br>management</div></a></li>
+	<li id="menu-item-10367" class="search-terms menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10361.html">Search terms<div class="description">Get fast insights and <br>recommendations</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7967" class="solutions-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="../index.html%3Fp=8664.html#">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-7968" class="office-building menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=7812.html">Digital agencies<div class="description">Scale with confidence</div></a></li>
+	<li id="menu-item-7969" class="advertising menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=7804.html">PPC advertisers<div class="description">Get the insights you <br>need to grow</div></a></li>
+	<li id="menu-item-10082" class="ppc-specialists menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10054.html">PPC specialists<div class="description">Trade spreadsheets <br>for strategy</div></a></li>
+	<li id="menu-item-10081" class="team-leads menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10068.html">Team leads<div class="description">Drive results without <br>overloading your team</div></a></li>
+	<li id="menu-item-9466" class="case-study menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9406.html">Case studies<div class="description">Hear from PPC teams <br>using Adalysis</div></a></li>
+	<li id="menu-item-10338" class="customer-reviews menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10276.html">Customer reviews<div class="description">Hear what our users <br>say about us</div></a></li>
+	<li id="menu-item-10609" class="comparisons menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10588.html">Adalysis comparisons<div class="description">Adalysis vs other <br>PPC tools</div></a></li>
+	<li id="menu-item-11320" class="free-tool-comparisons menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=11318.html">Free tool comparisons<div class="description">  Adalysis vs Google<br>Ads Editor and more</div></a></li>
+</ul>
+</li>
+<li id="menu-item-10518" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10490.html">Pricing<div class="description"> </div></a></li>
+<li id="menu-item-9312" class="resources-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="../index.html%3Fp=8664.html#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-326" class="blog menu-item menu-item-type-post_type menu-item-object-page"><a href="../blog/work-googles-3rd-headline-just-ignore/index.html">Blog<div class="description">Read original PPC research <br>and insights</div></a></li>
+	<li id="menu-item-7640" class="account-audit-report menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=7525.html">Account audit report<div class="description">Get your free PPC audit</div></a></li>
+	<li id="menu-item-429" class="looker-studio-templates menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=366.html">Looker Studio templates<div class="description">Test-drive our free reporting <br>templates</div></a></li>
+	<li id="menu-item-9313" class="free-tools menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=7635.html">Free tools<div class="description">Discover free PPC tools</div></a></li>
+	<li id="menu-item-9314" class="guides menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=9304.html">Guides<div class="description">Read in-depth guides for <br>key PPC challenges</div></a></li>
+</ul>
+</li>
+<li id="menu-item-552" class="company-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="../index.html%3Fp=116.html">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-333" class="demo menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=165.html">Demo<div class="description">Watch or book a demo</div></a></li>
+	<li id="menu-item-10534" class="help-center menu-item menu-item-type-custom menu-item-object-custom"><a href="https://docs.adalysis.com/">Help center<div class="description">Visit our knowledge base</div></a></li>
+	<li id="menu-item-10535" class="change-log menu-item menu-item-type-custom menu-item-object-custom"><a href="https://docs.adalysis.com/product-updates/product-updates">Change log<div class="description">What’s new in Adalysis</div></a></li>
+	<li id="menu-item-10533" class="affiliate-program menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=10531.html">Affiliate program<div class="description">Become an affiliate and <br>earn commission</div></a></li>
+	<li id="menu-item-329" class="contact-us menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=116.html">Contact us<div class="description">Get in touch</div></a></li>
+	<li id="menu-item-11415" class="careers menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=11409.html">Careers<div class="description">Join the team</div></a></li>
+	<li id="menu-item-328" class="about-us menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html%3Fp=129.html">About us<div class="description">Meet the team behind <br>Adalysis</div></a></li>
+</ul>
+</li>
+</ul>
+                    <ul class="adal-header__right-menu"><li id="menu-item-315" class="adal-btn-sm adal-btn-border-sm menu-item menu-item-type-custom menu-item-object-custom menu-item-315"><a href="https://app.adalysis.com/">Login</a></li>
+<li id="menu-item-316" class="adal-btn adal-btn-blue menu-item menu-item-type-custom menu-item-object-custom menu-item-316"><a href="../free-trial/index.html">Start free trial</a></li>
+</ul>                </div>
+
+                <div class="adal-header__burger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </header>    <div data-rocket-location-hash="fd1b1e2a42aa83b11466ea92fe6da822" id="adal-block-1" class="adal-container">
+        <div data-rocket-location-hash="367d73ab8eb0c59d5bb9553f5f54e6f6" class="adal-page__title adal-page__title--heading adal-text-left">
+            <h1>The Responsive Search Ads Handbook</h1>
+        </div>
+    </div>
+
+<div data-rocket-location-hash="67aeeef26bfa812babc4f936105a6638" id="adal-block-2" class="adal-container">
+    <div data-rocket-location-hash="9b951c645c9919f2e77d094a769837f0" class="adal-link-document ">
+                    <div data-bg="https://adalysis.com/wp-content/uploads/2023/03/RSA-guide-small-free-banner.png" data-rocket-location-hash="f4499eecbbf1457c9a185e7a72d9bebd" class="adal-link-document__img rocket-lazyload" style=""></div>
+        
+                                    <p>Get Your Free Copy of the Responsive Search Ads Handbook</p>
+            
+                            <a href="../index.html%3Fp=8664.html#" class="adal-btn adal-btn-white" data-modal="modalGetFree">Download PDF</a>
+                        </div>
+</div>
+
+<div data-rocket-location-hash="18324761842e0567d5e9a8d03b990b9e" class="adal-modal" id="modalGetFree">
+    <div data-rocket-location-hash="4dd166674816228066e2e616657a7520" class="adal-modal__wrap adal-modal__content">
+        <div data-rocket-location-hash="4a62c23be6a5a89ce91171f40e3bcba0" class="adal-modal__close">
+            <span class="icon-close"></span>
+        </div>
+
+        <form class="subscribe-form mc4wp-form">
+
+            <div class="mc4wp-form-fields">
+                <div class="adal-page__title">
+                    <h2>Get Your Free Copy of <br> The Responsive Search Ads Handbook</h2>
+                    <p>Enter your email and we'll send you the link <br> to the PDF document to download</p>
+                </div>
+
+                <div class="adal-form-group">
+                    <label>Enter Your Email Address</label>
+                    <input type="email" id="email" name="email" placeholder="">
+                </div>
+
+                <div class="adal-form-checkbox">  
+                    <input type="checkbox" name="checkGDPR" value="1" required="" id="checkGDPRadal-block-2">
+                    <label for="checkGDPRadal-block-2">I give you GDPR permission to email me.</label>
+                </div>
+
+                <p>Adalysis uses the information you provide to us to contact you about our relevant content, products, and services. You can unsubscribe from communications from Adalysis at any time. For more information, check out Adalysis’s privacy policy.</p>
+
+                <input type="submit" class="adal-btn adal-btn-blue" value="Get the PDF">
+
+                <input type="hidden" id="list_id" name="list_id" value="10516417">
+                <input type="hidden" id="success_message" name="success_message" value="Your download will start shortly.">
+                <input type="hidden" id="error_message" name="error_message" value="Oops. Something went wrong. Please try again later.">
+                <input type="hidden" id="pdfurl" name="pdfurl" value="https://adalysis.com/wp-content/uploads/2024/09/The-RSA-Handbook.pdf">
+            </div>
+
+        </form>
+
+        <div data-rocket-location-hash="11bd9f0c1b007de803557199dee4c48c" class="mailjet-response" style="display:none;"></div>
+
+    </div>
+</div>
+<div data-rocket-location-hash="7c2a04e683965e576499debcd765f943" id="adal-block-3" class="adal-container">
+    <div data-rocket-location-hash="1cebb0a0bdb68b1bb6dbcfc1c41487b3" class="adal-page__text ">
+        <p>In this guide, we will be discussing responsive search ads (RSAs): the best ad layout, the significance of the Ad Strength, the concept of pinning in RSAs and how and if it can affect your ad performance. Finally, we will talk about the benefits of A/B testing your messaging and how to conduct the proper ad tests for RSAs.</p>
+<p>In the first chapter, we will give an overview of how ETAs perform in comparison with RSAs. In the second chapter, we will be discussing the concept of Ad Strength and the contributing factors behind it, such as the number of headlines and pinning. In the third chapter, we’ll cover ad testing of RSAs in detail.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="d0be27b513cd0087af98533fe9d04e97" id="adal-block-4" class="adal-container">
+    <div data-rocket-location-hash="b31c5eadf4039be5da914506d5d489e2" class="adal-page__text--nav">
+        
+                    <div data-rocket-location-hash="23e5a3f3caba5e003efc1e4dfdcb4249" class="adal-page__text--list">
+                <ol>
+<li><a href="../index.html%3Fp=8664.html#are-rsa-better-than-eta">Are RSAs better than ETAs?</a>
+<ol>
+<li><a href="../index.html%3Fp=8664.html#etas-vs-rsas-analysis">ETAs vs RSAs analysis</a></li>
+<li><a href="../index.html%3Fp=8664.html#overall-comparison-results">Overall comparison results</a></li>
+<li><a href="../index.html%3Fp=8664.html#ctr-comparison">CTR comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#cr-comparison">Conversion rate comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#cpa-conversion">CPA (Cost/conv.) comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#roas-comparison">ROAS (Return on ad spend) comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#conv-impression-comparison">Conv./impression comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#conv-value-impression-comparison">Conv. value/impression comparison</a></li>
+<li><a href="../index.html%3Fp=8664.html#wrap-up">Wrap-Up</a></li>
+</ol>
+</li>
+<li><a href="../index.html%3Fp=8664.html#truths-and-myths-about-ad-strength">Truths and myths about Ad Strength</a>
+<ol>
+<li><a href="../index.html%3Fp=8664.html#what-is-ad-strength">What is Ad Strength?</a></li>
+<li><a href="../index.html%3Fp=8664.html#how-the-comparisons-were-conducted">How the Comparisons were Conducted</a></li>
+<li><a href="../index.html%3Fp=8664.html#how-many-headlines-you-need">How Many Headlines You Need to Get an ‘Excellent’ Ad Strength</a></li>
+<li><a href="../index.html%3Fp=8664.html#how-pinning-affects-ad-strength">How Pinning Affects Ad Strength</a></li>
+<li><a href="../index.html%3Fp=8664.html#ad-strength-affecting-impressions">How Ad Strength Affects Your Impressions</a></li>
+<li><a href="../index.html%3Fp=8664.html#ad-strength-affecting-ctr-cr">How Ad Strength Affects CTR and Conversion Rate</a></li>
+<li><a href="../index.html%3Fp=8664.html#pinning-affecting-ads-performance">How Pinning Affects your Ads Performance</a></li>
+<li><a href="../index.html%3Fp=8664.html#ad-strength-wrap-up">Wrap-Up</a></li>
+</ol>
+</li>
+<li><a href="../index.html%3Fp=8664.html#ab-testing-rsas">A/B Testing RSAs</a>
+<ol>
+<li><a href="../index.html%3Fp=8664.html#need-for-rsa-testing">The Need for RSA Testing</a></li>
+<li><a href="../index.html%3Fp=8664.html#rsa-testing-strategies">RSA Testing Strategies</a>
+<ol>
+<li><a href="../index.html%3Fp=8664.html#improve-unpinned-rsa">Improve the performance of an individual unpinned RSA ad</a></li>
+<li><a href="../index.html%3Fp=8664.html#test-one-set-of-messages-vs-ai">Test one set of specific messages vs. the AI algorithm</a></li>
+<li><a href="../index.html%3Fp=8664.html#test-multiple-sets-of-messages">Test multiple sets of specific messages or themes</a></li>
+<li><a href="../index.html%3Fp=8664.html#testing-rsas-vs-etas">Testing RSAs vs existing ETAs</a></li>
+<li><a href="../index.html%3Fp=8664.html#testing-ad-serving">Testing Google’s RSA ad serving</a></li>
+</ol>
+</li>
+<li><a href="../index.html%3Fp=8664.html#tools">Tools to help you with A/B testing RSAs</a></li>
+<li><a href="../index.html%3Fp=8664.html#conclusions">Wrap-Up</a></li>
+</ol>
+</li>
+</ol>
+            </div>
+            </div>
+</div>
+
+<div data-rocket-location-hash="6edf6cf671ff332c39d4db39e7bfd769" id="are-rsa-better-than-eta" class="adal-container">
+    <div data-rocket-location-hash="18cafed738dab3d5c80b13e4c65efa8a" class="adal-page__text ">
+        <h2>Are RSAs better than ETAs?</h2>
+<p>If you are still running your ETAs, that’s probably not the worst idea. As our research shows, in many cases ETAs still outperform RSAs in a number of important KPIs.</p>
+<p>When we <a href="../index.html%3Fp=4541.html">first compared RSAs to ETAs</a> back in 2019, we found RSAs often won for CTR while ETAs often won for conversion rates. That was almost 3 years ago, so in our last ad analysis, we expected to see RSAs win more often across the board as Google’s machine learning has had a lot of time to gather data and create a better algorithm.</p>
+<p>Spoiler alert: this didn’t turn out to be this way!</p>
+<p>Overall, the win percentages of ETAs are higher than RSAs across all metrics. We feel this is partly due to the RSA format itself which requires more effort from the search marketer to create and manage in more strategic ways than they are used to with other ad types.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="207593cb2ee22ed6c22feb0cd94de302" id="etas-vs-rsas-analysis" class="adal-container">
+    <div data-rocket-location-hash="884f24cc0e8bf783fecc7567e845b8ed" class="adal-page__text ">
+        <h3>ETAs vs RSAs analysis</h3>
+<p>We used data from several thousands of accounts to find ad groups that met the following specific conditions:</p>
+<ul>
+<li>Ad groups that contained both an ETA and an RSA. The sample size is almost 1 million ad groups.</li>
+<li>Ad groups that had both ad types running at the same time and for a minimum length of time. Adalysis tracks the activation dates for all ads and this allows us to compare data when ads were active at the exact same time to ensure the integrity of the comparison.</li>
+<li>All comparison data came only from the ad test results for the above ad groups. The Adalysis ad testing algorithm enforces a minimum impression threshold to ensure low volume ad groups are filtered out and wouldn’t skew the comparison data.</li>
+<li>We included the comparison data for a metric only when that metric had reached statistical significance, meaning the ad will most likely perform consistently in the future as concluded. Adalysis automatically performs these ad tests on all accounts making it possible for us to analyze data of split tested winners and losers by ad type and metric combination across large sample sizes.</li>
+</ul>
+<p>By using the above criteria in selecting the ad groups, we are confident the conclusions reached in this post are as accurate as could possibly be, and the trends will hold across any large enough group of accounts.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="5b4c765e64176a4a6c62d18a2ea6efd5" id="overall-comparison-results" class="adal-container">
+    <div data-rocket-location-hash="29319852e83dbaaf2e03aefcc3aa20a1" class="adal-page__text ">
+        <h3>Overall comparison results</h3>
+<p>When we look at the number of times one ad type outperformed the other in six different metrics, we find that ETAs won in every single one of the metrics analyzed.</p>
+<p><a href="../wp-content/uploads/2022/02/RSA_vs_ETA_all_metrcs-1-scaled.jpg" rel="lightbox"><img class="alignnone wp-image-7893 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20496'%3E%3C/svg%3E" alt="" width="1024" height="496" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/RSA_vs_ETA_all_metrcs-1-1024x496.jpg" /><noscript><img class="alignnone wp-image-7893 size-large" src="../wp-content/uploads/2022/02/RSA_vs_ETA_all_metrcs-1-1024x496.jpg" alt="" width="1024" height="496" /></noscript></a></p>
+<p>In addition, we compared the impact of rotating ads evenly in campaigns that use manual CPC bidding versus scenarios where optimized rotation was used. We saw no difference in the data of the two sets as far as how often one ad type outperformed the other.</p>
+<p>The above results tell us how often one ad type outperformed the other but don’t tell us by how much. To better understand the severity of the difference in performance between the two ad types, we will delve into each comparison in more detail. You will see charts below, for each metric, exposing a better breakdown of the above data.</p>
+<p><em><strong>How to read the below charts</strong></em></p>
+<p>The way the below charts are plotted are as follows:</p>
+<ul>
+<li>Each dot represents one ad group. A blue dot represents an ad group where the RSA outperformed the ETA while an orange dot represents an ad group with an outperforming ETA.</li>
+<li>The horizontal axis is the count of ad groups. Hence, the more space a color occupies horizontally, the more ad groups there are where that ad type performed better.</li>
+<li>The vertical axis represents how much better the outperforming ad was compared to the other ad type in that ad group e.g. a value of 3 means the winning ad was 3 times better than the losing ad.</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="933e7d9945b2234925bdcdc68205e364" id="ctr-comparison" class="adal-container">
+    <div data-rocket-location-hash="0658ba013d04108000c177e81b4f483e" class="adal-page__text ">
+        <h3>CTR comparison – ETAs (51%) vs RSAs (49%)</h3>
+<p><a href="../wp-content/uploads/2022/02/CTR2-Data.png" rel="lightbox"><img class="alignnone wp-image-7908 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20555'%3E%3C/svg%3E" alt="" width="1024" height="555" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/CTR2-Data-1024x555.png" /><noscript><img class="alignnone wp-image-7908 size-large" src="../wp-content/uploads/2022/02/CTR2-Data-1024x555.png" alt="" width="1024" height="555" /></noscript></a></p>
+<p>This was a huge surprise to us. We expected RSAs to at least win by CTR as Google is excellent at optimizing CTR. While ETAs barely won, it was still unexpected.</p>
+<p>From the above, we can conclude the following:</p>
+<ul>
+<li>ETA outperformed RSAs in 51% of the ad groups analyzed.</li>
+<li>There is a tendency to win by large margins. When either ad type outperformed the other, quite a few of them had a much higher CTR compared to the underperforming ad. It can be seen in the above chart that a multiple of 5 is not that uncommon.</li>
+<li>The majority of outliers were RSAs meaning that when an ad type won by an overwhelming amount, it was typically an RSA.</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="0c30dfcfeea98b73df313420e2240895" id="cr-comparison" class="adal-container">
+    <div data-rocket-location-hash="07196957f71ba55c03d3f87cab1b9882" class="adal-page__text ">
+        <h3>Conversion rate comparison – ETAs (67%) vs RSAs (33%)</h3>
+<p><a href="../wp-content/uploads/2022/02/CR-Data2.png" rel="lightbox"><img class="alignnone wp-image-7906 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20561'%3E%3C/svg%3E" alt="" width="1024" height="561" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/CR-Data2-1024x561.png" /><noscript><img class="alignnone wp-image-7906 size-large" src="../wp-content/uploads/2022/02/CR-Data2-1024x561.png" alt="" width="1024" height="561" /></noscript></a></p>
+<p>This result was not surprising as that has long been the main complaint against RSAs i.e. their inability to consistently convert better. However, the percentage of wins of 67% to 33% was surprising.</p>
+<p>From the above, we can conclude the following:</p>
+<ul>
+<li>ETAs outperformed RSAs in 67% of the ad groups analyzed.</li>
+<li>Outperforming by the large margins we saw in the CTR comparison was not common when it came to conversion rates. However, there are a significant number of ad groups where one ad type has a conversion rate that is 2-3 times better than the other ad type in the ad group.</li>
+<li>The majority of outliers were ETAs meaning that when an ad type won by an overwhelming amount, it was typically an ETA.</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="99441725b4f43b9f04a8698ceca993c4" id="cpa-conversion" class="adal-container">
+    <div data-rocket-location-hash="8020f6160ffa55c213fa6dc1f9a76746" class="adal-page__text ">
+        <h3>CPA (Cost/conv.) comparison – ETAs (67%) vs RSAs (33%)</h3>
+<p><a href="../wp-content/uploads/2022/02/CPA4.png" rel="lightbox"><img class="alignnone wp-image-7921 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20568'%3E%3C/svg%3E" alt="" width="1024" height="568" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/CPA4-1024x568.png" /><noscript><img class="alignnone wp-image-7921 size-large" src="../wp-content/uploads/2022/02/CPA4-1024x568.png" alt="" width="1024" height="568" /></noscript></a></p>
+<p>The CPA data shares a lot of trends with the conversion rate data. From the above, we can conclude the following:</p>
+<ul>
+<li>ETAs outperformed RSAs in 67% of the ad groups analyzed.</li>
+<li>Comparing the CPA of the outperforming ad to the underperforming one had similar margins to what we saw in the conversion rate data.</li>
+<li>The majority of outliers were ETAs meaning that when an ad type won by an overwhelming amount, it was typically an ETA.</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="cb5a9e53f11be9dc3d63c3a389f699f1" id="roas-comparison" class="adal-container">
+    <div data-rocket-location-hash="67f9ff3fc11b496a9d278a8db4d0efca" class="adal-page__text ">
+        <h3>ROAS (Return on ad spend) comparison – ETAs (69%) vs RSAs (31%)</h3>
+<p><a href="../wp-content/uploads/2022/02/ROAS2-Data.png" rel="lightbox"><img class="alignnone wp-image-7910 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20561'%3E%3C/svg%3E" alt="" width="1024" height="561" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/ROAS2-Data-1024x561.png" /><noscript><img class="alignnone wp-image-7910 size-large" src="../wp-content/uploads/2022/02/ROAS2-Data-1024x561.png" alt="" width="1024" height="561" /></noscript></a></p>
+<p>ROAS was one of the oddest metrics to work with as there were so many outliers and massive differences in ROAS by ad type. If the outlier was above 100, we lowered it to 100 to make the data easier to read as some of the outliers hit almost 2000, meaning one of the ad types was over 2000 times better than the other ad type.</p>
+<p>From the above, we can conclude the following:</p>
+<ul>
+<li>ETAs outperformed RSAs in 69% of the ad groups analyzed.</li>
+<li>Relative to the other comparisons above, it was much more common for the ROAS of the better performing ad to be magnitudes better. Multiples of 10+ were not that uncommon.</li>
+<li>The majority of outliers were ETAs meaning that when an ad type won by an overwhelming amount, it was typically an ETA.</li>
+</ul>
+<p>We also analyzed the data using a number of different filters e.g. include only ad groups where there were at least 10 conversions per ad, or at least 500 in conversion value, etc. Irrespective of how we sliced the data, the overall trends of huge differences and massive wins in ROAS remained. We are confident that the reason ETAs won so overwhelmingly in ROAS is due to their higher conversion rates.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="a1ba02b545f029ce3ca97b481c4fad48" id="conv-impression-comparison" class="adal-container">
+    <div data-rocket-location-hash="e6ef9844d32ce7f5a8101a89bfa0cfb2" class="adal-page__text ">
+        <h3>Conv./impression comparison – ETAs (55%) vs RSAs (45%)</h3>
+<p><a href="../wp-content/uploads/2022/02/CPI3-Data.png" rel="lightbox"><img class="alignnone wp-image-7917 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20558'%3E%3C/svg%3E" alt="" width="1024" height="558" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/CPI3-Data-1024x558.png" /><noscript><img class="alignnone wp-image-7917 size-large" src="../wp-content/uploads/2022/02/CPI3-Data-1024x558.png" alt="" width="1024" height="558" /></noscript></a></p>
+<p>Conversion per impression (CPI) looks at the ratio between how often an ad is displayed (impression) and how often it receives a conversion. CPI is one of our favorite metrics since it combines both the frequency of clicks (CTR) and how often a click converts (Conversion Rate).</p>
+<p>From the above, we can conclude the following:</p>
+<ul>
+<li>ETAs outperformed RSAs in 55% of the ad groups analyzed.</li>
+<li>There are a significant number of ad groups where one ad type has a CPI that is 2-3 times better than the other ad type in the ad group.</li>
+<li>The outliers were almost equally split between ETAs and RSAs.</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="94763ef85de9e1c6ad3128ff8ac26469" id="conv-value-impression-comparison" class="adal-container">
+    <div data-rocket-location-hash="99b78123850ae10d89f7257f3977ee55" class="adal-page__text ">
+        <h3>Conv. value/impression comparison – ETAs (63%) vs RSAs (37%)</h3>
+<p><a href="../wp-content/uploads/2022/02/ConvPI2.png" rel="lightbox"><img class="alignnone wp-image-7905 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20559'%3E%3C/svg%3E" alt="" width="1024" height="559" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/02/ConvPI2-1024x559.png" /><noscript><img class="alignnone wp-image-7905 size-large" src="../wp-content/uploads/2022/02/ConvPI2-1024x559.png" alt="" width="1024" height="559" /></noscript></a></p>
+<p>Conversion value/impression is another favorite metric as it looks at how much revenue an ad brought compared to how often it was displayed. This metric takes into account CTR, conversion rate, and average checkout amount into a single metric. It’s a favorite among e-commerce sites and those that track and bid based upon revenue.</p>
+<p>As with ROAS, there were a number of outliers in the 100-250 range, so we capped them all at 100. The outliers were not nearly as extreme as with ROAS, however, a lot of the same types of conclusions can be made as with CPI.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="f20a1cd44ac9c2a4adf0bce4dd10154b" id="wrap-up" class="adal-container">
+    <div data-rocket-location-hash="428c039bfef8078cddd4f58701d289fe" class="adal-page__text ">
+        <h3>Conclusions</h3>
+<p>From the above, we can conclude the following:</p>
+<ul>
+<li>ETAs outperformed RSAs in 63% of the ad groups analyzed.</li>
+<li>Similar to the ROAS comparison, it was very common for the Conv. value/impression of the better performing ad to be magnitudes better. Multiples of 10+ were not that uncommon.</li>
+<li>The outliers were almost equally split between ETAs and RSAs.</li>
+</ul>
+<p>Overall, ETAs brought in more revenue per impression than RSAs. Much of that is due to the conversion rate differences. We would not want to make this a firm statement, but what we often see is that ETAs are written in specific ways to try and incentivize users to both convert and to have higher checkout amounts through offers like free shipping at certain amounts, discount codes to increase shopping cart basket size, etc.</p>
+<p>With ETAs, you know how these ads will be rendered and can make a direct connection from the ad impression to the products. With RSAs, that same control does not always exist. There are still ways of creating RSAs that can make them behave similarly to ETAs which will be covered later in this guide.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="8ff461ebf9904634133ec220369c7544" id="truths-and-myths-about-ad-strength" class="adal-container">
+    <div data-rocket-location-hash="d425c37ee4b6b63e46512b923a3e334a" class="adal-page__text ">
+        <h2>Truths and myths about Ad Strength</h2>
+<p>Ad Strength is by far one of the most controversial topics around Responsive Search Ads. While some people argue that it is an internal indicator Google uses to tell you they have all the data they need to successfully create all the combinations they want to test, others will reassure you this parameter has a large impact on your CPC, similar to Quality Score.</p>
+<p>Add pinning into the equation and the picture starts looking even more complex, as many people have already noticed that Google doesn’t really like pinned RSA elements since it gives them less ad serving control.</p>
+<p>In this section, let’s dive deeper into the data about how Ad Strength is composed and how it affects the performance of your RSAs.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="7d99fa37d7b74a5264bacc58e667e55a" id="what-is-ad-strength" class="adal-container">
+    <div data-rocket-location-hash="95f2220011cf989aee5e6648a4c91a71" class="adal-page__text ">
+        <h3>What is Ad Strength?</h3>
+<p>Ad strength is a score Google gives your RSA based upon the total number of assets (headlines and descriptions) and the diversity of those assets within an RSA.<br />
+Google has four categories of ad strength:</p>
+<ul>
+<li>Poor</li>
+<li>Average</li>
+<li>Good</li>
+<li>Excellent</li>
+</ul>
+<p><a href="../wp-content/uploads/2022/03/AdStrenght1.jpg" rel="lightbox"><img class="alignnone wp-image-8239 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20120'%3E%3C/svg%3E" alt="RSA Ad Strength" width="1024" height="120" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/AdStrenght1-1024x120.jpg" /><noscript><img class="alignnone wp-image-8239 size-large" src="../wp-content/uploads/2022/03/AdStrenght1-1024x120.jpg" alt="RSA Ad Strength" width="1024" height="120" /></noscript></a></p>
+<p>As you add or edit headlines, your ad strength changes dynamically. In addition, Google will show suggestions to improve your ad strength.<br />
+One of the suggestions often seen is not to pin the assets. This is a controversial action, so we’ll take a look at how pinning affects ad strength.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="e8aa420158aa924a78145f3867320145" id="how-the-comparisons-were-conducted" class="adal-container">
+    <div data-rocket-location-hash="48b6595bbeadb216da675f3b3155a6b4" class="adal-page__text ">
+        <h4>How the Comparisons were Conducted</h4>
+<p>We used data from several thousands of accounts to find RSAs that met the following conditions:</p>
+<ul>
+<li>We used RSAs that are currently active (in enabled campaigns/ad groups). The sample size is well over 1 million ads.</li>
+<li>Whenever we measured the impact an RSA attribute (e.g. ad strength) has on its performance, we compared the performance of only RSAs running within the same ad group. This ensured the RSAs being compared were subjected to the same targeting conditions and hence as many irrelevant factors were isolated as possible.</li>
+<li>Whenever RSAs were compared against each other, we used only ones that have all been running for at least 2 months while considering only the last 30 days of performance data. This minimizes the impact the initial learning phase of an RSA has on the data we use.</li>
+</ul>
+<p>By following the above criteria in selecting the RSAs we are confident the conclusions reached in this post are as accurate as possible.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="530b1bf6aabb977b50bb3ca4ab36a690" id="how-many-headlines-you-need" class="adal-container">
+    <div data-rocket-location-hash="3bc27f9bc17de5f7cb159157c944dc49" class="adal-page__text ">
+        <h3>How Many Headlines You Need to Get an ‘Excellent’ Ad Strength</h3>
+<p>When we look at ads with Excellent ad strength, most of them have at least 13 headlines, although some had only 8 headlines. No RSAs with under 8 headlines had an Excellent ad strength.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets1.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20659%20401'%3E%3C/svg%3E" alt="RSA Ad Strength" width="659" height="401" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets1.jpg" /><noscript><img class="alignnone size-full wp-image-8266" src="../wp-content/uploads/2022/03/RSA_assets1.jpg" alt="RSA Ad Strength" width="659" height="401" /></noscript></a></p>
+<p>When the above analysis is done for ‘Good’ ad strength, we found one needs a minimum of 4 headlines to achieve a Good ad strength.<br />
+Ad strength isn’t only about the number of headlines you have. Google also checks if your keywords are in the headlines and if you have diverse enough content in your headlines. To confirm that ad strength is not only dependent on the number of headlines but rather on the content as well, we examined RSAs that have Poor ad strength and found the majority of them have 15 headlines.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets2.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8267" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20659%20401'%3E%3C/svg%3E" alt="" width="659" height="401" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets2.jpg" /><noscript><img class="alignnone size-full wp-image-8267" src="../wp-content/uploads/2022/03/RSA_assets2.jpg" alt="" width="659" height="401" /></noscript></a></p>
+<p>This confirms we cannot enhance the ad strength by simply adding more headlines. We still need headlines relevant to the ad group that are different from each other.</p>
+<p>If you have more than 8 headlines and do not yet have Excellent ad strength, look at Google’s recommendations for ad strength. If you see a recommendation to ‘add keywords to the headlines’, and your headlines already have some keywords in them, look at the keywords in your ad group and see if some of them need to be in a different ad group to have more relevant ads associated with those keywords. <a href="../index.html%3Fp=8082.html">Our previous blog article looked at RSA creation</a> and how you still need well-organized ad groups even with RSAs and their potential headline diversity.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="b055327d6ba55664bcbe511702a9b554" id="how-pinning-affects-ad-strength" class="adal-container">
+    <div data-rocket-location-hash="4b4eff7429a92f0f811b5bc3206994b6" class="adal-page__text ">
+        <h3>How Pinning Affects Ad Strength</h3>
+<p>To examine the relationship between pinning and ad strength, we split our RSA data set into three categories:</p>
+<ul>
+<li>Unpinned ads: no headlines are pinned</li>
+<li>Partial pinning: 1 or 2 headlines are pinned</li>
+<li>Full pinning: all 3 headlines are pinned</li>
+</ul>
+<p>We then counted the ads in the above categories segmented by ad strength.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets3.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8268" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20879%20409'%3E%3C/svg%3E" alt="RSA Pinning Ad Strength" width="879" height="409" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets3.jpg" /><noscript><img class="alignnone size-full wp-image-8268" src="../wp-content/uploads/2022/03/RSA_assets3.jpg" alt="RSA Pinning Ad Strength" width="879" height="409" /></noscript></a></p>
+<p>From the above, we can see it’s extremely unlikely to have an Excellent ad strength with any degree of pinning. However, ads that use full pinning can easily achieve a Good ad strength. If pinning is part of your strategy, aim for a Good ad strength (since an Excellent score is much harder to achieve).</p>
+    </div>
+</div>
+<div data-rocket-location-hash="98d01bf5c200a540c72e38b9705c2f29" id="ad-strength-affecting-impressions" class="adal-container">
+    <div data-rocket-location-hash="e834372db78fda0e4d4ce5410068acc1" class="adal-page__text ">
+        <h3>How Ad Strength Affects Your Impressions</h3>
+<p>If you have multiple RSAs in an ad group, do their ad strengths affect the impressions they get? To conduct an accurate comparison, we considered only ad groups where all RSAs used a very similar pinning pattern (to isolate any impact pinning might have on impressions).</p>
+<p>When we examined this data, we see the RSA with the higher ad strength gets more impressions 56.8% of the time. However, the RSAs with the lower ad strength had more impressions 36.6% of the time. We conclude there doesn’t seem to be a clear or strong relationship between ad strength and impressions. Within an ad group, an RSA with higher ad strength will likely, but not always, receive more impressions than the RSA with lower ad strength.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets4.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8269" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20969%20471'%3E%3C/svg%3E" alt="RSA Impressions by Ad Strength" width="969" height="471" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets4.jpg" /><noscript><img class="alignnone size-full wp-image-8269" src="../wp-content/uploads/2022/03/RSA_assets4.jpg" alt="RSA Impressions by Ad Strength" width="969" height="471" /></noscript></a></p>
+<p>To further analyze the above, we also looked at how the impressions differed with the degree of difference in ad strength and found there wasn’t much of an impact. For instance, the way the impressions differed in an ad group with ad strength of Excellent vs Poor was very similar to when the ad strength was Excellent vs Good.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="37ad4edfb3f8fd53ba90f43f9862a8b9" id="ad-strength-affecting-ctr-cr" class="adal-container">
+    <div data-rocket-location-hash="15376c8b17ee4ff4091722dafd15bc85" class="adal-page__text ">
+        <h3>How Ad Strength Affects CTR and Conversion Rate</h3>
+<p>To examine any relationship between ad strength and CTR or Conversion rate, we again considered only ad groups where all RSAs used a very similar pinning pattern.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets5.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8270" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20969%20471'%3E%3C/svg%3E" alt="CTR by Ad Strength" width="969" height="471" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets5.jpg" /><noscript><img class="alignnone size-full wp-image-8270" src="../wp-content/uploads/2022/03/RSA_assets5.jpg" alt="CTR by Ad Strength" width="969" height="471" /></noscript></a></p>
+<p>In the above chart, we can see that the higher ad strength ads had a lower CTR than the lower ad strength ads in 51.5% of the cases. This number is immaterial and ad strength and CTR do not seem to have any direct correlation.</p>
+<p><a href="../wp-content/uploads/2022/03/RSA_assets6-1.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8287" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20969%20471'%3E%3C/svg%3E" alt="" width="969" height="471" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/03/RSA_assets6-1.jpg" /><noscript><img class="alignnone size-full wp-image-8287" src="../wp-content/uploads/2022/03/RSA_assets6-1.jpg" alt="" width="969" height="471" /></noscript></a></p>
+<p>For the conversion rate comparison above, we once again see that the higher ad strength ads had worse metrics than the lower ad strength ads in the same ad group.<br />
+In looking at these charts, there does not seem to be a direct relationship between CTR or Conversion rate and the ad strength. We looked at this data in a few different ways and reached the same conclusion in each scenario.</p>
+<p>Given the above where no strong correlation was found between ad strength and the ad’s performance, it seems ad strength is purely a measure of Google’s ability to test the RSA, and that having a high versus a low CTR did not impact the ad strength.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="cff4cd7bfc77051ddebf79425d6c79cf" id="pinning-affecting-ads-performance" class="adal-container">
+    <div data-rocket-location-hash="79dbc7523d1b676862af58f60532a4e2" class="adal-page__text ">
+        <h3>How Pinning Affects your Ads Performance</h3>
+<p>In a lot of our analysis, we often found higher CTRs or conversion rates achieved by ads that use pinning. However, the act of pinning by itself does not have an impact on performance.</p>
+<p>If you are pinning well-written assets then, just like writing any good ad, it is common to see higher CTRs and conversion rates due to the better ad seen by the searcher. On the other hand, pinning poorly written assets would typically result in worse-performing ads.</p>
+<p>The more unpinned headlines you have, the more variations of ad combinations Google’s machine learning needs to test and optimize. Pinning good headlines often shortcuts the learning process since you are giving the machine fewer variables to work with. Assuming you are only pinning well written headlines, you will almost always see an improvement in your ads performance.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="48a3cf6586c7a7bf4f46aa4d89f4bf05" id="ad-strength-wrap-up" class="adal-container">
+    <div data-rocket-location-hash="249482c0c11924852ffda02ab8615ab6" class="adal-page__text ">
+        <h3>Wrap-Up</h3>
+<p>This might seem controversial, but having an Excellent versus Poor ad strength does not seem to affect your account in any significant way. We conclude from our research that:</p>
+<ul>
+<li>Ad strength seems to be mainly a reflection of Google’s ability to test your ads and the diversity of those headlines.</li>
+<li>If you use at least 8 headlines, it is possible to get an Excellent ad strength. However, it is much easier to do so with 13 or more headlines.</li>
+<li>Your ads could all have a Poor ad strength but still maintain high conversion rates. You could improve your ad strength from Poor to Excellent and not see a significant improvement in CTR or conversion rates.</li>
+<li>If you have at least 2 RSAs in an ad group, the RSA with the higher ad strength will generally get more impressions, but there are many exceptions to this.</li>
+<li>While it might be possible to get an Excellent ad strength when you pin your headlines, it is rare. A Good ad strength is, however, easy to achieve with pinning.</li>
+</ul>
+<p>As Google’s RSA machine learning improves over time, we may see changes to the above conclusions and other account factors. As always, however, the main goal should be to create RSAs that convert regardless of their ad strengths. Because of this, for digital advertisers, testing RSAs is crucial to ensure optimal performance.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="2dfa0ac43771b2fdcef5624821eb70ef" id="ab-testing-rsas" class="adal-container">
+    <div data-rocket-location-hash="86d39393e8a408505bcd8aadcfabb82a" class="adal-page__text ">
+        <h2>A/B Testing RSAs</h2>
+<p>There is a common fallacy that you don’t need to test RSAs which are now the default ad type. Your ad is one of the most critical elements of your account since it persuades a user to come to your site and take an action. You need to ensure you’re serving the best possible RSAs</p>
+<p>In this section, we will discuss the importance of testing your RSAs and the possible approaches and tools you can use to perform this task.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="6294a460c99b5f735d61adb50c4580a2" id="need-for-rsa-testing" class="adal-container">
+    <div data-rocket-location-hash="72b2dc218294e121ac56d1adc281c6f6" class="adal-page__text ">
+        <h3>The Need for RSA Testing</h3>
+<p>There are 3 primary reasons why testing RSAs is important:</p>
+<h5>1) RSAs perform worse than ETAs</h5>
+<p>Without going into all the details again of how ETAs beat RSAs, we know that RSAs rarely perform as well as their predecessors (ETAs). When migrating from ETAs to RSAs, it’s recommended you do not pause/delete all your ETAs without first ensuring the RSAs can at least match the ETAs performance. Hence, having a strategy for testing the new RSAs against the existing ETAs is important.</p>
+<h5>2) The aim of the AI algorithm doesn’t match yours</h5>
+<p>When running an RSA, Google’s machine learning will attempt to find the best performing combination of an RSA so it can serve it most of the time. Our research indicates Google predominantly uses CTR as the metric to decide on which headline combination to serve more frequently than others. If CTR is not your testing metric of choice, Google’s machine learning is not going to help you achieve your account goals.</p>
+<p>For instance, there are 3 RSAs in the below ad group that have all been running for the same length of time. The RSA with the worst conversion rate has more than ten times the impressions of the other ads. Google favored serving that RSA most likely because of its better CTR even though it’s converting at less than half the rate of the others. By pausing this RSA, this ad group increased its conversions by more than 200 in the following 30 days.</p>
+<p><a href="../wp-content/uploads/2022/08/RSA-Ad-Test.jpg" rel="lightbox"><img class="alignnone wp-image-8445 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20442'%3E%3C/svg%3E" alt="" width="1024" height="442" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/08/RSA-Ad-Test-1024x442.jpg" /><noscript><img class="alignnone wp-image-8445 size-large" src="../wp-content/uploads/2022/08/RSA-Ad-Test-1024x442.jpg" alt="" width="1024" height="442" /></noscript></a></p>
+<p>Please note: You’re able to see what combinations Google has served so far and how many impressions each of these combinations has. However, Google exposes only the impressions of a combination, and it’s not possible to know exactly which metric Google chooses to favor that combination. Anecdotal evidence suggests CTR, but this might change depending on Google’s evolving plans. Therefore, it’s not recommended to rely on the top serving combination as the best one to use without doing further testing.<br />
+You can see these combinations in the asset view of an RSA &gt; ‘Combinations’.</p>
+<p><a href="../wp-content/uploads/2022/08/Combinations.jpg" rel="lightbox"><img class="alignnone size-full wp-image-8423" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20606%20195'%3E%3C/svg%3E" alt="" width="606" height="195" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/08/Combinations.jpg" /><noscript><img class="alignnone size-full wp-image-8423" src="../wp-content/uploads/2022/08/Combinations.jpg" alt="" width="606" height="195" /></noscript></a></p>
+<h5>3) Machine learning takes a long time</h5>
+<p>If you create an RSA with 5 unpinned headlines, and Google shows 2 headlines at a time (which is what we see most of the time), you have essentially given Google 20 possible combinations of arranging these into the 2 headlines. Hence, Google has to serve 20 different ads multiple times to try and find the one combination that performs the best. Needless to say, this is going to take a while before a winning combination is found, during which time your account performance would suffer.<br />
+The below table shows how the scale of this issue is affected by the number of headlines you provide.</p>
+<p><a href="../wp-content/uploads/2022/09/RSA-Combos-1.png" rel="lightbox"><img class="alignnone wp-image-8528 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20378'%3E%3C/svg%3E" alt="" width="1024" height="378" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/RSA-Combos-1-1024x378.png" /><noscript><img class="alignnone wp-image-8528 size-large" src="../wp-content/uploads/2022/09/RSA-Combos-1-1024x378.png" alt="" width="1024" height="378" /></noscript></a></p>
+<p>For accounts that created new RSAs with 15 unpinned headlines, they are relying on the machine to test up to 2940 combinations. Assuming each combination needs only 100 impressions to test (which is not enough most of the time), you will need more than 294,000 impressions to discover the better-performing combinations. If you want to be confident in the results, you would need well over 100 impressions per ad combination. It’s probable that Google has some insights that will speed this up somehow, but the issue of needing a lot of data still remains.</p>
+<p>The above is exacerbated further by trying to find a winning combination that includes the descriptions. Providing 3 unpinned descriptions will multiply the above figures by 6, while 4 descriptions will result in 12 times more unique combinations.</p>
+<p>To reduce the time it will take the AI algorithms to find winning headline combinations, we can pin one or more headlines which will reduce the total combinations Google iterates through. We’re essentially shortcutting the machine learning process to speed up reaching conclusions.<br />
+The below shows how pinning 1 headline reduces the overall number of combinations the machine has to go through (in the case of showing 2-headline RSAs, which we see most of the time).</p>
+<p><a href="../wp-content/uploads/2022/09/RSA-Pinned-Combos.png" rel="lightbox"><img class="alignnone wp-image-8529 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20599'%3E%3C/svg%3E" alt="" width="1024" height="599" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/RSA-Pinned-Combos-1024x599.png" /><noscript><img class="alignnone wp-image-8529 size-large" src="../wp-content/uploads/2022/09/RSA-Pinned-Combos-1024x599.png" alt="" width="1024" height="599" /></noscript></a></p>
+<p>As shown above, pinning headlines will greatly reduce the total combinations possible. Hence, employing an RSA testing strategy that involves pinning can help you achieve your goals quicker.</p>
+<p>Please note, all pinning discussed in this post is in the context of headlines only. We do not advise you to fully pin all assets as this will almost always lead to a ‘Poor’ ad strength which will reduce the impressions volume of the fully pinned RSA vs other RSAs in the ad group if the other RSAs are using fewer pins. Please note that there are times you will want to test RSAs where all the assets are pinned.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="ed7f5ac021e657c360bbc0c82010868b" id="rsa-testing-strategies" class="adal-container">
+    <div data-rocket-location-hash="720631912bff15ebaa7a9743c084b962" class="adal-page__text ">
+        <h3>RSA Testing Strategies</h3>
+<p>Given what has been discussed, it’s essential that you have a strategy for ensuring the RSAs you create are optimized within reasonable timeframes to achieve the account goals. Running RSAs without a suitable testing approach can often lead to reduced conversions.</p>
+<p>We discuss below 5 different approaches to improving your RSA performance</p>
+    </div>
+</div>
+<div data-rocket-location-hash="759382d6dc125221064ae44030db2310" id="improve-unpinned-rsa" class="adal-container">
+    <div data-rocket-location-hash="73b852bec83b5ee6d75bee57730e36c7" class="adal-page__text ">
+        <h4>Improve the performance of an individual unpinned RSA ad</h4>
+<p>This is also known as a fully pinned vs. unpinned ad test.</p>
+<p><strong>Scenario</strong></p>
+<p>You have one unpinned RSA ad in an ad group and don’t have any specific headlines in mind that you want to test. You prefer to rely on the machine learning algorithm to find the winning combination. Your aim is to find the winning combination with the best performance (in your metric of choice).</p>
+<p><strong>Proposed Testing Strategy</strong></p>
+<p>Since it will take a long time (given the total combinations discussed above), one approach to speed up the process of finding the winning combination is to look at the current combinations of the RSA ad and use the one with the highest impressions to create a second RSA with the headlines pinned.</p>
+<p>By running a second RSA with the headlines of the top combination, you will get to see if this combination will outperform the unpinned RSA and in which metric. If you’re an Adalysis customer, you’ll have all this data automatically available for you to analyze every day.</p>
+<p>Based on the outcome of this test, you can then choose to:</p>
+<ul>
+<li>Keep the pinned RSA and pause the unpinned underperforming version</li>
+<li>Change the pinned headline to another copy that you believe could perform better</li>
+<li>Create a third RSA with a different ad copy based on another combination and continue testing</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="87c0469bc5f8a4f106351e068d0edde2" id="test-one-set-of-messages-vs-ai" class="adal-container">
+    <div data-rocket-location-hash="50bd2e79b783f541937ff40de430ee75" class="adal-page__text ">
+        <h4>Test one set of specific messages vs. the AI algorithm</h4>
+<p>This is also known as an unpinned vs. partially or fully pinned ad test.</p>
+<p><strong>Scenario</strong></p>
+<p>You have specific headlines in mind that you want to test to see if they will perform better than what Google’s learning algorithm can achieve.</p>
+<p><strong>Proposed Testing Strategy</strong></p>
+<p>Run 2 RSAs in an ad group, one that is unpinned while the other has your specific messages pinned. This is similar to the scenario above but with the second RSA having your specific ad copy instead of the top combination.</p>
+<p>With this testing strategy, the pinned RSA may have multiple assets pinned to each position or have assets pinned in only position 1 or 2, depending on what you are trying to test.</p>
+<p><a href="../wp-content/uploads/2022/09/Fully-pinned-vs-Unpinned-RSA-Ad-Test.jpg" rel="lightbox"><img class="alignnone wp-image-8539 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20529'%3E%3C/svg%3E" alt="" width="1024" height="529" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/Fully-pinned-vs-Unpinned-RSA-Ad-Test-1024x529.jpg" /><noscript><img class="alignnone wp-image-8539 size-large" src="../wp-content/uploads/2022/09/Fully-pinned-vs-Unpinned-RSA-Ad-Test-1024x529.jpg" alt="" width="1024" height="529" /></noscript></a></p>
+    </div>
+</div>
+<div data-rocket-location-hash="40a37f9fbeb9d0852e5f4202c80fe55e" id="test-multiple-sets-of-messages" class="adal-container">
+    <div data-rocket-location-hash="3d23f4dc3c65d91f03a1ffbc39693fd9" class="adal-page__text ">
+        <h4>Test multiple sets of specific messages or themes</h4>
+<p>These are commonly partially or fully pinned vs. partially or fully pinned ad tests.</p>
+<p><strong>Scenario</strong></p>
+<p>For marketers who are good ad copywriters, you are often better than the machine at creating and organizing assets for connecting your message with searchers. In this scenario, you will have specific headlines that you want to test against each other, and you do not want to rely on any machine learning algorithm.</p>
+<p><strong>Proposed Testing Strategy</strong></p>
+<p>You will want to create two or more RSAs while pinning all of the headlines in each RSA. You’re essentially creating an ETA vs ETA test.<br />
+A variation of this test is to create two RSAs where you are using 2-3 pinned assets for each headline. Essentially, you are jumpstarting the machine learning by putting your ads into a formula:</p>
+<ul>
+<li>Headline 1: Headlines related to the ad group</li>
+<li>Headline 2: Call to action or benefit message</li>
+<li>Headline 3: Supporting headline 2</li>
+</ul>
+<p>By creating ads in this manner, you are giving the machine combinations to play with to find your ideal message. However, you are also making sure the ads make sense and contain the type of asset (CTA, benefits, relevancy, etc.) you want in each position.</p>
+<p><a href="../wp-content/uploads/2022/09/Fully-Pinned.jpg" rel="lightbox"><img class="alignnone wp-image-8541 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20474'%3E%3C/svg%3E" alt="" width="1024" height="474" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/Fully-Pinned-1024x474.jpg" /><noscript><img class="alignnone wp-image-8541 size-large" src="../wp-content/uploads/2022/09/Fully-Pinned-1024x474.jpg" alt="" width="1024" height="474" /></noscript></a></p>
+<p>This variation test is common for accounts with small amounts of data since it can take the machine a long time to learn how to create compelling combinations. By jumpstarting the ad layout, you bypass part of the machine learning phase by giving it some restrictions on the ad serving but still allowing it to find an ideal message for the searcher.<br />
+This variation is also common for ad theme testing. If you have more than one ad theme to test e.g. should your ads:</p>
+<ul>
+<li>Focus on prices or discounts?</li>
+<li>Use call to action 1 or call to action 2?</li>
+<li>Use a benefit or call to action in the second headline?</li>
+<li>Focus on inventory size or speed of delivery?</li>
+<li>Use locations in your headlines?</li>
+<li>Showcase a free trial or why someone should try you versus your competitors?</li>
+</ul>
+<p>You would want to create multiple RSAs (maximum of 3 per ad group), with each ad focused on a different theme. You will pin 1-3 assets to a specific headline in one RSA and then pin 1-3 different assets in the same headline in a second RSA.</p>
+<p><a href="../wp-content/uploads/2022/09/Theme-Testing-3.jpg" rel="lightbox"><img class="alignnone wp-image-8542 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20557'%3E%3C/svg%3E" alt="" width="1024" height="557" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/Theme-Testing-3-1024x557.jpg" /><noscript><img class="alignnone wp-image-8542 size-large" src="../wp-content/uploads/2022/09/Theme-Testing-3-1024x557.jpg" alt="" width="1024" height="557" /></noscript></a></p>
+<p>Where you will pin these lines will depend on your tests. Usually, headline 1s are good for location tests, and headline 2s are better for price versus discount tests.</p>
+<p>Optionally, you can also pin assets to the other headlines. Theme tests can be fully pinned versus fully pinned ads, where each ad uses a different theme.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="8eaa5e20f53b39a0857ac873925b31da" id="testing-rsas-vs-etas" class="adal-container">
+    <div data-rocket-location-hash="92cd5044f45e6c6af9da2567d7a44522" class="adal-page__text ">
+        <h4>Testing RSAs vs existing ETAs</h4>
+<p><strong>Scenario</strong></p>
+<p>If you have existing ETAs in an ad group, you already have a benchmark as to what the RSA performance should be. When first creating the RSA in an ad group that has ETAs, the likelihood is the ETAs will outperform the new RSAs added to that ad group.</p>
+<p>Hence, your aim should be to improve the performance of the RSA to at least match the performance of the best performing ETA in that ad group.</p>
+<p><strong>Proposed Testing Strategy</strong></p>
+<p>Create at least one RSA to run alongside the ETA(s) and monitor their performance to determine the statistically significant winner. You can also use some of the pinning strategies mentioned earlier in this post to speed up the process.<br />
+There is a noticeable bias in Google’s algorithms to favor serving RSAs over ETAs. We frequently see the below scenario where the RSA receives most of the impressions over the ETA even though it’s underperforming in CTR. Hence, close attention should be paid to ad testing when it involves ETAs and RSAs.</p>
+<p><a href="../wp-content/uploads/2022/08/RSA-Ad-test-3-1.jpg" rel="lightbox"><img class="alignnone wp-image-8414 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20449'%3E%3C/svg%3E" alt="RSA Ad Test 3" width="1024" height="449" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/08/RSA-Ad-test-3-1-1024x449.jpg" /><noscript><img class="alignnone wp-image-8414 size-large" src="../wp-content/uploads/2022/08/RSA-Ad-test-3-1-1024x449.jpg" alt="RSA Ad Test 3" width="1024" height="449" /></noscript></a></p>
+<p>When creating the RSAs that will run alongside the ETA, please keep in mind the more assets (headlines and descriptions) you add to the RSA, the more combinations Google has to go through before finding the best performing version.</p>
+<p>If you decide to use pinning as a way to speed up the process, one possible approach is to pin 1-3 of the headlines in the top combination (as discussed in strategy 1).</p>
+<p>Once you have RSAs that outperform the ETAs you can start testing RSAs vs RSAs in the same ad group as described below.</p>
+<p>Tip: check the tools section below for ways to help you quickly create RSAs in ad groups with ETAs.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="4bcfb9f0c538b22f248ef1207a8b807d" id="testing-ad-serving" class="adal-container">
+    <div data-rocket-location-hash="a50bde93ba597362f231d8c7cfa9cc8d" class="adal-page__text ">
+        <h4>Testing Google’s RSA Ad Serving</h4>
+<p>It must be stated that you can just create 2-3 RSAs in an ad group, without any pins, and let Google serve the ads. If your ad group only receives a few hundred impressions per month, odds are, you will have very inconsistent metrics, such as CTR and conversion rates, from week to week since Google just doesn’t have the data to test your ads. This is generally not recommended as you often end up with ad serving where your best ad is served the fewest times.</p>
+<p><a href="../wp-content/uploads/2022/09/Unpinned-RSAs.jpg" rel="lightbox"><img class="alignnone wp-image-8556 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20439'%3E%3C/svg%3E" alt="" width="1024" height="439" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/Unpinned-RSAs-1024x439.jpg" /><noscript><img class="alignnone wp-image-8556 size-large" src="../wp-content/uploads/2022/09/Unpinned-RSAs-1024x439.jpg" alt="" width="1024" height="439" /></noscript></a></p>
+<p>If you do have ad groups with large amounts of data, then Google might get it right. For instance, this ad group receives over 50,000 clicks a month, and after running RSAs for more than 3 months, Google is serving the RSA with the best metrics the most often.</p>
+<p><a href="../wp-content/uploads/2022/09/Unpinned-RSAs2.jpg" rel="lightbox"><img class="alignnone wp-image-8557 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20377'%3E%3C/svg%3E" alt="" width="1024" height="377" data-lazy-src="https://adalysis.com/wp-content/uploads/2022/09/Unpinned-RSAs2-1024x377.jpg" /><noscript><img class="alignnone wp-image-8557 size-large" src="../wp-content/uploads/2022/09/Unpinned-RSAs2-1024x377.jpg" alt="" width="1024" height="377" /></noscript></a></p>
+<p>Even when Google does get it right, you will want to pause your losing ads. In this case, when the loser was paused, the ad group saw a nice increase in total conversions. What you should avoid is just creating a few RSAs and then ignoring how each ad performs, as that leads to substandard account performance.</p>
+<p>With these types of tests, you are generally taking a themed testing approach, where each RSA is focused around a different theme and then letting Google’s algorithm go to work. However, you need a lot of traffic and patience for this type of testing to work for you. While you can test this way, you will often see substandard results (during the learning period) that could have been avoided by the use of a few pinned headlines.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="9d641c4703fbbb37cc50e232d0e72ce9" id="tools" class="adal-container">
+    <div data-rocket-location-hash="a37eb1a4e3c61207a2597938d0f33402" class="adal-page__text ">
+        <h3>Tools to help you with A/B testing RSAs</h3>
+<p>Performing the above tasks requires a lot of mundane work that involves creating or editing RSAs in various ways or modifying their assets in bulk (pinning, editing, etc.). We’ve created a number of tools that make the above tasks much easier and faster to do and hence allow you to establish comprehensive testing strategies that can be managed within a few minutes of your time. All of the Adalysis RSA tools are accessible to all users (free trial or paid).</p>
+<p>Here is a quick overview of how Adalysis can help you with managing your RSAs:</p>
+<ul>
+<li>Convert ETAs into RSAs in bulk</li>
+<li>Manage the RSA assets in a centralized way</li>
+<li>Get alerted about poorly performing RSA assets</li>
+<li>Quickly create copies of existing RSAs to launch A/B tests</li>
+<li>Populate RSAs with new headlines and descriptions in bulk</li>
+<li>Get the overview of pinning and distribution of Ad Strength</li>
+</ul>
+    </div>
+</div>
+<div data-rocket-location-hash="38d8a7116e503a42ad615fc9ffe70f23" id="conclusions" class="adal-container">
+    <div data-rocket-location-hash="50918541eca9136c53e56f97ee48f9b7" class="adal-page__text ">
+        <h3>Conclusion</h3>
+<p>The transition from ETAs to RSAs is still ongoing for many advertisers. However, since you can no longer create ETAs, it’s time to understand how to test RSAs. RSAs give you a lot of options for testing ranging from treating them as ETAs (with fully pinned headlines) to providing Google complete control over your asset combinations.</p>
+<p>There’s no perfect RSA test. Accounts with large amounts of data can often use more assets and unpinned ads to manage ad tests. Accounts with smaller amounts of data, or the need to have more message control, will utilize partially or fully pinned RSAs.</p>
+<p>What is crucial is testing RSAs. Many accounts have created RSAs with 15 headlines and walked away. They are wondering why they are getting fewer conversions. Often, it is due to lower conversion rates of the RSAs combination Google thinks is best.</p>
+<p>Your ad is the bridge between a searcher looking for a solution and your website that can convert that searcher into your next customer. Controlling and testing your ads will be an essential part of PPC management, even in the age of responsive search ads and machine learning.</p>
+    </div>
+</div>
+<div data-rocket-location-hash="3b32bb3edc5d843e44199f8f905095eb" id="adal-block-34" class="adal-container">
+    <div data-rocket-location-hash="3287da536e2a94572248e4d30319395e" class="adal-link-document-big ">
+                    <div data-bg="https://adalysis.com/wp-content/uploads/2023/03/RSA-guide-big-link-image.png" data-rocket-location-hash="44152b23be3dbeaa430c4dfae21f64c0" class="adal-link-document__img rocket-lazyload" style=""></div>
+        
+                    <div data-rocket-location-hash="584ffa4f53b07f94e0507d56822a5b1e" class="adal-link-document-big__content">
+                                    <h5>Get Free Copy of The Responsive Search Ads Handbook</h5>
+                
+                                    <a href="../index.html%3Fp=8664.html#" class="adal-btn adal-btn-white" data-modal="modalGetFree">Download PDF</a>
+                            </div>
+            </div>
+</div>
+
+<div data-rocket-location-hash="70bb451c0b9cada0dccac5b0c504770d" class="adal-modal" id="modalGetFree">
+    <div data-rocket-location-hash="b9a3df3280bfa226539137f967a05486" class="adal-modal__wrap adal-modal__content">
+        <div data-rocket-location-hash="564092a48c5c7c127dc6e9282a57c3e7" class="adal-modal__close">
+            <span class="icon-close"></span>
+        </div>
+
+        <form class="subscribe-form mc4wp-form">
+
+            <div class="mc4wp-form-fields">
+                <div class="adal-page__title">
+                    <h2>Get Your Free Copy of <br> The Responsive Search Ads Handbook</h2>
+                    <p>Enter your email and we'll send you the link <br> to the PDF document to download</p>
+                </div>
+
+                <div class="adal-form-group">
+                    <label>Enter Your Email Address</label>
+                    <input type="email" id="email" name="email" placeholder="">
+                </div>
+
+                <div class="adal-form-checkbox">  
+                    <input type="checkbox" name="checkGDPR" value="1" required="" id="checkGDPRadal-block-34">
+                    <label for="checkGDPRadal-block-34">I give you GDPR permission to email me.</label>
+                </div>
+
+                <p>Adalysis uses the information you provide to us to contact you about our relevant content, products, and services. You can unsubscribe from communications from Adalysis at any time. For more information, check out Adalysis’s privacy policy.</p>
+
+                <input type="submit" class="adal-btn adal-btn-blue" value="Get the PDF">
+
+                <input type="hidden" id="list_id" name="list_id" value="10516417">
+                <input type="hidden" id="success_message" name="success_message" value="Your download will start shortly.">
+                <input type="hidden" id="error_message" name="error_message" value="Oops. Something went wrong. Please try again later.">
+                <input type="hidden" id="pdfurl" name="pdfurl" value="https://adalysis.com/wp-content/uploads/2024/09/The-RSA-Handbook.pdf">
+            </div>
+
+        </form>
+
+        <div data-rocket-location-hash="8fe639a2e8cce0f9213ecf583235e3b8" class="mailjet-response" style="display:none;"></div>
+
+    </div>
+</div>
+<div data-rocket-location-hash="da85c95bac492a6279b44cb56e6bb39e" id="adal-block-35" class="adal-share">
+            <p>Share Around the Web</p>
+    
+    <ul class="adal-footer__soc">
+        <li><a href="../index.html%3Fp=8664.html#" data-share="https://www.facebook.com/sharer/sharer.php?u=https://adalysis.com/resources-the-responsive-search-ads-handbook/"><span class="icon-facebook-gray"></span></a></li>
+        <li><a href="../index.html%3Fp=8664.html#" data-share="https://twitter.com/intent/tweet?text=&amp;url=https://adalysis.com/resources-the-responsive-search-ads-handbook/"><span class="icon-twitter-gray"></span></a></li>
+        <li><a href="../index.html%3Fp=8664.html#" data-share="https://www.linkedin.com/shareArticle?mini=true&url=https://adalysis.com/resources-the-responsive-search-ads-handbook/&amp;title=Resources &#8211; The Responsive Search Ads Handbook"><span class="icon-linkedin-gray"></span></a></li>
+        <li><a href="index.html%3Fformat=rss.html"><span class="icon-rss-gray"></span></a></li>
+    </ul>
+</div>
+			<div data-rocket-location-hash="e5ca4b5a57a21ea5c7b28e2c6aa296af" id="adal-block-36" class="adal-actionable-info">
+			<div data-rocket-location-hash="5a6a745c7abf3a8d6e0c91c0eca00666" class="adal-container">
+				<div data-rocket-location-hash="584d8979a5f299d8bb1ff05e822d18a7" class="adal-actionable-info__wrap">
+					<h2>Improve Your Performance with Actionable Info</h2>
+
+											<a href="../free-trial/index.html" class="adal-btn adal-btn-white adal-btn-big">Start a free trial today</a>
+										
+					<div class="adal-text-check"><span class="icon-text-check"></span>No credit card required</div>
+				</div>
+			</div>
+		</div>
+		<footer data-rocket-location-hash="26797706d0f49d3fc974e98e88a9269a" class="adal-footer">
+        <div data-rocket-location-hash="67489c26d1ececa58dae476aee941a46" class="adal-container">
+            <div data-rocket-location-hash="23d9c02e9aaeb1c1f763526208bab64c" class="adal-footer__wrap">
+                <div class="adal-footer__col1">
+                		                    <a href="../blog/easily-analyze-ad-extension-usage/feed/index.html" class="adal-footer__logo" title="logo">
+	                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2044'%3E%3C/svg%3E" alt="logo" width="150" height="44" data-lazy-src="https://adalysis.com/wp-content/uploads/2021/03/logo-white.svg"><noscript><img src="../wp-content/uploads/2021/03/logo-white.svg" alt="logo" width="150" height="44" loading="lazy"></noscript>
+	                    </a>
+                	
+                    <p>Adalysis Ltd, 17 Syon Park Gardens,<br />
+London TW7 5NE, UK</p>
+
+                    <ul class="adal-footer__soc">
+                    	                                                    <li>
+	                            <a href="https://www.linkedin.com/company/adalysis" aria-label="linkedin">
+	                                <span class="icon-linkedin-new"></span>
+	                            </a>
+	                        </li>
+                                                                        	                        <li>
+	                            <a href="https://www.youtube.com/@adalysis" aria-label="youtube">
+	                                <span class="icon-youtube"></span>
+	                            </a>
+	                        </li>
+                                                                    </ul>
+                </div>
+
+                <div class="adal-footer__col2">
+                    <div class="ft-menu-title">Product</div>
+                    <div class="ft-product-menu"><ul id="menu-ft-product-menu" class="menu"><li id="menu-item-10725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10725"><a href="../index.html%3Fp=10146.html">PPC performance monitoring</a></li>
+<li id="menu-item-10724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10724"><a href="../index.html%3Fp=10107.html">PPC performance boosts</a></li>
+<li id="menu-item-10722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10722"><a href="../index.html%3Fp=10101.html">PPC budget management</a></li>
+<li id="menu-item-10720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720"><a href="../index.html%3Fp=10168.html">PPC audits &#038; alerts</a></li>
+<li id="menu-item-10721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10721"><a href="../index.html%3Fp=10093.html">PPC bid management</a></li>
+<li id="menu-item-10719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10719"><a href="../ppc-ad-testing-tools/index.html">PPC ad management</a></li>
+<li id="menu-item-10728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10728"><a href="../index.html%3Fp=10163.html">PPC reporting</a></li>
+<li id="menu-item-10726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10726"><a href="../index.html%3Fp=10154.html">Quality score</a></li>
+<li id="menu-item-10723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10723"><a href="../index.html%3Fp=10105.html">Keywords &#038; search terms</a></li>
+</ul></div>                </div>
+
+                <div class="adal-footer__col3">
+                    <div class="ft-menu-title">Solutions</div>
+                    <div class="ft-solutions-menu"><ul id="menu-ft-solutions-menu" class="menu"><li id="menu-item-10730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10730"><a href="../index.html%3Fp=9605.html">PPC audits</a></li>
+<li id="menu-item-10733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10733"><a href="../index.html%3Fp=9623.html">PPC optimization</a></li>
+<li id="menu-item-10732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10732"><a href="../index.html%3Fp=9621.html">PPC monitoring</a></li>
+<li id="menu-item-10731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10731"><a href="../index.html%3Fp=9618.html">PPC automation</a></li>
+<li id="menu-item-10734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10734"><a href="../index.html%3Fp=7812.html">For agencies</a></li>
+<li id="menu-item-10748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10748"><a href="../index.html%3Fp=7804.html">For brand advertisers</a></li>
+</ul></div>                </div>
+
+                <div class="adal-footer__col4">
+                    <div class="ft-menu-title">Resources</div>
+                    <div class="ft-resources-menu"><ul id="menu-ft-resources-menu" class="menu"><li id="menu-item-10736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10736"><a href="../blog/work-googles-3rd-headline-just-ignore/index.html">Blog</a></li>
+<li id="menu-item-10739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10739"><a href="../index.html%3Fp=9304.html">PPC guides</a></li>
+<li id="menu-item-10738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10738"><a href="../index.html%3Fp=7525.html">Free PPC audit</a></li>
+<li id="menu-item-10737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10737"><a href="../index.html%3Fp=7635.html">Free PPC tools</a></li>
+<li id="menu-item-10749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10749"><a href="../index.html%3Fp=366.html">Reporting templates</a></li>
+</ul></div>                </div>
+
+                <div class="adal-footer__col5">
+                    <div class="ft-menu-title">Company</div>
+                    <div class="ft-company-menu"><ul id="menu-ft-company-menu" class="menu"><li id="menu-item-10744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10744"><a href="../index.html%3Fp=165.html">Demo</a></li>
+<li id="menu-item-10745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10745"><a href="https://docs.adalysis.com/">Help center</a></li>
+<li id="menu-item-10746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10746"><a href="https://docs.adalysis.com/product-updates/product-updates">Product updates</a></li>
+<li id="menu-item-10742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10742"><a href="../index.html%3Fp=10531.html">Affiliate program</a></li>
+<li id="menu-item-10743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10743"><a href="../index.html%3Fp=116.html">Contact us</a></li>
+<li id="menu-item-11414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11414"><a href="../index.html%3Fp=11409.html">Careers</a></li>
+<li id="menu-item-10750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10750"><a href="../index.html%3Fp=6380.html">PPC tools</a></li>
+<li id="menu-item-10741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10741"><a href="../index.html%3Fp=129.html">About us</a></li>
+</ul></div>                </div>
+            </div>
+
+            <div data-rocket-location-hash="0c7e7da4e078d628d3dc604cfc6df423" class="adal-footer__line">
+                <p>© Adalysis. All rights reserved.</p>
+
+                <ul><li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="../index.html%3Fp=300.html">Terms of Service</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-454"><a rel="privacy-policy" href="../index.html%3Fp=3.html">Privacy Policy</a></li>
+</ul>                <!-- <ul>
+                    <li><a href="#">Terms of Service</a>
+                    </li>
+                    <li><a href="#">Privacy Policy</a>
+                    </li>
+                </ul> -->
+            </div>
+        </div>
+    </footer>
+
+	<div data-rocket-location-hash="cdf08179ae7ada676122c63deac396d9" style="display: none;"><div data-rocket-location-hash="30b21c84975d51b0c5295152f5816e5a" id="boxzilla-box-10804-content"><h1 class="banner-title">Get your free PPC audit</h1>
+<p class="banner-text">Discover your account’s potential with a free audit report and score.</p>
+<div data-rocket-location-hash="d426b0190eff6a5eb645ef37912954e6" class="img-wrap"><img class="alignnone wp-image-11639 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20439'%3E%3C/svg%3E" alt="" width="1024" height="439" data-lazy-src="https://adalysis.com/wp-content/uploads/2024/12/Artboard-Copy-44-1024x439.webp" /><noscript><img class="alignnone wp-image-11639 size-large" src="../wp-content/uploads/2024/12/Artboard-Copy-44-1024x439.webp" alt="" width="1024" height="439" /></noscript></div>
+<div data-rocket-location-hash="f0aa24dd56c0bca0569688da448170d1" class="btn-wrap"><a class="adal-btn adal-btn-blue adal-btn-big banner-btn" href="../index.html%3Fp=7525.html" rel="noopener">Audit my account</a></div>
+</div></div><script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/adalysis.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-extra">
+/* <![CDATA[ */
+var rocket_lazyload_css_data = {"threshold":"300"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket_lazyload_css-js-after">
+/* <![CDATA[ */
+!function o(n,c,a){function u(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(s)return s(t,!0);throw(e=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",e}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return u(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var s="function"==typeof require&&require,e=0;e<a.length;e++)u(a[e]);return u}({1:[function(e,t,r){"use strict";{const c="undefined"==typeof rocket_pairs?[]:rocket_pairs,a=(("undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs).map(t=>{var e=t.selector;document.querySelectorAll(e).forEach(e=>{e.setAttribute("data-rocket-lazy-bg-"+t.hash,"excluded")})}),document.querySelector("#wpr-lazyload-bg-container"));var o=rocket_lazyload_css_data.threshold||300;const u=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&c.filter(e=>t.target.matches(e.selector)).map(t=>{var e;t&&((e=document.createElement("style")).textContent=t.style,a.insertAdjacentElement("afterend",e),t.elements.forEach(e=>{u.unobserve(e),e.setAttribute("data-rocket-lazy-bg-"+t.hash,"loaded")}))})})},{rootMargin:o+"px"});function n(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&c.forEach(t=>{try{document.querySelectorAll(t.selector).forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-"+t.hash)&&(u.observe(e),(t.elements||=[]).push(e))})}catch(e){console.error(e)}})}n(),function(){const r=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType)return(t=new r(t)).observe(e,{attributes:!0,childList:!0,subtree:!0}),t}}()(document.querySelector("body"),n)}},{}]},{},[1]);
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="../wp-content/themes/adalysis/assets/js/swiper.min.js%3Fver=1.0.66" id="swiper-js"></script>
+<script type="text/javascript" defer="defer" src="../wp-content/themes/adalysis/assets/js/slick.min.js%3Fver=1.0.66" id="slick-js"></script>
+<script type="text/javascript" id="adalysis-script-js-extra">
+/* <![CDATA[ */
+var adalysis_object = {"ajax_url":"https:\/\/adalysis.com\/wp-admin\/admin-ajax.php","site_url":"https:\/\/adalysis.com\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="../wp-content/themes/adalysis/assets/js/main.min.js%3Fver=1.0.66" id="adalysis-script-js"></script>
+<script type="text/javascript" src="../wp-includes/js/comment-reply.min.js%3Fver=6.5.5" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="mailjet-ajax-script-js-extra">
+/* <![CDATA[ */
+var mailjet_ajax_object = {"ajax_url":"https:\/\/adalysis.com\/wp-admin\/admin-ajax.php","nonce":"255dc2f584"};
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" defer="defer" src="../wp-content/cache/min/1/wp-content/themes/adalysis/assets/js/mailjet-subscribe.js%3Fver=1755594643" id="mailjet-ajax-script-js"></script>
+<script type="text/javascript" id="boxzilla-js-extra">
+/* <![CDATA[ */
+var boxzilla_options = {"testMode":"","boxes":[{"id":10804,"icon":"&times;","content":"","css":{"width":776,"position":"center"},"trigger":{"method":"time_on_page","value":"30"},"animation":"fade","cookie":{"triggered":1,"dismissed":10000},"rehide":false,"position":"center","screenWidthCondition":null,"closable":true,"post":{"id":10804,"title":"Free PPC Audit Banner - new","slug":"free-ppc-audit-banner-new"}}]};
+/* ]]> */
+</script>
+<script data-minify="1" type="text/javascript" src="../wp-content/cache/min/1/wp-content/plugins/boxzilla/assets/js/script.js%3Fver=1755594643" id="boxzilla-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="ivory-search-scripts-js-extra">
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="../wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js%3Fver=5.5.11" id="ivory-search-scripts-js"></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="../wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+	<script>var rocket_beacon_data = {"ajax_url":"https:\/\/adalysis.com\/wp-admin\/admin-ajax.php","nonce":"b315a55254","url":"https:\/\/adalysis.com\/resources-the-responsive-search-ads-handbook","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preload_fonts":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preload_fonts_exclusions":[],"processed_extensions":["woff2","woff","ttf"],"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='../wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1761468984 -->

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Resources" transform="translate(-51, -55)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(22, 22)">
+                <g id="Group" transform="translate(30, 34)">
+                    <g id="newspaper-fold" transform="translate(-0.75, -1.5)">
+                        <path d="M23.25,6 L23.25,20.25 C23.25,21.4926407 22.2426407,22.5 21,22.5 C19.7573593,22.5 18.75,21.4926407 18.75,20.25 L18.75,3 C18.75,2.17157288 18.0784271,1.5 17.25,1.5 L2.25,1.5 C1.42157288,1.5 0.75,2.17157288 0.75,3 L0.75,20.25 C0.75,21.4926407 1.75735931,22.5 3,22.5 L21,22.5" id="Shape" stroke="#3A56BC"></path>
+                        <line x1="4.5" y1="15" x2="15" y2="15" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="4.5" y1="18" x2="10.5" y2="18" id="Shape" stroke="#FFAF24"></line>
+                        <rect id="Rectangle-path" stroke="#3A56BC" x="4.5" y="5.25" width="10.5" height="6" rx="0.75"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Asi Dayan, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/asi-dayan/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 01 Oct 2024 22:06:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Asi Dayan, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>7 Ways to Optimize Your LinkedIn Ads for Peak Performance</title>
+		<link>https://www.wordstream.com/blog/ws/2023/01/25/optimize-linkedin-ads</link>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2023 16:35:07 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=69584</guid>
+
+					<description><![CDATA[<p>The secrets to top performance, from ad copy and targeting to conversion tracking and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/01/25/optimize-linkedin-ads">7 Ways to Optimize Your LinkedIn Ads for Peak Performance</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>LinkedIn has become the go-to resource for businesses looking to advertise to a specific targeted audience of professionals.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example-grammarly.png" alt="how to optimize linkedin ads - grammarly ad example" width="490" height="446" class="wp-image-69599 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example-grammarly.png 490w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example-grammarly-480x437.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 490px, 100vw" /></p>
+<p>But as with any ad platform, you are paying to play, so you need to make sure you&#8217;re taking advantage of every feature, setting and strategy to get the most out of your budget. Lucky for you, that&#8217;s what I&#8217;ll be covering in today&#8217;s post.</p>
+<p>Read on to learn why LinkedIn advertising is a top B2B strategy and how to optimize your campaigns to get the highest return on your investment.</p>
+<h2>Why should every B2B strategy include LinkedIn ads?</h2>
+<p><a href="https://www.wordstream.com/blog/ws/2019/03/05/linkedin-advertising">LinkedIn advertising</a> is an effective platform for anyone looking to <a href="https://www.wordstream.com/blog/generating-leads-on-linkedin">drive leads</a> and sales. Before we get into the optimizations, let&#8217;s cover a few of the reasons why it&#8217;s so effective.</p>
+<h3>Reach a highly targeted audience</h3>
+<p><strong> </strong>LinkedIn allows you to target your ads based on job title, company size, industry, location, interests, groups, company growth rate, and more.</p>
+<p>This means that you can easily “hunt” for the right prospects that are most likely to be interested in your service or product. How could you pass on that!?</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-targeting.png" alt="linkedin in ad targeting" width="150" height="296" class="size-full wp-image-69835 aligncenter" /></p>
+<h3>Boost brand awareness</h3>
+<p>Yes I know, PPC is geared toward getting actual leads and <em>not</em> just increasing brand awareness. But increased awareness is a great by-product of a well-targeted campaign.</p>
+<p>LinkedIn is an extremely popular platform with a huge user base, making it an unmissable channel to reach a wider audience and boost brand awareness.</p>
+<h3>Generate leads</h3>
+<p>Well, this one is just stating the obvious.</p>
+<p><a href="https://www.wordstream.com/blog/linkedin-ads-bidding">LinkedIn ads</a> are designed to <a href="https://www.wordstream.com/blog/ws/2014/08/14/increase-traffic-to-my-website">drive traffic to your website</a> or landing pages, which can help you <a href="https://www.wordstream.com/blog/ws/2023/01/12/how-to-generate-leads">generate leads</a> and sales. LinkedIn also offers lead generation forms, which allow users to sign up for more information or download either a whitepaper or some other resource directly from the ad.</p>
+<p>Keep in mind, lead gen forms will get you more leads, but at a lower intent than those who will actually sign up directly on your website.</p>
+<p>You can also increase your chances of generating leads from LinkedIn with <a href="https://www.wordstream.com/blog/ws/2023/07/12/linkedin-retargeting">LinkedIn retargeting</a>.</p>
+<h3>Track results</h3>
+<p>Data is everything. LinkedIn provides invaluable analytics and tracking tools to help you measure the effectiveness of your ads.</p>
+<p>You can track:</p>
+<ul>
+<li>How many people have seen your ad</li>
+<li>How many have clicked on it</li>
+<li>How many have taken a specific action, such as <a href="https://www.wordstream.com/blog/ws/2022/09/20/b2b-website-design">visiting your website</a> or filling out a form.</li>
+</ul>
+<p>While these are the basics of any advertising platform, with LinkedIn you can slice it by company size, job title, industry and other accurate targets that LinkedIn offers—which we will go through in this post!</p>
+<h3>Multiple ad formats</h3>
+<p>LinkedIn offers a variety of ad formats to choose from, including sponsored content, sponsored InMail, display ads, and sponsored job postings. This allows you to choose the format that best fits your business needs and goals, which depend on your product and target market.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ad-formats-sponsored-content.jpeg" alt="linkedin sponsored content ad example" width="720" height="442" class="alignnone size-full wp-image-69841" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ad-formats-sponsored-content.jpeg 720w, https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ad-formats-sponsored-content-480x295.jpeg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://strikesocial.com/blog/linkedin-ad-dimensions/" target="_blank" rel="noopener">Image source</a></em></p>
+<h2>How to optimize your LinkedIn ads</h2>
+<p>Bottom line? LinkedIn’s targeting capabilities, brand awareness potential, lead generation forms, and analytics make it a valuable tool for any business looking to grow and succeed.</p>
+<p>Well now that we have that settled, the question remains: How to make this advertising platform successful?</p>
+<p>Here are seven bulletproof ways to hack your LinkedIn campaigns for success.</p>
+<h3>1. Define and regularly update your target audience</h3>
+<p>Having a target audience is crucial for creating ad content that resonates and drives conversions. Here are some steps to <a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience">define your target audience</a>:</p>
+<ul>
+<li><strong>Identify your target market:</strong> Who is your product or service for? Consider factors such as age, gender, location, job title, and industry.</li>
+<li><strong>Define your <a href="https://www.wordstream.com/blog/ws/2015/09/23/buyer-personas">buyer personas</a>:</strong> Create detailed profiles of your ideal customers, including their needs, goals, and challenges.</li>
+<li><strong>Analyze your current customer base:</strong> Look at your current customer data to understand who is already using your product or service, why, and how.</li>
+<li><strong>Consider your <a href="https://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples">value proposition</a>:</strong> What makes your product or service unique and valuable to your target audience? And what keeps them coming back?</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-demographic-targeting.png" alt="demographic targeting linkedin ads" width="720" height="356" class="size-full wp-image-69838 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-demographic-targeting.png 720w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-demographic-targeting-480x237.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Don’t forget to regularly review and update your target audience to ensure that your ad campaigns stay relevant and effective.</p>
+<h3>2. Create great ads (and I mean <em>really</em> great ads)</h3>
+<p>LinkedIn is a crowded network, filled with recruiters, salespeople, and advertisers. So you’d better make sure you’ve got winning ads!</p>
+<p>Your ads need to stand out for all the <em>right </em>reasons, or they just won’t cut it.</p>
+<p>Use <a href="https://www.wordstream.com/blog/ws/2022/02/01/headline-examples">compelling headlines</a> and visuals as an effective way to capture the attention of your target audience and improve the performance of your LinkedIn Ads.</p>
+<p>Here are some tips for creating great ads:</p>
+<ul>
+<li><strong>Use responsive design:</strong> Make sure your ad looks good on both desktop and mobile devices. LinkedIn offers responsive ad formats that automatically adjust to the size of your screen, so your ad will look great no matter how it&#8217;s viewed.</li>
+<li><strong>Use eye-catching visuals:</strong> Visuals are an important part of any ad, and they are especially important on mobile where people are more likely to scroll quickly through their feed.</li>
+<li><strong>Keep the <a href="https://www.wordstream.com/blog/ws/2022/01/03/ad-copy-examples">ad copy</a> short and to the point:</strong> Mobile users tend to have shorter attention spans, so use clear, concise language that gets your message across <em>fast</em>.</li>
+<li><strong>Make sure the ad is easy to read:</strong> Use a clear, easy-to-read font and make sure there is enough contrast between the text and the background.</li>
+<li><strong>Test your ad on different devices:</strong> Before you launch your ad, make sure to test it on a variety of mobile devices to ensure it’s readable and looks good.</li>
+</ul>
+<p>Don’t forget to regularly review and optimize your headlines and visuals to make sure they’re effective at driving conversions.</p>
+<p>Here’s a great example of an ad by <a href="https://www.superlegal.ai/" target="_blank" rel="noopener">Superlegal</a>:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example.png" alt="how to optimize linkedin ads - superlegal ad example" width="500" height="654" class="size-full wp-image-69595 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example.png 500w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-example-480x628.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" /></p>
+<p>Why is this ad successful?</p>
+<ul>
+<li><strong>Eye-catching visuals:</strong> The creative captures the user’s eye while quickly browsing through their feed.</li>
+<li><strong><a href="https://www.wordstream.com/blog/ws/2021/07/06/how-to-write-copy-that-sells">Concise copy</a></strong>: The messaging is to the point and keeps details on how it works to a minimum, generating interest. Less is more.</li>
+<li><strong>Benefit-focused:</strong> The messaging immediately tells the user what’s in it for them, and focuses on the <em>why</em>, not the <em>what</em>.</li>
+</ul>
+<h3>3. Test, test, and then test some <em>more</em></h3>
+<p>Testing different ad variations allows you to make data-driven decisions and optimize your LinkedIn ad performance. Here are some things to test:</p>
+<ul>
+<li><strong>Ad copy:</strong> Try testing different versions of your ad copy to see which ones resonate most with your audience. You can test different headlines, descriptions, and <a href="https://www.wordstream.com/blog/ws/2022/04/13/call-to-action-examples">calls to action</a> to see which ones perform the best.</li>
+<li><strong>Visuals:</strong> Try testing different visuals, such as images or videos, to see which ones are most effective. You can also experiment with different image sizes and aspect ratios to see which ones perform the best.</li>
+<li><strong>Targeting:</strong> Test different targeting options, such as job titles, industries, or locations to see which ones perform the best for your business.</li>
+<li><strong>Audience sizes: </strong>You can also test different audience sizes to see if targeting a smaller, more specific audience performs better than targeting a larger, more general audience.</li>
+<li><strong>Ad format:</strong> LinkedIn offers a variety of ad formats, including sponsored content, sponsored InMail, display ads, and sponsored events. It&#8217;s important to test different formats to see which ones perform the best for your business.</li>
+</ul>
+<p><strong>Pro Tip:</strong> When launching a new campaign, make sure to set your campaign to rotate ads <em>evenly</em> to begin with, as this will give each ad a fair chance.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-rotation.png" alt="how to optimize linkedin ads - ad rotation" width="416" height="485" class=" wp-image-69597 aligncenter" /></p>
+<p>It&#8217;s important to regularly review and analyze the results of your ad variations to identify areas for improvement and don’t forget to keep optimizing your ads over time to maximize your chances.</p>
+<h3>4. Use LinkedIn&#8217;s targeting options</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences">LinkedIn&#8217;s audience targeting</a> options allow you to narrow down your audience and show your ads to specific groups of people on the platform. This can be an incredibly effective way to reach the right audience and improve the performance of your ads.</p>
+<p>Here are some examples of LinkedIn&#8217;s audience targeting options:</p>
+<ul>
+<li><strong>Company growth rate: </strong>This one is actually very interesting. You can target your campaign to be shown exclusively to prospects who work at companies with a positive growth rate. So, if you provide recruiting services, you&#8217;d want to target the companies with a (very) positive growth rate and exclude the ones with a negative growth rate.</li>
+</ul>
+<ul>
+<li><strong>Job title:</strong> This one is probably the most basic targeting method on LinkedIn. Target specific job titles or job functions, such as marketing managers or sales executives. This can be especially useful if your product or service is only relevant to certain professions or job roles.</li>
+<li><strong>Company size:</strong> You can target specific company sizes, such as small businesses or large enterprises. This can be useful if your product or service is more suited to a particular size of company.</li>
+<li><strong>Industry:</strong> You can target specific industries, such as finance or healthcare. This can be useful if your product or service is specifically relevant to a particular industry for example insurance or tech.</li>
+<li><strong>Location:</strong> You can target specific locations, such as a specific city or country. This is useful for those whose product or service is available only in certain areas or if you are trying to reach a local audience.</li>
+<li><strong>Group:</strong> Target prospects who are members of specific groups on LinkedIn. This is a great one if you know your target audience is likely to have specific interests, passions,  and hobbies.</li>
+</ul>
+<p><strong>Pro Tip:</strong> Make sure to always disable the LinkedIn audience expansion from your campaigns. It will show your ads to a mostly irrelevant audience in most cases.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-audience-expansion.png" alt="how to optimize linkedin ads - audience expansion" width="1520" height="1014" class="size-full wp-image-69596 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-audience-expansion.png 1520w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-audience-expansion-1280x854.png 1280w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-audience-expansion-980x654.png 980w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-audience-expansion-480x320.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1520px, 100vw" /></p>
+<p>By using LinkedIn&#8217;s Audience Targeting options, you’ll make sure that your ads are being shown to the right people and maximize your chances of getting conversions.</p>
+<p>Not to sound like a broken record, but keep reviewing and adjusting your targeting to make sure you’re reaching your ideal customer.</p>
+<h3>5. Use LinkedIn&#8217;s conversion tracking</h3>
+<p>To set up conversion tracking on LinkedIn, you&#8217;ll need to install a small piece of code, called the LinkedIn Insight Tag, on your site. This will allow you to track a variety of conversion actions like form submissions (like contact us or ebook download), page views (like for your product pages), clicks on a specific link, and more.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-conversion-tracking.png" alt="how to optimize linkedin ads - conversion tracking" width="720" height="418" class="size-full wp-image-69600 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-conversion-tracking.png 720w, https://www.wordstream.com/wp-content/uploads/2023/01/optimize-linkedin-ads-conversion-tracking-480x279.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://www.youtube.com/watch?v=6hvB4U3f5Ng" target="_blank" rel="noopener">Image source</a></em></p>
+<p>This will allow you to see which of your ads are driving the most conversions so you can optimize your campaigns accordingly.</p>
+<p>For example, if one ad is generating a lot of clicks but very few conversions, you may want to consider changing either the ad copy or the targeting to improve performance. On the other hand, if an ad is generating a high number of conversions, consider either increasing your budget for that ad or creating similar ads to capitalize on its success.</p>
+<p>Overall, LinkedIn&#8217;s conversion tracking is a brilliant tool for optimizing your LinkedIn Ads. By regularly tracking and analyzing your conversions, you can make data-driven decisions to improve the effectiveness of your campaigns.<em><a href="https://www.youtube.com/watch?v=6hvB4U3f5Ng" target="_blank" rel="noopener"></a></em></p>
+<h3>6. Use LinkedIn&#8217;s insights &amp; analytics</h3>
+<p>In addition to standard metrics, LinkedIn offers advanced analytics such as <a href="https://www.wordstream.com/blog/ws/2020/09/02/linkedin-website-demographics">demographic data</a>, interests, and job functions. This data is extremely useful to help you understand who is interacting with your ads and how they are engaging with your content.</p>
+<p>To access LinkedIn&#8217;s insights and analytics, you&#8217;ll need to have a LinkedIn Ads account. From the dashboard, you can view a range of data and metrics including impressions, clicks, conversions, and <a href="https://www.wordstream.com/blog/linkedin-ads-cost">cost per action</a> (CPA). You can also view data by specific campaigns, ad groups, and ads to get a more granular understanding of your performance.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linkedin20website20demographics20insights20and20optimization20.png" alt="" width="800" height="395" class="size-full wp-image-10974 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2021/07/linkedin20website20demographics20insights20and20optimization20.png 800w, https://www.wordstream.com/wp-content/uploads/2021/07/linkedin20website20demographics20insights20and20optimization20-480x237.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" /></p>
+<p>By using LinkedIn&#8217;s insights and analytics, you can identify areas for improvement and optimize your campaigns. If you notice that an ad is generating a high number of clicks but a low number of conversions, you may want to consider changing the ad copy or targeting to improve its performance. On the other hand, if an ad is generating a high number of conversions at a low cost, you may want to consider increasing your budget for that ad or creating similar ads.</p>
+<p>LinkedIn insights are another great tool to get the most out of your LinkedIn campaign. Track, track, and track your data over time to get the most out of your LinkedIn budget!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ads-analytics.png" alt="" width="720" height="295" class="size-full wp-image-69601 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ads-analytics.png 720w, https://www.wordstream.com/wp-content/uploads/2023/01/linkedin-ads-analytics-480x197.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><a href="https://www.youtube.com/watch?v=0cEYlcVWGyI" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h3>7. Optimize for mobile</h3>
+<p>Most people use LinkedIn on their mobile devices and spend significantly more time on LinkedIn while using their mobiles, so make sure your ads and landing pages look great on mobile!</p>
+<p>&nbsp;</p>
+<h2>Optimize your LinkedIn campaigns</h2>
+<p>So there you have it: seven bulletproof ways to optimize your LinkedIn ad campaigns and get the most for your budget.</p>
+<ol>
+<li>Define and regularly update your target audience</li>
+<li>Create great ads</li>
+<li>Test, test, and then test some more</li>
+<li>Use LinkedIn&#8217;s targeting options</li>
+<li>Use LinkedIn&#8217;s conversion tracking</li>
+<li>Use LinkedIn&#8217;s insights and analytics</li>
+<li>Optimize for mobile</li>
+</ol>
+<p>All that’s left for you to do now is start implementing these tips and tricks on your LinkedIn campaigns and get ready for higher ROI!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/01/25/optimize-linkedin-ads">7 Ways to Optimize Your LinkedIn Ads for Peak Performance</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 Ways to Keep Your B2B Leads &#038; Sales Flowing Over the Holidays</title>
+		<link>https://www.wordstream.com/blog/ws/2022/11/04/b2b-holiday-marketing-ideas</link>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 17:19:49 +0000</pubDate>
+				<category><![CDATA[Seasonal Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=66079</guid>
+
+					<description><![CDATA[<p>Turn the typical holiday wind-down into an opportunity to shine this year.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/11/04/b2b-holiday-marketing-ideas">5 Ways to Keep Your B2B Leads &#038; Sales Flowing Over the Holidays</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The holidays are just around the corner, which is great! But this can be the hardest time of the year for attracting prospects and capturing attention. This leads many businesses to wind down their lead generation efforts and instead focus on Q1 of next year.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/11/holiday-meme-christmas-new-years.png" alt="meme about week between christmas and new years" width="416" height="534" class=" wp-image-66089 aligncenter" /></p>
+<p>But that doesn’t mean you should. Your prospects are still online, looking for solutions to their pain points. That’s a lot of potential customers that could slip through the cracks if you take your foot off the gas!</p>
+<p>So this year, don’t let the holidays slow you down. We’ve got five ways to keep your leads and sales pipeline flowing throughout the festive season.</p>
+<h2>How to keep generating leads &amp; sales over the holidays</h2>
+<p>The holidays are an opportunity to truly stand out from the competition and capture the opportunities for lead generation that others miss. Here are some <a href="https://localiq.com/blog/holiday-promotions-and-marketing-campaign-ideas/" target="_blank" rel="noopener">holiday marketing ideas</a> particularly for B2B businesses:</p>
+<h3>1. Go strong on mobile</h3>
+<p>Yes, you should always go strong on mobile. But this is especially true for the holidays since people spend much more time on mobile than usual while they’re traveling, holiday shopping, or just enjoying some downtime.</p>
+<p>This is part of the challenge for <a href="https://www.wordstream.com/blog/ws/2021/06/02/b2b-marketing-strategies">B2B marketing</a> teams who prefer their prospects visit their desktop site rather than mobile, as engagement and conversion rates are higher on desktop. This is the case for us at <a href="https://www.superlegal.ai/" target="_blank" rel="noopener">Superlegal</a>, and we are certainly not alone.</p>
+<p>So what should you do? Prepare yourself for the holiday season by putting even more effort than usual into your mobile conversion rates and <a href="https://www.wordstream.com/blog/ws/great-landing-pages">landing page optimization</a>. For example:</p>
+<ul>
+<li>Consider a mobile-only funnel. If your onboarding process is complex and converts much higher on a desktop, making it just as easy to sign up on mobile can do the trick.</li>
+<li>If your sign-up form requires a lot of fields, keep it simple on mobile and ask for email only. Then take the rest of the details you need from a confirmation email.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holidays-mobile-landing-page.png" alt="mobile-friendly landing page with email capture only" width="314" height="604" class="wp-image-66081 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holidays-mobile-landing-page.png 400w, https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holidays-mobile-landing-page-156x300.png 156w" sizes="(max-width: 314px) 100vw, 314px" /></p>
+<ul>
+<li>Be more aggressive in <a href="https://www.wordstream.com/blog/ws/2014/08/14/increase-traffic-to-my-website">sending traffic to your site</a> right now, and run A/B tests to <a href="https://www.wordstream.com/blog/ws/2018/09/18/mobile-conversion-rates">increase mobile conversion rates</a> throughout the holiday period.</li>
+<li>Make sure your landing pages and user experience are 100% mobile-friendly and optimized for <a href="https://www.wordstream.com/blog/ws/2021/04/02/improve-core-web-vitals">Core Web Vitals</a>.</li>
+</ul>
+<h3>2. Hand out a holiday coupon</h3>
+<p>The holidays provide the opportunity to <a href="https://www.wordstream.com/blog/ws/2021/06/21/build-client-relationships">strengthen relationships with your customers</a> and leads by sending thoughtful messages, and as the season of giving, the perfect time to go the extra mile of sending a holiday coupon. And who doesn’t like getting a coupon?</p>
+<p>Give them to prospects to get them back in your pipeline, to customers to strengthen their loyalty and<a href="https://www.wordstream.com/blog/ws/2020/01/08/reduce-churn"> reduce churn</a>, and even to churned users to remind them of your brand and your value. It can just be a straightforward discount coupon, or a coupon to a B2B-friendly vendor, like Staples.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holiday-gift-card.jpg" alt="staples gift card" width="281" height="371" class="wp-image-66083 aligncenter" /></p>
+<p style="text-align: center;"><em><a href="https://cargocollective.com/NicoleMarie/Direct-Mail-Other-Collateral" target="_blank" rel="noopener">Image source</a></em></p>
+<p>Simply add the cost to your <a href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost">user acquisition</a> budget and there you go—you have prospects and churned users talking to you again!</p>
+<h3>3. Get festive with your email marketing</h3>
+<p>Many B2B decision-makers spend the slower time of the holidays evaluating their options and making plans for the year ahead, which often means clearing out emails and scheduling appointments for the new year&#8230;which <em>also</em> means you might actually find team leaders reading and responding to emails <em>more</em> during the holidays.</p>
+<p>So this is a great opportunity for you. But let’s face it, no one likes cold emails offering better results from some tool that is the same as every other tool out there. I personally get at least five such emails a day, and I ignore every single one of them because frankly, they are all exactly the same. Human connection is no longer a luxury but a fundamental part of the <a href="https://www.wordstream.com/blog/ws/2022/09/19/customer-journey-map-templates">buyer’s journey</a>. And customers today prefer businesses that treat them like humans, not leads.</p>
+<p>So you <em>could </em>follow our <a href="https://www.wordstream.com/blog/ws/2018/12/03/cold-email">tips on how to do cold emails right</a>, but this is the holidays—the last thing people want is a corporate email in their inbox. Instead, try one of these:</p>
+<ul>
+<li>Send out a <a href="https://www.wordstream.com/blog/ws/2021/12/08/year-in-review-email-examples">year-in-review email</a> that recaps for customers what they&#8217;ve been able to accomplish with you and encourages them to stay connected next year.</li>
+</ul>
+<p style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/11/wix-year-in-review-email.png" alt="wix year in review email" width="496" height="543" class="wp-image-66084 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/11/wix-year-in-review-email.png 496w, https://www.wordstream.com/wp-content/uploads/2022/11/wix-year-in-review-email-480x526.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 496px, 100vw" /><a href="https://www.wordstream.com/blog/ws/2021/12/08/year-in-review-email-examples"><em>Get plenty more year-in-review email examples here.</em></a></p>
+<ul>
+<li>Send out a genuine &#8220;happy holidays&#8221; email—but follow our tips on <a href="https://www.wordstream.com/blog/ws/2021/11/29/holiday-customer-appreciation-letter">how to write a creative, non-generic holiday email to clients</a>!</li>
+<li>You can also use these <a href="https://localiq.com/blog/holiday-email-marketing-tips/" target="_blank" rel="noopener">holiday email marketing tips</a> for even more guidance.</li>
+</ul>
+<p>That way your prospects will stay connected with your brand through the holidays and come the new year, both you and your prospects will be ready to engage.</p>
+<h3>4. Publish a funny holiday video</h3>
+<p>While video marketing is effective, this is not a suggestion to work on yet another <a href="https://www.wordstream.com/blog/ws/2014/03/13/explainer-videos">explainer video</a> to demonstrate how great your product or service is, and how it will change the business of whoever will buy it.</p>
+<p>Instead, get creative and scrappy with a funny, light-hearted holiday-themed video that doesn&#8217;t directly promote your business.</p>
+<p>For example:</p>
+<ul>
+<li>A funny video of your team members having a meeting as elves, talking about this year’s gifts.</li>
+<li>A parody of a holiday song related to your industry, customers, or brand.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holiday-video.jpg" alt="corporate holiday video" width="620" height="349" class="wp-image-66082 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holiday-video.jpg 620w, https://www.wordstream.com/wp-content/uploads/2022/11/b2b-leads-sales-holiday-video-480x270.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 620px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://toplinefilm.com/blog/best-corporate-christmas-videos" target="_blank" rel="noopener">Image source</a></em></p>
+<p>&nbsp;</p>
+<p>A creative video about the holidays can go viral and create a lot of social boosts, increasing your brand awareness and organic traffic.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/261d.png" alt="☝" class="wp-smiley" style="height: 1em; max-height: 1em;" /><strong> But for the rest of the year when you want to promote your business</strong>, download our free guide:</p>
+<p><strong><a href="https://marketing.wordstream.com/WSLIQContentDLWebsite30BestWaysToPromote.html?cid=Web_Any_InContentTextLink_Marketing_The30BestWaysToPromoteYourBusiness_Download" target="_blank" rel="noopener">The 30 Best Ways to Promote Your Business (With or Without Money!)</a></strong></p></div></div>
+<h3>5. Publish holiday-themed content</h3>
+<p>What can be a better time to get <a href="https://www.wordstream.com/blog/ws/2014/06/12/marketing-ideas">creative with your content</a> than the holidays? Take advantage of this time by publishing some <a href="https://www.wordstream.com/blog/ws/2022/07/27/blog-post-ideas">creative blog posts</a> that will stand out from the usual content we post every day and boost organic traffic for the full year ahead. For example, try out:</p>
+<ul>
+<li>A cheerful roundup of your best customer feedback and reviews.</li>
+<li>An eight or 12-post series (for the 12 Days of Christmas or eight days of Hanukkah).</li>
+<li>A useful holiday survival guide for whatever pain points your customers experience with regard to your industry during the holidays.</li>
+<li>These <a href="https://localiq.com/blog/free-holiday-marketing-resources/" target="_blank" rel="noopener">holiday marketing resources</a> can help you out, as well as our <a href="https://www.wordstream.com/blog/ws/2021/11/01/holiday-copywriting">guide to cliche-free holiday copywriting</a>.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/cliche-free-holiday-copywriting-nope-card.jpeg" alt="cliche-free holiday copywriting tips: greeting card" width="600" height="358" class="size-full wp-image-49687 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2021/12/cliche-free-holiday-copywriting-nope-card.jpeg 600w, https://www.wordstream.com/wp-content/uploads/2021/12/cliche-free-holiday-copywriting-nope-card-480x286.jpeg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<h2>Keep that pipeline moving during the holidays</h2>
+<p>There you go. This year the holiday season is going to breeze through with no worries about a lack of leads, a lower pipeline, or your go-to-market team not hitting their targets. All it takes is a little creativity and a new perspective—your prospects are behaving differently during the holidays, so if you want to grab their attention, so should you.</p>
+<p>With many businesses forgetting about lead generation this time of year, it’s the perfect time to stand out from the competition and show your prospects that you mean business and have no intention of slowing down. So don’t let the holidays go to waste. Get ahead of the competition and start the new year with a bang!</p>
+<p><strong>More holiday marketing resources:</strong></p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/ws/2023/10/10/holiday-ppc-advertising-lead-gen">4 Ways to Drive Leads from Your Holiday PPC Ads</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2023/10/11/ecommerce-black-friday-facebook-ads">8 Ways to Drive Sales from Black Friday Facebook Ads</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2023/08/29/holiday-marketing-trends">The Holiday Marketing Trends &amp; Predictions That Will Make (or Break) Your 2023 Sales</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2022/11/25/holiday-email-templates">10 Ready-to-Use Holiday Emails to Customers (&amp; Free Templates!)</a></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/11/04/b2b-holiday-marketing-ideas">5 Ways to Keep Your B2B Leads &#038; Sales Flowing Over the Holidays</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 Practical Ways to Use AI in Marketing (&#038; Why You Need To)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing</guid>
+
+					<description><![CDATA[<p>We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and for very good reasons. But right now, even that is no longer enough. Just being growth-oriented and data-driven will not cut it anymore. In order to scale up your marketing results, move fast, and be ready to [&#8230;]</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing">4 Practical Ways to Use AI in Marketing (&amp; Why You Need To)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div>
+<p>We’re more than halfway through 2021 and by now, most marketing teams are heavily reliant on growth/digital marketing, and for very good reasons. But right now, even that is no longer enough. Just being growth-oriented and data-driven will not cut it anymore.</p>
+<p>In order to scale up your marketing results, move fast, and be ready to beat your competitors, you will need to harness more technology and automation than ever before.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/benefits-ai-marketing-artificial-intelligience.png" width="715" height="292" alt="benefits of AI in marketing" typeof="foaf:Image" /></div>
+<p>In other words, <strong>it&#8217;s 2021 and time you start using artificial intelligence (AI) in your marketing</strong>—but it’s actually much easier than you may think.</p>
+<p>In this post, I&#8217;m going to cover the definition and benefits of AI in marketing, as well as four practical ways to use it to hit your goals. These include:</p>
+<ol>
+<li>Anyword to write your best marketing copy on any channel</li>
+<li>Dynamic Search Ads to take care of your keyword research and headlines</li>
+<li>Google Analytics Intelligence to answer questions you didn&#8217;t know to ask</li>
+<li>Helixa to get an even deeper understanding of any audience.</li>
+</ol>
+<h2>What is AI marketing?</h2>
+<p>Artificial intelligence (AI) is a broad term that represents several technologies to help your business with both internal operations and customer-facing initiatives. For example</p>
+<ul>
+<li><a href="https://localiq.com/blog/benefits-of-artificial-intelligence-in-business/">Enhancing chatbots with natural language processing</a> (NLP) to qualify leads without forms.</li>
+<li>CRMs that use <a href="https://www.wordstream.com/blog/ws/2017/07/28/machine-learning-applications">machine learning</a> to help businesses analyze every aspect of a customer’s relationship.</li>
+<li>Apps that use <a href="https://www.wordstream.com/blog/ws/2021/03/26/digital-marketing-trends-2021">deep learning</a> to take personalization to another level.</li>
+</ul>
+<p>The possibilities of using<a href="https://www.wordstream.com/blog/ws/2023/06/28/ai-for-marketing" target="_blank" rel="noopener"> AI for your marketing strategy</a> are constantly growing, and we will not cover all of them in this post. (Anyway, it will be impossible to cover everything, as new technologies and companies are being formed all the time.)</p>
+<h2>Why you need AI in marketing</h2>
+<p>With <a href="https://localiq.com/blog/ai-in-marketing/" target="_blank" rel="noopener">AI in marketing</a>, you can:</p>
+<ul>
+<li>Cut operational costs by accomplishing more, in less time, with a smaller team.</li>
+<li>Make the most of your budget with data-driven decisions</li>
+<li>Automatically apply <a href="/blog/ws/2020/08/24/google-ads-optimization">optimizations</a> based on performance data.</li>
+<li>Write more effective copy to increase conversion rates.</li>
+<li><a href="/blog/ws/2020/10/15/smart-bidding">Bid smarter</a> in your campaigns.</li>
+<li>Build a marketing strategy customized to your team’s needs and <a href="https://www.wordstream.com/blog/ws/2020/06/15/marketing-objectives">marketing objectives</a>.</li>
+</ul>
+<p>Put simply, using AI in your marketing efforts can help you keep a lean and mean marketing team and scale your business higher and faster.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/artificial-intelligence-ai-marketing-reasons-for-use.png" width="500" height="347" alt="statista chart showing reasons marketers use AI" typeof="foaf:Image" /></div>
+<p class="text-align-center"><a href="https://www.statista.com/statistics/915493/benefits-using-artificial-intelligence-marketing-personalization/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h2>4 practical ways to use artificial intelligence in marketing</h2>
+<p>There are tons of marketing tools and technologies out there that can make your marketing team stronger and more efficient. Don’t worry though, this will not be just a list of <a href="/blog/ws/2021/04/21/cost-effective-marketing-automation-tools-small-businesses">automation marketing tools</a> out there (I know you&#8217;ve already seen dozens of them).</p>
+<p>Instead, I would like to show you four of the most effective AI marketing tools and features you can use today that, frankly speaking, will do a better job than a human at most aspects of <a href="/blog/ws/2021/01/04/best-marketing-strategies-2021">digital marketing in 2021</a>.</p>
+<p>So here are my four favorite ways to use AI for marketing:</p>
+<h3>1. Make your life easier with Google Dynamic Search Ads (DSAs)</h3>
+<p><strong>What they are</strong></p>
+<p><a href="https://www.wordstream.com/blog/ws/2019/07/01/dynamic-search-ads">Dynamic Search Ads</a> (DSAs) are search campaigns that work in the opposite direction of typical <a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies">paid search strategies</a>. Usually, you will perform your <a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a>, group your keywords, and then match the ad and <a href="https://www.wordstream.com/blog/ws/2016/08/02/landing-page-copywriting">landing page copy</a> to the ad group.</p>
+<p>With DSAs, all you have to do is choose the landing pages you wish to promote and Google will do the rest. Google’s AI scans the landing pages, chooses the keywords for you, and then generates accurate <a href="https://www.wordstream.com/blog/ws/2016/12/19/adwords-headline-formulas">ad headlines</a>.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-Dynamic-Search-Ads-artificial-intelligence-example.png" width="652" height="308" alt="dynamic search ad example in google SERP" typeof="foaf:Image" /></div>
+<p><strong>Why you need them</strong></p>
+<p>DSA campaigns have been around for a while now, but campaign managers historically have not trusted them due to poor performance. But Google has made some major improvements in DSA campaigns in the last few years and <strong>I was personally able to improve my SEM CPA by 60%</strong> with it, and this is without including the time I saved by using it.</p>
+<p>I personally think the name is inaccurate, as it might make you think DSA will just create dynamic search ads for you. These are actually <a href="https://www.wordstream.com/blog/ws/2021/03/11/responsive-search-ads-new-default-google-ads">Responsive Search Ads</a> (RSAs). But DSAs actually do so much more than that, all based on Google’s AI (I think we can all agree they kind of know what they are doing over there in Mountain View).</p>
+<p><strong>How to use them</strong></p>
+<p>There are a few ways to structure and operate your DSA campaigns, but they are all similar.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-google-dynamic-search-ads-artificial-intelligence.jpeg" width="720" height="544" alt="artificial intelligence dynamic search ad setup" typeof="foaf:Image" /></div>
+<p>You can start off by trying it for a small section of your site, or maybe your blog or resources, and see how it does most of the work for you.</p>
+<p>Just make sure to exclude irrelevant keywords or even pages you do not wish to promote. For example, you will probably find it redundant to have DSAs promoting your careers page.</p>
+<blockquote><p><strong>Bottom line</strong>: Using DSA campaigns will save you the time of constantly searching for <a href="https://www.wordstream.com/blog/ws/2021/02/24/microsoft-advertising-intelligence-tools">new keyword ideas</a> and writing ads.</p></blockquote>
+<p>&nbsp;</p>
+<h3>2. Use Google Analytics Intelligence as your site analyst</h3>
+<p><strong>What it is</strong></p>
+<p>The <a href="https://support.google.com/analytics/answer/7080259#zippy=%2Cin-this-article">Analytics Intelligence</a> feature in your Google Analytics account uses machine learning to help you better understand your website’s results and act upon them.</p>
+<p><strong>How it works</strong></p>
+<p>Since it is AI based, you can actually ask simple questions regarding your site performance, and it will answer, just as you would have an analyst working for you.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-google-analytics-artificial-intelligence-questions-to-ask.png" width="600" height="596" alt="list of questions to ask google analytics intelligence" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em><span lang="EN" xml_lang="EN"><a href="https://support.google.com/analytics/answer/7080259?hl=en&amp;ref_topic=7346206#zippy=%2Cin-this-article" target="_blank" rel="noopener">Image source</a></span></em></p>
+<p><span lang="EN" xml_lang="EN">You can think of it as kind of your Google Analytics assistant. For example, you can <a href="https://support.google.com/analytics/answer/7347597">ask questions</a> like “Which marketing channel had the highest conversion rate” and Analytics will show you a ranked list of your marketing channels, sorted by the <a href="https://www.wordstream.com/blog/ws/2019/08/19/conversion-rate-benchmarks">highest conversion rate</a>. This makes all the complexity of Google Analytics go away.</span></p>
+<p><span lang="EN" xml_lang="EN">In the example below, I asked Google Analytics “What are my top performing landing pages?” and got exactly the answer I needed:</span></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-analytics-artificial-intelligence.png" width="309" height="392" alt="google analytics intelligence providing top landing pages by session" typeof="foaf:Image" /></div>
+<p><strong><span lang="EN" xml_lang="EN">Why you need it</span></strong></p>
+<p><span lang="EN" xml_lang="EN">Analytics Intelligence can also analyze your data and answer questions you hadn’t even thought to ask, but probably should have, and highlight things you should be aware of. For example, it will point out to you that a certain landing page is performing better or worse than a previous time period. Definitely something you should be aware of and checking, but without it, you might not even notice it.</span></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-google-analytics-intelligence-insights.png" width="400" height="665" alt="ai in marketing—google analytics intelligence insights" typeof="foaf:Image" /></div>
+<p><span lang="EN" xml_lang="EN">But actually, there’s even more usage of AI and machine learning here. Analytics Intelligence uses website data and leverages your Google Ads account’s smart goals, smart lists, session quality, and conversion probability to <a href="https://www.wordstream.com/blog/ws/2021/04/19/google-custom-audiences">build audiences for you to target</a>.</span></p>
+<blockquote><p><strong><span lang="EN" xml_lang="EN">Bottom line: </span></strong><span lang="EN" xml_lang="EN">If DSAs are your omnipotent campaign managers, Google Intelligence is your analyst.</span></p></blockquote>
+<p>&nbsp;</p>
+<h3>3. Use the Anyword AI for better copywriting</h3>
+<p>For ad copy, landing pages, social posts, and more.</p>
+<p><strong>What it is</strong></p>
+<p><a href="https://anyword.com/" target="_blank" rel="noopener">Anyword</a><span lang="EN" xml_lang="EN"> helps you come up with new ideas when you’re drawing a blank and saves time by generating and optimizing your marketing copy with the help of artificial intelligence. It will generate effective copy for practically any marketing channel, including (but not limited to):</span></p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/ws/2014/03/31/email-subject-lines">Email subject lines</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2016/06/29/best-facebook-ads">Facebook ad copy</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads">Google Ads copy</a></li>
+<li><span lang="EN" xml_lang="EN">LinkedIn ad copy</span></li>
+<li><span lang="EN" xml_lang="EN">Twitter ad copy</span></li>
+<li><a href="https://www.wordstream.com/blog/ws/2019/06/26/product-descriptions">Product descriptions</a><span lang="EN" xml_lang="EN"> and names</span></li>
+<li><a href="https://www.wordstream.com/blog/ws/2017/09/08/how-to-write-an-introductionhttps:/www.wordstream.com/blog/ws/2017/09/08/how-to-write-an-introduction">Intro</a><span lang="EN" xml_lang="EN"> paragraphs</span></li>
+<li><a href="https://www.wordstream.com/blog/ws/2018/02/23/instagram-captions">Instagram captions</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2021/06/10/youtube-seo-tips">YouTube titles and descriptions</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2016/08/29/great-cta">CTAs</a></li>
+</ul>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/artificial-intelligence-ai-marketing-anyword.png" width="720" height="319" alt="anyword's artificial intelligence marketing copy tool" typeof="foaf:Image" /></div>
+<p class="text-align-center"><a href="https://anyword.com/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p><strong><span lang="EN" xml_lang="EN">Why you need it</span></strong></p>
+<p><span lang="EN" xml_lang="EN">One of the biggest challenges when it comes to <a href="https://www.wordstream.com/blog/ws/2020/01/22/marketing-copy">writing marketing copy</a><span lang="EN" xml_lang="EN"> is that it’s practically a gamble, as you can not really predict how it will perform before you actually use it. To find out what works you usually have to wait for SEO metrics to accumulate or dedicate time and money to A/B testing. Anyword was trained using over $250M worth of ad spend, so it knows <a href="https://www.wordstream.com/blog/ws/2021/07/06/how-to-write-copy-that-sells">how to write copy that sells</a><span lang="EN" xml_lang="EN">.</span></span></span></p>
+<p><strong><span lang="EN" xml_lang="EN">How it works</span></strong></p>
+<p><span lang="EN" xml_lang="EN">Within the tool, every copy variation is given a Performance Prediction Score, which predicts how well it will perform in a real campaign. Anyword also offers more advanced features including landing page text optimization and custom integrations.</span></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-marketing-anyword-artificial-intelligence.png" width="720" height="382" alt="the anyword artificial intelligence tool for marketing copy" typeof="foaf:Image" /></div>
+<p>&nbsp;</p>
+<blockquote><p><strong><span lang="EN" xml_lang="EN">Bottom line: </span></strong><span lang="EN" xml_lang="EN">Anyword uses AI to <span lang="EN" xml_lang="EN">spare you the time, effort, and dollars it takes for <a href="https://www.wordstream.com/blog/ws/2019/09/03/copywriting-examples">impressive copywriting</a><span lang="EN" xml_lang="EN"> and <a href="https://www.wordstream.com/blog/ws/2017/01/12/how-to-write-great-advertising-copy">compelling ad copy</a><span lang="EN" xml_lang="EN">.</span></span></span></span></p></blockquote>
+<p>&nbsp;</p>
+<h3><span lang="EN" xml_lang="EN">4. Get to know your audience better with Helixa</span></h3>
+<p><span lang="EN" xml_lang="EN">And take personalization to a whole new level.</span></p>
+<p><strong><span lang="EN" xml_lang="EN">What it is</span></strong></p>
+<p><span lang="EN" xml_lang="EN"><a href="https://www.helixa.ai/" target="_blank" rel="noopener">Helixa</a> enables you to know what is distinctive and unique about any audience out there. You will get insights on what they care about and what they say online so you can personalize your marketing even further.</span></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/ai-artifical-intelligence-marketing-helixa.png" width="720" height="375" alt="ai marketing tool helixa homepage" typeof="foaf:Image" /></div>
+<p class="text-align-center"><a href="https://www.helixa.ai/solutions#Learn-More-Solutions" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p><strong><span lang="EN" xml_lang="EN">Why you need it</span></strong></p>
+<p><span lang="EN" xml_lang="EN">While most of the market research tools out there rely on a single data source, Helixa brings together multiple data sets to provide a richer view of any audience, using its machine learning technology that puts all this data in one easy-to-use tool. </span></p>
+<p><span lang="EN" xml_lang="EN">Helixa gives you actionable insights that can save you from making mistakes in how you approach your potential audience.</span></p>
+<blockquote><p><strong><span lang="EN" xml_lang="EN">Bottom line: </span></strong><span lang="EN" xml_lang="EN">The more you know about your audience, the better and more accurate your marketing will be, and you will get exactly that with Helixa.</span></p></blockquote>
+<p>&nbsp;</p>
+<h2><span lang="EN" xml_lang="EN">It&#8217;s 2021 and digital marketing <em>is</em> AI marketing </span></h2>
+<p>The full list of tools, features, use cases, and benefits of AI in marketing are endless. I showed you four examples which I personally think demonstrate how AI can be used very smartly and make your day-to-day life as a marketer easier and more effective. These include:</p>
+<ol>
+<li><strong>Anyword </strong>to generate effective, platform-specific marketing copy.</li>
+<li><strong>Google DSAs</strong> to take care of keyword research and optimized ad copywriting.</li>
+<li><strong>Google Analytics Intelligence </strong>to answer complex questions and share insights you wouldn’t know to search for.</li>
+<li><strong>Helixa</strong> to get to know your audience on a deeper level for more personalized marketing.</li>
+</ol>
+<p><a href="https://localiq.com/blog/digital-marketing/artificial-intelligence-shaping-marketing/" target="_blank" rel="noopener">Artificial intelligence is shaping marketing</a>. Marketers that don’t get behind this transformation will stay behind and slowly become irrelevant. Being data-driven is an absolute must today, but you need to be prepared for the future, as it is coming faster than you imagine.</p>
+<p>I would love to see your feedback and comments, and even better, your suggestions for AI tools you have been using and think I should get to know.</p>
+</div>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing">4 Practical Ways to Use AI in Marketing (&amp; Why You Need To)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/07/15/ai-marketing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Killer Google Ads Optimizations to Stretch Your Budget Further</title>
+		<link>https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/08/21/google-ads-optimization/</guid>
+
+					<description><![CDATA[<p>This post covers four lesser-known Google Ads optimizations to help you get the most out of every dollar you spend, especially on a tight budget. You'll learn how (and why) to Nnix the vanity metrics, rely on ITC column, add more exact-match keywords, use In-Market Segments, and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization">4 Killer Google Ads Optimizations to Stretch Your Budget Further</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span lang="EN">Let’s get straight to the facts. As both marketing and COVID-19 trends collide, PPC is becoming more important than ever in most companies&#8217; marketing strategies, while at the same time most marketing budgets are being reduced to lower than ever—at least for now. What this means is, it’s time to rethink how you manage your Google Ads during this “new normal” period.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/optimize20google20ads20covid20trends.jpg" alt="optimize google ads covid trends" width="848" height="532" /></div>
+<p class="text-align-center"><em>Check out our latest <a href="/blog/ws/2020/04/06/google-ads-benchmarks-during-covid-19">COVID-19 trend data here.</a></em></p>
+<p><span lang="EN">The first and most urgent thing to do is to reduce costs while keeping your campaigns performing. So in this post, I’m going to cover four ways to optimize your Google Ads performance while on a reduced budget. They are:</span></p>
+<ol>
+<li><span lang="EN">Get rid of vanity metrics.</span></li>
+<li><span lang="EN">Create an “Impression to Conversion” (ITC) column.</span></li>
+<li><span lang="EN">Add more exact keywords (and pause your phrase match).</span></li>
+<li><span lang="EN">Use In-Market Segments in Google Analytics.</span></li>
+</ol>
+<p><span lang="EN">There’s also an important bonus tip at the end that you won’t want to miss.</span></p>
+<h2>How to optimize your Google Ads account on a tight budget</h2>
+<p>For each of the below optimizations, I&#8217;ll explain how to do them and tie each one back to how it can either stretch your existing budget further, improve your ads&#8217; performance, or lower your costs.</p>
+<h3><span lang="EN">1. <span lang="EN">Get rid of distracting vanity metrics</span></span></h3>
+<p><span lang="EN">Cutting down on <a href="https://www.wordstream.com/blog/ws/2016/03/29/ppc-budget">PPC budgets</a> for financial reasons means you have to make the most out of every minute and dollar you <em>do</em> <a href="/blog/ws/2021/05/26/google-ads-monthly-spend-limit">spend</a>. You need this efficiency in order to get through such a period and eventually get your budgets back to what they used to be. To be as <a href="https://www.wordstream.com/blog/ws/2019/07/30/cost-effective-ad-types">cost-effective</a> as possible, you need to be more focused, so here’s what you need to do:</span></p>
+<blockquote><p><strong><span lang="EN">Get rid of data columns that you don’t use on a daily basis, and/or that do not bring you any added value in your day-to-day optimizations.</span></strong><strong><span lang="EN"> </span></strong></p></blockquote>
+<p><span lang="EN">We all like to set up our own columns sets with different variations of data by which we want to track and <a href="https://www.wordstream.com/blog/ws/2014/04/24/ppc-performance">optimize our campaigns</a>, but sometimes, having too much data in front of our eyes distracts us from the data that is really important, that we might be missing.</span></p>
+<p><span lang="EN">For example, you might want to consider getting rid of columns such as “Search Imp. share,” as on a tight budget, there’s not much you can do about the fact that your competitors might still be bidding much higher than you. Instead, focus on the metrics you can actually influence, like your CTR, for example. Writing some new and improved ads with <a href="/blog/ws/2017/01/12/how-to-write-great-advertising-copy">compelling ad copy</a> can help <strong>raise your CTR without raising bids</strong>.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimizations20Search20impr.20share.png" alt="google ads optimizations Search impr. share" width="800" height="381" /></div>
+<p><span lang="EN"><span lang="EN">Set your columns to show only the essentials and put all of your focus on those, to make sure you’re not missing out on anything you can change and optimize by yourself.</span></span></p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><strong>Are there opportunities for you to optimize your Google Ads account?</strong></p>
+<p>Find out instantly the <strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Free Google Ads Performance Grader</a></strong>.</p></div></div>
+<h3><span lang="EN">2. <span lang="EN">Create an “Impression to Conversion” (ITC) column</span></span></h3>
+<p><span lang="EN">After getting rid of those unnecessary columns, the next step in optimizing Google Ads performance on a reduced budget is to create new columns that will help you <a href="https://www.wordstream.com/blog/ws/2012/01/24/analyzing-google-adwords-ads">analyze data faster</a>. This way, you can fully optimize your search campaigns. </span></p>
+<p><span lang="EN">One such column is ITC, or Impression to Conversion. This is a custom column you create that will make your optimization much easier. </span></p>
+<p class="text-align-center"><strong><em><span lang="EN">ITC % = Conversions/Impressions</span></em></strong></p>
+<h4><span lang="EN">Here’s how to create the ITC column in Google Ads:</span></h4>
+<ul>
+<li><span lang="EN">In your Google Ads account, click “Columns” in the upper ribbon of the dashboard. </span></li>
+<li><span lang="EN">Now, click “Modify columns” and go to the very bottom of the screen and click “Custom columns.”</span></li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20custom20columns.png" alt="google ads optimization custom columns" width="800" height="351" /></div>
+<ul>
+<li><span lang="EN"> <span lang="EN">Now simply add the calculation of conversions/impressions, as in the image below:</span></span></li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20conversions3Aimpressions.png" alt="google ads optimization conversions/impressions" width="800" height="549" /></div>
+<ul>
+<li><span lang="EN">You’re done. All that’s left to do is add the column to your dashboard and save.</span></li>
+</ul>
+<h4><span lang="EN">But why would we want to add another data set after I just advised you to drop some?</span></h4>
+<p><span lang="EN">Well, the answer is simple: ITC helps us know the full performance of our ads in one simple column. Usually, we will measure an ad’s click-through rate (CTR) and conversion rate (CVR) separately, in two different columns. But some ads with a high CVR will have a low CTR, and others will have a<a href="https://www.wordstream.com/blog/ws/2016/09/26/high-ctr-benefits"> high CTR </a>but a low CVR. So, should you keep the ones with high CVR, or the ones with high CTR? What’s the best prioritization when optimizing your Google Ads?</span></p>
+<blockquote><p><strong><span lang="EN">ITC helps you to quickly identify which ads in your Google Ads campaign are truly performing the best.</span></strong></p></blockquote>
+<p><span lang="EN">Now you’ll be even more focused and more quickly able to make decisions for your Google Ads performance.</span></p>
+<h3><span lang="EN">3. <span lang="EN">Add more exact keywords (and pause your phrase match) </span></span></h3>
+<p><span lang="EN">The third strategy for optimizing your Google Ads performance on a reduced budget is adding more exact keywords. This is actually something you should always aim to do with your paid search campaigns, <strong>but when reducing your budget, you should spend most of your <a href="https://www.wordstream.com/blog/ws/2019/09/16/spend-less-time-in-google-ads">PPC account management time</a> doing this.</strong></span></p>
+<p><span lang="EN">But there’s an important principle to it. Not only should you add more exact keywords, but you should <strong>also look for longer search terms to add</strong> (<a href="https://www.wordstream.com/blog/ws/2012/11/07/how-to-find-long-tail-keywords">long-tail keywords</a>). Longer exact match keywords:</span></p>
+<ul>
+<li><span lang="EN">Have a lower competition rate</span></li>
+<li><span lang="EN">Allow you to bid lower</span></li>
+<li><span lang="EN">Enable you to <a href="https://www.wordstream.com/blog/ws/2016/03/14/ppc-ad-copywriting">write better and more accurate ads</a> (and if you’re not familiar with the term <a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies">SKAGs</a>, now would be a great time for that).</span></li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20long20tail20keywords20graph.jpg" alt="google ads optimization long tail keywords graph" width="798" height="594" /></div>
+<p class="text-align-center"><em>Learn more about long-tail keywords <a href="https://www.wordstream.com/long-tail-keywords">here</a>.</em></p>
+<h4><span lang="EN">How long should the exact match keywords be?</span></h4>
+<p><span lang="EN">This can definitely vary between different advertisers, but for most, keywords that contain between 2-5 words should be the sweet spot. One-word keywords will probably be expensive and have <a href="https://www.wordstream.com/blog/ws/2019/08/19/conversion-rate-benchmarks">low conversion rates</a>; and keywords with more than five words are likely to have a low search volume and may hardly get any traffic at all. </span></p>
+<p><span lang="EN">For example, let’s say you want to run a Google Ad for hiking shoes. </span></p>
+<ul>
+<li><span lang="EN">The keyword<strong><span lang="EN"> [shoes]</span></strong><span lang="EN"> will be too broadly targeted and expensive.</span></span></li>
+<li><span lang="EN">The keyword<strong><span lang="EN"> [hiking shoes] </span></strong><span lang="EN">is a bit better. Now, your hiking shoes <a href="https://www.wordstream.com/blog/ws/2016/11/14/ppc-landing-page-experience">ad and landing page will be more closely related</a>, and you won’t be competing against advertisers who use [shoes], “shoes” or +shoes as a keyword..</span></span></li>
+<li><span lang="EN">But let’s go longer, with <strong><span lang="EN">[hiking shoes online]</span></strong><span lang="EN">,<strong> [red hiking shoes online]</strong>, and <strong>[online sale on hiking shoes]</strong></span></span></li>
+</ul>
+<p><span lang="EN">Now that’s better. Imagine an ad group called “hiking shoes online” that contains these keywords and displays a <a href="https://www.wordstream.com/blog/ws/2016/11/14/ppc-landing-page-experience">perfectly matching ad and landing page</a>. Such ad groups allow you to write more accurate and better-targeted ads. </span></p>
+<blockquote><p><strong><span lang="EN">Better targeting means a higher CTR (and ITC), which means a higher quality score, which means lower bids.</span></strong></p></blockquote>
+<p><span lang="EN">This is exactly why I started off by saying this is something you should always aim towards, but especially when lowering your Google Ads budget. With high budgets, you might want to go broader to gain more brand awareness or more conversions, even at a higher price. When lowering your budgets, you want to <a href="https://www.wordstream.com/blog/ws/2018/09/11/get-more-conversions">get the most conversions</a> at the lowest price possible. </span></p>
+<h4><span lang="EN">Where to find the right keywords to add</span></h4>
+<p><span lang="EN">I’ll start by telling you where <em>not</em> to find them: the Google Keyword Planner tool. There are two reasons for that:</span></p>
+<ol>
+<li><span lang="EN">The Google Keyword Planner tool is the most commonly used keyword research tool, which also means that most of your competitors are probably using it as well, which results in all of you competing for the same keywords.</span></li>
+<li><span lang="EN">The Google Keyword Planner will also list a lot of irrelevant keywords (or not the most relevant, depending on your search settings), which can defocus you or cost you a lot of time filtering the results manually. </span></li>
+</ol>
+<p><span lang="EN">The good news is, there are some <a href="https://www.wordstream.com/keywords">great free keyword research tools</a> out there. Here are two of my personal favorites:</span></p>
+<ol>
+<li><strong><span lang="EN">Ubersuggest: </span></strong><span lang="EN"><span lang="EN">Ubersuggest is will find very accurate search terms, along with very powerful data like volume, CPC, and trend.<br />
+</span></span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20ubersuggest.png" alt="google ads optimization ubersuggest" width="800" height="343" /></div>
+<p>&nbsp;</li>
+<li><strong><span lang="EN">Google Search Console:</span></strong> <span lang="EN">Explore your Google search console account to find keywords that are <a href="/blog/ws/2014/08/14/increase-traffic-to-my-website">driving traffic to your site</a>, and then add them to your search campaigns.</span></li>
+</ol>
+<p><span lang="EN">You may be thinking that it seems useless to pay for keywords that are already driving organic traffic to your site, but hear me out. It’s basically the same argument as using your <a href="https://www.wordstream.com/blog/ws/2013/03/19/why-bid-on-branded-terms-ppc">brand name as a keyword</a> (which you should also definitely do). Adding more keywords to your campaigns—even the ones that are already getting you organic traffic—will allow you to get even more traffic out of them, and give you better control over what parts of your site visitors see and what messaging they encounter.</span></p>
+<blockquote><p><strong><span lang="EN">Ultimately, more relevant traffic and better messaging means more conversions.</span></strong></p></blockquote>
+<p><span lang="EN">But actually, that’s not even the most beautiful part of it. Using the Search Console, you can find search terms that your site appears for in search results, but at a very low position and with no traffic.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20search20console.png" alt="google ads optimization search console" width="800" height="472" /></div>
+<p><span lang="EN">These are definitely search terms you&#8217;ll want to have in your campaigns as an exact match, which leads us to the next and final tip.</span></p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Want more Google Ads budgeting tips? </strong></p>
+<p><span><strong>Free download </strong>&gt;&gt; </span><strong><a href="https://marketing.localiq.com/WSLIQContentDLDigestibleAdBudgets.html?cid=Web_Any_InContentTextLink_PPC_GoogleAdsBudgetsGuide_Download" class="waffle-rich-text-link">The Easy Guide to Google Ads Budgets</a></strong><span> </span></p>
+<p><span></div></div></span></p>
+<h3><span lang="EN">4. <span lang="EN">Dive deep into Google Analytics with In-Market Segments</span></span></h3>
+<p><span lang="EN">Let me start by saying that if your Google Ads account is not linked to your Google Analytics account, by all means, stop reading this post and go do that (but don’t forget to come back)! <strong><a href="https://www.wordstream.com/blog/ws/2013/08/06/link-adwords-to-analytics-guide">Connecting your Google Analytics and Google Ads accounts</a> is very simple and an absolute must!</strong></span></p>
+<p><span lang="EN">Okay, so now that you’ve connected the two accounts, let’s talk about how you can use Google Analytics for more than just the typical metrics like bounce rate and time on site.</span></p>
+<p><span lang="EN">In your Google Analytics account, click the “Audience” tab, and then “In-Market Segments.” There, you’ll find golden data. <strong>Google has segmented your site&#8217;s visitors according to what they are in the market for</strong><strong><span lang="EN">.</span></strong></span></p>
+<p><span lang="EN">The numbers in the image below are hidden, but this tab will show you the exact results for each audience <a href="/blog/ws/2017/08/28/behavioral-segmentation">segment</a>.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimization20in20market20segments.png" alt="google ads optimization in market segments" width="800" height="292" /></div>
+<h4><span lang="EN">What can you do with In-Market Segments?</span></h4>
+<p><span lang="EN">Create a goal out of the conversion you’re aiming to achieve with your Google Ads campaigns, and then add it to this report. Now, look for the audiences that have the highest conversion rates. Did you find them? Great! Now, go to your Google Ads account and add these audiences to your campaigns (in the <a href="https://www.wordstream.com/blog/ws/2012/02/02/google-adwords-audience-tab-guide">“Audience” tab</a>), and grant them a higher bid adjustment. </span></p>
+<p><span lang="EN">For example, you might see that people in the market for “Financial Services” are converting at a much higher rate than the overall conversion rate. So, add this audience to your campaigns, and give it a higher bid adjustment, let’s say +20%. Now, Google will add 20% to your bids if it recognizes that the user is a part of this audience.  </span></p>
+<blockquote><p><span lang="EN">In-Market Segments helps you to make sure you bid higher for audiences that are more likely to convert.</span></p></blockquote>
+<p><span lang="EN">Even If you’re using CPA bidding, you would still want to add these audiences. It never harms to gain more data, and you might find out there are some audiences you would want to focus on, or some that you might want to exclude.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google20ads20optimizations20on20a20tight20budget20in20market20segment.jpg" alt="google ads optimizations on a tight budget in market segments" width="614" height="373" /></div>
+<p class="text-align-center"><em>From our post on <a href="https://www.wordstream.com/blog/ws/2018/10/17/google-analytics-audience-reports">using Google Analytics to find bigger and better audiences</a></em></p>
+<p><span lang="EN">Now, take everything you did with in market audiences and do the same with demographics and affinity categories.</span></p>
+<h3><span lang="EN">Bonus tip: refine your search strategy</span></h3>
+<p><span lang="EN">During economic downturns like these, when most digital marketers have to cut down on ad spend, <a href="/blog/ws/2020/05/08/seo-during-covid-19">having a solid search strategy is more important than ever</a>, and for one simple reason:</span></p>
+<p><strong><span lang="EN">Almost everyone’s needs have changed</span></strong><span lang="EN"> in the past few months, and <strong>they are looking for solutions</strong> to handle their own new normals.</span></p>
+<p><span lang="EN">By adapting your <a href="/blog/ws/2012/07/18/diversify-search-strategy-ppc">search strategy</a>, you can be there when your ideal customers are searching with intent, with exactly what they are searching for.</span></p>
+<h2>Save time and money with these Google Ads optimizations</h2>
+<p>Whether you&#8217;re dealing with reduced bandwidth, a lower budget, or just looking for ways to get more out of your ad spend, these tips will help you to lower your Google Ads costs while maintaining top performance. We covered a lot, so let&#8217;s quickly recap:</p>
+<ol>
+<li><span lang="EN">Get rid of vanity metrics so you can stay focused on what truly matters.</span></li>
+<li><span lang="EN">Use the custom “Impression to Conversion” (ITC) column to quickly identify your best performing ads.</span></li>
+<li><span lang="EN">Add more long-tail exact match keywords to increase your conversion rates.</span></li>
+<li><span lang="EN">Use In-Market Segments in Google Analytics to identify which audiences are most likely to convert.</span></li>
+</ol>
+<p><strong>Want help with your Google Ads? <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_TextLink_Solutions_Marketing_Services_Demo">Check out our digital marketing solutions</a>.</strong></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization">4 Killer Google Ads Optimizations to Stretch Your Budget Further</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>I Spent $4M on Google Ads &#8211; Here Were My 5 Biggest Mistakes</title>
+		<link>https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes/</guid>
+
+					<description><![CDATA[<p>After ten years and millions of dollars, we've learned a lot about how to do Google Ads right! Here were our six worst budget-burning Google Ads mistakes so you can avoid them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes">I Spent $4M on Google Ads &#8211; Here Were My 5 Biggest Mistakes</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After 10 years, millions of dollars, thousands of conversions and sales, and endless blog posts that show how I nailed it and crushed my competitors (most of the time), it’s time to go in a different direction and reveal the biggest mistakes I made with Google Ads.</p>
+<p>Looking back at my work, I’m pretty happy with the overall results. I worked for several startups in different vectors, but always managed to build a successful PPC strategy that got the company excellent results, usually higher than expected. But of course, things weren’t always perfect, and I made my share of <a href="https://www.wordstream.com/blog/ws/2018/02/20/stop-burning-your-adwords-budget">budget-burning mistakes</a> along the way. There are a few things I regret doing, and if I could go back in time I would definitely fix them.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="153f93ab-3682-48a1-b38e-749b72d5caa7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-mistakes-face-palm.jpg" alt="Google Ads mistakes face palm" width="820" height="547" /></div>
+</article>
+</div>
+<p>Let’s face it, every digital marketer makes mistakes along the way. One of the key elements of what we do is keep testing things and see what works well for us, and improve or eliminate what’s not. What we need to do is learn from our own and our colleagues’ mistakes, so we don’t repeat them.</p>
+<p>Keep reading to learn the <a href="https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues">biggest mistakes</a> you too might be making with Google ads, and how to avoid them.</p>
+<p><span lang="EN">Let’s get started.</span></p>
+<p><em><strong>Ready to find out where you&#8217;re making mistakes in Google Ads? <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Get a free account audit with our Google Ads Performance Grader</a>?</strong></em></p>
+<h2>1. I tried using way too many keywords at once</h2>
+<p><span lang="EN">The very first thing you always do when starting a search campaign is proper <a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a><span lang="EN">. I won&#8217;t go on and on about why and how to conduct keyword research, because that’s a subject for a post of its own. What I will share with you is the biggest mistake I made with it.</span></span></p>
+<p><strong><span lang="EN">I used too many types of keywords for marketing a single product.</span></strong></p>
+<p><span lang="EN">I made this mistake at one of the startups I was working for in the past. <a href="https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths">Our Facebook campaigns were off the charts</a><span lang="EN">, getting us results which were much better than expected, and at a price that was way below the <a href="https://www.wordstream.com/blog/ws/2017/02/28/facebook-advertising-benchmarks">industry benchmarks</a><span lang="EN">, but as the head of user acquisition at the company I wanted more, and I couldn’t get it with more display campaigns.</span></span></span></p>
+<p><span lang="EN">So at the same time I was putting a lot of effort into our search campaigns. I knew from the beginning that eventually Google would get us the results we were expecting, but I also knew it would take time to get there, and looking back at it, I held our search campaigns back by trying to use too many keywords at once.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b823f98f-609d-479b-91c5-31ade1d70abb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/clicks-vs-keywords.png" alt="more keywords than clicks" width="457" height="330" /></div>
+</article>
+</div>
+<p><span lang="EN">The (wrong) strategy was trying to figure out which search terms were right for us, and in order to discover it I used everything I could come up with.</span></p>
+<p><strong><span lang="EN">So why was it wrong?</span></strong></p>
+<p><span lang="EN">Using <a href="https://www.wordstream.com/blog/ws/2014/09/29/too-many-adwords-keywords">too many keywords</a><span lang="EN"> also meant having too many ad groups, writing too many ads, and optimizing too many landing pages, which was very time consuming, and mainly distracted me from the keywords that were really important.</span></span></p>
+<p><span lang="EN">It took me a while to understand that some of my campaigns holding specific types of keywords were simply <a href="https://www.wordstream.com/blog/ws/2022/07/11/is-google-ads-worth-it">not worth the effort</a>. I discovered that some keywords that seemed relevant to what I was marketing weren&#8217;t really as effective as I expected, and no matter how much I tried to <a href="/blog/ws/2020/08/24/google-ads-optimization">optimize them</a> it wasn’t getting me the ROI I was aiming for. To sum it up – I gave some of my keywords way too many chances, and spent way too much time trying to optimize them.</span></p>
+<p><span lang="EN">Once I gave up on them, and focused on the keywords that were truly right for me, I was able to give them all my time and attention, and was able to really optimize them. Doing that cut <a href="https://www.wordstream.com/blog/ws/2018/10/15/lower-cost-per-acquisition">my CPA on Google</a><span lang="EN"> in half, and enabled me to allocate my entire budget over to the right campaigns and keywords.</span></span></p>
+<p><span lang="EN">So what I’m trying to say here, is that maybe you should choose your battles. Try to focus on the highly relevant keywords, and put your efforts into “winning” them.</span></p>
+<h2>2. I gave the GDN too much time and credit</h2>
+<p><span lang="EN">There are so many good things to say about the Google display network. There are endless ways to use it and optimize it. There are so many different targeting methods and ad sizes and types to get creative with. You can have your ads appear almost anywhere across the web and reach millions of people. But honestly, it can be extremely hard to get the GDN to work well for  targeting a cold audience, especially compared to other display channels such as Facebook or LinkedIn.</span></p>
+<p><strong><span lang="EN">So what did I do wrong with the GDN?</span></strong></p>
+<p><span lang="EN">Believe me, I tried everything – targeting by keywords, interests, similar audiences, affinity and what not. You name it, I tried it. I was even entitled to full support from a dedicated Google team of representatives to handle the huge budget I managed at that time, but even together we simply couldn’t make it work for a cold audience, to enlarge our audience base.</span></p>
+<p><span lang="EN">But trying all of this wasn’t the mistake. Everyone should definitely try it out, after all you never know what will work until you’ve tried it, and the fact that it doesn’t work for one brand, doesn&#8217;t mean it wouldn&#8217;t work for another.</span></p>
+<p><span lang="EN">What I was actually <a href="https://www.wordstream.com/blog/ws/2020/03/16/google-display-network-mistakes">doing wrong withe GDN</a> was giving it too much credit that it would eventually work even when the CPA was so much higher than all our other marketing channels, and the quality of the users I got was so low. As I see it, I failed to understand that it’s simply not right for everyone, and it was just not a good fit for what I was advertising. I kept trying and trying to make it work, spending thousands of dollars and endless hours doing it, but I never got good results in return.</span></p>
+<p><strong><span lang="EN">So how did I fix it?</span></strong></p>
+<p><span lang="EN">At some point, I came to realize that I was better off giving up on trying to reach a cold audience with the Google display network, and I simply used it for retargeting only. It worked like magic. I had more time and budget to invest in all the other channels and it helped me to improve the overall results of my entire user acquisition efforts.</span></p>
+<h2>3. I used SKAGs right from the beginning</h2>
+<p><span lang="EN">If you’ve read my previous posts, <a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies">you’ll know I’m a supporter of SKAGs</a><span lang="EN"> (single keyword ad groups). Using SKAGs allowed me to create extremely accurate ads and landing pages that perfectly matched the search terms. As you probably already know, the higher the relevancy is, the higher the CTR and conversion rates will be, and the same goes for the quality score, which means you pay less for each click, which leads to a lower CPA, and we can go on and on about it&#8230; </span></span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e4c7a752-fe5b-4b83-913f-44a5a32cf57a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/single-keyword-ad-groups.png" alt="single-keyword-ad-groups" width="800" height="646" /></div>
+</article>
+</div>
+<p><span lang="EN">So, by now you might ask yourself, if I’m such a big fan of SKAGs, why do I think it was wrong to use them? Well, the answer to that is quite simple. The mistake was how I used them.</span></p>
+<p><strong><span lang="EN">I used SKAGs too early, without having any prior data.</span></strong></p>
+<p><span lang="EN">This is a mistake I made at one of the companies I worked for. Usually I start using SKAGs only after I have a significant amount of data, which allows to me to pick some of my top keywords and isolate them into SKAGs. This was the right thing to do, since using SKAGs requires a lot of effort in writing many accurate ads and creating specific landing pages to match them. (This is one of the reasons that <a href="https://www.wordstream.com/blog/ws/2018/07/03/the-case-against-skags">SKAGs definitely aren’t the right approach for every business or account</a><span lang="EN">.)</span></span></p>
+<p><span lang="EN">But this one time, I decided to “get cute” and use SKAGs right from the beginning. I thought I was being super-smart, and would get killer results right away. So I did my keyword research and started building my campaigns and ad groups. It looked perfect. I had lots of ad groups, with highly relevant ads and completely matching landing pages. It seemed like I was building the perfect search campaign.</span></p>
+<p><strong><span lang="EN">So how could anything go wrong?</span></strong></p>
+<p><span lang="EN">Well, it did, very quickly! Using SKAGs right from the beginning made a mess of my account. I had too many ad groups with too many types of keywords and too many landing pages. It was almost impossible to optimize and get to the point that I really knew which keywords I needed to use, and how I should really write my ads and design my landing pages. </span></p>
+<p><span lang="EN">To summarize – without having data, I was throwing away my budget and a lot of my time on the wrong keywords. It was just too much work that didn’t pay off.</span></p>
+<p><span lang="EN">As mentioned above, I do think that SKAGs can be a good strategy, but not for everyone. It really depends on the budget you have, and the size of the team managing your account. In my case, I was the only marketing employee in the company doing everything from A to Z. Handling a SKAG campaigns with the little time I had and zero data was just too much for me to handle, and I can honestly say I chose the wrong strategy for us. </span></p>
+<p><strong><span lang="EN">What would I do differently?</span></strong></p>
+<p><span lang="EN">I would start off with a simpler campaign structure and have ad groups containing a bunch of keywords <a href="https://www.wordstream.com/keyword-intent">with the same intent</a><span lang="EN">, as in the example below:</span></span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7195a303-28c2-4a8c-9639-b410cd2bb782" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-mistakes-keywords.jpg" alt="Google Ads mistakes keywords list" width="552" height="576" /></div>
+</article>
+</div>
+<p><span lang="EN">Once I had enough data, I would separate the top keywords in terms of volume and effectiveness, and create ad groups that contained only them with all three match types, with highly relevant ads and landing pages.</span></p>
+<h2>4. I used too few landing pages</h2>
+<p><span lang="EN">This one is the complete opposite of the last mistake. In the past, there was a time that I put most of my focus on grouping my keywords the right way, writing the best ads I could to improve click-through rates, obsessively optimizing my bids, and cleaning up my search term reports by adding negative keywords. But all of that didn’t really matter, because I wasn’t giving the right amount of attention to my <a href="https://www.wordstream.com/blog/ws/2016/04/12/landing-page-mistakes">landing pages</a><span lang="EN">.</span></span></p>
+<p><span lang="EN">Don’t get me wrong, it’s not that I just sent all my traffic to my site’s home page (the <strong>b-i-g-g-e-s-t</strong> mistake any digital marketer could ever make!). It’s just that I didn’t have enough landing pages to completely answer what the users were searching for. I was maybe even a bit lazy about it.</span></p>
+<p><strong><span lang="EN">What would I do differently?</span></strong></p>
+<p><span lang="EN">Without overdoing it (as I did with SKAGs), I would make sure to create a designated landing page for every set of keywords in my account that answer the same user intent.</span></p>
+<p><span lang="EN">I’ll use <a href="https://www.wekudo.com/" target="_blank" rel="noopener">Wekudo</a> as an example. Wekudo offers a simple and automatic solution to plan office events, such as team building activities. So if a user searches for “office team building activity” he will land on a matching landing page:</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="31169b0a-15c7-4666-8e74-4926df31b97b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-mistakes-landing-page.jpg" alt="Google Ads landing page example" width="1033" height="590" /></div>
+</article>
+</div>
+<p><span lang="EN">But what happens if you search for “office team building”? You guessed it:</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fe0333c0-dd4d-4904-b4e5-40f09d125133" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-mistakes-landing-page-dynamic.jpg" alt="Google Ads landing page example" width="1037" height="596" /></div>
+</article>
+</div>
+<p><span lang="EN">It’s really not much of a hassle and leads to better Quality Scores and <a href="https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate">conversion rates</a><span lang="EN">.</span></span></p>
+<h2>5. I didn’t always use the full power of ad extensions</h2>
+<p>Google ad extensions can be super powerful. They allow you to get more space on the Google search results page, add more valuable data to your ad copy, make people directly call you on their mobile phones, send users to different pages of your site, show users <a href="https://www.wordstream.com/blog/ws/2018/10/18/google-shopping-reviews">reviews</a> and more.</p>
+<p>There are a lot of reasons to use them and leverage their full power in your search campaigns. Google allows us to use them in so many ways, analyze their results and help us optimize them, so why not? Well, that’s a question I keep asking the “past me.”</p>
+<p><strong>My mistake with ad extensions was simply not using them enough.</strong></p>
+<p>It’s not that I didn’t use them, it’s just that I didn’t use them at their full power. As you probably know, you can use extensions at a campaign level or ad group level and match them to what your ad group is about.</p>
+<p>In the past, I simply used four or five general sitelink extension, and added them at an account level. Obviously, I was wrong. What I should have done is used more types of ad extensions and make them much more accurate.</p>
+<p><strong>So what would I do differently?</strong></p>
+<p>Well, obviously, I would simply add <a href="https://www.wordstream.com/blog/ws/2017/11/13/creative-ad-extensions">more extensions</a>. If I already had sitelink extensions I would add more and test them out. If my campaigns were mobile-enabled, I would add a call extension allowing a click to call straight from the ad. I would use callout extensions to highlight the <a href="https://www.wordstream.com/blog/ws/2017/02/21/features-vs-benefits">benefits</a> I offer, and… well, you get the point. I would use everything Google has to offer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2d83b4e5-12e6-4cda-a887-b41ad33fcb3c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/example-adwords-price-extension-desktop-wordstream.png" alt="zero dollar price extension google adwords" width="568" height="204" /></div>
+</article>
+</div>
+<p>Concerned you&#8217;re making other mistakes with your Google Ads copy? <a href="https://www.youtube.com/watch?v=3OIc0jcgE-I&amp;t=8s" target="_blank" rel="noopener">Check out this video of what to avoid!</a></p>
+<h2>Final thoughts</h2>
+<p>As mentioned above, every digital marketer makes a few mistakes along the way.  I don’t think there are many other professionals out there that are more dependent on testing, trying, and getting it wrong sometimes.</p>
+<p>But that’s not a problem. Regardless of all the mistakes I listed above, I mostly got killer results and amazing ROI. It happened because I quickly learned from my mistakes and from reading a lot about what was working for others and what wasn’t.</p>
+<p>I hope you’ll learn from my mistakes, and that this post will help you avoid making them in the first place. For more tips like this, head to our post <a href="https://www.wordstream.com/blog/ws/2022/09/07/lessons-in-ppc">7 Things I Wish I Knew When I Started PPC</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes">I Spent $4M on Google Ads &#8211; Here Were My 5 Biggest Mistakes</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/10/29/google-ads-mistakes/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Facebook Retargeting Tactics You Must Try</title>
+		<link>https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting/</guid>
+
+					<description><![CDATA[<p>Facebook retargeting enables advertisers to turn site visitors into converted users. But there’s much more to retargeting than just showing the same generic ads to all your past site visitors. Level up with these seven super effective tips!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting">7 Facebook Retargeting Tactics You Must Try</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Retargeting on Facebook is a super-powerful way to turn your site visitors into converted users who sign up, subscribe, download an ebook, make a purchase, or whatever it is you are trying to achieve with your website and marketing efforts.</p>
+<p><a href="https://www.wordstream.com/blog/ws/2015/11/16/facebook-remarketing">Retargeting in general</a> is so useful because returning visitors show a greater interest in your product or offer, and they have much higher odds of both clicking and converting after the first visit. Those odds even increase the more often your target customer sees the ad.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8d8db0ff-a32c-4627-9c44-237868f13028" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-remarketing-for-higher-ed-lead-gen.png" alt="FB Remarketing for Higher Ed" width="900" height="587" /></div>
+</article>
+</div>
+<p>But there’s much more to retargeting than just showing the same generic ads to all your past site visitors from one single retargeting ad set. I’ve found a number of strategies that are way more advanced and effective than that.</p>
+<p>Keep reading this post to learn the seven retargeting tactics that will <a href="https://www.wordstream.com/blog/ws/2018/06/07/facebook-marketing-tips">take your efforts on Facebook to the next level</a>.</p>
+<h2>1. Retarget visitors of specific pages, and show them a matching ad</h2>
+<p>Your website and blog consists of different web pages with different topics, and each of them attracts different visitors. So why show them all the same generic ad?</p>
+<p>An important thing to remember is that <strong>you can segment your retargeting audiences</strong> by the different topics of your pages and their visitors. Basically, this means that you can show your visitors the specific ads that will more likely be compelling to them.</p>
+<p>For example, at CrazyLister we segment our <a href="https://crazylister.com/blog/" target="_blank" rel="noopener">blog</a> readers by the topics of the articles they read. So anyone who read one of the articles about how to increase their eBay sales will get a matching retargeting ad about how they can increase their sales with CrazyLister. The visitors who read about eBay templates will get an ad about, you guessed it – eBay templates. And this can go on and on, depending on the number of topics your blog has. It seems like a hassle, but it’s actually quite simple, and in the long term, definitely worth the effort.</p>
+<p>Of course, the same tactic can be used on <a href="https://www.wordstream.com/blog/ws/2017/09/07/ecommerce-sales-product-pages">your site’s product pages</a> and landing pages.</p>
+<h3>How to get it done</h3>
+<p>If you’re familiar with the Facebook audience tool, it will be very easy for you. All you need to do is create a custom audience of “People who visited specific web pages” and use the rules “URL” and “contains” to type in a unique part of the landing page (or pages) URL. In the example below, I created an audience of people who read our blog posts about eBay templates.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b5a85382-bc0c-4e3b-a435-026527533f9b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-specific-pages-audience.png" alt="specific-page-visitors-facebook-retargeting" width="659" height="641" /></div>
+</article>
+</div>
+<p>Now I’ll have an audience of people who I know what they were interested in, and exactly what ad to deliver to them.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5f68104e-e93c-4ab2-be08-df63cc40cead" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-crazy-lister-ad.jpg" alt="facebook-retargeting-crazy-lister-example" width="510" height="520" /></div>
+</article>
+</div>
+<h2>2. Retarget visitors who wanted to learn more</h2>
+<p>Your site visitors who wanted to know more about your offering are closer to converting than visitors who just browsed through your homepage for a few seconds, and then left.</p>
+<p>Accordingly, visitors who wanted to learn more are <strong>worth a higher bid and budget allocation</strong>.</p>
+<p>In order to do that, you need to segment them in a separated custom audience.</p>
+<h3>How to get it done</h3>
+<p>As in our first example, it’s very simple. <a href="https://www.wordstream.com/blog/ws/2017/12/11/facebook-custom-audience-strategy">Create a custom audience</a>, and segment the visitors who browsed through your site’s  “How it works” or “Features” or “About” pages, as I did in the example below.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c876044a-d60d-4a3d-a519-e838b51ad1de" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-learn-more-audience.png" alt="facebook-retargeting-visitors-want-to-learn-more" width="658" height="546" /></div>
+</article>
+</div>
+<p>These are the users who wanted to inquire and get more information, and therefore deserve more of your attention.</p>
+<h2>3. Retarget the visitors who inquired about your pricing plans</h2>
+<p>One of the most powerful tactics in Facebook retargeting is to create a custom audience of visitors who visited your site’s pricing page.</p>
+<p>The logic behind this is that visitors who reached your pricing page are <strong>in market</strong> and are much more likely to <a href="https://www.wordstream.com/blog/ws/2017/04/04/nurture-marketing">become paying customers</a>.</p>
+<p>You need to make sure these users won’t slip away by segmenting them and bid the highest price you can to make sure you reach them all.</p>
+<h3>How to create such an audience</h3>
+<p>As in previous examples, create a custom audience based on your pricing page URL.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="40ed37a0-9771-4516-8530-72b1c29d6679" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-pricing-options-audience.png" alt="facebook-retargeting-price-plans" width="658" height="543" /></div>
+</article>
+</div>
+<h2>4. Retarget the visitors who almost signed up, but didn’t</h2>
+<p>With this tactic, we actually continue what we did in the previous ones, but this time we segment the visitors who were even closer to converting, by targeting the visitors who visited your sign-up page but didn’t actually sign up.</p>
+<p>It’s not always obvious why anyone who clicked a “signup” button on your site wouldn’t actually sign up, but in fact, it happens a lot, for various reasons. All that’s left for you is to give them that one last push, and remove any remaining concerns or insecurity to make them finally sign up.</p>
+<h3>How to create such an audience</h3>
+<p>Well, I guess that by now you get the point. Simply create a custom audience with the URL of your sign-up page, and exclude the users who already signed up.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b34bb499-f13c-4518-b93e-2ed844abed6e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-almost-signed-up-audience.png" alt="facebook-retargeting-visitors-almost-signed-up" width="660" height="547" /></div>
+</article>
+</div>
+<h2>5. Retarget users who searched for what you’re offering</h2>
+<p>If you’re using <a href="https://www.wordstream.com/blog/ws/2017/03/13/cross-network-advertising-brand-search-lift">Google and Bing ads</a> in your growth strategy (If you’re reading this blog I’ll go ahead and assume you do), there’s a nice retargeting trick you can do on Facebook. You can <strong>use Facebook to retarget the visitors who got to your website from a search ad</strong>, with exactly what they were searching for.</p>
+<p>While it may sound a bit tricky, it’s actually simple. I’ll explain it by using an actual retargeting ad we’re using here at CrazyLister. We use keywords such as “ebay templates”, “ebay html templates”, “crate ebay templates” etc. in our search campaigns. But unfortunately, we don’t have a 100% conversion rate from those keywords. And this is where retargeting kicks in.</p>
+<p>We segment our site visitors by what they were searching for, and “answer” their search immediately on Facebook.</p>
+<p>For example, if they were searching for “eBay listings”, they will see an ad about eBay listings the next time they go on Facebook. If they were searching for “sell more on eBay”, they will see an ad that will tell them how to sell more on eBay with Crazylister. And this will go on and on for all the different search types and search landing pages we have.</p>
+<h2>6. Retarget by time segment</h2>
+<p>Time segmenting is one of the most basic retargeting tactics that is not being used often enough. Unlike the other segmentations we showed above that were based on <em>where</em> your website visitors been, with this tactic we segment them by <em>when</em> they visited your site.</p>
+<p>The goal here is to <strong>spend more of your retargeting budget on the “hot” visitors</strong> who have visited your site recently and spend less on the ones who “got cold” because it’s been a while since they last visited your site.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="19280a58-8883-4edf-9fc6-1925406fb0bd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-table.png" alt="facebook-retargeting-time-segment" width="538" height="192" /></div>
+</article>
+</div>
+<p>With this tactic, you kind of create a “drip campaign” of ads your past visitors are going through, and you keep your <a href="https://www.wordstream.com/blog/ws/2022/03/17/retargeting-campaign-tips">successful retargeting campaigns</a> evergreen.</p>
+<h2>7. Exclude irrelevant users</h2>
+<p>As mentioned above, there’s much more you can do with retargeting than just show the same generic ads to all your visitors. But now I&#8217;d like to share a different tactic, which makes almost everyone I share it with say, “How did I never think of that before?”</p>
+<p>Here’s the tactic: Instead of just segmenting your visitors, also try to <strong>exclude the irrelevant audiences</strong> with a much lower chance to convert.</p>
+<p>Not everyone who reaches your website is really interested in what you are offering, and therefore there&#8217;s no need to spend good marketing budget on those visitors. The best example is to exclude visitors to your career page (honestly, have you thought about excluding them?). Obviously, these are people who have no interest in your product, and should not be a part of your retargeting audience (unless you’re retargeting them with job ads!).</p>
+<p>You can also exclude visitors who spend less time on your website. It works exactly the other way around from my points about the visitors of your pricing or features pages from above. Visitors who just spent a few seconds on your site and bounced away have a much lower chance to convert, and you might want to consider excluding them from your remarketing lists.</p>
+<p>Here’s an example of how you can do it in your Facebook account.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3a853df2-ef7e-4e6d-bdd9-38d2c2c14d06" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-irrelevant-users.png" alt="facebook-retargeting-exclude-irrelevant-users" width="1328" height="908" /></div>
+</article>
+</div>
+<p>Once you have that audience ready, you can simply exclude it from your retargeting ad sets, and make sure you’re only reaching relevant people. You can even segment out those visitors directly in the other audiences, by excluding this URL.</p>
+<h2>Final words</h2>
+<p>Effective retargeting can be a game-changer for <a href="https://www.wordstream.com/blog/ws/2018/07/02/facebook-marketing-for-small-business">your Facebook marketing</a>, and segmenting your visitors into different custom audiences is the right way to do it. You’ll be amazed by how much better your marketing results can be with a killer retargeting strategy.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting">7 Facebook Retargeting Tactics You Must Try</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Ways to Make Facebook &#038; Google Ads Work Better Together</title>
+		<link>https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Mon, 09 Jul 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Cross-Channel Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google/</guid>
+
+					<description><![CDATA[<p>Still thinking in terms of Google versus Facebook? You should be thinking in terms of Google PLUS Facebook instead! Learn four ways these two networks can work together to get you better results from your ad campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google">4 Ways to Make Facebook &amp; Google Ads Work Better Together</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In many cases, marketers and brands treat their advertising channels as separate forces and measure them one against another, to see which brings them the best results. In most cases, it’s Google vs. Facebook. But actually, there’s a better way to look at it.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8caf5bb5-9069-4a9f-92c0-3f449024b533" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-vs-facebook-which-should-you-use.png" alt="Google AdWords vs Facebook Ads" width="750" height="159" /></div>
+</article>
+</div>
+<p>Instead of thinking about it as Google versus Facebook, <strong>try to think in terms of Google PLUS Facebook</strong>.</p>
+<p>Each of these major <a href="https://www.wordstream.com/blog/ws/2019/06/18/marketing-channels">marketing channels</a> has its own advantages and disadvantages, but <a href="https://www.wordstream.com/blog/ws/2019/02/06/google-facebook-perfect-pair">when treated as one super-mega-major marketing force</a>, they become even more powerful than as separated channels, and can definitely get you superior marketing results (especially if your competitors stick to the “vs” approach).</p>
+<p>The secret is, to fully use the power of each of these channels, and let each channel help the other.</p>
+<p>Here are a few ways to get started.</p>
+<p><em><strong>Want to see where you&#8217;re falling behind in Google Ads? <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Run our free Google Ads Performance Grader and get a personalized account audit today</a>!</strong></em></p>
+<h2>1. Provoke brand searches with Facebook, close the deal with Google</h2>
+<p>A well-targeted campaign on Facebook will not only get you excellent results by reaching and converting a <a href="https://www.wordstream.com/blog/ws/2019/04/29/facebook-ad-targeting-strategies">cold audience</a>, it can also increase the number of people searching for your brand name on Google. When this happens, you get a golden opportunity to “close the deal” when they are trying to inquire about your brand and learn some more, after seeing your ad on Facebook.</p>
+<p>You will be surprised by the number of people who will go directly to Google and search for your brand name after seeing an ad on Facebook, instead of directly clicking it.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="309b3b43-6d75-4899-851f-d37d17c3c1e8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/cross-network-ads-effect-on-google-brand-searches1-3.png" alt="cross networks ads branding" width="762" height="585" /></div>
+</article>
+</div>
+<p>WordStream found that <a href="https://www.wordstream.com/blog/ws/2017/03/13/cross-network-advertising-brand-search-lift">advertising on Facebook led to a 34% increase in brand searches</a> on Google.</p>
+<p>There’s actually a very simple explanation for this. Many of the people that see your Facebook ads may have some interest in the offer, but they want to know more about your company and what you sell. Therefore, instead of clicking the ad, they will leave Facebook and search for your brand name to get the information they want.</p>
+<p>All you have to do is use your brand name as a keyword in your search campaigns, and <a href="https://www.wordstream.com/blog/ws/2015/07/16/landing-page-message-match">match the messaging</a> to your current Facebook ads. Doing so will lead your cold audience on Facebook to find exactly what they were looking for on Google. It strengthens your marketing message and shows reliability.</p>
+<p>I guess that by now you might be asking yourself, “Why should I use my brand name as a keyword when my website is already ranked first on Google for it?” Well, the answer to that is very simple. Targeting your brand name as a keyword allows you to better test your messaging in terms of CTR and conversions, and match it to what you’re saying about yourself in your <a href="https://www.wordstream.com/blog/ws/2018/10/26/facebook-ads-checklist">Facebook ads</a>.</p>
+<p>Here&#8217;s an example from a live test, doing exactly what’s described above. This is a Facebook ad targeting a completely cold audience, containing people who are most likely never heard of this <u><a href="https://crazylister.com/">brand</a></u>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b06e9b07-7e91-4e2d-a678-5e7674aab3cf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/crazylister-facebook-ad.jpg" alt="facebook ads plus google ads" width="1086" height="1076" /></div>
+</article>
+</div>
+<p>And here’s a matching ad on Google, with matching messaging, just waiting for those Facebook users to come in.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4c088208-ef64-414a-8fcc-696d6e0bc253" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/crazylister-google-ad-facebook-message-match.jpg" alt="using google ads to support facebook campaigns" width="671" height="97" /></div>
+</article>
+</div>
+<p>So to summarize, easily reach a broad, cold audience on Facebook, and close the deal in Google when they’re searching for your brand name.</p>
+<h2>2. Target your Facebook ad headlines as keywords</h2>
+<p><span lang="EN">This one is actually pretty simple, and takes what we explained about using your brand name as a keyword to the next level.</span></p>
+<p><span lang="EN">As mentioned above, a successful ad campaign on Facebook can easily reach many prospects and generate a lot of brand searches on Google, but when done right, it’s not only the brand name people will be searching for, it’s also your <a href="https://www.wordstream.com/blog/ws/2015/02/02/ppc-ad-headlines">ad headlines</a>.</span></p>
+<p><span lang="EN">A catchy headline can be more memorable than a brand name and generate more direct searches.</span></p>
+<p><span lang="EN">While it may sound surprising it actually makes a lot of sense. A good headline like “Turn invoices into cash,” as seen in the image below, can be much more memorable than the actual brand name, and make the people who saw it search for it when they’re looking for more information.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="74652c4c-65a7-4b7f-ac4c-d854008b413d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-plus-google-ads-headlines.jpg" alt="facebook ad catchy headline" width="1222" height="1140" /></div>
+</article>
+</div>
+<p>This ad by Fundbox really made people actually go on Google and search for the terms:</p>
+<ul>
+<li>“turn invoices into cash”</li>
+<li>“turn invoices into cash company”</li>
+<li>“invoice to cash”</li>
+</ul>
+<p>And many more related search terms.</p>
+<p><span lang="EN">The title is so catchy, and right to the point, it provoked many searches and led to a lot of easy conversions. All Fundbox did here was directly “answer” the search term and show great reliability to the users who were just looking for some more information about that interesting ad they saw on Facebook.</span><br />
+<a id="retargeting"></a></p>
+<h2>3. Retarget your searching users with what they were searching for</h2>
+<p><span lang="EN">So in sections 1 and 2, we did a kind of retargeting on Google, to the cold audience from Facebook. It was done regardless of whether the ad was clicked on or not. By using actual retargeting, we can take the connection between Facebook and Google even further, and make it much more powerful.</span></p>
+<p><span lang="EN">If you are managing campaigns on Facebook and Google, you are probably already aware of the importance of retargeting (If not, you should get aware to it ASAP). But actually, there’s much more to retargeting than just displaying the same ads to all your past visitors, and one of the best ways to use retargeting is cross-platform.</span></p>
+<p><span lang="EN"><a href="https://www.wordstream.com/blog/ws/2020/02/20/cross-platform-keyword-research-tools">Cross-platform</a> retargeting means to retarget the users who got to your site from Google on Facebook, and the other way around. But, there’s a clever way to do it even more efficiently.</span></p>
+<p><strong><span lang="EN">You can use Facebook to retarget the people who got to your website from a search ad, with exactly what they were searching for.</span></strong></p>
+<p><span lang="EN">This one may sound a bit tricky, but it’s actually quite simple. Here’s a great example of this tactic in action:</span></p>
+<p><span lang="EN">For example, the ad below was displayed to people who were searching for “eBay templates” on Google.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2f761005-68aa-4d8b-9204-6c1bc1455b56" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-plus-facebook-retargeting-ads.jpg" alt="facebook retargeting using google data" width="513" height="499" /></div>
+</article>
+</div>
+<p><span lang="EN">It’s actually very easy to do (assuming you are using unique landing pages, and don’t send everyone to your homepage). To make sure you’re displaying the right “answer” ad to the right people, you will need to segment your custom audiences on Facebook. Simply go to the audience tab, and create a custom audience that matches exactly the right landing page which the ad on Google leads to. So, here’s how it works in our example:</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="735df965-a39f-4449-8794-992e925e4f17" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/custom-audience-for-facebook-retargeting-with-google-ads.jpg" alt="custom audience facebook retargeting" width="819" height="895" /></div>
+</article>
+</div>
+<p>All I did was segment my audience by people who reached the site through the source “AdWords”, to the landing page about templates.</p>
+<p>And there you go. You can now use Facebook retargeting to reach the people who clicked on your search ads, with exactly what they were searching for.</p>
+<h2>4. Find more people similar to your searching users</h2>
+<p><span lang="EN">The power of <a href="https://www.wordstream.com/facebook-lookalike-audiences">lookalikes targeting on Facebook</a> is absolutely insane, and I won’t go on and on about it in this post, because that’s a bigger subject. So, if you are not familiar with it, I suggest you get right to it.</span></p>
+<p><span lang="EN">If you are familiar and using lookalike audiences in your Facebook campaigns, here’s a nice trick you can use: <strong>Create lookalikes audiences based on what your site visitors were searching for.</strong></span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1eba7e6a-b0be-4acf-85b8-f8ef8f5f0575" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-lookalike-audience-sizes-2.png" alt="Facebook Ad Tips Lookalikes Audiences" width="725" height="478" /></div>
+</article>
+</div>
+<p><span lang="EN">You probably know the best practice about lookalikes, which is to use your top users or customers as a seed and base your lookalike audiences on that. Well, that’s definitely true, but there’s more you can do.</span></p>
+<p><span lang="EN">In many cases, you will probably find yourself struggling with creating a high-quality seed since you need a high number of very homogenous audience members. In other cases, you’ll see good results with your top lookalikes, but wish to expand further (which is mostly the case, especially for <a href="https://www.wordstream.com/blog/ws/2017/09/05/how-to-compete-with-big-budgets-adwords">advertisers with big budgets</a>).</span></p>
+<p><span lang="EN">So what to do? Create a lookalike audience based on your site visitors from search campaigns. By doing so, you’ll be able to reach more people who are similar to the people who were searching for what you are offering.</span></p>
+<p><span lang="EN">You may be wondering, why target people that are similar to my searching users, but maybe did not convert? Easy: Just because you did not convert the people who clicked your ads on Google, doesn’t mean you will not convert their lookalikes.</span></p>
+<p><span lang="EN">But be careful with it. Some of the people in this lookalike audience might also be a part of your regular lookalikes audience, so you need to make sure you will not target them twice in two different ad sets.</span></p>
+<p><span lang="EN">Make sure to exclude your lookalikes based on customers from your search-based lookalike audiences.</span></p>
+<h3>Final words</h3>
+<p><span lang="EN">Looking at the bigger picture and changing my approach from “Google vs. Facebook” to “Google plus Facebook” has definitely improved my overall results. From my experience, it helps you see the bigger picture and strategize better.</span></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google">4 Ways to Make Facebook &amp; Google Ads Work Better Together</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/07/09/facebook-plus-google/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Seriously Underused Paid Search Strategies</title>
+		<link>https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies/</guid>
+
+					<description><![CDATA[<p>AdWords is one of the best ways to raise brand awareness and acquire new users, but it can be tricky. In this article, Asi Dayan outlines five effective paid search strategies that most advertisers tend to overlook.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies">5 Seriously Underused Paid Search Strategies</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There’s no doubt that advertising with Google Ads (formerly known as AdWords) is one of the best ways to raise brand awareness and acquire new users – but unfortunately, paid search can be tricky, and if you’re making mistakes, it will cost you.</p>
+<p>In this article, I’ll outline five extremely effective paid search strategies that too many advertisers aren’t taking advantage of. Read on and I bet you’ll find a new strategy to try that will save you money and get you better results from your <a href="https://www.wordstream.com/blog/ws/2019/08/09/google-ads-campaign">paid search campaigns</a>.</p>
+<h2>1. Single-keyword ad groups.</h2>
+<p>Single keyword ad groups (a.k.a. <a href="https://www.wordstream.com/blog/ws/2019/08/29/single-theme-ad-groups">SKAGs</a>) are exactly what they sound like – ad groups that contain one keyword only (and possibly different match types).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="50e81deb-a60c-4314-8f1d-c293f049a031" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-group-definition-supercharged-search-campaign.png" width="587" height="577" /></div>
+</article>
+</div>
+<p>For example, here’s what a SKAG might look like:</p>
+<h3>Ad group</h3>
+<p>cheap flights</p>
+<h3>Keywords</h3>
+<p><em>[cheap flights]</em></p>
+<p><em>“cheap flights”</em></p>
+<p><em>+cheap +flights</em></p>
+<p>As you can see, this ad group contain the same search term, with exact, phrase and modified broad match types.</p>
+<p>By now, you’re probably asking yourself, why should you create and maintain all these ad groups in your campaigns? Well, the answer is simple:</p>
+<p><strong>By using SKAGs you will be able to dramatically increase your CTR, which will lead to a lower CPC and higher Quality Score, which will end up in a lower CPA.</strong></p>
+<p>Sounds like a PPC dream, right? It’s actually very simple. Here’s how it happens:</p>
+<p>Having one keyword in your ad group allows you to write <a href="https://www.wordstream.com/blog/ws/2017/06/06/best-ads">better ads</a> that can be extremely specific and relevant to what the users are actually searching for. As you probably already know from managing search campaigns, a high ad relevancy will probably generate a higher CTR, which will improve the keyword’s Quality Score and of course lowers the CPC. Obviously, the end result of all that will be a lower CPA – mission accomplished.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d678d59c-83cd-4bde-adc9-04dfc32f6494" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-ads-text-optimization.png" alt="best ads text optimzation adwords grader wordstream" width="731" height="497" /></div>
+</article>
+</div>
+<p>In addition to enabling you to write better and more relevant ads, you can also dramatically increase your conversion rates by creating a unique landing page for each of those SKAGs. A relevant landing page that matches the search term will also lead to a higher Quality Score and higher conversion rates. And as you probably already guessed – a lower CPA!</p>
+<p><strong>Note</strong>: <a href="https://www.wordstream.com/blog/ws/2018/07/03/the-case-against-skags">Having <em>too</em> many SKAGs can make it very hard to maintain and optimize your account.</a> I recommend that you start by choosing about 10 keywords in your campaigns, pause them in their existing ad groups, and create new SKAGs for them, with matching landing pages. I would actually start with five keywords that are performing well and five keywords with your highest CPA to see how you can reduce it.</p>
+<p>Doing so will allow you to carefully test this <a href="https://www.wordstream.com/blog/ws/2021/08/02/ppc-strategies">PPC strategy</a>, and slowly shift to it.</p>
+<h2>2. Bing Ads</h2>
+<p>Not taking advantage of the audience on Bing is a huge mistake in your <a href="https://localiq.com/blog/paid-search-strategy/" target="_blank" rel="noopener">paid search strategy</a>. Passing on Bing means passing on about 30% of the search traffic in the US, and lower cost for most keywords. Now, how can you pass on that?</p>
+<p>There are so many good reasons to <a href="https://www.wordstream.com/blog/ws/2017/11/06/bing-ads-performance-benchmarks">include Bing in your paid search strategy</a>. The first one is that it simply doesn’t require any work.</p>
+<p><strong>You can create and optimize all your campaigns on Google, and simply copy everything you do there on Bing.</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="025a79a3-9fd2-4f3c-b114-fb94210481ee" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bing-ads-expanded-text-ads-ctr.png" alt="bing ads etas" width="762" height="431" /></div>
+</article>
+</div>
+<p>Yes, Bing allows you to do it, to make things easier for you to advertise with them.</p>
+<p>But of course, there are more reasons to advertise with Bing. By doing so you will get more traffic and conversions, lower bids and CPC for most keywords, and in some vectors higher-quality users.</p>
+<p>And here’s a bonus reason – just as you might have passed on Bing, some of your competitors did. Lucky for you, you’re reading this post, and will beat them to it, gaining more traffic with less competition. So hurry up, and copy your campaigns from Google Ads to Bing.<strong> </strong></p>
+<h2>3.  RLSA</h2>
+<p>RLSA stands for “Retargeting Lists for Search Ads”. Basically, it means that you can target your past visitors when they are back searching for the keywords in your campaigns.</p>
+<p><strong>Returning users have a much higher chance to convert, and using RLSA allows you to bid higher to make these users come back. </strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e5223d4f-0ea1-4435-b573-fa96b3a38dc3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/problems-with-vanilla-rlsa.jpg" width="600" height="287" /></div>
+</article>
+</div>
+<p>For example, let’s take the following scenario – a certain user visited your site which offers business loans. Then, within the next 30 days, he searches for ‘business loan’ on Google. Using RLSA in your search campaigns, will allow you to separate such users from the cold audience, and use a much higher bid and a unique ad to get them.</p>
+<p>What makes <a href="https://www.wordstream.com/blog/ws/2016/06/08/rlsa">RLSA</a> so powerful is the fact that you know they are still on the search for what you can offer them, therefore easier to convert.</p>
+<p>So, how do you actually use RLSA in your search campaigns?</p>
+<p>It’s actually much simpler than you might think. First, you will need to create <a href="https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences">remarketing lists</a> in your AdWords and/or Google Analytics account (Exactly the same as you do with the Google Display Network). For example, you can create a list of your past visitors in the last 30 days.</p>
+<p>Once you have your lists done, you can either add them to your existing search campaigns as an audience and use a bid adjustment, to bid higher on those specific users. That’s probably the best way to start with RLSA. If you wish to take it one step further, you can duplicate your search campaign, or at least some of them, and use them to target only returning users.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2bfffde5-83f7-4c8b-94a9-a7151800c4e0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-rlsa.jpg" alt="rlsa target and bid settings" width="639" height="372" /></div>
+</article>
+</div>
+<p>Doing so will allow you to write different ads, and have a better control over your budget split between returning users and newcomers. The downside of doing so is that it’s very time consuming, since it practically doubles your campaigns.<strong> </strong></p>
+<h2>4. Negative retargeting lists</h2>
+<p>As mentioned before, a returning user has a much higher chance to convert than a cold one, making retargeting an absolute must for advertisers, but there’s more to it. Retargeting your website visitors is always right; retargeting them all of them is not.</p>
+<p><strong>Just like negative keywords, negative retargeting lists will help you make sure you display your ads to the right people.</strong></p>
+<p>Using negative retargeting lists allows you to make sure you’re not wasting your advertising budget on people who visited your site but probably weren’t really interested in what you are offering to your costumers.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bef8198c-2f36-4db7-bf79-67a04de76d4d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/negative-remarketing-list-adwords.png" alt="negative remarketing list audience adwords" width="700" height="333" /></div>
+</article>
+</div>
+<p>For example, I always make sure to <a href="https://www.wordstream.com/blog/ws/2019/09/09/google-ads-audience-exclusions">exclude the people</a> who visited the “Jobs” page. If they were browsing through it, they are certainly not interested in becoming a customer, and there’s no reason for me to spend my money on the people who were searching for a job at the company.</p>
+<p>Using negative retargeting lists is actually quite simple. All you have to do is create an audience in your account and exclude it from your ad groups.</p>
+<p><strong>Tip:</strong> While you’re making the effort to make exclusions in your retargeting, you can also focus on some that are more valuable. For example, people who visited your pricing page have shown a greater interest in your offer, and therefore are worth closer attention and a higher bid. Separate the people who visited such pages, and place those lists in your retargeting ad groups, with a higher bid.<strong> </strong></p>
+<h2>5. Stop focusing on being #1</h2>
+<p>Average position is definitely one of the key metrics being followed and optimized by paid search marketers, who are putting much of their efforts trying to rank higher than their competitors and achieve the 1st position in the search results. But is it really what they should be focusing on? Not necessarily.</p>
+<p>Ask yourself what is your goal? Being #1, or acquiring users at the best possible ROI? I assume it’s the second one…</p>
+<p><strong>Having your ads ranked as the first result at the top of the search results page will certainly get you more traffic, but is it really cost-effective? Probably not.</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="59844980-b806-4837-a836-4cee4c4ca78f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/hacking-adwords-average-click-through-rate-2.png" alt="AdWords CTR" width="443" height="270" /></div>
+</article>
+</div>
+<p>Here are the two main reasons for that:</p>
+<ol>
+<li>Getting the first position requires a much higher bid compared to what is required for the second or third positions. Therefore, insisting on ranking above all your competitors can dramatically increase your <a href="https://www.wordstream.com/cost-per-click">CPC</a>, which of course means it will increase your CPA and might get you to the point that it is not cost-effective.</li>
+<li>The first result is obviously the first thing users see while searching on Google, and in many cases, they will click on it without fully reading the ad. So, if your ad is the first thing they see it will get you a lot of irrelevant paid clicks, which is a total waste of your budget.</li>
+</ol>
+<p>Try to analyze your total account results by average position, and see which position gets you the best results (in terms of volumes compared to price). In most cases, the average position of 2 or 3 is much more cost-effective, and will still deliver the volumes you are aiming for.</p>
+<p>So, let your competitors waste their budget on the first position, and win from the second spot.</p>
+<h2>Final words</h2>
+<p>Not jumping on these easy and yet highly effective strategies will cost you in the form of lower ROI for your paid search advertising and fewer prospects entering your funnel and moving through the <a href="/blog/ws/2015/01/26/sales-cycle">sales cycle</a>. Don’t make that mistake! Get ahead of your competitors now, it will do wonders for your results.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies">5 Seriously Underused Paid Search Strategies</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>8 Common Facebook Ad Myths, Debunked</title>
+		<link>https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths#respond</comments>
+		
+		<dc:creator><![CDATA[Asi Dayan]]></dc:creator>
+		<pubDate>Fri, 16 Mar 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/03/16/facebook-advertising-myths/</guid>
+
+					<description><![CDATA[<p>Advertising on Facebook is among the best ways to get traffic and acquire users, and absolutely anyone can do it. Having spent over $3M on Facebook ads, I can say that some of the common beliefs about Facebook ads are simply myths which were completely crushed by my campaigns’ results. Here are the eight most common myths about Facebook advertising that you should stop believing immediately.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths">8 Common Facebook Ad Myths, Debunked</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Advertising on Facebook is definitely among the best ways to get website traffic and acquire users, and absolutely anyone can do it. Among the tons of posts, videos and eBooks about Facebook ads, most are useful but, having spent over <a href="http://blog.oribi.io/facebook-ads-guide/" target="_blank" rel="noopener">$3M on Facebook ads</a> for various companies in different business types, I can say that some of the common beliefs about <a href="https://www.wordstream.com/blog/ws/2018/08/01/facebook-stories-ads">Facebook ads</a> are simply myths which were completely crushed by my campaigns’ results.</p>
+<p>Here are the eight most common myths about Facebook advertising that you should stop believing immediately.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="57a7ad79-a061-4ac4-930f-c1a8e737b1ec" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-logo-stats-2018.png" alt="facebook stats" width="600" height="212" /></div>
+</article>
+</div>
+<h2>Myth #1: You have to laser-target your audience</h2>
+<p>Endless articles and videos out there about <a href="https://www.wordstream.com/blog/ws/2018/08/22/facebook-removes-targeting-options">Facebook targeting</a> mention how you should laser-target your audience. Facebook offers all these <a href="/blog/ws/2016/06/27/facebook-ad-targeting-options-infographic">unique ways to target people</a>, why not make use of the knowledge Facebook has to reach exactly and only those people who are most likely to be interested in your offer? It makes sense, but unfortunately does not necessarily lead you to the best results possible.</p>
+<p>Laser targeting can definitely help you reach the people who are likely to be interested, <strong>but not those who are also most likely to click your ad and convert</strong>.</p>
+<p>While Facebook offers some unique ways of targeting, it also has an algorithm that can get you killer results. You just need to let it do its job!</p>
+<p>The Facebook algorithm is great and you should allow it to do what it was designed to do: optimize your ad sets. <strong>A laser-targeted audience will often be too small for the algorithm to work its magic</strong>, and may actually block it from finding the right people.</p>
+<p>If you’re trying to get conversions, leads or traffic to your site, it is best to keep your ad sets broad. The size is dependent on your budget, bids and goals. Try to maintain your ad sets at a target 300K and above, and set your budget and bid according to your goals. At Oribi, we actually see the best results with ad sets targeting 300K people and above, and we just let Facebook do the heavy lifting for us. Here’s an example of two competing ad sets we tested:</p>
+<p>Ad set 1 – Using a broad targeting of interests with an audience of 390K people.</p>
+<p>Ad set 2 – Using a laser targeting of 89K people that are more likely to be interested in our website analytics product.</p>
+<p>Since both ads shared the same interests, just in a different structure, they did not compete at the same time, but at similar days of the week, budgets and bids.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3e9163d2-b764-4cbf-bf54-8afdf34db11c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-myths-audience-size.jpg" alt="myths about facebook audiences" width="800" height="417" /></div>
+</article>
+</div>
+<p>The ad set targeting the broader audience easily outperformed the narrow targeting one. While the laser-targeted ad may have reached the people that are more likely to be interested in our product, the broad ad set was able to reach the people that are more likely to click our ad and convert.</p>
+<h2>Myth #2: Facebook ads are not effective for B2B</h2>
+<p>This is probably the most damaging myth for B2B companies. B2B marketers tend to pass on <a href="https://www.wordstream.com/blog/ws/2018/06/07/facebook-marketing-tips">Facebook ads</a> as a lead generation channel, because it’s a social media network and “they are trying to target professionals.”</p>
+<p>Well, those professionals you are trying to target<strong> actually spend much more time on Facebook than on any other social media channel!</strong></p>
+<p>It’s not only easier to reach professionals and businesses of any kind on Facebook compared to any other digital marketing channels, it is also usually the most effective channel when done right. The possibilities for <a href="https://www.wordstream.com/blog/ws/2018/12/18/b2b-leads-facebook-ads">B2B marketers</a> on Facebook are endless.</p>
+<p>In addition, Facebook’s targeting and optimization abilities are superior to any other social media network, even for B2B marketers. Facebook allows you to target users by demographic, employer, the industry in which they work, job title, annual income, office type and above all, create a <a href="/facebook-lookalike-audiences">lookalike audience</a> which automatically finds people similar to your own clients – which, by the way, works like magic.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f18b61dd-1af6-4d19-89af-7fcbe485a6f5" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-lookalike-audience-advanced-options.png" alt="Real estate Facebook ads creating Facebook lookalike audiences" width="650" height="246" /></div>
+</article>
+</div>
+<p>For example, you can create a custom audience using your clients’ emails, and have Facebook find similar people for you to target. This way, you basically let Facebook handle the targeting for you, using everything they know about the users in your custom audience.</p>
+<p>Top that with the killer Facebook algorithm that was mentioned above, and you have yourself a mean B2B lead generation machine. For more help, check out <a href="/blog/ws/2017/09/25/b2b-facebook-advertising">WordStream’s beginner’s guide to using Facebook for B2B advertising</a>.</p>
+<h2>Myth #3: You need to use smiling people in your ad images</h2>
+<p>You’ve probably heard this before, maybe from a consultant, a colleague or even a famous blogger you might be following. They all say you should use smiling people in your ads because people respond to happy people. Well, they are right, but only partially.</p>
+<p>Using smiling people in your ads might get you good results, but not the best results!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3566cd7c-7a06-4622-aae2-462256b9da5c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/man-with-awkward-smile.jpg" alt="smiling people in facebook ads" width="650" height="434" /></div>
+</article>
+</div>
+<p>So, what will get you better results? Try to think of what would make you click on an ad on your <a href="https://www.wordstream.com/blog/ws/2018/05/15/facebook-dynamic-creative">Facebook</a> newsfeed. In most cases, the ad will illustrate something appealing to you, that you’ll find worthy of checking out. In most cases, it won&#8217;t be just an image of somebody smiling (especially not if it’s a generic image provided by a platform such as Shutterstock).</p>
+<p>Try to create ads that will instantly make your audience understand “what’s in it for them.” In other words, what’s the benefit to them for clicking your ad? There’s a very simple reason for that. While browsing their <a href="https://www.wordstream.com/blog/ws/2018/05/24/facebook-engagement">Facebook</a> feeds, most are not actually looking for something in particular, and they usually don’t spend too much time reading posts, especially not sponsored ones. Your image should therefore stand out and instantly spark an interest in the people who see it.</p>
+<p>A great example would be this ad by Fundbox, targeted at small business owners, which offers to advance them cash on their outstanding invoices.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="140b91f8-4346-4526-bf1d-edb8807d55fe" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-image-myths.jpg" alt="facebook advertising myths" width="499" height="489" /></div>
+</article>
+</div>
+<p>The ad is super simple and useful. The image clearly shows the results offered by Fundbox (you won&#8217;t have to wait to get paid), along with eye-catching and compelling text. Not only was it an extremely cost-effective way to get them thousands of paying customers, it also earned 10K likes and over a thousand shares, which also means a lot of free impressions. No generic picture of a smiling business owner, but it still worked great.</p>
+<h2>Myth #4: You need to invest in getting page likes</h2>
+<p>Probably the most common myth out there. So many companies invest in getting page likes and actually measure this as one of their main KPI’s, assuming it will eventually pay off since more people will see their page posts and eventually become customers. This is absolutely wrong for two reasons:</p>
+<ul>
+<li>Just because someone liked your Facebook page, doesn’t mean he’s even close to becoming your customer.</li>
+<li>Organic reach on Facebook is constantly dropping, so not even your “Likers” will see your page posts unless you boost them.</li>
+</ul>
+<p>Focus on using <a href="https://www.wordstream.com/blog/ws/2018/05/03/facebook-f8">Facebook ads</a> to reach your real goals. Make sure to choose the right <a href="https://www.wordstream.com/blog/ws/2018/11/26/facebook-objectives" target="_blank" rel="noopener">campaign objective</a> to reach your business goals, which will usually be conversions, app installs, lead generation or traffic.</p>
+<p>By doing so, you will not only spend your budget effectively, you will also get page likes as a side effect at no extra costs. Some people in your campaigns will click your Facebook Page link instead of your website link in the ad, some will also like it. There’s also a simple hack to turn your ad likes into page likes. When someone likes your ad, you are able to invite them to like your page as well, which they accept in many cases. Simply click on your ad account notifications button to see the list of likers.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9d77ec02-7d10-460c-81f2-3f1b55f36912" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-advertising-myths-likes.jpg" alt="myths about facebook ads" width="500" height="565" /></div>
+</article>
+</div>
+<h2>Myth #5: You should retarget all your site visitors</h2>
+<p>Retargeting your website visitors is always right; retargeting them all in a single ad set is wrong.</p>
+<p><strong>Different people visit your site through different campaigns and check out different sections of your site, or in a different step of your sales funnel; they should therefore be retargeted accordingly, with different ads, budgets and bids.</strong></p>
+<p>For example, we are retargeting users who already signed up to Oribi, but haven’t installed the script on their site yet, with this unique ad that was made just for them, and is targeted to make them to log back into Oribi:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8271d7aa-bc82-4749-b035-33b8cedf79a0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-retargeting-ad-myths1.jpg" alt="facebook retargeting" width="637" height="664" /></div>
+</article>
+</div>
+<p>I cannot emphasize this enough: Always try to segment your site visitors into different custom audiences, and target them in different ad sets. For example, you can create a custom audience of visitors on your landing pages from clicking an ad. These people already showed an interest in your offer, and are more likely to convert than mere browsers without a cause.</p>
+<p>Another highly valuable segmentation will be to create a custom audience of people who visited your pricing page. <strong>These visitors are much more likely to become customers</strong> than those who just browsed through your homepage and left. It’s certainly worth retargeting them with an attractive offer to convert them from prospects into paying customers, and they are definitely worth a higher bid and budget than other visitors.</p>
+<p>It’s actually very simple. Here’s how I built this audience in our account:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bb65ebe2-c28c-4541-b329-07914a6f2b43" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-custom-audiences-myths.png" alt="facebook custom audience" width="810" height="893" /></div>
+</article>
+</div>
+<p>I simply added the URL of the pricing page, and excluded the people who already signed up.</p>
+<p>Targeting all your site visitors is not only incorrect in terms of bids and messaging, it also wastes your budget on browsers who are on your site for other reasons and should not be included in your campaigns. Take for example people who visited your careers page. Obviously, they browsed through your site looking for a job opportunity, not to become a customer, and it makes no sense to spend your advertising budget retargeting them with your offer.</p>
+<h2>Myth #6: Right side ads are not effective</h2>
+<p>Right side ads are ignored by many advertisers who have either experienced horrible results from trying them, or heard about advertisers failing with them. But actually, right side ads can be very effective when used in a very specific way, making this assumption a complete myth.</p>
+<p>Here’s the truth: Right side ads can be extremely effective, but<strong> only when separated into a different ad set which is set to pay for link clicks and not impressions.</strong></p>
+<p>The reason most advertisers get horrible results with right side ads is that they combine them in one ad set with other placements, like the newsfeed, paying for impressions. By doing so, you let Facebook drain your ad set budget on useless impressions without getting you the expected results. The right side placement is way more available for impressions since there’s less competition on it, so Facebook can show the ads to the same user at a much higher frequency. This means you will end up getting a lot of impressions, but not a higher reach, so basically the same people will see your ad over and over, which is definitely something you want to avoid when paying for impressions.</p>
+<p>So how to do it right! Simply duplicate your ad set, and isolate the right side placement, then change your setting to be charged for link clicks (if that’s not your original campaign objective), and there you go. You’ll get tons of desktop impressions which are usually very expensive, and pay only when someone clicks on them. The only downside here is that your ads will be optimized for clicks instead of conversions.</p>
+<p>Keep in mind that right side ads can only accommodate some of your original ad text, so you should make sure to adjust it accordingly, like we did with the ad below, which shows the appearance of the same ad on the news feed compared with in the right column.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cc02c4c8-efbc-41b9-a841-b766feb8ba67" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-news-feed-ad-vs-right-side-ad.jpg" alt="right side ads facebook" width="708" height="342" /></div>
+</article>
+</div>
+<h2>Myth #7: Relevance score is the most important metric</h2>
+<p>Too many advertisers put so much effort into improving their <a href="/blog/ws/2017/09/14/facebook-relevance-score">relevance score</a>, believing this to be the way to get better results, and eventually ending up focusing on the wrong metric. What you should focus on is your end results: your cost per acquired user and ROI.</p>
+<p>A good <a href="https://www.wordstream.com/blog/ws/2019/03/13/facebook-sunsets-relevance-score">relevance score</a> is important,<strong> but not more so than having a good ROI, </strong>which doesn’t always correlate.</p>
+<p>Facebook grades your ads by their relevance to the audience you are targeting, and the likes and shares are key factors in getting a high score. But just because people didn&#8217;t like or share your ads, doesn’t mean it’s not getting you the CPA you are aiming for.</p>
+<p>To explain this, let’s look at the real results I achieved in a recent campaign. My ad set had two slightly different ads, “Ad-1” &amp; “Ad-2”, testing different headlines. The goal was to get conversions at the best possible price.</p>
+<p>“Ad-2” had a better response, which resulted in a relevance score of 4. Well, it’s not really high, but it was higher than the relevance score of “Ad-1” which was a poor score of 3.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="54321e85-6a5e-4011-89a6-e13d86924156" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-relevance-score-myths.jpg" alt="facebook relevance score" width="800" height="221" /></div>
+</article>
+</div>
+<p>Had I believed in this myth, I would have instantly turned off “Ad-1”. Since I really only care about the cost per conversion, I didn’t. The cost per registration for “Ad-2”, with the higher relevance score, was almost $140 which is far from cost-effective. “Ad-1” on the other hand, was by far the most effective at only $25 per registration.</p>
+<p>Don’t take this the wrong way: A good relevance score is definitely something you should aim for, and if I had an ad in this ad set with a score of 7 &#8211; 10, it would have probably achieved better results. You just need to keep in mind that what you should really focus on is <a href="/blog/ws/2017/02/28/facebook-advertising-benchmarks">the cost to achieve the actual aim of your Facebook campaign</a>.</p>
+<h2>Myth #8: Facebook ads are too expensive</h2>
+<p>Let’s finish with the myth that needs to be crushed above all the others: Advertising on Facebook is too expensive.</p>
+<p>This is wrong in so many ways. Advertising on Facebook is not only the most effective digital marketing channel (for those who do it right), but also affords great results even with a small budget of $5 per day. Clearly, $5 per day will not turn a small business into a major company, but it can definitely get them started on their way to business success.</p>
+<p>Anyone can start off creating simple and small test campaigns to see what works best for them. Honestly, there’s no better advertising channel out there for good results at such low costs.</p>
+<h2>Final words</h2>
+<p>I hope you’ve found this article useful and that it will help you achieve killer results with your Facebook ads. I believed some of these myths, but my personal experience crushed each and every one of them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths">8 Common Facebook Ad Myths, Debunked</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/03/20/facebook-advertising-myths/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

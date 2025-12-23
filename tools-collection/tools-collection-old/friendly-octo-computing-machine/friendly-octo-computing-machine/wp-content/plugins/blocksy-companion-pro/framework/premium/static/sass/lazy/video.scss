@@ -1,0 +1,82 @@
+:is(.ct-media-container, .ct-dynamic-media) {
+
+	.ct-video-container {
+		position: absolute;
+		inset: 0;
+		z-index: 2;
+		background: #000;
+		transition: opacity 0.12s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+
+		:is(video, iframe) {
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	&:not([data-state]) {
+
+		.ct-video-container {
+			opacity: 0;
+		}
+	}
+
+	&[data-state='playing'] {
+
+		.ct-video-container {
+			opacity: 1;
+		}
+	}
+
+
+	// default player
+	&:not(.ct-simplified-player) {
+
+		&[data-state] {
+
+			.ct-video-indicator {
+				opacity: 0;
+				visibility: hidden;
+			}
+		}
+	}
+
+
+	// simplified player
+	&.ct-simplified-player {
+
+		&[data-state='playing'] {
+
+			.ct-play-path {
+				display: none;
+			}
+
+			&:not(:hover) .ct-video-indicator {
+				opacity: 0;
+			}
+		}
+
+		&[data-state*='paused'] {
+
+			.ct-video-container {
+				opacity: 0;
+			}
+		}
+	}
+
+
+	// video size
+	[data-video-size="cover"] {
+
+		&:is([data-video-source="youtube"], [data-video-source="vimeo"]) {
+			inset-inline: -100vw;
+		}
+
+		&:is([data-video-source="youtube-shorts"]) {
+			inset-block: -100vh;
+		}
+
+		&:is([data-video-source="upload"]) video {
+			object-fit: cover;
+		}
+	}
+}

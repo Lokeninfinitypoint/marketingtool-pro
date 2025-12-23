@@ -1,0 +1,21 @@
+# START YOAST BLOCK
+# ---------------------------
+
+User-agent: *
+Disallow: /*.php$
+
+User-agent: *
+Disallow: /search/*
+
+User-agent: *
+Disallow: /page/*?s=
+
+User-agent: AhrefsSiteAudit
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://www.wordstream.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tony Testaverde, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/tony-testaverde/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 16 Aug 2024 11:58:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Tony Testaverde, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Debunking Google Ads Dogma: Why You Shouldn&#8217;t Bid to Position (&#038; Other Myths that Make No Sense)</title>
+		<link>https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths#respond</comments>
+		
+		<dc:creator><![CDATA[Tony Testaverde]]></dc:creator>
+		<pubDate>Thu, 01 May 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths/</guid>
+
+					<description><![CDATA[<p>Should you bid into top positions to increase your conversion rate? NO! Learn why the data shows bidding to position in AdWords is a myth and a waste of money...</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths">Debunking Google Ads Dogma: Why You Shouldn&#8217;t Bid to Position (&amp; Other Myths that Make No Sense)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I need to be in position 1! I need to be ahead of my competitors! I need to show up all the time for this keyword! I need to be in the top 3 or I won’t be seen! Wrong, wrong, wrong, and, yes, wrong.</p>
+<p>Too many marketers and business owners react emotionally to Google Ads (formerly known as AdWords). Oddly enough, they have the data available to make accurate decisions, but they let their egos get in the way. Bidding to a specific position in Google Ads is B.S. There, I said it (Google Ads gurus freak out…now). But…I have data to back it up.</p>
+<p>Your <a href="https://www.wordstream.com/blog/ws/2019/02/27/google-sunsets-average-position">average position</a> is a dependent variable. Here’s why – your <a href="/blog/ws/2014/03/17/what-is-a-good-conversion-rate">conversion rate</a> is not influenced by any of AdWords’ metrics. Your click-through rate, average position, impression share, quality score etc. have no influence on your conversion rate. None. So what does this tell us? Your average positions need to be determined by your conversion rates and CPA goals and nothing else. You can’t predetermine the output of the equation before solving the problem. In other words, bidding to position is an anecdotal guess, and why guess when you can be empirical? Time to debunk these myths with actual data.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dd4fe4d1-c079-40cb-9ede-d463a0bed20b" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dont-bid-to-position-1.jpg" alt="bid to position myth" width="1024" height="527" /></div>
+</article>
+</div>
+<h2>Myth: I need to be in position 1!</h2>
+<p>To be blunt, I hate this. My first question is, why? I understand this logic for your brand terms where your ROAS is 1000%, sure, you want to own that position. Aside from that, you should only own the top position if it is maximizing your profit. Period. There’s no other reason to own it, unless your whole initiative is for branding, but I’d advise against that, as there are much better branding options. If you’re limited by budget, you’ll actually get more clicks within your budget by bidding down, and if you’re not limited by budget, and you don’t have a killer ROI, then you are just letting your ego get in the way of your business sense.</p>
+<p>Let’s walk through an example and data to illustrate. We’ll use a basic <a href="/blog/ws/2013/09/23/get-more-leads-with-ppc">lead generation</a> example, as e-commerce adds additional layers of complexity that I’ll address later.</p>
+<p>If you’re a car insurance broker in Boston, you should have a determined <a href="/blog/ws/2013/07/16/quality-score-cost-per-conversion">cost per acquisition</a> goal to satisfy your business objectives. Let’s use $100 per lead. You then need to look at your current conversion rate in your Google Ads account and use that as a starting point, say 5%. Next, you will use this information to determine your Max CPC. Use this formula: Max CPA x Conversion Rate = Max CPC, $100 x 5% = $5. If you have enough data, you can, and should, determine this at the keyword level. From here, your <a href="/blog/ws/2011/11/16/how-adwords-works">ad rank is determined by this formula</a>: Max CPC x Quality Score = Ad Rank</p>
+<p>So what does this tell us about ad rank? First, let’s look at the variables that affect ad rank in order of our ability to control them:</p>
+<ol>
+<li>Ad Extensions – Easiest to control and implement (negligible effect)</li>
+<li>Max CPC – Easy to control and implement, just a little more complex</li>
+<li>Quality Score – Moderate ability to control (CTR, Landing Pages, etc.), takes time, a number of different variables beyond control</li>
+<li>Competition – No Control</li>
+</ol>
+<p>But again, <strong>these are all the variables that determine the ad position, not the other way around</strong>. So what this really tells us is that we need to control what is within our control, and your ad position will be the <strong>output</strong> not the <strong>input</strong>. Targeting a certain position without considering these factors is nothing but a bad guess.</p>
+<p>For e-commerce, there are whole host of other variables at play. But still, at the most fundamental level, the Max CPC formula still holds true. However, you will need to determine target CPAs based on another set of variables before arriving to the basic formula. These variables include, but are not limited to – Product Margin, Average Order Value, Return On Ad Spend, Lifetime Value, Landing Pages (Check out <a href="http://www.youshouldtestthat.com">www.youshouldtestthat.com</a> via Chris Goward <a href="https://twitter.com/chrisgoward">@chrisgoward</a> at ClickZ NYC). This perhaps is a topic for version 2 of this post, but these variables only further my point.</p>
+<p>Now, my point would be false if in fact the claims I’ve heard countless times about ad rank were true, but they aren’t. You do not convert clicks more in position 3 because “people read these ads” and, no, you aren’t proving you’re the best in position 1, and enticing people by “beating” your competition. <strong>The truth is that there is no correlation between ad rank and conversion rate. </strong>Your conversion rate is the same in position 1 as is in position 3.</p>
+<p>In the regression below, you can see that average conversion rate remains flat regardless of <a href="https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position">average position</a>, R squared = 0.002, suggesting no correlation.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c0423b37-48e5-43a6-959d-04f88c1da1f5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-rate-by-ad-position-myth-1.png" alt="adwords conversion rates by position" width="942" height="547" /></div>
+</article>
+</div>
+<p>Of course, being in low positions will cause your volume to be limited, but you need to look at other factors beyond your bid before you decide to push up in position. What then can you control? Your offer, <a href="/blog/ws/2014/02/12/great-landing-pages">landing pages</a>, price, the UX of your site, quality score (to an extent), and <a href="/blog/ws/2014/04/09/adwords-tips-for-seasonal-businesses">seasonality</a> are good places to start. <strong>You need to get these factors under control before you go after top positions, not the other way around.</strong> If you’re aggressive and willing to accept a higher CPA to test, then sure, go for it to collect data, but if you have a strict CPA goal that leads you to profitability, you simply can’t play in a position that is out of your price range if you want to hit your goals.</p>
+<h2>Myth: I need to show up all the time for this keyword!</h2>
+<p>This same argument then holds true for impression share. To illustrate this point, let’s revisit our previous example. We’ve determined that our Max CPC can only be $5 based on our target CPA and conversion rate. Car insurance brokers in Boston often see an average CPC of $40+. Your $5 Max CPC bid will likely gain you &lt;10% impression share, meaning you’ll be lucky to grab a click a day.</p>
+<p>So what is the solution here? Bid up to first page? <strong>No.</strong> Be seen in the top 3? <strong>No.</strong> You may be tempted to push your impression share higher, as you’re currently losing 90% of your potential impressions due to ad rank (i.e. your competition). As John Gagnon (Bing Ads Evangelist @jmgagnon) shared at the ClickZ conference in NYC, if you see “% Lost due to bid” in Bing or in Google’s language “Impression Share lost due to ad rank,” your bid might not be high enough to even enter the <a href="/articles/what-is-google-adwords">auctions</a> you want to be in. What John said makes total sense. My challenge to marketers then is not can you pay to be in the game, but rather, <strong>is your offer even good enough to be in the game?</strong> Increasing your impression share won’t improve your conversion rate. So, throwing money at your bids to attract more volume will only cause you to close your business doors before ever being competitive. In this regression, we see no correlation between conversion rate and impression share.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="924e5474-ddaf-4330-b1fd-439dbfb4c1a2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/impression-share-conversion-rate-myth-1.png" alt="conversion rate vs impression share" width="942" height="547" /></div>
+</article>
+</div>
+<h2>Myth: I need to be in the top 3 or I won’t be seen!</h2>
+<p>Two things are important here. First, people click on ads below position 3. A client of mine had 43,000 clicks last month in average position 4.4. Second, average position doesn’t mean you’re always in that specific position. There can actually be high variance here, and your positioning may actually look something like this for an average position of 3.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f23aadd5-5e2b-46ad-8493-89e476a77418" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/average-position-impression-share-1.png" alt="adwords myths" width="614" height="343" /></div>
+</article>
+</div>
+<p>Yes, your volume begins to drop as your average position declines, but if you’re in a big volume space (e.g. travel), you can get the volume you need. If you’re in a low volume space (e.g. local dentist), a low position may only drive a handful of clicks a day. But again, you need to get your offer right unless you just want to burn your cash.</p>
+<p>So what’s the big takeaway? <strong>Don’t bid to position, bid to profitability.</strong> Stop listening to your ego and the Google Ads gurus, and start listening to what your data tells you.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths">Debunking Google Ads Dogma: Why You Shouldn&#8217;t Bid to Position (&amp; Other Myths that Make No Sense)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/05/01/adwords-myths/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dynamic Remarketing Ads: The Future of Google Remarketing</title>
+		<link>https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing#respond</comments>
+		
+		<dc:creator><![CDATA[Tony Testaverde]]></dc:creator>
+		<pubDate>Mon, 01 Apr 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing/</guid>
+
+					<description><![CDATA[<p>Learn why Google's new Dynamic Remarketing ads, currently in beta, are the greatest thing for e-commerce AdWords accounts since sliced bread.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing">Dynamic Remarketing Ads: The Future of Google Remarketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google’s new dynamic remarketing feature – currently in beta – is <strong>hands down the best release from Google I’ve seen in a long time</strong>. As far as I’m concerned, this will be a MUST DO for all e-commerce websites that are advertising with Google.</p>
+<p>I’ve recently had the opportunity to try out the new dynamic remarketing ads, and in this post, I’ll explain how they work, why they’re better than traditional remarketing, and why you should care.</p>
+<h2>Google Remarketing: The Old Way</h2>
+<p>For any e-commerce website, it is becoming more and more important to have a Google Merchant Account set up. Merchant accounts are becoming extremely valuable within Google Ads (formerly known as Google AdWords), as they feed your PLAs (Product Listing Ads, soon to be replaced with <a href="/blog/ws/2014/04/14/google-shopping-ads">Google Shopping Campaigns</a>), <a href="/blog/ws/2011/09/22/adwords-product-extensions-guide">Product Extensions</a>, and now your remarketing efforts. As most of you know, remarketing is important because not all potential customers that come to your site purchase right away. You need to continue to influence them not only through Google search and from your website, but also across Google’s display network, as people spend <strong>95% of their time</strong> away from Google.</p>
+<p>Most people I’ve worked with have <a href="/blog/ws/2012/12/19/google-adwords-remarketing-cheatsheet">remarketing set up</a>, but it is generally too simplistic, in that it catches ‘All Visitors’ to their website, and serves them one generic message. Those that I’ve spoken with that are ahead of the curve, are segmenting visitors to their site, and remarketing to those that have ‘Abandoned the Shopping Cart’ or ‘Visited A Product Page.’ If you’ve gotten this far, <strong>bravo, you are doing a much better job than most of your competitors</strong>. However, this strategy has always been a HUGE undertaking. What if you have 50,000 products? Are you going to create 50,000 audience segments, and 50,000 unique image ads?</p>
+<h2>How Dynamic Remarketing Is Different</h2>
+<p>I know the biggest pain point in my remarketing efforts has always been getting <a href="/blog/ws/2012/01/12/creating-adwords-image-ads">image ads</a> generated for all of the products for sale. With Google’s new Dynamic Remarketing feature (still in beta), <strong>Google will dynamically create ads for you that include your price, image, and text of your choice, all based on the behavior of your website visitors</strong>. Pretty sick, huh? No more dealing with creative, and more importantly, you can reach your customers with laser-focused messaging based on the products or content they were interested in when they visited your site.</p>
+<p>If you were <a href="http://www.shoeme.ca/">ShoeMe.Ca</a>, an e-commerce shoe site, and your potential customer looked at a specific pair of Converse sneakers, wouldn’t it be best to serve an ad with the image and price of the Men’s White Converse Chuck Taylor All Stars he was viewing, and throw in a <a href="/blog/ws/2013/02/21/google-adwords-offer-extensions">free shipping offer</a> to entice him to come back? Or maybe cross-sell him with a pair of High Tops in case they are going for the Lil Wayne look? It’s all going to be possible through Google real soon, and you will see solid gains in performance for your e-commerce website.</p>
+<h2>How Dynamic Remarketing Works</h2>
+<p>Here’s how it works:</p>
+<p>You will be required to set up a customized Remarketing Tag on your site that will pull down Product Identification numbers from your merchant feed and pass them on to Google. Google will then match these Product IDs to your Google Merchant Center feed and use those characteristics to power your ‘<a href="https://www.wordstream.com/blog/ws/2020/09/23/set-up-dynamic-remarketing-ads">Dynamic Display Ads</a>.’</p>
+<p>To get you started, there is some remarketing tagging you&#8217;ll place on your site. The implementation does take some coding knowledge, but if you are running an e-commerce website, you likely have a developer who is more than qualified to work with the JavaScript requirements.</p>
+<p>Once the coding is implemented properly, you’ll need to get things set up in Google Ads. Just like any remarketing campaign, you’ll need to set up some audiences to target. To do this, navigate to your Shared Library, Audiences, and then select ‘Remarketing list’ from the ‘New audience’ dropdown as seen below.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dynamic-remarketing-audiences-1.png" alt="Dynamic Remarketing Audience" width="624" height="235" /></div>
+<p>From there, create a ‘List Definition,’ meaning select who you want to contain in the audience. In the example below, I’ve selected ‘pagetype equals product.’ This means I’ll be cookie-ing those that have visited any page on my site that contains ‘product’ in the URL string. I’ve then chosen a ‘Membership duration’ of 15 days. This basically means the number of days a visitor’s cookie will stay on my remarketing list.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-dynamic-remarketing-list-1.png" alt="Google Dynamic Remarketing List" width="498" height="400" /></div>
+<p>You can then assign the audiences to the ad groups you think will work best.</p>
+<p>Within ShoeMe’s account, you&#8217;ll see four ad groups:</p>
+<ol>
+<li><strong>Product Viewers</strong>: Matches dynamically generated ads based on specific <a href="/blog/ws/2017/09/07/ecommerce-sales-product-pages">product pages</a> visited by the user.</li>
+<li><strong>Shopping Cart Abandoners</strong>: Dynamically generates ads based on product pages visited by users who added items to their cart, but did not make a purchase, reducing money lost to <a href="/blog/ws/2016/03/17/shopping-cart-abandonment">shopping cart abandonment</a>.</li>
+<li><strong>Buyers 3-60 Days</strong>: Targets users who made a purchase in the last 2 months for the purpose of strategically upselling related products.</li>
+<li><strong>Non-Product Viewers</strong>: Targets users who have been to a page on the site other than a product page, and generates ads based on the content of the pages that the user has been to.</li>
+</ol>
+<p>I would encourage you to <strong>bid more aggressively for Shopping Cart Abandoners and for Product Viewers</strong> (who are further down the buying cycle). I tiered the bidding below with highest bid for Shopping Cart Abandoners, and lowest bid for Non Product Viewers (visited homepage, blog, etc.)</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dynamic-remarketing-campaign-1.png" alt="Dynamic Remarketing Campaign" width="625" height="471" /></div>
+<h2>Creating Your Dynamic Remarketing Ads</h2>
+<p>After assigning the appropriate audiences to each ad group, you’ll need to set up your ads. <strong>This is the cool part.</strong> The ‘Display ad builder’ will soon have a dynamic ad option as seen below, with each banner size offering over 15 dynamic ads formats to choose from.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dynamic-remarketing-ad-builder-1.png" alt="Dynamic Remarketing Ad Preview" width="625" height="230" /></div>
+<p>In the ad seen here, your potential customer would have likely viewed these products, and is now being served the same product again, or a different style. They can then click on that specific product within the ad and be will be directed to that specific product page. <strong>How’s that for qualifying your clicks?</strong> The ads will also rotate products, and generally be much more dynamic than static image ads.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dynamic-remarketing-ad-example-1.png" alt="AdWords Dynamic Remarketing" width="624" height="88" /></div>
+<h2>Why Dynamic Remarketing Is So Awesome</h2>
+<p>There are companies out there that offer similar remarketing options, but now <strong>you can do it all yourself within Google Ads </strong>without any additional fee on top of your clicks. You’ll have much better control on your remarketing efforts, and I’m suspecting huge returns. ShoeMe.ca knows that <strong>50%</strong> <strong>of its business comes from returning visitors</strong>. Of these returning visitors, the average order value is <strong>$6</strong> <strong>higher than new visitors</strong>, and the average conversion rate is <strong>30%</strong> <strong>higher</strong>! Reengagement is a <strong>data-proven</strong> key to their business, and the dynamic remarketing is reengagement on steroids.</p>
+<p>Dynamic remarketing will be a key factor to any e-commerce website’s future success, and if you don’t get in the game, you will fall behind.</p>
+<p>Get the step-by-step guide to setting up <a href="https://www.wordstream.com/blog/ws/2023/05/17/dynamic-remarketing-for-retail">dynamic remarketing for retail</a> here.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing">Dynamic Remarketing Ads: The Future of Google Remarketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/04/01/dynamic-remarketing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>When Is 2% Not a Good CTR? The Relationship of Click-Through Rate &#038; Ad Position</title>
+		<link>https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position#respond</comments>
+		
+		<dc:creator><![CDATA[Tony Testaverde]]></dc:creator>
+		<pubDate>Fri, 22 Feb 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[CTR]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position/</guid>
+
+					<description><![CDATA[<p>Is 2 percent a good click-through rate for PPC? Not always! Learn the importance of having a good CTR for your average ad position.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position">When Is 2% Not a Good CTR? The Relationship of Click-Through Rate &amp; Ad Position</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Everyone always asks me, “What’s a good click-through rate?” The standard answer I always hear is 2%. My answer is always, <strong>it depends</strong>.</p>
+<p>If you don’t want your Quality Scores to suffer, you need to think twice about always targeting a 2% CTR. Quality Scores are <strong>very</strong> <strong>dependent</strong> on your CTR by <a href="https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position">average position</a>, so it’s worth getting a good understanding of what this means.</p>
+<p>So, what does it mean? People will usually click on the top ad of a SERP (search engine results page), because, well, it’s the first thing that they see. Position 1 will always have a high CTR, and CTR will continue to descend naturally in positions 2, 3, 4 and so on. This being the case, Google knows that position 1 and position 4 are not created equal, and therefore does not treat them equally.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="018bbc1a-ad03-4404-9d21-21bfe138252a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/good-ctr-by-ad-position-1.png" alt="Click-Through Rate By Ad Position" width="584" height="585" /></div>
+</article>
+</div>
+<p>Google does not want to give up their prime real estate (position 1) for a 2% <a href="/blog/ws/2015/08/12/ad-ctr">ad CTR</a> when they can triple their revenue with a 6% CTR. Sure, you can bid up and get there, but what will Google do about this? Drop your Quality Score significantly so you are literally paying for it (or reward you with the dreaded “Rarely shown due to Quality Score” message that you may be seeing in your account).</p>
+<p>The opposite is true of lower positions. If you’re putting up a 2% CTR in position 8, Google will reward you with a high Quality Score for bringing them clicks and revenue so low on the page. You’ll pay a lot less and may see Quality Scores of 7+.</p>
+<p><a href="https://www.wordstream.com/google-adwords-benchmark-tools">Here are our benchmarks for average CTR</a>. Of course, average is just average. Every advertiser should aim to be better than average.</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2734.png" alt="✴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Improve your CTR with the free guide <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2935.png" alt="⤵" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" class="waffle-rich-text-link">&gt;&gt; 10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy</a></strong></p></div></div></p>
+<h2>So, What’s a Good Click-Through Rate?</h2>
+<p>Here are some good CTR targets, depending on ad position, for some 7+ Quality Scores:</p>
+<p><strong>Position 1:</strong> 6%+</p>
+<p><strong>Position 2:</strong> 4-5%</p>
+<p><strong>Position 3:</strong> 2-3%</p>
+<p><strong>Position 4:</strong> 1-2%</p>
+<p><strong>Position 5 and lower:</strong> 1%</p>
+<p>Remember, <a href="/average-ctr">average click-through rate</a> isn’t the only thing that affects Quality Score, but it’s one of the largest factors and deserves some serious attention.</p>
+<p><em>Tony Testaverde is a paid search strategist at WordStream, particularly focused on managing Google Ads (formerly known as AdWords) and Bing accounts for e-commerce and lead gen clients. He studied Economics at Tufts University and has played football his whole life. Born and raised in Gloucester, MA (home of the Perfect Storm, Wicked Tuna, and <a href="http://www.stpetersfiesta.org/greasypole.html">The Greasy Pole</a>).</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position">When Is 2% Not a Good CTR? The Relationship of Click-Through Rate &amp; Ad Position</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/02/22/click-through-rate-by-ad-position/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

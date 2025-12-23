@@ -1,0 +1,93 @@
+═══════════════════════════════════════════════════════════════
+📋 COPY THIS ENTIRE CONTENT TO DOCKER MANAGER
+═══════════════════════════════════════════════════════════════
+
+STEP 1: Select ALL text below (from "services:" to the end)
+STEP 2: Copy it (Cmd+C or Ctrl+C)
+STEP 3: Go to Docker Manager → Compose tab
+STEP 4: Paste in the text area
+STEP 5: Project name: marketingtool-pro
+STEP 6: Click Deploy
+
+───────────────────────────────────────────────────────────────
+START COPYING FROM HERE ↓↓↓
+───────────────────────────────────────────────────────────────
+
+services:
+  marketingtool:
+    image: node:20-alpine
+    container_name: marketingtool-pro
+    working_dir: /app
+    volumes:
+      - ./src:/app/src:ro
+      - ./public:/app/public:ro
+      - ./tools-collection:/app/tools-collection:ro
+      - ./wp-content:/app/wp-content:ro
+      - ./production-html:/app/production-html:ro
+      - ./package.json:/app/package.json:ro
+      - ./package-lock.json:/app/package-lock.json:ro
+      - ./astro.config.mjs:/app/astro.config.mjs:ro
+      - ./tsconfig.json:/app/tsconfig.json:ro
+      - node_modules:/app/node_modules
+      - dist:/app/dist
+    ports:
+      - "3000:4321"
+      - "443:4321"
+    environment:
+      - NODE_ENV=production
+      - HOST=0.0.0.0
+      - PORT=4321
+    command: >
+      sh -c "
+      npm ci --production &&
+      npm run build &&
+      npm run preview -- --host 0.0.0.0 --port 4321
+      "
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: marketingtool-nginx
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "8080:80"
+    depends_on:
+      - marketingtool
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+volumes:
+  node_modules:
+  dist:
+
+networks:
+  marketingtool-network:
+    driver: bridge
+
+───────────────────────────────────────────────────────────────
+STOP COPYING HERE ↑↑↑
+───────────────────────────────────────────────────────────────
+
+⚠️ IMPORTANT: You MUST upload files to VPS first!
+
+Files need to be at: /opt/marketingtool-pro/
+
+Upload via SSH:
+  cd /Users/loken/Projects/marketingtool-pro
+  ./DEPLOY_VPS.sh
+
+OR manually:
+  rsync -avz ./src ./public ./package.json root@31.220.107.19:/opt/marketingtool-pro/
+
+───────────────────────────────────────────────────────────────
+
+After deployment, access at:
+  → http://31.220.107.19:3000
+  → http://31.220.107.19:8080
+
+═══════════════════════════════════════════════════════════════

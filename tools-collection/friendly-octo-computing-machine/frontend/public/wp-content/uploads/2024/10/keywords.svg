@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>data-file-bars-search</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Optimization" transform="translate(-946, -755)" stroke-width="2.13333333">
+            <g id="Group-19" transform="translate(809, 735)">
+                <g id="Group-26-Copy" transform="translate(115, 0)">
+                    <g id="data-file-bars-search" transform="translate(24, 22)">
+                        <line x1="4.26666667" y1="19.2" x2="10.6666667" y2="19.2" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="10.6666667" y1="19.2" x2="10.6666667" y2="8.53333333" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="14.9333333" y1="12.8" x2="14.9333333" y2="10.6666667" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="6.4" y1="19.2" x2="6.4" y2="12.8" id="Shape" stroke="#FFAF24"></line>
+                        <path d="M11.7333333,27.7333333 L2.13333333,27.7333333 C0.955125867,27.7333333 0,26.7782075 0,25.6 L0,2.13333333 C0,0.955125867 0.955125867,0 2.13333333,0 L17.2501333,0 C17.8155338,0 18.3577623,0.224685158 18.7576889,0.624355556 L22.8423111,4.70897778 C23.2419815,5.10890438 23.4666667,5.65113286 23.4666667,6.21653333 L23.4666667,9.6" id="Shape" stroke="#2A4BC2"></path>
+                        <circle id="Oval" stroke="#2A4BC2" cx="21.3333333" cy="21.3333333" r="7.46666667"></circle>
+                        <line x1="32" y1="32" x2="26.5898667" y2="26.6353778" id="Shape" stroke="#2A4BC2"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

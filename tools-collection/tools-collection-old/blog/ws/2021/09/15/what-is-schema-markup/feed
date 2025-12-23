@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What is Schema Markup? (+6 Easy Types to Use for Your Small Business)	</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/2021/09/15/what-is-schema-markup/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.wordstream.com/blog/ws/2021/09/15/what-is-schema-markup</link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 07 Aug 2025 19:01:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+</channel>
+</rss>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cleo Hage, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/cleo-hage/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 05 Dec 2022 02:49:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Cleo Hage, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Quick Guide to Google Ads App Campaigns</title>
+		<link>https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns#respond</comments>
+		
+		<dc:creator><![CDATA[Cleo Hage]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns-2/</guid>
+
+					<description><![CDATA[<p>Google Ads app campaigns (formerly universal app campaigns) are highly effective ways to promote your mobile apps across the web. Learn more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns">A Quick Guide to Google Ads App Campaigns</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">When the topic of <a href="https://www.wordstream.com/blog/ws/2017/03/20/how-to-use-google-adwords">advertising on Google</a> comes up in conversation, folks are often talking about either lead generation or ecommerce. Rarely do people hear the term “PPC” and think about mobile apps.</p>
+<p>Well, that’s kind of silly. Between Android and iOS, there are millions of mobile apps out there. And if yours is one of them, you need a streamlined way to advertise across <a href="https://www.wordstream.com/blog/ws/2018/10/09/google-ads-networks">Google Ads’ various properties</a> if you want to succeed.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="babe9b3d-d668-47fa-afd7-5a2bf53fd574" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-ad-extensions-apps_1.jpg" alt="universal-app-campaigns-search-ad" width="750" height="399" /></div>
+</article>
+</div>
+<p dir="ltr">That’s where app campaigns—launched in 2015 as <em>universal</em> app campaigns—come in.</p>
+<h2 dir="ltr">The basics of Google Ads app campaigns</h2>
+<p dir="ltr">A Google Ads app campaign is an <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">automated campaign type</a> that enables you to drive both installations (typically shortened to “installs”) and in-app conversion actions. As far as placements go, an app campaign connects you to users across Google Search, Google Display, YouTube, and Google Play.</p>
+<p>Basically, once you’ve submitted a couple lines of ad copy, some visual assets, a campaign objective, a budget, and a bid, Google Ads automatically generates your ads and optimizes them according to network. As time goes on, Google Ads takes note of which copy/visual combinations drive the best results and prioritizes those over others.</p>
+<h3 dir="ltr">App campaign objectives</h3>
+<p dir="ltr">When selecting an objective for your app campaign—which will dictate how Google Ads goes about bidding and audience targeting—you have two options:</p>
+<ul dir="ltr">
+<li><strong>Cost per install (CPI):</strong> This tells Google Ads to drive as many installs as possible given the constraints of your budget. Your bid should be the amount of money you’re willing to pay for each install.</li>
+<li><strong>Cost per action (CPA):</strong> This tells Google Ads to drive as many installs as possible <em>from the people who are most likely to take valuable (revenue-generating) in-app actions</em> given the constraints of your budget. Your bid should be the amount of money you’re willing to pay for each in-app conversion action. If you choose this campaign objective, you first need to set up <a href="https://www.wordstream.com/blog/ws/2014/02/13/tracking-conversions-in-adwords">conversion tracking</a> so Google Ads can collect data on the users who complete particular in-app conversion actions.</li>
+</ul>
+<h3 dir="ltr">Conversion tracking for app campaigns</h3>
+<p dir="ltr">In order to drive as many installs as possible from valuable prospects, Google Ads needs to keep tabs on the conversion data of your <em>current</em> users who drive revenue. By tracking a diverse variety of actions that users take within your app, you create a rich database that Google Ads can use to optimize according to your in-app action goals.</p>
+<p><a href="https://firebase.google.com/docs/analytics/" target="_blank" rel="noopener">Google Analytics for Firebase</a> is a free tool that measures app usage data and tracks user engagement. You get unlimited reporting on hundreds of in-app conversion events and the ability to segment your user base according to behavior—and subsequently target them.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="f6c9703c-f900-4728-b3bc-35ba4182cb24" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe src="https://www.youtube.com/embed/8iZpH7O6zXo?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p dir="ltr"><strong>Conversion window</strong> refers to the amount of time it takes a prospect to take a conversion action after clicking your ad. If a desired conversion action takes place within the conversion window, it can be attributed to whatever ad the prospect clicked. You can set any conversion window you want, but the default is 30 days.</p>
+<h2 dir="ltr">How to create a Google Ads app campaign</h2>
+<p>To get started with your first Google Ads app campaign, sign into Google Ads and select <strong>Campaigns</strong> from the left-hand menu. Click the <strong>+</strong> button to create a new campaign and select the <strong>App</strong> option on the far right side.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f2e72f9c-bb04-4503-b303-b112e7fb3eb7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/universal-app-campaigns-new-campaign-final.jpg" alt="universal-app-campaigns" width="800" height="209" /></div>
+</article>
+</div>
+<p dir="ltr">Then, select your app’s platform (Android or iOS), enter your app’s name, and select it from the list that Google Ads generates.</p>
+<p>After you’ve named your app campaign, it’s time to submit <a href="https://www.wordstream.com/blog/ws/2016/03/14/ppc-ad-copywriting">your ad copy</a>. You’ll need four independent lines of text that can be rotated in any order. These lines should be 25 characters or shorter, and at least one of them should be 20 characters or shorter to account for smaller device screen sizes.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d6e8e44f-0a24-49fb-8b17-f28ff958bc4a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/universal-app-campaigns-ad-copy-final.jpg" alt="universal-app-campaigns-ad-copy-fields" width="800" height="465" /></div>
+</article>
+</div>
+<p dir="ltr">Next, it’s time to submit your visual assets. You can upload as many as 20 of these. Remember: Google Ads will test different combinations of these visual assets and ad copy in order to find your top performers. There are three types of visual assets you can submit:</p>
+<ul dir="ltr">
+<li>Images (.jpg, .png, gif)</li>
+<li>YouTube videos</li>
+<li><a href="https://www.wordstream.com/blog/ws/2018/06/26/html5-ads">HTML5</a></li>
+</ul>
+<p dir="ltr">If you don’t have any assets to upload, Google Ads will pull some from within your app and use them for your ads.</p>
+<p>Once that’s taken care of, tell Google Ads which languages and geographic regions you want to target. Obviously, mobile apps aren’t limited by geography in the same way physical businesses are. Nonetheless, it’s unlikely that your app will appeal to users from all kinds of different cultures. Make sure to put some thought into your location constraints.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1f9ab1bc-de1b-4cd2-a906-7e084d3062fe" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/universal-app-campaigns-locations.jpg" alt="universal-app-campaigns-location-targeting" width="710" height="464" /></div>
+</article>
+</div>
+<p dir="ltr">Finally, optimize your campaign for either <strong>Install Volume</strong> or <strong>In-App Actions</strong> (see the previous section of this post for more details on the distinction). Note that the latter campaign goal is only available to advertisers who’ve set up in-app conversion tracking.</p>
+<p>Set your target bid, click <strong>Save &amp; Continue</strong>, and you’re ready to go!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns">A Quick Guide to Google Ads App Campaigns</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/09/18/universal-app-campaigns/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Rolling Out New Structured Snippets Ad Extension</title>
+		<link>https://www.wordstream.com/blog/ws/2015/09/03/structured-snippets</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/09/03/structured-snippets#respond</comments>
+		
+		<dc:creator><![CDATA[Cleo Hage]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[Extensions]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/09/02/structured-snippets/</guid>
+
+					<description><![CDATA[<p>Google is rolling out a brand new ad extension, Structured Snippets. Find out what you need to know about using the new AdWords extension here!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/09/03/structured-snippets">Google Rolling Out New Structured Snippets Ad Extension</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google is once again increasing real estate for advertisers on the SERP: They’ve officially released a new ad extension called <strong>Structured Snippets</strong>, which was recently in Beta and has now started to show up in the Google Ads UI. (Previously, Google had released <a href="https://support.google.com/adwords/answer/6098371?hl=en">Dynamic Structured Snippets</a>, which were automatically added to your ad based on your site&#8217;s content categories, but this version gives users more control since you can choose and edit the text in the extension.) It appears to be a slow roll out, which is typical with these types of releases, so you might not find the new extension available in your account just yet.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="319315c4-6a8f-4f32-a565-67cd0d4f4fde" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-structured-snippets-extension.jpg" alt="google adwords structured snippets" width="600" height="400" /></div>
+</article>
+</div>
+<h2>What Are Structured Snippets?</h2>
+<p>The Structured Snippets extension will show under your ad copy and above any sitelinks, as shown below:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0d7e4a06-9f50-4558-bb24-6b9b7124c816" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-structured-snippets-ad-extension.png" alt="structured snippets" width="535" height="252" /></div>
+</article>
+</div>
+<p>Here’s what you need to know about the new extension:</p>
+<ul>
+<li>These extensions are similar to Callout extensions in the sense that they are not clickable; they just provide a little more information for the searcher.</li>
+<li>There is a limiting factor involved, in that you have to set a “Header” for your extension, chosen from a predetermined list of 12 categories.</li>
+<li>You are then allowed to add up to 10 “Values” that fall under the header, with 4 as the recommended minimum. Each value has a character limit of 25.</li>
+<li>The same policy requirements that apply for sitelinks and callout extensions apply here but with one additional factor. Your values must fall in line with the theme of your header.</li>
+</ul>
+<p>In the finished ad, your predetermined header that you selected will appear followed by a colon and your values. This is why it is important that your values are relevant to your header.</p>
+<p>Here&#8217;s another example, from our client <a href="http://www.namely.com/#features-1">Namely</a>, an HR platform:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9c44f451-7f3e-45d4-b33f-2c28611e868b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-structured-snippets-2.png" alt="structured snippets example" width="525" height="241" /></div>
+</article>
+</div>
+<p>As you can see they&#8217;re using the &#8220;Services&#8221; header to share extra information about what they offer, such as a dedicated account manager and 24/7 support. So this extension can be used to communicate both offerings and benefits.</p>
+<h2>Caveat Emptor: Bias in the Structured Snippet Headers</h2>
+<p>As mentioned above, you’re limited to the below choices when selecting a Header:</p>
+<ul>
+<li>Amenities</li>
+<li>Brands</li>
+<li>Courses</li>
+<li>Degree programs</li>
+<li>Destinations</li>
+<li>Featured hotels</li>
+<li>Insurance coverage</li>
+<li>Neighborhoods</li>
+<li>Service catalog</li>
+<li>Shows</li>
+<li>Styles</li>
+<li>Types</li>
+</ul>
+<p>These headers have a clear bias that favors industries with the highest average costs per click. Take “Insurance coverage” – insurance keywords are among <a href="/articles/most-expensive-keywords">the most expensive in Google Ads</a> (formerly known as Google AdWords) and can run up to $55 for just one click. After that, 4 out of the 12 headers are catered to travel and accommodations, something that we see Google pushing in other ad formats such as Google Flights, the equivalent of shopping ads but for flights, and feeds that will dynamically serve Hotel &amp; Rental listings.</p>
+<p>After this, 2 out of the 12 Headers go to the Education market – no surprise there since education is another of the top 10 most expensive paid search industries. There is also a big win here for the retail folks, who can give more detail on the brands they sell or the different styles of their products without having to take away precious ad text space.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0b23d910-5a9e-4c03-89a1-c5e65b57e1fa" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/structured-snippet-header-options.png" alt="what are structured snippets" width="472" height="397" /></div>
+</article>
+</div>
+<p>Unfortunately, if none of these headers apply to your industry, you won’t get much use out of this ad extension.</p>
+<h2>Advantages and Disadvantages of Structured Snippets</h2>
+<p>As with any ad extension, the advantages of Structured Snippets are an increase in your ad space and a bump in Quality Score by boosting your ad relevancy and <a href="/blog/ws/2015/08/12/ad-ctr">click-through rate</a>. This extension gives you a great opportunity to highlight important aspects of your product or service that you either couldn’t fit in your ad text or just want to emphasize again. Due to the theme system of the extension you are able to give your audience a further glance into what it is that you are providing to create even more enticement. On top of all these wins, this ad extension will still show alongside any other extensions that you have live on your ad. But wait, there’s more! The Structured Snippets can also be added on an account level.</p>
+<p>The only downside to this extension is its limitations due to the headers. You might not be able to showcase what you were hoping to if you can’t get it to theme up with the header. If you can’t find a header that lines up with your product or service at all, you either have to get really creative or cross your fingers that Google releases more header options in the future.</p>
+<h2>Should You Add Structured Snippets to Your Account?</h2>
+<p>Of course! Always add as many ad extensions as you can. This will only help boost your real estate on the page as well as your ad rank and Quality Score. Remember when <a href="/blog/ws/2013/10/24/adwords-ad-rank-algorithm">Google changed their Ad Rank formula</a> to include ad extensions in 2013? This is because the expected benefit in terms of CTR for ads with extensions is so clear. The only reason you wouldn’t add this extension is if you couldn’t find a header that falls in line with your account.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2007f86d-bff5-40bc-b795-d11381b5762c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/add-all-the-extensions.jpg" alt="structured snippets extension" width="500" height="355" /></div>
+</article>
+</div>
+<p>Learn more about how to use the new structured snippets extension in <a href="https://support.google.com/adwords/answer/6280012?hl=en">Google’s support documentation</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/09/03/structured-snippets">Google Rolling Out New Structured Snippets Ad Extension</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/09/03/structured-snippets/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

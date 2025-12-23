@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nils Rooijmans, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/nils-rooijmans/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 23 Nov 2021 16:37:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Nils Rooijmans, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3 Ways to Finally Get Started with Google Ads Scripts</title>
+		<link>https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples#respond</comments>
+		
+		<dc:creator><![CDATA[Nils Rooijmans]]></dc:creator>
+		<pubDate>Thu, 27 Sep 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples/</guid>
+
+					<description><![CDATA[<p>Most people don’t realize that it’s easy to get started with Google Ads Scripts, even if you aren’t a techie whose greatest love is writing code. In this post, we walk you through three different ways you can use Google Ads Scripts, point out the pros and cons you need to know for each option, and even suggest some example scripts to get you started.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples">3 Ways to Finally Get Started with Google Ads Scripts</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When people hear the term “Google Ads Scripts,” their eyes start to glaze over.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="146ce220-ced2-4310-b2f6-ed17fd4cb0dd" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-sleepy-eyes.gif" alt="Google scripts examples sleepy eyes" width="400" height="260" /></div>
+</article>
+</div>
+<p>I get it – it sounds like something that’s both tedious and technical. But here’s what many people don’t realize: it’s insanely easy to get started with Google Ads Scripts, even if you aren’t a techie whose greatest love is writing code. And it’s very, <a href="https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts">very worthwhile</a>.</p>
+<p>Intrigued? Keep reading. I’ll walk you through three different ways you can use Google Ads Scripts. I’ll also point out the pros and cons you need to know for each option and suggest some example scripts to get you started.</p>
+<p>Let’s jump right in!</p>
+<h2>Option 1: Copy and paste publicly available Google Ads Scripts</h2>
+<p>Aka: the good ole Ctrl+C, Ctrl+V.</p>
+<p>For those with zero tech knowledge, you can simply search for the scripts that have been written by other people to get started. There are a ton of Google Ads Scripts out there, and most of these scripts can be easily modified to serve your needs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="aa0b213a-1b74-460a-acb5-5ba926aee6c6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-expanded-text.jpg" alt="Google scripts example for expanded text" width="847" height="672" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Google has a library of <a href="https://developers.google.com/adwords/scripts/docs/examples/" target="_blank" rel="noopener">code snippets</a> to get you started. </em></p>
+<p>Of course, free and easy often has some drawbacks. Before you start copy-pasting in your account, it’s important to consider the pros and cons of this approach.</p>
+<p><strong>The Pros:</strong></p>
+<ul>
+<li>This gets you started quickly; just follow <a href="http://nilsrooijmans.com/how-to-set-up-and-run-adwords-scripts/" target="_blank" rel="noopener">these steps</a> and you’ll have your first script running in less than 5 minutes.</li>
+<li>Many scripts out there are completely FREE.</li>
+<li>Many scripts come with use cases detailing exactly how you can benefit from them.</li>
+</ul>
+<p><strong>The Cons:</strong></p>
+<ul>
+<li>There’s a finite number of scripts out there. Once you get a feel for what is possible and realize that Google Ads Scripts can do almost ANYTHING, and you’ll probably come up with use cases that aren’t covered by the free ones.</li>
+<li>Many of the scripts that are freely available aren’t maintained or supported. This means the code can be out of date and/or dysfunctional.</li>
+<li>If you simply copy-paste scripts and execute them without understanding their code, you don’t actually know what’s going on. Do you really trust the script to do only the things you want it to and nothing more?</li>
+</ul>
+<p>If you don’t have much time to spare, and you need to get up and running quickly, then using publicly available scripts may be the best option for you.</p>
+<h3>Here’s a quick walkthrough:</h3>
+<p><strong><span lang="EN">Step 1</span></strong><span lang="EN">: Figure out what script you want to use. (Check out this <a href="https://www.koozai.com/blog/pay-per-click-ppc/google-adwords/100-google-adwords-scripts-using/" target="_blank" rel="noopener">bumper list of publicly available scripts</a>, and start with <a href="http://nilsrooijmans.com/the-best-adwords-script-i-have-ever-used/" target="_blank" rel="noopener">the best Google Ads script I’ve ever used</a>.)</span></p>
+<p><strong><span lang="EN">Step 2</span></strong><span lang="EN">: Sign into your Google Ads account, click on the tool icon (it looks like a wrench!), and select Bulk Actions &gt; Scripts.</span></p>
+<p><strong><span lang="EN">Step 3</span></strong><span lang="EN">:<span lang="EN"> Click on the “+” icon and copy and paste the code into the editor area.</span></span></p>
+<p><strong><span lang="EN">Step 4</span></strong><span lang="EN">: When you’re prompted to do so, click “Authorize.” Click “Preview” to make sure all’s good, then save the script. From here, you’ll either click on “Run Script Now” or create a schedule for the script to run. Choose the script you’ve created from “Bulk Operations,” then click on “Create Schedule.” Once you set the frequency, hit “Save,” and you’re done.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a5c92dbf-a9fc-433e-b1b4-bdae3e02b552" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-frequency.jpg" alt="Google scripts examples setting frequency" width="412" height="290" /></div>
+</article>
+</div>
+<p><span lang="EN">That’s all there is to it! </span></p>
+<h2>Option 2: Write your own Google Ads Script</h2>
+<p>If you’re not satisfied with copying and pasting the existing scripts out there, then another option is to write your own scripts.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fe082c09-7bec-4dfb-b46b-3bed8ea3ba34" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-blank-page.jpg" alt="Google scripts examples blank page" width="1884" height="851" /></div>
+</article>
+</div>
+<p>Yes, you’ll start with this blank page and have to navigate a bit of a learning curve, but <a href="https://nilsrooijmans.com/adwords-scripts-will-improve-your-career/" target="_blank" rel="noopener">having this new skill will definitely do great things for your career</a>.</p>
+<p><strong>The Pros</strong>:</p>
+<ul>
+<li>You can customize your script to your needs. Need to automate <a href="https://www.wordstream.com/blog/ws/2018/01/05/adwords-bidding-scripts">repetitive PPC tasks</a>? Want to streamline certain processes that are unique to your business? You can do all of that <em>and </em>more with your very own script.</li>
+<li>You’re in full control; the script does exactly what you want it to do.</li>
+<li>It’s free (well, sort of). The only expense is your time.</li>
+</ul>
+<p><strong>The Cons</strong>:</p>
+<ul>
+<li>You need programming skills and JavaScript knowledge. If you’re an absolute beginner, it might take you some time to take your proficiency to a level where you can write scripts yourself.</li>
+<li>Once you’re done with your script, you need to spend time maintaining its code, which can be tedious.</li>
+</ul>
+<p>Ready to tackle the challenge of writing your first script?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1ca8588a-1614-4a5c-a5ed-0dafc368a0a8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-tackle.gif" alt="Google scripts examples tackle" width="400" height="213" /></div>
+</article>
+</div>
+<p><span lang="EN">Good news – there are loads of free resources that you can use to learn how to do just that. </span></p>
+<p><span lang="EN">Here are some that you’ll want to check out:</span></p>
+<ul>
+<li><span lang="EN">This great <a href="http://www.freeadwordsscripts.com/2014/02/beginners-guide-to-javascript-you.html" target="_blank" rel="noopener">first script example</a></span></li>
+<li><span lang="EN">Google’s <a href="https://developers.google.com/adwords/scripts/" target="_blank" rel="noopener">Google Ads Scripts documentation and resources</a></span></li>
+<li><span lang="EN">Google’s <a href="https://developers.google.com/adwords/scripts/" target="_blank" rel="noopener">Google Ads Scripts community</a> (ask for help here if you’re stuck!)</span></li>
+<li><span lang="EN">Google’s <a href="https://events.withgoogle.com/google-ads-scripts-workshops-2018/" target="_blank" rel="noopener">Google Ads Scripts workshops</a> (held at various locations across the world)</span></li>
+</ul>
+<p><span lang="EN">If you’re completely new to code, I also recommend that you take a beginner JavaScript course <em>before </em>you attempt to write your first Google Ads Script.</span></p>
+<p><span lang="EN">Trust me on this – understanding the basics of how JavaScript works will make your Google Ads Script journey <em>so </em>much easier.</span></p>
+<p><span lang="EN">The good news? You can learn JavaScript online, without spending a single cent. Here’s a great <a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank" rel="noopener">introductory course</a> by Codecademy. </span></p>
+<h2>Option 3: Have someone else write a Google Ads Script for you</h2>
+<p><span lang="EN">Maybe you’ve <em>tried </em>learning to code, but coding languages sound like Greek to you.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3132f11a-aa33-4f88-a097-3b1b6c34863e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-greek.jpg" alt="Google scripts examples Greek vase" width="639" height="480" /></div>
+</article>
+</div>
+<p>Maybe you’ve got a gazillion <a href="https://www.wordstream.com/blog/ws/2018/02/05/marketing-statistics">things on your to do list</a>, and you’re already pulling all-nighters to work on your business.</p>
+<p>Obviously, writing your own script isn’t always going to be the best move. Don’t sweat it – you can always hire a freelancer to do this for you.</p>
+<p><strong>The Pros</strong>:</p>
+<ul>
+<li>Again, your script can be customized to your specific needs. The sky’s the limit here!</li>
+<li>You don’t need to code anything by yourself.</li>
+</ul>
+<p><strong>The Cons:</strong></p>
+<ul>
+<li>You need to find a good programmer who understands Google Ads well.</li>
+<li>You need to be able to communicate with your programmer.</li>
+<li>You’ll have to set aside a budget (the amount will depend on the complexity of the script you want to create).</li>
+</ul>
+<p>Keen to outsource the writing of your Google Ads Script?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="316526d5-a09a-4d29-b237-630737e6773f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-scripts-examples-freelancer.jpg" alt="Google scripts examples freelancer" width="1430" height="858" /></div>
+</article>
+</div>
+<p>Upwork has some great <a href="https://www.upwork.com/hire/google-adwords-api-freelancers/" target="_blank" rel="noopener">freelance JavaScript developers who specialize in Google Ads</a>. Get in touch with a few candidates, discuss the scope of the project and expected deadlines with them, and then go ahead and hire your ideal freelancer.</p>
+<p>There you have it…three ways you can get started with your first Google Ads Script.</p>
+<h2>One last piece of advice:</h2>
+<p>Your first Google Ads Script <em>doesn’t </em>have to be 100% perfect to get started. Think of it as a work-in-progress: you can always revise it further down the road or even rework the scripts to better suit your needs.  As long as it doesn’t break anything, it’s already a big WIN.</p>
+<p>Stop procrastinating and commit to creating your first Google Ads Script today!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples">3 Ways to Finally Get Started with Google Ads Scripts</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Reasons You Should Be Using Scripts in Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts#respond</comments>
+		
+		<dc:creator><![CDATA[Nils Rooijmans]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts/</guid>
+
+					<description><![CDATA[<p>Using scripts in Google Ads is a great way to automate tasks and free up your time to tackle other projects. And scripts aren't as difficult as you think. Check out these seven ways that AdWords scripts will make your life better.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts">7 Reasons You Should Be Using Scripts in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Here’s a question I hear all the time:</p>
+<p><em>I’ve been using AdWords/Google Ads for some time now, and my campaigns are doing great. But how can I get more bang for my buck, and have more fun managing my campaigns?</em></p>
+<p>Well, young Padawan, the answer lies in one word: scripts!</p>
+<p>For the uninitiated, scripts are basically pieces of code that help you automate certain Google advertising processes and run more profitable campaigns, while spending less time on tedious tasks.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="36ee6c5c-eab1-420c-85b8-d5234317bb08" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts_0.png" alt="code-google-ads-scripts" width="546" height="504" /></div>
+</article>
+</div>
+<p>Now, I know that a lot of folks already sort of have an idea what AdWords or Google Ads scripts do. But, they often write these off without even giving them a shot.</p>
+<p>Well, I’m here to tell you that scripts aren’t rocket science. They don’t take a ton of effort to master. In fact, even if you don’t have any technical expertise or coding knowledge, I’d say that the learning curve is pretty manageable.</p>
+<p>Plus, I’m not suggesting you write these scripts from scratch – there are tons of free scripts that are available online (just Google them).</p>
+<p>Once you’ve found a script that you want to try out, all you need to do is copy and paste them into your ad account. <a href="http://nilsrooijmans.com/how-to-set-up-and-run-adwords-scripts/">I</a><a href="http://nilsrooijmans.com/how-to-set-up-and-run-adwords-scripts/">nstalling and running AdWords Scripts</a> is so easy, I’ve seen complete newbies do it!</p>
+<p>But just in case you’re still not convinced – here are the top seven benefits that scripts can bring to your Google account and your work life&#8230;</p>
+<h2>1. Scripts automate tedious, mind-numbing PPC tasks</h2>
+<p>Think: <a href="https://searchengineland.com/brainlabs-script-find-best-worst-search-queries-using-n-grams-228379">sifting through search term reports</a>, filtering endless Excel sheets, clicking around like a ferret on speed trying to find the ad groups that don’t have price extensions, applying guesstimated bid modifiers all over the place, <a href="https://remkovanderzwaag.nl/blog/updated-adwords-script-auto-add-negative-keywords-dsa">adding your keywords as negatives in your DSA campaigns</a>, negating keywords like crazy in your Shopping campaigns, Fixing Capitalization Mistakes in Your Ad Copy, etc. Oh, and did I mention the everlasting <a href="https://www.evernote.com/pub/narch2002002/adwordsscripts#st=p&amp;n=5c812f1e-9107-4970-b1ac-b53580feb2ec">checks of monthly budget spent</a>?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c0df963f-4398-4e13-962e-aeb729b2d5af" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts-upset-jim.jpg" alt="jim-halpert-google-ads-scripts" width="960" height="528" /></div>
+</article>
+</div>
+<p>Don’t get me wrong – I’m not saying that these tasks are unimportant. They <em>do </em>contribute to the health of your PPC campaigns, but they’re mindless and repetitive.</p>
+<p>So instead of wasting your time doing these humdrum routines, automate them with a script!</p>
+<h2>2. Increase your account performance</h2>
+<p>In an ideal world, you’d be able to watch your AdWords campaigns like a hawk.</p>
+<p>Whenever you spot a keyword that’s cheap and has a higher conversion rate, you’d immediately increase your bid.</p>
+<p>When you spot <a href="https://www.wordstream.com/blog/ws/2017/06/27/most-expensive-keywords">a keyword that’s expensive</a> and not converting well, you’ll get rid of that sucker so that you don’t waste your ad budget.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="71ac4e50-634d-43c8-9cdf-14c4a5a4b091" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts-most-expensive-keywords.jpg" alt="most-expensive-keywords-google-ads-scripts" width="1200" height="628" /></div>
+</article>
+</div>
+<p>But this is real life that we’re talking about. You probably have a gazillion things on your to-do list, and you can’t afford to check in on your campaigns and optimize them every single day.</p>
+<p>Luckily, scripts are here to save the day!</p>
+<p>Using scripts, you can <a href="https://www.evernote.com/pub/narch2002002/adwordsscripts#st=p&amp;n=dc96ccb4-a134-487b-a52e-50c57ef29450">automatically increase bids on cheap high conversion keywords</a>, stop ads from showing for irrelevant search terms, <a href="https://developers.google.com/adwords/scripts/docs/solutions/keyword-performance">discover bad performing keywords</a>, and even <a href="https://developers.google.com/adwords/scripts/docs/solutions/weather-based-campaign-management">trigger ads that mention the rain when weather conditions are wet</a>. The list goes on and on.</p>
+<h2>3. Make fewer mistakes</h2>
+<p>People make mistakes all the time. I do, you do – unfortunately, that can’t be helped.</p>
+<p>What you <em>can </em>do, though, is to catch those mistakes and fix them before they snowball. How? By using Google Ads scripts!</p>
+<p>With scripts, you can <a href="http://nilsrooijmans.com/daily-budget-overdelivery-alerts-script/">send less (paid!) traffic to broken links</a>, receive an alert if someone on your team mistakenly paused whole campaigns, monitor Google’s latest AI “improvements,” automatically pause your campaigns if <a href="https://www.wordstream.com/blog/ws/2017/10/05/adwords-daily-budget-changes">your monthly budget runs out</a>, and even receive an SMS if billing issues occur.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5714ae1e-1a6b-4856-93f1-8d8d0d694253" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts-changes.png" alt="budget-changes-google-ads-scripts" width="505" height="132" /></div>
+</article>
+</div>
+<p>At the end of the day, these scripts keep your campaigns running like a lean, mean, well-oiled machine.</p>
+<h2>4. Make adjustments while you sleep</h2>
+<p>This is productivity <em>at its peak.</em></p>
+<p>Products ran out of stock? Website is down? You don’t need to stumble out of bed, bleary-eyed, to pause your ad groups or campaigns.</p>
+<p>Your <a href="http://www.freeadwordsscripts.com/2013/10/disable-ads-and-keywords-for-out-of.html">AdWords Script to disable these ads</a> will immediately make the changes for you!</p>
+<h2>5. Spend less time on reporting and analyzing, more on strategy</h2>
+<p>Look, we all know that we should be spending less time on operational tasks, and more time on high-level, strategic decisions.</p>
+<p>But here’s the problem: to make these decisions, you need to have access to data.</p>
+<p>Cleaning, reporting, and analyzing all that data? It takes a <em>ton </em>of time.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b26619ff-3e9b-42ff-ad2e-f9c2623a2c5f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts-data.jpg" alt="data-trends-google-ads-scripts" width="1436" height="1044" /></div>
+</article>
+</div>
+<p>Again, scripts are a game-changer in this arena.</p>
+<p><a href="https://searchengineland.com/see-hour-hour-trends-adwords-heat-maps-235578">This script</a>, for example, automatically creates heat maps from your data so you can answer questions like “How does my performance vary by hour of the week?” in a split second.</p>
+<h2><strong><span lang="EN">6. Impress your colleagues and the boss</span></strong></h2>
+<p>The next two benefits are for all the marketing executives out there who are struggling to climb the corporate ladder.</p>
+<p>AdWords Scripts allow you to share <a href="http://nilsrooijmans.com/daily-budget-overdelivery-alerts-script/">broken links</a> and newly discovered keywords with your colleagues, help your non-techie PPC teammates build campaigns and ad groups from a Google Sheet, and even show your boss <a href="https://searchengineland.com/keeping-eye-three-adwords-competitors-268888">graphs on how you beat the competition</a> over time.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="49bc53eb-4e0b-4911-969b-df7d5c282171" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-scripts-build-ad-groups.png" alt="ad-groups-google-ads-scripts" width="690" height="590" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Manually building ad groups in Google Ads is tough.</em></p>
+<p>In time, everyone in your company will see you as <em>the </em>expert on all things PPC related. And this helps you to&#8230;</p>
+<h2>7. Improve your career opportunities</h2>
+<p>Being able to use Google Ads Scripts is a great skill set to have.</p>
+<p>This helps you stand out from the rest of your colleagues, and it makes you immensely valuable to your employers.</p>
+<p>If you want to get a raise, move to a different firm, or even start freelancing as a PPC specialist, being well-versed in scripts will also <a href="http://nilsrooijmans.com/adwords-scripts-will-improve-your-career/">open up these doors for you</a>.</p>
+<p>Trust me on this: once you level up your PPC skills with scripts, the sky’s the limit!</p>
+<p>So now you know why you should get started with AdWords scripts. Scripts are like an extra pair of hands. Once you get a feel for what is possible (and that’s a LOT!), you’ll wonder how you ever lived without them.</p>
+<p>Ready for the next step? Check out my article on <a href="https://www.wordstream.com/blog/ws/2018/09/27/google-scripts-examples">how to finally get started with Google Ads Scripts</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts">7 Reasons You Should Be Using Scripts in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/08/15/google-ads-scripts/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

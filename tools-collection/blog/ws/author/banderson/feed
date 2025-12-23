@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brie Anderson, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/banderson/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 16 Feb 2024 01:32:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Brie Anderson, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UA vs GA4: A Complete Tour of Google Analytics 4</title>
+		<link>https://www.wordstream.com/blog/ws/2022/06/23/google-analytics-4-vs-universal-analytics</link>
+		
+		<dc:creator><![CDATA[Brie Anderson]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 16:03:14 +0000</pubDate>
+				<category><![CDATA[Reporting & Analysis]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Websites & Online Presence]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=62226</guid>
+
+					<description><![CDATA[<p>GA4 is not to be feared. Learn the pros, cons, new features, and tips!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/06/23/google-analytics-4-vs-universal-analytics">UA vs GA4: A Complete Tour of Google Analytics 4</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The time has come. Google Analytics 4 (GA4) is here and ready for action. Actually, GA4 is here and ready for takeover.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-meme.jpeg" alt="ga4 meme" width="399" height="370" class="aligncenter wp-image-62258" /></p>
+<p>As you may have heard, the current Google Analytics platform, Universal Analytics (UA), will no longer collect data as of July 2023. At that time, your only option will be to make the switch to GA4.</p>
+<p>But why? Why is this necessary? And how will it affect your business? Read on to learn the history of Google Analytics, the differences between UA and GA4, plus plenty of pros and cons, tips and tricks to help you navigate this change.</p>
+<h3>Table of contents</h3>
+<ul>
+<li><a href="#history">History of Google Analytics</a></li>
+<li><a href="#privacy">UA vs GA4: Privacy &amp; data collection</a></li>
+<li><a href="#reports">UA vs GA4: Reports</a></li>
+<li><a href="#features">New features in GA4</a></li>
+</ul>
+<p><a id="history"></a></p>
+<h2>History of Google Analytics</h2>
+<p>For the SEO nerds out there, here&#8217;s the timeline from Urchin in 2005 to Google Analytics 4 in 2020.</p>
+<p><strong>2005:</strong> Google acquires a platform called <a href="https://tracking-garden.com/knowledge/web-analytics/systems/urchin/" target="_blank" rel="noopener">Urchin</a>. Urchin was used to “beautify” log files and make them more palatable at a time when log files were our only source of data.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-urchin.png" alt="screenshot of old google analytics - urchin" width="600" height="347" class="aligncenter size-full wp-image-62250" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-urchin.png 600w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-urchin-480x278.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://tracking-garden.com/knowledge/web-analytics/systems/urchin/" target="_blank" rel="noopener">Image source</a></em></p>
+<p><strong>2006:</strong> Google redesigns the platform and brands it as Google Analytics.</p>
+<p><strong>2012:</strong> <a href="https://analytics.googleblog.com/2012/10/universal-analytics.html" target="_blank" rel="noopener">Google Analytics is discontinued and replaced by Universal Analytics</a>. Universal Analytics allows users to track cross-platform, device-specific tracking, and create custom dimensions and metrics. This was necessary as apps and mobile browsing were becoming increasingly popular and brands needed a way to optimize for it.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-universal-analytics-announcement.png" alt="universal analytics announcement" width="720" height="268" class="aligncenter size-full wp-image-62251" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-universal-analytics-announcement.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/google-universal-analytics-announcement-480x179.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p><strong>2018:</strong> Europe rolls out data privacy and security laws referred to as <a href="https://gdpr.eu/what-is-gdpr/" target="_blank" rel="noopener">General Data Protection Regulation (GDPR)</a>. These laws protect citizens of Europe not only in Europe but also on any site they browse regardless of the country the site is hosted in.</p>
+<p><em>(I would like to make a disclaimer that I am not a privacy expert and that all businesses should consult a privacy expert and lawyer to ensure they are in compliance with applicable laws)</em></p>
+<p>The data standards set in GDPR actually lead to <a href="https://techcrunch.com/2022/06/08/google-analytics-gdpr-breach-cnil/" target="_blank" rel="noopener">Google Analytics being deemed illegal</a> in France and put millions of businesses at risk of being fined for using the platform. Not long after, New Zealand, Japan, Brazil, California, and many other countries/territories roll out their own privacy laws. With more legislation passing, Google has to make a change in how it collects, stores, and moves its data.</p>
+<p><strong>October 2020: </strong>Due to the increasing concerns around privacy and security, Google rolls out Google Analytics 4. GA4 has many baked-in features and tools to allow more control over your data. Google has gone as far as to say that <a href="https://blog.google/products/marketingplatform/analytics/new_google_analytics/" target="_blank" rel="noopener">GA4 was built for privacy</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-announcement.png" alt="screenshot of google analytics 4 announcement headline" width="720" height="230" class="aligncenter size-full wp-image-62252" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-announcement.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-announcement-480x153.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p><strong>March 2022: </strong>Google <a href="https://blog.google/products/marketingplatform/analytics/prepare-for-future-with-google-analytics-4/" target="_blank" rel="noopener">announces</a> that as of July 1, 2023 Universal Analytics will stop collecting new data—meaning you will have to switch to GA4.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p>NOTE: Even though this switch isn&#8217;t happening for another year, it&#8217;s important to note that your data will not migrate over from UA to GA4. So if you want to have a year&#8217;s worth of historical data, your best bet is to switch to GA4 now</p></div></div>
+<p>To learn more, check <a href="https://www.wordstream.com/blog/ws/2022/03/23/universal-analytics-going-away">our blog post covering the announcement</a>.</p>
+<p>So what are the differences between GA4 and UA? There are many. Let&#8217;s look at them piece-by-piece.<br />
+<a id="privacy"></a></p>
+<h2>UA vs GA4: Data collection &amp; privacy</h2>
+<p>First and foremost, here are the differences between UA and GA4 with regard to user data and data sources.</p>
+<h3>Privacy</h3>
+<ul>
+<li><strong>No IP addresses.</strong> The most notable change in <a href="https://support.google.com/analytics/answer/2763052?hl=en&amp;ref_topic=2919631" target="_blank" rel="noopener">GA4 is that IP addresses are no longer collected or stored</a>. In Universal Analytics, you were able to see IP addresses unless you physically went in and anonymized them. This is the first of many changes made to protect user data.</li>
+<li><strong>Easier </strong><a href="https://support.google.com/analytics/answer/9940393?hl=en&amp;ref_topic=2919631" target="_blank" rel="noopener"><strong>data deletion</strong></a> which allows admins to delete data at the request of any user(s).</li>
+<li><a href="https://support.google.com/analytics/answer/7667196?hl=en&amp;ref_topic=2919631" target="_blank" rel="noopener"><strong>Data retention options</strong></a> allow you to choose how long GA4 can store user-specific data. By default, the time period is two months, however, you extend it to 14 months if desired. (It should be noted that this doesn’t mean you will only have access to data for 14 months, it just means you lose <strong>user-specific</strong> data after 14 months.)</li>
+<li><strong>Options to turn off location-specific data </strong>and ad personalization data by country.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-granular-location.png" alt="ga4 granular location setting" width="720" height="409" class="aligncenter size-full wp-image-62253" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-granular-location.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-granular-location-480x273.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>Data Streams for the new omnichannel landscape</h3>
+<p>The data collection differences aren’t only useful for data privacy and security reasons, but they’re also helpful for better understanding the full user journey.</p>
+<p>Universal was rolled out in 2012. At this time <strong><a href="https://www.pewresearch.org/internet/fact-sheet/mobile/" target="_blank" rel="noopener">45%</a> of people had smartphones</strong>, there were <strong><a href="https://www.businessofapps.com/data/app-stores/" target="_blank" rel="noopener">540,000 apps </a>in the App Store</strong>, and there was <strong><a href="https://www2.census.gov/retail/releases/historical/ecomm/12q4.pdf" target="_blank" rel="noopener">$225.5 billion </a>spent on e-commerce</strong>. We were also still teaching a traditional marketing funnel of awareness, interest, desire, and action. This funnel focused solely on the acquisition of new customers and didn’t really address <a href="https://www.wordstream.com/blog/ws/2022/03/09/customer-retention-strategies">retention</a> at all.</p>
+<p>In comparison, at the beginning of 2021, <strong>85% of people had smartphones</strong>, there were <strong>4.5 million apps in the App Store</strong> and <strong><a href="https://www.digitalcommerce360.com/article/us-ecommerce-sales/" target="_blank" rel="noopener">$578.50 billion </a>was spent on e-commerce</strong> in 2019. Oh, and there are very few “mobile websites” left as Google had already rolled out <a href="https://www.wordstream.com/blog/ws/2021/04/15/mobile-first-indexing">mobile-first indexing</a>.</p>
+<p>With all of these changes, we saw the introduction of the <a href="https://www.hubspot.com/flywheel" target="_blank" rel="noopener">marketing flywheel</a>. This flywheel puts more emphasis on retention and turning customers into promoters (more on this in our <a href="https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing">post on growth marketing</a>).</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/funnel-vs-flywheel.png" alt="funnel vs flywheel" width="716" height="477" class="aligncenter wp-image-62249" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/funnel-vs-flywheel.png 716w, https://www.wordstream.com/wp-content/uploads/2022/06/funnel-vs-flywheel-480x320.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 716px, 100vw" /></p>
+<p style="text-align: center;"><a href="https://www.growth-rocket.com/blog/funnel-vs-flywheel-which-model-is-right-for-your-business/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>One of the first ways GA4 addresses the new user journey is through the use of<a href="https://support.google.com/analytics/answer/9304153?hl=en" target="_blank" rel="noopener"> Data Streams</a>.</p>
+<p>Data Streams are the source that gathers information and sends it to your Google Analytics property. In GA4, <strong>you can have multiple data streams per property</strong>. This means if you have two websites, or if you have a website and an app, you can see how your users interact with your properties all in one place.<br />
+<a id="reports"></a></p>
+<h2>UA vs GA4: Data &amp; reports</h2>
+<p>When you compare the information available in Universal Analytics and Google Analytics 4, not too much has really changed. It may look like GA4 has more information on users, but UA has the same information, it’s just tucked under the “Audience” tab.</p>
+<p>The biggest difference here is in language around “engagement” and “monetization” as well as the addition of “retention.”</p>
+<ul>
+<li>Engagement has replaced behavior, but covers many of the same things with added reports on conversions (previously known as “goals”).</li>
+<li>Monetization, on the other hand, is a new beast that we will tackle later on in this article.</li>
+</ul>
+<p>Now, like we touched on earlier, there has been an increase in interest to <strong>keep</strong> customers and turn them into advocates over the last 10 years. Google has put retention reports blatantly in the Life Cycle report to reflect its importance. Though this section of GA4 is currently sparse, I can imagine we will see updates in the coming years.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-tabs.png" alt="ga4 vs universal analytics menus" width="600" height="599" class="aligncenter size-full wp-image-62247" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-tabs.png 600w, https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-tabs-480x479.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<h3>Users vs traffic</h3>
+<p>As you may know, a user is a person that comes to your site. If they come through their phone one time and their computer three times, they are still the same user. Traffic, on the other hand, refers to sessions.</p>
+<p>In GA4, user acquisition and traffic acquisition has been split into two different reports.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-aquisition.png" alt="ua vs ga4 acquisition tabs" width="600" height="328" class="aligncenter size-full wp-image-62255" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-aquisition.png 600w, https://www.wordstream.com/wp-content/uploads/2022/06/ua-vs-ga4-aquisition-480x262.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p><strong>This has resulted in separate acquisition dimensions for both users and sessions, so be sure to be aware of which one you select when creating reports.</strong></p>
+<h3>Behavior vs engagement metrics</h3>
+<p>In Universal Analytics, behavior metrics were included in almost every report. These metrics included bounce rate, pages/session, and average session duration.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/universal-analytics-behavior-metrics.png" alt="universal analytics behavior metrics" width="720" height="351" class="aligncenter size-full wp-image-62239" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/universal-analytics-behavior-metrics.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/universal-analytics-behavior-metrics-480x234.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Google Analytics 4 replaced these metrics with new “engagement” metrics. These new metrics are based on “engaged sessions,” which Google has so kindly defined as: Sessions that lasted longer than 10 seconds, or had a conversion event, or had two or more screen or pageviews.</p>
+<p>The metrics include:</p>
+<ul>
+<li>Engaged sessions</li>
+<li>Engagement rate</li>
+<li>Engaged sessions per user</li>
+<li>Average engagement time</li>
+</ul>
+<p>That’s right… No more bounce rate!</p>
+<p>&gt;&gt; July update: <a href="https://searchengineland.com/google-analytics-4-adds-conversion-bounce-rate-and-utm-parameters-386419" target="_blank" rel="noopener">Bounce rate has been added back in</a>, along with conversion rate and UTM parameters!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-engagement-panel.png" alt="ga4 engagement panel" width="307" height="388" class="aligncenter wp-image-62238" /></p>
+<h3>Monetization</h3>
+<p>Monetization reports have taken over the former home of “conversions” reports. The big thing to note here is that monetization in 2021 looked far different than monetization in 2012.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-engagement-panel.png" alt="ga4 engagement panel" width="367" height="463" class="aligncenter wp-image-62238" /></p>
+<p>Traditionally speaking, monetization was limited to ecommerce in one way or another. Today though, monetization could include ad revenue, in-app sales, or ecommerce.<strong> In GA4, monetization reports take all streams of revenue into account.</strong></p>
+<p>On the downside, if you don’t track anything of direct monetary value on your site, this entire section of GA4 is useless.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-monetization.png" alt="google analytics 4 monetization view" width="720" height="339" class="aligncenter size-full wp-image-62240" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-monetization.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-monetization-480x226.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>This is a bummer because in UA, conversion reports weren’t solely focused on money. They also considered the non-monetary conversions and the attribution behind those conversions.</p>
+<h3>Session-based data vs event-based data</h3>
+<p>Universal Analytics collected session-based data. Each session was made up of different “hit types.” These hit types included page hits, ecommerce hits, social interaction hits, etc. In contrast, GA4 is an event-based platform, meaning everything is considered an event. First visit? Event. Pageview? Event. The list goes on.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-vs-universal-analytics-hit-types.png" alt="ga4 vs universal analytics hit types" width="583" height="477" class="aligncenter wp-image-62248" /></p>
+<p style="text-align: center;"><a href="https://support.google.com/analytics/answer/9964640?hl=en#zippy=%2Cin-this-article" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>Now this change is great because it gives us more information on how people use our properties. The downside is that it also means that the two datasets (UA &amp; GA4) don’t play well together…</p>
+<p><strong>And that’s why you start from zero when switching from UA to GA4.</strong></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/03/universal-analytics-versus-google-analytics-4.png" alt="universal analytics vs google analytics 4 - data models" width="720" height="519" class="aligncenter size-full wp-image-59189" srcset="https://www.wordstream.com/wp-content/uploads/2022/03/universal-analytics-versus-google-analytics-4.png 720w, https://www.wordstream.com/wp-content/uploads/2022/03/universal-analytics-versus-google-analytics-4-480x346.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>Event &amp; conversion creation</h3>
+<p>Not only are events treated differently, but they are also passed through to GA differently as well. As you can see in the diagram above, gone are the days of action, category, and label. In GA4, we have parameters, enhanced measurement, and in-platform event creation.</p>
+<p>When you set up your Data Stream you will have the option to turn on enhanced measurement which collects page views, downloads, outbound clicks, video engagement, and scrolls. <strong>If you keep enhanced measurement on, all of these events will be collected automatically! No extra work necessary.</strong></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-enhanced-measurement.png" alt="ga4 enhanced measurement" width="720" height="369" class="aligncenter size-full wp-image-62242" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-enhanced-measurement.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/ga4-enhanced-measurement-480x246.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>If there is an event that you’d like collected but doesn’t fall under enhanced measurement, you may be able to set it up right in the GA4 platform using conditions and parameters. Parameters are pieces of information sent alongside events that provide context on the user or user action.</p>
+<p>Once you’re collecting an event, you have the option to mark it as a conversion by simply clicking a toggle button—<strong>no more “Goal” setup!</strong></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-event-creation.png" alt="google analytics 4 new event creation" width="720" height="353" class="aligncenter size-full wp-image-62241" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-event-creation.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/ga4-event-creation-480x235.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /><br />
+<a id="features"></a></p>
+<h2>Increased functionality in Google Analytics 4</h2>
+<p>During your initial setup, you will want to ensure you tackle all of the options available to you in the “property” settings. We’ve already covered many of them, but I highly recommend checking them all out.</p>
+<h3>Product Links</h3>
+<p>One of the last options under property settings is Product Linking. It’s likely you’ve used Product Linking with Google products before, maybe through Search Console or Google Ads. Basically all it does is link data between different Google Products, there is no real difference with Product Linking in GA4 other than the platforms available.</p>
+<p><strong>In GA4 you now have the option to link to Google Merchant Center, Google Optimize, and BigQuery natively and for free!</strong></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-link-integrations.png" alt="google analytics 4 link integrations" width="400" height="573" class="aligncenter size-full wp-image-62243" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-link-integrations.png 400w, https://www.wordstream.com/wp-content/uploads/2022/06/ga4-link-integrations-209x300.png 209w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<h3>Available customizations</h3>
+<p>Perhaps the most underrated feature of Google Analytics 4 is the ability to customize the platform to meet your needs.</p>
+<p><strong>Not only are you able to create custom reports in GA4 like you could in UA, but you can actually add those reports right to your navigation.</strong> That’s right, no more having to navigate to a separate part of the platform! In GA4, if you want to create a new report, you can put it anywhere in the Reports navigation.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-page-screens-report.png" alt="ga4 page screens report" width="720" height="478" class="aligncenter size-full wp-image-62244" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/ga4-page-screens-report.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/ga4-page-screens-report-480x319.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Other customization options include changing the name of collections and topics in the secondary navigation using the <a href="https://support.google.com/analytics/answer/10460557?hl=en" target="_blank" rel="noopener">Library</a>(not to be confused with the <a href="https://www.wordstream.com/blog/google-ads-library">Google Ads library</a>).</p>
+<h3>Explorations</h3>
+<p>You can create dashboard-esque reports using the Explorations in GA4. I like to say that Exporations is the love-child of custom dashboards from Universal and user interface of Data Studio.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-explore-tab.png" alt="ga4 explore tab" width="720" height="309" class="aligncenter size-full wp-image-62245" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-explore-tab.png 720w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-explore-tab-480x206.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>Machine learning capabilities</h3>
+<p>We started to see the roll out of machine learning tools with Universal Analytics. Insights were rolled out in 2018 to help people find trends and outliers in their data. As time went on, the machine learning got more sophisticated and allowed users to “ask questions” in the search bar as a way of quickly finding information.</p>
+<p>When GA4 was released, insights were baked into the platform more than ever. Not only are insights available and highlighted throughout the platform, but new <a href="https://www.wordstream.com/blog/google-analytics-ai">machine learning tools</a> were also introduced!</p>
+<h3>Anomaly detection</h3>
+<p>Anomaly detection, which was previously reserved for insights, is now available on most line charts. This tool is extremely helpful for identifying statistical differences in your data at a glance. In order for anomaly detection to work, Google must have sufficient historical data to build predictive models. Which leads to the next new tool—predictive analytics!</p>
+<h3>Predictive analytics</h3>
+<p>Previously, if someone wanted to access predictive analytics, they would have to pay for another tool or create them themselves. But, no more! GA4 introduced predictive analytics for LTV, churn probability, likely churners, likely top spenders, likely purchases, purchase probability and more.</p>
+<h3>Attribution</h3>
+<p>For the last few years, Google has been working on its tools. With the rollout of Universal Analytics, it rolled out its multi-channel funnel tools. Then, in December of 2019, it rolled out its Attribution Project tool which allowed users to access a group of tools surrounding attribution and conversion.</p>
+<p>Now in GA4, we see a section in the primary navigation called “Advertising,” Upon clicking into this section of GA4, we will find all of the same tools from the Attribution Projects. This includes conversion paths, time to conversion, the model comparison tool, and touchpoints to conversion.</p>
+<p>But the tools aren’t the only attributions you’ll see in GA4. In the last few months, Google announced that all users were getting access to Google’s <a href="https://www.wordstream.com/blog/ws/2021/09/30/data-driven-attribution-default-update">data-driven attribution model</a>. Once that rolled out, all GA4 properties were changed to using that model as their default conversion model, whereas UA still relies on last-click.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-attribution-panel.png" alt="google analytics 4 conversion panel" width="300" height="439" class="aligncenter size-full wp-image-62246" srcset="https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-attribution-panel.png 300w, https://www.wordstream.com/wp-content/uploads/2022/06/google-analytics-4-attribution-panel-205x300.png 205w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<h2>Lots to learn</h2>
+<p>Here is the thing: We are just starting to really understand GA4. And much like every other Google product, it changes every day! There is still so much to learn and discover in GA4, and this process will look different for everyone.</p>
+<p>I highly encourage you to get out there and play around in GA4. It may be uncomfortable, but I assure you it’s much more like UA than you think it is, just a bit more sophisticated. And who could be mad about that?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/06/23/google-analytics-4-vs-universal-analytics">UA vs GA4: A Complete Tour of Google Analytics 4</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

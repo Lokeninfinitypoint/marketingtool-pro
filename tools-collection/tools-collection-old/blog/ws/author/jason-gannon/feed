@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jason Gannon, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jason-gannon/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 05 Dec 2022 03:03:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jason Gannon, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Complete Guide to Enhanced Sitelinks</title>
+		<link>https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide#respond</comments>
+		
+		<dc:creator><![CDATA[Jason Gannon]]></dc:creator>
+		<pubDate>Wed, 31 Jul 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[Extensions]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide/</guid>
+
+					<description><![CDATA[<p>Should you upgrade to Enhanced Sitelinks? Our complete guide to Enhanced Sitelinks includes tips, case studies and more to help you with the upgrade.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide">Complete Guide to Enhanced Sitelinks</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As advertisers in the pay-per-click industry, we’ve recently been exposed to a lot of new changes. Everyone is aware by now that Google began <a href="/blog/ws/2013/07/17/enhanced-campaigns-upgrade-date">transitioning all accounts over to Enhanced Campaigns</a> last week, whether you wanted to or not. Despite the overall mixed feelings on Enhanced Campaigns so far, there are a few features we can all be excited about.</p>
+<p>One of the features that excited me the most was the changes to <a href="http://marketing.wordstream.com/AdExtensionGuide.html">Ad Extensions</a>, specifically <a href="/blog/ws/2013/06/18/google-sitelinks">Sitelinks</a>. This post looks to explore some of the recent changes to Sitelinks, and how you can better understand your sitelinks’ performance.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="194a0e4a-af20-4f69-bc0e-9b53750bf91d" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-enhanced-sitelinks-1.jpg" alt="Enhanced Sitelinks Guide" width="650" height="390" /></div>
+</article>
+</div>
+<p>I performed a couple of case studies to identify if the sitelinks themselves were responsible for improving performance, or if simply taking up more SERP space is all that matters.</p>
+<p>Topics covered:</p>
+<ul>
+<li><a href="#recap">Recap of changes to Sitelinks</a></li>
+<li><a href="#performance">Understanding my Sitelinks’ performance</a></li>
+<li><a href="#troubleshooting">Why aren’t my Sitelinks showing?</a></li>
+<li><a href="#case-studies">2 Case Studies on Upgraded Sitelinks</a></li>
+<li><a href="#takeaways">Summary and My Humble Opinion</a></li>
+</ul>
+<h2><strong>Recap of Changes to Sitelinks</strong></h2>
+<p><a id="recap"></a>First Google released a new feature that allows sitelinks to be set at the Ad Group level. Now instead of setting generic sitelinks at the campaign level to be applied to all ad groups within that campaign, we have the ability to set them at the ad group level.</p>
+<p><strong>Here are some findings on Ad Group Level Sitelinks:</strong></p>
+<ul>
+<li>Each Ad Group can have up to 20 sitelinks</li>
+<li>The Link Text has been shortened from 35 to 25 characters</li>
+<li>Sitelinks can be scheduled to show for specific hours or days of the week</li>
+<li>You can create mobile-specific sitelinks</li>
+</ul>
+<p>The second big change to sitelinks came when Google rolled out Enhanced Sitelinks. This new feature gives advertiser much more control and flexibility over their sitelinks, andddd it essentially allows you to create 5 ads in 1!</p>
+<p><strong>Here are some findings on Enhanced Sitelinks:</strong></p>
+<ul>
+<li>Sitelinks can show in groupings of 2 and 4</li>
+<li>Description Lines 1 and 2 can be 35 characters each</li>
+<li>Sitelinks cannot violate the duplicate sitelink URL policy</li>
+<li>Sitelink text cannot be the same as other sitelinks in the same ad group/campaign or the main ad that’s showing</li>
+<li>Sitelinks cannot use dynamic keyword insertion</li>
+</ul>
+<h2><strong>Understanding Sitelink Performance</strong></h2>
+<p><a id="performance"></a>With all the new changes to sitelinks, I was very optimistic that Google was going to give us user-friendly data on individual sitelink performance. The data is out there, you just have to do a little more digging to find it.</p>
+<p>If you’re like me, the aggregated data Google gives us under the ad extensions tab for sitelinks isn’t really what you’re looking for. Below is an example of what you might see under the ad extensions tab (click the image to enlarge).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e0c71292-3220-4e69-8a77-9cdb002fe9fa" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-sitelinks-aggregate-data-1.jpg" alt="Enhanced Sitelinks Data" width="1222" height="351" /></div>
+</article>
+</div>
+<p>You’ll probably notice your sitelinks have identical metrics. That’s because these metrics reflect each time an ad was served while 2 to 4 of these sitelinks were shown too.</p>
+<p>This information is useful to see how your ad performs while those sitelinks are showing, but it won’t tell you if the sitelinks have any actual contribution.</p>
+<h3>First Method for Measuring Sitelink Performance</h3>
+<ol>
+<li>Select the campaign you want to see sitelink performance for and navigate to the Ad Extension tab.</li>
+<li>Click the “Segment” dropdown and select “Click Type.”
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a7de4684-3a15-48f9-8e90-f3cb0b2b4dfd" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelinks-segment-click-type-1.jpg" alt="AdWords Sitelinks" width="407" height="348" /></div>
+</article>
+</div>
+<p>3. This allows you to see what people actually clicked on when your ad was being served with this particular sitelink across your campaign.</li>
+</ol>
+<h3>Understanding the Metrics</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4462e463-f4c8-4662-bb30-43304540c218" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/understanding-sitelinks-metrics-1.jpg" alt="Understanding Sitelinks" width="455" height="426" /></div>
+</article>
+</div>
+<ul>
+<li>The first line is an overview of the performance of all the ads being served while these extensions were shown too.</li>
+<li>The “Headline” row shows you the number of clicks your ad headline received.</li>
+<li>The “Sitelink” row actually measures this individual sitelink’s performance.</li>
+</ul>
+<p><strong>Tip: </strong>When we segement by “click type” it’s very apparent the headline is receiving the most attention. This means you want to make sure the main ad being served is pointing to the most important destination URL.</p>
+<h3>Second Method for Measuring Sitelink Performance</h3>
+<ol>
+<li>Select the Campaign, Ad Group or even Ad you want see the individual sitelink performance for and navigate to the Ad Extensions tab.</li>
+<li>Click the “Segment” dropdown and select “This Extension vs. Other”</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bebda616-90df-446d-8af8-a0f44b04141f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelinks-this-extension-vs-other-1.jpg" alt="Sitelink Performance" width="785" height="372" /></div>
+</article>
+</div>
+<h3>Understanding the Metrics</h3>
+<ul>
+<li>This view allows you to see the number of clicks the sitelink accrued vs. “other” parts of the ad.</li>
+<li>The “Other” represents the portions of the ad that weren’t that particular sitelink. Other could represent:
+<ul>
+<li>The headline of the main ad being served</li>
+<li>Other sitelinks being shown</li>
+<li>Other extensions such as: Location, Click to Call, etc.</li>
+</ul>
+</li>
+</ul>
+<h2><strong>Troubleshooting: Why Aren’t My Sitelinks Showing?</strong></h2>
+<p><a id="troubleshooting"></a>There’s nothing more frustrating than spending all this time on making new sitelinks and then doing a search to see them and coming up empty.</p>
+<p>The factors according to Google on displaying sitelinks are:</p>
+<ol>
+<li>Your Keyword’s Quality Score</li>
+<li><a href="/blog/ws/2013/02/22/click-through-rate-by-ad-position">The position of your ad</a> on the search result page</li>
+<li>The landing page of your ads and sitelinks</li>
+<li>Other ad extensions that are enabled in your campaign</li>
+<li>The <a href="/blog/ws/2012/12/10/three-types-of-search-queries">search term</a> used by a potential customer</li>
+<li>The relevance of other ads on the page</li>
+</ol>
+<p>Best practices according to Google to increase chances of being displayed:</p>
+<ol>
+<li>Your sitelink URLs within a campaign or ad group must each direct to a unique landing page, with unique content</li>
+<li>Your ad should have one of the positions directly above or below Google search results</li>
+<li>Your keyword should have a very high Quality Score</li>
+<li>Your sitelink URLs must direct customers to pages that are relevant to your product or service</li>
+<li>Add the maximum amount of sitelinks you can to your campaign. Your campaign needs a minimum of two approved sitelinks with different landing pages in order for sitelinks to appear with your ads</li>
+<li>Keep sitelinks text short</li>
+</ol>
+<h2><strong>Case Study 1: Enhanced Sitelinks for Lead Gen</strong></h2>
+<p><a id="case-studies"></a>For a case study on Enhanced Sitelinks in a lead generation account, I decide to look at a travel agency in the UK. In this case study I wanted to see how the sitelinks impacted overall campaign performance and if the sitelinks actually contributed to performance.</p>
+<p>The sitelinks across the entire account followed a similar pattern of directing traffic to various pages on the site which had destination specific information on accommodations, hotels, special offers, and holiday offers. Each campaign had a similar set of sitelinks just substituting in the countries and destination URLs in for their respective campaigns.</p>
+<p>I let the enhanced sitelinks run for 3 weeks, and then I measured the performance against the previous 3 weeks. Here are my findings:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9785a417-270e-4e54-86aa-fc8fe0360f95" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-sitelink-lead-gen-campaign-performance-1.png" alt="Sitelink Performance" width="506" height="245" /></div>
+</article>
+</div>
+<p>The CTR results were what I expected but not to the extent I was hoping for. One would assume with the addition of description lines 1 and 2 to sitelinks and just simply the overall ad size/coverage on SERP would lead to higher CTRs.</p>
+<p>The .04% increase in CTR was not as significant as I expected. More disappointing was the effect on conversion rate. To my surprise the conversion rate of the campaign actually dropped.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cab411b4-a8a3-40e7-8c81-7698a9b4e50f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/lead-gen-case-study-sitelinks-1.png" alt="Enhanced Sitelinks Case Study" width="512" height="297" /></div>
+</article>
+</div>
+<p>This second graph takes a look at the percentage of contribution from individual sitelinks to overall performance. There was no significant change in sitelink attributed clicks; <strong>however those clicks were much more likely to generate a conversion</strong>.</p>
+<p>The results from this test varied from campaign to campaign, but the biggest win came from the Maldives campaign. This campaign didn’t generate any conversions before I upgraded the sitelinks, and afterwards it generated 5 in a couple weeks.</p>
+<h2><strong>Case Study 2: Enhanced Sitelinks for E-Commerce</strong></h2>
+<p>In this case study I wanted to see how upgraded sitelinks would impact the performance of an e-commerce account. For this case study I chose an online shoe retailer in Canada. Similar to the other case studies I was interested in measuring overall CTR, Conversion Rate (1-per click) and Conversion Rate (many-per-click). After I compared the overall performance, the second aspect I looked at was the actual individual sitelinks’ contribution to performance.</p>
+<p>Here’s what I found:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2a9d2235-526b-4c9e-8030-6ea892494e3c" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-sitelink-conversion-rates-1.png" alt="Sitelink Conversion Rates" width="643" height="336" /></div>
+</article>
+</div>
+<p>These results were much more in line with what I was expecting and hoping for. The upgraded sitelinks improved performance across the entire account. These improvements might not look too substantial at first, but if you step back and think about it, <strong>improving conversion rate just the slightest amount is going to have a significant impact</strong>. If all else stays equal and you can improve conversion rate by .5%, that could almost double your business!</p>
+<p>The next graph takes a look at the individual sitelinks’ contribution to total clicks and conversions.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2288a481-e5b0-466c-b799-f53076d06376" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-sitelinks-contribution-analysis-1.png" alt="Enhanced Sitelinks Performance Analysis" width="638" height="456" /></div>
+</article>
+</div>
+<p>This graph shows that the individual upgraded sitelinks had significantly more impact on clicks and conversions. These results show that if you want to get the most out of your sitelinks you should definitely upgrade them. Here’s a look at one of the most successful campaigns since I upgraded the sitelinks (again, click to enlarge so you can see the stats):</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2a4580c8-ec89-4da3-85cf-8e0fd389f5ce" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-sitelinks-e-commerce-case-study-1.jpg" alt="Enhanced Campaigns Case Study" width="1645" height="543" /></div>
+</article>
+</div>
+<h2><strong>Enhanced Sitelinks: Key Takeaways</strong></h2>
+<p><a id="takeaways"></a>I would recommend upgrading your sitelinks. The process of adding sitelinks can be time-consuming since there’s no support in AdWords Editor yet, but here’s why you want to:</p>
+<ul>
+<li>Whether the sitelinks are actually contributing to overall performance isn’t the only dimension at play here. <strong>Just the fact the your ad takes up more space than your potential competition could be a win in itself</strong>.</li>
+<li>According to Google, on average <strong>ads with sitelinks have a 30% higher click-through rate</strong> compared to standalone ads.</li>
+<li>If you have an ad that is performing well in one campaign or ad group, <strong>you can replicate that ad as a sitelink in other campaigns/ad groups</strong> as long as it point to a different URL.</li>
+<li>Individual sitelinks are an opportunity to <strong>test out different language and calls to action</strong> in your ad copy.</li>
+<li>If you know you’re going to be in one of the top positions or are paying achieve a top position I would definitely recommend upgrading your sitelinks to take advantage of all that “real estate” you’re paying for.</li>
+<li>Now that you know how to measure sitelink contribution, you can continually make strategic decisions on <strong>what sitelinks to display for generating the highest return</strong>.</li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide">Complete Guide to Enhanced Sitelinks</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/07/31/enhanced-sitelinks-guide/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

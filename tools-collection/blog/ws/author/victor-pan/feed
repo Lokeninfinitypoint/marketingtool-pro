@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Victor Pan, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/victor-pan/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 16 Aug 2024 12:21:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Victor Pan, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Get Phrase &#038; Broad Match Traffic Data Back from Google Keyword Planner</title>
+		<link>https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner#respond</comments>
+		
+		<dc:creator><![CDATA[Victor Pan]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner/</guid>
+
+					<description><![CDATA[<p>Learn how to hack Google Keyword Planner to get your broad match and phrase match traffic volume estimate data back.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner">How to Get Phrase &amp; Broad Match Traffic Data Back from Google Keyword Planner</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the biggest complaints about <a href="/blog/ws/2013/04/25/keyword-planner">Google’s Keyword Planner</a> – the new keyword tool that replaced the old Google Keyword Tool and Traffic Estimator – is the lack of broad and phrase match traffic support. Contrary to what’s being suggested when you use the Google Keyword Planner, Google will only return exact match traffic.</p>
+<p>Today I’ll be showing a few tricks to help you get your phrase and broad match traffic data back.</p>
+<h2>What Google Says About Search Volume in Keyword Planner</h2>
+<p>Google suggests entering your keywords with standard <a href="/blog/ws/2011/03/31/adwords-matching-options-guide">match type</a> formatting to get volume based on keyword match type:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cd8b2bd2-5f94-4558-9971-5d492cc9333b" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-keyword-planner-broken-1.png" alt="Google Keyword Planner Broken" width="540" height="261" /></div>
+</article>
+</div>
+<p>Naturally, an SEO would try all three formats for the same keyword, to compare the traffic volume data:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="377a446e-4222-46c1-a892-a89ce45d944e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-planner-match-types-1.png" alt="Keyword Planner Match Type Data" width="539" height="263" /></div>
+</article>
+</div>
+<p>Here are the results you see on Google Keyword Planner for the three match type variations:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e20a94e3-78bb-4529-9741-15e61109074d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-keyword-planner-bug-1.png" alt="Keyword Planner Issues" width="778" height="261" /></div>
+</article>
+</div>
+<p>And this is what you actually get when you download the data:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="019e470c-9c28-4c37-84b7-bab88aeccdb2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/download-google-keyword-planner-1.png" alt="Keyword Planner Export" width="836" height="130" /></div>
+</article>
+</div>
+<h2>What just happened?</h2>
+<p>Google is treating all three searches as exact match searches. Furthermore, they’ve added the three exact match traffic numbers together, as AdWords is creating an ad group traffic estimate. Yes, an ad group of 3 exact match keywords. This is probably a bug.</p>
+<p>Here’s Google’s definition of Avg. monthly searches (emphasis mine):</p>
+<p>“The average number of times people have searched for this exact keyword based on the targeting settings that you’ve selected.</p>
+<p>About the number: We calculate the 12-month average of the number of searches for this exact keyword based on the location and Search Network targeting settings that you’ve selected (not including your language setting) ….</p>
+<p>Note: If we don’t have enough data, you’ll see a dash (-). Average monthly searches don’t take into account the keyword match types you’ve selected. <strong>To see the traffic for different match types, look at your click and cost estimates on the review page</strong>.”</p>
+<p>TL;DR: Google takes your broad and phrase match keyword searches and changes them to exact match. As you can see the “average monthly searches” for the three match types are the same number, and Google recommends that you run an AdWords estimate to find out traffic for different match types.</p>
+<h2>3 Ways to Estimate Broad Match and Phrase Match Keyword Volume</h2>
+<p>Fortunately, exact match is the foundation match type to phrase match and broad match, so it’s possible to reconstruct both. Here are three ways to do it. When looking at preliminary keyword opportunities and trends, I prefer method #1.</p>
+<h3>Method #1: Estimating Match Type Traffic by AdWords Impressions Traffic Estimate</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b2935c7a-cf5c-420f-8cfd-04220c6e4f62" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-traffic-estimator-1.png" alt="traffic estimator" width="624" height="276" /></div>
+</article>
+</div>
+<p>Let’s imagine you’re Google. An advertiser comes to you and tells you that they’ll give you $1 million dollars per click on their ad for a given keyword. That advertiser has an unlimited <a href="/blog/ws/2013/08/29/ppc-budget-guide">PPC budget</a>. Where would you put the ad if you were in Google’s shoes?</p>
+<p>You would always put that ad on the first page of SERPs for their given keyword – and that’s exactly how we’re using the Keyword Planner to extrapolate phrase or broad match traffic. AdWords’ daily estimate of maximum impressions is the closest thing to an organic search on your keyword.</p>
+<p>In the example above, “google keyword planner” on phrase match would have an estimate traffic volume of 102.86*365/12 = 3,129 searches a month.</p>
+<p>Disclaimer: A search query happens before an ad impression, but it’s possible for a single query to have multiple impressions of the same ad. Your results will also vary depending on which day you run your test, since many AdWords statistics change on a daily basis.</p>
+<h3>Method #2: Look at the Impressions &amp; Impression Share Report</h3>
+<p>For those who share the sentiment that Google’s keyword tool was <a href="http://moz.com/community/q/how-accurate-is-the-google-s-keyword-tool-regarding-monthly-searches">never accurate to begin with</a>, you’re free to test method #1 with an actual AdWords ad of the keyword you’re doing research on. To make this work, you’ll want to make sure your daily budget is set high enough, ad scheduling is turned off, and <a href="/blog/ws/2013/08/05/geotargeting-with-bid-modifiers">location targeting</a> is consistent with your keyword research purpose. After a day or month of data collection, depending on how accurate you want your estimates to be, you’ll be able to extrapolate keyword search volume with the following formula:</p>
+<p>(Impressions/<a href="/blog/ws/2013/10/28/adwords-impression-share">Search Impression Share</a>) / (1 – Search Lost IS (rank))</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c59f52b0-fdda-435d-8cca-0b21d259b561" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-planner-impressions-1.png" alt="Keyword Planner Impressions" width="1135" height="461" /></div>
+</article>
+</div>
+<p>Disclaimer: The image above is just for illustrative purposes and was not an actual test on the keyword “google keyword planner.” Also, it’s expected that this estimate will be inflated compared to actual keyword search volume.</p>
+<h3>Method #3: Keyword Scraping</h3>
+<p>Last (and maybe least), you can reconstruct phrase match with multiple exact match queries. A simple keyword tool like <a href="http://ubersuggest.org/">ubbersuggest</a> or <a href="http://www.scrapebox.com/">ScrapeBox</a> will give you enough keyword variations to dump into the Keyword Planner (or <a href="/blog/ws/2013/09/18/best-keyword-research-tools">other keyword tool of your choice</a>). Be wary of duplicate keywords as Google will double count!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6169861a-2b3f-42ad-a940-c8c26e8fc218" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-keyword-planner-seo-1.png" alt="AdWords Keyword Planner" width="536" height="543" /></div>
+</article>
+</div>
+<p>All that’s left is to get the search volume!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="45a64cba-8771-4edd-bcf1-4c9bb83b5d5e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-keyword-planner-not-working-1.png" alt="Google Keyword Planner" width="781" height="265" /></div>
+</article>
+</div>
+<p>Disclaimer: The margin of error increases greatly using this method as Google will “round” for each keyword you put in. This method seems to result in a higher “phrase match” estimate, but I would argue that the Keyword Planner doesn’t capture the <a href="/blog/ws/2012/11/07/how-to-find-long-tail-keywords">long tail</a>.</p>
+<h2>My Conclusions</h2>
+<p>There’s no perfect keyword tool out there in the market, and neither is there a perfect substitute for Google’s phrase and broad match. For a quick estimate, using AdWords traffic estimates is one of the best free methods out there to estimate keyword traffic. To get really precise about actual keyword traffic, you’ll have to invest in some money and time and dabble in AdWords. To truly assess the categorical value of a keyword, you’ll have to really bust out the keyword tools.</p>
+<p>So get out there and start testing which method works best for you!</p>
+<p><strong>Warning: </strong>As of 10/16/2013 4:50PM EST we noticed that Google updated their search volume estimates for the keyword “google keyword planner” –  your numbers will vary from ours because Google updated its data! Special thanks to <a href="https://twitter.com/LauraLeeSEO">@LauraLeeSEO</a> from WebMD for checking my sanity.</p>
+<p><em><a href="https://plus.google.com/u/0/101244322810511784030/?rel=author">Victor Pan</a> is WordStream&#8217;s resident search samurai. When he&#8217;s not busy gathering and analyzing web data, he&#8217;s legitimately practicing the way of the sword, kendo.</em></p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner">How to Get Phrase &amp; Broad Match Traffic Data Back from Google Keyword Planner</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/10/17/google-keyword-planner/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vanity URL: What It Is &#038; How To Get One</title>
+		<link>https://www.wordstream.com/blog/vanity-url</link>
+					<comments>https://www.wordstream.com/blog/vanity-url#respond</comments>
+		
+		<dc:creator><![CDATA[Victor Pan]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2012 05:00:00 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2012/10/11/vanity-url/</guid>
+
+					<description><![CDATA[<p>A vanity URL is an unique web address that is branded for marketing purposes. Learn all the ins and outs of vanity URLs and how to use them to your advantage in this post.</p>
+<p>The post <a href="https://www.wordstream.com/blog/vanity-url">Vanity URL: What It Is &amp; How To Get One</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div></div>
+<div>Don&#8217;t miss our guide on <a href="https://www.wordstream.com/blog/ws/2021/11/04/how-to-write-a-press-release">how to write a great press release</a>!<img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/vanity-url-definition-misunderstanding.png" alt="Vanity has nothing to do with vanity urls" width="863" height="266" /></div>
+<p class="text-align-center"><em>Vanity URLs have been long misunderstood, for good reason.</em></p>
+<p>When we got our Google+ vanity URL before <a href="http://www.wstream.com/" target="_blank" rel="nofollow noopener">Wordstream Technologies</a>, <a href="http://www.wordstreampublishing.com/WordStreamPublishing/Home.html" target="_blank" rel="nofollow noopener">Wordstream Publishing</a>, and <a href="http://itunes.apple.com/us/app/wordstream/id511148161?mt=8" target="_blank" rel="nofollow noopener">Wordstream the game</a>, it was a moment of celebration. We were about to get an <em>unfair</em> advantage over our competitors with our newly acquired gplus vanity URL.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/vanity-google-url-seo.png" alt="Vanity url triggers Knowledge Graph" width="1032" height="375" /></div>
+<p class="text-align-center"><em>Try searching any brand with a vanity Google URL and you will find that the Google knowledge graph will showcase you over other brands. i.e. Delta Airlines </em></p>
+<h2><a id="what is a vanity url"></a>What is a Vanity URL?</h2>
+<p><strong>Vanity URL Definition</strong>: A vanity URL is an unique web address that is branded for marketing purposes.</p>
+<p>Vanity URLs are a type of custom URL that exists to help users remember and find a specific page of your website. Therefore your vanity URLs should be easy to remember, use, and share.</p>
+<p>There are many benefits to being the first to claim your vanity URL – and just as many setbacks if someone else beats you to it. Many social media websites such as <a href="http://marketing.wordstream.com/WSContentDLDoesFBAdvWork.html?camplink=InContentCTA">Facebook</a>, LinkedIn, Twitter, and most recently, Google Plus offer users and brands the option to customize their gplus profile URLs.</p>
+<p><strong>Pro tip:</strong> Vanity URLs should not be confused with vanity domains, which are domains named after the owner’s name. e.g.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/vanity-domains.png" alt="vanity domains are not the same as vanity urls" width="1036" height="228" /></div>
+<p class="text-align-center"><em>My friend David was beaten to the vanity domain DavidScott.com – which may seem disadvantageous at first, but I think his pentasyllabic name sounds more catchy and memorable.</em></p>
+<h2><a id="why vanity urls are awesome"></a>7 Reasons Why Vanity URLs Are Awesome, Plus Actionable Examples</h2>
+<p>To get your brains rolling as to how you can take online marking offline and into the real world, I’ve highlighted 7 reasons and some creative ways to use vanity URLs. We’ll be using our newly acquired Google plus vanity URL to showcase these vanity url examples.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-vanity-url.png" alt="google plus vanity url comparison" width="868" height="369" /></div>
+<h2>1. Easier to Remember</h2>
+<p>Have you ever recommended a website to someone but <a href="http://lmgtfy.com/" target="_blank" rel="noopener">they were too lazy to Google it</a>? Worse yet, have you ever found something cool on the web but can’t get the right keyword combination to have it show up on search engines? With an easy-to-remember web address, potential website visitors are less likely to give up before they even reach your website. Plus (hah, get it?), it also looks a lot more pleasing to the eye. This is the reason why URL shortening services like bit.ly and tinyurl are so popular.</p>
+<h2>2. Builds More Trust</h2>
+<p>What’s more pleasing to the eye also builds more trust. This is common sense not commonly applied here. Which of these two would I have second thoughts about clicking on?</p>
+<p>Here’s how I see it: there’s irrefutable harmony in our new vanity URL – the call to action matches up with a beautifully honest URL. Without a vanity URL for Google plus, you would create a nasty case of cognitive dissonance to the user. Can I really trust a garbled mess of numbers to lead me to where you say it will? Hyperbole aside, establishing trust on the internet is hard stuff.</p>
+<h2>3. Easier to Share</h2>
+<p>By being obviously shorter, easier to remember, and more trustworthy, our GPlus vanity URL is also engineered to be more sharable than before. Because it’s made up of words instead of random numbers, we can now share it verbally without reading out the numbers – heck, who would ever read out our old Google Plus URL? In most cases, people would resort to search to find it.</p>
+<p><strong>Pro-tip</strong>: Want to keep things shorter and simpler without losing trust? Here are the shortest links you can possibly create on the “big 4” of social media in order of brevity.</p>
+<p>Google Plus: <a href="http://google.com/+wordstream">google.com/+WordStream</a><br />
+Twitter: <a href="http://twitter.com/wordstream">twitter.com/wordstream</a><br />
+Facebook: <a href="http://facebook.com/wordstream">facebook.com/wordstream</a><br />
+LinkedIn: <a href="http://linkedin.com/company/wordstream">linkedin.com/company/wordstream</a></p>
+<h2>4. Easier to Use</h2>
+<p>Now that it’s easy to remember, share, and evokes trust, we’ll actually want to include our Google plus URL when we’re offering options for our fans to follow us.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sharing-vanity-urls.png" alt="Custom Url vs Plain URL" width="1072" height="801" /></div>
+<p class="text-align-center"><em>This is a rendition of what your thank you slides may’ve looked like.</em></p>
+<p>If you’ve seen our webinar thank you pages, you might notice that we’ve never included a method to follow us on Google Plus – simply because it was hard to use. Font sizes or formats have to be changed to accommodate a URL which doesn’t clearly represent what it does. If it’s hard to use internally, it’ll be hard to push out externally to customers. Now that it’s easier to use, we’ll make it available to our growing Google Plus fan base.</p>
+<h2>5. Empowers Online Sharing</h2>
+<p>Isn’t it amazing? Just a small cosmetic change can have a huge impact on your marketing efforts. If you have a strong Google Plus brand presence and active community – or you plan to have one – then it’s smart to build a supporting infrastructure around it. Here are some examples of what you can now do that was previously unfeasible because of one dinky, ugly-looking URL.</p>
+<h3><strong>Corporate Emails</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/email-vanity-url.png" alt="Using custom urls in emails" width="431" height="181" /></div>
+<h3>Press Releases</h3>
+<p>Don&#8217;t miss our guide on <a href="https://www.wordstream.com/blog/ws/2021/11/04/how-to-write-a-press-release">how to write a great press release</a>!</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/press-release-vanity-urls.png" alt="Customized urls for press releases" width="381" height="240" /></div>
+<h3><strong>Online Presentation Slides</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/powerpoint-vanity-url.png" alt="Custom urls to encourage participation" width="747" height="606" /></div>
+<h2>6. Enables Offline Sharing</h2>
+<p>We all know that there are tons of ways people find our website online – and you certainly don’t have to be online to hear about a website. There are plenty of places where you can place your vanity URL on your offline promotional materials to encourage more social activity online. While it’s true that companies are now spending less and less on traditional media ads, you’ll never know for sure if there’s an opportunity lost without testing your ideas out to see how effective they are!</p>
+<p>Don’t be surprised if these traditional Google advertisements also include a “Learn more on our Google+ Page” in the future since <a href="http://www.businessinsider.com/larry-page-just-tied-employee-bonuses-to-the-success-of-the-googles-social-strategy-2011-4">all of Google’s efforts have to be tied to social</a>!</p>
+<h3><strong>Direct Mail</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/direct-mail-vanity-url.png" alt="Using custom urls for direct mail" width="531" height="398" /></div>
+<p>Get a $100 free Google AdWords coupon when you add us on Google.com/+Google!</p>
+<h3><strong>Magazine Ads</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/magazine-ads-vanity-url.png" alt="Using custom urls in magazine ads" width="580" height="327" /></div>
+<p>Learn why at Google.com/+Google</p>
+<h3><strong>Newspaper Ads</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/newspaper-ads-vanity-url.png" alt="Using custom urls in newspaper ads" width="384" height="512" /></div>
+<p>Hangout with a Google Ads expert at Google.com/+Google</p>
+<h3><strong>Brochures</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brochures-vanity-url.png" alt="Using custom urls for brochures" width="507" height="389" /></div>
+<p>Learn the newest updates at Google.com/+Google</p>
+<h3><strong>Flyers</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/flyers-vanity-url.jpg" alt="Using custom urls for flyers" width="650" height="487" /></div>
+<p>Get your FREE advertising dollars via Google.com/+Google</p>
+<h3><strong>Marketing Promotional Materials (AKA SWAG)</strong></h3>
+<p>So an SEO copywriter starts to write about some marketing swag he got in a job fair he recently visited…</p>
+<p><em>Pens, pencils, magnets, stress balls, beer opener, beer cap openers, beer bottle openers, yo-yos, yoyo, T-Shirts, Polo Shirts, sweater, mugs, coffee cup, water bottle, environmentally friendly water bottle, reusable bags, environmentally friendly bags, gym bags, USB’s, key chains, keychains, tattoos, temporary tattoos, stickers….(</em><a href="http://cdn.thenextweb.com/wp-content/blogs.dir/1/files/2011/11/an-seo-expert-walks-into-a-bar3-520x366.png" target="_blank" rel="noopener"><em>Here’s the SEO joke reference if you don’t get the humor</em></a><em> – and dear God I hope WordStream doesn’t start ranking for tattoos.)</em></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/swag-vanity-url.jpg" alt="Using custom urls on promotional materials" width="650" height="487" /></div>
+<p class="text-align-center"><em>Anywhere your brand or website could show up, you could create a call-to-action to get people involved in your social media efforts. Get creative!</em></p>
+<p>Remember, only some of these advertising methods will work for your business – but if you can get your most loyal customers talking, interacting, and sharing your presence online, you’re on the way to building a great customer relationship!</p>
+<h2>7. Enables Verbal Sharing</h2>
+<p>Imagine the following scenario: you’re on national television and the host gives you the opportunity to <a href="/blog/ws/2021/04/29/hold-or-sell-your-small-business">sell your business</a>. Aside from your website, wouldn’t it be sweet if you could capture and engage them through social media?</p>
+<h3><strong>TV News</strong></h3>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/vanity-url-news.png" alt="Vanity urls enables TV sharing" width="550" height="308" /></div>
+<p>“You can learn more about WordStream on our website wordstream.com, find us on facebook dot com slash wordstream, or google dot com slash, plus sign, WordStream” – and if you’re lucky, you’ll have a little display pop-up show on TV. Let’s not leave it to lady luck.</p>
+<h3>Radio</h3>
+<p>There’s no trick here. You would never be able to say www dot plus dot google dot com slash b slash one one zero nine six two zero three seven eight nine six zero four one seven two three six seven four *deep breath* and expect your listeners to remember or write down the address AND visit your website.</p>
+<p>There’s just no way without an awesome vanity URL.</p>
+<h3><strong>Word of Mouth</strong></h3>
+<p>When you’re a brand, you want methods to access your web properties or communities to be as frictionless as possible. The easier it is the more likely people will act on it. Vanity URLs are the start of easier word of mouth sharing, since your customers may choose to visit your brand not through your website, but your presence in social media.</p>
+<h2>8. Bonus Round: Dominate Your Branded SERP With Vanity URL SEO</h2>
+<p>It’s no secret that when users are looking for a brand, Google loves to put Google Plus, LinkedIn, and <a href="http://marketing.wordstream.com/WSContentDLDoesFBAdvWork.html?camplink=InContentCTA">Facebook </a>on the search engine results page. Some SEO’s will even argue that this is in part due to the exact keyword match that you’ve customized in the URL. By having the vanity URL to your brand on multiple web properties, you should be able to dominate your SERP with your own marketing message (and not what Wikipedia has to say about you!).</p>
+<p><strong>Pro-tip:</strong> If you have a verified Google Plus brand page, the <a href="http://blog/ws/2013/02/01/knowledge-graph-conspiracy-confirmed">Google Knowledge Graph will give it preference over Google Maps</a> (if you’re a business) or Wikipedia (if you’re a person).</p>
+<p>Great Scott, vanity URLs are certainly marketing enablers! <em>Just how did WordStream get one for Google Plus?</em> I’m glad you asked.</p>
+<h2><a id="how to get your vanity url"></a>How To Get Your Google Plus Vanity URL</h2>
+<p>In order to be considered for Google’s initial custom URL rollout, you first have to have a <a href="http://support.google.com/plus/bin/request.py?hl=en&amp;contact_type=page_verification&amp;rd=1" target="_blank" rel="noopener">verified</a>, active Google+ page with user activity. I believe WordStream is currently the unofficial Guinness Book of World Records holder for obtaining a Google Plus branded URL with just 1054 plus ones – all challengers to his claim are welcome. There are, however, rumors that the minimal requirement is 100 followers, not plus ones.</p>
+<p>Then, by the chance of counting your calendar days or<strong> nicely asking your Google AdWords account rep if they know a Googler on the vanity URL project that could prioritize your brand</strong>, you’ll see this magical grey bar. Legends say that only the chosen few have the luck to access customized URLs on the fabled Gplus network.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/googleplus-vanity-url.png" alt="Google Plus custom url claim process" width="692" height="306" /></div>
+<p>Oooh, a delightfully bright blue button! When you click on it, wild glittery unicorns will appear and flash across your screen with amnesia dust.</p>
+<p><strong>UPDATE:</strong> As of 10/29/2013, Google+ Vanity URLS are now available to all brand pages as long as they <a href="https://support.google.com/plus/answer/2676340?hl=en&amp;topic=2400106">meet these minimal requirements</a>.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-custom-url.png" alt="Claim your Google Custom URL" width="540" height="350" /></div>
+<p><strong>Pro-tip:</strong> Note here that capitalization does not matter. If a visitor types in google.com/+wOrDsTrEaM (God have mercy on your soul if your visitors type in <a href="http://www.urbandictionary.com/define.php?term=1337">l337 Sp34K</a>) they’ll still reach our branded page.</p>
+<p>We also noted two wacky points about Google+ custom URL’s <a href="http://www.google.com/+/policy/tos-custom-url.html" target="_blank" rel="noopener">terms of service</a> that were a bit fishy:<br />
+1. We reserve the right to reclaim custom URLs or <strong>remove them for any reason, and without notice</strong>.<br />
+2. Custom URLs are free for now, but <strong>we may start charging a fee for them</strong>. However, we will tell you before we start charging and give you the choice to stop participating first. (<em>Emphasis mine</em>)</p>
+<p>These are extremely minor setbacks considering the benefits you’ll be getting, so check that click-wrap agreement and click “Claim URL” unless you would like to <a href="http://support.google.com/plus/bin/answer.py?hl=en-GB&amp;answer=2716471">Request a different one</a>. If you request a different URL, you’ll have to wait for a verification e-mail from Google; otherwise you’ll be directed to do a final confirmation. Remember, Google only allows one custom URL per page.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/custom-url-google.png" alt="Confirm Google custom url" width="540" height="260" /></div>
+<p>With the foresight that this experience could be a blog post, I took the risk for our readers and clicked cancel. The grey bar will still show up on the top of your Google+ page, so rest assured you’re not suckered for not taking Google’s sweet, sweet offer right away.</p>
+<p>After confirming your choice, you’ll be directed to google.com/+YourNewVanityUrl/about</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-custom-url-claimed.png" alt="Congratulations claiming Google+ URL" width="584" height="333" /></div>
+<p><strong>Pro-tip:</strong> For the techy power web users who have a knack for breaking down the components of a URL because you’re an extremely savvy online marketer, you’ll also notice that…</p>
+<p><a href="http://www.google.com/+WordStream/photos">www.google.com/+WordStream/photos</a> takes you to the photo album,<br />
+<a href="http://www.google.com/+WordStream/videos">www.google.com/+WordStream/videos</a> takes you to videos<br />
+<a href="http://www.google.com+wordstream/posts">www.google.com+WordStream/posts</a> takes you to the brand’s Google Plus page wall.</p>
+<p>Those who didn’t notice… well… now you can pretend that you knew this all along!</p>
+<h2><a id="celebration"></a>WordStream’s Obligatory Google Custom URL Celebration</h2>
+<p>Hopefully by now we’ve convinced you how awesome it is to have your own vanity URL.</p>
+<p>On August 13th, Google announced that shorter, customized, and easier to remember Google Plus URLs were going to be rolled out to verified profiles (people) and pages (brands and businesses) on a limited scale for <a href="http://marketingland.com/pre-approved-custom-urls-now-rolling-out-on-google-19586" target="_blank" rel="noopener">those deemed most important</a>. The first adopters were superstars like David Beckham, Hugh Jackman, and Britney Spears and brands like Hugo Boss, Toyota, and Delta Airlines.</p>
+<p>I thought I’d take the opportunity to pat ourselves on our back and remind our “frienemies” (in the same manner iPhone 5 owners do) that we got our vanity URLs earlier than they did*. This also means that they’re in threat of being unable to execute any of the benefits of vanity URLs I’ve just mentioned.</p>
+<p>*fan counts are approximations*</p>
+<h3><strong>Surprising Search Marketing Brand Pages Without Vanity URLs</strong></h3>
+<p><a href="https://plus.google.com/117807232814593418955/posts" target="_blank" rel="noopener">Search Engine Watch</a> – 3,900 Google plus fans<br />
+<a href="https://plus.google.com/112953633004578114474/posts" target="_blank" rel="noopener">Search Engine Journal</a> – 2,500 Google plus fans<br />
+<a href="https://plus.google.com/101475377013754652573/posts" target="_blank" rel="noopener">State of Search</a> – 2,000 Google plus fans<br />
+(It’s no wonder that Search Engine Land, which got their vanity URL, continues to take the lead with 39,603 Google plus fans)</p>
+<h3><strong>SEO Brands With A Significant Google Plus Following Without Vanity URLs</strong></h3>
+<p>HubSpot – 13,000 Google plus fans<br />
+SEO Book – 7,000 Google plus fans<br />
+Distilled – 3,700 Google plus fans<br />
+Point Blank SEO – 3,200 Google plus fans<br />
+Majestic SEO – 2,800 Google plus fans<br />
+(I haven’t seen any PPC Brands really leverage Google Plus – WordStream is one of the first to do so!)</p>
+<h3><strong>SEO’s I Wish Had Their Vanity URLs (Click <a href="http://support.google.com/plus/bin/request.py?hl=en&amp;contact_type=page_verification&amp;rd=1" target="_blank" rel="noopener">here</a> to apply)</strong></h3>
+<p><a href="https://plus.google.com/111294201325870406922/posts" target="_blank" rel="noopener">Rand Fishkin</a> – The CEO of SEOMoz<br />
+<a href="https://plus.google.com/108652640482631482795/posts" target="_blank" rel="noopener">Matt McGee</a> – Editor of Search Engine Land<br />
+<a href="https://plus.google.com/113402335971622689523/posts" target="_blank" rel="noopener">Dana Lookadoo</a> – (Do check out her super awesome presentation on <a href="http://www.seomoz.org/blog/rock-your-seo-with-structured-social-sharing-mozcon-presentation" target="_blank" rel="noopener">Structured Social Sharing</a>)</p>
+<h3><strong>Widely Followed PPC Experts on Google Plus Who We Think Will Get their Vanity URLs Soon</strong></h3>
+<p><a href="https://plus.google.com/118212529999599800263/posts" target="_blank" rel="noopener">Joanna Lord</a><br />
+<a href="https://plus.google.com/114337374493772659703/posts" target="_blank" rel="noopener">Brad Geddes</a><br />
+<a href="https://plus.google.com/112003488454981569114/posts" target="_blank" rel="noopener">John Rampton</a></p>
+<p>Want your name off of WordStream’s list? Shoot me an email or tweet once you’ve received your vanity URL and you’ll receive a mystery prize from WordStream.</p>
+<p>Claiming your vanity URL is just as important as choosing the name for a brand. So what are you waiting for?</p>
+<p><em>This blog post was from <a href="https://plus.google.com/115825372215986294252?rel=author/">Victor Pan</a>, WordStream&#8217;s resident Search Samurai.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/vanity-url">Vanity URL: What It Is &amp; How To Get One</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/vanity-url/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google People Search Engine?! How I Taught Google Search to People Search</title>
+		<link>https://www.wordstream.com/blog/ws/2012/08/01/google-people-search</link>
+					<comments>https://www.wordstream.com/blog/ws/2012/08/01/google-people-search#respond</comments>
+		
+		<dc:creator><![CDATA[Victor Pan]]></dc:creator>
+		<pubDate>Wed, 01 Aug 2012 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2012/08/01/google-people-search/</guid>
+
+					<description><![CDATA[<p>What is Google people search, anyway? Learn all about Google people search in this post, including how you can teach it tricks to help your strategy.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2012/08/01/google-people-search">Google People Search Engine?! How I Taught Google Search to People Search</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9b2e66b8-095b-4884-b02b-e40b0b56304b" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-people-search-free.png" alt="Google People Search Free" width="544" height="442" /></div>
+</article>
+</div>
+<p>I taught Google Search tricks the way you teach them to Furby. Their creepiness awesomeness is on the same level. Create your unique Google Search stalker app today!</p>
+<p>When Google’s Search Plus Your World was first released, people were all worried about the world ending as we knew it. The theory was that world views were about to become narrower as an invisible filter bubble would alter your access to information. What I hope to demonstrate here is that I believe the opposite is true.</p>
+<p><strong>There’s too much information on the web. Better filters can help users get what they want.</strong></p>
+<p>Let me show you how I Furby-trained Google to only more efficiently fetch the information I wanted – specifically, information about people. (Link-builders, PR professionals, and intelligence agents, it’s time to take some notes.) While I treat my personalized search engine as an endearing creation, I understand why it may be creepy to the rest of us.</p>
+<h2>1. <a href="https://www.google.com/intl/en/chrome/browser/">Install the Chrome Browser</a></h2>
+<p>The goal here is to have Google collect as much information about you and your search habits as possible. Therefore, it’s recommended that you create a separate account so that your “normal” search behavior isn’t affected.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0a2752bc-0dd0-444a-8703-72d46b77601f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/personalized-people-search.png" alt="Personalized People Search" width="610" height="528" /></div>
+</article>
+</div>
+<h2>2. Log into your browser</h2>
+<p>Log in so Chrome remembers your bookmarks, history, and settings of all the things you search for.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="755cc928-d723-4342-92c2-1bddcf88b458" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/people-search-engine.png" alt="People Search Engine" width="238" height="433" /></div>
+</article>
+</div>
+<p>Dear Google:</p>
+<p>Please remember what I like to click, what I frequently search for, bookmark, and other patterns that I have when I’m searching whenever I log in. Be sure to log all those CTRs and bounces I make whenever you give me a bad result. Also remember the times where I have to refine a query because you failed to give me a good result.</p>
+<p>Much love,<br />
+A WordStreamer</p>
+<h2>3. Start people-searching</h2>
+<p>I used a lot of Google Search operators and long-tail keyword phrases as I taught my Google Search how to people search. Here’s a sample primer on how to find just about anyone’s email address (the hard way), arranged in order of desperateness. The idea is that by the time you’ve trained Google Search, you won’t ever have to dig so deep or retry multiple times. You’ll save time in the long run.</p>
+<p><strong>Generic Long-tail Searches</strong><br />
+Step 1: First name + middle + last name + company<br />
+Step 2: Refine, add “@companymailclient.com”<br />
+Step 3: Refine even more, add more combinations of email me/contact me/email contact/contact information/contact us</p>
+<p><strong>Leveraging Emails Publicly Dropped on Social Media</strong><br />
+<em>You know you’re desperate when you query…</em></p>
+<p>site:www.thatcompany’sdomain.com + generic long-tail searches<br />
+site:www.facebook.com + generic long-tail searches<br />
+site:www.twitter.com + “@twitterhandle” + step 3<br />
+site:www.linkedin.com + generic long-tail searches<br />
+site:www.slideshare.net + generic long-tail searches + click to the end of a presentation where contact methods are usually listed<br />
+site:www.scribd.com + generic long-tail searches + click to the end of a presentation where contact methods are usually listed<br />
+site:www.zoominfo.com + generic long-tail searches<br />
+site:www.somesocialmediawebsite.com + generic long-tail searches</p>
+<p><strong>Hardcore Exact Email Guestimates</strong><br />
+<em>Level 2 desperateness …</em></p>
+<p>“first.last@companyemailclient.com”<br />
+“f.last@companyemailclient.com”<br />
+“first@companyemailclient.com”<br />
+“last@companyemailclient.com”<br />
+“allsortsofvariations@companyemailclient.com”</p>
+<p>For a more comprehensive guide to my email searching process, check out Ken Lyons’ tried-and-still-true article on <a href="/blog/ws/2009/09/23/find-anyones-personal-email">how to find anyone’s personal email</a>.</p>
+<h2>4. Be patient &amp; keep trying</h2>
+<p>You’ll start seeing differences over time in the results depending on your search mode, personal vs. work vs. incognito. Same query, same computer, same browser, but different login methods = different results.</p>
+<p>Please note that even though Zach Epstein, Executive Editor of Boy Genius Report’s public email can be found on BGR’s Contact Us page, it doesn’t mean he’ll reply to you. Please only send him good quality newsworthy stories like this one on PPC and SEO which was recently featured by The Moz Top Ten <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Personal Account:</strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="906ead4e-31f9-499d-bd03-e35a6ccafc5e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-search.jpg" alt="Google search" width="862" height="517" /></div>
+</article>
+</div>
+<p>Because of my “normal” browsing habits, Google doesn’t realize they pushed the most relevant result down for me.</p>
+<p><strong>People Search Account:</strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4f146e5c-98f3-497d-b193-9942c830eb28" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/personalized-search.jpg" alt="Personalized Search" width="888" height="404" /></div>
+</article>
+</div>
+<p>The account I have optimized for people search brings me one click away from the email address I’m looking for.</p>
+<p><strong>Incognito Login:</strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b9145cf5-37c7-4e33-a096-666a4e24d541" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/incognito-search.jpg" alt="Incognito Search" width="891" height="606" /></div>
+</article>
+</div>
+<p>Incognito mode demonstrates two things:</p>
+<p>1. All personalized results are variants of the incognito results as it forms a base of relevant results.<br />
+2. Most of the time your people-search-optimized SERP results will not vary too much from the incognito result.</p>
+<p>This is especially true if it’s a new group of keyword ideas you’ve never really dug into. It took me 5 tries to find this one good example where there were differences in the top 3 SERPS.</p>
+<p>Want to see something <em>very</em> different? Why don’t you compare your SERPS with mine when you search for “Pete Cashmore contact email @mashable.com”?</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d30baba0-2be2-49f6-bf0c-b7c9f0df2db7" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/find-personal-email.jpg" alt="Find Personal Email" width="893" height="759" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p><em>You may or may not find those potential emails show up on the 2nd or 3rd page of SERPS. They’re on the first page for me.</em></p>
+<p>&nbsp;</p>
+<h2>Final Note: Why Don’t You Just Use A People Search Engine?</h2>
+<p>Well, you could. If you’re going to do that, then feel free to try all 15 of these people search websites to do your search, and tell me which ones are actually worth my time. Alternatively, you could also use this excellent Rapportive hack to automate email finding (highly recommended, much better method). Whatever works for you, will work for you – and I’m not against them. I’m not arguing that training Google Search for people search is the most efficient method to reach out to people, because it isn’t. Rather I’d like everyone to think about <strong>the possibilities of personalization</strong>.</p>
+<p>Personalized search is a great thing when you are empowered to turn it on or off. The changes in information fetched are all algorithmically based on the user’s behavior and habits. In other words, if you’re aware of what’s causing the bias, you can even use it to your advantage.</p>
+<p>So what will you teach your Google Search today?</p>
+<p><strong>P.S.</strong> Still worried about search personalization? Just turn on that SSL, private, incognito, or whatever mode they call it on your browser. But remember. Whenever you hide your browsing data, an internet marketer cries about (not provided) and one less cat picture is posted on the internet.</p>
+<p><em><a href="https://plus.google.com/u/0/101244322810511784030/?rel=author">Victor Pan</a> is WordStream&#8217;s resident search samurai. When he&#8217;s not busy gathering and analyzing web data, he&#8217;s legitimately practicing the way of the sword, kendo.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2012/08/01/google-people-search">Google People Search Engine?! How I Taught Google Search to People Search</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2012/08/01/google-people-search/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

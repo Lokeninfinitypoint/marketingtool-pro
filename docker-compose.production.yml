@@ -1,0 +1,55 @@
+services:
+  marketingtool:
+    image: node:20-alpine
+    container_name: marketingtool-pro
+    working_dir: /app
+    volumes:
+      - ./src:/app/src:ro
+      - ./public:/app/public:ro
+      - ./tools-collection:/app/tools-collection:ro
+      - ./wp-content:/app/wp-content:ro
+      - ./production-html:/app/production-html:ro
+      - ./package.json:/app/package.json:ro
+      - ./package-lock.json:/app/package-lock.json:ro
+      - ./astro.config.mjs:/app/astro.config.mjs:ro
+      - ./tsconfig.json:/app/tsconfig.json:ro
+      - node_modules:/app/node_modules
+      - dist:/app/dist
+    ports:
+      - "3000:4321"
+      - "443:4321"
+    environment:
+      - NODE_ENV=production
+      - HOST=0.0.0.0
+      - PORT=4321
+    command: >
+      sh -c "
+      npm ci &&
+      npm run build &&
+      npm run preview -- --host 0.0.0.0 --port 4321
+      "
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: marketingtool-nginx
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "8080:80"
+    depends_on:
+      - marketingtool
+    restart: unless-stopped
+    networks:
+      - marketingtool-network
+
+volumes:
+  node_modules:
+  dist:
+
+networks:
+  marketingtool-network:
+    driver: bridge

@@ -1,0 +1,8 @@
+/**
+ *  - v2.1.17
+ * 
+ * Copyright (c) 2025
+ * Licensed GPLv2+
+ */
+
+.ct-products-container{position:relative}.ct-products-container[data-animate*=":end"]>*:not(.ct-filters-loading),.ct-products-container[data-animate*=":start"]>*:not(.ct-filters-loading){transition:opacity .15s ease-in-out,transform .15s ease-in-out}.ct-products-container[data-animate="leave:start"] [data-products],.ct-products-container[data-animate="leave:start"] .woocommerce-no-products-found{opacity:1;transform:translateY(0px)}.ct-products-container[data-animate="leave:end"] [data-products],.ct-products-container[data-animate="leave:end"] .woocommerce-no-products-found{opacity:0;transform:translateY(20px)}.ct-products-container[data-animate=leave] [data-products],.ct-products-container[data-animate=leave] .woocommerce-no-products-found,.ct-products-container[data-animate="appear:start"] [data-products],.ct-products-container[data-animate="appear:start"] .woocommerce-no-products-found{opacity:0;transform:translateY(-20px)}.ct-filters-loading{display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .15s ease-in-out;position:absolute;top:0;left:0;right:0}.ct-filters-loading.active{opacity:1}.ct-filters-loading svg{position:absolute;top:50px;opacity:.5}

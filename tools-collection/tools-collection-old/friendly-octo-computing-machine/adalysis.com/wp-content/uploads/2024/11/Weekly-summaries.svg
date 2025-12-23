@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 26 Copy 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Pricing---Anually-V2.3.3" transform="translate(-996, -3347)" stroke-width="2.13333333">
+            <g id="Group-24" transform="translate(974, 3325)">
+                <g id="pie-line-graph-desktop" transform="translate(24, 24)">
+                    <polygon id="Shape" stroke="#3A56BC" points="20.2666667 30.6382979 11.7333333 30.6382979 12.8 24.5106383 19.2 24.5106383"></polygon>
+                    <line x1="8.53333333" y1="30.6382979" x2="23.4666667" y2="30.6382979" id="Shape" stroke="#3A56BC"></line>
+                    <path d="M0,14.2978723 L5.64622222,8.8932766 C5.84628064,8.7016085 6.11769508,8.59392016 6.40071111,8.59392016 C6.68372715,8.59392016 6.95514158,8.7016085 7.1552,8.8932766 L9.91288889,11.533617 C10.1129473,11.7252851 10.3843617,11.8329735 10.6673778,11.8329735 C10.9503938,11.8329735 11.2218082,11.7252851 11.4218667,11.533617 L17.0666667,6.12765957" id="Shape" stroke="#FFAF24"></path>
+                    <rect id="Rectangle-path" stroke="#3A56BC" x="0" y="0" width="32" height="24.5106383" rx="4.26666667"></rect>
+                    <line x1="0" y1="20.4255319" x2="32" y2="20.4255319" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="19.2" y1="12.2553191" x2="19.2" y2="15.3191489" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="27.7333333" y1="12.2553191" x2="27.7333333" y2="15.3191489" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="23.4666667" y1="9.19148936" x2="23.4666667" y2="15.3191489" id="Shape" stroke="#FFAF24"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

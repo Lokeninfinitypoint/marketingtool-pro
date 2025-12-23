@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "plugin:@wordpress/eslint-plugin/recommended",
+    "plugin:import/react"
+  ],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx"]
+      }
+    }
+  },
+  "globals": {
+    "TCDash": "readonly"
+  }
+}

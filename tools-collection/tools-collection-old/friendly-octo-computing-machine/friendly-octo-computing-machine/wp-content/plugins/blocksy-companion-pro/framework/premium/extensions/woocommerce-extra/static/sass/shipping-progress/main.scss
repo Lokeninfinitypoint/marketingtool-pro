@@ -1,0 +1,15 @@
+.ct-shipping-progress-mini-cart {
+	font-size: 14px;
+}
+
+
+// hide shipping progress bar if local pickup option is selected
+:is(.cart_totals, .ct-order-review) {
+
+	&:has([value*="local_pickup"]:checked) {
+
+		[class*="ct-shipping-progress"] {
+			display: none;
+		}
+	}
+}

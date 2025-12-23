@@ -1,0 +1,105 @@
+@import '../../../../../../../static/sass/frontend/common-frontend/functions';
+
+.ct-product-waitlist {
+	max-width: var(--container-max-width, 100%);
+
+	&[data-type='boxed'] {
+		padding: var(--container-padding, 30px);
+		border-radius: var(--container-border-radius, 7px);
+		border: var(--container-border);
+	}
+
+	p {
+		color: var(--theme-text-color);
+	}
+
+	form {
+		display: grid;
+		gap: 15px;
+
+		@include media-breakpoint-up(sm) {
+			grid-template-columns: 1fr auto;
+		}
+
+		.gdpr-confirm-policy {
+			grid-column: 1/-1;
+			margin: 0;
+			--theme-link-initial-color: var(--theme-text-color);
+		}
+	}
+
+	.ct-button {
+		--theme-button-padding: 5px 20px;
+		--theme-button-min-height: var(--theme-form-field-height, 40px);
+	}
+
+	.ct-waitlist-users {
+		font-size: 13px;
+		margin-block: 15px 0;
+
+		&[data-count='0'] {
+			display: none;
+		}
+	}
+
+	// states
+	&[data-state='hidden'] {
+		display: none;
+	}
+
+	&[data-state='subscribed'] {
+		.ct-waitlist-initial-state {
+			display: none;
+		}
+	}
+
+	&:not([data-state='subscribed']) {
+		.ct-waitlist-subscribed-state {
+			display: none;
+		}
+	}
+
+	// loading state
+	&[data-loading] {
+
+		.ct-button {
+			pointer-events: none;
+			
+			span {
+				opacity: 0;
+			}
+
+			.ct-button-loader {
+				opacity: 1;
+			}
+		}
+	}
+
+	.ct-button-loader {
+		position: absolute;
+		opacity: 0;
+	}
+}
+
+// hide out of stock badge if waitlist form is enabled
+.product-type-simple.outofstock {
+	&:has(.ct-product-waitlist) {
+		.stock.out-of-stock {
+			display: none;
+		}
+	}
+}
+
+:has(.woocommerce-variation-availability .out-of-stock) {
+	&:has(.ct-product-waitlist) {
+		.woocommerce-variation-availability {
+			display: none;
+		}
+
+		.single_variation {
+			&:has(.woocommerce-variation-description:empty):has(.woocommerce-variation-price:empty) {
+				margin-bottom: 0;
+			}
+		}
+	}
+}

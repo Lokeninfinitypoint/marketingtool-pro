@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 26</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Pricing---Anually-V2.3.3" transform="translate(-1299, -1691)" stroke-width="2.14">
+            <g id="Group-38" transform="translate(1275, 1660)">
+                <g id="Time-Clock-Hand-1--Streamline-Ultimate" transform="translate(25, 33)">
+                    <line x1="0.5246038" y1="18.5993031" x2="0.5246038" y2="31" id="Path" stroke="#3A56BC"></line>
+                    <path d="M0.5246038,28.9332172 L21.5087558,28.9332172 C21.5087558,26.6503119 19.6297708,24.7996515 17.3119254,24.7996515 L12.0658874,24.7996515 C12.0658874,22.5167463 10.1869024,20.6660859 7.869057,20.6660859 L0.5246038,20.6660859" id="Path" stroke="#3A56BC"></path>
+                    <line x1="7.869057" y1="24.7996515" x2="12.0658874" y2="24.7996515" id="Path" stroke="#3A56BC"></line>
+                    <path d="M10.2248778,16.6234587 C7.95290835,12.3320113 8.68893586,7.09427001 12.0589287,3.57193004 C15.4289215,0.0495900743 20.6937862,-0.984842912 25.178044,0.994305264 C29.6623018,2.97345344 32.3824831,7.53212385 31.9562567,12.3537089 C31.5300302,17.1752939 28.0508743,21.2023426 23.2868129,22.3884049" id="Path" stroke="#FFAF24"></path>
+                    <polyline id="Path" stroke="#FFAF24" points="19.4103406 4.13182338 19.4103406 12.3989546 24.6563786 12.3989546"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+{
+  "name": "clikit/infinite-uploads",
+  "description": "WordPress plugin to store uploads in the cloud and serve via the Infinite Uploads CDN.",
+  "homepage": "https://github.com/clikit/infinite-uploads",
+  "keywords": [
+    "wordpress",
+    "cloud",
+    "storage",
+    "s3",
+    "cdn",
+    "plugin"
+  ],
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "ClikIT, LLC",
+      "email": "support@clikitnow.com",
+      "homepage": "https://clikitnow.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/clikitsupport/infinite-uploads/issues",
+    "source": "https://github.com/clikitsupport/infinite-uploads"
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "config": {
+    "platform": {
+      "php": "5.6"
+    },
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}

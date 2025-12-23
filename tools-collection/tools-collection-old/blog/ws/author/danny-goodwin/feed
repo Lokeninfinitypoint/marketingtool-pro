@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Danny Goodwin, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/danny-goodwin/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 25 Jan 2024 21:30:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Danny Goodwin, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>7 Things We Learned from 31 Days of A/B Headline Testing</title>
+		<link>https://www.wordstream.com/blog/ws/2017/08/15/headline-testing</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/08/15/headline-testing#respond</comments>
+		
+		<dc:creator><![CDATA[Danny Goodwin]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Copywriting]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/08/15/headline-testing/</guid>
+
+					<description><![CDATA[<p>Do headline analyzers actually work? We analyzed and tested all our headlines for one month to find out. Here are seven things we learned about writing super-clickable headlines.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/08/15/headline-testing">7 Things We Learned from 31 Days of A/B Headline Testing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s all about that click.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f73821df-7b5f-415b-b13b-16a4d57a1a10" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ok-click.gif" alt="headline analysis and testing" width="309" height="271" /></div>
+</article>
+</div>
+<p>This is true whether you&#8217;re writing <a href="/blog/ws/2016/12/19/adwords-headline-formulas">headlines for PPC ads</a> or content that&#8217;s meant to earn organic search traffic, links, and social media shares.</p>
+<p>You can&#8217;t honestly <a href="/blog/ws/2017/03/15/quality-content-defined">call your content &#8220;high quality&#8221;</a> if it isn&#8217;t getting read. And if your headline is boring, <a href="/blog/ws/2017/05/17/how-to-write-great-headlines">people won&#8217;t click</a>. They&#8217;ll ignore you.</p>
+<p>That means lots of bad things for your business and brand. For instance, you won&#8217;t:</p>
+<ul>
+<li>Grow your audience.</li>
+<li><a href="/blog/ws/2017/05/24/link-building-now">Attract links naturally</a>.</li>
+<li>Generate qualified leads.</li>
+<li>Boost your social media engagement and shares.</li>
+<li>Make enough money.</li>
+</ul>
+<p>Oh, and if we&#8217;re talking paid search? You&#8217;ll pay more for your ads, since <a href="/click-through-rate">Quality Score heavily rewards a high click-through rate</a>.</p>
+<p>If only there were a way to know in advance whether that headline you&#8217;ve been writing will generate tons of traffic or be ignored…</p>
+<p>Well, there might be one way – headline analyzer tools. But do they actually work?</p>
+<h2>What Are Headline Analyzers?</h2>
+<p>Headline analyzers are free tools that score your headline, giving you some sense ahead of time as to whether people are going to want to click on your headline.</p>
+<p>Here are three headline analyzer tools you can test drive:</p>
+<p><strong><a href="https://coschedule.com/headline-analyzer">CoSchedule</a></strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="752c57ae-cfe8-40bf-9b6c-12cc9b11d715" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/coschedule-headline-analyzer-tool.png" alt="headline analyzer tools" width="600" height="478" /></div>
+</article>
+</div>
+<p>This headline analyzer is my personal favorite. I&#8217;ve been using it for a couple years. It analyzes and scores your headline based on factors like your word balance, length, keywords, and sentiment. Plus, CoSchedule&#8217;s tool will show you what your headline will look like as a Google search result and an email subject line.</p>
+<p><strong><a href="http://www.aminstitute.com/headline/">Advanced Marketing Institute</a></strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="06a32933-798d-4851-abbb-78a778442bae" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-headline-analyzer.png" alt="headline testing tools" width="462" height="460" /></div>
+</article>
+</div>
+<p>This headline tool analyzes the &#8220;emotional marketing value&#8221; of your headline and also gives it an &#8220;emotion classification.&#8221; They say that most headlines should have between 30 and 40 percent EMV words at minimum, but ideally should be in the 50 to 75 percent range.</p>
+<p><strong><a href="https://headlines.sharethrough.com/">ShareThrough</a></strong></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ec36ef18-5752-4d60-ae8b-f6d818be5677" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/share-through-headline-analyzer-tool.jpg" alt="headline analysis tools" width="700" height="540" /></div>
+</article>
+</div>
+<p>I&#8217;m least familiar with this tool. It uses an algorithm that analyzes your headline based on 300 variables. It provides some feedback on your strengths and also points out a few areas where you can potentially improve (e.g., mention a brand, body part, or celebrity… Um, seriously?)</p>
+<p>So if you&#8217;re looking to craft that perfect headline, problem solved, right? Surely one of these will do the trick.</p>
+<p>Or will they?</p>
+<h2>Analyzing the Headlines in Google Search Results</h2>
+<p>We know that Google will sometimes <a href="/blog/ws/2016/05/10/google-ctr">reward posts that generate more clicks with higher search positions</a>. And it makes sense for them to do so.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9ffb3448-de9b-4f02-aae4-c3e05d9223fe" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-does-google-use-click-data.png" alt="headlines and click through rate" width="641" height="539" /></div>
+</article>
+</div>
+<p>Think about it:</p>
+<p>If a page Google has ranking in Position 1 gets 10 percent of clicks while a page ranking in Position 3 gets 30 percent of clicks, that would clearly signal to Google that something may be wrong. Perhaps the page in Position 3 is the better answer for a given query (as long as users aren&#8217;t immediately bouncing back to the search results) because it aligns with the <a href="/blog/ws/2016/01/26/intent-marketing">user&#8217;s intent</a>.</p>
+<p>That means a more clickable headline could be the difference between ranking in Position 1, 2, or 3 in the SERPs.</p>
+<p>So is there any correlation between the headline score and ranking positions?</p>
+<p>Anecdotally, at least with CoSchedule, it sometimes seems so. But this could be an exhaustive study on its own.</p>
+<p>For now, let&#8217;s just look at one search. Fittingly: [how to write headlines].</p>
+<p>Here&#8217;s what you get, along with their scores from the three headline analyzers (CoSchedule / AMI / ShareThrough):</p>
+<ol>
+<li><a href="https://www.quicksprout.com/the-definitive-guide-to-copywriting-chapter-3/">Headline Writing 101: How to Write Attention Grabbing Headlines That Convert</a> (Quicksprout) (52 / 18.18 / 73)</li>
+<li><a href="https://blog.hubspot.com/marketing/headline-writing-tips">How to Write Better Headlines [Infographic]</a> (HubSpot) (73 / 16.67 / 65)</li>
+<li><a href="https://goinswriter.com/catchy-headlines/">5 Easy Tricks to Write Catchy Headlines</a> (Goins, Writer) (62 / 42.86 / 65)</li>
+<li><a href="http://www.copyblogger.com/magnetic-headlines/">How to Write Magnetic Headlines</a> (Copyblogger) (63 / 20 / 65)</li>
+<li><a href="http://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/">The Step-by-Step Guide to Writing Powerful Headlines</a> (Neil Patel) (63 / 14.29 / 69)</li>
+<li><a href="https://www.poynter.org/2011/10-questions-to-help-you-write-better-headlines/140675/">10 questions to help you write better headlines</a> (Poynter) (67 / 25 / 66)</li>
+<li><a href="/blog/ws/2017/05/17/how-to-write-great-headlines">9 Tips for Writing Great Headlines in 2017</a> (WordStream) (63 / 0 / 61)</li>
+<li><a href="https://www.dreamgrow.com/seven-easy-tricks-to-write-catchy-headlines/">17 Easy Tricks How to Write Catchy Titles and Headlines</a> (DreamGrow) (70 / 30 / 67)</li>
+<li><a href="https://coschedule.com/blog/write-a-headline/">55 Easy Ways To Write Headlines That Will Reach Your Readers</a> (CoSchedule) (75 / 36.36 / 63)</li>
+</ol>
+<p>I know what you&#8217;re thinking. CoSchedule, the creator of the headline analyzer, ranks ninth?</p>
+<p>Well, I never said your headline was the only – or even the most important – <a href="/blog/ws/2017/04/26/google-ranking-click-through-rate">Google ranking</a> factor. But it definitely is one of your most important content elements.</p>
+<p>So what does this one analysis teach us?</p>
+<p>There is absolutely no correlation between headline analyzer scores and ranking position – at least on this one query.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2734.png" alt="✴" class="wp-smiley" style="height: 1em; max-height: 1em;" />  What makes a great ad headline? Download our free guide to find out <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2935.png" alt="⤵" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" target="_blank" rel="noopener">&gt;&gt; 10 Tricks to Write Exceptional PPC Ad Copy (With Examples!)</a></strong></p></div></div>
+<p>Honestly, it&#8217;s pretty much impossible to draw any significant comparisons from this one example. After all, it&#8217;s just one search out of trillions of searches that happen on Google every year.</p>
+<p>All we know is that, according to CoSchedule&#8217;s headline analyzer, the CoSchedule post has the best headline; Goins, Writer has the best headline according to AMI&#8217;s tool; and QuickSprout has the best headline, based on ShareThrough&#8217;s headline analyzer.</p>
+<p>So is there any value in these headline scores?</p>
+<h2>Can Headline Analyzers Actually Predict a Winner?</h2>
+<p>Which one of these articles will get the most clicks?</p>
+<p>That was the name of the game for the last month for me at <a href="https://www.searchenginejournal.com/">Search Engine Journal</a> (full disclosure: I am Executive Editor of SEJ).</p>
+<p>For this particular test, I relied on CoSchedule&#8217;s headline analyzer when writing headlines.</p>
+<p>Typically, my goal is to write headlines that score 70 or higher. But sometimes, depending on the topic, it&#8217;s surprisingly hard to get a score of 70. A score of 80+ is even rarer. Forget about a score in the 90s let alone a perfect 100 (I&#8217;ve yet to achieve either).</p>
+<p>At SEJ, we use a custom-made headline <a href="https://www.wordstream.com/blog/ws/2018/05/11/copywriting-ab-tests">A/B testing</a> tool (well, technically A/B/C tool). Why custom?</p>
+<ul>
+<li>We tried using the <a href="http://kingsumo.com/apps/headlines/">King Sumo</a> WordPress plugin. However, this causes issues for cached sites (the same headline would end up being shown repeatedly, resulting in flawed tests).</li>
+<li>We also tried the <a href="https://wordpress.org/plugins/wp-experiments-free/">Title Experiments Free</a> WordPress plugin. However, this one was bad news for SEO. Basically, the H1 tag would look empty to Google whenever it crawled and indexed the page because Google still has <a href="https://goralewicz.com/blog/javascript-seo-experiment/">problems with JavaScript</a>. Plus, if you have a high traffic day, your server could quickly get overloaded because this plugin sends an AJAX request for every page load.</li>
+</ul>
+<p>During our headline test, we wrote three headlines for every new post published. Then, for 120 hours, a test ran. During this time the three headlines were shown an equal number of times to our website visitors.</p>
+<p>Our headline A/B testing tool has one constraint worth mentioning. Our &#8220;A&#8221; headline can be any length we want, but our two alternative headlines (&#8220;B&#8221; and &#8220;C&#8221;) must be less than 50 characters total.</p>
+<h2>7 Things I Learned From 31 Days of A/B Headline Testing</h2>
+<p>OK, let&#8217;s talk results.</p>
+<p>For the sake of argument, let&#8217;s assume the following about CoSchedule&#8217;s headline scores:</p>
+<ul>
+<li>100 = Perfect Headline</li>
+<li>80-99 = Great Headline</li>
+<li>70-79 = Good Headline</li>
+<li>60-69 = Average Headline</li>
+<li>Poor/Bad (59 or lower)</li>
+</ul>
+<p>Here’s what I found in the past month.</p>
+<h3>1. Headline Analyzers Can&#8217;t Actually Predict the Winning Headline</h3>
+<p>In total, 50 articles and 150 headlines were tested.</p>
+<p>During these 31 days of headline testing, the CoSchedule score matched the most clicked headline only 40 percent of the time.</p>
+<p>The other 60 percent of the time, a headline with a <em>lower</em> score actually got more clicks.</p>
+<p>Here&#8217;s one example.</p>
+<p>One of these three headlines got clicked on 37 percent of time. Which one?</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5120d8dd-afa1-4438-8958-ce75da4559fa" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/headline-ab-testing1.png" alt="headline testing" width="519" height="198" /></div>
+</article>
+</div>
+<p>You would think the &#8220;A&#8221; headline should win since it has a score of 80, but actually the &#8220;B&#8221; headline (with its score of 70) got the most clicks.</p>
+<p>Why? My best guess, based on using CoSchedule&#8217;s tool for a while now, is that they heavily weight the word &#8220;things,&#8221; whereas readers of SEJ might be more inclined to click on &#8220;tips&#8221; than &#8220;things.&#8221;</p>
+<p>So if you think that a great score on a headline analyzer is a reliable indicator of whether your headline will actually be successful, think again.</p>
+<h3>2. A Great Score Doesn&#8217;t Guarantee Lots of Clicks</h3>
+<p>If you get a great score (between 80 and 99), you&#8217;d expect to get lots of clicks, right?</p>
+<p>Nope.</p>
+<p>The best score I managed to get for the month was 84 for this headline: <strong>This Is the Most Important Aspect of SEO</strong>.</p>
+<p>This was the &#8220;B&#8221; headline. It got 35 clicks. That was good enough to come in second place, but it was a loser nonetheless.</p>
+<p>As for that previously mentioned headline, <strong>How to Rank for Featured Snippets: 9 Things You Need to Know</strong>? It got a great score as well – 80.</p>
+<p>That was good for last place. Third out of three. Worse yet, it was beaten handily by headlines that had scores of 70 and 66.</p>
+<p>This is a perfect example of why you must A/B test your headlines.</p>
+<h3>3. The Most Clicked Headline Had a Good (Not Great) Score</h3>
+<p>One headline dominated all the others. <strong>Your Rankings Have Dropped – 10 Things to Do Now</strong> earned 192 clicks during our testing period.</p>
+<p>What score did it get from CoSchedule&#8217;s Headline Analyzer?</p>
+<p>A 71.</p>
+<p>That means 33 out of the 150 total headlines we wrote that month had a better score from the headline analyzer.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2362c9aa-d937-4739-9338-ab2eb7f73449" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ranking-drop-headine-analysis-scores.png" alt="headline testing tools" width="469" height="192" /></div>
+</article>
+</div>
+<p>That said, any headline over 70 should do well. But if one headline with a lower score can outperform 33 other headlines, this is yet another reason not to completely trust a headline analyzer.</p>
+<p>Surprisingly, the headline that got the second most clicks was actually the &#8220;C&#8221; headline for that same article (<strong>What to Do When Google Rankings Drop Dramatically</strong>). It got 181 clicks and had a score of 68 from CoSchedule&#8217;s tool. That means it outperformed 51 other headlines with higher scores – and we didn&#8217;t even end up using it!</p>
+<h3>4. A Headline With a Good (or Even Average) Score Can Drive More Clicks Than a Great Score</h3>
+<p>In looking over these 150 articles, there are numerous examples of great headlines generating less clicks than good or average headline scores.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9f2ff5c1-b4bd-4593-af82-7634fe0109e9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/social-media-aggregation-headline-analysis.png" alt="how to analyze headlines" width="485" height="205" /></div>
+</article>
+</div>
+<p>For instance:</p>
+<ul>
+<li><strong>A Simple Guide to Smart Social Media Aggregation</strong> scored 73, but got just 36 clicks.</li>
+<li><strong>Misrepresentative Content: What You Need to Know</strong> scored 79, but only got 20 clicks.</li>
+<li><strong>How to Filter Referral Spam in Google Analytics</strong> scored 72, but got 29 clicks.</li>
+</ul>
+<p>On the other end, there are numerous examples of average and good headlines generating more clicks than posts with a great score:</p>
+<ul>
+<li><strong>3 Ways SEO &amp; Content Work Better Together</strong> scored only a 54, but it got 110 clicks.</li>
+<li><strong>8 SEO Tips to Optimize Your URL Structure</strong> scored just 59, yet it got 139 clicks.</li>
+<li><strong>Hiring an SEO? Don&#8217;t Ask These 13 Dumb Questions</strong> got a score of 64, but managed to get 131 clicks.</li>
+</ul>
+<p>Bottom line: Some &#8220;how to write headline&#8221; posts try to make the process sound easier than it actually is. The truth is you really can never know with 100 percent certainty that your headline will click with readers – and get their clicks.</p>
+<p>&nbsp;</p>
+<h3>5. Your Content Is Only as Good as Your Headline</h3>
+<p>Spending hours writing what you consider &#8220;high-quality&#8221; content is essentially all time wasted if your headline is boring.</p>
+<p>Don&#8217;t just spend 2-3 hours writing a post and slap some lazy headline on it. You&#8217;re sabotaging yourself.</p>
+<p>While some people might argue that you should write dozens or even a hundred headlines for every piece of content, that&#8217;s nonsense.</p>
+<p>If you can&#8217;t write at least an average-good headline for an article within 30 minutes, maybe there&#8217;s something seriously wrong with the content.</p>
+<h3>6. Your Headline Is Only as Good as Your Content</h3>
+<p>You can write the greatest headline in the world. But if it&#8217;s on a topic your audience doesn&#8217;t care about, it&#8217;s simply a headline wasted.</p>
+<p>A topic that is of great interest ­– even if it has an average headline – will almost always outperform a brilliant headline on a piece of content that is more niche or simply is off-topic to your core audience.</p>
+<p>Sometime we tend to overthink things during the content research and ideation stage. It&#8217;s really not rocket science – identify topics your audience is interested in and find new and interesting ways to talk about them.</p>
+<h3>7. Headline Analyzers Can Help You Write Better Headlines</h3>
+<p>Despite all their flaws, the process of testing your headlines with an analyzer will help you write better headlines. <a href="/blog/ws/2014/08/07/improve-writing-skills">The secret of any kind of writing</a> is to do it more. That&#8217;s the only way you&#8217;ll improve.</p>
+<p>For instance, I pretty much confirmed one thing that I&#8217;ve been suspecting lately – that <a href="https://medium.com/marketing-and-entrepreneurship/are-you-using-too-many-question-headlines-f1672dfbde7f">question headlines</a> are losing their effectiveness. In fact, I believe that <a href="https://medium.com/marketing-and-entrepreneurship/dumb-question-headlines-sabotage-your-great-content-922c06f628fc">question headlines can sabotage your content</a>.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="10bceff2-af1d-4247-8ff3-16976f504895" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/hiring-seo-headline-analysis.png" alt="seo headline analysis" width="664" height="355" /></div>
+</article>
+</div>
+<p>We tried out nine question headlines on SEJ. Only one attracted any significant engagement (<strong>Hiring an SEO? Don&#8217;t Ask These 13 Dumb Questions</strong>). However, this headline doesn&#8217;t fall into the trap that many question headlines do – you can&#8217;t answer it with a yes or no (a.k.a., <a href="https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines">Betteridge&#8217;s Law</a>).</p>
+<h2>Data vs. Creativity</h2>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e1a680d6-fccb-4b36-ba70-fed3ea9a807b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/stand_back_i_m_going_to_try_science.png" alt="i'm going to try science" width="1400" height="1108" /></div>
+</article>
+</div>
+<p>Sometimes you just &#8220;know&#8221; a headline is going to be awesome. It&#8217;s perfect. It&#8217;s catchy. It&#8217;ll grab all the attention and convert like crazy.</p>
+<p>Except, if you don’t test it against any other headlines, how do you truly know you couldn&#8217;t have had an even better headline?</p>
+<p>If there truly is a &#8220;perfect&#8221; headline for every piece of content you create, you won&#8217;t find it unless you&#8217;re testing.</p>
+<p>The only limit to your headline is your own creativity – and your ability to admit that you might be incredibly biased about how awesome that headline you wrote is.</p>
+<p>Be creative. Run <a href="/blog/ws/2017/10/11/seo-tests">SEO tests</a>. Just let the data be the final decider.</p>
+<p>Data always wins.</p>
+<h2>TL;DR</h2>
+<p>Can you trust the scores of free headline analyzers to accurately predict which headline will get the most clicks? <strong>Nope.</strong> You&#8217;ll be wrong more than half of the time.</p>
+<p>Are headline analyzers worth your time anyway? <strong>Yes.</strong> Although you&#8217;re really writing your headline for one tool&#8217;s algorithm, it forces you to re-examine every word you choose carefully.</p>
+<p>The more headlines you write and test, the more chances you have to discover the right headline. If you aren&#8217;t testing, you&#8217;re potentially missing out on traffic, rankings, leads, shares, and revenue.</p>
+<p>The more data you collect, the more you&#8217;ll know about what YOUR audience responds to. Ultimately, this is why you need to A/B test your headlines.</p>
+<p>For even more tips and ideas, head to our impressive collection of <a href="https://www.wordstream.com/blog/ws/2022/02/01/headline-examples">88 headline examples</a> (they&#8217;re total click magnets).</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/08/15/headline-testing">7 Things We Learned from 31 Days of A/B Headline Testing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/08/15/headline-testing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Case Study: How Google Ads Life Events Targeting Lifts Brand Interest 175%</title>
+		<link>https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting#respond</comments>
+		
+		<dc:creator><![CDATA[Danny Goodwin]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting/</guid>
+
+					<description><![CDATA[<p>Learn about AdWords' Consumer Patterns &#038; Life Events targeting, a new weapon to target more relevant audience segments, and see what kind of results you can get.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting">Case Study: How Google Ads Life Events Targeting Lifts Brand Interest 175%</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For many years now, Google has been stressing the importance of winning so-called micro-moments. These are the times when consumers are researching and considering a purchase.</p>
+<p>It’s crucial to be visible and persuasive at these times, offering the right message at the right moment on the right device, if you want to win the sale.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="70a8eff9-499f-433e-9842-2c4c415573b5" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-micromoments-vendiagram.jpg" alt="micromoments" width="900" height="568" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Via <a href="https://www.thinkwithgoogle.com/marketing-resources/micro-moments/win-every-micromoment-with-better-mobile-strategy/">Think with Google</a></em></p>
+<p>Until now, the best way to reach and engage those consumers with Google Ads (formerly known as Google AdWords) was by targeting the right <a href="/blog/ws/2014/06/30/commercial-intent-keywords">high-intent keywords</a>.</p>
+<p>But a person&#8217;s past searches (and the videos people watch) can be incredibly revealing. Predictive, even.</p>
+<p>Thanks to <a href="/blog/ws/2015/11/04/rankbrain">machine learning</a>, Google is now better able to make sense of these signals to better determine intent.</p>
+<p>So Google has given advertisers Consumer Patterns &amp; Life Events, a new weapon to target more relevant audience segments.</p>
+<p>This is huge.</p>
+<p>(By the way, <a href="/blog/ws/2017/11/29/adwords-life-events-targeting">life event targeting</a> was just one of <a href="/blog/ws/2017/05/23/google-marketing-next">11 changes and new features announced at Google Marketing Next</a>.)</p>
+<p>Facebook was the first to offer this <a href="/blog/ws/2015/01/28/facebook-ad-targeting">ridiculously powerful targeting capability</a>. Now Google is finally catching up.</p>
+<p>Available now on YouTube and coming this fall to Gmail Ads, you can use this targeting feature to get your brand in front of the right people at these crucial moments and to drive more search demand and sales.</p>
+<h2>What Is Google Ads Life Events Targeting?</h2>
+<p>Google Ads&#8217; life events help you target users in the months before or after major life events such as:</p>
+<ul>
+<li>Graduation</li>
+<li>Marriage</li>
+<li>Moving</li>
+</ul>
+<p>For this to really work, however, searchers must be signed into Google. Ultimately, <strong>life events are powered by search histories</strong>.</p>
+<p>Google wants to help advertisers reach people at key moments when they’re making purchase decisions. According to <a href="http://www.adweek.com/digital/report-why-life-event-marketing-is-more-effective-than-demographic-targeting/">research</a> from Networked Insights, you want to target and reach the people who are in market for your product or service because it&#8217;s the most effective kind of marketing:</p>
+<p>&#8220;Consumers going through life events are much more likely to have similar purchase needs than consumers that are merely in the same age, gender or income demographic.&#8221;</p>
+<p>In other words: Want to target <a href="/blog/ws/2016/02/02/marketing-to-millennials">millennials</a>? Good luck with that. You might as well <a href="https://searchenginewatch.com/2017/05/23/targeting-generational-buzzwords-like-millennials-means-targeting-no-one/">target people based on their astrological sign</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="67f105a6-e94b-415f-b031-1899243bfb07" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/life-events-targeting-millennials.png" alt="targeting life events in adwords" width="766" height="530" /></div>
+</article>
+</div>
+<p>Yes, you want to target millennials. But not as if they&#8217;re all one big homogeneous blob.</p>
+<p>People who were born between 1982 and 2004 (give or take a couple years on either end, depending on who is defining the age range of this group) all have vastly different wants and needs.</p>
+<p>Your results will be so much better if you target people based on what&#8217;s happening in their lives. Right now.</p>
+<h2>How Does Life Event Targeting Perform?</h2>
+<p>At Google Marketing Next, Google highlighted Sonos, which saw great results from life events targeting:</p>
+<ul>
+<li>50 percent lift in ad recall</li>
+<li>35 percent lift in purchase intent</li>
+<li>5x lift in people searching for Sonos on Google</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="056d5427-9823-4c27-91d1-9c6a1ef28e1c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sonos-adwords-life-tergeting.png" alt="life events targeting results" width="800" height="409" /></div>
+</article>
+</div>
+<p>All proof that life events can work amazingly well for advertisers.</p>
+<p>Another company that has already found success with life events targeting is <a href="https://onpurple.com/mattress">Purple</a>, which makes mattresses and a variety of other comfortable products.</p>
+<p>Their goal was to drive consideration and purchase intent using Life Events. Purple wanted to reach people who had just moved or gotten married, or were about to move or get married. These are audiences that are more likely to be in the market for a new mattress.</p>
+<p>Running a <a href="/blog/ws/2017/03/29/youtube-trueview-ads">TrueView in-stream ad</a>, Purple asked customers &#8220;What&#8217;s in your mattress?&#8221;</p>
+<p>The results?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ac24a02a-74d1-4522-a119-b076b1140d6a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/purple-case-study-life-events-targeting1-1.png" alt="life events targeting case study" width="800" height="451" /></div>
+</article>
+</div>
+<p>Among movers, there was a <strong>21.8 percent increase in purchase intent and 34.6 percent lift in consideration</strong>.</p>
+<p>Among the engaged or recently married, there was a <strong>23.1 percent lift in purchase intent and 25.1 percent lift in consideration</strong>.</p>
+<p>The search lift was equally impressive.</p>
+<p>There was a <strong>153.2 percent increase among movers and a 175.2 percent increase among engaged or recently married people searching for [Purple mattresses]</strong>.</p>
+<p>&#8220;Google&#8217;s audience solutions allow us to reach people as they go through key life transitions that correspond with increased likelihood to purchase a mattress,&#8221; according to <a href="https://twitter.com/BryantGarvin">Bryant Garvin</a>, director of digital marketing at Purple. &#8220;Getting our creative in front of these high value audiences has been critical for our business goals.&#8221;</p>
+<h2>Bottom Line</h2>
+<p>Consumer Patterns &amp; Life Events targeting is a potential game-changer for advertisers. Although Google is late to the life event targeting party, you now have new ways to <a href="/blog/ws/2015/10/22/demand-generation">generate and harvest more demand</a> for your products or services with PPC marketing.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting">Case Study: How Google Ads Life Events Targeting Lifts Brand Interest 175%</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/06/05/google-adwords-life-events-targeting/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This Is How to Build Links Now: 10 Data-Backed Tips</title>
+		<link>https://www.wordstream.com/blog/ws/2017/05/24/link-building-now</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/05/24/link-building-now#respond</comments>
+		
+		<dc:creator><![CDATA[Danny Goodwin]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/05/24/link-building-now/</guid>
+
+					<description><![CDATA[<p>Link building has changed a lot over the years, as Google's algorithms have evolved, but links are still important for SEO. Here's how to get them, the right way.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/05/24/link-building-now">This Is How to Build Links Now: 10 Data-Backed Tips</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="/blog/ws/2020/12/10/link-building-secrets">Link building</a> is hard.</p>
+<p>And it should be.</p>
+<p>Links are supposed to be granted editorially, not something anybody with $5 can buy in bulk.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b126e458-983b-4ab1-80d3-8e5ca239d1a0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ranking-factors-link-features-moz-1.png" alt="links as a google ranking factor" width="614" height="423" /></div>
+</article>
+</div>
+<p><em>Search ranking survey data via Moz</em></p>
+<p>But links became a commodity once every SEO and his cousin learned that links are the most important <a href="https://moz.com/search-ranking-factors">Google ranking factor</a>. Quality? Pffft! Quantity was all that mattered for many link builders.</p>
+<p>At least until a little thing called Penguin came along.</p>
+<p><a href="/blog/ws/2012/05/04/dealing-with-google-changes">Google&#8217;s Penguin algorithm</a> torched a lot of websites who were artificially inflating their positions in the SERPs using thousands of low-quality footer links from shady Russian websites (among other schemes).</p>
+<h2>Link Building in 2017</h2>
+<p>Ultimately, you have very little control over <a href="/blog/ws/2017/08/25/twitter-link-building">link building</a>.</p>
+<p>Sure, you can email the owner of a website or someone in the media to let them know about your awesome resource. But these email outreach attempts are hard to scale, and fail more often than they succeed.</p>
+<p>In truth, link building is typically a byproduct of creating <a href="/blog/ws/2017/03/15/quality-content-defined">high-quality content</a> that people want to consume, and therefore want to share and link to.</p>
+<p>This is equally hard. <a href="/blog/ws/2014/05/23/attention-economy">Most content fails</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bb879e4a-9a36-4db1-8378-715c9b44394f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/attention-economy-winners-losers1-2.png" alt="attention economics" width="553" height="368" /></div>
+</article>
+</div>
+<p><em>The content marketing power law</em></p>
+<p>So how do you create content that attracts links?</p>
+<p>To find out, we used Buzzsumo to see which WordStream content got the most links over the past year or so. Some clear patterns emerged.</p>
+<p>Here are 10 data-backed tips for how to build links now.</p>
+<h2>1. Curate Awesome Content</h2>
+<p>You can turn your own content – or content other people have created – into new forms of content. Typically, these <a href="/blog/ws/2017/05/01/content-curation-tools">curated content</a> pieces come in the form of &#8220;week in review,&#8221; &#8220;most popular stories,&#8221; &#8220;top stories,&#8221; or &#8220;best articles of the year&#8221;.</p>
+<p>While curated content pieces probably will never attract tons of editorial links, they still add value and help with discovery. Every time you create an <a href="/blog/ws/2013/10/22/blog-seo-tips">internal link</a> to one of your own pages, it can drive your users to that page.</p>
+<p>Also, linking to your own content helps tell Google that it&#8217;s an important, authoritative page, which can help it rise in the organic search results. (If you never link to your own content, then it probably won&#8217;t be viewed as important and it won&#8217;t rank well.)</p>
+<p>You can also curate content that was published on other websites (or a mix of your own content plus others&#8217; content). For example, WordStream put together lists of the <a href="/blog/ws/2016/12/29/best-ppc-articles-2016">top PPC articles</a> and <a href="/blog/ws/2016/12/28/best-seo-posts-of-the-year">top SEO posts</a> of 2016.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8f372cfb-89ed-4bf3-bb07-a188d045316c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/did-we-just-become-best-friends.gif" alt="best friends" width="500" height="200" /></div>
+</article>
+</div>
+<p>In addition to having link value, this type of content also builds relationships. People appreciate it when others highlight their great work – especially if it&#8217;s in a &#8220;best of the year&#8221; post.</p>
+<p>Those people will also probably help promote your content to their own networks, leading to more people discovering it (and your brand). And who knows – maybe you&#8217;ll even get a link (or more) out of it down the road.</p>
+<h2>2. Give Away Tools</h2>
+<p>In addition to being a great <a href="/blog/ws/2017/03/01/lead-generation-ideas">lead generation tool</a>, offering your own free tools can also win you links. Tools are content, too.</p>
+<p>WordStream gives away some great free tools that marketers and SEOs find valuable. Doing so has earned them quite a few links.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e9f23603-e2be-46af-b89a-335b0404200c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/marketing-analysis-tools-adwords-performance-grader.png" alt="Marketing analysis tools AdWords Perforrnance Grader" width="1201" height="883" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>WordStream’s Free AdWords Grader</em></p>
+<p>There&#8217;s also the <a href="https://www.wordstream.com/keywords">Free Keyword Tool</a>, which is one of the best of its kind on the market, and the <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_FBGrader_FBGrader">Facebook Ads Performance Grader</a>.</p>
+<p>If you offer a valuable tool that people find useful, they will tell others about it – and, yes, link to it.</p>
+<h2>3. Share Strong Opinions</h2>
+<p>Whether you call it an opinion piece, think piece, or simply a rant, boldly sharing an opinion can also earn you some link love – even if you&#8217;re writing about something you hate.</p>
+<p>For instance, the post <a href="/blog/ws/2016/09/13/why-i-still-hate-linkedin-ads">7 Things I Still Hate About LinkedIn Ads</a> voiced some valid concerns about the state of self-service advertising on the business social networking site – and got a lot of links.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5667d843-2c5e-4f06-86a7-87b42a3342af" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/quit-mucking-with-button-colors-2.png" alt="what's a good conversion rate on adwords" width="437" height="263" /></div>
+</article>
+</div>
+<p>Another highly linked article, <a href="/blog/ws/2016/07/05/conversion-rate-metric">What’s the Most Important CRO Metric? (Hint: Not Conversion Rate),</a> made an argument that challenges the accepted wisdom of the crowd (that things like button color and location make all the difference).</p>
+<p>If you&#8217;re going to publish this type of content, always make sure to back up your argument with data or other supporting evidence (e.g., statistics, quotes, patents).</p>
+<p>While <a href="/blog/ws/2016/10/06/controversial-marketing">a little controversy</a> can be a good thing, it should be done in small doses – and never do it in a hateful, mean, or unfair way that reflects badly on you or your brand. You can be critical and offer a point of view without resorting to ad hominem attacks or being a complete ass.</p>
+<h2>4. Publish Original Data &amp; Research</h2>
+<p><a href="/blog/ws/2016/08/16/marketing-analysis-tools">Marketers love data</a>, and WordStream is known for backing up or testing theories with evidence. So it&#8217;s no surprise that original data and research have resulted in hundreds of links just over the past year.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c62baf71-7c53-4629-b2c6-3be06c028f6f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ads-average-click-through-rate-graphic1-2.png" alt="WordStream Facebook Ad Benchmarks average CTR" width="800" height="792" /></div>
+</article>
+</div>
+<p><em>Facebook advertising CTR benchmarks</em></p>
+<p>Among these popular data-backed posts:</p>
+<ul>
+<li><a href="/blog/ws/2017/01/25/dwell-time-seo">Does Dwell Time Really Matter for SEO? [Data]</a></li>
+<li><a href="/blog/ws/2017/02/28/facebook-advertising-benchmarks">Facebook Ad Benchmarks for YOUR Industry [New Data]</a></li>
+<li><a href="/blog/ws/2016/06/23/google-ads-green-ad-labels">Did Google’s New Green Ad Labels Affect Ad CTR?</a></li>
+<li><a href="/blog/ws/2016/10/19/adwords-message-extensions">NEW AdWords Message Extensions Enable High-CTR Click-to-Message Ads [Data]</a></li>
+<li><a href="/blog/ws/2016/10/25/bing-expanded-text-ad-performance">Bing’s Expanded Text Ads Even Outperform Google’s [Data]</a></li>
+</ul>
+<p><a href="/blog/ws/2015/07/14/marketing-data">Original data and research</a> will naturally attract links. Whenever people are writing about the topic of your research, they will likely reference your research – assuming the data is sound, the research is trustworthy, and the results are presented in a non-promotional and authoritative way.</p>
+<h2>5. Educate Your Audience</h2>
+<p>Educational content is always incredibly popular. People are always looking to figure out something new, <a href="/blog/ws/2014/08/19/free-online-marketing-courses">upgrade their knowledge</a>, and advance their career.</p>
+<p>By providing learning resources, you (and your brand/business) become viewed as an authority. And people love to share and link to helpful resources.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8385d311-30ed-4f02-8fe8-2fa1e29f846e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/educational-content-for-link-building.png" alt="link building with educational resources" width="1030" height="225" /></div>
+</article>
+</div>
+<p><em>WordStream’s </em><a href="/learn"><em>PPC University</em></a></p>
+<p>This type of linkable content can come in many forms:</p>
+<ul>
+<li>Best Practices (e.g., <a href="/blog/ws/2016/07/26/expanded-text-ad-best-practices">7 Best Practices for AdWords Expanded Text Ads</a>)</li>
+<li>How-to (e.g., <a href="/blog/ws/2017/02/08/brand-affinity-marketing">How to Use Brand Affinity to Dramatically Increase CTR</a>)</li>
+<li>Ideas (e.g., <a href="/blog/ws/2016/11/16/rlsa-strategies">3 Crazy-Effective Ideas to Unlock the Full Power of RLSA</a>)</li>
+<li>Strategies (e.g., <a href="/blog/ws/2016/12/05/best-online-marketing-strategies">The 10 Best Online Marketing Strategies to Make You a Unicorn</a>)</li>
+<li>Tips (<a href="/blog/ws/2016/06/30/social-media-advertising-tips">10 Best Social Media Advertising Tips for Content Marketers</a>)</li>
+</ul>
+<p>Whatever form it takes, the key is to be truly useful and help solve problems for your readers. They will be appreciative, and show that appreciation with links.</p>
+<h2>6. Compile Statistics</h2>
+<p>People love to cite statistics to help make their points.</p>
+<p>So it only makes sense to compile relevant statistics about a topic into your own content – then people will cite you as the source (yes, even if you aren&#8217;t the original source of the stats).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c9f9c33e-e447-4b64-b20a-7c1ca7c759e3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/compile-stats-link-building-2017.png" alt="publishing stats to build links" width="761" height="434" /></div>
+</article>
+</div>
+<p>For instance, the following five posts combined earned WordStream hundreds of links over the past year:</p>
+<ul>
+<li><a href="/blog/ws/2017/01/05/social-media-marketing-statistics">40 Essential Social Media Marketing Statistics for 2017</a></li>
+<li><a href="/blog/ws/2017/03/08/video-marketing-statistics">37 Staggering Video Marketing Statistics for 2017</a></li>
+<li><a href="/blog/ws/2017/04/17/content-marketing-stats">23 Facts to Pull Out When Someone Says Content Marketing Doesn’t Work</a></li>
+<li><a href="/blog/ws/2017/04/20/instagram-statistics">33 Mind-Boggling Instagram Stats &amp; Facts for 2017</a></li>
+<li><a href="/blog/ws/2016/09/15/mobile-advertising-statistics">Must-Know Mobile Advertising Stats &amp; Trends</a></li>
+</ul>
+<p>Statistics tend to be scattered across lots of different sites. Bringing them together into one amazing authoritative resource is an incredibly easy way to earn links like crazy.</p>
+<h2>7. Provide Great Answers to Common Questions</h2>
+<p>People are looking for answers to all types of questions every day. You want to be the place where your target audience finds these answers. <a href="http://buzzsumo.com/blog/magical-content-gets-links-shares-new-research-buzzsumo-majestic/">BuzzSumo</a> calls these &#8220;authoritative posts that answer core questions.&#8221;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4684cc8f-6134-43ee-87dd-a69603d928e2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/featured-snippet-questions-via-moz1.jpg" alt="featured snippet questions" width="800" height="593" /></div>
+</article>
+</div>
+<p><em>Answering questions is a great way to earn </em><a href="/blog/ws/2017/02/09/seo-keyword-research-featured-snippets"><em>featured snippets</em></a></p>
+<p>WordStream’s Elisa Gabbert wrote a post about some of the <a href="/blog/ws/2016/08/09/question-keywords">top question-based keywords that drive tons of traffic and links</a> for them. These include:</p>
+<ul>
+<li>What’s a good benchmark/metric (e.g. “<a href="/blog/ws/2014/03/17/what-is-a-good-conversion-rate">What’s a good conversion rate?</a>”)</li>
+<li>How to find X (e.g. “<a href="/blog/ws/2013/10/10/how-to-find-your-old-tweets">How to find your old tweets</a>”)</li>
+<li>How much does X cost (e.g. “<a href="/blog/ws/2015/05/21/how-much-does-adwords-cost">How much does AdWords cost?</a>”)</li>
+</ul>
+<p>Figure out what common questions you can answer with authority in your industry. Then provide the best answer to that question. The links will follow.</p>
+<h2>8. Create Original, Useful Infographics</h2>
+<p>OK, let&#8217;s be clear here. Not any old infographic will cut it. An ugly, poorly designed infographic will have zero link building value.</p>
+<p>You need to create an original infographic. Something that is designed well and is helpful or useful to your target audience.</p>
+<p><a href="/blog/ws/2016/06/27/facebook-ad-targeting-options-infographic">All of Facebook’s Ad Targeting Options (in One Epic Infographic)</a> is the perfect example. It looks great and is useful to marketers. Oh, and it was the fourth most linked to page over the past year on WordStream.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5c6b4391-93cd-4025-9058-ab42d134df8c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-targeting-options-infographic-snippet.png" alt="facebook ad targeting" width="723" height="362" /></div>
+</article>
+</div>
+<p>Another original infographic, <a href="/blog/ws/2016/10/13/organic-seo-ctr-infographic">11 Battle-Tested Ways to Raise Your SEO Click-Through Rate [Infographic]</a>, was also incredibly successful at attracting links.</p>
+<p>Infographics are time-intensive, and you need a design resource to make them look great. When done well, they are worth it. Just make sure you have a truly great idea and that you never settle for &#8220;good enough.&#8221;</p>
+<h2>9. Act Fast on Hot Topics &amp; News</h2>
+<p>Just about every industry always has something new or interesting to talk about. This is especially true in marketing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7ea09a6e-c3e0-4b43-9fd6-9ed434a795df" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/hot-topic-link-building.jpg" alt="hot topics" width="400" height="400" /></div>
+</article>
+</div>
+<p>For instance, a lot of news came out of last year&#8217;s Google Summit. Google announced several huge changes, which were recapped in <a href="/blog/ws/2016/05/24/google-mobile-first">5 BIG Changes Coming to AdWords: Everything You Need to Know</a> (note: this was the fifth most linked to page over the past year).</p>
+<p>WordStream had all the angles covered after the event as well, drilling down into some the <a href="/blog/ws/2016/06/01/google-maps-local-search-ads">new ad formats</a> and offering a sneak <a href="/blog/ws/2016/05/25/new-adwords-interface">preview of the new AdWords interface</a>. One of those posts, <a href="/blog/ws/2016/05/25/google-expanded-text-ads">Google Expanded Text Ads: 10 Things You Need To Know</a>, got the second highest amount of links.</p>
+<p>The key to WordStream&#8217;s link building success? Moving fast.</p>
+<p>Marketers were talking about all the big changes and had lots of questions. WordStream provided important information and guidance and became THE authority. The reward was hundreds of high-quality links.</p>
+<p>(By the way, <a href="/blog/ws/2017/05/23/google-marketing-next">here&#8217;s all the news from THIS year&#8217;s Google Marketing Next</a>.)</p>
+<h2>10. Build Your Personal Brand</h2>
+<p>YOU are your own greatest link building asset. Or, at least, you can be.</p>
+<p>The page that got the most links over the last year wasn&#8217;t a blog post with the perfect viral headline or any of the other types of content we&#8217;ve looked at so far.</p>
+<p>It was <a href="/larry-kim">this page</a>. A bio page for WordStream&#8217;s founder.</p>
+<p>So how can you use yourself to build links and <a href="/blog/ws/2015/07/10/brand-awareness">grow your company&#8217;s visibility</a> at the same time?</p>
+<p>Become an expert. Build your personal brand.</p>
+<p>Become an authority, <a href="/blog/ws/2015/02/26/influencer-marketing">influencer</a>, or thought leader in your space. Become an in-demand personality. This will lead to numerous link building opportunities.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dd813da5-0f5f-41b1-8aa0-8c14011829a7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/smx-conference.jpg" alt="SMX Conference" width="800" height="450" /></div>
+</article>
+</div>
+<p><em>WordStream’s Mark Irvine at SMX</em></p>
+<p>For example, once you become a recognized industry leader, you&#8217;ll be invited to speak at <a href="/blog/ws/2017/01/13/best-marketing-conferences">conferences</a> and take part in webinars, podcasts, and interviews.</p>
+<p>Every time this happens, the companies you work with will promote you. They will link to your website. And if they don&#8217;t do it themselves, it&#8217;s an easy ask.</p>
+<p>Building a personal brand isn&#8217;t simple. It won&#8217;t happen overnight. But the long-term rewards are there for the taking if you&#8217;re willing to work hard for several years.</p>
+<h2>The Evolution of Link Building</h2>
+<p>This is what worked for WordStream. Some of these content formats can work for you, too – but definitely do your own analysis. Every site and industry is unique.</p>
+<p>Use a tool, whether it&#8217;s Buzzsumo or another link building tool, to see which types of content earned you the most links over the past year. Invest your time and resources into creating more content like those.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2c9afa2c-76bc-4690-8cde-2121d947f970" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/buzzsumo-link-building-research.png" alt="buzzsumo for link building" width="884" height="209" /></div>
+</article>
+</div>
+<p><em>Using Buzzsumo to find our most linked content</em></p>
+<p>The definition of insanity is doing the same thing over and over and expecting different results. So stop wasting time producing content that consistently fails to attract any links (or traffic, or engagement, or whatever other metrics matter most to you).</p>
+<p>Although link building isn&#8217;t rocket science, it&#8217;s still really difficult to do well. Let your data guide you to greater link building success!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/05/24/link-building-now">This Is How to Build Links Now: 10 Data-Backed Tips</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/05/24/link-building-now/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>10 Powerful Tips for Better Travel Marketing This Year</title>
+		<link>https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips#respond</comments>
+		
+		<dc:creator><![CDATA[Danny Goodwin]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Vertical Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips/</guid>
+
+					<description><![CDATA[<p>Competition in the travel industry will be higher than ever this year. How to beat the competition? Here are 10 ideas to improve your travel marketing strategy.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips">10 Powerful Tips for Better Travel Marketing This Year</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Want to get away? If so, you aren&#8217;t alone. Spring is the time of year when many people start researching and booking their summer travel plans.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/travel-ppc-alligator-2.gif" alt="travel marketing tips" width="480" height="353" /></div>
+<p>People are already searching for cheap travel deals, family vacation ideas, flights, hotels, or their favorite theme park or cruise line. And advertisers are ready:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/family-vacation-google-ads.png" alt="travels ads google" width="591" height="386" /></div>
+<p>And competition will be higher than ever this year. The travel and hospitality industry has grown substantially <a href="https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consumer-business/us-consumer-2019-us-travel-and-hospitality-outlook.pdf" target="_blank" rel="noopener">over the past decade </a>(as in, from $500 billion in gross bookings throughout the US to $800 billion), and it&#8217;s still growing. So how can you win over consumers?</p>
+<p>Here are <strong>10 ideas to improve your travel marketing strategy</strong> using PPC this year.</p>
+<h2>1. Travel Search Stats: A 30,000-Foot View</h2>
+<p>According to <a href="https://www.thinkwithgoogle.com/infographics/travel-research-micro-moments.html">Google research</a>, 55% of leisure travelers go on just one or two trips a year. But they do a lot of research before booking those trips.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/think-with-google-travel-stats.png" alt="travel marketing stats" width="446" height="510" /></div>
+<p>Every month, millions of people are searching using a variety of <a href="/popular-keywords/travel-keywords">travel keywords</a>. As <a href="https://www.slideshare.net/bingads/family-travel-insights-for-digital-marketers">Bing research</a> found during a recent six-month period:</p>
+<ul>
+<li>33 million people searched for airline tickets or reservations.</li>
+<li>29 million people searched for hotel or motel reservations.</li>
+<li>16 million people searched for vacation packages.</li>
+<li>14 million people searched for car rentals.</li>
+<li>10 million people searched for cruises.</li>
+</ul>
+<p>And many of those people are buying:</p>
+<ul>
+<li>24 million people bought airline tickets or reservations.</li>
+<li>22 million people booked hotel or motel reservations.</li>
+<li>11 million people rented a car.</li>
+<li>6 million people bought a vacation package.</li>
+<li>3 million people booked a cruise.</li>
+</ul>
+<p><strong>Travel Marketing Tip:</strong> Many travel consumers plan far ahead. Make sure you have offers that appeal to people who are ready to book long before they travel, as well as last-minute travelers.</p>
+<h2>2. Understand the Traveling Customer’s Journey</h2>
+<p>Wouldn&#8217;t it be great if someone did a search on a <a href="https://www.wordstream.com/popular-keywords/travel-keywords">travel keyword</a>, saw your paid search ad, clicked, and immediately converted? Unfortunately, today&#8217;s <a href="https://www.wordstream.com/blog/ws/2019/11/21/customer-journey-mapping">customer journey</a> is often far more complex.</p>
+<p>In fact, as detailed by <a href="https://www.thinkwithgoogle.com/articles/travel-trends-4-mobile-moments-changing-consumer-journey.html">Think With Google</a>, one person can have hundreds of interactions with brands while researching their travel. In one case, a woman named Amy did 34 searches, watched five videos, and visited 380 web pages while researching her trip to Disney World.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-travel-trends-mobile-moments.png" alt="mobile travel marketing" width="3000" height="1521" /></div>
+<p>Google identified four key moments where you need to win over travelers:</p>
+<ul>
+<li><strong>Dreaming:</strong> People who are thinking about traveling are doing searches to find ideas and inspiration – where to go and what to do.</li>
+<li><strong>Organizing:</strong> People are deep in consideration mode, deciding which hotel or airline to book, based on details like location, cost, and timing.</li>
+<li><strong>Booking:</strong> People have made their decision and make their reservations.</li>
+<li><strong>Experiencing:</strong> People are searching for things to do and new places to visit near them on their trip.</li>
+</ul>
+<p><strong>Travel Marketing Tip</strong>: People are thinking about and researching trips all the time. Think about all the key moments that you can influence during the customer&#8217;s journey that will ultimately lead to a conversion.</p>
+<h2>3. Define Your Target Audience</h2>
+<p>The <a href="/blog/ws/2016/06/27/facebook-ad-targeting-options-infographic">demographics</a> of the customers you want to reach should be your first consideration. Who are they?</p>
+<p>For example, we know from the same <a href="https://www.slideshare.net/bingads/family-travel-insights-for-digital-marketers">Bing travel industry research</a> that women conduct 68% of [family vacation ideas] searches and account for 69% of clicks. In fact, <strong>women account for 59% of all travel-related searches and 62% of clicks</strong>.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/women-demographic-travel-marketing-stats1.png" alt="travel marketing demographics" width="600" height="236" /></div>
+<p>Bing also broke down the percentage of family travel searches by age group:</p>
+<ul>
+<li><strong>Age 35 to 49</strong>: 41%</li>
+<li><strong>Age 50 to 64</strong>: 31%</li>
+<li><strong>Age 25 to 34</strong>: 16%</li>
+</ul>
+<p>Based on this research, if your target market is family travel, we know that we want to primarily target women between the ages of 35 to 49. Your demographics will vary, obviously, depending on your goals and target audience.</p>
+<p><strong>Travel Marketing Tip</strong>: Write from the perspective of buyer personas to <a href="/blog/ws/2015/11/09/emotional-ads">create emotional ads</a> that speak to your target market to get more people to click and convert.</p>
+<h2>4. Give Them What They Want</h2>
+<p>Once you know who you&#8217;re targeting, it&#8217;s time to focus on what this audience wants.</p>
+<p>For example, the biggest [vacation ideas] search trends, according to Bing&#8217;s research, include all-inclusive resorts, family-friendly vacations, and cheap vacations.</p>
+<p>Here are more trending searches in this space:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/trending-travel-marketing-searches.png" alt="travel marketing keywords" width="800" height="352" /></div>
+<p>Our persona is continuing to take shape. We know she is between the ages of 35 to 49 and wants to find ideas for a cheap summer family vacation.</p>
+<p><strong>Travel Marketing Tip</strong>: Make sure your offer clearly tells people that you have what they want or need for their trip. That could mean tailoring your messaging for people who need affordable deals, want an all-inclusive resort, or are seeking outdoor activities.</p>
+<h2>5. Get Them Where They Want to Go</h2>
+<p>Summer is a great time to go on road trips and cruises, head to national and state parks or amusement and theme parks, or visit international destinations.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/b-w-baseball-game.jpg" alt="vacations" width="640" height="369" /></div>
+<p class="text-align-center"><em>Via <a href="https://www.flickr.com/photos/alberta_archives/24034429959/">New Old Stock</a></em></p>
+<p>Where are the 42% of Americans who plan to take a vacation this year planning to go? <a href="https://about.americanexpress.com/press-release/consumer-cards-services/american-express-travel-unveils-its-top-trending-travel">American Express</a> identified a few key travel trends.</p>
+<p>For one, people will be heading to beaches and other warm weather destinations. Popular international destinations include:</p>
+<ul>
+<li>Barcelona, Spain</li>
+<li>Doha, Qatar</li>
+<li>Hamburg, Germany</li>
+<li>Marrakech, Morocco</li>
+<li>Nassau, Bahamas</li>
+<li>Tuscany, Italy</li>
+</ul>
+<p>Top destinations in the U.S. include Savannah, Georgia, and Washington, D.C.</p>
+<p>New Zealand and Singapore are also popular travel destination this year.</p>
+<p><strong>Travel Marketing Tip</strong>: Now we&#8217;re past the ideas and inspiration stage. People know where they want to go, which means they have <a href="/blog/ws/2014/06/30/commercial-intent-keywords">higher purchase intent</a>. So get them there – push your hard offers and deals.</p>
+<h2>6. Pay Attention to How People Search for Travel</h2>
+<p>People are switching between mobile and desktop. In general, most mobile travel searchers are looking for ideas and to compare prices, while the majority of desktop travel searchers are ready (or nearly ready) to purchase or book a reservation.</p>
+<p>Although people are primarily searching for travel on mobile, Google&#8217;s research found that <a href="https://www.thinkwithgoogle.com/infographics/travel-research-micro-moments.html">75%</a> of travelers ended up purchasing on a desktop or laptop. (A different Google study said <a href="https://www.thinkwithgoogle.com/articles/travel-trends-2016-data-consumer-insights.html">90%</a> of bookings happen on desktop.) Nearly two-thirds of people double-check flight prices and half double-check hotel prices on a computer after shopping on a smartphone.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/travel-searches-on-smartphones-research.png" alt="mobile travel searches" width="599" height="593" /></div>
+<p><strong>Travel Marketing Tip:</strong> Target your campaigns for the right audience on the right device. Your mobile ad copy should inspire travelers and generate demand, which you can later convert via your offers on desktop.</p>
+<h2>7. Reach Travelers at the Right Time</h2>
+<p>Now is the best time to start winning the hearts, minds, and wallets of consumers. Specifically: spring time.</p>
+<p><a href="/blog/ws/2017/01/23/keyword-search-volume">Search volume</a> for [vacation ideas] peaks in April, according to Bing&#8217;s travel research. But search demand varies depending on where people want to head for their travel:</p>
+<ul>
+<li><strong>Cruises</strong>: Search demand peaks in January</li>
+<li><strong>Beaches</strong>: People visit beaches year-round, but search demand is highest during the winter months through spring.</li>
+<li><strong>Theme parks</strong>: Search demand is strongest in the winter and peaks in July.</li>
+<li><strong>National and state parks</strong>: Search demand is highest in the spring, peaking in June.</li>
+</ul>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/cruise-travel-search-volume-peak.png" alt="cruise travel keyword searches" width="1144" height="335" /></div>
+<p><strong>Travel Marketing Tip</strong>: Make sure you have a strategy that keeps you visible during your most valuable season. If consumers don&#8217;t know you or can&#8217;t easily find you, they can&#8217;t buy from you.</p>
+<h2>8. Embrace Facebook Ads</h2>
+<p>Search ads are great for harvesting existing demand. But you can also create <em>new</em> demand, using <a href="/blog/ws/2017/04/18/facebook-advertising-features">Facebook ads</a>.</p>
+<p>Here&#8217;s <a href="/blog/ws/2016/06/08/rlsa">how it works</a> on Facebook, according to WordStream founder Larry Kim:</p>
+<ul>
+<li><strong>Promote</strong>: Your brand promotes inspirational and memorable content designed with your target audience in mind.</li>
+<li><strong>Bias</strong>: People see the Facebook ad, but don&#8217;t necessarily take action right away. However, they do become biased.</li>
+<li><strong>Win</strong>: When people have a need that your product/service can solve, people will either do a branded search for you, or they&#8217;ll do a non-branded search – but because they&#8217;ve heard of you, they&#8217;re more likely to click on your organic search result or PPC ad (and convert).</li>
+</ul>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-rlsa-works.jpg" alt="How RLSA works" width="800" height="397" /></div>
+<p><strong>Travel Marketing Tip</strong>: Use Facebook ads now to drive interest and generate the <a href="/blog/ws/2017/02/08/brand-affinity-marketing">brand affinity</a> you&#8217;ll need later to drive more searches, more clicks, and higher conversion rates.</p>
+<h2>9. Bid On Your Brand Terms</h2>
+<p>Bidding on your brand terms means more clicks for you and fewer clicks on your competitors. Even if you have great organic search visibility, there&#8217;s a chance that people could click on and buy from your competitor if you aren&#8217;t running PPC ads.</p>
+<p>You can see up to a 44% lift in incremental paid and organic clicks when you bid on your own brand terms. Bing Ads goes into this in detail in its <a href="https://www.slideshare.net/bingads/brand-term-bidding-an-offensive-defensive-strategy-travel-edition">Brand Term Bidding study</a>.</p>
+<p>Brand terms are incredibly important for theme parks and cruise lines, as the Bing travel study pointed out. Check out the top branded searches for theme parks:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/theme-parks-branded-searches.png" alt="branded travel searches" width="700" height="322" /></div>
+<p>And for cruises:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/branded-cruise-travel-searches.png" alt="keyword research for travel marketing" width="700" height="339" /></div>
+<p><strong>Travel Marketing Tip:</strong> It was previously suggested in <a href="/blog/ws/2015/05/26/travel-marketing-tips">5 Data-Driven Travel Marketing Tips</a> here on the WordStream blog, and it&#8217;s worth repeating: Bid aggressively on brand terms to make sure you maximize your visibility in the SERPs.</p>
+<h2>10. Close the Loop with Remarketing</h2>
+<p>If we know a customer&#8217;s journey can include dozens of searches and visits to hundreds of web pages, then remarketing can be your most valuable weapon. Remarketing ensures that one interaction someone has with your brand isn&#8217;t the only interaction.</p>
+<p>As WordStream has shown in the past, <a href="/blog/ws/2015/10/01/remarketing-facts">remarketing is incredibly valuable</a>.</p>
+<p>People who know and like your brand will be more receptive to your future messaging, and they&#8217;re also <a href="/blog/ws/2015/08/10/increase-conversion-rates">more likely to convert</a>. <a href="/conversion-rate">Conversion rates</a> are 2x-3x higher for repeat visitors than first-time visitors:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-vs-repeat-visitor-conv-rates-branding-value.png" alt="conversion rates for repeat visitors" width="897" height="487" /></div>
+<p><strong>Travel Marketing Tip</strong>: The travel purchase cycle can be a long and winding road. Use remarketing to make sure consumers can always find their way back to you.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips">10 Powerful Tips for Better Travel Marketing This Year</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/04/19/travel-marketing-tips/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

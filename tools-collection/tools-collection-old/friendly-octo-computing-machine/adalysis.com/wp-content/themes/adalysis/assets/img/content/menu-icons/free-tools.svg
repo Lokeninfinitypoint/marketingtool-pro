@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Resources" transform="translate(-54, -193)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(22, 22)">
+                <g id="design-tool-pencil-ruler" transform="translate(33, 172)">
+                    <path d="M3,22.5 L3,22.5 C1.34314649,22.5 0,21.1568542 0,19.5 L0,6.708 C-0.000327536405,6.24239874 0.108229407,5.78317205 0.317000742,5.367 L2.32900074,1.342 C2.45597327,1.08771444 2.71577694,0.927050742 3,0.927050742 C3.28422454,0.927050742 3.54402821,1.08771444 3.67100074,1.342 L5.68300074,5.367 C5.89177208,5.78317205 6.00032902,6.24239874 6,6.708 L6,19.5 C6,21.1568542 4.65685499,22.5 3,22.5 Z" id="Shape" stroke="#3A56BC"></path>
+                    <line x1="0.0850007423" y1="6" x2="5.91500074" y2="6" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="7.42325938e-07" y1="18.75" x2="6.00000074" y2="18.75" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="10.5000007" y1="4.5" x2="13.5000007" y2="4.5" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="10.5000007" y1="9" x2="13.5000007" y2="9" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="10.5000007" y1="13.5" x2="13.5000007" y2="13.5" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="10.5000007" y1="18" x2="13.5000007" y2="18" id="Shape" stroke="#FFAF24"></line>
+                    <rect id="Rectangle-path" stroke="#3A56BC" x="10.5000007" y="0" width="9" height="22.5" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

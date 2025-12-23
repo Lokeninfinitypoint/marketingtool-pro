@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shopping-Web-Advertising-Browser--Streamline-Ultimate</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Agency-V3" transform="translate(-1093, -8347)" stroke-width="2.272">
+            <g id="Shopping-Web-Advertising-Browser--Streamline-Ultimate" transform="translate(1095, 8349)">
+                <path d="M2.84444444,0 L29.1555556,0 C29.1555556,0 32,0 32,2.8 L32,25.2 C32,25.2 32,28 29.1555556,28 L2.84444444,28 C2.84444444,28 0,28 0,25.2 L0,2.8 C0,2.8 0,0 2.84444444,0" id="Path" stroke="#2A4BC2"></path>
+                <line x1="0" y1="5.6" x2="32" y2="5.6" id="Path" stroke="#2A4BC2"></line>
+                <line x1="26.3111111" y1="4.6629367e-16" x2="26.3111111" y2="5.6" id="Path" stroke="#2A4BC2"></line>
+                <line x1="21.3333333" y1="4.6629367e-16" x2="21.3333333" y2="5.6" id="Path" stroke="#2A4BC2"></line>
+                <path d="M14.2222222,21.7 L14.2222222,14 C14.2222222,12.4536027 12.9487211,11.2 11.3777778,11.2 C9.80683449,11.2 8.53333333,12.4536027 8.53333333,14 L8.53333333,21.7" id="Path" stroke="#FFAF24"></path>
+                <line x1="8.53333333" y1="17.5" x2="14.2222222" y2="17.5" id="Path" stroke="#FFAF24"></line>
+                <path d="M19.2,11.2 L21.3333333,11.2 C22.9042766,11.2 24.1777778,12.4536027 24.1777778,14 L24.1777778,18.9 C24.1777778,19.6426062 23.8780961,20.3547971 23.3446593,20.879899 C22.8112225,21.4050008 22.0877269,21.7 21.3333333,21.7 L19.2,21.7 L19.2,11.2 Z" id="Path" stroke="#FFAF24"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,391 @@
+.lokendra-singhs-stunning-site--rt-integration {
+  padding-top: 15.625rem;
+  padding-bottom: 5rem;
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-integration {
+    margin-top: 0px;
+    padding-top: 3.75rem;
+    padding-bottom: 2.5rem;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-position-relative {
+  position: relative;
+}
+
+.lokendra-singhs-stunning-site--rt-faq-top-image-main {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 350px;
+
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-faq-top-image-main {
+    bottom: 500px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-faq-top-image-main {
+    bottom: 374px;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-faq-top-image-main.lokendra-singhs-stunning-site--rt-integration-top-image {
+  bottom: 56%;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-faq-top-image-main.lokendra-singhs-stunning-site--rt-integration-top-image {
+    bottom: 62%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-overflow-hidden {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-tab-display-none {
+    display: none;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-faq-top-image-wrap {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.lokendra-singhs-stunning-site--rt-faq-image-overlay {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+
+  background-color: #000220;
+}
+
+.lokendra-singhs-stunning-site--rt-container-small {
+  width: 100%;
+  max-width: 82.5rem;
+  padding-right: 0.9375rem;
+  padding-left: 0.9375rem;
+}
+
+.lokendra-singhs-stunning-site--rt-integration-heading-main {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.lokendra-singhs-stunning-site--rt-integration-heading-wrap {
+  max-width: 38.9375rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.lokendra-singhs-stunning-site--rt-desktop-text-center {
+  text-align: center;
+}
+
+.lokendra-singhs-stunning-site--rt-sub-text {
+  font-family: 'Chivo Mono';
+  color: var(--lokendra-singhs-stunning-site_color---color--white);
+  font-size: 1.0625rem;
+  line-height: 1.625;
+  font-weight: 400;
+  letter-spacing: 0.09rem;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-sub-text {
+    font-size: 14px;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-sub-text.lokendra-singhs-stunning-site--rt-sub-text-bottom-gap {
+  margin-bottom: 0.625rem;
+}
+
+.lokendra-singhs-stunning-site--rt-sub-text.lokendra-singhs-stunning-site--rt-linear {
+  background-image: linear-gradient(265deg, hsla(0.8759124087591208, 86.16%, 68.82%, 1.00), #fbad7c 35%, hsla(24.761904761904766, 94.03%, 73.73%, 1.00) 52%, #fbb07d 73%, hsla(0.8759124087591208, 86.16%, 68.82%, 1.00));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.lokendra-singhs-stunning-site--rt-integration-image-main {
+  margin-top: 1.875rem;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-main {
+    margin-top: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-main {
+    margin-top: 0px;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-image-wrap {
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-wrap {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-landscape-display-none {
+    display: none;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-image-v1 {
+  max-width: 24.625rem;
+  transform: translate(4px, -26px);
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v1 {
+    max-width: 550px;
+    transform: translate(4px, -36px);
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v1 {
+    margin-bottom: 48px;
+    transform: translate(4px, 0px);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v1.lokendra-singhs-stunning-site--rt-position-relative {
+    transform: translate(4px, 8px);
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-auto-fit {
+  object-fit: cover;
+}
+
+.lokendra-singhs-stunning-site--rt-desktop-image-full-width {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-tab-image-full-width {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-overlay {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+
+  background-color: hsla(236.25, 100.00%, 6.27%, 1.00);
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v1 {
+  position: absolute;
+  left: auto;
+  top: 31%;
+  right: 35%;
+  bottom: auto;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v1 {
+    right: 40%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v1 {
+    top: 29%;
+    right: 33%;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon {
+  width: 90%;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon {
+    width: 100%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v2 {
+  position: absolute;
+  left: 23%;
+  top: auto;
+  right: auto;
+  bottom: 28%;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v2 {
+    left: 28%;
+    bottom: 32%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v3 {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 23%;
+  bottom: 14%;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v3 {
+    bottom: 16%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-wrap {
+    width: 28%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-image-v2 {
+  max-width: 24.625rem;
+  transform: translate(-5px, -56px);
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v2 {
+    max-width: 550px;
+    transform: translate(-5px, -78px);
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v2 {
+    transform: translate(-5px, -45px);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-image-v2.lokendra-singhs-stunning-site--rt-position-relative {
+    transform: translate(-5px, -27px);
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v4 {
+  position: absolute;
+  left: 28%;
+  top: auto;
+  right: auto;
+  bottom: 39%;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v4 {
+    bottom: 43%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v5 {
+  position: absolute;
+  left: 45%;
+  top: auto;
+  right: auto;
+  bottom: 10%;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v5 {
+    bottom: 19%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v5 {
+    left: 42%;
+    bottom: 2%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-icon-v6 {
+  position: absolute;
+  left: auto;
+  top: 31%;
+  right: 20%;
+  bottom: auto;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-icon-v6 {
+    top: 34%;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-image {
+  display: none;
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-image {
+    display: block;
+  }
+}
+
+.lokendra-singhs-stunning-site--rt-integration-gradient {
+  position: absolute;
+  width: 31.25rem;
+  height: 31.25rem;
+  background-image: radial-gradient(circle farthest-corner at 50% 41%, hsla(260.18957345971563, 100.00%, 58.63%, 0.23), hsla(0, 0.00%, 100.00%, 0.00) 48%);
+  pointer-events: none;
+}
+
+@media screen and (min-width: 1280px) {
+  .lokendra-singhs-stunning-site--rt-integration-gradient {
+    background-image: radial-gradient(circle farthest-corner at 50% 41%, hsla(260.18957345971563, 100.00%, 58.63%, 0.23), hsla(0, 0.00%, 100.00%, 0.00) 65%);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lokendra-singhs-stunning-site--rt-integration-gradient {
+    width: 12.5rem;
+    height: 12.5rem;
+    background-image: radial-gradient(circle farthest-corner at 50% 50%, hsla(260.18957345971563, 100.00%, 58.63%, 0.23), hsla(0, 0.00%, 100.00%, 0.00) 47%);
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .lokendra-singhs-stunning-site--rt-mobile-display-none {
+    display: none;
+  }
+}

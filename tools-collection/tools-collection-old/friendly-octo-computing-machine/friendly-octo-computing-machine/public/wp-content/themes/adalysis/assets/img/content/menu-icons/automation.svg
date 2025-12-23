@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu" transform="translate(-397, -225)" stroke-width="1.5">
+            <g id="loading-circle-1" transform="translate(398, 226)">
+                <path d="M11.2544662,3.7 C15.3966018,3.7 18.7544662,7.05786438 18.7544662,11.2 C18.7544662,15.3421356 15.3966018,18.7 11.2544662,18.7 C7.11233059,18.7 3.75446621,15.3421356 3.75446621,11.2" id="Shape" stroke="#FFAF24"></path>
+                <path d="M22.1964662,13.776 C21.9630351,14.7696444 21.5974455,15.7275094 21.1094662,16.624" id="Shape" stroke="#3A56BC"></path>
+                <path d="M19.0684662,19.284 C18.3293367,19.9879723 17.5045175,20.5960874 16.6134662,21.094" id="Shape" stroke="#3A56BC"></path>
+                <path d="M12.2474662,0 C13.264377,0.0900877526 14.2640722,0.319570104 15.2184662,0.682" id="Shape" stroke="#3A56BC"></path>
+                <path d="M18.1424662,2.318 C18.9520985,2.93971226 19.6695617,3.67299944 20.2734662,4.496" id="Shape" stroke="#3A56BC"></path>
+                <path d="M21.8544662,7.453 C22.2031103,8.41252812 22.4099536,9.41777324 22.4684662,10.437" id="Shape" stroke="#3A56BC"></path>
+                <path d="M13.5044662,22.225 C7.41552684,23.4676407 1.4721069,19.5389394 0.229466212,13.45 C-1.01317448,7.36106063 2.91552684,1.41764069 9.00446621,0.175" id="Shape" stroke="#3A56BC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

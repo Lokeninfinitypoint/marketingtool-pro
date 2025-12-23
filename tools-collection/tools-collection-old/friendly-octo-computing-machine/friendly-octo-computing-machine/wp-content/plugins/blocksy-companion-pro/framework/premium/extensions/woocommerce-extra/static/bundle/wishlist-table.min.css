@@ -1,0 +1,8 @@
+/**
+ *  - v2.1.17
+ * 
+ * Copyright (c) 2025
+ * Licensed GPLv2+
+ */
+
+.wishlist-product-actions{width:300px;text-align:end}.wishlist-product-actions .product_type_variable{width:100%}.ct-woocommerce-wishlist-table{--table-padding: 1.3em 0.7em}.ct-woocommerce-wishlist-table .ct-cart-actions>*{margin-bottom:0}.ct-woocommerce-wishlist-table .single_add_to_cart_button~.added_to_cart{display:none}.ct-woocommerce-wishlist-table :is(.button,.quantity){--theme-button-min-height: 40px}.ct-woocommerce-wishlist-table .stock.in-stock{display:none}.ct-woocommerce-wishlist-table .stock:last-child{margin-bottom:0}@media(max-width: 999.98px){.ct-woocommerce-wishlist-table :is(.quantity,.wishlist-product-remove,.wishlist-product-actions){display:none}}

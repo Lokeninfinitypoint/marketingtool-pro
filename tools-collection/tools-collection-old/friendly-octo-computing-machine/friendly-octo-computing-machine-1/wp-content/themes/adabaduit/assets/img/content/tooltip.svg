@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Comparison-page-Adabaduit-vs.-TrueClick" transform="translate(-618, -1040)" stroke="#3C4858" stroke-width="1.34">
+            <g id="question-circle" transform="translate(619, 1041)">
+                <path d="M5.86666667,5.86666667 C5.86687383,4.78181632 6.68121156,3.86987387 7.75912451,3.74738301 C8.83703745,3.62489216 9.8352302,4.33086398 10.0788472,5.38800687 C10.3224642,6.44514976 9.73391784,7.51678319 8.71111111,7.8784 C8.28473467,8.02914677 7.99976292,8.4323818 8,8.88462222 L8,9.6" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,11.7333333 C7.85272407,11.7333333 7.73333333,11.8527241 7.73333333,12 C7.73333333,12.1472759 7.85272407,12.2666667 8,12.2666667 C8.14727593,12.2666667 8.26666667,12.1472759 8.26666667,12 C8.26666667,11.8527241 8.14727593,11.7333333 8,11.7333333 L8,11.7333333" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" cx="8" cy="8" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

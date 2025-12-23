@@ -1,0 +1,8 @@
+/**
+ *  - v2.1.17
+ * 
+ * Copyright (c) 2025
+ * Licensed GPLv2+
+ */
+
+.ct-active-filters{display:flex;font-size:14px}.ct-active-filters:not([data-display-type]):not(:empty){margin-bottom:25px}.ct-active-filters:not([data-display-type=list]){flex-wrap:wrap;gap:15px}.ct-active-filters[data-display-type=list]{flex-direction:column;row-gap:15px}.ct-active-filters[data-display-type=list] ul{display:flex;flex-direction:column;gap:10px;padding:0}.ct-active-filters[data-display-type=list] .ct-active-filter-name{font-weight:600}.ct-active-filters>span{padding-inline-end:15px;border-inline-end:1px solid var(--theme-border-color)}.ct-active-filters>span:empty{display:none}.ct-active-filters a{display:inline-flex;align-items:center;justify-content:center;gap:.3em;--theme-link-initial-color: var(--theme-text-color)}

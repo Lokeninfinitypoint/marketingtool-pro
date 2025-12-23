@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Auditing" transform="translate(-1345, -753)" stroke-width="2.28571429">
+            <g id="Group-22" transform="translate(1262, 732)">
+                <g id="Group-26-Copy-2" transform="translate(65, 0)">
+                    <g id="alarm-bell-ring" transform="translate(20, 23)">
+                        <path d="M8.09752381,4.21485714 C6.51552345,5.09334189 5.21155861,6.39783466 4.33371429,7.98019048" id="Shape" stroke="#FFAF24"></path>
+                        <path d="M6.81904762,0 C3.51787397,0.938578045 0.937840411,3.51918815 0,6.82057143" id="Shape" stroke="#FFAF24"></path>
+                        <line x1="4.57142857" y1="25.1428571" x2="27.4285714" y2="25.1428571" id="Shape" stroke="#3A56BC"></line>
+                        <path d="M27.4285714,25.1428571 C27.4285714,25.1428571 25.1428571,23.1527619 25.1428571,16 C25.1428571,10.2857143 21.2388571,5.22971429 16,5.22971429 C10.7611429,5.22971429 6.85714286,10.2857143 6.85714286,16 C6.85714286,23.1908571 4.57142857,25.1428571 4.57142857,25.1428571" id="Shape" stroke="#3A56BC"></path>
+                        <path d="M18.2857143,29.7142857 C18.2857143,30.9766509 17.2623651,32 16,32 C14.7376349,32 13.7142857,30.9766509 13.7142857,29.7142857" id="Shape" stroke="#3A56BC"></path>
+                        <line x1="16" y1="5.22971429" x2="16" y2="2.28571429" id="Shape" stroke="#3A56BC"></line>
+                        <path d="M23.9024762,4.21485714 C24.6883094,4.65360291 25.410218,5.19811073 26.048,5.83314286 C26.6841009,6.47056336 27.2287183,7.19313015 27.6662857,7.98019048" id="Shape" stroke="#FFAF24"></path>
+                        <path d="M25.1809524,0 C28.482126,0.938578045 31.0621596,3.51918815 32,6.82057143" id="Shape" stroke="#FFAF24"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

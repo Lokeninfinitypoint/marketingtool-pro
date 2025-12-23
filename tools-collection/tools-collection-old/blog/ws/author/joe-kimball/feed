@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Joe Kimball, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/joe-kimball/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sat, 12 Nov 2022 04:23:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Joe Kimball, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>1 Million Reports Later, Some Exciting Updates to the AdWords Grader</title>
+		<link>https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates#respond</comments>
+		
+		<dc:creator><![CDATA[Joe Kimball]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Reporting & Analysis]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates/</guid>
+
+					<description><![CDATA[<p>After delivering 1 million free reports, we're announcing big changes to the AdWords Performance Grader: new support for Expanded Text Ads and greatly enhanced mobile data and analysis.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates">1 Million Reports Later, Some Exciting Updates to the AdWords Grader</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>1 Million Reports Later, Some Exciting Updates to the AdWords Grader</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+June 11, 2020</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">Reporting &amp; Analysis</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>We hit a pretty huge milestone this month: Over the past five years, our <a href="/google-adwords">AdWords Performance Grader</a> has delivered more than 1 MILLION free reports (over $9 billion in unique ad spend) and helped countless businesses and marketing agencies of all sizes and all over the world understand how their AdWords accounts are performing and where they’re missing opportunities.</p>
+<p>In those five years, AdWords itself has changed a lot. We’re constantly evolving our software and tools to stay on top of changes in AdWords and provide more actionable insights for our users. Today, we’re announcing one of the biggest updates in AdWords Performance Grader history – new support for Expanded Text Ads and greatly enhanced mobile data and analysis, including new mobile insights throughout the Grader report.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="072e4c08-f9d9-4a32-adbc-62f9f3df4880" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/updated-adwords-grader-eta-support.png" alt="new adwords grader" width="860" height="92" /></div>
+</article>
+</div>
+<p>Change is a constant in the online advertising industry, but recently it has been focused around the mobile revolution. Mobile now accounts for over 50% (<a href="http://searchengineland.com/report-nearly-60-percent-searches-now-mobile-devices-255025">some say 60%!</a>) of Google searches. To put that in context – <a href="http://60secondmarketer.com/blog/2011/10/18/more-mobile-phones-than-toothbrushes/">more people buy mobile phones</a> (and, we assume, conduct mobile searches) each year than buy toothbrushes. Given this reality, AdWords has shifted to a <a href="/blog/ws/2016/05/24/google-mobile-first">mobile-first approach</a>. What this means is that we as businesses can no longer address desktop audiences first and leave mobile as an afterthought.</p>
+<p>We also recognize the importance of Expanded Text Ads – Google is calling this its biggest change to AdWords in 16 years, and they aren’t kidding. This update, which roughly doubles the size of each ad, is a game-changer, and early adopters have the opportunity to really get ahead of the curve. (<a href="/blog/ws/2016/05/25/google-expanded-text-ads?camplink=sidebar">Read more about ETAs here</a>).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0d247465-67e2-4588-9909-3fd4d3b7bcfb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/updated-grader-new-sections.png" alt="new adwords grader features" width="343" height="518" /></div>
+</article>
+</div>
+<p>To help you understand the impact of Expanded Text Ads on your account, we created a brand-new section specifically focused on the new ad type, as well as unlimited access to our Expanded Text Ads Guide + Cheatsheet.</p>
+<p>Below, I’ll take you through the changes step-by-step and what you can expect to learn about your account performance when you get your free report.</p>
+<h2>*NEW* Expanded Text Ads Section</h2>
+<p>Expanded Text Ads are here, and that means you have some work ahead of you. Google and WordStream agree that to benefit from this change, <a href="/blog/ws/2016/07/26/expanded-text-ad-best-practices">simply “converting” your existing standard text ads into ETAs won’t cut it</a>. <strong>ETAs require you to rewrite your copy and change your approach.</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9a83c5ac-3f21-4184-99a1-29e0c352a162" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/expanded-text-ad-support-in-adwords-grader.png" alt="wordstream ad data" width="773" height="389" /></div>
+</article>
+</div>
+<p>As the deadline approaches, it’s time to start thinking about the transition and how you’ll tackle it. The Grader will check up on your progress so far and includes a simple guide to creating successful ETAs. You can also learn more about what ETAs are and how you are doing with the ETAs you already have going.</p>
+<h2>In-Context Mobile Insights</h2>
+<p>We’ve discovered that <a href="/blog/ws/2014/08/12/google-adwords-mobile-data">it’s much easier to fail on mobile</a> – <strong>mobile CTR drops off a whopping 45% just between positions 1 and 2</strong><strong>. </strong>And mobile CPC’s, formerly much cheaper than desktop clicks, are rising fast.</p>
+<p>So let’s take a look at how the AdWords Performance Grader helps you understand and improve your mobile performance. The updated version of the Grader has new mobile insights sprinkled throughout four key sections: Click-Through Rate Optimization, Text Ad Optimization, Best Practices, and Mobile Advertising.</p>
+<h3>Click-Through Rate Optimization</h3>
+<p>Keywords and ads perform differently on mobile vs. desktop. To highlight your device-based challenges, we have segmented out both average position and CTR by mobile, desktop and overall (includes all device types). With this new level of information, you can optimize your ads for specific device types to get the most out of your <a href="/blog/ws/2016/09/14/adwords-budget-guide">PPC budget</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="02f97fde-3f34-410e-abe4-8cdd1e1c06c6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/mobile-vs-desktop-ctr-adwords-grader.png" alt="mobile adwords audit" width="771" height="259" /></div>
+</article>
+</div>
+<h3>Text Ad Optimization</h3>
+<p>Understanding ad performance is very important so you can replicate your successes and avoid tactics that aren’t working. Ads perform differently on different devices, so we now segment out your best, worst and average-performing ads by device. This way, you can see which ad copy is best for mobile vs. desktop. Users can then build on this device-specific success.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c6a1b2fc-b911-4851-8e75-005791581a71" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/text-ad-optimization-grader-updates.png" alt="text ad optimization in adwords" width="643" height="477" /></div>
+</article>
+</div>
+<h3>Best Practices</h3>
+<p>We have added a new mobile best practice check. The check is designed to see if your account is using mobile bid modifiers (mobile device bidding) on any ad group. Modifying your bids for mobile is a great way to be smart about your budget and target mobile impressions for mobile-optimized ad groups.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9e6143da-cd77-499a-a4b8-708dd9fc7449" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-adwords-grader-updates-best-practices.png" alt="adwords best practices check" width="636" height="655" /></div>
+</article>
+</div>
+<h3>Mobile Advertising</h3>
+<p>The Mobile Advertising section has been completely redesigned. This section helps you understand how your mobile budget and mobile ad optimization compare to others in your industry, with in-depth cost-per-click analysis to show how your mobile-specific bids stack up against the competition.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f0e955f3-6bfb-4a7f-8431-722d727ed8b7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-mobile-ad-section-in-grader.png" alt="udpated adwords performance grader" width="781" height="335" /></div>
+</article>
+</div>
+<p>NOTE: This section is available exclusively for WordStream customers. However, all the other mobile features above are available to all.</p>
+<h2>Here’s to the Next Million!</h2>
+<p><a href="/google-adwords">Check out the updated AdWords Performance Grader now</a> – free as always and better than ever.</p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates">1 Million Reports Later, Some Exciting Updates to the AdWords Grader</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/09/16/adwords-grader-updates/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The New &#038; Improved Way to Audit Your PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool#respond</comments>
+		
+		<dc:creator><![CDATA[Joe Kimball]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool/</guid>
+
+					<description><![CDATA[<p>Need a PPC audit? The WordStream AdWords Performance Grader is fast, easy and free -- and now delivers a better PPC audit than ever.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool">The New &amp; Improved Way to Audit Your PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<div class="tag">
+<p>Walking around our office, I often hear the words “AdWords is hard.” This is something that we in Product and Engineering really take to heart as we strive to simplify PPC marketing for our users.</p>
+</div>
+</div>
+</div>
+<div class="column">
+<p>As users, I imagine that you have similar feelings about the challenges of Google AdWords and often wonder if your hard work is paying off. Sometimes validating your efforts can be harder than you think, especially if you want to understand your performance not just in isolation but against other businesses like yours.</p>
+<p>This is one of the fundamental reasons we created the <a href="/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">AdWords Performance Grader</a> back in 2011. In the past 4 years, our AdWords Performance Grader has audited over 500,000 AdWords accounts with a cumulative PPC spend of almost $2.3 billion.</p>
+<p>Over the years we’ve received lots of excellent feedback from our users on how we could improve our free PPC audit tool. With this feedback in mind, we launched an initiative early this year to redesign the tool. We spent about 6 months designing, building and testing our new tool, and I am excited to share the news that this work is now complete. I am equally excited to highlight the ways that the new AdWords Performance Grader does a better job helping you understand how you’re doing with your AdWords PPC marketing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="205a528b-dd91-4d1a-9158-3a68185fee23" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-ppc-audit-grader-tool1.png" alt="adwords grader" width="1220" height="812" /></div>
+</article>
+</div>
+<p>Before we get started, here’s a little bit more about me: I’m a Product Manager here at WordStream. I’ve been with WordStream for 7 months now and come from a background of mobile applications and data/analytics. Here at WordStream I oversee our <a href="/wordstream-graders">suite of free tools</a>, including the AdWords Performance Grader, Bing Performance Grader, AdWords Landing Page Grader and our keyword tools.</p>
+<h2>How the AdWords Performance Grader Works</h2>
+<p>The AdWords Performance Grader uses WordStream’s proprietary algorithms to analyze and audit your AdWords account across 10 key areas. It compares your performance to industry benchmarks derived from WordStream’s years of experience and intimate knowledge of AdWords. You are then assigned a grade based on your performance vs. these benchmarks and provided with a detailed report outlining how to improve your account.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="27bcf9d4-5acd-4ff4-8e28-e40a6eb1e93e" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/WO1m_gEgmqA?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>Inside the Redesign Process</h2>
+<p>When we analyzed our user feedback on the old AdWords Performance Grader we found a few common pain points. To address these concerns we focused our new design on:</p>
+<ul>
+<li>Fresh look &amp; feel</li>
+<li>A “Top 3” summary section</li>
+<li>Interactive navigation menu</li>
+<li>Integrated Performance Tracker</li>
+<li>Share-ability</li>
+<li>Mobile responsive</li>
+</ul>
+<p>These key features paired with improvements to our on-boarding pages were the main focus of our redesign efforts, and I’ll go into all the improvements in more detail below.</p>
+<h2>Fresh Look &amp; Feel</h2>
+<p>We all know it’s true; image is everything, whether we’re talking about your ads, your landing pages or the report that’s doing a fantastic job helping you understand your AdWords Performance (and explain it to your manager). If it looks good, it performs better. We know this tool may be one of your first impressions of us as a company, and we want to ensure that we are delivering the same high level of quality we employ in all our products. We also know that many of you share the report with clients or co-workers, and whenever you share something it is an extension of you, so you want it to be as professional as you are.</p>
+<p>Some of the main missions of the new AdWords Performance Grader were to reduce the amount of text and clutter while making the report easier to digest. In the new report we have restructured the way that we deliver information, keeping the most important pieces of information in the spotlight and employing tooltips to house additional details and explanations. We also restructured the layout of the audit report to increase readability and make more efficient use of space.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="020f6ab0-b720-481e-a8ec-56fd153ed92c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/improved-ppc-audit-report-card.png" alt="get a ppc audit" width="1226" height="811" /></div>
+</article>
+</div>
+<h2>“Top 3” Section</h2>
+<p>Many users asked us for an overview section to help summarize the report, so we created the “Top 3” section. With 10 detailed sections it can take some time to analyze them all. If you are looking to quickly understand which parts of your account require immediate attention then the Top 3 is for you.</p>
+<p>When we generate your report, we find <strong>the 3 sections that require the most immediate attention</strong> and display them right at the top of your report. If you would like more details about one of the sections displayed in the Top 3, you can simply click on the hyperlinked text and we will bring you to the more detailed section of the report.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="36c1d79e-9e7f-4557-a2cc-4329019b95c7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-audit-top-3.png" alt="fast ppc audit" width="1205" height="514" /></div>
+</article>
+</div>
+<h2>Interactive Navigation Menu</h2>
+<p>We know that for many of you, PPC marketing is not your full-time job, just one of the many hats you wear throughout the day. You want the ability to glean information with a quick glance and need hard data to delve into when time allows.</p>
+<p>We designed our new interactive navigation menu with you in mind. The days of scrolling through page after page to view your data are over. The new menu features clickable tiles that display color-coded section scores so you can easily see which sections need immediate attention and which sections you are knocking out of the park.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f0484e37-8487-4248-8732-faa6a6098e57" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/interactive-ppc-audit-report.png" alt="easy ppc audit" width="1202" height="834" /></div>
+</article>
+</div>
+<h2>Integrated Performance Tracker</h2>
+<p>The Performance Tracker feature of the AdWords Performance Grader focuses on providing trend data on your account’s performance over time. When you first audit your account with our AdWords Performance Grader, we turn on this free feature and will send you an updated performance report each month. Does it get any easier than that? Just kick back and let us do the work. All you need to do is keep an eye on your inbox for your new report. Of course you can turn this feature off, but who wouldn’t want free monthly account insights?</p>
+<p>The way that we display your Performance Tracker data to you has changed in the new report. Performance Tracker data is now integrated onto the report as its own section. You can also find Performance Tracker information embedded right into each of the other report sections to make identifying trends even easier.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9e71344a-edcd-40ac-ae29-38c07f90f4f2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/month-over-month-ppc-audit-report.png" alt="ppc audit report" width="1034" height="562" /></div>
+</article>
+</div>
+<h2>Mobile Responsive Pages</h2>
+<p>In a market dominated by mobile we have introduced the new AdWords Performance Grader in a responsive format. You can now check on your account performance anytime from your tablet or smartphone.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="32989140-b985-4a24-b36b-0a1cd66c83ea" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/mobile-friendly-ppc-audit.png" alt="mobile ppc audit" width="845" height="770" /></div>
+</article>
+</div>
+<h2>Easy to Share</h2>
+<p>With all these great improvements and valuable insight packed into the new AdWords Performance Grader report, you’ll probably find yourself wanting to share it with colleagues, clients or friends. The new report is now easier to share than ever. You can share the PPC audit tool (not your score, that is private and we would never share that with anyone) on Facebook, LinkedIn, Twitter or Google+ with just the click of a button. Or, if you would like to share the report itself, you are just a click away from printing or emailing the report.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ed0f83bc-0dad-42cf-88a5-7797a064d658" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/share-my-ppc-audit.png" alt="how to audit a ppc account" width="224" height="151" /></div>
+</article>
+</div>
+<h2>Try the NEW &amp; Improved AdWords Performance Grader!</h2>
+<p>Whether you have used our <a href="/google-adwords">AdWords Performance Grader</a> before or this is the first you’ve heard of it, give it a try. It is packed with valuable account insights and is better than ever!</p>
+<p>Once you’ve used the tool, please share your thoughts and feedback as either a comment below or in <a href="mailto:jkimball@wordstream.com?subject=New%20AdWords%20Performance%20Grader">an email to me</a>. I love hearing from customers!</p>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool">The New &amp; Improved Way to Audit Your PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/08/10/ppc-audit-tool/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

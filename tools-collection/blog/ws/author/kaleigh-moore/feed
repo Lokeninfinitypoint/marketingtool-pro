@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaleigh Moore, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/kaleigh-moore/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 03 Nov 2025 16:17:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Kaleigh Moore, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AI Prompts for Holiday Marketing Emails, Social Posts, &#038; More</title>
+		<link>https://www.wordstream.com/blog/holiday-ai-prompts</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 14:06:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=95209</guid>
+
+					<description><![CDATA[<p>Use AI to grow on every channel this holiday season. These prompts will help you do it.</p>
+<p>The post <a href="https://www.wordstream.com/blog/holiday-ai-prompts">AI Prompts for Holiday Marketing Emails, Social Posts, &#038; More</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The holiday season is the busiest marketing time of the year, and many small business owners find themselves scrambling to create campaigns, emails, social content, and ads.</p>
+<p>This is where AI can become your secret weapon. With the right prompts, you can generate compelling holiday marketing content in <em>minutes</em> instead of hours.</p>
+<p>That said, generic AI prompts won&#8217;t cut it. You need holiday-specific prompts tailored to your target audience for maximum relevancy.</p>
+<p>Below, you&#8217;ll find actionable holiday marketing AI prompts for small businesses that are organized by channel—ready for you to customize and use right away.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#quick-tips-for-holiday-ai-prompts">Quick tips for top-notch holiday AI prompts</a></li>
+<li><a href="#holiday-ai-prompts-for-all-marketing-channels">39 holiday AI prompts for all marketing channels</a>
+<ul>
+<li><a href="#prompts-for-social-media">Prompts for social media</a></li>
+<li><a href="#prompts-for-email-marketing">Prompts for email marketing</a></li>
+<li><a href="#prompts-for-content-strategy">Prompts for content marketing</a></li>
+<li><a href="#prompts-for-design-and-visual-content">Prompts for design and visual content</a></li>
+<li><a href="#prompts-for-performance">AI prompts for performance and optimization</a></li>
+</ul>
+</li>
+</ul>
+<div id="quick-tips-for-holiday-ai-prompts">
+<h2>3 quick tips for top-notch holiday AI prompts</h2>
+<p>Before we get into the nuts and bolts of the prompts themselves, let’s first go over some best practices for creating holiday marketing <a href="https://www.wordstream.com/blog/ai-prompts">AI prompts</a> that will help you work more efficiently, effectively, and spend less time re-writing <a href="https://www.wordstream.com/blog/ws/2022/02/25/ai-content-generators">AI-generated content</a>.</p>
+<h3>Be specific with your holidays and promotions</h3>
+<p>Instead of asking for general &#8220;holiday content,&#8221; specify which <a href="https://www.wordstream.com/blog/ws/2017/10/17/holiday-marketing-ideas">holidays you&#8217;re promoting</a> (Black Friday, Christmas, <a href="https://www.wordstream.com/blog/ws/2022/12/07/happy-new-year-wishes">New Year&#8217;s</a>, Hanukkah, Kwanzaa), your discount percentage, your product focus, and your target customer. Sometimes the tool will even ask you to be more specific because the prompt is too broad.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-campaign-request.webp" alt="Holiday AI prompts - AI request for a holiday campaign." width="937" height="400" class="aligncenter wp-image-95211 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-campaign-request.webp 937w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-campaign-request-480x205.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 937px, 100vw" /></p>
+<h3>Include guidelines about your brand voice</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2022/11/16/inclusive-holiday-marketing-ideas">Holiday marketing</a> can get cheesy, and after a while, it all sounds the same. Use AI prompts that specify whether you want festive and fun, elegant and minimal, humorous, or sentimental. The more detailed you can be about your brand&#8217;s personality, the better the marketing content will turn out.</p>
+<p>Pro tip: Some<a href="https://www.wordstream.com/blog/ai-tools-for-marketing-agency"> AI tools</a>, like Claude, let you customize your tone and even upload full brand voice guidelines (so you don’t have to do this every time you need a new prompt).</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-claude.webp" alt="Holiday AI prompts - Screenshot from Claude AI" width="937" height="481" class="aligncenter wp-image-95212 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-claude.webp 937w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-claude-480x246.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 937px, 100vw" /></p>
+<h3>Always edit and personalize</h3>
+<p>AI is a starting point, not a finish line. Review all outputs, add specific details about your business, and ensure the tone matches your <em>actual</em> <a href="https://www.wordstream.com/blog/ws/2021/03/31/brand-personality-messaging">brand voice</a>. This &#8220;human touch&#8221; is what turns AI drafts into content worth publishing.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Get more AI tips, tricks, and ideas! </strong>Download the free, complete guide to <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteAIinMarketingGuide.html?cid=Web_Any_BlogInContent_PPC_AIMarketing_Download">AI in marketing</a>!</p>
+<div id="holiday-ai-prompts-for-all-marketing-channels"></div>
+<h2>39 holiday AI prompts for all marketing channels</h2>
+<p><a href="https://www.wordstream.com/blog/ws/2013/10/15/multi-channel-marketing">Multi-channel marketing</a> is the key to holiday sales success. These prompts will help you succeed on social media, excel in email, and scale all your seasonal strategies.</p>
+<div id="prompts-for-social-media"></div>
+<h3>Holiday AI prompts for social media</h3>
+<p><a href="https://localiq.com/blog/social-media-holidays/" target="_blank" rel="noopener">Social media</a> is where most holiday shopping decisions happen. Use these marketing prompts to keep your followers engaged throughout the season.</p>
+<h4>Product promotion posts</h4>
+<p>Want to drive sales on specific products during the holidays? With these prompts, you can speed up ideation and iteration on the never-ending hamster wheel of<a href="https://localiq.com/blog/types-of-social-media-content/" target="_blank" rel="noopener"> social media content</a> that all small businesses need during the holiday shopping season.</p>
+<p>Try these prompts to produce premier promotional posts:</p>
+<ul>
+<li>Write three <a href="https://www.wordstream.com/blog/ws/2020/01/23/instagram-carousel-ads">Instagram carousel posts</a> promoting my [product type] holiday sale. The sale is [discount percentage] off from [date] to [date]. My target audience is [describe audience], and my brand voice is [fun and playful, sophisticated and upscale]. Include relevant emojis and a strong call to action.</li>
+<li>Create five short-form TikTok or <a href="https://www.wordstream.com/blog/ws/2021/06/22/instagram-reels-ideas-for-businesses">Instagram Reel</a> script ideas featuring my [product or service]. Each should be 15-30 seconds long, emphasize how this product makes the perfect holiday gift, and include trending audio suggestions. My <a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience">target audience</a> is [age range/demographic].</li>
+<li>Write three <a href="https://www.wordstream.com/blog/ws/2022/03/10/facebook-post-ideas">Facebook posts</a> announcing my holiday flash sale on [product category]. Include the sale details, scarcity messaging (limited quantity or time), and encourage sharing. Use a [casual/professional/humorous] tone.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-product-promotion.webp" alt="Holiday AI prompts - Holiday post ideas from ChatGPT." width="937" height="371" class="aligncenter wp-image-95213 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-product-promotion.webp 937w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-product-promotion-480x190.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 937px, 100vw" /></p>
+<h4>Gift guide content</h4>
+<p>Gift guides are social media gold during the holidays. They help overwhelmed shoppers make decisions, position your products as solutions, and can be repurposed across multiple platforms.</p>
+<p>The key is making your gift guides specific enough to be helpful—vague &#8220;holiday gift ideas&#8221; posts get scrolled past, but &#8220;gifts for the coffee obsessed under $30&#8221; stops thumbs mid-scroll.</p>
+<p>Give AI these prompts to get gift guides that sell this season:</p>
+<ul>
+<li>Create a gift guide social media post series (5-7 posts) for my [industry] business. Each post should feature one gift idea under $[budget], explain why it&#8217;s a good holiday gift, include a link to the product, and use hashtags. My target audience is [describe audience].</li>
+<li>Write a holiday gift guide carousel post for Instagram featuring my top [number] bestsellers. For each product, include the name, price, and a brief description explaining who this gift is ideal for. Use a festive but [sophisticated/playful/trendy] tone.</li>
+<li>Create a &#8216;Gifts for [the tech lover, the homebody, the fitness enthusiast]&#8217; social media post for my [industry] business. Feature 3-4 products from my store, explain why each is a perfect match for this person, and include price points. Make it helpful, not salesy.</li>
+<li>Write a &#8216;stocking stuffer&#8217; gift guide post featuring items from my [industry] business under $[price point]. Include 5-6 product suggestions with brief descriptions. Use a fun, festive tone and include relevant <a href="https://www.wordstream.com/blog/ws/2019/05/29/instagram-hashtags">hashtags</a> like #stockingstuffers and #giftideas.</li>
+<li>Create a &#8216;last-minute gift ideas&#8217; social media post series (3 posts) for procrastinators. Each post should highlight [products/services] from my [industry] business that can be purchased/delivered quickly. Include urgency without being pushy, and mention shipping deadlines or digital delivery options.</li>
+<li>Write a luxury gift guide post for my [industry] business featuring premium items over $[price point]. Position these as &#8216;splurge-worthy gifts&#8217; or &#8216;gifts for someone special.&#8217; Include 4-5 products with elegant descriptions that justify the higher price points.</li>
+<li>Create a &#8216;Gifts by personality type&#8217; carousel series for Instagram (4-6 posts). Include categories like: The Adventurer, The Homebody, The Foodie, The Minimalist. Match products from my [industry] business to each personality with short, relatable descriptions.</li>
+<li>Write a &#8216;Secret Santa gift ideas&#8217; post for my [industry] business with items in the [X]−[X]- [X]−[X] range. Include 6-8 options that work for coworkers or acquaintances you don&#8217;t know super well. Make the tone light and helpful.</li>
+<li>Create a &#8216;Gifts that give back&#8217; social media post featuring products from my [industry] business where a portion of proceeds goes to [charity/cause], or products that are eco-friendly/sustainable. Explain the impact and why these make meaningful gifts.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gifts-runners.webp" alt="Holiday AI prompts - social post ideas from ChatGPT." width="912" height="600" class="aligncenter wp-image-95214 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gifts-runners.webp 912w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gifts-runners-480x316.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 912px, 100vw" /></p>
+<h4>Holiday giveaway and engagement posts</h4>
+<p>Looking to drive engagement this holiday season? Encourage people to share and engage in the comments section with an incentive structure like a giveaway or a discussion prompt like these:</p>
+<ul>
+<li>Write a social media caption for my holiday Instagram <a href="https://www.wordstream.com/blog/giveaway-ideas">giveaway</a>. We&#8217;re giving away [describe prize]. To enter, followers should [follow, like, tag a friend]. Make it exciting and include relevant holiday emojis and hashtags.</li>
+<li>Create a &#8216;<a href="https://www.wordstream.com/blog/user-generated-content">user-generated content</a>&#8216; prompt post encouraging my followers to share photos of themselves using my [product] during the holidays. Offer a <li><span class='pricing-mark'></span></li>. Write the caption in a [brand voice] tone.</li>
+<li>Write a &#8217;12 Days of Giveaways&#8217; announcement post for my [industry] business. Explain that we&#8217;ll be giving away a prize each day from [start date] to [end date], how to enter, and what followers can win. Build excitement and encourage them to turn on post notifications.</li>
+<li>Create an engagement post asking my followers to comment with their [favorite holiday tradition, dream gift, holiday movie]. Include how I&#8217;ll choose [number] random commenters to win [prize]. Keep it conversational and fun.</li>
+<li>Write a &#8216;Tag someone who needs this&#8217; holiday post featuring my [product]. The caption should be relatable, slightly humorous, and encourage tagging. Include a holiday discount code as an incentive for both the tagger and the person tagged.</li>
+<li>Create a holiday poll or &#8216;this or that&#8217; post for Instagram Stories that engages my followers while subtly showcasing my products. For example: &#8216;Hot cocoa or mulled wine?&#8217; &#8216;Ugly sweater party or elegant dinner?&#8217; Include 3-4 poll ideas and brief explanations of how each relates to my [industry] business.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-tag-someone.webp" alt="Holiday AI prompts - social media giveaway post ideas from chatgpt." width="937" height="485" class="aligncenter wp-image-95215 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-tag-someone.webp 937w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-tag-someone-480x248.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 937px, 100vw" /></p>
+<h4>Seasonal Story content</h4>
+<p>Instagram and Facebook <a href="https://www.wordstream.com/blog/ws/2022/03/01/instagram-story-ideas">Stories</a> are perfect for holiday marketing because they&#8217;re temporary, casual, and highly engaging. Unlike feed posts that need to be polished and evergreen, Stories let you show the human side of your business—the chaos of packing holiday orders, quick tips, real-time updates, and authentic moments.</p>
+<p>They&#8217;re also <a href="https://www.wordstream.com/blog/instagram-algorithm">algorithm-friendly</a> and appear at the top of your followers&#8217; feeds. Use these prompts to create a Story series that keeps your audience engaged throughout the entire holiday season:</p>
+<ul>
+<li>Write a series of 6-8 short social media posts (ideal for Instagram Stories or Facebook) counting down the days to [<a href="https://www.wordstream.com/blog/ws/2022/11/28/christmas-holiday-greetings-wishes">Christmas</a>, New Year&#8217;s]. Each post should highlight a different product, promotion, or fun holiday fact related to my [industry].</li>
+<li>Create a &#8216;Behind the scenes of holiday prep&#8217; Story series (5 posts) for my [industry] business. Show customers what goes into preparing for the holiday rush—packing orders, decorating the store/office, restocking bestsellers, etc. Write captions that feel authentic and build a connection with my audience.</li>
+<li>Write a &#8216;Holiday survival tips&#8217; Instagram Story series (7-10 slides) relevant to my [industry]. For example, if I sell kitchenware, I can include tips for hosting stress-free holiday dinners. Each slide should include one actionable tip and subtly connect to products I sell. Use a helpful, friendly tone.</li>
+<li>Create a &#8216;Holiday FAQ&#8217; Story series answering the top 5-7 questions my customers ask during the holidays. Questions like: What are your holiday shipping deadlines? Do you offer gift wrapping? What are your return policies? Write clear, concise answers for each slide.</li>
+<li>Write an &#8216;Employee holiday favorites&#8217; Story series (4-6 posts) where team members at my [industry] business share their favorite products from our store and why. Include the employee&#8217;s name, their pick, and a personal reason why they love it. Make it feel genuine and relatable.</li>
+<li>Create a &#8216;Holiday gift wrap tutorial&#8217; or &#8216;How to use [product]&#8217; Story series (5-8 slides) that provides value while showcasing my products. Break down the steps clearly with text overlays for each slide. End with a CTA to shop or DM for more info.</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Set yourself up for a full year of success.</strong> Get <a href="https://www.wordstream.com/resources/marketing-calendar?cid=Web_WS_InContent_Guide_2026MarketingCalendarGuide_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">The Only Marketing Calendar You Need for 2026</a></p>
+<div id="prompts-for-email-marketing"></div>
+<h3>AI prompts for holiday email marketing</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2021/07/01/email-marketing-tips">Email marketing</a> is where the <em>real</em> holiday revenue happens. Use these AI prompts to build an email campaign strategy that <a href="https://www.wordstream.com/blog/conversion-rate-optimization-marketing">drives conversions</a>.</p>
+<h4>Subject line ideas</h4>
+<p>Your <a href="https://www.wordstream.com/blog/ws/2014/03/31/email-subject-lines">subject line</a> determines whether your <a href="https://www.wordstream.com/blog/ws/2022/12/01/holiday-email-templates">holiday email</a> gets opened or ignored. During the holidays, inboxes are flooded with promotional messages, so your subject lines need to stand out while clearly communicating value.</p>
+<p>These prompts will help you generate subject lines that cut through the noise and get clicks:</p>
+<ul>
+<li>Brainstorm 15 holiday email subject lines for my [industry] business. The email announces a [percentage] discount holiday sale running from [date] to [date]. Include emojis in some options but not others. All subject lines should be under 50 characters. My brand voice is [describe].</li>
+<li>Generate 10 email subject lines specifically for a <a href="https://www.wordstream.com/blog/black-friday-marketing">Black Friday and Cyber Monday</a> campaign from my [industry] business. Include a mix of urgency, FOMO, playful, and benefit-driven angles. Make sure none include spam trigger words.</li>
+<li>Create five subject lines for a year-end email to my best, most <a href="https://www.wordstream.com/blog/ws/2019/07/18/loyalty-marketing">loyal customers</a>. The email thanks them for their business last year and offers them early access to a [holiday promotion]. Use a warm, grateful tone.</li>
+<li>Write eight New Year’s-themed subject lines that encourage customers to [desired action like refresh their wardrobe, start a new routine, upgrade their setup]. Avoid clichés. Make them feel fresh and inspiring.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-runner-posts.webp" alt="Holiday AI prompts - New Year's prompt ideas from ChatGPT" width="937" height="292" class="aligncenter wp-image-95216 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-runner-posts.webp 937w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-runner-posts-480x150.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 937px, 100vw" /></p>
+<h4>Seasonal email campaign ideas</h4>
+<p>A single holiday email won&#8217;t cut it. You need a strategic email sequence that guides customers from awareness to purchase—and ideally turns them into repeat buyers. The best<a href="https://localiq.com/blog/holiday-email-templates/" target="_blank" rel="noopener"> holiday email campaigns</a> tell a story over time, building urgency and value with each send.</p>
+<p>These prompts will help you map out complete campaigns rather than one-off messages, so you&#8217;re not scrambling to figure out what to send next:</p>
+<ul>
+<li>Create a five-email holiday campaign outline for my [industry] business. Include email topics, ideal send dates/times, key messages for each email, and calls to action. My goal is to [drive holiday sales, build goodwill, increase email subscribers].</li>
+<li>Write promotional email copy for my [holiday open house, gift wrapping service, holiday party package]. Include event details, what attendees will experience, a deadline for registration/booking, and a strong CTA. Create a three-email follow-up series.</li>
+<li>Generate subject lines and brief preview text for a &#8216;last chance&#8217; holiday email sent on [date]. We&#8217;re offering [promotion details]. Make it feel urgent without being pushy. Include [number] different variations.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-house.webp" alt="Holiday AI prompts - Email idea from ChatGPT." width="941" height="600" class="aligncenter wp-image-95217 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-house.webp 941w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-house-480x306.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 941px, 100vw" /></p>
+<div id="prompts-for-content-strategy"></div>
+<h3>AI prompts for your holiday content strategy</h3>
+<p>The holidays don&#8217;t leave room for winging it. You need a clear plan that maps out what you&#8217;re posting, when you&#8217;re sending emails, and how all your marketing efforts work together. Without a strategy, you&#8217;ll miss key shopping dates, create content gaps, and end up rushing last-minute campaigns that underperform.</p>
+<p>These prompts help you build a <a href="https://localiq.com/blog/holiday-marketing-strategy/" target="_blank" rel="noopener">complete holiday marketing roadmap</a> before the chaos begins:</p>
+<ul>
+<li>Create a <a href="https://localiq.com/blog/december-social-media-holidays-and-ideas/" target="_blank" rel="noopener">December marketing</a> calendar for my [industry] business. Include key shopping dates (Black Friday, Cyber Monday, holiday shipping deadlines), content ideas, promotional campaigns, and email sends. Align all tactics with my goal to [business goal].</li>
+<li>Suggest ten content ideas for my holiday blog and social media that would resonate with [describe target audience] in my [industry]. Include a mix of gift guides, how-to posts, customer stories, and festive content. Provide post titles and brief descriptions.</li>
+<li>Write a holiday social media content calendar outline (4 weeks) for my [industry] business. Include 3-4 posts per week, organized by theme: week 1 [theme], week 2 [theme], etc. Include content types (carousel, video, static image, user-generated) and posting days/times.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gift-guide.webp" alt="Holiday AI prompts - email sequence from ChatGPT." width="804" height="600" class="aligncenter wp-image-95218 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gift-guide.webp 804w, https://www.wordstream.com/wp-content/uploads/2025/10/holiday-ai-prompts-wordstream-open-gift-guide-480x358.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 804px, 100vw" /></p>
+<div id="prompts-for-design-and-visual-content"></div>
+<h3>AI prompts for holiday design and visual content</h3>
+<p>Holiday marketing is <em>visual</em>. Your graphics, photos, and videos need to stop the scroll, communicate your message instantly, and feel cohesive across every platform. But if you&#8217;re not a designer, knowing what to create—or how to brief a designer—can be tough.</p>
+<p>These <a href="https://www.wordstream.com/blog/ai-image-prompts">AI prompts for images</a> help you generate specific visual concepts and design direction that align with your brand and resonate with your audience:</p>
+<ul>
+<li>Suggest 5-7 visual content ideas for my holiday marketing campaign. My [industry] business is promoting [product/service]. I want to create content that [feels festive, showcases products, tells customer stories]. Include specific video, photo, and graphic concepts.</li>
+<li>I&#8217;m creating a holiday email and social media graphic. Please describe the visual design I should use. My brand colors are [colors]. My audience is [describe]. I want the design to feel [minimal and modern, warm and festive, luxury and elegant]. Include specific suggestions for imagery, layout, and typography.</li>
+<li>Write a <a href="https://localiq.com/blog/holiday-marketing-slogans/" target="_blank" rel="noopener">holiday marketing tagline/slogan</a> for my [industry] business to use across all campaigns. It should be [word count], memorable, and capture [the spirit of gift-giving, smart holiday shopping, family time]. Suggest three variations.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-11_50_44-AM.webp" alt="Holiday AI prompts - AI image example." width="1024" height="1024" class="aligncenter wp-image-95219 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-11_50_44-AM.webp 1024w, https://www.wordstream.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-11_50_44-AM-980x980.webp 980w, https://www.wordstream.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-11_50_44-AM-480x480.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></p>
+<div id="prompts-for-performance">
+<h3>AI prompts for performance and optimization</h3>
+<p>Creating content is only half the battle—you also need to know what&#8217;s working and what&#8217;s not. AI can help you identify the metrics that actually matter for your goals, and adjust your strategy based on data rather than guesswork.</p>
+<p>These prompts turn AI into your marketing analyst, helping you make smarter decisions throughout the holiday season:</p>
+<ul>
+<li>Analyze what makes successful holiday content for [industry] businesses. Based on industry benchmarks, what types of posts, subject lines, and ad copy typically perform best during November and December? How should I adjust my strategy?</li>
+<li>What are the key metrics I should track for my holiday marketing campaign? My business is in [industry], and my main goals are [goals]. Help me set realistic benchmarks and explain which metrics matter most.</li>
+</ul>
+<h2>Use these marketing AI prompts to work smarter, not harder, this holiday season</h2>
+<p>Holiday marketing moves fast. The prompts above give you a foundation, but remember to customize them with your specific business details, promotion dates, product names, audience descriptions, and brand voice. The more specific you are in your prompt, the better your AI output will be.</p>
+<p>Always review and edit AI-generated content. Add specific numbers from your business (discount percentages, product prices, real customer names), fact-check details, and ensure nothing contradicts your actual policies or offerings. This is what separates forgettable content from content that converts.</p>
+<p>Finally, test everything. Try different subject lines, ad angles, and social media post types. Use this holiday season to gather data on what resonates with your customers—insights you can use to refine your AI prompts and marketing strategy for years to come.</p>
+<p>Now, go create. Your busy holiday season just got a lot more manageable.</p>
+</div>
+</div>
+<p>The post <a href="https://www.wordstream.com/blog/holiday-ai-prompts">AI Prompts for Holiday Marketing Emails, Social Posts, &#038; More</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Do Social Listening in 2025: The New Rules</title>
+		<link>https://www.wordstream.com/blog/social-listening</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 12:30:11 +0000</pubDate>
+				<category><![CDATA[Websites & Online Presence]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=94446</guid>
+
+					<description><![CDATA[<p>Social listening has evolved from an enterprise strategy to one small businesses need to adopt for growth and success.</p>
+<p>The post <a href="https://www.wordstream.com/blog/social-listening">How to Do Social Listening in 2025: The New Rules</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Social listening helps businesses monitor and analyze online conversations to gain insights into customer opinions, preferences, and trends by tracking mentions, feedback, and discussions across various social media platforms and online forums. And in 2025, smart small business owners are using this tactic as their secret weapon to better understand customers, outsmart competitors, and grow their businesses faster than ever before.</p>
+<p>If you&#8217;re still thinking social listening is just for big corporations with massive marketing budgets, think again. By tuning in online, small businesses now have access to the same powerful insights that Fortune 500 companies use to make million-dollar decisions.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#social-listening-definition">What is social listening?</a></li>
+<li><a href="#benefits-of-social-listening">Why social listening matters more than ever</a></li>
+<li><a href="#social-listening-landscape">The 2025 social listening landscape: What&#8217;s changed</a></li>
+<li><a href="#how-to-do-social-listening">The new rules of social listening for small businesses</a></li>
+<li><a href="#social-listening-action-plan">Creating your social listening action plan</a></li>
+<li><a href="#social-listening-tools">Social listening tools</a></li>
+</ul>
+<div id="social-listening-definition"></div>
+<h2>What is social listening?</h2>
+<p>Social listening is the process of monitoring online conversations to understand what people are saying about a business, topic, industry, and more.</p>
+<p>But, it’s not just about tracking mentions and comments. Social listening also entails analyzing the tone, sentiment, themes, and trends behind what people are saying online.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2b50.png" alt="⭐" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Get all the tips you need to collect more reviews in this free guide download &gt;&gt;</strong> <a href="https://www.wordstream.com/resources/how-to-get-more-reviews?cid=Web_WS_InContent_Guide_howtogetreviews_Download&amp;itm_source=localiq&amp;itm_medium=blog&amp;itm_campaign=incontent_links">How to Get More Reviews: 8 Tips to Boost Ranking, Reputation, &amp; Revenue</a></p>
+<div id="benefits-of-social-listening"></div>
+<h2>Why social listening matters more than ever in 2025</h2>
+<p>It can be nearly impossible to keep up with what customers and prospects are saying about your business online in this day and age. <strong>But understanding sentiment about your business, common complaints, and what people love about you can help you improve almost every aspect of your business</strong>, so it’s something you can’t just ignore.</p>
+<p>Businesses can use social listening to:</p>
+<ul>
+<li>Track and understand <a href="https://www.wordstream.com/blog/reputation-management">brand reputation</a></li>
+<li>Identify customer pain points and needs</li>
+<li>Monitor competitors and spot industry trends</li>
+<li>Find potential micro-influencers or <a href="https://www.wordstream.com/blog/user-generated-content">UGC providers</a></li>
+<li>Gather insights to streamline processes and build consumer-coveted offerings</li>
+<li>And so much more</li>
+</ul>
+<p>Data shows <a href="https://www.mordorintelligence.com/industry-reports/social-media-listening-market" target="_blank" rel="noopener">61%</a> of businesses have already implemented social listening systems to monitor keyword mentions, but most small businesses are still missing out on this goldmine of customer intelligence. While your competitors are guessing what customers want, you could be listening to <em>exactly</em> what they&#8217;re saying.</p>
+<div id="social-listening-landscape"></div>
+<h2>The 2025 social listening landscape: What&#8217;s changed</h2>
+<p>The social listening market is expected to reach $9.61 billion in 2025. That&#8217;s not just growth; that&#8217;s explosive demand from businesses that&#8217;ve discovered that tuning into their customers online can unlock important insights and early trends, giving them a competitive edge.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-media-listening-market-growth.webp" alt="social media listening budget growth" width="644" height="775" class="aligncenter size-full wp-image-94505" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-media-listening-market-growth.webp 644w, https://www.wordstream.com/wp-content/uploads/2025/09/social-media-listening-market-growth-480x578.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 644px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://www.mordorintelligence.com/industry-reports/social-media-listening-market" target="_blank" rel="noopener">Source</a></em></p>
+<p>The shift we&#8217;re seeing isn&#8217;t just about technology—it&#8217;s about moving from reactive customer service to proactive <a href="https://www.wordstream.com/blog/ws/2021/10/07/customer-engagement-strategy">customer engagement</a>.</p>
+<p>Artificial intelligence, natural language processing, and advanced analytics have completely transformed what&#8217;s possible with social listening. We&#8217;re not talking about simple keyword alerts anymore. Today&#8217;s tools can understand context, detect sarcasm, identify emerging trends, and even predict customer behavior patterns.</p>
+<p>The technology can now tell you not just that someone mentioned your brand, but how they felt about it, what specific aspect they were discussing, and whether their sentiment is improving or declining over time. It&#8217;s like having a team of market researchers working 24/7, analyzing every conversation about your industry.</p>
+<p>This is important, considering that global advertising spending is expected to exceed $276 billion in 2025. With so much competition for attention, every marketing dollar needs to work harder, and social listening helps prove ROI on social media investment through concrete metrics like engagement rates, share of voice, and sentiment improvements.</p>
+<div id="how-to-do-social-listening"></div>
+<h2>The new rules of social listening for small businesses</h2>
+<p>Now that you understand why social listening is so important, let’s move on to some of the new rules that are shaping success for businesses of all sizes.</p>
+<h3>Rule #1: Focus on micro-virality over mass appeal</h3>
+<p>Forget about trying to create the next viral TikTok dance. Today, successful brands are focusing on smaller-scale, audience-focused virality within their specific niches. This means tracking trends that matter to your actual customers, not chasing whatever&#8217;s trending globally.</p>
+<p>Instead of blindly following mainstream trends, start tracking conversations that provide actionable insights specific to your niche. A local coffee shop doesn&#8217;t need to know about the latest celebrity drama, but they absolutely need to know when their customers starts talking about matcha or gluten-free options.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/sprout-social-listening.webp" alt="sprout social listening word cloud" width="900" height="548" class="aligncenter size-full wp-image-94506" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/sprout-social-listening.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/sprout-social-listening-480x292.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p style="text-align: center;"><a href="https://media.sproutsocial.com/uploads/2023/10/wordcloud-1024x624.png" target="_blank" rel="noopener">Source</a></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Get copy-and-paste social media posts ready for the whole year</strong> in our <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteMonthlySocialMediaCalendarTemplate.html?cid=Web_WS_InContent_Template_MonthlySocialMediaCalendar_Download">free social media template</a>!</p>
+<h3>Rule #2: Listen beyond your brand</h3>
+<p>This is where most small businesses make their biggest mistake: they only monitor mentions of their own brand name. The real goldmine, however, is in listening to industry conversations, competitor mentions, and emerging customer needs that haven&#8217;t been addressed yet.</p>
+<p>For example, a clothing boutique might discover that conversations about sustainable fashion are increasing in their target demographic, even when their brand isn&#8217;t mentioned. This insight could inform everything from product development to marketing messaging, giving them a significant competitive advantage.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-fordays.webp" alt="social listening example for days" width="900" height="594" class="aligncenter size-full wp-image-94507" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-fordays.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-fordays-480x317.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h3>Rule #3: Act on unexpected discoveries</h3>
+<p>Social listening can uncover surprising opportunities (if you’re paying attention.) For example, suppose you own a small business that sells a supplement designed to help alleviate migraines. If you were monitoring general wellness conversations, you may learn that people who have hobbies requiring intense focus, like knitting or Sudoku, frequently mention eye strain and migraines in online communities.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-knitting.webp" alt="social media listening example about knitting" width="900" height="371" class="aligncenter size-full wp-image-94508" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-knitting.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-example-knitting-480x198.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p>This discovery could help your business lean into targeted product positioning and <a href="https://www.wordstream.com/blog/content-plan">content strategy</a> focused on this specific audience. What started as general health monitoring could quickly become a targeted campaign that resonates with a passionate, underserved community.</p>
+<h3>Rule #4: Integrate multiple data sources</h3>
+<p>Social listening isn&#8217;t meant to exist in isolation. The most successful small businesses combine social listening data from various sources with sales information, <a href="https://www.wordstream.com/blog/customer-data">customer surveys</a>, and website analytics to create comprehensive customer journey maps.</p>
+<p>This integrated approach helps you understand not just what customers are saying but also how those conversations connect to actual purchasing behavior. For example, you might discover that negative sentiment about a competitor&#8217;s customer service correlates with <a href="https://localiq.com/blog/drive-more-traffic-to-your-website/" target="_blank" rel="noopener">increased traffic to your website</a> or that conversations about specific features predict seasonal sales patterns.</p>
+<div id="social-listening-action-plan"></div>
+<h2>Creating your 2025 social listening action plan</h2>
+<p>Here’s a practical guide to make social listening an easy part of your marketing strategy.</p>
+<h3>Week 1: Foundation setting</h3>
+<p>Define your listening objectives and key performance indicators. Choose a tool that fits your budget and needs, and then set up initial monitoring for your brand name, key competitors, and <a href="https://www.wordstream.com/keyword-research">primary industry keywords</a>.</p>
+<h3>Weeks 2-4: Data collection and analysis</h3>
+<p>Focus on gathering baseline data across all relevant channels. Identify patterns in mention volume, sentiment trends, and conversation topics. Create your first response protocols and train team members on escalation procedures.</p>
+<h3>Months 2-3: Optimization and integration</h3>
+<p>Based on initial findings, refine your keyword lists. Integrate insights into your marketing strategies and product development discussions. Establish regular reporting rhythms that align with your business planning cycles.</p>
+<h3>Ongoing: Scale and sophistication</h3>
+<p>As your business grows and your understanding deepens, add new monitoring categories. Invest in more advanced tools and features that provide predictive capabilities and deeper analytical insights.</p>
+<div id="social-listening-tools"></div>
+<h2>Social listening tools</h2>
+<p>You&#8217;re armed with tips and your action plan&#8211;now what? We’re breaking down three popular tools and then rounding up some others to explore. Keep in mind that social listening tools are typically enterprise-level, meaning they can be on the pricier side.</p>
+<h3>Sprout Social</h3>
+<p><a href="https://sproutsocial.com/features/social-media-listening/" target="_blank" rel="noopener">Sprout</a> is a social media management tool with its own social listening feature—available as an add-on to its plans.</p>
+<p>It includes the ability to help you do:</p>
+<ul>
+<li>Sentiment research</li>
+<li>Industry and trend analysis</li>
+<li>Influencer recognition</li>
+<li>Customer feedback tracking</li>
+<li>And more</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-sprout-social.webp" alt="social listening tool from sprout social" width="900" height="588" class="aligncenter size-full wp-image-94509" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-sprout-social.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-sprout-social-480x314.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p><strong>Who it’s good for:</strong> Businesses already using Sprout for social media management who want more active monitoring.</p>
+<h3>Brandwatch</h3>
+<p><a href="https://www.brandwatch.com/products/listen/" target="_blank" rel="noopener">Brandwatch</a> is an intelligence platform built to help businesses analyze social media and online conversations with its tools. It includes <a href="https://localiq.com/products/social-media-marketing/" target="_blank" rel="noopener">social media management features</a> but is built to help businesses monitor online conversations and make data-driven decisions based on them.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-brandwatch.webp" alt="social listening tool from brandwatch" width="900" height="503" class="aligncenter size-full wp-image-94510" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-brandwatch.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-brandwatch-480x268.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p><strong>Who it’s good for:</strong> Businesses in need of in-depth data analysis.</p>
+<h3>Meltwater</h3>
+<p><a href="https://www.meltwater.com/en/suite/social-listening-analytics" target="_blank" rel="noopener">Meltwater</a> provides social media listening and analytics tools. It can help you monitor brand mentions, understand your audience, gather reports, and collaborate across teams to take action on anything that comes into the monitoring feed.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-meltwater.webp" alt="social listening tool from meltwater" width="900" height="589" class="aligncenter size-full wp-image-94511" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-meltwater.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/09/social-listening-tool-meltwater-480x314.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p><strong>Who it’s good for:</strong> Businesses with cross-functional teams who may need to collaborate or manage crises based on social media mentions. They also have a solution built just for small businesses.</p>
+<h3>More popular social listening tools</h3>
+<p>Here are some other tools to look into if the above don’t meet your needs (or budget):</p>
+<ul>
+<li><a href="https://www.sprinklr.com/products/consumer-intelligence/social-listening/" target="_blank" rel="noopener">Sprinklr</a></li>
+<li><a href="https://www.agorapulse.com/" target="_blank" rel="noopener">Agorapulse</a></li>
+<li><a href="https://emplifi.io/product/social-listening/" target="_blank" rel="noopener">Emplifi</a></li>
+<li><a href="https://brand24.com/" target="_blank" rel="noopener">Brand24</a></li>
+<li><a href="https://www.hootsuite.com/platform/listening" target="_blank" rel="noopener">Hootsuite</a></li>
+</ul>
+<h2>Your social listening advantage in 2025</h2>
+<p>Social listening has evolved from a nice-to-have marketing activity into a business-critical intelligence system. Small businesses that master these new rules can <a href="https://www.wordstream.com/blog/competitive-analysis">gain competitive advantages</a> through deeper customer understanding, faster market response, and more effective resource allocation.</p>
+<p>As you lean into social listening, remember to:</p>
+<ul>
+<li>Invest in team training and capability development to maximize your social listening investment.</li>
+<li>Build flexible monitoring frameworks that can adapt as new platforms and conversation formats emerge.</li>
+<li>Stay updated on new platform features and tools, and consider AI-powered automation opportunities that can scale your efforts without increasing costs.</li>
+</ul>
+<p>The key is starting with <a href="https://www.wordstream.com/blog/smart-goals-examples">clear objectives</a>, choosing the right tools for your budget, and building systematic processes that turn insights into action. You don&#8217;t need a Fortune 500 budget to compete with Fortune 500 insights&#8211;you just need to start listening to what your customers are already telling you.</p>
+<p>The businesses that thrive in 2025 won&#8217;t just be listening. They&#8217;ll be hearing, understanding, and acting on what their customers are saying.</p>
+<p>The post <a href="https://www.wordstream.com/blog/social-listening">How to Do Social Listening in 2025: The New Rules</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ethos in Advertising: Why It Works + Examples</title>
+		<link>https://www.wordstream.com/blog/ethos-in-advertising</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2025 12:30:07 +0000</pubDate>
+				<category><![CDATA[Marketing Psychology]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=93669</guid>
+
+					<description><![CDATA[<p>Using ethos in advertising can help you build trust and win over new customers. Find out how the best businesses use it effectively. </p>
+<p>The post <a href="https://www.wordstream.com/blog/ethos-in-advertising">Ethos in Advertising: Why It Works + Examples</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Picture this: You&#8217;re scrolling through Facebook and see two ads for local plumbing services.</p>
+<ul>
+<li>The first shows flashy graphics promising &#8220;LOWEST PRICES GUARANTEED!&#8221;</li>
+<li>The second features a photo of the owner in uniform, mentions his 15 years of experience, displays his Better Business Bureau rating, and includes a testimonial from a satisfied customer.</li>
+</ul>
+<p>Which one would you trust with your home&#8217;s plumbing emergency?</p>
+<p>If you chose the second ad, you&#8217;ve just witnessed the power of ethos in digital advertising. Data shows that while <a href="https://www.edelman.com/news-awards/only-one-third-of-consumers-trust-most-of-the-brands-they-buy" target="_blank" rel="noopener">81%</a> of consumers need to trust a brand before considering a purchase, only 39% of consumers actually trust advertising overall. This trust gap represents both a <em>massive</em> challenge and an incredible opportunity for small business owners who understand how to build credibility through their digital marketing.</p>
+<p>In this article, we&#8217;ll explore how ethos—one of the three classical modes of persuasion—can transform your digital advertising from ignored interruptions into trusted recommendations.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-ethos">What is ethos?</a></li>
+<li><a href="#why-does-ethos-work-in-advertising-data-stats">Why does ethos work in advertising? (Data + stats!)</a></li>
+<li><a href="#real-life-ethos-examples-in-ads">Real-life ethos examples in ads</a>
+<ul>
+<li><a href="#community-engagement">Community engagement</a></li>
+<li><a href="#testimonials">Testimonials</a></li>
+<li><a href="#company-founder-highlights">Company founder highlights</a></li>
+<li><a href="#celebrity-endorsement">Celebrity endorsement</a></li>
+<li><a href="#social-proof-awards">Social proof and awards</a></li>
+</ul>
+</li>
+</ul>
+<div id="what-is-ethos"></div>
+<h2>What is ethos?</h2>
+<p><em>Ethos</em>, first described by Aristotle over 2,000 years ago, focuses on the credibility and character of the messenger. While <em>pathos</em> appeals to emotions and <a href="https://www.wordstream.com/blog/small-business-logo"><em>logos</em></a> relies on logical arguments, <em>ethos</em> answers the fundamental question every potential customer asks: &#8220;Why should I trust you?&#8221;</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-pathos-logos-definitions.webp" alt="ethos pathos logos definitions" width="900" height="800" class="aligncenter size-full wp-image-93741" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-pathos-logos-definitions.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-pathos-logos-definitions-480x427.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p>In the context of <a href="https://www.wordstream.com/blog/ws/2023/02/24/digital-advertising">digital advertising</a>, ethos means demonstrating that your business knows what it&#8217;s talking about and can be trusted to deliver on its promises. This credibility is built through three essential pillars:</p>
+<ol>
+<li><strong>Character</strong> involves showing integrity, honesty, and moral standards in your messaging. This might mean admitting when you&#8217;re not the right fit for a customer or being transparent about your pricing and processes.</li>
+<li><strong>Competence</strong> demonstrates your <a href="https://www.wordstream.com/blog/ws/2023/07/14/google-e-e-a-t">expertise</a>, knowledge, and skill in your field. This could include showcasing certifications, years of experience, specialized training, or industry recognition.</li>
+<li><strong>Care</strong> reveals genuine concern for customers&#8217; needs and well-being, showing that you prioritize their success over your own profit.</li>
+</ol>
+<p>Traditional &#8220;salesy&#8221; advertising often falls short because it focuses exclusively on what the business wants—more sales, more customers, more revenue. Ethos-driven advertising flips this script by first establishing why the business deserves the customer&#8217;s trust and attention.</p>
+<p>The digital environment creates unique challenges for establishing credibility. Online, potential customers can&#8217;t visit your physical storefront, meet you face-to-face, or rely on traditional trust signals like location and appearance. Without these conventional credibility markers, your digital advertising must work harder to establish trust, making ethos not just helpful but essential for small businesses competing in digital spaces.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png" alt="🧠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Marketing psychology can help you capture more customers.</strong> Use it to your advantage with our free guide &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsite26BrilliantWaysToUsePsychology.html?cid=Web_WS_InContent_TextLink_guide_26waysPsychGuide_Download">26 Brilliant Ways to Use Psychology in Your Copywriting (with Examples)</a></p>
+<div id="why-does-ethos-work-in-advertising-data-stats"></div>
+<h2>The science behind why ethos works: Data and statistics</h2>
+<p>The numbers tell a compelling story about the importance of trust in consumer decision-making.</p>
+<p>Personal recommendations from friends and family remain the most trusted advertising channel, which explains why <a href="https://localiq.com/blog/word-of-mouth-marketing/" target="_blank" rel="noopener">word-of-mouth marketing</a> continues to be so powerful. In fact, McKinsey &amp; Co. reported that word-of-mouth is the primary factor behind <a href="https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-new-way-to-measure-word-of-mouth-marketing" target="_blank" rel="noopener">20-50%</a> of all purchasing decisions.</p>
+<p>However, digital channels often score significantly lower. This trust deficit in digital advertising creates both a problem and an opportunity. Businesses that can successfully establish credibility in their digital ads gain a significant competitive advantage over those relying on traditional promotional messaging.</p>
+<p>From a conversion perspective, credible advertising leads to <a href="https://www.wordstream.com/blog/conversion-rate-optimization-marketing">higher conversion rates</a> and lower customer acquisition costs. When potential customers trust your message, they require less convincing and move through the sales funnel more quickly. This reduced friction translates directly into improved return on advertising spend.</p>
+<p>Trust also creates a <a href="https://www.wordstream.com/blog/neuromarketing">neurological advantage</a>. When audiences perceive credibility, their brains process information more favorably and retain positive impressions longer. This means ethos-based advertising doesn&#8217;t just drive immediate action—it builds lasting <a href="https://www.wordstream.com/blog/brand-perception">brand recognition</a> and preference.</p>
+<p>For small businesses, investing in credibility-based marketing yields better long-term returns. While a flashy discount ad might generate immediate sales, credibility-building content creates brand equity and increases customer lifetime value. This makes ethos particularly valuable for small businesses that rely on repeat customers and referrals for sustainable growth.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f575-fe0f-200d-2640-fe0f.png" alt="🕵️‍♀️" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to understand who you should be targeting with your marketing?</strong> Download the guide &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteTargetAudience.html?cid=Web_WS_InContent_Guide_TargetAudineceGuide_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">How to Find Your Target Audience [Simple Steps!]</a></p>
+<div id="real-life-ethos-examples-in-ads"></div>
+<h2>Real life ethos examples in ads</h2>
+<p>Let&#8217;s examine how actual small businesses are using ethos to build trust and drive results through their digital advertising.</p>
+<div id="community-engagement"></div>
+<h3>1. Community engagement</h3>
+<p>Demonstrating <a href="https://www.wordstream.com/blog/ws/2023/12/19/brand-community">community engagement</a> ethos means sharing some element of your background with your audience: your expertise, your passion, your reason for doing what you do. In this case, a personal interview is a great way to highlight the brains behind the local brand.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-engagement.webp" alt="ethos example - community engagement" width="348" height="406" class="aligncenter size-full wp-image-93744" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-engagement.webp 348w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-engagement-257x300.webp 257w" sizes="(max-width: 348px) 100vw, 348px" /></p>
+<p>L.D. Smith demonstrates “ethos” with a three-minute interview about how Smith got into plumbing. Viewers also hear about his most common service calls—clogged kitchen sinks, no hot water—making it easy to picture themselves as customers in need.</p>
+<p>There’s some additional <em>care </em>ethos coming through here, too: L.D. Smith’s passion for using his business to find homes that can shelter pets is a demonstration of moral priorities and community engagement.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4da.png" alt="📚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Free guide download &gt;&gt;</strong> <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite120WordsforMarketingWithEmotion.html?cid=Web_Any_BlogInContent_PPC_120WordsPhrases_Download">135 of the Best Words &amp; Phrases for Marketing with Emotion</a></p>
+<div id="testimonials"></div>
+<h3>2. Testimonials</h3>
+<p>Testimonials are a form of social proof ethos you can include in digital ads that let others do the talking for you. It’s one thing to tell everyone how great your store is, but it’s another to let your customers sing your praises. By leveraging <a href="https://www.wordstream.com/blog/ws/2017/04/03/how-to-write-a-case-study">testimonials</a>, you let the voices of your happy customers do the selling.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-testimonial.webp" alt="ethos example - testimonial for bookstore" width="800" height="800" class="aligncenter size-full wp-image-93745" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-testimonial.webp 800w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-testimonial-480x480.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 800px, 100vw" /></p>
+<p>P&amp;P Bookstore celebrated its 40th year in business with a series of <a href="https://www.wordstream.com/blog/ws/2022/03/03/testimonial-advertising">digital ads featuring testimonials</a> from loyal, long-term customers. Each image featured a different quote that shared what the shopper loves and remembers about the store. This is a smart ethos play, as it helps customers see themselves enjoying the store and its offerings, too.</p>
+<div id="company-founder-highlights"></div>
+<h3>3. Company founder highlights</h3>
+<p>Character ethos isn’t just about moral character but also about demonstrating your commitment to the work. Competence highlights how well this commitment to work manifests in the quality of your work: Are you enjoying yourself while out and about? Something as simple as a smile can communicate that. Finally, care reveals your genuine empathy for what your customers need.</p>
+<p>For Jessica Jones, a travel agent and motorcoach operator, a simple picture accomplishes a little of all three. As the face of her travel agency, Jones shares a clear, friendly photograph in business attire. This demonstrates character and competence, establishing trust with her audience.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-founder.webp" alt="ethos example - founder facebook ad" width="455" height="683" class="aligncenter size-full wp-image-93746" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-founder.webp 455w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-founder-200x300.webp 200w" sizes="(max-width: 455px) 100vw, 455px" /></p>
+<p>But there’s also that second element: community engagement. Jones is demonstrating that she works as a motorcoach operator in addition to having a passion for her travel agency. She cares about getting people from A to B. It can be challenging to demonstrate what a travel agent does, but this wink to her second job provides a showcase for her passion for travel. Without a single word, her entire ethos comes through.</p>
+<div id="celebrity-endorsement"></div>
+<h3>4. Celebrity endorsement</h3>
+<p>A celebrity endorsement goes a long way in establishing credibility, as we tend to trust celebrities (see also: influencers) for quality recommendations. After all, if they’re lending their name and face to a brand, they must believe in it, right? It’s social proof at its best.</p>
+<p>Restaurant Raising Cane&#8217;s partnered with artist Post Malone for a special collaboration, which helped spread the word about their new location in Dallas, TX.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-celebrity-endorsement-post-malone-raising-canes.webp" alt="ethos example of a celebrity endorsement by post malone for raising cane's" width="717" height="700" class="aligncenter size-full wp-image-93672" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-celebrity-endorsement-post-malone-raising-canes.webp 717w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-celebrity-endorsement-post-malone-raising-canes-480x469.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 717px, 100vw" /></p>
+<p>While not every smaller business may be able to hire a well-known celeb to endorse their product or services, even partnering with local celebrities, influencers, and known figures in your area can help achieve this goal and boost your brand’s credibility and ethos within your digital marketing efforts.</p>
+<div id="social-proof-awards"></div>
+<h3>5. Social proof/awards</h3>
+<p><a href="https://localiq.com/blog/what-is-social-proof/" target="_blank" rel="noopener">Social proof</a> and awards validate your business’s ethos via accreditation, celebration, and a stamp of approval from a trusted source. These are powerful tools to weave into digital ads, as they help would-be customers understand the caliber of your business and its products.</p>
+<p>Mattress company Casper, for example, used its #1 American-rated mattress award in an ad to show buyers that it’s a beloved product within its vertical.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-casper-mattress.webp" alt="ethos example - social proof and awards - casper mattresses" width="600" height="600" class="aligncenter size-full wp-image-93747" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-casper-mattress.webp 600w, https://www.wordstream.com/wp-content/uploads/2025/08/ethos-example-casper-mattress-480x480.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p>Putting this award front and center means they can spotlight this ethos, and it helps provide some certainty around its product, which is not traditionally purchased online. It’s a smart way to overcome the ecommerce hurdle in instances where buyers want to try before they buy.</p>
+<h2>Building long-term success through ethos in your ads</h2>
+<p>In an increasingly skeptical digital landscape, <a href="https://www.wordstream.com/blog/reputation-management">credibility</a> becomes a <a href="https://www.wordstream.com/blog/competitive-analysis">competitive advantage</a> that compounds over time. While ethos-based advertising might not generate the immediate clicks that flashy discount ads produce, it builds the foundation for sustainable business growth by creating trust, loyalty, and word-of-mouth referrals.</p>
+<p>Start implementing these principles in your next advertising campaign. Choose one credibility element to highlight, whether it&#8217;s a certification, customer testimonial, or behind-the-scenes glimpse of your work. As you build comfort with ethos-based advertising, layer in additional credibility signals to create a comprehensive trust profile that sets your small business apart in the crowded digital marketplace.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ethos-in-advertising">Ethos in Advertising: Why It Works + Examples</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>7 Steps to Write a Newsletter (With or Without AI!)</title>
+		<link>https://www.wordstream.com/blog/how-to-write-a-newsletter</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 12:30:32 +0000</pubDate>
+				<category><![CDATA[Email Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=92530</guid>
+
+					<description><![CDATA[<p>Send newsletters that stand out from the crowd with these expert tips and tricks.</p>
+<p>The post <a href="https://www.wordstream.com/blog/how-to-write-a-newsletter">7 Steps to Write a Newsletter (With or Without AI!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The opaque algorithms of social media and search engines make email still one of the best ways to reach your target audience. But here’s the catch: everyone’s inbox is crowded nowadays, so you must elbow your way for attention.</p>
+<p>To help you understand the art and science behind a successful newsletter, we’re dissecting the key elements and sharing best practices and examples from attention-grabbing newsletters.</p>
+<p>Ready to give your newsletter a fresh coat of paint? Let’s start.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#how-to-write-your-newsletter">How to write your newsletter</a>
+<ul>
+<li><a href="#determine-the-topic-for-your-newsletter">Determine the topic for your newsletter</a></li>
+<li><a href="#draft-a-hook-worthy-introduction">Draft a hook-worthy introduction</a></li>
+<li><a href="#close-out-with-a-strong-call-to-action">Close out with a strong call to action</a></li>
+<li><a href="#add-in-graphics-and-the-right-layout">Add in graphics and the right layout</a></li>
+<li><a href="#choose-a-compelling-subject-line">Choose a compelling subject line</a></li>
+<li><a href="#add-intriguing-preview-text">Add intriguing preview text</a></li>
+<li><a href="#close-out-with-your-footer-elements">Close out with your footer elements</a></li>
+</ul>
+</li>
+<li><a href="#best-practices-for-stand-out-newsletters">Best practices for stand-out newsletters</a>
+<ul>
+<li><a href="#send-personalized-newsletters">Send personalized newsletters</a></li>
+<li><a href="#take-customers-behind-the-scenes">Take customers behind the scenes</a></li>
+<li><a href="#use-quizzes-to-engage-subscribers">Use quizzes to engage subscribers</a></li>
+<li><a href="#create-a-freebie">Create a freebie</a></li>
+<li><a href="#use-storytelling">Use storytelling</a></li>
+<li><a href="#involve-subscribers-and-offer-an-incentive">Involve subscribers and offer an incentive</a></li>
+</ul>
+</li>
+</ul>
+<div id="how-to-write-your-newsletter"></div>
+<h2>How to write a newsletter</h2>
+<p>Crafting the perfect newsletter involves many details and moving parts, so to focus on the essence, we’ll distill it down to the key elements of a good-performing newsletter: subject line, preview text, introduction, email copy, graphics, and layout, calls to action, and footer elements. You may opt to use AI to help you write your newsletter&#8211;or you might want to create it on your own! You can move forward either way with these steps&#8211;just make sure to edit any AI-generated copy for accuracy and tone.</p>
+<div id="determine-the-topic-for-your-newsletter"></div>
+<h3>1. Determine the topic(s) for your newsletter</h3>
+<p>Your newsletter is your chance to build a strong, meaningful connection with your customers. For small businesses, it is a unique opportunity to stay in front of customers without navigating social media and search engine algorithms, where they have to compete against some of the biggest brands. <a href="https://localiq.com/blog/email-marketing-trends-2025/">Email marketing</a> puts you on a level playing field, and it’s only up to your creativity whether you’ll get noticed.</p>
+<p>But here’s the thing: It’s not about selling every second. You need to offer value to your customers. Whether it’s useful tips, behind-the-scenes peeks, or solving a problem they didn’t even know they had, your <a href="https://localiq.com/blog/monthly-email-newsletter-ideas/">newsletter ideas</a> should speak directly to your audience&#8217;s needs and interests, not just your latest product launch. Keep it fresh and relevant so people actually look forward to reading your emails.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-topics-example-penguin.webp" alt="newsletter topic example from penguin" width="900" height="755" class="aligncenter size-full wp-image-93047" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-topics-example-penguin.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-topics-example-penguin-480x403.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p>Here are 10 <a href="https://www.wordstream.com/blog/ws/2021/02/25/email-newsletter-ideas">ideas for your next newsletter</a>:</p>
+<ul>
+<li>How-to newsletter</li>
+<li>A roundup of helpful blog posts</li>
+<li>Gift guides</li>
+<li>A thank you email from the CEO</li>
+<li>Behind-the-scenes content</li>
+<li>Interview with an expert</li>
+<li>Hacks and unexpected ways to use your product</li>
+<li>Customer stories and reviews</li>
+<li>A poll or survey</li>
+<li>Tip of the week/month</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4eb.png" alt="📫" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Get everything you need for great emails &gt;&gt;</strong> <a href="https://www.wordstream.com/resources/email-examples-and-templates?cid=Web_Any_InContentTextLink_Email_EmailTemplates_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">The Complete Email Marketing Toolkit: Free Email Templates, Subject Lines &amp; Tips</a></p>
+<div id="draft-a-hook-worthy-introduction"></div>
+<h3>2. Draft a hook-worthy introduction</h3>
+<p>Once subscribers open your <a href="https://localiq.com/blog/email-marketing-checklist/">email marketing newsletter</a>, the introduction or hook is your chance to grab their attention from the get-go. Whether you use a bold statement, a surprising fact, or an intriguing question, make it something that piques readers’ curiosity and makes them think, “I need to know more.” You can also use humor as a way to show your <a href="https://www.wordstream.com/blog/ws/2021/03/31/brand-personality-messaging">brand personality</a> and make your newsletter more relatable.</p>
+<p>But remember: the introduction is setting the tone for what’s next. If your intro promises something exciting, your content better deliver.</p>
+<div id="close-out-with-a-strong-call-to-action"></div>
+<h3>3. Close out with a strong call to action</h3>
+<p>You’ve created the perfect hook with the introduction and your newsletter content is exciting and engaging—great job! The question the reader has is: “What’s next?” If you don’t provide a clear <a href="https://www.wordstream.com/blog/ws/2014/10/09/call-to-action">call to action</a>, you leave readers hanging.</p>
+<p>To capitalize on the momentum, make sure you use a strong call to action. Whether checking out a product, reading a <a href="https://www.wordstream.com/blog/ws/2021/04/06/irresistible-blog-post-titles">blog post</a>, or signing up for an event, make it clear and easy to follow.</p>
+<p>When announcing their new collection, Cotopaxi used a straightforward call to action for subscribers to sign up and get early access. If you have a goal in mind you want to achieve, don’t overwhelm customers with different calls to action.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-call-to-action-example.webp" alt="newsletter call to action example" width="478" height="700" class="aligncenter size-full wp-image-93046" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-call-to-action-example.webp 478w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-call-to-action-example-205x300.webp 205w" sizes="(max-width: 478px) 100vw, 478px" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Need help creating click-worthy CTAs?</strong> Free guide download &gt;&gt; <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite36CallToActionPhrases.html?cid=Web_Any_InContentTextLink_36CallToActionPhrases_Download">The 42 Best Call to Action Phrases Ever (&amp; Why They Work)</a></p>
+<div id="add-in-graphics-and-the-right-layout"></div>
+<h3>4. Add in graphics and the right layout</h3>
+<p>We live in a visual world, and people are visual creatures. <a href="https://news.mit.edu/2014/in-the-blink-of-an-eye-0116" target="_blank" rel="noopener">MIT research</a> shows that the human brain processes images in 13 to 33 milliseconds, 60,000 times faster than text. Graphics and layout add a visual punch to your newsletter’s content. They’re what make it scroll-worthy and not just another wall of text.</p>
+<p>Graphics can help you break things up, highlight key points, or add personality. The right mix of text and visuals can guide your reader’s eyes, keep them engaged, and help your message hit home without overwhelming them. Focus on simple, smart design, and expect more clicks and a bigger impact.</p>
+<p><a href="https://www.wordstream.com/blog/user-generated-content">User-generated content</a> or authentic-looking visuals can be a great way to make your brand feel real. People can tell when something’s been overly staged or looks too “perfect.” Authentic visuals make your brand feel more relatable and down-to-earth, which is exactly the vibe you want if you’re building trust.</p>
+<p>Take BANGS shoes, for example. They use natural-looking visuals that give the person-next-door vibe. Their messaging is aligned with their visuals—focusing on the small things, staying true to yourself, and being unique.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-example-graphics.webp" alt="newsletter example with graphics" width="346" height="900" class="aligncenter size-full wp-image-93045" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-example-graphics.webp 346w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-example-graphics-115x300.webp 115w" sizes="(max-width: 346px) 100vw, 346px" /></p>
+<div id="choose-a-compelling-subject-line"></div>
+<h3>5. Choose a compelling subject line</h3>
+<p>The subject line serves as your virtual doormat. It’s the first thing people see when they receive your email. If you don’t get the subject line right, everything else becomes a waste of time because your newsletter will end up in the trash or stuck in the pile of emails left unread.</p>
+<p>But what makes a <a href="https://www.wordstream.com/blog/ws/2014/03/31/email-subject-lines">subject line</a> click-worthy? A solid email subject line should sum up the key message, the value, or the point of the email in a way that makes people want to click. Easier said than done, though, right? Here are some best practices to help you write attention-grabbing subject lines for your newsletter.</p>
+<ul>
+<li><strong>Keep it short.</strong> Data shows that <a href="https://audiencepoint.com/what-percentage-of-emails-are-opened-on-mobile-2023/" target="_blank" rel="noopener">50-60%</a> of email opens come from mobile devices. So, if you want to convey the right message, no matter the device the readers are using, keep your subject lines short.</li>
+<li><strong>Use emojis (carefully).</strong> When done right, using emojis in your subject lines can grab attention and add personality. Today, emojis are an integral part of people’s communication, which makes them relatable. The best part? They are great at triggering emotions. But remember, you should use them strategically and not overdo them. For some brands, such as Drunk Elephant, emojis are part of the brand personality, which makes them instantly pop up in the inbox.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-subject-line-emojis.webp" alt="newsletter subject line with emojis" width="900" height="556" class="aligncenter size-full wp-image-93043" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-subject-line-emojis.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-subject-line-emojis-480x297.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<ul>
+<li><strong>Spark curiosity.</strong> Curiosity may have killed the cat, but it’s what gets your newsletter opened. Tease just enough to make people wonder what’s inside, but don’t give it all away. But be careful—you have to find the right balance. Readers will think they’re getting clickbait if you make it too cryptic. Keep it intriguing, not frustrating.</li>
+<li><strong>Use A/B testing.</strong> There’s no shortcut or secret formula for a good-performing subject line. To find what works for your newsletter subscribers, test different variations, wording, length, or emojis, and see which gets the best response. The jewelry brand Maison Miru frequently uses <a href="https://www.wordstream.com/blog/ws/2018/05/11/copywriting-ab-tests">A/B testing</a> for different subject lines.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/ab-test-newsletter-copy.webp" alt="newsletter a/b test example" width="730" height="694" class="aligncenter size-full wp-image-93044" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/ab-test-newsletter-copy.webp 730w, https://www.wordstream.com/wp-content/uploads/2025/07/ab-test-newsletter-copy-480x456.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 730px, 100vw" /></p>
+<div id="add-intriguing-preview-text"></div>
+<h3>6. Add intriguing preview text</h3>
+<p>The preview text is one of the most underrated elements of a newsletter, and it’s often either left out or filled in with random text. And let’s not forget the frequently used “view this email in your browser.” Preview text is like the backstage pass to your email–it’s the little teaser that gives people a sneak peek at what&#8217;s inside. If your subject line got them curious, the preview text is your chance to seal the deal. Be clever, compelling, and make it count.</p>
+<p>The Sill, a house plant delivery brand, uses newsletter preview text to create a sense of urgency and give readers a glimpse of what to expect. You can spot them using preview text such as “just days left to save” or “limited stock available” to urge plant lovers to seize the opportunity.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-copy-example-the-sill.webp" alt="newsletter preview text example from the sill" width="900" height="350" class="aligncenter size-full wp-image-93048" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-copy-example-the-sill.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-copy-example-the-sill-480x187.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<div id="close-out-with-your-footer-elements"></div>
+<h3>7. Close out with your footer elements</h3>
+<p>The footer of your newsletter is the last thing people see, but it’s also your last chance to engage. Unfortunately, many small businesses treat the footer as an afterthought rather than a prime real estate for reinforcing your brand and giving readers other ways to connect with you.</p>
+<p>Here are some of the essential elements of a newsletter footer:</p>
+<ul>
+<li><strong>Contact details:</strong> Include an email, physical address, or both, so people know how they can reach out.</li>
+<li><strong>Email preferences/Unsubscribe link:</strong> You are legally obliged to include the unsubscribe link. So, if people want to opt out, make it easy for them to do so.</li>
+<li><strong>Legal disclaimers:</strong> If you have any legal disclaimers, especially for your <a href="https://www.wordstream.com/blog/promotion-ideas">promotional newsletters</a>, include them in the footer to ensure compliance.</li>
+<li><strong>Social media links:</strong> Give readers another way to connect with you and stay in the loop on your updates.</li>
+</ul>
+<p>The footer of your newsletter doesn’t need to be boring. Take Smalls, the fresh human-grade cat food delivery brand, for example. They use the footer to add all the necessary elements while being playful and engaging. Even more important, they make it easy to reach out to them, whether through text or email.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-footer-example.webp" alt="newsletter footer example" width="489" height="600" class="aligncenter size-full wp-image-93049" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-footer-example.webp 489w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-footer-example-480x589.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 489px, 100vw" /></p>
+<div id="best-practices-for-stand-out-newsletters"></div>
+<h2>Bonus: 6 tips and best practices for newsletters that stand out</h2>
+<p>Now that we’ve covered all the key elements, it’s time to share tips and best practices to help you create an outstanding newsletter.</p>
+<div id="send-personalized-newsletters"></div>
+<h3>1. Send personalized newsletters</h3>
+<p>According to Ascend2, email comes out on top when it comes to the digital channels seeing the most impact from personalization, with about <a href="https://www.marketingcharts.com/customer-centric/personalization-customer-centric-224553" target="_blank" rel="noopener">6 in 10 (62%)</a> of marketers saying so. Personalization is more than just using someone’s name at the top. It’s about making customers feel like you get them.</p>
+<p>From recommending products based on past purchases to sending content aligned with their interests, personalization makes your readers feel seen. The skincare and beauty brand Tatcha collects birthday information when subscribers sign up for its newsletter. They use the information to offer customers a birthday discount on their next purchase.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/birthday-newsletter-example-tatcha.webp" alt="birthday newsletter example from tatcha" width="519" height="700" class="aligncenter size-full wp-image-93050" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/birthday-newsletter-example-tatcha.webp 519w, https://www.wordstream.com/wp-content/uploads/2025/07/birthday-newsletter-example-tatcha-480x647.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 519px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png" alt="🧠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Get copywriting psychology insights in our free guide &gt;&gt;</strong> <a href="https://marketing.localiq.com/WSLIQContentDLWebsite26BrilliantWaysToUsePsychology.html?cid=Web_WS_InContent_TextLink_guide_26waysPsychGuide_Download">25+ Brilliant Ways to Use Psychology in Your Copywriting</a></p>
+<div id="take-customers-behind-the-scenes"></div>
+<h3>2. Take customers behind the scenes</h3>
+<p>Behind-the-scenes content is your golden ticket to turning your product from a faceless item into something people can connect with. Show them how the magic happens–whether it’s the design process, the craftsmanship, or the people behind it all. People love knowing the story behind what they’re buying, and letting them in on the process makes them feel like they’re part of the journey.</p>
+<p>The furniture and accessories brand Swoon Editions did this by showing the step-by-step process of making one of their most iconic designs, the Ziggy cabinet.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-behind-the-scenes-example.webp" alt="newsletter behind the scenes example" width="496" height="700" class="aligncenter size-full wp-image-93051" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-behind-the-scenes-example.webp 496w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-behind-the-scenes-example-480x677.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 496px, 100vw" /></p>
+<div id="use-quizzes-to-engage-subscribers"></div>
+<h3>3. Use quizzes to engage subscribers</h3>
+<p>“I don’t like quizzes!”—said no one ever. <a href="https://www.wordstream.com/blog/interactive-content">Quizzes</a> are not just fun, they are a great way to engage your audience. A well-designed quiz can give people a reason to open your email, click around, and learn more about your products or services in a way that feels interactive.</p>
+<p>The best part: you get valuable insights into your readers&#8217; preferences and behaviors, which gives you a goldmine of information to personalize your next newsletter. The skincare and beauty products brand Bliss uses a quiz to help subscribers find the perfect product for their routine. The bonus part is the exclusive offer they get with the results.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-quiz-example.webp" alt="newsletter quiz example" width="380" height="700" class="aligncenter size-full wp-image-93052" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-quiz-example.webp 380w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-quiz-example-163x300.webp 163w" sizes="(max-width: 380px) 100vw, 380px" /></p>
+<div id="create-a-freebie"></div>
+<h3>4. Create a freebie</h3>
+<p>Who doesn’t love free stuff? Offering a freebie, whether it’s a downloadable guide, an exclusive discount, or a sneak peek of something new, is a great way to add value and keep your readers coming back for more. Moreover, this will boost engagement and get people excited about what you’re offering.</p>
+<p>Gainful, a personalized and curated sports nutrition supplements brand, has created a cookbook with recipes for healthy meals and snacks that include its products. Subscribers get free recipes, and Gainful gets more engagement—a win-win.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-freebie-example.webp" alt="newsletter freebie example" width="291" height="800" class="aligncenter size-full wp-image-93053" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-freebie-example.webp 291w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-freebie-example-109x300.webp 109w" sizes="(max-width: 291px) 100vw, 291px" /></p>
+<div id="use-storytelling"></div>
+<h3>5. Use storytelling</h3>
+<p>If you want people to <a href="https://www.wordstream.com/blog/marketing-newsletters">subscribe to and engage with your newsletter</a>, don’t share just promotions and limited-time deals. People want a story they can connect with. Small business owners have the best stories. So why not share them with your readers? Whether it&#8217;s how your company started, a customer success story, or the journey behind a product, a good story humanizes your brand and makes readers care.</p>
+<p>The superfoods brand, NoonBrew shared a personal story from its creative director about her struggles with insomnia. A well-told story creates an emotional hook that keeps people reading and makes them more connected to the brand.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-storytelling-example.webp" alt="newsletter storytelling example" width="255" height="700" class="aligncenter size-full wp-image-93054" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-storytelling-example.webp 255w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-storytelling-example-109x300.webp 109w" sizes="(max-width: 255px) 100vw, 255px" /></p>
+<div id="involve-subscribers-and-offer-an-incentive"></div>
+<h3>6. Involve subscribers and offer an incentive</h3>
+<p>Don’t make your newsletter a one-way street. Use it to build relationships with your customers. People love feeling like their voice matters, and when you invite them to share their thoughts, it shows you care about what they think, and you&#8217;re genuinely interested in improving and serving them better.</p>
+<p>Aura Bora used this approach to ask customers to vote for their favorite flavors that should be part of the summer pack. In return, customers received 15% off their next order. Involving your audience makes them feel like they’re part of the process, and that’s the kind of loyalty money can’t buy.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-incentive-example.webp" alt="newsletter incentive example" width="255" height="700" class="aligncenter size-full wp-image-93055" srcset="https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-incentive-example.webp 255w, https://www.wordstream.com/wp-content/uploads/2025/07/newsletter-incentive-example-109x300.webp 109w" sizes="(max-width: 255px) 100vw, 255px" /></p>
+<h2>Ready to create an open-worthy newsletter?</h2>
+<p>Newsletters don’t have to be a chore, they can be your most powerful tool if you know how to make them pop. So, there you have it—the key elements, tips, and best practices of a newsletter that gets opened, read, and acted upon.</p>
+<p>Every detail matters, from sparking curiosity with your subject line to using authentic visuals. Keep things personal, engaging, and real, and your audience will look forward to hearing from you. Ready to create an attention-grabbing newsletter for your small business? If you’d like some support with your email marketing,<a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo"> contact us</a>. We’ll show you how we can help.</p>
+<p>The post <a href="https://www.wordstream.com/blog/how-to-write-a-newsletter">7 Steps to Write a Newsletter (With or Without AI!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Write an AI Policy (+Free Template)</title>
+		<link>https://www.wordstream.com/blog/ai-policy</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 12:30:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=90505</guid>
+
+					<description><![CDATA[<p>If your business is using AI, it might be time to create an AI policy. Get the steps (plus a free template) to write your own.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ai-policy">How to Write an AI Policy (+Free Template)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Artificial intelligence (AI) is no longer a technology reserved only for big companies. Nearly all US small businesses (<a href="https://www.uschamber.com/technology/artificial-intelligence/new-study-reveals-nearly-all-u-s-small-businesses-leverage-ai-enabled-tools-warns-proposed-regulations-could-hinder-growth" target="_blank" rel="noopener">98%</a>) use AI-enabled tools. Moreover, 91% of small businesses using AI say it will help their business grow in the future.</p>
+<p>This poses the question: Should small businesses create an AI policy for their company?</p>
+<p>In this article, we’ll cover what an AI policy is, why your business needs one, how to create an AI policy for your business, and the best practices to follow. Plus, we’re sharing a helpful template to get you started. Let’s dive in!</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-an-ai-policy">What is an AI policy?</a></li>
+<li><a href="#why-do-you-need-an-ai-policy">Why do you need an AI policy?</a></li>
+<li><a href="#how-to-create-an-ai-policy-for-your-small-business">How to write an AI policy for your business</a></li>
+<li><a href="#best-practices-for-creating-an-effective-ai-policy">Best practices for creating an effective AI policy</a></li>
+<li><a href="#ai-policy-template">AI policy template</a></li>
+</ul>
+<div id="what-is-an-ai-policy"></div>
+<h2>What is an AI policy?</h2>
+<p>An AI policy is a set of rules and guidelines that outline how <a href="https://www.wordstream.com/blog/ai-tools-for-marketing-agency">AI tools</a> can—and can’t—be used in your business. An AI policy ensures AI is used safely, ethically, and strategically to achieve your business goals. It helps employees understand where AI fits into their day-to-day work, and how they can make the most of AI without sacrificing quality.</p>
+<p>Creating an AI policy can help you reflect your company’s values, manage risks, and stay compliant with industry regulations.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Make sure you&#8217;re using AI the right (and most effective) way.</strong> Free download &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteAIinMarketingGuide.html?cid=Web_Any_BlogInContent_PPC_AIMarketing_Download">Emergency Guide to AI in Marketing</a></p>
+<div id="why-do-you-need-an-ai-policy"></div>
+<h2>Why do you need an AI policy?</h2>
+<p>Small businesses are <a href="https://localiq.com/blog/ai-for-small-business-marketing/" target="_blank" rel="noopener">tapping into the potential of AI</a> to increase efficiency and optimize processes. Whether it’s using <a href="https://www.wordstream.com/blog/ai-agents">AI-powered chatbots</a> to handle customer inquiries 24/7, leveraging predictive analytics to forecast sales, or using AI in marketing, small businesses are betting on AI to help them work smarter.</p>
+<p>The best part: the number of AI use cases is growing by the day. From automating tedious tasks and providing personalized experiences to <a href="https://localiq.com/blog/how-localiq-uses-ai-to-optimize-campaigns/" target="_blank" rel="noopener">using AI to optimize ad campaigns</a> and generate content for social media, AI is transforming how small businesses operate and communicate.</p>
+<p>However, the transformative power of AI requires responsible use. The fact that AI is now an inseparable part of doing business makes creating an AI policy a top priority for companies. Here’s why:</p>
+<ul>
+<li><strong>Promotes responsible and safe use of AI tools:</strong> AI can help you level the playing field. But as you embrace AI you need to make sure your team responsibly uses the technology. Here’s where an AI policy comes into the picture. An AI policy helps keep your tools in check, ensuring that everyone uses them responsibly and ethically.</li>
+<li><strong>Enhances awareness and leverages AI capabilities:</strong> Having an AI policy helps you demystify AI and ensure your team knows why they should care and how to make the most of it.</li>
+<li><strong>Fosters a culture of AI innovation:</strong> A good AI policy encourages innovation, pushing your team to experiment with AI tools and find new ways to make your business run smoother. It’s about fostering a mindset that embraces AI as an ally, not a threat, while still respecting some rules.</li>
+<li><strong>Minimizes risks:</strong> There’s no doubt that AI comes with risks. A solid policy helps you identify and mitigate risks before they affect your business. It gives you a framework for handling everything from <a href="https://www.wordstream.com/blog/ws/2022/11/22/customer-data-privacy">data security</a> to ethical dilemmas, ensuring that your business stays protected as you scale.</li>
+<li><strong>Supports your business on its mission:</strong> A well-crafted AI policy ensures that the technology aligns with your <a href="https://www.wordstream.com/blog/ws/2021/07/02/how-to-write-a-business-mission-statement">mission</a>, helping you streamline operations, deliver better customer experiences, and ultimately grow. Whether you’re looking to automate processes or drive innovation, the policy acts as a roadmap to keep AI in service of your bigger vision.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/04/sample-ai-policy-fisherphillips-png.webp" alt="sample ai policy from fisher phillips" width="1166" height="348" class="aligncenter size-full wp-image-90553" srcset="https://www.wordstream.com/wp-content/uploads/2025/04/sample-ai-policy-fisherphillips-png.webp 1166w, https://www.wordstream.com/wp-content/uploads/2025/04/sample-ai-policy-fisherphillips-980x292.webp 980w, https://www.wordstream.com/wp-content/uploads/2025/04/sample-ai-policy-fisherphillips-480x143.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1166px, 100vw" /></p>
+<p style="text-align: center;"><em>This <a href="https://www.fisherphillips.com/a/web/du6wach1kmRuPCgDcMLJ5Z/ai-policy.pdf" target="_blank" rel="noopener">sample AI policy</a> outlines its purpose at the very beginning so employees know what to expect.</em></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to learn how AI can supercharge your ads strategy?</strong> Free guide &gt;&gt; <a href="https://www.wordstream.com/resources/ai-advertising?cid=Web_WS_InContent_Guide_AIAdvertising_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">9 Powerful Ways to Use AI in Google &amp; Facebook Ads</a></p>
+<div id="how-to-create-an-ai-policy-for-your-small-business"></div>
+<h2>How to write an AI policy for your business</h2>
+<p>If you are not sure where to start, we’ve prepared a step-by-step guide to help you address all the important aspects and create a comprehensive AI policy for your business. By following these steps, you can create an effective policy that aligns with your business goals, mitigates risks, and fosters trust with your employees and customers.</p>
+<h3>1. Define the purpose and scope of AI use</h3>
+<p>Before diving head first into AI, you should specify the scope and the business purposes for which authorized AI applications can be used. This will help promote trust and credibility. The basic purpose of an AI policy is to provide clear guidelines and ensure consistency and compliance.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f914.png" alt="🤔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>What are the biggest challenges small businesses are facing?</strong> Find out that and more in our <a href="https://www.wordstream.com/resources/smb-marketing-trends-report?cid=Web_WS_InContent_Guide_2025SmallBusinessMarketingTrendsReport_Download">Small Business Marketing Trends Report</a>.</p>
+<h3>2. Address data privacy and security concerns</h3>
+<p>The AI boom brought new challenges for data privacy and security. Risks such as <a href="https://www.wordstream.com/blog/customer-data">sensitive data collection</a>, use of data without permission, and data leakage highlight the urgent need for AI policy for every business that uses this technology. You must address the biggest security risks, such as sharing proprietary data, sensitive client information, or internal documents into public AI tools.</p>
+<p>You should regularly audit your AI systems vulnerabilities and ensure that your data handling practices align with industry standards. Remember, data privacy and security should be at the core of your AI policy.</p>
+<h3>3. Ensure legal and regulatory compliance</h3>
+<p>When integrating AI into your business, it’s essential to stay informed and compliant with relevant laws and regulations. The use of AI can intersect with several areas of law, from data privacy to intellectual property, so understanding the legal framework around these issues is crucial.</p>
+<p>The main goal is to protect sensitive business and customer information, maintain compliance with regulatory standards, and ensure compliance with data protection regulations such as <a href="https://gdpr-info.eu/" target="_blank" rel="noopener">GDPR</a> (General Data Protection Regulation).</p>
+<h3>4. Establish ethical guidelines</h3>
+<p>AI needs boundaries. Set some ground rules for how you’ll <a href="https://www.wordstream.com/blog/ai-uses-in-marketing">use AI responsibly</a>. For instance, make sure that the use of AI tools doesn’t lead to making biased decisions, whether it’s in hiring, customer service, or sales. Even though it can boost <a href="https://www.wordstream.com/blog/ai-productivity-tools">productivity</a> and efficiency, AI can also reinforce biases.</p>
+<p>That’s why it’s necessary to set guidelines for fact-checking. The AI policy should serve as a moral compass for your employees, making sure they understand what is the right way to use AI without exposing your business to risk and ethical mishaps.</p>
+<h3>5. Assess AI applications</h3>
+<p>AI tools have mushroomed in recent years. However, not every AI tool out there is going to be a good fit for your business. Before you start using AI, assess whether the tools you’re looking at actually solve a problem or make your business more efficient.</p>
+<p>Your AI policy doesn’t need to list every single tool that’s approved, as that will change with the emergence of new tools. However, it should make clear what type of AI applications are approved and what is prohibited.</p>
+<h3>6. Establish accountability and governance</h3>
+<p>Use AI as an assistant, not a replacement for good judgment. By establishing accountability, you can trace AI-related actions back to individuals or teams, which is essential for proper oversight and responsibility. You also need to define accountability mechanisms, such as decision-making processes, defined responsibilities, and tracking systems.</p>
+<p>AI governance ensures the responsible use of AI in your business by setting policies, procedures, and ethical standards to prevent misuse. It focuses on transparency, making sure that AI systems are clear and understandable to all stakeholders.</p>
+<h3>7. Implement monitoring and review processes</h3>
+<p>Your AI policy should not be set in stone. Technology changes, your business evolves, and new regulations come out constantly—what works today might not be relevant tomorrow. That’s why you need to set up a process for reviewing how well your AI tools are performing. From checking for accuracy and measuring the impact on your business to making sure they’re still secure, regular reviews will keep you ahead of any issues and make sure your AI is still driving value.</p>
+<div id="best-practices-for-creating-an-effective-ai-policy"></div>
+<h2>Best practices for creating an effective AI policy</h2>
+<ul>
+<li><strong>Keep it simple.</strong> Don’t overcomplicate your AI policy. Start with clear, straightforward guidelines that anyone in the business can follow. Keep it practical, actionable, and, most importantly, easy to understand.</li>
+<li><strong>Clarify the kind of data employees can and cannot input into AI systems.</strong> Not all data is created equal. Some of it’s sensitive, some of it’s irrelevant, and some of it might just get you into legal issues. To avoid this, create a clear list of dos and don’ts to help your employees understand what they can feed into AI systems.</li>
+<li><strong>Set up resources for training.</strong> Make sure there’s an <a href="https://www.wordstream.com/blog/ws/2022/11/17/how-to-train-new-hires">ongoing training program</a> that helps employees understand how to use AI tools safely and effectively. This isn’t about making them AI experts overnight, but rather giving them the confidence to use AI responsibly.</li>
+<li><strong>Update it regularly. </strong>The AI landscape is evolving fast. What’s relevant today might be obsolete tomorrow, so it’s crucial to review and update your policy regularly. Set a schedule for policy check-ins and stay on top of changes in regulations, AI capabilities, and internal practices.</li>
+</ul>
+<ul></ul>
+<div id="ai-policy-template"></div>
+<h2>AI policy template</h2>
+<p>Here, you’ll find an AI policy template to help your business tackle AI integration, manage risks, and stay compliant. Consider this template as a starting point in developing a responsible AI usage policy. Make sure to adapt the template to fit your business needs and get legal assistance before final approval.</p>
+<p><a href="https://docs.google.com/document/d/1JYAJHYXNUoeJOBYamkXcw-fcxNO7IvaUisMo4eDS4h4/copy" target="_blank" rel="noopener"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/04/ai-policy-template-wordstream-1-png.webp" alt="ai policy template from wordstream" width="1200" height="627" class="aligncenter size-full wp-image-90510" srcset="https://www.wordstream.com/wp-content/uploads/2025/04/ai-policy-template-wordstream-1-png.webp 1200w, https://www.wordstream.com/wp-content/uploads/2025/04/ai-policy-template-wordstream-1-980x512.webp 980w, https://www.wordstream.com/wp-content/uploads/2025/04/ai-policy-template-wordstream-1-480x251.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw" /></a></p>
+<p style="text-align: center;"><em><a href="https://docs.google.com/document/d/1JYAJHYXNUoeJOBYamkXcw-fcxNO7IvaUisMo4eDS4h4/copy" target="_blank" rel="noopener">Get a copy of the template here &gt;&gt;</a></em></p>
+<h2>Accelerate your business growth with AI</h2>
+<p>AI holds a huge potential to help small businesses compete with bigger players. The key is to use AI responsibly. Creating an AI policy that reflects your company’s values and industry regulations is crucial to the responsible <a href="https://www.wordstream.com/blog/ai-lead-generation">use of AI</a>.</p>
+<p>Want to discover how we can accelerate your business growth with AI-powered digital marketing solutions? <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo">Get a free demo</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ai-policy">How to Write an AI Policy (+Free Template)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Make User-Generated Content Work for You in 2025</title>
+		<link>https://www.wordstream.com/blog/user-generated-content</link>
+		
+		<dc:creator><![CDATA[Kaleigh Moore]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 12:30:20 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=90325</guid>
+
+					<description><![CDATA[<p>Know what user-generated content is and how your business can collect and repurpose it for impactful marketing. </p>
+<p>The post <a href="https://www.wordstream.com/blog/user-generated-content">How to Make User-Generated Content Work for You in 2025</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you’re a marketer or small business owner wanting to get your audience’s attention, you must be everywhere. Keeping up with content production can be daunting, from email and social media to paid campaigns and product pages.</p>
+<p>Here’s where user-generated content can help.</p>
+<p>But what is user-generated content? How can you collect it? And how can you repackage UGC to get more mileage out of it? Keep reading to find out.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-user-generated-content">What is user-generated content (UGC)?</a></li>
+<li><a href="#types-of-user-generated-content">Types of user-generated content</a></li>
+<li><a href="#how-to-get-user-generated-content">How to collect UGC</a></li>
+<li><a href="#user-generated-content">7 ways to repackage UGC content</a></li>
+</ul>
+<div id="what-is-user-generated-content"></div>
+<h2>What is user-generated content (UGC)?</h2>
+<p>User-generated content (UGC) is any form of original content created by customers and published on social media or other channels.</p>
+<p>In a world of sharp and polished visuals, UGC can help you <a href="https://www.wordstream.com/blog/how-to-differentiate-content">stand out</a> from the crowd. Moreover, using UGC as part of your content strategy gives you a strong <a href="https://www.wordstream.com/blog/better-content-performance">competitive advantage</a>, as that content is unique to your business, and no one else can replicate it.</p>
+<p>The best part: Today’s customers crave authenticity and original content.</p>
+<p>As reported by <a href="https://www.emarketer.com/content/why-user-generated-content-matters-how-brands-boost-effectiveness" target="_blank" rel="noopener">eMarketer</a>, over a quarter (28%) of ecommerce marketers in North America believe that <strong>images/videos from real customers can have the biggest impact on purchasing decisions</strong>. Moreover, nearly as many (26%) think UGC generates the most customer trust.</p>
+<p><a href="https://content-naf.emarketer.com/why-user-generated-content-matters-how-brands-boost-effectiveness" target="_blank" rel="noopener">Around 40%</a> of UK and US adults believe UGC is important when deciding to make a purchase, and <a href="https://www.entribe.com/news/entribe-ugc-survey-insights" target="_blank" rel="noopener">77%</a> of shoppers are more likely to buy a product they found through UGC.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-examples.webp" alt="user generated content - example" width="900" height="407" class="aligncenter wp-image-90408 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-examples.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-examples-480x217.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://www.youtube.com/@bondiboost" target="_blank" rel="noopener">An example</a> of a brand using UGC in its promotional YouTube videos. </em></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Looking for more ways to promote your business?</strong> Download now &gt;&gt; <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite30BestWaysToPromote.html?cid=Web_Any_InContentTextLink_Marketing_The30BestWaysToPromoteYourBusiness_Download">30+ Ways to Promote Your Business (On Any Budget!)</a></p>
+<div id="types-of-user-generated-content"></div>
+<h2>Types of user-generated content</h2>
+<p><a href="https://www.wordstream.com/blog/ws/2014/04/28/user-generated-content" target="_blank" rel="noopener">User-generated content</a> is much more than customers’ photos shared on Instagram. It includes everything from images and videos to social media posts, reviews, <a href="https://localiq.com/blog/testimonial-examples/" target="_blank" rel="noopener">testimonials</a>, and even comments. Let’s look at some of the most popular types of UGC:</p>
+<ul>
+<li><strong>Photos</strong>. User-generated content cuts through the noise of flawless filters, staged photos, and AI-generated images, giving customers something real and relatable.</li>
+<li><strong>Videos</strong>. Videos are still one of the most popular type of content, and the same is true for UGC. Whether <a href="https://www.wordstream.com/blog/ws/2020/02/13/ugc-instagram" target="_blank" rel="noopener">Instagram</a> and TikTok short videos or unboxing videos, this type of UGC content is very powerful. According to an <a href="https://content-naf.emarketer.com/how-gen-z-engaged-with-beauty-content-q3--sephora-wins-while-legacy-brands-struggle" target="_blank" rel="noopener">eMarketer</a> survey, watching videos is the #1 way Gen Z typically discovers new brands and products across all categories.</li>
+<li><strong>Social media posts</strong>. Keeping up the pace with social media content creation is hard. Here’s where UGC can help. Use the content your audience creates to spice up your <a href="https://www.wordstream.com/blog/social-media-strategy" target="_blank" rel="noopener">social media strategy</a>.</li>
+<li><strong>Reviews and testimonials</strong>. A real customer’s story hits differently. These days, everyone checks reviews and testimonials before buying anything—good or bad, they’re the first thing people look at to get reassured they’re making the right decision.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-testimonial.webp" alt="ugc - testimonial example" width="900" height="340" class="aligncenter wp-image-90409 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-testimonial.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-testimonial-480x181.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p style="text-align: center;"><a href="https://www.g2.com/articles/user-generated-content" target="_blank" rel="noopener"><em>Source</em></a></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want social media and marketing ideas for every month of the year?</strong> Free guide &gt;&gt;<a href="https://www.wordstream.com/resources/marketing-calendar?cid=Web_WS_InContent_Guide_2025MarketingCalendar_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener"> The Mega Must-Have Marketing Calendar</a></p>
+<div id="how-to-get-user-generated-content"></div>
+<h2>How to collect user-generated content</h2>
+<p>So, you’re sold on the power of UGC—great. But how do you get your customers to actually create it? Let’s break down the real strategies to start collecting UGC without the heavy lifting.</p>
+<h3>Create a hashtag and ask customers to share photos</h3>
+<p>Do you ever wonder if hashtags still work? Well, just look at the #TikTokMadeMeBuyIt—with over 12 million posts, this hashtag has single-handedly sparked millions of impulse buys for products that went viral on TikTok.</p>
+<p>To start collecting UGC, create a <a href="https://www.wordstream.com/blog/ws/2019/05/29/instagram-hashtags">hashtag</a> and encourage customers to use it. For an extra boost, you can also organize a social media challenge and reward the participants with the most likes. NYX Professional Makeup has done this with its #ButterGlossPop, which generated over 1.7 million posts on TikTok.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-hashtag-png.webp" alt="how to get user generated content - example ugc hashtag" width="905" height="499" class="aligncenter wp-image-90362 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-hashtag-png.webp 905w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-hashtag-480x265.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 905px, 100vw" /></p>
+<h3>Partner with local creators and influencers</h3>
+<p>Influencer marketing is not only reserved for big businesses. If you want to make an impact, focus on partnering with local creators and micro-influencers who can reach your target audience. Whether you’re serving a specific area or selling niche products, partnering with local creators can be the right choice for you.</p>
+<p>The Lavendaire Shop is a journaling and self-growth brand that has an open call for everyone who wants to be a brand ambassador, offering them different benefits such as a 15% commission on each order, <a href="https://localiq.com/blog/how-to-run-a-facebook-giveaway-or-contest/" target="_blank" rel="noopener">product giveaways</a>, early access to launches, and a discount code for their followers.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-partnership-opportunities-png.webp" alt="ugc examples - partnership opportunity example" width="900" height="382" class="aligncenter wp-image-90378 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-partnership-opportunities-png.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-partnership-opportunities-480x204.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h3>Create a loyalty program</h3>
+<p>Sometimes, you just need to give customers an extra nudge to encourage them to share photos or leave a review that you can later use as user-generated content. Here’s where loyalty programs can help. Building a <a href="https://localiq.com/blog/how-to-run-customer-loyalty-programs/" target="_blank" rel="noopener">loyalty program</a> can gamify the experience and encourage customers to take specific actions to earn points.</p>
+<p>This is exactly what the men’s apparel brand Chubbies does with its loyalty programs. In addition to making a purchase and creating an account, customers can also earn extra points for leaving a review. It’s a win-win situation—customers earn points, and you gather UGC content.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-point-system-png.webp" alt="ugc - point system example" width="900" height="344" class="aligncenter wp-image-90356 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-point-system-png.webp 900w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-point-system-480x183.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h3>Organize a buzz-worthy live event</h3>
+<p>Getting people to talk about your brand isn’t as hard as it sounds. You just need to create a moment that makes them go, “Whoa!”—and then whip out their phones to share it. Live events or pop-up activations are the perfect way to spark that buzz and get people posting about you. Plus, this is a great way to <a href="https://localiq.com/blog/increase-foot-traffic/" target="_blank" rel="noopener">increase foot traffic</a>.</p>
+<p>BÉIS is a chic luggage brand that created an <a href="https://www.wordstream.com/blog/interactive-content">interactive</a> luggage ‘car wash’ experience that got people waiting in lines and sharing videos, which helped them rack up thousands of views on TikTok.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-event-png.webp" alt="ugc event marketing" width="748" height="487" class="aligncenter wp-image-90380 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-event-png.webp 748w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-event-480x313.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 748px, 100vw" /></p>
+<h3>Turn comments into social media posts</h3>
+<p>Comments are underrated user-generated content, and businesses often forget to use them to create content. Platforms like <a href="https://localiq.com/blog/tiktok-video-ideas/" target="_blank" rel="noopener">TikTok</a> now allow you to engage with a comment by responding with a post. It’s a great way to show customers you appreciate them and an easy way to create content that your competitors can’t copy.</p>
+<p>So next time you’re wondering how to collect UGC, check your social media and see what’s already there. Mala is a candle brand that uses this tactic to engage with customers and create an authentic social media presence.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-social-media-png.webp" alt="user generated content - social media example" width="952" height="431" class="aligncenter wp-image-90357 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-social-media-png.webp 952w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-social-media-480x217.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 952px, 100vw" /></p>
+<h3>Use QR codes to generate UGC</h3>
+<p>If you want to create a shortcut for customers to share reviews, you can use QR codes. So, instead of asking them to go to your website, you can create a QR code that makes <a href="https://localiq.com/blog/how-to-get-home-services-reviews/" target="_blank" rel="noopener">leaving a review quick and easy</a>. This can be especially helpful for professional service businesses. Kind Pest Solution uses its business cards, asking customers to leave a Google review, and in turn, they tip the technicians $10.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-review-employee-benefits.webp" alt="user generated content - marketing a qr code" width="755" height="579" class="aligncenter wp-image-90381 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-review-employee-benefits.webp 755w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-review-employee-benefits-480x368.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 755px, 100vw" /></p>
+<div id="user-generated-content"></div>
+<h2>7 ways to repackage UGC content: Best practices and examples</h2>
+<p>Now it’s time to check all the creative ways to repackage UGC and spice up your <a href="https://www.wordstream.com/blog/ws/2021/07/13/content-marketing-strategy">content strategy</a> with fresh ideas that’ll make your brand pop and keep your audience engaged.</p>
+<h3>1. Reshare on social media</h3>
+<p>UGC is not only about sharing customer photos or videos. Reviews and testimonials can be the perfect type of UGC to share across your social media channels. This is especially true for home and professional service businesses, where customer reviews are crucial to getting more clients.</p>
+<p>Mr. Electric is a local electrical and electrician services business that regularly shares customer testimonials on social media.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-review-png.webp" alt="ugc repurposing - review on a website example" width="601" height="605" class="aligncenter wp-image-90361 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-review-png.webp 601w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-review-480x483.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 601px, 100vw" /></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ready to learn how to use UGC to keep your audience engaged year-round?</strong> Download our<a href="https://www.wordstream.com/resources/always-on-marketing?cid=Web_WS_InContent_Guide_alwaysonmarketing_Download&amp;itm_source=localiq&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener"> free, complete guide to always-on marketing</a>!</p>
+<h3>2. Use UGC on your product pages</h3>
+<p>Adding product reviews and user-generated photos on your product pages can boost your customers’ confidence and encourage them to add the product to their cart.</p>
+<p>Beautiful Earth is a jewelry brand that uses authentic product photos on its product pages, giving customers the extra boost they need to make a purchase decision.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-reviews-png.webp" alt="repurposing user generated content - product reviews" width="808" height="442" class="aligncenter wp-image-90360 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-reviews-png.webp 808w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-reviews-480x263.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 808px, 100vw" /></p>
+<h3>3. Promote through paid ads</h3>
+<p>User-generated content is not reserved for your organic channels only. It can be a great way to share authentic, relatable content in your <a href="https://www.wordstream.com/ppc">paid ads</a>, giving your brand that “real” vibe while boosting your credibility without sounding too salesy.</p>
+<p>The outdoor furniture brand Outer uses customer reviews in its paid ads, highlighting the high-quality materials.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-paid-ads-png.webp" alt="user generated content - ugc paid ad " width="611" height="600" class="aligncenter wp-image-90354 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-paid-ads-png.webp 611w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-paid-ads-480x471.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 611px, 100vw" /></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Could your Facebook Ads benefit from UGC?</strong> Find out with our free <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader" target="_blank" rel="noopener">Facebook Ads Grader</a>!</p>
+<h3>4. Create shoppable content on your website</h3>
+<p>Creating a customer gallery on your website is great. You know what’s better? Turning it into shoppable content. Instead of putting customers through the hustle of finding the product on your website, turn your UGC into shoppable content that customers can buy with a click.</p>
+<p>The waterproof jewelry brand Hey Harper uses this tactic to enhance the customer experience.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-landing-page.webp" alt="user generated content - ecommerce example " width="897" height="406" class="aligncenter wp-image-90359 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/ugc-landing-page.webp 897w, https://www.wordstream.com/wp-content/uploads/2025/03/ugc-landing-page-480x217.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 897px, 100vw" /></p>
+<h3>5. Use product reviews above the fold</h3>
+<p>If you want to grab customers’ attention right away, make sure to add customer photos and videos above the fold. After all, why make them scroll when you can hit them with social proof right from the start?</p>
+<p>Dezi is an eyewear brand that focuses heavily on UGC. Besides sharing it on social media and the home page, the brand also uses UGC right below the add-to-cart button on its product pages.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-product-page-png.webp" alt="user generated content - example ugc themed product page" width="807" height="409" class="aligncenter wp-image-90358 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-product-page-png.webp 807w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-product-page-480x243.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 807px, 100vw" /></p>
+<h3>6. Use UGC for email campaigns</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2021/12/27/email-marketing-ios15">Email marketing</a> is still one of the best ways to reach your customers. The trick is to share content that resonates with customers and creates value. And since customers appreciate hearing about first-hand experiences, using UGC in your email campaigns can hit a home run.</p>
+<p>Cole Hardware is a local, family-owned hardware store that uses UGC in its emails with a spin — sharing product reviews and recommendations from their crew.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-example-png.webp" alt="user generated content - example ugc email" width="693" height="622" class="aligncenter wp-image-90355 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-example-png.webp 693w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-example-480x431.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 693px, 100vw" /></p>
+<h3>7. Use UGC on your homepage</h3>
+<p>Your website is one of the first touchpoints for your customers, and your homepage is your virtual “doormat,” welcoming customers. So if you want to highlight UGC, whether that’s customer photos and videos or reviews and testimonials, your website homepage can be the perfect stage to show off all that real, authentic content that makes your brand feel human.</p>
+<p>Brookfield Residential is a real estate developer that showcases customer reviews on its homepage using a third-party, independent reviews platform to boost credibility.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-testimonial-png.webp" alt="ugc - reviews" width="845" height="390" class="aligncenter wp-image-90353 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-testimonial-png.webp 845w, https://www.wordstream.com/wp-content/uploads/2025/03/user-generated-content-testimonial-480x222.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 845px, 100vw" /></p>
+<h2>Embed UGC in your content strategy today</h2>
+<p>Now that you know how to collect and repackage user-generated content, it’s time to get your creative gears turning. The best thing about all these examples and best practices is that you can start applying them today. Curious to find out how we can help? <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">Let’s talk</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/user-generated-content">How to Make User-Generated Content Work for You in 2025</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

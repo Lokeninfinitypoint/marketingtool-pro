@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lyle Swartz, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/lyle-swartz/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 02 Sep 2025 20:41:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Lyle Swartz, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Top 10 Google Ads Innovations of 2018</title>
+		<link>https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations#respond</comments>
+		
+		<dc:creator><![CDATA[Lyle Swartz]]></dc:creator>
+		<pubDate>Thu, 20 Dec 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations/</guid>
+
+					<description><![CDATA[<p>As 2019 nears, we highlight the top 10 most significant changes to Google Ads this year.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations">The Top 10 Google Ads Innovations of 2018</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As you know, one year is like a century in the world of Google advertising. There are many innovations, experiments, and new trends constantly developing to advance the way we target, reach, and speak to end users. This year was a big one. Google rebranded their advertising, changing <a href="https://www.wordstream.com/blog/ws/2018/06/28/google-ads">AdWords to Google Ads</a>, but that wasn’t all. Throughout the year, there were so many <a href="https://www.wordstream.com/blog/ws/2012/02/08/seven-innovative-ads">innovative</a> changes to the ad platform and formats.</p>
+<p>As 2019 nears, I want to highlight the top 10 most significant changes to Google Ads this year.</p>
+<h2>1. Video shopping ads</h2>
+<p>Earlier this fall, Google rolled out a different way for brand marketers to utilize shopping ads to further engage users. Instead of just serving image ads, there is now a video format that displays ads in the top featured image position. Clicking into the ad allows the user to watch the video in full, giving advertisers the opportunity to illustrate their offering in more depth.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4251141b-3ab5-449e-98f0-72b58a669016" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-video-shopping-ads.jpg" alt="video shopping ads" width="433" height="817" /></div>
+</article>
+</div>
+<h2>2. TrueView For Reach</h2>
+<p>Back in April, YouTube launched a new way for advertisers to purchase <a href="https://www.wordstream.com/blog/ws/2018/07/10/google-marketing-live">skippable TrueView ads</a>. Before this launch, advertisers had to pay on a cost-per-view (CPV) basis for users that watched 30 seconds or more of the TrueView ad. Now, advertisers are empowered to pay through a CPM method, or cost per thousand views. This is a great innovation for businesses focused on brand awareness rather than engagement. Six-second ads? I want more of those!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f80d7690-92dc-4b01-b4d3-5d2f7eef8e3d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-truview.jpg" alt="TrueView for Reach" width="700" height="593" /></div>
+</article>
+</div>
+<h2>3. Smart Goals</h2>
+<p>This summer, Google introduced a new way to leverage machine learning for advertisers to quickly identify which site visits are likely to convert and help campaign priorities to reflect this. Some of these goals include Location, Device and Browser, Pages Per Session, and Session Duration. This is a great option for larger advertisers that do not currently have conversion tracking, as this new method of optimization brings more automation to help measure value. After all, this strategy is, well, smart!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9fbac740-523f-4d67-adfd-93fbafd3e5cf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-smart-goals.jpg" alt="smart goals" width="660" height="240" /></div>
+</article>
+</div>
+<h2>4. Ad Position Metrics Beyond “Average Position”</h2>
+<p>Previously, advertisers could only see average position as a metric to understand the order their ad appears in the ad auction compared to the other ads. A misconception of this metric was to think that seeing “1” for average position meant that you showed up in the top spot. Having a “1” average position could still mean that you are showing up at the bottom of the page, because organic search results might be displayed first. As of November, you can finally get closer to understanding where your ads are really showing. Google is rolling out Impressions (Absolute Top%), Impressions (Top%), Search (Absolute TOP%) Impression Share, and Search (Top%) Impression Share. To learn more about this, check out Google’s <a href="https://support.google.com/google-ads/answer/9140484?hl=en" target="_blank" rel="noopener">description of these metrics</a>. Why choose the average when you can know the exact?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e397abe6-d517-448f-bac8-060b6ac81d16" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-ad-metrics.jpg" alt="more ad metrics" width="803" height="597" /></div>
+</article>
+</div>
+<h2>5. Google Ads New Interface</h2>
+<p>Along with the company’s rebranding from Google Adwords to Google Ads, Google launched a new interface for account management. Some of the new features in this interface include the Audience Manager, additional extension options, automated A-B testing ad variations, new options for reporting, a completely new dashboard, and much more. The purpose of this new UI is to make managing an account much simpler, faster, and more efficient for advertisers.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0dd810e9-265f-4175-aed9-da8a94c4a8cb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-new-interface.jpg" alt="new Google Ads interface" width="1280" height="720" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Much prettier if I must say!</em></p>
+<h2>6. Parallel Tracking</h2>
+<p>Google also recently introduced Parallel Tracking as a faster and more efficient way to verify clicks from paid ads. This new method of verification helps load landing pages faster through sending customers directly from the ad to the final URL while simultaneously verifying the click in the background. This cuts out the middle phase where users previously were sent to tracking URLs prior to the final URL. This is aimed at improving the user experience, reducing lost visits, and improving ad performance. Taking me to where I want to go faster? I am down for that!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3b07b83e-6ebc-4b56-a4c9-325d440f9e16" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-parallel-tracking.jpg" alt="parallel tracking" width="300" height="150" /></div>
+</article>
+</div>
+<h2>7. Changes to Exact Match</h2>
+<p>In September, Google introduced a new form of <a href="https://www.wordstream.com/blog/ws/2017/03/20/exact-match-keywords">exact match</a> that includes more close variants. Previously, exact match limited a search to include on the terms in the keyword to trigger the ad. This included misspellings, reordered words, and differences in spaces to still allow the ad to show. Now, users can use exact match to target users with additional close variants. This includes variations of the keyword that share the same meaning, such as implied words, same intent and paraphrases.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="94313634-2038-4802-8499-8791eb9757ad" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-exact-match-keyword-change-examples-1.png" alt="adwords exact match keyword change examples" width="640" height="300" /></div>
+</article>
+</div>
+<h2>8. Expanded Text Ads Update</h2>
+<p>Another innovation to advertising this year was Googles bold <a href="https://www.wordstream.com/blog/ws/2018/08/22/new-expanded-text-ads">change to ad formatting</a> in August. Previously, advertisers only had two headlines and one description to describe their intentions. With the new ad format, advertisers have an additional headline and description to highlight more about their service or offering. This allows for an additional 30 characters in the headline, and 90 characters in the description! The purpose of this change is to give advertisers to differentiate themselves from competitors further and provide more insight for users to make informed decisions. Tell me more!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="af47a0a5-6928-4404-8f92-ee32dc1cc347" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-expanded-text-update.jpg" alt="expanded text update" width="460" height="277" /></div>
+</article>
+</div>
+<h2>9. Promotion Extensions</h2>
+<p>This one is a personal favorite! Toward the beginning of the year, Google gave advertisers a new option to show special sales and offers right from the ad itself. This helps limited offers stand out to help users identify great deals before even clicking into the ad. This extension can include anything from coupon codes to monetary or percentage discounts as well as the price of the product or offering itself. For the upcoming holidays, be sure to take <a href="https://www.wordstream.com/blog/ws/2018/11/29/google-shopping-promotions">advantage of this extension</a> to further entice consumers to check you out!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c25cdff6-6b16-4f94-9c14-c525e905e662" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-promotion-extensions.jpg" alt="promotion extensions" width="314" height="350" /></div>
+</article>
+</div>
+<h2>10. Responsive Search Ads</h2>
+<p>A bit earlier I mentioned that Google’s new interface allows for easier ways to run A-B testing ad variations. Debuted back in the summer, this new method is known as <a href="https://www.wordstream.com/blog/ws/2018/07/10/responsive-search-ads">responsive search ads</a>, where advertisers can essentially test multiple combinations of headlines and descriptions at the same time using machine learning. Over time, the algorithm will prioritize showing the most engaging and relevant ads. Marketers can use up to 15 different headlines and four descriptions rather than creating several individual ads. This is a must-try for 2019!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e7ef15ad-6b3c-4041-bf7b-41a5f28325f0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-innovations-responsive-search-ads.jpg" alt="responsive search ads" width="596" height="350" /></div>
+</article>
+</div>
+<p>With so many changes come opportunities for advertisers to be the first to adopt new ways to reach and engage users. Take advantage of these additional forms of advertising to get ahead of competition today!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations">The Top 10 Google Ads Innovations of 2018</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/12/20/google-ads-innovations/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PPC Budgets vs. Bids: What&#8217;s the Difference?</title>
+		<link>https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget#respond</comments>
+		
+		<dc:creator><![CDATA[Lyle Swartz]]></dc:creator>
+		<pubDate>Mon, 19 Nov 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget/</guid>
+
+					<description><![CDATA[<p>Here, we explain why budgets and bids are not the same, why you can’t depend on a bigger budget to carry your account, and how your bids can help improve your account performance – regardless your budget size.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget">PPC Budgets vs. Bids: What&#8217;s the Difference?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Budgets and bids – they seem identical, right? If I have a larger budget, I should inevitably be more competitive, win in the ad auction more often, and achieve higher KPI metrics. If I have a smaller budget? Simple – my account wouldn’t perform as well. Why would an account with a $5000 monthly budget perform worse than one with $1000 in the same industry, right?</p>
+<p>Well, not exactly. And, folks, that is precisely what I want to talk about today. I’ll explain why budgets and bids are not the same, why you can’t depend on a bigger budget to carry your account, and how your bids can help improve your account performance – regardless of how big or small your budget may be.</p>
+<h2>Budgets determine overall performance</h2>
+<p>A lot of my clients understand that budget is a key factor in performance, and I cannot deny that! If you do not have the proper funds to support your online advertising, you will effectively be restricting your account from performing optimally. If you think about it, your budget affects how long your ads continue to serve throughout the day, how much you are able to spend on a click, and how many of your products and services that you can realistically show ads for.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e5b23cbd-eb08-4774-b1de-759f29c16b5c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-campaign-total-budget1.png" alt="adwords campaign total budget type" width="1048" height="446" /></div>
+</article>
+</div>
+<p>But does budget really affect account performance in the <a href="https://www.wordstream.com/articles/what-is-google-adwords">ad auction</a>? I’d say yes <em>and</em> no.</p>
+<p>Budget does NOT impact how much you are telling Google you are willing to spend on a click. If we break it down, t<a href="https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode-7">he Google auction </a>factors in your ad rank, and this is composed of both the individual keyword bid price and Quality Score. Quality Score has many factors, such as <a href="https://www.wordstream.com/blog/ws/2018/01/22/google-speed-update">page speed</a>, mobile compatibility, relevancy of your ad to your keywords, <a href="https://www.wordstream.com/blog/ws/2012/09/20/adwords-landing-page-experience-below-average">landing page experience</a>, relevancy of landing page content to the ad, and more. There are a lot of variables in Quality Score that you may or may not be able to control depending on your authority over your business’s website.</p>
+<p>Whether you’re a small business with an even <a href="https://www.wordstream.com/blog/ws/2017/09/05/how-to-compete-with-big-budgets-adwords">smaller marketing budget</a> or you work at an agency for a client with strict limits, in most cases, you don’t have much control over your total budget, either. Instead of focusing on how you could potentially improve your account performance <em>if</em> you had control over these factors, I suggest shifting focus to what is in our control: bids.</p>
+<h2>Bids make your account competitive</h2>
+<p>While we can’t always adjust our budget, what we CAN control is our bids. Even better? We can strategize for more competitive performance. “But, Lyle, I told Google that I am willing to spend X amount more a day on the campaign, doesn’t that mean that I will perform better automatically?”</p>
+<p>Not at all.</p>
+<p>To tell Google how valuable a keyword is to your business, you set your maximum CPC. Your budget does NOT change how much you tell Google you are willing to spend on that click, unless you are using an automated bid strategy – but more on that later.</p>
+<p>In the case of Manual CPC, you are setting the individual bids for your keywords. If I have a $1000 daily budget, and all of my keywords are set to $3 bids, my competitiveness will still be limited to that $3 maximum CPC regardless of how many times I can afford getting those clicks.</p>
+<p>This is why setting your bids to an optimal value is key in performance. Think about it: If the top-of-page bid is $10 and I am bidding $3, then chances are that my average position is anywhere from 5-7. In fact, I may not be showing my ads at all! This will decrease my expected click-through rate, which lowers my Quality Score and increases the price I have to pay to show my ad. I will be spending more for a click that’s less likely to happen, and my impression share will tumble. In other words, bidding poorly will HURT you if you are not using a strategy that considers your industry’s standard bid prices.</p>
+<p>“Well, Lyle, it says that industry wide the <a href="https://www.wordstream.com/blog/ws/2015/05/21/how-much-does-adwords-cost">average CPC</a> advertisers are willing to spend for a click is $2, so why should I spend more?”</p>
+<p>Every industry is different. Someone in the legal, HVAC, or software industry may have to spend significantly more than an advertiser in a very niche market. You have to consider your specific business when thinking about online advertising.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ff4f3a46-3c8b-48c1-837b-c526e4bc27f4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bids-versus-budget-cost-per-click-by-industry.jpg" alt="bids versus budget average cost per click by industry" width="800" height="913" /></div>
+</article>
+</div>
+<p>Even if I’m willing to spend $1000 per day, if I do not set my bids appropriately, I will barely show my ad and never have the chance to spend up to that budget. If I want a fighting chance to compete, I need to tell Google that a click is valuable to me.</p>
+<p>“So, Lyle, if I do not know what my industry average is, what should I do?”</p>
+<p>Consider historical trends. How many clicks does it take for you to get a conversion? How many conversions does it take for you to get a sale? What is your average order value of one sale?</p>
+<p>If you’re a WordStream customer, you can pull in the Top of Page and First Position bid columns to see what the current competition is for a particular keyword. This is great because it allows you to determine whether or not a keyword is within your price range and if you are currently bidding aggressively enough!</p>
+<p>If my budget is $1000, and it takes me 20 clicks to get 1 conversion, and 5 conversions lead to sales that range from $2000-5000, I can use math to calculate how much I should spend. In this case, I want at least 100 clicks per month to generate ROI, so I should have a minimum CPC set to $10.</p>
+<p>If you do not have this data, which may very well be the case, look into your <a href="https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks">specific industry average</a>!</p>
+<h2>How to leverage bids over budget</h2>
+<p>Let’s pretend I am a divorce attorney in Boston. If someone looks up “divorce attorney in boston,” I want to appear on that SERP. This is an incredible keyword that I should DEFINITELY bid aggressively on.</p>
+<p>When I searched this phrase on Google, this results page popped up:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5b444cf3-b258-4e41-ac98-84d8318f06db" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bids-versus-budget-serp.jpg" alt="bids versus budget SERP for &quot;divorce attorney in boston&quot;" width="631" height="911" /></div>
+</article>
+</div>
+<p>The advertisers in the first two or three positions are the businesses that are most likely to generate a click, considering those first spots are where a user is visually drawn to. Not just that, but the first positions on the SERP are typically the companies that users trust the most.</p>
+<p>With that said, there are still ads being shown below this section at the top of the page, which I would never have known about unless I scrolled to the way bottom! In this case, these advertisers have the lowest Ad Ranks for the auction and show their ads where the CTR is guaranteed to be lower.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a1aa8203-d3ed-43b3-a416-130efc4d1276" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bids-versus-budget-serp-bottom.jpg" alt="bids versus budget bottom of the SERP for &quot;divorce attorney in boston&quot;" width="581" height="876" /></div>
+</article>
+</div>
+<p>You can see that these advertisers at the very bottom of the first page are showing their ads in a place where users will likely never get to see them. Because their bids are set too low, these advertisers are not getting a fighting chance to earn that warm click – regardless of the size of their budgets.</p>
+<p>This is why some advertisers with a smaller budget can perform better than advertisers with more money to spend. Without taking position into consideration, the chance of getting viewed, clicked, and contacted is significantly restricted when other companies are well aware of the importance of where your ad is shown.</p>
+<p>If you want higher impression share, better CTR, and more chances to generate a form fill, call, or sale, you need to focus on leveraging competitive data, industry trends, and ROI knowledge to determine what you are comfortable bidding with.</p>
+<h2>Final advice: automate your bidding with caution</h2>
+<p>The last thing I like to point out is that some of my clients use automated bid strategies to take the stress away from identifying these trends. While this can be one of the most fruitful ways of generating conversions, using an automated bid strategy almost always relies on conversion data. If you tell Google to “Target CPA” or “Maximize Conversions,” for example, Google needs enough conversion history for that campaign to understand how valuable a conversion is to you, where you tend to convert, and how much it should be spending on average to get you a conversion.</p>
+<p>By giving Google full control over your bid prices, you rely on Google’s algorithm to fully understand how to optimize spend. If you are under the required 30-day conversion volume (generally 15-30 for Maximize Conversions and 30-100 for Target CPA), you should make sure you are set to Manual CPC so you can take that control until Google understands what to do with your money.</p>
+<p>And the next time your boss or client asks why you are not spending as much as you could on Google Ads, make sure to check all of the factors mentioned here that affect how competitive you are in the Ad Auction!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget">PPC Budgets vs. Bids: What&#8217;s the Difference?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

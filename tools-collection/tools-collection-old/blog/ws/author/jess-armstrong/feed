@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jess Armstrong, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jess-armstrong/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 29 Aug 2025 19:42:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jess Armstrong, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Goodbye, Average Position: Everything You Need to Know</title>
+		<link>https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position#respond</comments>
+		
+		<dc:creator><![CDATA[Jess Armstrong]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position/</guid>
+
+					<description><![CDATA[<p>Earlier this year, Google announced its plan to retire average position. Now, the metric will be officially gone in September. Here's what you need to know, including how to prepare your account and how to to use Google's new metrics.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position">Goodbye, Average Position: Everything You Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In early 2019, Google Ads announced that it will be <a href="https://www.wordstream.com/blog/ws/2019/02/27/google-sunsets-average-position">sunsetting the average position metric</a> later this year. At the same time, they launched four new metrics that advertisers could use in its place.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b89a0e87-d119-489e-b9a0-0bbdac15cd40" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/goodbye-average-position.jpg" alt="average position column in Google Ads" width="628" height="524" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://support.google.com/google-ads/answer/7049330?co=ADWORDS.IsAWNCustomer%3Dfalse&amp;hl=en" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>Now, we know that average position will stop being supported in late September 2019. (The most recent target date we have from Google is September 30, 2019.) That date is getting closer—which means you need to make sure you’re ready for the official sunsetting of average position. Here, we’re going to tell you everything you need to know to prepare, including:</p>
+<ul>
+<li>Why average position is going way</li>
+<li>How you can use the new metrics</li>
+<li>What WordStream thinks about this change</li>
+</ul>
+<h2>Why is average position going away?</h2>
+<p>Think about the variety of unique search engine results pages (SERPs) there are for ads these days. Sometimes there are three ads at the top. Sometimes four. Sometimes there is only one ad at the top and the rest are all the way down at the bottom.</p>
+<p>Since Google moved away from the “one SERP fits all” strategy in early 2016, average position stopped being an indicator of where on the page your ad is displayed. Consider the screenshots below. Both of these ads are considered to be in position four on the SERP:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e8656055-9ebe-4546-b036-03729cef131e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/goodbye-average-position-serp.jpg" alt="SERP example" width="506" height="900" /></div>
+</article>
+</div>
+<p><span lang="EN">One of these ads will likely have better performance than the other.</span></p>
+<p>Instead of telling you <em>where on the page</em> your ad appeared, average position has evolved into a proxy for ad rank. For example, if your average position is 3.1, you can infer that most of the time, two other ads had beaten you in the auction. But you still have no idea how often your ad is showing above the organic results.</p>
+<p>This presents a problem because <strong>ads that appear above the organic results tend to perform better than those that don’t</strong>. Without the ability to tell how often your ad appears on top, it becomes much more difficult to answer questions like <em>Will </em><a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding"><em>increasing bids </em></a><em>improve my click through rate?</em> Or <em>Can I decrease my bids without losing out on </em><a href="https://www.wordstream.com/google-adwords"><em>performance</em></a><em>?</em></p>
+<p>In order to answer these questions (and others), Google created four new metrics.</p>
+<h2>What are the new metrics?</h2>
+<p>These new metrics make reference to two relatively new terms within the search space—“top” and “absolute top”—both of which refer to positions on the SERP. “Top” refers to any ad that appears above the organic results. “Absolute top” refers to the very first ad that appears above the <a href="https://www.wordstream.com/blog/ws/2018/07/13/organic-traffic-drops">organic results</a>. (See the diagram below for more details.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d1002ece-3fb6-44a2-b9e1-7bb5347d61bd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/goodbye-average-position-new-metrics-serp_0.jpg" alt="new metrics on SERP" width="547" height="615" /></div>
+</article>
+</div>
+<p>With those new terms in mind, here are the new metrics:</p>
+<ul>
+<li><strong>Top impression rate</strong> [Impr. (Top) %]: The percent of your ad impressions that were delivered anywhere above the organic search results.</li>
+<li><strong>Absolute top impression rate</strong> [Impr. (Abs. Top) %]: The percent of your ad impressions that were delivered as the very first ad above the organic search results.</li>
+<li><strong>Search top impression share </strong>[Search top IS]: A percentage indicating how frequently your ad appeared above the organic results compared to the estimated number of impressions you were eligible to receive in that location.</li>
+<li><strong>Search absolute top impression share</strong> [Search abs. top IS]: A percentage indicating how frequently your ad appeared as the first ad above the organic search results compared to the estimated number of impressions you were eligible to receive in the absolute top location.</li>
+</ul>
+<h2>What’s our take?</h2>
+<p>These new metrics provide valuable insight for advertisers—but only if they know how to use them.</p>
+<p>Top impression rate and absolute top impression rate are important diagnostic tools. They help advertisers better decipher where on the SERP ads are showing.</p>
+<p>Meanwhile, search top impression share and absolute top impression share are more opportunistic indicators. They tell advertisers how often their ads <em>could be served</em> in more prominent positions. While this information is nice to have, it is not as impactful for the majority of SMB advertisers who have <a href="https://www.wordstream.com/blog/ws/2019/07/30/cost-effective-ad-types">limited budgets</a>.</p>
+<p>Bottom line: We still think advertisers should focus on metrics that will help them achieve their true business objectives.</p>
+<h2>Remember, change is the only constant</h2>
+<p>Google’s announcement that average position was going away was certainly a shock to the PPC community—but it wasn’t <em>that</em> big of a shock</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="41358d46-8781-41c3-b016-d5d13f013fdb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-sunsets-average-position-kirk-tweet.png" alt="google-sunsets-average-position-kirk-williams" width="606" height="363" /></div>
+</article>
+</div>
+<p>The landscape of online advertising is constantly changing, and it seems like platforms, including Google, roll out <a href="https://www.wordstream.com/blog/ws/2019/06/13/firefox-blocks-cookies">updates</a> <a href="https://www.wordstream.com/blog/ws/2019/07/11/facebook-revives-reach-estimates">almost</a> <a href="https://www.wordstream.com/blog/ws/2019/07/24/facebook-shrinks-mobile-ads">continuously</a>. So take the time to review your account and check out these new metrics—and remember not to get <em>too </em>attached or <em>too </em>comfortable.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position">Goodbye, Average Position: Everything You Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Facebook &#034;Bug&#034; Reveals Organic Reach Is Even Worse Than We Thought</title>
+		<link>https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported#respond</comments>
+		
+		<dc:creator><![CDATA[Jess Armstrong]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported/</guid>
+
+					<description><![CDATA[<p>Facebook announced that the organic reach of your posts has been overrepresented by 50% in the Page Insights dashboard. What can you do about these dismal numbers?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported">Facebook &quot;Bug&quot; Reveals Organic Reach Is Even Worse Than We Thought</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Two months after Facebook announced it had been <a href="http://newsroom.fb.com/news/2016/11/an-update-on-metrics-and-reporting/">overestimating average view time for videos</a>, the social network let out that it found four more discrepancies in performance metrics relied on by digital marketers and advertisers. Cue eyeroll!</p>
+<p>The most glaring of these miscalculations is how organic reach has been overrepresented in the Page Insights dashboard. Per the <a href="http://www.wsj.com/articles/facebook-says-it-found-more-miscalculated-metrics-1479303984">Wall Street Journal</a>:</p>
+<p><em>Facebook found that it had been overcounting how many people were exposed to marketers’ organic posts, meaning regular posts that weren&#8217;t paid ads, because it was adding up the daily reach over certain periods without accounting for repeat visitors. The corrected metric on average will be about 33% lower for the seven-day period and 55% lower for the 28-day period, Facebook said.</em></p>
+<p>The issue, which has been present since May of this year, was discovered after an internal review of Facebook’s advertising and performance metrics. In an attempt to subdue the concerns of many, Facebook announced that it would “double-down” on additional third-party reviews and validation of its data.</p>
+<p>Still, this does not help businesses who are solely operating on Facebook organically. They now must deal with the fact that their audience may be less than half of what they thought it was.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="73360c55-19ea-4433-ba1a-a6e15f69406a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-organic-reach-errors1.png" alt="facebook reach bug" width="1431" height="918" /></div>
+</article>
+</div>
+<p><em>Organic reach, outlined in red, is over estimated by 50% when looking at the last 7 days, and 100% across a four week span (28 days)</em></p>
+<h2>It Gets Worse…</h2>
+<p>In addition to coming clean about these reporting errors, Facebook also announced that it will be introducing a stricter definition to organic reach in the coming months. As it stands, reach includes users who had a post in their newsfeed <em>even if a user never scrolled far enough to actually view the post.</em></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e4152c58-b052-46a5-b0e3-c30b92dffc66" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-organic-impressions-misreported.jpg" alt="facebook posts impressions" width="750" height="500" /></div>
+</article>
+</div>
+<p>That’s right, your organic reach includes people who haven’t even seen your posts!</p>
+<p>In an effort to improve the transparency of this metric, Facebook will be adjusting organic reach counts to go off of “viewable impressions,” only counting reach when a unique user sees a post on their screen. This is the same way Facebook currently determines the reach of paid content, so the change will create parity between how the two are reported.</p>
+<p>The result of this change? Reported organic reach is expected to drop an additional 20% on average. <strong>To be clear, this does not mean that you will reach 20% fewer people. Instead it is just a more accurate reflection of your actual audience size.</strong> (You can learn more about the difference between organic and paid audiences with our <a href="/blog/ws/2016/06/21/facebook-ad-tool">Facebook Calculator</a>.)</p>
+<p>To help marketers stay on top of all the upcoming reporting adjustments, Facebook has launched a new blog series, <a href="http://newsroom.fb.com/news/category/metrics-fyi/">Metrics FYI</a>.</p>
+<h2>Lessons Learned?</h2>
+<p>Before your start preparing a “brace yourself” speech for your boss or clients, let’s take a look at some lessons learned from this new revelation.</p>
+<h3>Lesson 1: Organic Posting Is the Least You Can Do</h3>
+<p>Literally. We already knew that <a href="/blog/ws/2014/03/12/facebook-organic-reach">organic reach on Facebook is abysmal</a>. If you are still gung-ho about posting organic content, don’t let this stop you, just know that your reach can be well below 5 percent of page fans. Organic posts are a great way to make sure your business page stays fresh, but other than that, it’s a bit like yelling in an empty room.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="790c4608-fde2-4ed8-bacc-6a6cf2b6d0c8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/loud-noises.jpg" alt="facebook organic reach errors" width="550" height="289" /></div>
+</article>
+</div>
+<h3>Lesson 2: It’s Time to Start Boosting Posts</h3>
+<p>If posting organically is the least you can do, the next best thing would be boosting those same posts. Boosting allows you to expand the reach of your organic posts by putting a little money behind them. There’s no need to boost <em>everything</em>. Just pick a few that have the best engagement, and give them the nudge they so desperately want. (Do Facebook posts have feelings? I think they do.)</p>
+<h3>Lesson 3: You Have to Pay to Play</h3>
+<p>You knew this was coming, didn’t you? Facebook has approximately 4 million advertisers with <a href="http://expandedramblings.com/index.php/facebook-advertising-statistics/">a growth rate of 50% in the last year</a>. That being said, the <a href="/blog/ws/2015/09/14/facebook-advertising-cost">cost-per-click is still well below AdWords</a>. If you haven’t already joined the movement, consider this a wake-up call.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported">Facebook &quot;Bug&quot; Reveals Organic Reach Is Even Worse Than We Thought</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/11/18/facebook-organic-reach-misreported/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

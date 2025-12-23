@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Resources" transform="translate(-51, -102)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(22, 22)">
+                <g id="monitor-chart" transform="translate(29.25, 80.2771)">
+                    <polygon id="Shape" stroke="#3A56BC" points="15 22.32288 9 22.32288 9.75 18.00288 14.25 18.00288"></polygon>
+                    <line x1="6.75" y1="22.32288" x2="17.25" y2="22.32288" id="Shape" stroke="#3A56BC"></line>
+                    <rect id="Rectangle-path" stroke="#3A56BC" x="0.75" y="0.72288" width="22.5" height="17.28" rx="3"></rect>
+                    <ellipse id="Oval" stroke="#3A56BC" cx="8.25" cy="9.36288" rx="4.5" ry="4.32"></ellipse>
+                    <polyline id="Shape" stroke="#3A56BC" points="8.25 5.04288 8.25 9.36288 11.432 12.4176"></polyline>
+                    <line x1="15.75" y1="6.48288" x2="18.75" y2="6.48288" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="15.75" y1="9.36288" x2="18.75" y2="9.36288" id="Shape" stroke="#FFAF24"></line>
+                    <line x1="15.75" y1="12.24288" x2="18.75" y2="12.24288" id="Shape" stroke="#FFAF24"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

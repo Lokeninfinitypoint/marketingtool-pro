@@ -1,0 +1,45 @@
+.ct-rating-filter {
+
+	ul {
+		gap: 0;
+	}
+
+	li {
+		&:not(:last-child) a {
+			padding-inline-end: 3px;
+		}
+
+		&:not(:first-child) a {
+			padding-inline-start: 3px;
+		}
+
+		&.active a,
+		&:has(~ .active) a,
+		&:hover a,
+		&:has(~ :hover) a {
+			color: var(--star-rating-initial-color, #FDA256);
+		}
+
+		&:hover ~ li a {
+			color: var(--star-rating-inactive-color, #F9DFCC);
+		}
+
+
+		a {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			color: var(--star-rating-inactive-color, #F9DFCC);
+
+			&:hover .ct-tooltip {
+				opacity: 1;
+				visibility: visible;
+				transform: translate3d(0px, calc(-100% - 10px), 0px);
+			}
+		}
+	}
+
+	.ct-tooltip {
+		transform: translate3d(0px, calc(-100% - 5px), 0px);
+	}
+}

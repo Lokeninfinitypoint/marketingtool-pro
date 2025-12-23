@@ -1,0 +1,8 @@
+/**
+ *  - v2.1.17
+ * 
+ * Copyright (c) 2025
+ * Licensed GPLv2+
+ */
+
+.ct-product-attribute{display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:14px}.ct-product-attribute:not(:last-child){margin-bottom:12px;padding-bottom:12px;border-bottom:1px solid var(--theme-border-color)}.ct-product-attribute .ct-attributes-label{flex:0 1 auto;font-weight:600}.ct-product-attribute .ct-attributes-value{text-align:end}

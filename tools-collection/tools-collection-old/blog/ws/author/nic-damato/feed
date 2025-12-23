@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nic D&#039;Amato, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/nic-damato/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 12 Jul 2023 21:33:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Nic D&#039;Amato, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Remarketing for Dynamic Search Ads (RDSA): Your Google Ads Campaign on Steroids</title>
+		<link>https://www.wordstream.com/blog/ws/2016/08/04/remarketing-for-dynamic-search-ads</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/08/04/remarketing-for-dynamic-search-ads#respond</comments>
+		
+		<dc:creator><![CDATA[Nic D'Amato]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/07/27/remarketing-for-dynamic-search-ads/</guid>
+
+					<description><![CDATA[<p>Have you ever thought about why the heck an athlete would do steroids? You might say it is cheating because they’re essentially putting in the same amount of work or less and are performing at a level that is unheard of or is just way above the competition.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/08/04/remarketing-for-dynamic-search-ads">Remarketing for Dynamic Search Ads (RDSA): Your Google Ads Campaign on Steroids</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Have you ever thought about why the heck an athlete would do steroids? You might say it is cheating because they’re essentially putting in the same amount of work or less and are performing at a level that is unheard of or is just way above the competition. Or maybe you would say, what is the big deal? Watching these athletes perform at an incredible level all for the glory and your entertainment is the way it should be.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cebe0bff-cb68-42bf-8cb3-90f5c4342528" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rdsa-on-steroids.jpg" alt="remarketing for dynamic search ads campaigns" width="300" height="199" /></div>
+</article>
+</div>
+<p>Now, think about all of the different campaign types you are able to create in your paid search accounts. Sometimes, you may wish that there was a way to inject your campaigns with some extra juice to make them perform at unbelievable levels. We all know that there are <a href="/blog/ws/2016/04/18/adwords-scripts">scripts</a>, <a href="/blog/ws/2011/03/07/adwords-automated-rules">automated rules</a>, and <a href="/adwords-tools">tools</a> (*cough cough* WordStream) out there you can use that will help your campaigns tremendously.</p>
+<p>But there are also campaign types and subtypes right in front of your eyes that are easy to create and also combine. You just may not have thought of them or tried them yet. The campaign I am about to discuss is a hybrid of sorts and just the juice your account needs.</p>
+<h2>The Juice: Dynamic Search Ads + RLSA</h2>
+<p>There are 2 campaign types/subtypes that Google Ads (AdWords) introduced a few years ago: <a href="https://www.wordstream.com/blog/ws/2023/07/10/dynamic-search-ads">Dynamic Search Ads</a> (DSA) and <a href="/blog/ws/2016/06/08/rlsa">Remarketing Lists for Search Ads</a> (RLSA).</p>
+<p>In a DSA campaign, you provide Google Ads with your homepage and Google creates categories based on how your site is indexed. You can then target these categories and create 2 description lines for your ads. Based on a user’s search, Google will find the landing page that best matches their search, use that as the Final URL and dynamically create a headline. This campaign type makes it quite effortless and easy for advertisers to reach users.</p>
+<p>In an RLSA campaign, you are able to use your audience lists in your search campaigns to bid on broader keywords or other keywords they wouldn’t normally bid on. It is just another awesome way to retarget users. But this time you could go after them as they continued their online search.</p>
+<p>When you combine these two, <strong>you are creating a hybrid campaign, RDSA or Remarketing for Dynamic Search Ads, and the results are magical</strong>. This is the steroids or juice that PPC’ers dream of. But first, a few tips:</p>
+<ul>
+<li>Be cautious. Test this campaign with a smaller budget and expand upon it pending results.</li>
+<li>I also highly recommend it if your site has a search bar, especially if it is an e-commerce site.</li>
+</ul>
+<h2>Numbers Don’t Lie</h2>
+<p>I looked at 100 accounts running DSA, RLSA, or the hybrid of RDSA campaigns with data from the past 2 months. When comparing this hybrid campaign with DSA, RDSA campaigns had a <strong>109% higher CTR</strong>, at 8.1% vs. 3.9%. Also, these campaigns produced a <strong>75% lower CPA and a 156% higher Click Conversion Rate</strong>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9e62531b-a827-4cf2-918b-ca56b9f7d743" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rdsa-vs-dsa-ctr-1.png" alt="remarketing plus dynamic search ads" width="702" height="439" /></div>
+</article>
+</div>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7b912c83-d436-4a72-b33e-b15cf151b454" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dsa-vs-rdsa-conversion-rate.png" alt="conversion rate for remarketing with DSA" width="701" height="439" /></div>
+</article>
+</div>
+<p>Even more, <strong>e-commerce sites trying RDSA saw a 187% higher Return on Ad Spend</strong> than their counterparts only trying DSA. As the kids will say these days, RDSA is !</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7a55ddda-a1b6-47bc-aa91-f45c99046989" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/e-commerce-return-on-ad-spend.png" alt="return on ad spend for RDSA" width="655" height="381" /></div>
+</article>
+</div>
+<p>When comparing RDSA to RLSA campaigns, RDSA was still the champion. This is a stronger comparison since both campaigns are essentially the same, except with RDSA you don’t have to put in hours of labor when creating the campaign because the keywords, the headline and Final URLs of the text ads with be dynamically generated.</p>
+<p>RDSA has a 47% higher CTR, 8.1% to 5.5%. CPA is 42% lower in the RDSA campaigns. The only comparable metric here is conversion rate. RDSA was just 8% higher. But, still, RDSA was better.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bc5aa8df-a50d-42e6-86e8-419ac1d6d6b9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rdsa-vs-rlsa-click-through-rates.png" width="701" height="439" /></div>
+</article>
+</div>
+<p>For e-commerce accounts, RDSA had a 329% higher return than just RLSA. If I am an e-commerce advertiser, I am creating this campaign immediately. That is pretty impressive.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7dc79447-4268-4606-99b2-0280fcb6fbd2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/remarketing-dynamic-search-ads-for-ecommerce.png" width="701" height="439" /></div>
+</article>
+</div>
+<p>DSA and RLSA on their own can be great campaigns. DSA can be great if your site is well-indexed and you are also looking for <a href="/blog/ws/2016/01/21/e-commerce-keyword-research">new keyword opportunities</a>. And RLSA is especially good if you want to have very granular ad groups with 1-5 keywords and highly targeted ad copy. But based off of these numbers, I think this hybrid campaign is something advertisers must get into their accounts now. It is so easy to create and optimize that you’d be crazy to not have this campaign in your account.</p>
+<h2>How to Create an RDSA Campaign</h2>
+<p>To set this campaign up in the AdWords interface, create it as you would a regular search campaign with “All features.” This will ensure that you can create an ad schedule, target different locations, and <a href="/blog/ws/2016/07/26/device-level-bid-adjustments">make bid adjustments for mobile</a> in your campaign settings.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="68034a41-1127-40ff-8e61-53548a0e96d3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-remarketing-dynamic-search-ads-campaign.png" alt="creating rdsa campaigns" width="570" height="268" /></div>
+</article>
+</div>
+<p>Enter in all requisite information. Then, in the advanced settings, pop open the <a href="https://www.wordstream.com/blog/ws/2019/07/01/dynamic-search-ads">Dynamic Search Ads</a> section and enter in your URL; Save and Continue.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ca962534-e354-479b-8b19-3caf4c9cb078" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-dynamic-search-ads-hybrid-campaign.png" alt="dynamic search ads plus remarketing" width="541" height="137" /></div>
+</article>
+</div>
+<p>You will then be brought to the Ad Group set up, where you can create your dynamic search ad and select your dynamic ad targets. Your ad targets can be based on the categories created by Google, all pages, or specific webpages. I suggest utilizing the categories Google provides and creating separate ad groups based on the different categories. If the categories aren’t as specific as you would like, then target by specific webpages and enter in the URL you wish to target. Google will create this as a category.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="57fdc4ba-cca0-4682-990f-acf2a769e2af" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dynamic-ad-targets-how-to.png" alt="dynamic search ad targets" width="1105" height="499" /></div>
+</article>
+</div>
+<p>Once an Ad Group is set up, go to the Audiences tab within the Ad Group and add in the audience/s you want to target by clicking the “+ Remarketing” button and selecting your audience in the “Interests and remarketing” section. It is important that the audience list is set to “Target and Bid” since this will ensure you only target past visitors to your site (just like an RLSA campaign). A “Bid only” target will essentially target anyone and will primarily act as a way to view how a certain audience performs in comparison to everyone else. Also, similar to a RLSA campaign, you may want to exclude past converters when the objective in mind is to capture new customers.</p>
+<p>I recommend creating or using lists for users that were highly engaged, i.e. visited more than 3 times, avg. session duration was 5 minutes or more, or even <a href="/blog/ws/2015/11/02/adwords-customer-match-setup">Customer Match audiences</a>. As you become more advanced, you can start to add in visitors who may have purchased items, spent a certain amount or completed a certain action. This will be especially useful for upcoming promotions and good for creating a loyal customer base when you do run promotions.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="011d1505-0e2e-4e67-b5dc-53f41b16800e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/remarketing-dynamic-campaign-audience.png" alt="guide to remarketing dynamic search ads" width="331" height="316" /></div>
+</article>
+</div>
+<p>After it is all set up, let it run. I recommend starting with a lower daily budget and lower max. CPCs. Similar to how you may run a DSA campaign, add in the keywords you already bid on in your regular search campaigns as negatives and even add negatives other campaigns may share. This will ensure keywords you already bid on are not driving higher CPCs and acting as duplicates within your account. See how performance looks after a couple of weeks and begin to optimize as you see fit.</p>
+<p>Have you tried out this hybrid campaign type? Let us know if you have seen awesome results in your RDSA campaigns as well!</p>
+<h3>Data Sources</h3>
+<p>Normal0falsefalsefalseEN-USX-NONEX-NONEMicrosoftInternetExplorer4</p>
+<p>/* Style Definitions */ table.MsoNormalTable {mso-style-name:&#8221;Table Normal&#8221;; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:&#8221;&#8221;; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:&#8221;Times New Roman&#8221;,serif;}</p>
+<p>This report is based on a sample of 100 accounts (WordStream clients – all verticals) advertising within the United States on the Google Search Network between  May 8 – July 7 2016.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/08/04/remarketing-for-dynamic-search-ads">Remarketing for Dynamic Search Ads (RDSA): Your Google Ads Campaign on Steroids</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/08/04/remarketing-for-dynamic-search-ads/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

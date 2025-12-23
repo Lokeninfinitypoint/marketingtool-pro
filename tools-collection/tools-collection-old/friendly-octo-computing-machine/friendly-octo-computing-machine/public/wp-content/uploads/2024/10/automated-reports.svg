@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Automation" transform="translate(-946, -963)" stroke-width="2.13333333">
+            <g id="Group-32" transform="translate(807, 945)">
+                <g id="Group-26-Copy-4" transform="translate(117, 0)">
+                    <g id="data-file-clock" transform="translate(24, 20)">
+                        <circle id="Oval" stroke="#FFAF24" cx="23.4666667" cy="23.4666667" r="8.53333333"></circle>
+                        <polyline id="Shape" stroke="#FFAF24" points="27.2384 23.4666667 23.4666667 23.4666667 23.4666667 19.6949333"></polyline>
+                        <polyline id="Shape" stroke="#3A56BC" points="4.26666667 8.53333333 4.26666667 21.3333333 9.6 21.3333333"></polyline>
+                        <path d="M4.26666667,17.0666667 L8.09102222,13.2423111 C8.49113906,12.8419378 9.03396793,12.6169888 9.6,12.6169888 C10.1660321,12.6169888 10.7088609,12.8419378 11.1089778,13.2423111 L11.9352889,14.0686222 C12.3998141,14.532628 13.0521246,14.7568873 13.7037695,14.6766122 C14.3554143,14.5963372 14.9337963,14.2204708 15.2718222,13.6576 L15.7809778,12.8042667" id="Shape" stroke="#3A56BC"></path>
+                        <path d="M9.6,27.7333333 L2.13333333,27.7333333 C0.955125867,27.7333333 0,26.7782075 0,25.6 L0,2.13333333 C0,0.955125867 0.955125867,0 2.13333333,0 L17.2501333,0 C17.8155338,0 18.3577623,0.224685158 18.7576889,0.624355556 L22.8423111,4.70897778 C23.2419815,5.10890438 23.4666667,5.65113286 23.4666667,6.21653333 L23.4666667,9.6" id="Shape" stroke="#3A56BC"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

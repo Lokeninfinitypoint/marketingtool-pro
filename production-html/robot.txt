@@ -1,0 +1,12 @@
+# Robots.txt file for controlling web crawler access
+
+User-agent: *
+
+# Allowed pages
+Allow: /
+
+# Disallowed pages
+Disallow: /cdn-cgi/
+
+# Sitemap location
+Sitemap: https://marketingtool.pro/sitemap-index.xml

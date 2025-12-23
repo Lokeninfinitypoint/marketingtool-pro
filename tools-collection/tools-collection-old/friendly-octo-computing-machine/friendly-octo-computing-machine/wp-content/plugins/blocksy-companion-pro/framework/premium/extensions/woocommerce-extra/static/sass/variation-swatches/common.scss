@@ -1,0 +1,108 @@
+.ct-variation-swatches {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--swatches-gap, 10px);
+
+	.ct-swatches-more {
+		align-self: center;
+
+		&[data-state='hidden'],
+		&[data-state='expanded'] {
+			display: none;
+		}
+	}
+}
+
+// swatch container
+.ct-swatch-container {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	// border-radius: var(--swatch-border-radius);
+
+	.ct-swatch {
+		position: relative;
+		cursor: pointer;
+		overflow: clip;
+		height: var(--swatch-size, 30px);
+		border-radius: var(--swatch-border-radius);
+	}
+
+	.ct-swatch-content {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 100%;
+	}
+
+	// swatch state
+	&.ct-hidden {
+		display: none;
+	}
+
+	&.ct-limited {
+		display: none;
+	}
+
+	// tooltip
+	.ct-tooltip {
+		transform: translate3d(0px, calc(-100% - 7px), 0px);
+
+		&[data-tooltip-type='image'] {
+			height: auto;
+			padding: 7px;
+		}
+
+		.ct-media-container {
+			width: 80px;
+		}
+	}
+
+	&:hover {
+		.ct-tooltip {
+			opacity: 1;
+			visibility: visible;
+			transform: translate3d(0px, calc(-100% - 12px), 0px);
+		}
+	}
+}
+
+// swatch shape
+[data-swatches-shape='round'] {
+	--swatch-border-radius: 200px;
+}
+
+[data-swatches-shape='square'] {
+	--swatch-border-radius: 3px;
+}
+
+
+// out of stock decoration
+.ct-out-of-stock .ct-swatch-content {
+	opacity: 0.4;
+}
+
+[data-out-of-stock-swatch-type="crossed"] .ct-out-of-stock .ct-swatch {
+
+	&:before, &:after {
+		content: '';
+		position: absolute;
+		z-index: 1;
+		left: 50%;
+		top: 50%;
+		width: 2px;
+		height: calc(100% - 4px);
+		background: #d83428;
+		border-radius: 1px;
+		pointer-events: none;
+		transform-origin: center;
+	}
+
+	&:before {
+		transform: translate(-50%, -50%) rotate(45deg);
+	}
+
+	&:after {
+		transform: translate(-50%, -50%) rotate(-45deg);
+	}
+}

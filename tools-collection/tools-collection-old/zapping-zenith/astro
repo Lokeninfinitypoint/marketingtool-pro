@@ -1,0 +1,9 @@
+{
+  "title": "Next-Gen Marketing Dashboard",
+  "subtitle": "Powerful analytics and automation built for growth teams.",
+  "items": [
+    { "title": "AI-Powered Insights", "description": "Leverage real-time intelligence to optimize every campaign." },
+    { "title": "Omnichannel Integration", "description": "Seamlessly manage ads, social, and analytics from one unified hub." },
+    { "title": "Lightning Performance", "description": "Astro’s build system ensures blazing-fast load speeds." }
+  ]
+}

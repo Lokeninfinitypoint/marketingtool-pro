@@ -1,0 +1,996 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI Assistant\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-23 08:58+0000\n"
+"PO-Revision-Date: 2025-11-18 07:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.29\n"
+"X-Domain: hostinger-ai-assistant"
+
+#: includes/class-hostinger-ai-assistant-errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr ""
+"Desculpe, a ação falou. Tente novamente ou entre em contato com o suporte."
+
+#: admin/class-hostinger-ai-assistant-translations.php:66
+msgid "Active"
+msgstr "Ativo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:119
+#, fuzzy
+msgid "Add a new page to my WordPress website"
+msgstr "Adicionar uma nova página ao meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:139
+#, fuzzy
+msgid "Add a new post to my WordPress website"
+msgstr "Adicionar uma nova postagem ao meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:163
+#, fuzzy
+msgid "Add a new product to your WooCommerce store"
+msgstr "Adicione um novo produto à sua loja WooCommerce"
+
+#: admin/class-hostinger-ai-assistant-translations.php:162
+#, fuzzy
+msgid "Add a product"
+msgstr "Adicionar um produto"
+
+#: admin/class-hostinger-ai-assistant-translations.php:167
+#, fuzzy
+msgid "Add a product category"
+msgstr "Adicionar uma categoria de produto"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:448
+msgid "Add an image inside my content"
+msgstr "Adicionar uma imagem no meu conteúdo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:137
+#, fuzzy
+msgid "Add blog post"
+msgstr "Adicionar post de blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:117
+#, fuzzy
+msgid "Add WordPress page"
+msgstr "Adicionar página do WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:90
+msgid "After clearing history you won't be able to access previous chats."
+msgstr ""
+"Depois de limpar o histórico, você não poderá acessar as conversas "
+"anteriores."
+
+#: admin/class-hostinger-ai-assistant-translations.php:95
+msgid ""
+"After starting new chat, you will be able to access previous chats from the "
+"history."
+msgstr ""
+"Depois de iniciar um novo bate-papo, você poderá acessar as conversas "
+"anteriores no histórico."
+
+#: admin/class-hostinger-ai-assistant-admin.php:178
+#: admin/class-hostinger-ai-assistant-admin.php:179
+#: admin/class-hostinger-ai-assistant-admin.php:192
+#: admin/partials/hostinger-ai-assistant-tab-view.php:24
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/index.js:10
+msgid "AI Content Creator"
+msgstr "Criador de Conteúdo com IA"
+
+#: admin/class-hostinger-ai-assistant-translations.php:58
+msgid "AI may produce inaccurate information"
+msgstr "A IA pode gerar informações imprecisas"
+
+#: admin/class-hostinger-ai-assistant-translations.php:34
+msgid "AI-generated image"
+msgstr ""
+"Imagem gerada por IA\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:110
+msgid "Allow Kodee to manage your site"
+msgstr "Permitir que o Kodee gerencie seu site"
+
+#: includes/class-hostinger-ai-assistant-errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr "Falha inesperada. Tente novamente ou entre em contato com o suporte. "
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:244
+msgid "Are you sure you want to replace your existing content with a new one ?"
+msgstr "Tem certeza que quer substituir o conteúdo atual por um conteúdo novo?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:59
+msgid "Ask Kodee"
+msgstr "Pergunte ao Kodee"
+
+#. translators: %s: PHP version
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#: hostinger-ai-assistant.php:131
+msgid "Attention:"
+msgstr "Atenção:"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:224
+#, fuzzy
+msgid ""
+"Authentication required. Please provide a Bearer token or log in as an "
+"administrator."
+msgstr ""
+"Autenticação necessária. Forneça um token de portador ou faça login como "
+"administrador."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:139
+msgid "Balances depth and readability, engaging audiences and driving leads."
+msgstr ""
+"Equilibra profundidade e legibilidade, envolvendo o público e gerando leads."
+"\n"
+"\n"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:205
+msgid "Brewing content with magic"
+msgstr "Criando conteúdo com a mágica da inteligência artificial"
+
+#: admin/class-hostinger-ai-assistant-translations.php:91
+#: admin/partials/hostinger-ai-assistant-tab-view.php:251
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/class-hostinger-ai-assistant-translations.php:64
+msgid "Cannot restart the chat when Kodee is responding"
+msgstr "Não é possível reiniciar o bate-papo quando o Kodee está respondendo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:53
+msgid "Cannot restart the chat when talking with the agent"
+msgstr ""
+"Não é possível reiniciar o bate-papo enquanto estiver falando com o agente"
+
+#: admin/class-hostinger-ai-assistant-translations.php:65
+msgid "Cannot start a new chat when Kodee is responding"
+msgstr ""
+"Não é possível iniciar um novo bate-papo quando o Kodee está respondendo"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:222
+msgid "characters"
+msgstr "caracteres"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:152
+msgid "Choose the length of generated content"
+msgstr "Escolha o tamanho do conteúdo a ser gerado"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:93
+msgid "Choose the type of content that will be generated"
+msgstr "Escolha o tipo de conteúdo a ser gerado"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:114
+msgid "Choose your desired emotional impact on readers"
+msgstr "Escolha o tipo de impacto que você gostaria de causar nos leitores"
+
+#: admin/class-hostinger-ai-assistant-translations.php:89
+#: admin/class-hostinger-ai-assistant-translations.php:92
+msgid "Clear chat"
+msgstr ""
+"Limpar chat\n"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:247
+msgid ""
+"Clicking <b>Generate new content</b> will permanently delete your existing "
+"content and generate a new one on your recent inputs."
+msgstr ""
+"Ao clicar em <b>Gerar novo conteúdo</b>, seu conteúdo atual será "
+"permanentemente apagado, e um novo texto será gerado com base nas "
+"informações que você forneceu."
+
+#: admin/class-hostinger-ai-assistant-translations.php:55
+#: admin/class-hostinger-ai-assistant-translations.php:102
+msgid "Close"
+msgstr ""
+"Fechar\n"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:121
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:77
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:431
+msgid "Content length"
+msgstr "Tamanho do conteúdo"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:162
+msgid "Content main idea"
+msgstr ""
+"Ideia principal do conteúdo\n"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:63
+msgid "Content Type"
+msgstr "Tipo de conteúdo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:74
+msgid "Conversation was closed"
+msgstr "A conversa foi encerrada"
+
+#: admin/class-hostinger-ai-assistant-translations.php:168
+#, fuzzy
+msgid "Create a new product category in WooCommerce"
+msgstr "Criar uma nova categoria de produto no WooCommerce"
+
+#: admin/class-hostinger-ai-assistant-translations.php:169
+#, fuzzy
+msgid "Create a new WooCommerce product category for my store"
+msgstr "Criar uma nova categoria de produto do WooCommerce para minha loja"
+
+#: admin/class-hostinger-ai-assistant-translations.php:164
+#, fuzzy
+msgid "Create a new WooCommerce product for my store"
+msgstr "Criar um novo produto WooCommerce para minha loja"
+
+#: admin/class-hostinger-ai-assistant-translations.php:178
+#, fuzzy
+msgid "Create a WooCommerce sales report for a chosen period"
+msgstr "Criar um relatório de vendas do WooCommerce para um período escolhido"
+
+#: admin/class-hostinger-ai-assistant-translations.php:118
+#, fuzzy
+msgid "Create and publish a new page on your WordPress site"
+msgstr "Criar e publicar uma nova página em seu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:138
+#, fuzzy
+msgid "Create and publish a new post on your WordPress site"
+msgstr "Crie e publique uma nova postagem em seu site WordPress"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:195
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:461
+#| msgid "Generate content"
+msgid "Create content"
+msgstr ""
+"Gerar conteúdo\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:33
+msgid "Create Post with AI"
+msgstr ""
+"Criar post com IA\n"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:24
+msgid "Create product with AI"
+msgstr "Criar produtos com IA"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:70
+msgid "Describe your product in short"
+msgstr "Descreva seu produto em algumas palavras"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:40
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/class-hostinger-ai-assistant-errors.php:23
+msgid "Description is empty. Please provide a valid description."
+msgstr "A descrição está vazia. Forneça uma descrição válida."
+
+#: includes/class-hostinger-ai-assistant-surveys.php:24
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr ""
+"Você tem algum comentário/sugestão para melhorar nossas ferramentas de IA?\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:60
+msgid "Drop files here"
+msgstr "Coloque os arquivos aqui"
+
+#: admin/class-hostinger-ai-assistant-translations.php:158
+#, fuzzy
+msgid "Edit a WordPress post category by ID"
+msgstr "Editar uma categoria de postagem do WordPress por ID"
+
+#: admin/class-hostinger-ai-assistant-translations.php:153
+#, fuzzy
+msgid "Edit a WordPress post tag (e.g., rename or update it)"
+msgstr ""
+"Editar uma tag de postagem do WordPress (por exemplo, renomeá-la ou atualizá-"
+"la)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:123
+#, fuzzy
+msgid "Edit an existing WordPress page by its ID"
+msgstr "Editar uma página existente do WordPress por seu ID"
+
+#: admin/class-hostinger-ai-assistant-translations.php:143
+#, fuzzy
+msgid "Edit an existing WordPress post by its ID"
+msgstr "Editar uma postagem existente no WordPress por seu ID"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:229
+msgid "Edit as a draft"
+msgstr "Editar como rascunho"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:371
+msgid "Edit prompt"
+msgstr "Editar prompt"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:48
+msgid "Edit site"
+msgstr "Editar site"
+
+#: admin/class-hostinger-ai-assistant-translations.php:30
+#: admin/partials/hostinger-ai-assistant-tab-view.php:175
+msgid "Enter at least 10 characters"
+msgstr "Digite pelo menos 10 caracteres"
+
+#: admin/class-hostinger-ai-assistant-translations.php:29
+#| msgid "Example: website development, wordpress tutorial, ..."
+msgid "Example: website development, WordPress tutorial, ..."
+msgstr ""
+"Exemplo: desenvolvimento de site, tutorial de WordPress…\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:83
+msgid "Excellent"
+msgstr ""
+"Excelente\n"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:86
+msgid "External Featured Image"
+msgstr "Imagem externa em destaque"
+
+#: admin/class-hostinger-ai-assistant-translations.php:36
+msgid "External featured image"
+msgstr "Imagem externa em destaque"
+
+#: admin/class-hostinger-ai-assistant-translations.php:148
+#, fuzzy
+msgid "Find and filter posts with pagination options"
+msgstr "Localizar e filtrar postagens com opções de paginação"
+
+#: admin/class-hostinger-ai-assistant-translations.php:24
+#: admin/partials/hostinger-ai-assistant-tab-view.php:106
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:89
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:135
+msgid "Formal"
+msgstr "Formal"
+
+#: admin/class-hostinger-ai-assistant-translations.php:26
+#: admin/partials/hostinger-ai-assistant-tab-view.php:108
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:91
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:143
+msgid "Friendly"
+msgstr "Amigável"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:254
+msgid "Generate new content"
+msgstr "Gerar novo conteúdo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:177
+#, fuzzy
+msgid "Generate sales report"
+msgstr "Gerar relatório de vendas"
+
+#: admin/class-hostinger-ai-assistant-translations.php:179
+#, fuzzy
+msgid "Generate WooCommerce sales report for my store"
+msgstr "Gerar relatório de vendas do WooCommerce para minha loja"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:264
+#: admin/partials/hostinger-ai-assistant-tab-view.php:267
+msgid "Generating content..."
+msgstr "Gerando conteúdo..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:172
+#, fuzzy
+msgid "Get a list of orders"
+msgstr "Obter uma lista de pedidos"
+
+#: admin/class-hostinger-ai-assistant-translations.php:127
+#, fuzzy
+msgid "Get WordPress site information"
+msgstr "Obter informações do site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:113
+msgid "Grant Permission"
+msgstr "Conceder permissão"
+
+#: admin/class-hostinger-ai-assistant-translations.php:70
+#, fuzzy
+msgid "Hello 👋"
+msgstr "Olá 👋"
+
+#: admin/class-hostinger-ai-assistant-translations.php:48
+#| msgid ""
+#| "Hi, I'm your personal AI Assistant. You can ask me any questions you have "
+#| "regarding WordPress. I'm still learning, so sometimes can make mistakes. "
+#| "What questions do you have?"
+msgid ""
+"Hi, I'm Kodee, your personal AI assistant. You can ask me any questions you "
+"have regarding WordPress. I'm still learning, so sometimes can make mistakes."
+" What questions do you have?"
+msgstr ""
+"Olá, sou o Kodee, seu assistente pessoal de IA. Pode me perguntar qualquer "
+"coisa sobre o WordPress. Eu ainda estou aprendendo, então às vezes posso "
+"cometer algum erro. Quais são suas dúvidas?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:56
+msgid "History"
+msgstr "Histórico"
+
+#. Author of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI"
+msgstr "IA Hostinger"
+
+#. Description of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI plugin for WordPress."
+msgstr "Plugin de IA Hostinger para WordPress."
+
+#: admin/class-hostinger-ai-assistant-translations.php:71
+#, fuzzy
+msgid "How can I help you today?"
+msgstr "Como posso ajudá-lo hoje?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:81
+msgid "How can we improve your experience?"
+msgstr "Como podemos melhorar sua experiência?"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:23
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr ""
+"Como você avalia sua experiência usando nosso plugin de IA para gerar "
+"conteúdo? (Escala de 1 a 10)"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hostinger-ai-assistant.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com.br"
+
+#: admin/class-hostinger-ai-assistant-translations.php:107
+msgid ""
+"I'm sorry, I didn't understand your question. Could you please rephrase it "
+"or ask something different?"
+msgstr ""
+"Desculpe, mas não entendi sua pergunta. Você poderia reformulá-la ou "
+"perguntar algo diferente?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:182
+msgid ""
+"If you skip this part, AI will automatically generate keyword suggestions "
+"after you generate the content"
+msgstr ""
+"Ao pular esta parte, a IA gerará sugestões de palavras-chave automaticamente "
+"após você gerar o conteúdo"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:105
+msgid "Image URL:"
+msgstr "URL da imagem:"
+
+#: admin/class-hostinger-ai-assistant-translations.php:37
+msgid "Insert this image inside content"
+msgstr ""
+"Inserir essa imagem dentro do conteúdo\n"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:236
+#, fuzzy
+msgid "Invalid Authorization header format. Expected \"Bearer <token>\"."
+msgstr ""
+"Formato de cabeçalho de autorização inválido. Esperava-se \"Portador <token>"
+"\"."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-hooks.php:26
+#, fuzzy
+msgid ""
+"Invalid post ID, specified post ID could be from different custom post type."
+msgstr ""
+"ID de post inválido, o ID de post especificado pode ser de um tipo de post "
+"personalizado diferente."
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:9
+msgid "Keywords"
+msgstr "Palavras-chave"
+
+#: admin/class-hostinger-ai-assistant-translations.php:49
+msgid "Kodee"
+msgstr "Kodee"
+
+#: admin/class-hostinger-ai-assistant-translations.php:61
+msgid "Kodee only supports JPEG, JPG, PNG, GIF, HEIC, and DNG files"
+msgstr "O Kodee aceita apenas arquivos JPEG, JPG, PNG, GIF, HEIC e DNG"
+
+#: admin/class-hostinger-ai-assistant-translations.php:51
+#: admin/class-hostinger-ai-assistant-translations.php:77
+msgid "Leave feedback"
+msgstr ""
+"Deixar comentários\n"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:164
+msgid ""
+"Let us know more about your content idea. For example: Article about how to "
+"use WordPress to dive into website development including tutorials how to "
+"use it in a simple way..."
+msgstr ""
+"Conte um pouco sobre o que conteúdo que você quer gerar. Por exemplo: "
+"\"Texto sobre como usar o WordPress para saber mais sobre desenvolvimento de "
+"sites, incluindo tutoriais passo-a-passo sobre o WordPress...\""
+
+#: admin/class-hostinger-ai-assistant-translations.php:31
+msgid ""
+"Let us now more about your post idea. Share more details for better results"
+msgstr ""
+"Conte sobre a postagem que você quer criar. Quanto mais detalhes você der, "
+"melhor será o resultado"
+
+#: admin/class-hostinger-ai-assistant-translations.php:132
+#, fuzzy
+msgid "List users with their roles"
+msgstr "Listar usuários com suas funções"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:143
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:81
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:124
+msgid "Long"
+msgstr "Longo"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:398
+msgid "Main topic"
+msgstr "Tópico principal"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:137
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:80
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:120
+msgid "Medium"
+msgstr ""
+"Médio\n"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:29
+msgid "Meta description"
+msgstr "Meta descrição"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:30
+msgid ""
+"Meta descriptions offer concise page summaries in search results, aiding "
+"user understanding before clicking."
+msgstr ""
+"As meta descrições oferecem resumos concisos das páginas nos resultados de "
+"pesquisa, ajudando o usuário a entender antes de clicar.\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:23
+#: admin/partials/hostinger-ai-assistant-tab-view.php:105
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:88
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:131
+msgid "Neutral"
+msgstr "Neutro"
+
+#: admin/class-hostinger-ai-assistant-translations.php:112
+msgid "No, thanks"
+msgstr "Não, obrigado"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:29
+msgid "Open guide"
+msgstr "Abrir guia"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "Optional"
+msgstr "Opcional"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:411
+msgid "Personalize your content"
+msgstr "Personalize seu conteúdo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:82
+msgid "Poor"
+msgstr ""
+"Ruim\n"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:38
+msgid "Powered by"
+msgstr "Desenvolvido por"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:186
+msgid "Press Enter key to finalize a keyword"
+msgstr "Pressione Enter para finalizar uma palavra-chave"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:39
+msgid "Preview site"
+msgstr "Visualizar site"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:235
+msgid "Publish"
+msgstr "Publicar"
+
+#: admin/class-hostinger-ai-assistant-translations.php:52
+msgid "Restart chatbot"
+msgstr ""
+"Reiniciar o chatbot\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:173
+#, fuzzy
+msgid "Retrieve a list of WooCommerce orders with filters"
+msgstr "Recupere uma lista de pedidos do WooCommerce com filtros"
+
+#: admin/class-hostinger-ai-assistant-translations.php:129
+#, fuzzy
+msgid "Retrieve detailed information about my WordPress site"
+msgstr "Recuperar informações detalhadas sobre meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:133
+#, fuzzy
+msgid "Search and filter WordPress users with pagination"
+msgstr "Pesquise e filtre usuários do WordPress com paginação"
+
+#: admin/class-hostinger-ai-assistant-translations.php:147
+#, fuzzy
+msgid "Search blog posts"
+msgstr "Pesquisar postagens de blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:149
+#, fuzzy
+msgid "Search posts on my WordPress website"
+msgstr "Pesquisar postagens em meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:174
+#, fuzzy
+msgid "Search WooCommerce orders for my store"
+msgstr "Pesquisar pedidos do WooCommerce para minha loja"
+
+#: admin/class-hostinger-ai-assistant-translations.php:134
+#, fuzzy
+msgid "Search WordPress users on my website"
+msgstr "Pesquisar usuários do WordPress em meu site"
+
+#: admin/class-hostinger-ai-assistant-translations.php:62
+msgid "Selected file type is not supported"
+msgstr "O tipo de arquivo selecionado não é compatível"
+
+#: admin/class-hostinger-ai-assistant-translations.php:85
+msgid "Send"
+msgstr ""
+"Enviar\n"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:10
+msgid ""
+"SEO keywords improve web content visibility on search engines like Google by "
+"being relevant and naturally placed"
+msgstr ""
+"Palavras-chave de SEO relevantes e posicionadas de forma natural melhoram a "
+"visibilidade do conteúdo em mecanismos de busca como o Google."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:125
+#: admin/partials/hostinger-ai-assistant-tab-view.php:131
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:79
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:116
+msgid "Short"
+msgstr "Curto"
+
+#: admin/class-hostinger-ai-assistant-translations.php:105
+msgid "Sorry, the AI Chatbot is currently unavailable. Please try again later."
+msgstr ""
+"Desculpe, o Chatbot de IA não está disponível no momento. Tente novamente "
+"mais tarde."
+
+#: admin/class-hostinger-ai-assistant-translations.php:106
+msgid "Sorry, the AI Chatbot request timed out. Please try again later."
+msgstr ""
+"Desculpe, a solicitação do Chatbot de IA expirou. Tente novamente mais tarde."
+
+#: admin/class-hostinger-ai-assistant-translations.php:54
+#: admin/class-hostinger-ai-assistant-translations.php:94
+#: admin/class-hostinger-ai-assistant-translations.php:96
+msgid "Start new chat"
+msgstr "Iniciar novo bate-papo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:101
+msgid "Talking to Kodee is in the works, we'll keep you posted once it's out!"
+msgstr ""
+"O Falando com o Kodee está em andamento. Manteremos vocês informados assim "
+"que ele for lançado!"
+
+#: admin/class-hostinger-ai-assistant-translations.php:86
+msgid "Thank you for your feedback"
+msgstr "Agradecemos pelo seu feedback"
+
+#: admin/class-hostinger-ai-assistant-translations.php:79
+msgid "Thanks for letting us know"
+msgstr "Agradecemos por nos informar"
+
+#: admin/class-hostinger-ai-assistant-translations.php:78
+msgid ""
+"Thanks for letting us know. Click the button below if you want to leave "
+"additional feedback."
+msgstr ""
+"Agradecemos por nos informar. Clique no botão abaixo se quiser deixar "
+"comentários adicionais."
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:131
+#, php-format
+msgid "The Hostinger AI plugin requires minimum PHP version of <b>%s</b>. "
+msgstr "O plugin de IA Hostinger requer uma versão mínima do PHP de <b>%s</b>."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:248
+msgid "There was an error with your request. Please try again."
+msgstr "Ocorreu um erro na sua solicitação. Tente novamente mais tarde."
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:20
+msgid ""
+"These keywords can help your article and website rank higher in search "
+"engines. You can input up to 5 keywords."
+msgstr ""
+"Essas palavras-chave podem ajudar seu artigo e site a ter uma classificação "
+"mais alta nos mecanismos de pesquisa. Você pode inserir até 5 palavras-chave."
+
+#: admin/class-hostinger-ai-assistant-translations.php:67
+#, fuzzy
+msgid "Thinking"
+msgstr "Pensamento"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:270
+msgid "This will only take a moment"
+msgstr "Isso levará apenas um momento"
+
+#. translators: %s: MCP plugin name
+#: admin/class-hostinger-ai-assistant-translations.php:41
+#, php-format
+msgid ""
+"To let Kodee manage your site on your behalf, we will install and pre-"
+"configure the %s for you. This allows Kodee to perform actions like creating "
+"pages or updating settings. You can revoke this permission at any time in "
+"your Hostinger Tools settings."
+msgstr ""
+"Para que o Kodee possa gerenciar seu site em seu lugar, instalaremos e pré-"
+"configuraremos os %s para você. Isso permite que o Kodee realize ações como "
+"criar páginas ou atualizar configurações. Você pode revogar essa permissão a "
+"qualquer momento nas configurações das Ferramentas da Hostinger."
+
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#| msgid ""
+#| "To unlock the exclusive features of <b>Hostinger AI Assistant</b>, you "
+#| "must possess a unique API token, which is exclusively provided to "
+#| "Hostinger clients"
+msgid ""
+"To unlock the exclusive features of <b>Hostinger AI</b>, you must possess a "
+"unique API token, which is exclusively provided to Hostinger clients"
+msgstr ""
+"Para usar os recursos exclusivos do plugin <b>IA Hostinger</b>, você precisa "
+"ter um token. Os tokens são dados apenas para clientes da Hostinger."
+
+#. translators: 1: minimum expiration time in seconds, 2: maximum expiration time in seconds
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:66
+#, fuzzy, php-format
+msgid ""
+"Token expiration must be between %1$d seconds (1 hour) and %2$d seconds (1 "
+"day)"
+msgstr ""
+"A expiração do token deve estar entre %1$d segundos (1 hora) e %2$d segundos "
+"(1 dia)"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:31
+#, fuzzy
+msgid "Token expiration time in seconds (3600-86400)"
+msgstr "Tempo de expiração do token em segundos (3600-86400)"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:87
+#, fuzzy
+msgid "Token ID is required."
+msgstr "A ID do token é obrigatória."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:253
+#, fuzzy
+msgid "Token is invalid, expired, or has been revoked."
+msgstr "O token é inválido, expirou ou foi revogado."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:262
+#, fuzzy
+msgid "Token is malformed: missing user_id."
+msgstr "O token está malformado: falta user_id."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:98
+#, fuzzy
+msgid "Token not found in registry."
+msgstr "Token não encontrado no registro."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:110
+#, fuzzy
+msgid "Token revoked successfully."
+msgstr "Token revogado com sucesso."
+
+#. translators: %s: error message from JWT library
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:288
+#, fuzzy, php-format
+msgid "Token validation failed: %s"
+msgstr "Falha na validação do token: %s"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:100
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:86
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:420
+msgid "Tone of voice"
+msgstr "Tom de voz"
+
+#: admin/class-hostinger-ai-assistant-translations.php:21
+msgid "tones selected"
+msgstr ""
+"tons selecionados\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:25
+#: admin/partials/hostinger-ai-assistant-tab-view.php:107
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:90
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:139
+msgid "Trustworthy"
+msgstr "Confiável"
+
+#: includes/class-hostinger-ai-assistant-errors.php:36
+msgid "Unknown error code."
+msgstr "Código de erro desconhecido."
+
+#: admin/class-hostinger-ai-assistant-translations.php:159
+#, fuzzy
+msgid "Update a post category on my WordPress website"
+msgstr "Atualizar uma categoria de postagem em meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:154
+#, fuzzy
+msgid "Update a post tag on my WordPress website"
+msgstr "Atualizar uma tag de postagem em meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:124
+#, fuzzy
+msgid "Update an existing page on my WordPress website"
+msgstr "Atualizar uma página existente em meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:144
+#, fuzzy
+msgid "Update an existing post on my WordPress site"
+msgstr "Atualizar uma postagem existente em meu site WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:142
+#, fuzzy
+msgid "Update blog post"
+msgstr "Atualizar a postagem do blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:157
+#, fuzzy
+msgid "Update post category"
+msgstr "Atualizar categoria de postagem"
+
+#: admin/class-hostinger-ai-assistant-translations.php:152
+#, fuzzy
+msgid "Update post tag"
+msgstr "Atualizar tag de postagem"
+
+#: admin/class-hostinger-ai-assistant-translations.php:122
+#, fuzzy
+msgid "Update WordPress page"
+msgstr "Atualizar a página do WordPress"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:377
+msgid "Use this content"
+msgstr "Usar este conteúdo"
+
+#: admin/class-hostinger-ai-assistant-translations.php:35
+msgid "Use this image as:"
+msgstr ""
+"Usar esta imagem como:\n"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:272
+#, fuzzy
+msgid "User associated with token no longer exists."
+msgstr "O usuário associado ao token não existe mais."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:133
+msgid "Usually used for video, infographics, or product descriptions"
+msgstr "Geralmente usado em vídeos, infográficos ou descrição de produtos"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:145
+msgid "Usually used to make high-ranked articles that will generate more leads"
+msgstr ""
+"Geralmente usado em artigos otimizados que visam a geração de mais leads"
+
+#: admin/class-hostinger-ai-assistant-translations.php:128
+#, fuzzy
+msgid ""
+"View site details like name, URL, description, admin email, plugins, themes, "
+"and users"
+msgstr ""
+"Exibir detalhes do site, como nome, URL, descrição, e-mail do administrador, "
+"plug-ins, temas e usuários"
+
+#: admin/class-hostinger-ai-assistant-translations.php:100
+msgid "Voice feature is coming soon"
+msgstr "O recurso de voz será lançado em breve"
+
+#: includes/class-hostinger-ai-assistant-errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later."
+msgstr ""
+"Lamentamos o inconveniente. Houve um erro no servidor durante o processo de "
+"geração de conteúdo de IA. Tente novamente mais tarde."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "What are the focus keywords of your content?"
+msgstr "Quais as palavras-chave de foco do seu conteúdo?"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:394
+msgid "What content do you want AI to create today?"
+msgstr "Que conteúdo você quer que a IA crie hoje?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:56
+msgid "What do you want to make today?"
+msgstr "Que texto você quer criar hoje?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:157
+msgid "What is your content about?"
+msgstr "Você quer gerar conteúdo sobre o quê?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:27
+#: admin/partials/hostinger-ai-assistant-tab-view.php:109
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:92
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:147
+msgid "Witty"
+msgstr "Divertido"
+
+#: admin/class-hostinger-ai-assistant-translations.php:42
+msgid "WordPress MCP plugin"
+msgstr "Plugin MCP do WordPress"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:220
+msgid "words"
+msgstr "palavras"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:154
+msgid "Write a motivational post about..."
+msgstr "Escreva uma postagem motivacional sobre..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:153
+msgid "Write a recommendation list of..."
+msgstr "Escreva uma lista de recomendações de..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:152
+msgid "Write a step-by-step tutorial about..."
+msgstr "Escreva um tutorial passo a passo sobre..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:157
+msgid "Write a summary of..."
+msgstr "Escreva um resumo de..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:156
+#: gutenberg-block/src/edit.js:399
+msgid "Write an article about ..."
+msgstr "Escreva um artigo sobre ..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:155
+msgid "Write promotional content about..."
+msgstr "Escreva conteúdo promocional sobre..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:84
+msgid "Write your feedback (optional)"
+msgstr "Escreva seu feedback (opcional)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:57
+msgid "Write your question"
+msgstr ""
+"Escreva sua pergunta\n"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:135
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr ""
+"Você está executando a versão <b>%s</b> do PHP.\n"
+
+#: admin/class-hostinger-ai-assistant-translations.php:63
+msgid "You can only upload up to 6 files"
+msgstr "Você só pode fazer upload de até 6 arquivos"
+
+#: admin/class-hostinger-ai-assistant-translations.php:80
+msgid "You rated your conversation"
+msgstr "Você avaliou sua conversa"
+
+#: admin/class-hostinger-ai-assistant-translations.php:32
+msgid "You're good to go, but you can share more details for better results"
+msgstr ""
+"A descrição já está boa. Mas você pode adicionar mais detalhes se quiser."

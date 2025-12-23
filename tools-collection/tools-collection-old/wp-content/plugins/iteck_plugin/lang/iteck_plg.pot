@@ -1,0 +1,40 @@
+# Copyright (C) 2025 themesCamp
+# This file is distributed under the same license as the Iteck Theme Addons plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iteck Theme Addons 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/iteck_plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-25T19:25:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: iteck_plugin\n"
+
+#. Plugin Name of the plugin
+#: iteck_plugin.php
+msgid "Iteck Theme Addons"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: iteck_plugin.php
+msgid "https://themeforest.net/item/iteck-software-technology-wordpress-theme/38682639"
+msgstr ""
+
+#. Description of the plugin
+#: iteck_plugin.php
+msgid "This is plugin bundle for Iteck WordPress Theme."
+msgstr ""
+
+#. Author of the plugin
+#: iteck_plugin.php
+msgid "themesCamp"
+msgstr ""
+
+#. Author URI of the plugin
+#: iteck_plugin.php
+msgid "https://themeforest.net/user/themescamp"
+msgstr ""

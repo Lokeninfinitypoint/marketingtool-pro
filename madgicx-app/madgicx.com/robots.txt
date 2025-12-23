@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /products/agency
+Disallow: /ocr-offer
+Disallow: /ocr-offer-brand
+Disallow: /starter-analytics
+Disallow: /ocr-offer-brand-ga
+Disallow: /analytics-agency
+Disallow: /one-click-report
+Disallow: /ocr-dashboards
+Disallow: /madgicx-cloud-tracking-start
+Disallow: /madgicx-cloud-tracking
+Disallow: /analytics
+Disallow: /offer/*
+Disallow: /free-demo
+Disallow: /demo-trial
+Disallow: /offer/ocr-lifetime-deal
+Disallow: /products/ad-library
+
+Sitemap: https://madgicx.com/sitemap.xml

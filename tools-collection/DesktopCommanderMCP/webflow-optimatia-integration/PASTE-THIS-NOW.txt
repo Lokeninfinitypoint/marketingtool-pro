@@ -1,0 +1,103 @@
+==========================================================
+PASTE THIS INTO WEBFLOW - NO MORE TALKING
+==========================================================
+
+STEP 1: OPEN WEBFLOW
+Go to: webflow.com/dashboard
+Click: marketingtool.pro
+Click: Design button
+
+STEP 2: PASTE THIS CSS
+Click: Site Settings (top left) → Custom Code → Head Code
+
+Paste this:
+---START COPYING BELOW---
+
+<style>
+/* Madgicx Theme - MarketingTool.pro */
+:root {
+  --purple: #515FBC;
+  --light-purple: #917aff;
+  --lavender: #cab7ff;
+  --dark: #0E1136;
+  --darker: #070920;
+}
+
+body {
+  background: linear-gradient(180deg, #070920 0%, #0E1136 100%) !important;
+  color: #FFFFFF !important;
+}
+
+/* Buttons */
+.button, .btn, [class*="button"] {
+  background: linear-gradient(135deg, #515FBC 0%, #917aff 100%) !important;
+  color: white !important;
+  border-radius: 8px !important;
+  padding: 16px 32px !important;
+  font-weight: 600 !important;
+  border: none !important;
+  transition: all 0.3s ease !important;
+}
+
+.button:hover, .btn:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 12px 24px rgba(81, 95, 188, 0.4) !important;
+}
+
+/* Cards */
+[class*="card"] {
+  background: rgba(26, 31, 69, 0.6) !important;
+  border: 1px solid rgba(145, 122, 255, 0.2) !important;
+  border-radius: 12px !important;
+}
+
+[class*="card"]:hover {
+  border-color: rgba(145, 122, 255, 0.4) !important;
+  box-shadow: 0 8px 32px rgba(81, 95, 188, 0.3) !important;
+}
+
+/* Text */
+h1, h2, h3 {
+  color: #FFFFFF !important;
+}
+
+p {
+  color: #A0A8C1 !important;
+}
+
+a {
+  color: #917aff !important;
+}
+</style>
+
+<!-- OG Images -->
+<meta property="og:title" content="MarketingTool.pro - 200+ Marketing Tools" />
+<meta property="og:description" content="Automate your marketing with 200+ tools in one app" />
+<meta property="og:url" content="https://www.marketingtool.pro/" />
+
+---STOP COPYING---
+
+STEP 3: SAVE
+Click: Save button
+
+STEP 4: PUBLISH
+Click: Publish button (top right)
+Click: Publish to Selected Domains
+Wait 30 seconds
+DONE!
+
+==========================================================
+THAT'S IT. YOUR SITE NOW HAS MADGICX THEME.
+PUBLISHED AT: www.marketingtool.pro
+==========================================================
+
+YOUR APP: app.marketingtool.pro (200 tools already ready)
+YOUR WEBSITE: www.marketingtool.pro (now themed)
+
+BOTH LIVE. BOTH WORKING.
+
+NO MORE WORK NEEDED.
+
+GO MARKET IT.
+
+==========================================================

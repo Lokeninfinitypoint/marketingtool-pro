@@ -1,0 +1,969 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI 2.0.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostinger-ai-"
+"assistant\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-19T12:02:35+00:00\n"
+"PO-Revision-Date: 2025-11-18 07:59+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-assistant\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.29"
+
+#: includes/class-hostinger-ai-assistant-errors.php:14
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr "Hành động thất bại. Vui lòng thử lại hoặc liên hệ hỗ trợ. Rất xin lỗi."
+
+#: admin/class-hostinger-ai-assistant-translations.php:66
+msgid "Active"
+msgstr "Hoạt động"
+
+#: admin/class-hostinger-ai-assistant-translations.php:119
+#, fuzzy
+msgid "Add a new page to my WordPress website"
+msgstr "Thêm một trang mới vào trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:139
+#, fuzzy
+msgid "Add a new post to my WordPress website"
+msgstr "Thêm một bài viết mới vào trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:163
+#, fuzzy
+msgid "Add a new product to your WooCommerce store"
+msgstr "Thêm sản phẩm mới vào cửa hàng WooCommerce của bạn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:162
+#, fuzzy
+msgid "Add a product"
+msgstr "Thêm sản phẩm"
+
+#: admin/class-hostinger-ai-assistant-translations.php:167
+#, fuzzy
+msgid "Add a product category"
+msgstr "Thêm một danh mục sản phẩm"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:448
+msgid "Add an image inside my content"
+msgstr "Thêm hình ảnh vào nội dung của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:137
+#, fuzzy
+msgid "Add blog post"
+msgstr "Thêm bài viết blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:117
+#, fuzzy
+msgid "Add WordPress page"
+msgstr "Thêm trang WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:90
+msgid "After clearing history you won't be able to access previous chats."
+msgstr ""
+"Sau khi xóa lịch sử, bạn sẽ không thể truy cập vào các cuộc trò chuyện trước "
+"đó."
+
+#: admin/class-hostinger-ai-assistant-translations.php:95
+msgid ""
+"After starting new chat, you will be able to access previous chats from the "
+"history."
+msgstr ""
+"Sau khi bắt đầu cuộc trò chuyện mới, bạn có thể truy cập các cuộc trò chuyện "
+"trước đó từ lịch sử."
+
+#: admin/class-hostinger-ai-assistant-admin.php:178
+#: admin/class-hostinger-ai-assistant-admin.php:179
+#: admin/class-hostinger-ai-assistant-admin.php:192
+#: admin/partials/hostinger-ai-assistant-tab-view.php:24
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/index.js:10
+msgid "AI Content Creator"
+msgstr "Trình tạo nội dung AI"
+
+#: admin/class-hostinger-ai-assistant-translations.php:58
+msgid "AI may produce inaccurate information"
+msgstr "AI có thể tạo thông tin không chính xác"
+
+#: admin/class-hostinger-ai-assistant-translations.php:34
+msgid "AI-generated image"
+msgstr "Hình ảnh được tạo bởi AI"
+
+#: admin/class-hostinger-ai-assistant-translations.php:110
+msgid "Allow Kodee to manage your site"
+msgstr "Cho phép Kodee quản lý trang web của bạn"
+
+#: includes/class-hostinger-ai-assistant-errors.php:17
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr ""
+"Đã xảy ra lỗi không xác định. Xin vui lòng thử lại hoặc liên hệ hỗ trợ."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:244
+msgid "Are you sure you want to replace your existing content with a new one ?"
+msgstr "Bạn có chắc chắn muốn thay thế nội dung hiện có bằng nội dung mới?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:59
+msgid "Ask Kodee"
+msgstr "Hỏi Kodee"
+
+#. translators: %s: PHP version
+#: admin/class-hostinger-ai-assistant-notices.php:22
+#: hostinger-ai-assistant.php:131
+msgid "Attention:"
+msgstr "Chú ý:"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:224
+#, fuzzy
+msgid ""
+"Authentication required. Please provide a Bearer token or log in as an "
+"administrator."
+msgstr ""
+"Yêu cầu xác thực. Vui lòng cung cấp token Bearer hoặc đăng nhập với tư cách "
+"quản trị viên."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:139
+msgid "Balances depth and readability, engaging audiences and driving leads."
+msgstr ""
+"Cân bằng giữa chiều sâu và khả năng đọc, hấp dẫn người đọc và thu hút truy "
+"cập."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:205
+msgid "Brewing content with magic"
+msgstr "Pha chế nội dung với phép thuật"
+
+#: admin/class-hostinger-ai-assistant-translations.php:91
+#: admin/partials/hostinger-ai-assistant-tab-view.php:251
+msgid "Cancel"
+msgstr "Hủy"
+
+#: admin/class-hostinger-ai-assistant-translations.php:64
+msgid "Cannot restart the chat when Kodee is responding"
+msgstr "Không thể khởi động lại cuộc trò chuyện khi Kodee đang trả lời"
+
+#: admin/class-hostinger-ai-assistant-translations.php:53
+msgid "Cannot restart the chat when talking with the agent"
+msgstr ""
+"Không thể khởi động lại cuộc trò chuyện khi đang trò chuyện với nhân viên"
+
+#: admin/class-hostinger-ai-assistant-translations.php:65
+msgid "Cannot start a new chat when Kodee is responding"
+msgstr "Không thể bắt đầu một cuộc trò chuyện mới khi Kodee đang trả lời"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:222
+msgid "characters"
+msgstr "ký tự"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:152
+msgid "Choose the length of generated content"
+msgstr "Chọn độ dài nội dung sẽ tạo"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:93
+msgid "Choose the type of content that will be generated"
+msgstr "Chọn loại nôi dung sẽ tạo"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:114
+msgid "Choose your desired emotional impact on readers"
+msgstr "Chọn cảm xúc bạn muốn tác động đến người đọc "
+
+#: admin/class-hostinger-ai-assistant-translations.php:89
+#: admin/class-hostinger-ai-assistant-translations.php:92
+msgid "Clear chat"
+msgstr "Xóa trò chuyện"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:247
+msgid ""
+"Clicking <b>Generate new content</b> will permanently delete your existing "
+"content and generate a new one on your recent inputs."
+msgstr ""
+"Nhấp <b>Tạo nội dung mới</b> sẽ xóa vĩnh viễn nội dung hiện có và tạo nội "
+"dung mới dựa theo những gì bạn vừa nhập."
+
+#: admin/class-hostinger-ai-assistant-translations.php:55
+#: admin/class-hostinger-ai-assistant-translations.php:102
+msgid "Close"
+msgstr "Đóng"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:121
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:77
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:431
+msgid "Content length"
+msgstr "Độ dài nội dung"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:162
+msgid "Content main idea"
+msgstr "Ý chính nội dung"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:63
+msgid "Content Type"
+msgstr "Loại nội dung"
+
+#: admin/class-hostinger-ai-assistant-translations.php:74
+msgid "Conversation was closed"
+msgstr "Cuộc trò chuyện đã đóng"
+
+#: admin/class-hostinger-ai-assistant-translations.php:168
+#, fuzzy
+msgid "Create a new product category in WooCommerce"
+msgstr "Tạo một danh mục sản phẩm mới trong WooCommerce"
+
+#: admin/class-hostinger-ai-assistant-translations.php:169
+#, fuzzy
+msgid "Create a new WooCommerce product category for my store"
+msgstr "Tạo một danh mục sản phẩm mới cho cửa hàng WooCommerce của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:164
+#, fuzzy
+msgid "Create a new WooCommerce product for my store"
+msgstr "Tạo một sản phẩm WooCommerce mới cho cửa hàng của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:178
+#, fuzzy
+msgid "Create a WooCommerce sales report for a chosen period"
+msgstr "Tạo báo cáo doanh số WooCommerce cho khoảng thời gian đã chọn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:118
+#, fuzzy
+msgid "Create and publish a new page on your WordPress site"
+msgstr "Tạo và đăng một trang mới trên trang web WordPress của bạn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:138
+#, fuzzy
+msgid "Create and publish a new post on your WordPress site"
+msgstr "Tạo và đăng một bài viết mới trên trang WordPress của bạn"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:195
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:461
+msgid "Create content"
+msgstr "Tạo nội dung"
+
+#: admin/class-hostinger-ai-assistant-translations.php:33
+msgid "Create Post with AI"
+msgstr "Tạo bài đăng với AI"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:24
+msgid "Create product with AI"
+msgstr "Tạo sản phẩm với AI"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:70
+msgid "Describe your product in short"
+msgstr "Mô tả ngắn sản phẩm của bạn"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:40
+msgid "Description"
+msgstr "Mô tả"
+
+#: includes/class-hostinger-ai-assistant-errors.php:23
+msgid "Description is empty. Please provide a valid description."
+msgstr "Mô tả đang trống. Vui lòng cung cấp mô tả hợp lệ."
+
+#: includes/class-hostinger-ai-assistant-surveys.php:24
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr ""
+"Bạn có ý kiến/đề xuất gì để cải thiện các công cụ AI của chúng tôi không?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:60
+msgid "Drop files here"
+msgstr "Thả tệp ở đây"
+
+#: admin/class-hostinger-ai-assistant-translations.php:158
+#, fuzzy
+msgid "Edit a WordPress post category by ID"
+msgstr "Chỉnh sửa danh mục bài viết WordPress theo ID"
+
+#: admin/class-hostinger-ai-assistant-translations.php:153
+#, fuzzy
+msgid "Edit a WordPress post tag (e.g., rename or update it)"
+msgstr "Chỉnh sửa thẻ bài viết WordPress (ví dụ: đổi tên hoặc cập nhật thẻ)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:123
+#, fuzzy
+msgid "Edit an existing WordPress page by its ID"
+msgstr "Chỉnh sửa một trang WordPress hiện có bằng ID của nó"
+
+#: admin/class-hostinger-ai-assistant-translations.php:143
+#, fuzzy
+msgid "Edit an existing WordPress post by its ID"
+msgstr "Chỉnh sửa một bài viết WordPress hiện có bằng ID của nó"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:229
+msgid "Edit as a draft"
+msgstr "Sửa dưới dạng bản nháp"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:371
+msgid "Edit prompt"
+msgstr "Chỉnh sửa lời nhắc"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:48
+msgid "Edit site"
+msgstr "Chỉnh sửa trang"
+
+#: admin/class-hostinger-ai-assistant-translations.php:30
+#: admin/partials/hostinger-ai-assistant-tab-view.php:175
+msgid "Enter at least 10 characters"
+msgstr "Nhập tối thiểu 10 ký tự"
+
+#: admin/class-hostinger-ai-assistant-translations.php:29
+msgid "Example: website development, WordPress tutorial, ..."
+msgstr "Ví du: phát triển trang web, hướng dẫn WordPress, ..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:83
+msgid "Excellent"
+msgstr "Tuyệt vời"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:86
+msgid "External Featured Image"
+msgstr "Hình ảnh nổi bật bên ngoài"
+
+#: admin/class-hostinger-ai-assistant-translations.php:36
+msgid "External featured image"
+msgstr "Hình ảnh nổi bật bên ngoài"
+
+#: admin/class-hostinger-ai-assistant-translations.php:148
+#, fuzzy
+msgid "Find and filter posts with pagination options"
+msgstr "Tìm và lọc bài viết với các tùy chọn phân trang"
+
+#: admin/class-hostinger-ai-assistant-translations.php:24
+#: admin/partials/hostinger-ai-assistant-tab-view.php:106
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:89
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:135
+msgid "Formal"
+msgstr "Trang trọng"
+
+#: admin/class-hostinger-ai-assistant-translations.php:26
+#: admin/partials/hostinger-ai-assistant-tab-view.php:108
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:91
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:143
+msgid "Friendly"
+msgstr "Thân thiện"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:254
+msgid "Generate new content"
+msgstr "Tạo nội dung mới"
+
+#: admin/class-hostinger-ai-assistant-translations.php:177
+#, fuzzy
+msgid "Generate sales report"
+msgstr "Tạo báo cáo doanh số"
+
+#: admin/class-hostinger-ai-assistant-translations.php:179
+#, fuzzy
+msgid "Generate WooCommerce sales report for my store"
+msgstr "Tạo báo cáo doanh số WooCommerce cho cửa hàng của tôi"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:264
+#: admin/partials/hostinger-ai-assistant-tab-view.php:267
+msgid "Generating content..."
+msgstr "Đang tạo nội dung..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:172
+#, fuzzy
+msgid "Get a list of orders"
+msgstr "Lấy danh sách các đơn hàng"
+
+#: admin/class-hostinger-ai-assistant-translations.php:127
+#, fuzzy
+msgid "Get WordPress site information"
+msgstr "Lấy thông tin trang web WordPress"
+
+#: admin/class-hostinger-ai-assistant-translations.php:113
+msgid "Grant Permission"
+msgstr "Cấp phép"
+
+#: admin/class-hostinger-ai-assistant-translations.php:70
+#, fuzzy
+msgid "Hello 👋"
+msgstr "Xin chào 👋"
+
+#: admin/class-hostinger-ai-assistant-translations.php:48
+#| msgid ""
+#| "Hi, I'm your personal AI Assistant. You can ask me any questions you have "
+#| "regarding WordPress. I'm still learning, so sometimes can make mistakes. "
+#| "What questions do you have?"
+msgid ""
+"Hi, I'm Kodee, your personal AI assistant. You can ask me any questions you "
+"have regarding WordPress. I'm still learning, so sometimes can make mistakes."
+" What questions do you have?"
+msgstr ""
+"Xin chào, tôi là Kodee, tôi là trợ lý AI cá nhân của bạn. Bạn có thể hỏi tôi "
+"mọi câu hỏi về WordPress. Tôi vẫn đang học cho nên đôi khi có thể mắc lỗi. "
+"Bạn có câu hỏi nào?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:56
+msgid "History"
+msgstr "Lịch sử"
+
+#. Author of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger"
+msgstr "Hostinger"
+
+#. Plugin Name of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI"
+msgstr "Hostinger AI"
+
+#. Description of the plugin
+#: hostinger-ai-assistant.php
+msgid "Hostinger AI plugin for WordPress."
+msgstr "Plugin Hostinger AI cho WordPress."
+
+#: admin/class-hostinger-ai-assistant-translations.php:71
+#, fuzzy
+msgid "How can I help you today?"
+msgstr "Hôm nay tôi có thể giúp gì cho bạn?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:81
+msgid "How can we improve your experience?"
+msgstr "Làm thế nào để chúng tôi cải thiện trải nghiệm của bạn?"
+
+#: includes/class-hostinger-ai-assistant-surveys.php:23
+msgid ""
+"How would you rate your experience using our AI Assistant plugin for content "
+"generation? (Scale 1-10)"
+msgstr ""
+"Bạn đánh giá trải nghiệm sử dụng plugin Trợ lý AI của chúng tôi để tạo nội "
+"dung như thế nào? (Chấm từ 1-10)"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: hostinger-ai-assistant.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.vn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:107
+msgid ""
+"I'm sorry, I didn't understand your question. Could you please rephrase it "
+"or ask something different?"
+msgstr ""
+"Rất xin lỗi. Tôi không hiểu câu hỏi của bạn. Bạn vui lòng hỏi lại hoặc hỏi "
+"vấn đề khác nhé?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:182
+msgid ""
+"If you skip this part, AI will automatically generate keyword suggestions "
+"after you generate the content"
+msgstr ""
+"Nếu bạn bỏ qua phần này, AI sẽ tự động tạo gợi ý từ khóa sau khi bạn tạo nội "
+"dung"
+
+#: includes/content/class-hostinger-ai-assistant-content-filters.php:105
+msgid "Image URL:"
+msgstr "URL hình ảnh:"
+
+#: admin/class-hostinger-ai-assistant-translations.php:37
+msgid "Insert this image inside content"
+msgstr "Chèn hình này vào trong nội dung"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:236
+#, fuzzy
+msgid "Invalid Authorization header format. Expected \"Bearer <token>\"."
+msgstr ""
+"Định dạng tiêu đề ủy quyền không hợp lệ. Được mong đợi là \"Bearer <token>\"."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-hooks.php:26
+#, fuzzy
+msgid ""
+"Invalid post ID, specified post ID could be from different custom post type."
+msgstr ""
+"ID bài viết không hợp lệ, ID bài viết đã chỉ định có thể thuộc loại bài viết "
+"tùy chỉnh khác."
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:9
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: admin/class-hostinger-ai-assistant-translations.php:49
+msgid "Kodee"
+msgstr "Kodee"
+
+#: admin/class-hostinger-ai-assistant-translations.php:61
+msgid "Kodee only supports JPEG, JPG, PNG, GIF, HEIC, and DNG files"
+msgstr "Kodee chỉ hỗ trợ các định dạng tệp JPEG, JPG, PNG, GIF, HEIC và DNG"
+
+#: admin/class-hostinger-ai-assistant-translations.php:51
+#: admin/class-hostinger-ai-assistant-translations.php:77
+msgid "Leave feedback"
+msgstr "Để lại phản hồi"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:164
+msgid ""
+"Let us know more about your content idea. For example: Article about how to "
+"use WordPress to dive into website development including tutorials how to "
+"use it in a simple way..."
+msgstr ""
+"Hãy cho chúng tôi biết thêm về ý tưởng nội dung của bạn. Ví dụ: Bài viết về "
+"cách sử dụng WordPress để phát triển trang web bao gồm các hướng dẫn cách để "
+"sử dụng một cách đơn giản..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:31
+msgid ""
+"Let us now more about your post idea. Share more details for better results"
+msgstr ""
+"Hãy để chúng tôi biết thêm về ý tưởng bài đăng. Chia sẻ càng chi tiết càng "
+"đạt kết quả tốt hơn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:132
+#, fuzzy
+msgid "List users with their roles"
+msgstr "Danh sách người dùng cùng với vai trò của họ"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:143
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:81
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:124
+msgid "Long"
+msgstr "Dài"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:398
+msgid "Main topic"
+msgstr "Chủ đề chính"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:137
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:80
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:120
+msgid "Medium"
+msgstr "Trung bình"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:29
+msgid "Meta description"
+msgstr "Mô tả meta"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:30
+msgid ""
+"Meta descriptions offer concise page summaries in search results, aiding "
+"user understanding before clicking."
+msgstr ""
+"Mô tả meta cung cấp tóm tắt trang ngắn gọn trong kết quả tìm kiếm, giúp "
+"người dùng hiểu rõ hơn trước khi nhấp vào."
+
+#: admin/class-hostinger-ai-assistant-translations.php:23
+#: admin/partials/hostinger-ai-assistant-tab-view.php:105
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:88
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:131
+msgid "Neutral"
+msgstr "Trung lập"
+
+#: admin/class-hostinger-ai-assistant-translations.php:112
+msgid "No, thanks"
+msgstr "Không, cảm ơn"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:29
+msgid "Open guide"
+msgstr "Mở hướng dẫn"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "Optional"
+msgstr "Tùy chọn"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:411
+msgid "Personalize your content"
+msgstr "Tùy chỉnh nội dung của bạn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:82
+msgid "Poor"
+msgstr "Tệ"
+
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:38
+msgid "Powered by"
+msgstr "Sức mạnh của"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:186
+msgid "Press Enter key to finalize a keyword"
+msgstr "Nhấn phím Enter để hoàn thành từ khóa"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:39
+msgid "Preview site"
+msgstr "Xem trước trang"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:235
+msgid "Publish"
+msgstr "Xuất bản"
+
+#: admin/class-hostinger-ai-assistant-translations.php:52
+msgid "Restart chatbot"
+msgstr "Khởi động lại chatbot"
+
+#: admin/class-hostinger-ai-assistant-translations.php:173
+#, fuzzy
+msgid "Retrieve a list of WooCommerce orders with filters"
+msgstr "Lấy danh sách các đơn hàng WooCommerce với các bộ lọc"
+
+#: admin/class-hostinger-ai-assistant-translations.php:129
+#, fuzzy
+msgid "Retrieve detailed information about my WordPress site"
+msgstr "Tra cứu thông tin chi tiết về trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:133
+#, fuzzy
+msgid "Search and filter WordPress users with pagination"
+msgstr "Tìm kiếm và lọc người dùng WordPress với phân trang"
+
+#: admin/class-hostinger-ai-assistant-translations.php:147
+#, fuzzy
+msgid "Search blog posts"
+msgstr "Tìm kiếm bài viết trên blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:149
+#, fuzzy
+msgid "Search posts on my WordPress website"
+msgstr "Tìm kiếm bài viết trên trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:174
+#, fuzzy
+msgid "Search WooCommerce orders for my store"
+msgstr "Tìm kiếm đơn hàng WooCommerce cho cửa hàng của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:134
+#, fuzzy
+msgid "Search WordPress users on my website"
+msgstr "Tìm kiếm người dùng WordPress trên trang web của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:62
+msgid "Selected file type is not supported"
+msgstr "Loại tệp đã chọn không được hỗ trợ"
+
+#: admin/class-hostinger-ai-assistant-translations.php:85
+msgid "Send"
+msgstr "Gửi"
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:10
+msgid ""
+"SEO keywords improve web content visibility on search engines like Google by "
+"being relevant and naturally placed"
+msgstr ""
+"Các từ khóa SEO tăng cường khả năng hiển thị nội dung trang web trên các "
+"công cụ tìm kiếm như Google với các từ khóa liên quan và đặt tự nhiên."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:125
+#: admin/partials/hostinger-ai-assistant-tab-view.php:131
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:79
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:116
+msgid "Short"
+msgstr "Ngắn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:105
+msgid "Sorry, the AI Chatbot is currently unavailable. Please try again later."
+msgstr "Xin lỗi, hiện tại AI Chatbot không khả dụng. Xin vui lòng thử lại sau."
+
+#: admin/class-hostinger-ai-assistant-translations.php:106
+msgid "Sorry, the AI Chatbot request timed out. Please try again later."
+msgstr ""
+"Xin lỗi, yêu cầu chatbot AI đã hết thời gian chờ. Vui lòng thử lại sau."
+
+#: admin/class-hostinger-ai-assistant-translations.php:54
+#: admin/class-hostinger-ai-assistant-translations.php:94
+#: admin/class-hostinger-ai-assistant-translations.php:96
+msgid "Start new chat"
+msgstr "Bắt đầu cuộc trò chuyện mới"
+
+#: admin/class-hostinger-ai-assistant-translations.php:101
+msgid "Talking to Kodee is in the works, we'll keep you posted once it's out!"
+msgstr ""
+"Trò chuyện với Kodee đang bận, chúng tôi sẽ thông báo cho các bạn ngay khi "
+"có thông tin mới!"
+
+#: admin/class-hostinger-ai-assistant-translations.php:86
+msgid "Thank you for your feedback"
+msgstr "Cám ơn bạn đã phản hồi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:79
+msgid "Thanks for letting us know"
+msgstr "Cảm ơn bạn đã thông báo cho chúng tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:78
+msgid ""
+"Thanks for letting us know. Click the button below if you want to leave "
+"additional feedback."
+msgstr ""
+"Cảm ơn bạn đã thông báo cho chúng tôi. Nếu bạn muốn để lại phản hồi bổ sung, "
+"vui lòng nhấp vào nút bên dưới."
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:131
+#, php-format
+msgid "The Hostinger AI plugin requires minimum PHP version of <b>%s</b>. "
+msgstr "Plugin Hostinger AI yêu cầu tối thiểu là phiên bản PHP %s."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:248
+msgid "There was an error with your request. Please try again."
+msgstr "Đã xảy ra lỗi với yêu cầu của bạn. Vui lòng thử lại."
+
+#: admin/partials/hostinger-ai-assistant-seo-meta-view.php:20
+msgid ""
+"These keywords can help your article and website rank higher in search "
+"engines. You can input up to 5 keywords."
+msgstr ""
+"Các từ khóa này có thể giúp bài viết và trang web của bạn xếp hạng cao hơn "
+"trên các công cụ tìm kiếm. Bạn có thể nhập tối đa 5 từ khóa."
+
+#: admin/class-hostinger-ai-assistant-translations.php:67
+#, fuzzy
+msgid "Thinking"
+msgstr "Suy nghĩ"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:270
+msgid "This will only take a moment"
+msgstr "Điều này sẽ mất một lúc"
+
+#. translators: %s: MCP plugin name
+#: admin/class-hostinger-ai-assistant-translations.php:41
+#, php-format
+msgid ""
+"To let Kodee manage your site on your behalf, we will install and pre-"
+"configure the %s for you. This allows Kodee to perform actions like creating "
+"pages or updating settings. You can revoke this permission at any time in "
+"your Hostinger Tools settings."
+msgstr ""
+"Để Kodee quản lý trang web thay mặt bạn, chúng tôi sẽ cài đặt và cấu hình "
+"sẵn %s cho bạn. Điều này cho phép Kodee thực hiện các tác vụ như tạo trang "
+"hoặc cập nhật cài đặt. Bạn có thể thu hồi quyền này bất cứ lúc nào trong "
+"phần cài đặt Công cụ Hostinger."
+
+#: admin/class-hostinger-ai-assistant-notices.php:22
+msgid ""
+"To unlock the exclusive features of <b>Hostinger AI</b>, you must possess a "
+"unique API token, which is exclusively provided to Hostinger clients"
+msgstr ""
+"Để mở khóa tính năng độc quyền <b>Hostinger AI</b>, bạn phải sở hữu mã API "
+"duy nhất, mã này được phân phối độc quyền cho khách hàng Hostinger"
+
+#. translators: 1: minimum expiration time in seconds, 2: maximum expiration time in seconds
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:66
+#, fuzzy, php-format
+msgid ""
+"Token expiration must be between %1$d seconds (1 hour) and %2$d seconds (1 "
+"day)"
+msgstr ""
+"Thời hạn hiệu lực của token phải nằm trong khoảng từ %1$d giây (1 giờ) đến "
+"%2$d giây (1 ngày)"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:31
+#, fuzzy
+msgid "Token expiration time in seconds (3600-86400)"
+msgstr "Thời gian hết hạn của token (tính bằng giây) (3600-86400)"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:87
+#, fuzzy
+msgid "Token ID is required."
+msgstr "Mã token là bắt buộc."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:253
+#, fuzzy
+msgid "Token is invalid, expired, or has been revoked."
+msgstr "Token không hợp lệ, đã hết hạn hoặc đã bị thu hồi."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:262
+#, fuzzy
+msgid "Token is malformed: missing user_id."
+msgstr "Token không hợp lệ: thiếu trường user_id."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:98
+#, fuzzy
+msgid "Token not found in registry."
+msgstr "Không tìm thấy token trong registry."
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:110
+#, fuzzy
+msgid "Token revoked successfully."
+msgstr "Token đã bị thu hồi thành công."
+
+#. translators: %s: error message from JWT library
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:288
+#, fuzzy, php-format
+msgid "Token validation failed: %s"
+msgstr "Xác thực token thất bại: %s"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:100
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:86
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:420
+msgid "Tone of voice"
+msgstr "Giọng điệu"
+
+#: admin/class-hostinger-ai-assistant-translations.php:21
+msgid "tones selected"
+msgstr "tông đã chọn"
+
+#: admin/class-hostinger-ai-assistant-translations.php:25
+#: admin/partials/hostinger-ai-assistant-tab-view.php:107
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:90
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:139
+msgid "Trustworthy"
+msgstr "Đáng tin cậy"
+
+#: includes/class-hostinger-ai-assistant-errors.php:36
+msgid "Unknown error code."
+msgstr "Mã lỗi không xác định."
+
+#: admin/class-hostinger-ai-assistant-translations.php:159
+#, fuzzy
+msgid "Update a post category on my WordPress website"
+msgstr "Cập nhật danh mục bài viết trên trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:154
+#, fuzzy
+msgid "Update a post tag on my WordPress website"
+msgstr "Cập nhật thẻ bài viết trên trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:124
+#, fuzzy
+msgid "Update an existing page on my WordPress website"
+msgstr "Cập nhật một trang hiện có trên trang web WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:144
+#, fuzzy
+msgid "Update an existing post on my WordPress site"
+msgstr "Cập nhật bài viết hiện có trên trang WordPress của tôi"
+
+#: admin/class-hostinger-ai-assistant-translations.php:142
+#, fuzzy
+msgid "Update blog post"
+msgstr "Cập nhật bài viết trên blog"
+
+#: admin/class-hostinger-ai-assistant-translations.php:157
+#, fuzzy
+msgid "Update post category"
+msgstr "Cập nhật danh mục bài viết"
+
+#: admin/class-hostinger-ai-assistant-translations.php:152
+#, fuzzy
+msgid "Update post tag"
+msgstr "Cập nhật thẻ bài viết"
+
+#: admin/class-hostinger-ai-assistant-translations.php:122
+#, fuzzy
+msgid "Update WordPress page"
+msgstr "Cập nhật trang WordPress"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:377
+msgid "Use this content"
+msgstr "Sử dụng nội dung này"
+
+#: admin/class-hostinger-ai-assistant-translations.php:35
+msgid "Use this image as:"
+msgstr "Sử dụng ảnh này như:"
+
+#: includes/mcp/class-hostinger-ai-assistant-mcp-jwt-auth.php:272
+#, fuzzy
+msgid "User associated with token no longer exists."
+msgstr "Người dùng liên kết với token không còn tồn tại."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:133
+msgid "Usually used for video, infographics, or product descriptions"
+msgstr "Thường dùng cho video, đồ họa thông tin hoặc mô tả sản phẩm"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:145
+msgid "Usually used to make high-ranked articles that will generate more leads"
+msgstr ""
+"Thường dùng để tạo các bài viết được xếp hạng cao để thu hút nhiều lượt truy "
+"cập"
+
+#: admin/class-hostinger-ai-assistant-translations.php:128
+#, fuzzy
+msgid ""
+"View site details like name, URL, description, admin email, plugins, themes, "
+"and users"
+msgstr ""
+"Xem chi tiết trang web như tên, URL, mô tả, email quản trị viên, plugin, "
+"giao diện và người dùng"
+
+#: admin/class-hostinger-ai-assistant-translations.php:100
+msgid "Voice feature is coming soon"
+msgstr "Tính năng giọng nói sẽ sớm ra mắt"
+
+#: includes/class-hostinger-ai-assistant-errors.php:20
+msgid ""
+"We apologize for the inconvenience. The AI content generation process "
+"encountered a server error. Please try again later."
+msgstr ""
+"Chúng tôi xin lỗi vì sự bất tiện. Quá trình tạo nội dung do AI đã xảy ra sự "
+"cố máy chủ. Xin vui lòng thử lại."
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:179
+msgid "What are the focus keywords of your content?"
+msgstr "Các từ khóa cần chú trọng của nội dung là gì?"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:394
+msgid "What content do you want AI to create today?"
+msgstr "Bạn muốn AI tạo ra nội dung gì hôm nay?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:56
+msgid "What do you want to make today?"
+msgstr "Bạn muốn làm gì ngày hôm nay?"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:157
+msgid "What is your content about?"
+msgstr "Nội dung của bạn nói về điều gì?"
+
+#: admin/class-hostinger-ai-assistant-translations.php:27
+#: admin/partials/hostinger-ai-assistant-tab-view.php:109
+#: includes/woocommerce/class-hostinger-ai-assistant-product-ai-metabox.php:92
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:147
+msgid "Witty"
+msgstr "Hóm hỉnh"
+
+#: admin/class-hostinger-ai-assistant-translations.php:42
+msgid "WordPress MCP plugin"
+msgstr "Plugin WordPress MCP"
+
+#: admin/partials/hostinger-ai-assistant-tab-view.php:220
+msgid "words"
+msgstr "từ"
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:154
+msgid "Write a motivational post about..."
+msgstr "Viết bài viết truyền cảm hứng về..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:153
+msgid "Write a recommendation list of..."
+msgstr "Viết danh sách đề xuất về..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:152
+msgid "Write a step-by-step tutorial about..."
+msgstr "Viết hướng dẫn chi tiết từng bước về..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:157
+msgid "Write a summary of..."
+msgstr "Viết tóm tắt về..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:156
+#: gutenberg-block/src/edit.js:399
+msgid "Write an article about ..."
+msgstr "Viết bài viết về ..."
+
+#: gutenberg-block/dist/index.js:1 gutenberg-block/src/edit.js:155
+msgid "Write promotional content about..."
+msgstr "Viết nội dung quảng cáo về..."
+
+#: admin/class-hostinger-ai-assistant-translations.php:84
+msgid "Write your feedback (optional)"
+msgstr "Viết phản hồi của bạn (tùy chọn)"
+
+#: admin/class-hostinger-ai-assistant-translations.php:57
+msgid "Write your question"
+msgstr "Viết câu hỏi của bạn"
+
+#. translators: %s: PHP version
+#: hostinger-ai-assistant.php:135
+#, php-format
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Bạn đang dùng phiên bản PHP <b>%s</b>"
+
+#: admin/class-hostinger-ai-assistant-translations.php:63
+msgid "You can only upload up to 6 files"
+msgstr "Bạn chỉ có thể tải lên tối đa 6 tệp"
+
+#: admin/class-hostinger-ai-assistant-translations.php:80
+msgid "You rated your conversation"
+msgstr "Bạn đã đánh giá cuộc trò chuyện của mình"
+
+#: admin/class-hostinger-ai-assistant-translations.php:32
+msgid "You're good to go, but you can share more details for better results"
+msgstr ""
+"Bạn có thể bắt đầu nhưng bạn có thể chia sẻ chi tiết hơn để đạt kết quả tốt "
+"hơn"

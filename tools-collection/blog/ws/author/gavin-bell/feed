@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gavin Bell, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/gavin-bell/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 01 Nov 2022 17:56:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Gavin Bell, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>6 Facebook Ad Strategies Working for Us Right Now (Post iOS Update)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies#respond</comments>
+		
+		<dc:creator><![CDATA[Gavin Bell]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies</guid>
+
+					<description><![CDATA[<p>Are the glory days of Facebook advertising over? No! These six strategies dramatically improve Facebook ad performance in a post-iOS14 world.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies">6 Facebook Ad Strategies Working for Us Right Now (Post iOS Update)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="tag__text">A lot of advertisers feared the worst when news of Apple’s changes were made public… and for good reason. If you&#8217;ve seen a dip in the performance of your Facebook advertising campaigns, you&#8217;re not alone.</div>
+<div></div>
+<div class="column">
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="92c52667-fe8d-4da8-9cae-60031e486b13" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/facebook-ads-group-therapy.jpeg" alt="post-ios 14 facebook advertiser group therapy" typeof="foaf:Image" width="720" height="480" /></div>
+</article>
+</div>
+<p>But are the days of advertising on Facebook over? Absolutely not. Like anything new, it&#8217;s a case of observing, learning, and adapting to the new world. In this article, I share six strategies we’ve found to drastically improve the performance of our client campaigns in a post-iOS14 world. They include:</p>
+<ol>
+<li>Rebuild campaigns from scratch</li>
+<li>Try interest stacking</li>
+<li>Keep audience expansion on</li>
+<li>Run on-platform retargeting campaigns</li>
+<li>Use Facebook lead ads</li>
+<li>Set up external tracking</li>
+</ol>
+<h2>First, take care of the account essentials</h2>
+<p>Let&#8217;s first make sure your account is set up to track and succeed with these strategies.</p>
+<h3>Verify your business</h3>
+<p>When you verify your business, Facebook will request a couple of legal documents to confirm your business is legitimate. This minimizes the risk of future ad banning—of course, also along with abiding by Facebook&#8217;s advertising guidelines).</p>
+<p>Use <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">Facebook’s verification instructions</a> since these will be up to date, but as of this post, here&#8217;s how to do it through Business Manager:</p>
+<ol>
+<li>Go to Security Center</li>
+<li>Select Verification.</li>
+</ol>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="efe2f342-823a-4a6f-9a1b-36ee1bc50c53" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/generate-leads-facebook-ads-post-ios-business-verification.png" alt="facebook ads business verification" typeof="foaf:Image" width="720" height="214" /></div>
+</article>
+</div>
+<h3>Verify your domain</h3>
+<p>Verifying your domain ensures that you&#8217;re able to track your ads effectively. It&#8217;s simply a case of uploading a small file (provided by Facebook) and adding it to your website&#8217;s header.</p>
+<p>To verify your domain on Facebook:</p>
+<ol>
+<li>Go to Business Manager and find Brand Safety&gt;Domains.</li>
+<li>Click add, and follow the instructions.</li>
+</ol>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ace0f319-b9ee-4d23-bb64-768dba5526bc" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/facebook-post-ios-domain-verification.png" alt="facebook ads domain verification screen" typeof="foaf:Image" width="720" height="463" /></div>
+</article>
+</div>
+<h3>Set up Aggregated Event Management</h3>
+<p>You need to set up Aggregated Event Measurement (AEM) or your ads won&#8217;t track properly. Facebook events indicate activity within your <a href="/blog/ws/2019/02/21/facebook-funnel">full-funnel strategy</a> as the user moves towards your CTA. Events are things like:</p>
+<ul>
+<li>Page view</li>
+<li>View content</li>
+<li>Add to Cart</li>
+<li>Initiate Checkout</li>
+<li>Purchase</li>
+</ul>
+<p>For example, online shops might track: View content -&gt; Add to Cart -&gt; Initiate Checkout -&gt; Purchase</p>
+<p>In the past, it was possible to create an unlimited number of tracking events within a Facebook advertising account; now, they&#8217;ve limited it to eight. Most advertisers only track 1-5 events per campaign, so this shouldn&#8217;t create a significant obstacle. But if you do use lots of different tracking events, simply consolidate your events and use the same ones across various campaigns <a href="/blog/ws/2021/07/20/facebook-aggregated-event-measurement">(learn more about this strategy here)</a>.</p>
+<p>To set up aggregated event management:</p>
+<ol>
+<li>Go to Events Manager</li>
+<li>Click on the Aggregated Event Measurement tab</li>
+<li>Click on Manage Events, and select your (now verified) domain</li>
+<li>Click Manage Events</li>
+<li>Add the Events you want to track across your campaign.</li>
+</ol>
+<p>You&#8217;ll need to list your events by priority. If your campaign is about making sales, make sure that Purchase (for example) is the highest priority.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a7817b18-9187-4108-9385-edc7c872656d" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/facebook-ads-aggregated-event-measurement-setup.png" alt="facebook ads aggregated event setup" typeof="foaf:Image" width="720" height="326" /></div>
+</article>
+</div>
+<h2>6 strategies to try if your Facebook ads are not performing post-iOS 14</h2>
+<p>Okay now that you have your account structured properly, let&#8217;s talk about some <a href="https://www.wordstream.com/blog/ws/2018/07/24/facebook-free-leads">Facebook ad lead generatio</a>n strategies that have been working for us, despite the challenges brought on after the iOS update.</p>
+<h3>1. Rebuild campaigns from scratch</h3>
+<p>If you’ve been advertising for some time, you’ve probably been able to get your campaigns to a point where you’re consistently seeing good results. You know the audiences and creatives that work, and Facebook has optimized for those.</p>
+<p>But one of the most common pain points with iOS is that previously <a href="/blog/ws/2016/05/23/facebook-ad-examples">successful Facebook ad campaigns</a> have stopped performing as well as they used to.</p>
+<p>Disastrophe!</p>
+<p>But it’s not the end of the world.</p>
+<p>As with all major ad platform changes, it&#8217;s adapt or die. And we&#8217;ve found that rebuilding a campaign from scratch can work exceptionally well. Sure, it&#8217;s going to take you a little extra time to rebuild your campaign templates, but one of our clients experienced a <strong>59% reduction in cost per lead</strong> after rebuilding a previously successful campaign.<br />
+<a id="interest-stacking"></a></p>
+<h3>2. Try interest stacking</h3>
+<p>Whizz back to pre-iOS14 when we used to do<a href="https://www.wordstream.com/blog/ws/2015/01/28/facebook-ad-targeting"> Facebook ad targeting</a> by individual interest. This level of specificity was priceless, especially if you knew your audience. But it doesn&#8217;t work as well under the new regime.</p>
+<p>For example, we used to create one ad set targeting a singular interest. So if we were looking to target marketers, we might target people who are interested in Buffer. Now, it&#8217;s more effective to go a little broader. Rather than just Buffer, you might add Hootsuite + Sprout Social + StreamYard, etc. all into the same audience.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cf96eaf4-9674-4882-a2bd-e2a29ba92df7" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/generate-leads-facebook-ads-ios-detailed-targeting.png" alt="tips for facebook ads post iOS 14: detailed targeting example" typeof="foaf:Image" width="600" height="393" /></div>
+</article>
+</div>
+<p><a href="https://www.wordstream.com/facebook-advertising?cid=Web_blog_InContentTextLink_FB_grader"><strong><em>Are your ads underperforming? Use our free Facebook Ads Performance Grader to make sure you&#8217;re plugging every leak in your spend.</em></strong></a><br />
+<a id="targeting-expansion"></a></p>
+<h3>3. Keep targeting expansion on</h3>
+<p>As mentioned above, going broader with your audience&#8217;s interests gives Facebook&#8217;s algorithm more to work with. So in addition to stacking interests, we also recommend locking Targeting Expansion to On.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="79dec45b-d520-44d5-bf23-a539f3d1b8d1" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/generate-leads-facebook-ads-ios-targeting-expansion.png" alt="facebook ad tips after iOS: targeting expansion setting" typeof="foaf:Image" width="600" height="272" /></div>
+</article>
+</div>
+<p>One of the particularly tricky<a href="/blog/ws/2021/01/20/ios-14-update-facebook-ads"> impacts of iOS14</a> is that it&#8217;s harder to build effective Custom Audiences, and therefore <a href="https://www.wordstream.com/facebook-lookalike-audiences">Lookalike Audiences</a>. Lookalikes <em>were </em>big performers, but we’ve found that campaigns using interest stacking and Detailed Targeting Expansion have started outperforming them in some circumstances.</p>
+<p>For more targeting tips, check out these <a href="8%20Tips%20to%20Prevail%20in%20the%20Battle%20of%20Facebook%20Ad%20Targeting%20vs%20iOS%2014">8 Tips to Prevail in the Battle of Facebook Ad Targeting vs iOS 14</a>.</p>
+<h3>4. Retarget video views</h3>
+<p>Want to know a <a href="/blog/ws/2021/10/26/online-advertising-statistics">scary stat</a>? 96% iOS14+ users have opted out of tracking. In many ways, you can understand it: most of us didn&#8217;t realize the extent to which Facebook followed us around the web. So from a libertarian perspective, it kind of makes sense.</p>
+<p>But as a result, <a href="https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting">Facebook website retargeting</a> campaigns are no producing the results they once did. But what <em>is </em>producing results for us lately is on-platform retargeting. In other words, keep users on Facebook because opting out of tracking doesn&#8217;t apply if the user stays on-platform.</p>
+<p>And on-platform video views can be a super effective <a href="https://www.wordstream.com/blog/ws/2019/04/29/facebook-ad-targeting-strategies">Facebook ad targeting strategy</a> even after iOS.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4cd77698-9783-4384-9ce5-bd5e93c49c78" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/generate-leads-facebook-ads-ios-video-engagement-campaign.png" alt="facebook ads tips post-iOS 14: video engagement campaign" typeof="foaf:Image" width="550" height="381" /></div>
+</article>
+</div>
+<p>App tracking opt-outs can be a total disaster for advertisers&#8230;unless you adapt to change. And video engagement campaigns just may be one way of holding down the fort for your accounts.</p>
+<p>One of our clients—a well-known whiskey brand—saw a <strong>76% reduction in cost per purchase </strong>when using video view retargeting versus their regular prospecting campaigns.</p>
+<p><a href="https://www.wordstream.com/blog/ws/2022/01/06/facebook-ads-on-platform-engagement">Learn more about on-platform targeting strategies here.</a></p>
+<h3>5. Use Facebook lead ads</h3>
+<p>Another on-platform strategy to generate leads on Facebook is through <a href="https://www.wordstream.com/blog/ws/2016/08/24/facebook-lead-ads">Facebook lead ads</a>. These used to be the unwelcome guest at the party—the Maleficent that everyone avoided because they produced low-quality leads.</p>
+<p>But we’re finding lead ads to drastically <a href="/blog/ws/2019/04/18/facebook-ads-cost-per-lead">reduce our Facebook cost per lead</a>, making campaigns more profitable. We recently launched a lead ad campaign for our agency and generated leads for less than $8.20 each.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9bceffb1-82da-47de-85d1-3f749291e0f8" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/generate-leads-facebook-ios-lead-ads.png" alt="facebook lead ad example" typeof="foaf:Image" width="720" height="378" /></div>
+</article>
+</div>
+<p>Sure, you&#8217;ll still gather some low-quality leads, but the approach can make a difference to your profits due to the <a href="/blog/ws/2017/11/16/facebook-ad-costs">lower cost</a> of leads ads. And you can use some simple <a href="/blog/ws/2021/10/25/lead-qualification">lead qualification tactics</a> to pre-qualify those clicks.</p>
+<p>Plus, lead ads are trackable. Many iOS users go off the radar once they click on your ad because they’ve opted out of tracking. But lead ad clickers stay within the Facebook ecosystem. So while leads from external clicks can dissolve into the ether, leads from lead ads remain trackable. We recently launched a lead ad campaign for our agency and <strong>generated leads for less than $8.20 each.</strong></p>
+<p>Brett McHale has also found lead ads, as well as messenger ads, to be particularly effective in <a href="/blog/ws/2021/07/26/generate-leads-facebook-ads-ios14">generating leads post-iOS 14</a>.</p>
+<h2>6. Set up external tracking &amp; reporting</h2>
+<p>One of the real tragedies of iOS14 is how it has negatively affected Facebook&#8217;s ability to report on results in Ads Manager. Here are three things to do about it.</p>
+<h3>Use the Facebook Conversions API</h3>
+<p><a href="https://weareyatter.com/facebook-pixel/">Setting up the Facebook pixel</a> used to be all you needed to track and report on your Facebook ads, but with App Tracking Transparency (users can opt to not be tracked) and Google’s eventual depreciation of third-party cookies (which the pixel relies on), the pixel is losing its power.</p>
+<p>To avoid underreporting results, it’s essential to <a href="/blog/ws/2021/10/06/facebook-conversions-api">start using the Facebook Conversions API</a> (in conjunction with the pixel). The API doesn&#8217;t require cookies for tracking events because it connects your server directly to Facebook&#8217;s.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3cdbbcff-b461-4e35-812b-b4bb0a89e8a3" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/how-facebook-conversions-api-works.png" alt="how the facebook conversions api works" typeof="foaf:Image" width="720" height="361" /></div>
+</article>
+</div>
+<p>To implement CAPI in Business Manager:</p>
+<ol>
+<li>Click on the burger menu. Go to Events Manager.</li>
+<li>Select Add Events using the Conversions API.</li>
+</ol>
+<p>The simplest way to add events using the CAPI is through Partner Integrations. Facebook provides <a href="https://www.facebook.com/business/help/232481544843294?id=818859032317965" target="_blank" rel="noopener">partner-specific instructions</a> once you&#8217;ve confirmed which partner hosts your website.</p>
+<h3>Use UTMs</h3>
+<p>You&#8217;ll also get a much clearer reflection of results if you also measure performance using UTMs and <a href="https://www.wordstream.com/blog/ws/2014/05/15/google-analytics-tips">Google Analytics</a>, as well as Facebook&#8217;s tracking.</p>
+<p><strong>Free guide</strong><span> &gt;&gt; </span><strong><a href="https://marketing.wordstream.com/WSLIQContentDLFBFundamentals.html?cid=Web_Any_InContentTextLink_PPC_FacebookFundamentals_Download">7 Fundamental Facebook Advertising Tips</a></strong><span> every advertiser should know.</span></p>
+<h3>Give yourself a 3-4 day buffer</h3>
+<p>Another reason reporting is slightly trickier now is that Facebook’s reporting is delayed up to three days, meaning <a href="https://www.wordstream.com/blog/ws/2016/04/28/facebook-conversions">conversions you’ve received from your ads</a> in the previous couple of days may not show yet.</p>
+<p>This is important to remember when reporting. Always give yourself a buffer of 3-4 days to ensure you have the most accurate data possible.</p>
+<p>The reality is, there is no perfect way to track ad performance. So you need to find a way that works specifically for you.</p>
+<h2>Adapt and move on</h2>
+<p>We might look back one day on the great exodus of the 2021 opt-out and laugh. Like all significant cultural shifts, there&#8217;s a lot of panic and resistance initially, but those open to learning always catch the early worm. Either way, we adapt and move on. And that’s how we remain successful.</p>
+<p>The big takeaways from all of this are:</p>
+<ul>
+<li>Rebuild campaigns from Keep users on-platform and make use of on-platform tools</li>
+<li>Implement external tracking to reinforce your campaign reporting</li>
+<li>Stack interests to broaden your audiences (and Lookalikes)</li>
+<li>Reset your campaigns for the new world</li>
+<li>Optimize your ad account setup</li>
+</ul>
+<p>If you try these strategies you should start to see an improvement in your campaigns, but as with anything Facebook ads-related, it’s all about testing. Test these strategies and find out which ones perform best for your business.</p>
+</div>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies">6 Facebook Ad Strategies Working for Us Right Now (Post iOS Update)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/11/11/facebook-advertising-strategies/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

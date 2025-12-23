@@ -1,0 +1,32 @@
+# WordPress Core
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/plugins/hello.php
+
+# Sensitive files
+*.log
+*.sql
+*.env
+.env.*
+.DS_Store
+.htaccess
+
+# Node / Composer
+node_modules/
+vendor/
+package-lock.json
+composer.lock
+
+# System / IDE
+.idea/
+.vscode/
+*.bak
+*.swp
+*.tmp
+
+# OS
+Thumbs.db

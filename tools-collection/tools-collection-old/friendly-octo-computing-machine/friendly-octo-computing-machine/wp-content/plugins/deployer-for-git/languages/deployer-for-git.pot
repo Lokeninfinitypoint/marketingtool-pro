@@ -1,0 +1,427 @@
+# Copyright (C) 2023 Alex Masliychuk
+# This file is distributed under the GPL-3.0.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Deployer for Git 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/deployer-for-git\n"
+"POT-Creation-Date: 2023-12-26 12:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: deployer_for_git\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: freemius\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: tests\n"
+
+#: includes/Admin.php:77
+#, php-format
+msgid "<strong>Warning:</strong> Please do not make any changes to the theme or plugin code directly because some themes or plugins are connected with Git.<br>Click <a href=\"%s\">here</a> to learn more."
+msgstr ""
+
+#: includes/Admin.php:113
+#: includes/Subpages/DashboardPage/partials/_plugins.php:57
+#: includes/Subpages/DashboardPage/partials/_plugins.php:59
+#: includes/Subpages/DashboardPage/partials/_themes.php:66
+#: includes/Subpages/DashboardPage/partials/_themes.php:68
+msgid "Copy URL"
+msgstr ""
+
+#: includes/Admin.php:114
+msgid "Copied!"
+msgstr ""
+
+#: includes/Admin.php:115
+msgid "Updating now..."
+msgstr ""
+
+#: includes/Admin.php:116
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/Admin.php:117
+msgid "Updated!"
+msgstr ""
+
+#: includes/Admin.php:118
+#: includes/Subpages/DashboardPage/partials/_themes.php:78
+msgid "Update Theme"
+msgstr ""
+
+#: includes/Admin.php:119
+#: includes/Subpages/DashboardPage/partials/_plugins.php:69
+msgid "Update Plugin"
+msgstr ""
+
+#: includes/Admin.php:141
+#, php-format
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to support and promote our solution. Thank you very much!"
+msgstr ""
+
+#: includes/ApiRequests/PackageUpdate.php:128
+msgid "Package updated successfully."
+msgstr ""
+
+#: includes/ApiRequests/PackageUpdate.php:133
+msgid "Cache flushed."
+msgstr ""
+
+#: includes/Logger.php:84
+msgid "Log file not found."
+msgstr ""
+
+#: includes/Providers/BaseProvider.php:57
+msgid "Repository url required"
+msgstr ""
+
+#: includes/Providers/BaseProvider.php:62
+msgid "Repository url must be a url"
+msgstr ""
+
+#: includes/Providers/BitbucketProvider.php:43
+msgid "Repository url must be a valid Bitbucket repository url"
+msgstr ""
+
+#: includes/Providers/GiteaProvider.php:43
+msgid "Repository url must be a valid Gitea repository url"
+msgstr ""
+
+#: includes/Providers/GithubProvider.php:43
+msgid "Repository url must be a valid GitHub repository url"
+msgstr ""
+
+#: includes/Providers/GitlabProvider.php:44
+msgid "Repository url must be a valid GitLab repository url"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/Dashboard.php:28
+#: includes/Subpages/DashboardPage/Dashboard.php:38
+#: includes/Subpages/DashboardPage/Dashboard.php:39
+#: includes/Subpages/DashboardPage/template.php:11
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/Dashboard.php:29
+msgid "Deployer for Git"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:11
+msgid "Installed Plugins"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:18
+msgid "No plugins installed yet... Go and install one."
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:21
+#: includes/Subpages/InstallPluginPage/InstallPlugin.php:19
+#: includes/Subpages/InstallPluginPage/template.php:25
+#: includes/Subpages/InstallPluginPage/template.php:132
+msgid "Install Plugin"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:38
+#: includes/Subpages/DashboardPage/partials/_themes.php:38
+msgid "Private Repo"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:40
+#: includes/Subpages/DashboardPage/partials/_themes.php:40
+msgid "Public Repo"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:45
+#: includes/Subpages/DashboardPage/partials/_themes.php:53
+#: includes/Subpages/DashboardPage/partials/_themes.php:54
+#: includes/Subpages/InstallPluginPage/template.php:55
+#: includes/Subpages/InstallThemePage/template.php:55
+msgid "Branch"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:53
+#: includes/Subpages/DashboardPage/partials/_themes.php:62
+msgid "» Show Push-to-Deploy URL"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_plugins.php:66
+#: includes/Subpages/DashboardPage/partials/_plugins.php:76
+#: includes/Subpages/DashboardPage/partials/_themes.php:75
+#: includes/Subpages/DashboardPage/partials/_themes.php:85
+msgid "Remove"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_themes.php:11
+msgid "Installed Themes"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_themes.php:18
+msgid "No themes installed yet...  Go and install one."
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_themes.php:21
+#: includes/Subpages/InstallThemePage/InstallTheme.php:20
+#: includes/Subpages/InstallThemePage/template.php:26
+#: includes/Subpages/InstallThemePage/template.php:134
+msgid "Install Theme"
+msgstr ""
+
+#: includes/Subpages/DashboardPage/partials/_themes.php:46
+msgid "Active"
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:40
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:47
+#: includes/Subpages/InstallPackage.php:177
+msgid "Invalid provider type"
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:173
+msgid "Provider does not exist."
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:184
+msgid "Package zip URL and package slug must exist"
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:191
+msgid "User should have enough permissions"
+msgstr ""
+
+#: includes/Subpages/InstallPackage.php:276
+msgid "Some error occurred"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:11
+msgid "Plugin was successfully installed"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:34
+#: includes/Subpages/InstallThemePage/template.php:34
+msgid "Provider Type"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:38
+#: includes/Subpages/InstallThemePage/template.php:37
+msgid "Choose a provider"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:46
+#: includes/Subpages/InstallThemePage/template.php:45
+msgid "Repository URL"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:49
+msgid "Example: https://bitbucket.org/owner/wordpress-plugin-name"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:50
+msgid "Example: https://github.com/owner/wordpress-plugin-name"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:51
+msgid "Example: https://gitea.com/owner/wordpress-plugin-name"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:58
+#: includes/Subpages/InstallThemePage/template.php:58
+msgid "default is \"master\""
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:77
+#: includes/Subpages/InstallThemePage/template.php:77
+msgid "Is Private Repository"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:83
+#: includes/Subpages/InstallThemePage/template.php:83
+msgid "[Active license required]"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:87
+#: includes/Subpages/InstallThemePage/template.php:87
+msgid "[Available in PRO version]"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:101
+#: includes/Subpages/InstallThemePage/template.php:103
+msgid "Username"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:105
+#: includes/Subpages/InstallThemePage/template.php:107
+msgid "Password"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:109
+#: includes/Subpages/InstallThemePage/template.php:111
+msgid "Access Token"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:113
+#: includes/Subpages/InstallThemePage/template.php:115
+msgid "You can generate Gitea access token here:"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:114
+#: includes/Subpages/InstallPluginPage/template.php:118
+#: includes/Subpages/InstallPluginPage/template.php:122
+#: includes/Subpages/InstallThemePage/template.php:116
+#: includes/Subpages/InstallThemePage/template.php:120
+#: includes/Subpages/InstallThemePage/template.php:124
+msgid "Link"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:117
+#: includes/Subpages/InstallThemePage/template.php:119
+msgid "You can generate Github access token here:"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:121
+msgid "You can generate GitLab access token here (\"api\" scope required):"
+msgstr ""
+
+#: includes/Subpages/InstallPluginPage/template.php:133
+msgid "Note that if a plugin with specified slug is already installed, this action will overwrite the already existing plugin."
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:12
+msgid "Theme was successfully installed"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:48
+msgid "Example: https://bitbucket.org/owner/wordpress-theme-name"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:49
+msgid "Example: https://github.com/owner/wordpress-theme-name"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:50
+msgid "Example: https://gitea.com/owner/wordpress-theme-name"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:51
+msgid "Example: https://gitlab.com/owner/wordpress-theme-name"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:123
+msgid "You can generate GitLab access token here ( \"api\" scope required ):"
+msgstr ""
+
+#: includes/Subpages/InstallThemePage/template.php:135
+msgid "Note that if a theme with specified slug is already installed, this action will overwrite the already existing theme."
+msgstr ""
+
+#: includes/Subpages/LogsPage/Logs.php:29
+#: includes/Subpages/LogsPage/Logs.php:30
+#: includes/Subpages/LogsPage/template.php:10
+msgid "Logs"
+msgstr ""
+
+#: includes/Subpages/LogsPage/template.php:16
+msgid "Log file cleared"
+msgstr ""
+
+#: includes/Subpages/LogsPage/template.php:20
+msgid "Can't clear the log file."
+msgstr ""
+
+#: includes/Subpages/LogsPage/template.php:28
+#: includes/Subpages/MiscellaneousPage/template.php:50
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/Subpages/LogsPage/template.php:31
+msgid "Clear log file"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/Miscellaneous.php:29
+#: includes/Subpages/MiscellaneousPage/Miscellaneous.php:30
+#: includes/Subpages/MiscellaneousPage/template.php:11
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:17
+msgid "Error while regenerating secret key."
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:19
+msgid "Secret key has been successfully regenerated."
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:26
+msgid "Cache setting has been updated."
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:32
+msgid "Alert notification setting has been updated."
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:37
+msgid "Secret Key management"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:42
+msgid "Current secret key:"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:54
+msgid "Regenerate Secret Key"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:59
+msgid "Flush cache"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:62
+msgid "Activate this option if you want the plugin to clear the cache every time the package update link is triggered. We support next list of plugins:"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:68
+#: includes/Subpages/MiscellaneousPage/template.php:80
+#: includes/Subpages/MiscellaneousPage/template.php:91
+#: includes/Subpages/MiscellaneousPage/template.php:103
+#: includes/Subpages/MiscellaneousPage/template.php:115
+#: includes/Subpages/MiscellaneousPage/template.php:127
+#: includes/Subpages/MiscellaneousPage/template.php:139
+msgid "Active plugin found"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:72
+#: includes/Subpages/MiscellaneousPage/template.php:84
+#: includes/Subpages/MiscellaneousPage/template.php:95
+#: includes/Subpages/MiscellaneousPage/template.php:107
+#: includes/Subpages/MiscellaneousPage/template.php:119
+#: includes/Subpages/MiscellaneousPage/template.php:131
+#: includes/Subpages/MiscellaneousPage/template.php:143
+msgid "No plugin detected"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:157
+#: includes/Subpages/MiscellaneousPage/template.php:185
+msgid "Enable"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:166
+msgid "Save Caching Settings"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:172
+msgid "Alert notification"
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:175
+msgid "Enable this option if you wish to display a notification message at the top of WordPress Admin interface (/wp-admin). The message is intended for developers, reminding them not to make any changes to the theme or plugin directly on this site, but rather use Git for such modifications."
+msgstr ""
+
+#: includes/Subpages/MiscellaneousPage/template.php:194
+msgid "Save Alert Notification Settings"
+msgstr ""

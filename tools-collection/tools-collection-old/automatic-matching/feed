@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Automatic Match &#8211; Learn About Google&#039;s Automatic Matching Option	</title>
+	<atom:link href="https://www.wordstream.com/automatic-matching/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.wordstream.com/automatic-matching</link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 20 Jun 2008 21:27:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+</channel>
+</rss>

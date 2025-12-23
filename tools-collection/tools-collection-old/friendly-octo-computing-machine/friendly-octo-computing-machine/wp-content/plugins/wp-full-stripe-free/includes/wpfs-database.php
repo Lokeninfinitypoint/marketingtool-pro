@@ -1,0 +1,3864 @@
+<?php
+
+class MM_WPFS_Database {
+	const DATE_FORMAT_DATABASE = 'Y-m-d H:i:s';
+	const TRANSIENT_KEY_PREFIX = 'fullstripe_';
+
+	/**
+	 *
+	 * @return bool
+	 * @throws Exception
+	 */
+	public static function fullstripe_setup_db() {
+		// require for dbDelta()
+		require_once ( ABSPATH . 'wp-admin/includes/upgrade.php' );
+
+		global $wpdb;
+
+		$charset_collate = $wpdb->get_charset_collate();
+
+		$table = $wpdb->prefix . 'fullstripe_payments';
+
+		$sql = "CREATE TABLE " . $table . " (
+        paymentID INT NOT NULL AUTO_INCREMENT,
+        eventID VARCHAR(100) NOT NULL,
+        description VARCHAR(255) NOT NULL,
+        payment_method VARCHAR(100),
+        paid TINYINT(1),
+        captured TINYINT(1),
+        refunded TINYINT(1),
+        expired TINYINT(1),
+        failure_code VARCHAR(100),
+        failure_message VARCHAR(512),
+        livemode TINYINT(1),
+        last_charge_status VARCHAR(100),
+        currency VARCHAR(3) NOT NULL,
+        amount INT NOT NULL,
+        fee INT NOT NULL,
+        priceId VARCHAR(100),
+        coupon VARCHAR(100),
+        billingName VARCHAR(100),
+        addressLine1 VARCHAR(500) NOT NULL,
+        addressLine2 VARCHAR(500) NOT NULL,
+        addressCity VARCHAR(500) NOT NULL,
+        addressState VARCHAR(255) NOT NULL,
+        addressZip VARCHAR(100) NOT NULL,
+        addressCountry VARCHAR(100) NOT NULL,
+        addressCountryCode VARCHAR(2) NOT NULL,
+        shippingName VARCHAR(100),
+        shippingAddressLine1 VARCHAR(500) NOT NULL,
+        shippingAddressLine2 VARCHAR(500) NOT NULL,
+        shippingAddressCity VARCHAR(500) NOT NULL,
+        shippingAddressState VARCHAR(255) NOT NULL,
+        shippingAddressZip VARCHAR(100) NOT NULL,
+        shippingAddressCountry VARCHAR(100) NOT NULL,
+        shippingAddressCountryCode VARCHAR(2) NOT NULL,
+        created DATETIME NOT NULL,
+        stripeCustomerID VARCHAR(100),
+        name VARCHAR(100),
+        email VARCHAR(255) NOT NULL,
+        formId INT,
+        formType VARCHAR(30),
+        formName VARCHAR(100),
+        ipAddressSubmit VARCHAR(64),
+        customFields TEXT,
+        phoneNumber VARCHAR(64),
+        PRIMARY KEY (paymentID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_payment_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+        paymentFormID INT NOT NULL AUTO_INCREMENT,
+        name VARCHAR(100) NOT NULL,
+        displayName VARCHAR(100),        
+        formTitle VARCHAR(100) NOT NULL,
+        chargeType VARCHAR(100) NOT NULL,
+        amount INT NOT NULL,
+        currency VARCHAR(3) NOT NULL,
+        customAmount VARCHAR(32) NOT NULL,
+        listOfAmounts VARCHAR(1024) DEFAULT NULL,
+        decoratedProducts TEXT,
+        minimumPaymentAmount INT default 0,
+        allowListOfAmountsCustom TINYINT(1) DEFAULT '0',
+        vatRateType VARCHAR(32),
+        vatRates TEXT,
+        paymentMethods TEXT,
+        collectCustomerTaxId TINYINT(1) DEFAULT '0',
+        generateInvoice TINYINT(1) DEFAULT '0',
+        amountSelectorStyle VARCHAR(100) NOT NULL,
+        buttonTitle VARCHAR(100) NOT NULL DEFAULT 'Make Payment',
+        showButtonAmount TINYINT(1) DEFAULT '1',
+        showEmailInput TINYINT(1) DEFAULT '1',
+		showCouponInput TINYINT(1) DEFAULT '0',
+        showCustomInput TINYINT(1) DEFAULT '0',
+        customInputRequired TINYINT(1) DEFAULT '0',
+        customInputTitle VARCHAR(100) NOT NULL DEFAULT 'Extra Information',
+        customInputs TEXT,
+        redirectOnSuccess TINYINT(1) DEFAULT '0',
+        redirectPostID INT(5) DEFAULT 0,
+        redirectUrl VARCHAR(1024) DEFAULT NULL,
+        redirectToPageOrPost TINYINT(1) DEFAULT '1',
+        showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+        showAddress TINYINT(1) DEFAULT '0',
+		defaultBillingCountry VARCHAR(100),
+        showShippingAddress TINYINT(1) DEFAULT '0',
+        sendEmailReceipt TINYINT(1) DEFAULT '0',
+        formStyle INT(5) DEFAULT 0,
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        preferredLanguage VARCHAR(16),
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32) NOT NULL,
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+        emailTemplates TEXT,
+		webhook TEXT,
+        stripeElementsTheme VARCHAR(32) NOT NULL DEFAULT 'stripe',
+        stripeElementsFont VARCHAR(32),
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (paymentFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$paymentType = MM_WPFS::PAYMENT_TYPE_SPECIFIED_AMOUNT;
+		// tnagy migrate old values
+		$queryResult = $wpdb->update( $table, [ 'customAmount' => $paymentType ], [ 'customAmount' => '0' ], [ '%s' ], [ '%s' ] );
+		self::handleDbError( $queryResult, 'Migration of fullstripe_payment_forms/customAmount failed!' );
+
+		$paymentType = MM_WPFS::PAYMENT_TYPE_CUSTOM_AMOUNT;
+		$queryResult = $wpdb->update( $table, [ 'customAmount' => $paymentType ], [ 'customAmount' => '1' ], [ '%s' ], [ '%s' ] );
+		self::handleDbError( $queryResult, 'Migration of fullstripe_payment_forms/customAmount failed!' );
+
+		$table = $wpdb->prefix . 'fullstripe_subscription_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+        subscriptionFormID INT NOT NULL AUTO_INCREMENT,
+        name VARCHAR(100) NOT NULL,
+        displayName VARCHAR(100),
+        formTitle VARCHAR(100) NOT NULL,
+        plans VARCHAR(2048) NOT NULL,
+        decoratedPlans TEXT,
+        showCouponInput TINYINT(1) DEFAULT '0',
+        showCustomInput TINYINT(1) DEFAULT '0',
+        customInputRequired TINYINT(1) DEFAULT '0',
+        customInputTitle VARCHAR(100) NOT NULL DEFAULT 'Extra Information',
+        customInputs TEXT,
+        redirectOnSuccess TINYINT(1) DEFAULT '0',
+        redirectPostID INT(5) DEFAULT 0,
+        redirectUrl VARCHAR(1024) DEFAULT NULL,
+        redirectToPageOrPost TINYINT(1) DEFAULT '1',
+        showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+        showAddress TINYINT(1) DEFAULT '0',
+        defaultBillingCountry VARCHAR(100),
+        showShippingAddress TINYINT(1) DEFAULT '0',
+        sendEmailReceipt TINYINT(1) DEFAULT '0',
+        formStyle INT(5) DEFAULT 0,
+        buttonTitle VARCHAR(100) NOT NULL DEFAULT 'Subscribe',
+        setupFee INT NOT NULL DEFAULT '0',
+        vatRateType VARCHAR(32),
+        vatRates TEXT,
+        collectCustomerTaxId TINYINT(1) DEFAULT '0',
+        vatPercent DECIMAL(7,4) DEFAULT 0.0,
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        planSelectorStyle VARCHAR(32) NOT NULL,
+        allowMultipleSubscriptions TINYINT(1) DEFAULT '0',
+        minimumQuantityOfSubscriptions INT(5) DEFAULT 0,
+        maximumQuantityOfSubscriptions INT(5) DEFAULT 0,
+        anchorBillingCycle TINYINT(1) DEFAULT '0',
+        billingCycleAnchorDay TINYINT(2) DEFAULT '0',
+        prorateUntilAnchorDay TINYINT(1) DEFAULT '1',
+        preferredLanguage VARCHAR(16),
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32) NOT NULL,
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+        emailTemplates TEXT,
+		webhook TEXT,
+        stripeElementsTheme VARCHAR(32) NOT NULL DEFAULT 'stripe',
+        stripeElementsFont VARCHAR(32),
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+        feeRecoveryCurrency VARCHAR(3) default 'usd',
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (subscriptionFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_subscribers';
+
+		$sql = "CREATE TABLE " . $table . " (
+        subscriberID INT NOT NULL AUTO_INCREMENT,
+        stripeCustomerID VARCHAR(100) NOT NULL,
+        stripeSubscriptionID VARCHAR(100) NOT NULL,
+        stripePaymentIntentID VARCHAR(100),
+        stripeSetupIntentID VARCHAR(100),
+		chargeMaximumCount INT(5) NOT NULL,
+		chargeCurrentCount INT(5) NOT NULL,
+		invoiceCreatedCount INT(5),		
+		status VARCHAR(32) NOT NULL,
+		cancelled DATETIME DEFAULT NULL,
+        name VARCHAR(100) NOT NULL,
+        email VARCHAR(255) NOT NULL,
+        planID VARCHAR(100) NOT NULL,
+        quantity INT(5) DEFAULT 1,
+        coupon VARCHAR(100),
+        billingName VARCHAR(100),
+        addressLine1 VARCHAR(500) NOT NULL,
+        addressLine2 VARCHAR(500) NOT NULL,
+        addressCity VARCHAR(500) NOT NULL,
+        addressState VARCHAR(255) NOT NULL,
+        addressZip VARCHAR(100) NOT NULL,
+        addressCountry VARCHAR(100) NOT NULL,
+        addressCountryCode VARCHAR(2) NOT NULL,
+        shippingName VARCHAR(100),
+        shippingAddressLine1 VARCHAR(500),
+        shippingAddressLine2 VARCHAR(500),
+        shippingAddressCity VARCHAR(500),
+        shippingAddressState VARCHAR(255),
+        shippingAddressZip VARCHAR(100),
+        shippingAddressCountry VARCHAR(100),
+        shippingAddressCountryCode VARCHAR(2),
+        created DATETIME NOT NULL,
+        livemode TINYINT(1),
+        formId INT,
+        formName VARCHAR(100),
+        vatPercent DECIMAL(7,4) DEFAULT 0.0,
+        processedStripeEventIDs TEXT,
+        ipAddressSubmit VARCHAR(64),
+        customFields TEXT,
+        phoneNumber VARCHAR(64),
+        PRIMARY KEY (subscriberID),
+		KEY stripeSubscriptionID (stripeSubscriptionID),
+		KEY stripePaymentIntentID (stripePaymentIntentID),
+		KEY stripeSetupIntentID (stripeSetupIntentID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_checkout_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+        checkoutFormID INT NOT NULL AUTO_INCREMENT,
+        name VARCHAR(100) NOT NULL,
+        displayName VARCHAR(100),
+        companyName VARCHAR(100) NOT NULL,
+        productDesc VARCHAR(100) NOT NULL,
+        chargeType VARCHAR(100) NOT NULL,
+        amount INT NOT NULL,
+        currency VARCHAR(3) NOT NULL,
+        customAmount VARCHAR(32) NOT NULL,
+        listOfAmounts VARCHAR(1024) DEFAULT NULL,
+        decoratedProducts TEXT,
+        minimumPaymentAmount INT default 0,
+        vatRateType VARCHAR(32),
+        vatRates TEXT,
+        collectCustomerTaxId TINYINT(1) DEFAULT '0',
+        generateInvoice TINYINT(1) DEFAULT '0',
+        allowListOfAmountsCustom TINYINT(1) DEFAULT '0',
+        amountSelectorStyle VARCHAR(100) NOT NULL,
+        openButtonTitle VARCHAR(100) NOT NULL DEFAULT 'Pay With Card',
+        buttonTitle VARCHAR(100) NOT NULL DEFAULT 'Pay {{amount}}',
+        showButtonAmount TINYINT(1) DEFAULT '1',
+        showBillingAddress TINYINT(1) DEFAULT '0',
+        defaultBillingCountry VARCHAR(100),
+        showShippingAddress TINYINT(1) DEFAULT '0',
+		showCouponInput TINYINT(1) DEFAULT '0',
+        showCustomInput TINYINT(1) DEFAULT '0',
+        customInputRequired TINYINT(1) DEFAULT '0',
+        customInputTitle VARCHAR(100) NOT NULL DEFAULT 'Extra Information',
+        customInputs TEXT,
+        sendEmailReceipt TINYINT(1) DEFAULT '0',
+        showRememberMe TINYINT(1) DEFAULT '0',
+        image VARCHAR(500) NOT NULL,
+        redirectOnSuccess TINYINT(1) DEFAULT '0',
+        redirectPostID INT(5) DEFAULT 0,
+        redirectUrl VARCHAR(1024) DEFAULT NULL,
+        redirectToPageOrPost TINYINT(1) DEFAULT '1',
+        showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+        disableStyling TINYINT(1) DEFAULT 0,
+        useBitcoin TINYINT(1) DEFAULT '0',
+        useAlipay TINYINT(1) DEFAULT '0',
+        preferredLanguage VARCHAR(16),
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32) NOT NULL,
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+        emailTemplates TEXT,
+		webhook TEXT,
+        collectPhoneNumber TINYINT(1) DEFAULT '0',
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (checkoutFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$sql = "CREATE TABLE {$wpdb->prefix}fullstripe_patch_info (
+		id INT NOT NULL AUTO_INCREMENT,
+		patch_id VARCHAR(191) NOT NULL,
+		plugin_version VARCHAR(255) NOT NULL,
+		applied_at DATETIME NOT NULL,
+		description VARCHAR(500),
+		PRIMARY KEY (id),
+		KEY patch_id (patch_id)
+		) $charset_collate;";
+
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_checkout_subscription_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+		checkoutSubscriptionFormID INT NOT NULL AUTO_INCREMENT,
+		name VARCHAR(100) NOT NULL,
+		displayName VARCHAR(100),
+		companyName VARCHAR(100) NOT NULL,
+		productDesc VARCHAR(100) NOT NULL,
+		image VARCHAR(500) NOT NULL,
+		plans VARCHAR(2048) NOT NULL,
+        decoratedPlans TEXT,
+		showCouponInput TINYINT(1) DEFAULT '0',
+		showCustomInput TINYINT(1) DEFAULT '0',
+		customInputRequired TINYINT(1) DEFAULT '0',
+		customInputTitle VARCHAR(100) NOT NULL DEFAULT 'Extra Information',
+		customInputs TEXT,
+		redirectOnSuccess TINYINT(1) DEFAULT '0',
+		redirectPostID INT(5) DEFAULT 0,
+		redirectUrl VARCHAR(1024) DEFAULT NULL,
+		redirectToPageOrPost TINYINT(1) DEFAULT '1',
+		showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+		showBillingAddress TINYINT(1) DEFAULT '0',
+		showShippingAddress TINYINT(1) DEFAULT '0',
+		sendEmailReceipt TINYINT(1) DEFAULT '0',
+		disableStyling TINYINT(1) DEFAULT 0,
+        openButtonTitle VARCHAR(100) NOT NULL DEFAULT 'Pay With Card',
+		buttonTitle VARCHAR(100) NOT NULL DEFAULT 'Subscribe',
+		showRememberMe TINYINT(1) DEFAULT '0',
+        vatRateType VARCHAR(32),
+        vatRates TEXT,
+        collectCustomerTaxId TINYINT(1) DEFAULT '0',
+        vatPercent DECIMAL(7,4) DEFAULT 0.0,
+        defaultBillingCountry VARCHAR(100),
+        simpleButtonLayout TINYINT(1) DEFAULT '0',
+        preferredLanguage VARCHAR(16),
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        planSelectorStyle VARCHAR(32) NOT NULL,
+        allowMultipleSubscriptions TINYINT(1) DEFAULT '0',
+        minimumQuantityOfSubscriptions INT(5) DEFAULT 0,
+        maximumQuantityOfSubscriptions INT(5) DEFAULT 0,
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32) NOT NULL,
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+		webhook TEXT,
+        emailTemplates TEXT,
+        collectPhoneNumber TINYINT(1) DEFAULT '0',
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+        feeRecoveryCurrency VARCHAR(3) default 'usd',
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (checkoutSubscriptionFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_card_captures';
+
+		$sql = "CREATE TABLE $table (
+        captureID INT NOT NULL AUTO_INCREMENT,
+        livemode TINYINT(1),
+        billingName VARCHAR(100),
+        addressLine1 VARCHAR(500) NOT NULL,
+        addressLine2 VARCHAR(500) NOT NULL,
+        addressCity VARCHAR(500) NOT NULL,
+        addressState VARCHAR(255) NOT NULL,
+        addressZip VARCHAR(100) NOT NULL,
+        addressCountry VARCHAR(100) NOT NULL,
+        addressCountryCode VARCHAR(2) NOT NULL,
+        shippingName VARCHAR(100),
+        shippingAddressLine1 VARCHAR(500) NOT NULL,
+        shippingAddressLine2 VARCHAR(500) NOT NULL,
+        shippingAddressCity VARCHAR(500) NOT NULL,
+        shippingAddressState VARCHAR(255) NOT NULL,
+        shippingAddressZip VARCHAR(100) NOT NULL,
+        shippingAddressCountry VARCHAR(100) NOT NULL,
+        shippingAddressCountryCode VARCHAR(2) NOT NULL,
+        created DATETIME NOT NULL,
+        stripeCustomerID VARCHAR(100),
+        name VARCHAR(100),
+        email VARCHAR(255) NOT NULL,
+        formId INT,
+        formType VARCHAR(30),
+        formName VARCHAR(100),
+        ipAddressSubmit VARCHAR(64),
+        customFields TEXT,
+        PRIMARY KEY (captureID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$sql = "CREATE TABLE {$wpdb->prefix}fullstripe_card_update_session (
+		id INT NOT NULL AUTO_INCREMENT,
+		hash VARCHAR(191) NOT NULL,
+		email VARCHAR(191) NOT NULL,
+		liveMode TINYINT(1),
+		stripeCustomerId VARCHAR(100) NOT NULL,
+		securityCodeRequest INT DEFAULT 0,
+		securityCodeInput INT DEFAULT 0,
+		created DATETIME NOT NULL,
+		status VARCHAR(32) NOT NULL,
+		PRIMARY KEY (id),
+		KEY hash (hash),
+		KEY email (email),
+		KEY stripeCustomerId (stripeCustomerId),
+		KEY status (status),
+		KEY created (created)
+		) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$sql = "CREATE TABLE {$wpdb->prefix}fullstripe_security_code (
+		id INT NOT NULL AUTO_INCREMENT,
+		sessionId INT NOT NULL,
+		securityCode VARCHAR(191) NOT NULL,
+		created DATETIME NOT NULL,
+		sent DATETIME,
+		consumed DATETIME,
+		status VARCHAR(32) NOT NULL,
+		PRIMARY KEY (id),
+		KEY sessionId (sessionId),
+		KEY securityCode (securityCode),
+		KEY status (status)
+		) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$sql = "CREATE TABLE {$wpdb->prefix}fullstripe_checkout_form_submit (
+		id INT NOT NULL AUTO_INCREMENT,
+		hash VARCHAR(191) NOT NULL,
+		formHash VARCHAR(64) NOT NULL,
+		formType VARCHAR(30),
+		referrer VARCHAR(1024) NOT NULL,
+		postData TEXT NOT NULL,
+		checkoutSessionId VARCHAR(191),
+		liveMode TINYINT(1),
+		created DATETIME NOT NULL,
+		status VARCHAR(32) NOT NULL,
+		lastMessageTitle VARCHAR(256),
+		lastMessage VARCHAR(1024),
+		processedWithError INT DEFAULT 0,
+		errorMessage VARCHAR(180),
+		relatedStripeEventIDs TEXT,
+		PRIMARY KEY (id),
+		KEY hash (hash),
+		KEY checkoutSessionId (checkoutSessionId),
+		KEY status (status),
+		KEY liveMode (liveMode),
+		KEY liveModeStatus (liveMode, status)
+		) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$sql = "CREATE TABLE {$wpdb->prefix}fullstripe_log (
+		id INT NOT NULL AUTO_INCREMENT,
+		created DATETIME NOT NULL,
+		`module` VARCHAR(64) NOT NULL,
+		`class` VARCHAR(128) NOT NULL,
+		`function` VARCHAR(128) NOT NULL,
+		`level` VARCHAR(16) NOT NULL,
+		`message` VARCHAR(512) NOT NULL,
+		`exception` TEXT NOT NULL,
+		PRIMARY KEY (id),
+		KEY created (created),
+		KEY `module` (`module`),
+		KEY `class` (`class`),
+		KEY `function` (`function`),
+		KEY `level` (`level`)
+		) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_donations';
+
+		$sql = "CREATE TABLE " . $table . " (
+        donationID INT NOT NULL AUTO_INCREMENT,
+        stripeCustomerID VARCHAR(100) NOT NULL,
+        stripePaymentIntentID VARCHAR(100) NOT NULL,
+        stripeSubscriptionID VARCHAR(100),
+        stripePlanID VARCHAR(100),
+        stripeSetupIntentID VARCHAR(100),
+        description VARCHAR(255),
+        paymentMethod VARCHAR(100),
+        paid TINYINT(1),
+        captured TINYINT(1),
+        refunded TINYINT(1),
+        expired TINYINT(1),
+        failureCode VARCHAR(100),
+        failureMessage VARCHAR(512),
+        lastChargeStatus VARCHAR(100),
+        currency VARCHAR(3) NOT NULL,
+        amount INT NOT NULL,
+        donationFrequency VARCHAR(32),
+		subscriptionStatus VARCHAR(32),
+		cancelled DATETIME DEFAULT NULL,
+        name VARCHAR(100),
+        email VARCHAR(255),
+        billingName VARCHAR(100),
+        addressLine1 VARCHAR(500),
+        addressLine2 VARCHAR(500),
+        addressCity VARCHAR(500),
+        addressState VARCHAR(255),
+        addressZip VARCHAR(100),
+        addressCountry VARCHAR(100),
+        addressCountryCode VARCHAR(2),
+        shippingName VARCHAR(100),
+        shippingAddressLine1 VARCHAR(500),
+        shippingAddressLine2 VARCHAR(500),
+        shippingAddressCity VARCHAR(500),
+        shippingAddressState VARCHAR(255),
+        shippingAddressZip VARCHAR(100),
+        shippingAddressCountry VARCHAR(100),
+        shippingAddressCountryCode VARCHAR(2),
+        created DATETIME NOT NULL,
+        livemode TINYINT(1),
+        formId INT,
+        formType VARCHAR(30),
+        formName VARCHAR(100),
+        vatPercent DECIMAL(7,4) DEFAULT 0.0,
+        processedStripeEventIDs TEXT,
+        ipAddressSubmit VARCHAR(64),
+        customFields TEXT,
+        phoneNumber VARCHAR(64),
+        PRIMARY KEY (donationID),
+		KEY stripeSubscriptionID (stripeSubscriptionID),
+		KEY stripePaymentIntentID (stripePaymentIntentID),
+		KEY stripeSetupIntentID (stripeSetupIntentID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+
+		$table = $wpdb->prefix . 'fullstripe_donation_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+        donationFormID INT NOT NULL AUTO_INCREMENT,
+        name VARCHAR(100),
+        displayName VARCHAR(100),
+        currency VARCHAR(3),
+        minimumDonationAmount INT default 0,
+        donationAmounts VARCHAR(1024) DEFAULT NULL,
+        allowOneTimeDonation TINYINT(1) DEFAULT '0',
+        allowCustomDonationAmount TINYINT(1) DEFAULT '0',
+        allowDailyRecurring TINYINT(1) DEFAULT '0',
+        allowWeeklyRecurring TINYINT(1) DEFAULT '0',
+        allowMonthlyRecurring TINYINT(1) DEFAULT '0',
+        allowAnnualRecurring TINYINT(1) DEFAULT '0',
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        productDesc VARCHAR(100),
+        showDonationGoal TINYINT(1) DEFAULT '0',
+        donationGoal INT default 0,
+        generateInvoice TINYINT(1) DEFAULT '0',
+        buttonTitle VARCHAR(100) DEFAULT 'Donate',
+        showAddress TINYINT(1) DEFAULT '0',
+		defaultBillingCountry VARCHAR(100),
+        showShippingAddress TINYINT(1) DEFAULT '0',
+        preferredLanguage VARCHAR(16),
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32),
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        showCustomInput TINYINT(1) DEFAULT '0',
+        customInputRequired TINYINT(1) DEFAULT '0',
+        customInputTitle VARCHAR(100) DEFAULT 'Extra Information',
+        customInputs TEXT,
+        sendEmailReceipt TINYINT(1) DEFAULT '0',
+        redirectOnSuccess TINYINT(1) DEFAULT '0',
+        redirectPostID INT(5) DEFAULT 0,
+        redirectUrl VARCHAR(1024) DEFAULT NULL,
+        redirectToPageOrPost TINYINT(1) DEFAULT '1',
+        showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+        emailTemplates TEXT,
+		webhook TEXT,
+        stripeElementsTheme VARCHAR(32) NOT NULL DEFAULT 'stripe',
+        stripeElementsFont VARCHAR(32),
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (donationFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_checkout_donation_forms';
+
+		$sql = "CREATE TABLE " . $table . " (
+        checkoutDonationFormID INT NOT NULL AUTO_INCREMENT,
+        name VARCHAR(100),
+        displayName VARCHAR(100),
+        currency VARCHAR(3),
+        minimumDonationAmount INT default 0,
+        donationAmounts VARCHAR(1024) DEFAULT NULL,
+        allowCustomDonationAmount TINYINT(1) DEFAULT '0',
+        allowOneTimeDonation TINYINT(1) DEFAULT '0',
+        allowDailyRecurring TINYINT(1) DEFAULT '0',
+        allowWeeklyRecurring TINYINT(1) DEFAULT '0',
+        allowMonthlyRecurring TINYINT(1) DEFAULT '0',
+        allowAnnualRecurring TINYINT(1) DEFAULT '0',
+        stripeDescription VARCHAR(1024) DEFAULT NULL,
+        generateInvoice TINYINT(1) DEFAULT '0',
+        companyName VARCHAR(100),
+        productDesc VARCHAR(100),
+        image VARCHAR(500),
+        showDonationGoal TINYINT(1) DEFAULT '0',
+        donationGoal INT default 0,
+        openButtonTitle VARCHAR(100) DEFAULT 'Donate',
+        buttonTitle VARCHAR(100) DEFAULT 'Donate',
+        showBillingAddress TINYINT(1) DEFAULT '0',
+		defaultBillingCountry VARCHAR(100),
+        showShippingAddress TINYINT(1) DEFAULT '0',
+        preferredLanguage VARCHAR(16),
+        inheritLocale TINYINT(1) DEFAULT '1',
+        decimalSeparator VARCHAR(32),
+        showCurrencySymbolInsteadOfCode TINYINT(1) DEFAULT '1',
+        showCurrencySignAtFirstPosition TINYINT(1) DEFAULT '1',
+        putWhitespaceBetweenCurrencyAndAmount TINYINT(1) DEFAULT '0',
+        showTermsOfUse TINYINT(1) DEFAULT '0',
+        termsOfUseLabel VARCHAR(1024) DEFAULT NULL,
+        termsOfUseNotCheckedErrorMessage VARCHAR(256) DEFAULT NULL,
+        showCustomInput TINYINT(1) DEFAULT '0',
+        customInputRequired TINYINT(1) DEFAULT '0',
+        customInputTitle VARCHAR(100) DEFAULT 'Extra Information',
+        customInputs TEXT,
+        sendEmailReceipt TINYINT(1) DEFAULT '0',
+        redirectOnSuccess TINYINT(1) DEFAULT '0',
+        redirectPostID INT(5) DEFAULT 0,
+        redirectUrl VARCHAR(1024) DEFAULT NULL,
+        redirectToPageOrPost TINYINT(1) DEFAULT '1',
+        showDetailedSuccessPage TINYINT(1) DEFAULT '0',
+        emailTemplates TEXT,
+		webhook TEXT,
+        collectPhoneNumber TINYINT(1) DEFAULT '0',
+		feeRecovery VARCHAR(32) default 'inherit',
+		feeRecoveryOptIn TINYINT(1) DEFAULT '1',
+		feeRecoveryOptInMessage VARCHAR(1024) DEFAULT NULL,
+		feeRecoveryFeePercentage VARCHAR(32) default '2.9',
+		feeRecoveryFeeAdditionalAmount VARCHAR(32) default '0.30',
+        PRIMARY KEY (checkoutDonationFormID)
+        ) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		$table = $wpdb->prefix . 'fullstripe_reports';
+
+		$sql = "CREATE TABLE " . $table . " (
+		id INT NOT NULL AUTO_INCREMENT,
+		created_at DATETIME NOT NULL,
+		updated_at DATETIME NOT NULL,
+		currency VARCHAR(3) NOT NULL,
+		amount INT NOT NULL,
+		formId INT,
+		formType VARCHAR(30),
+		stripeSubscriptionID VARCHAR(100),
+		stripePaymentIntentID VARCHAR(100),
+		stripeCustomerID VARCHAR(100),
+		status VARCHAR(32) NOT NULL,
+		mode VARCHAR(32) NOT NULL,
+		PRIMARY KEY (id)
+		) $charset_collate;";
+
+		// database write/update
+		dbDelta( $sql );
+
+		do_action( 'fullstripe_setup_db' );
+
+		return true;
+	}
+
+	/**
+	 *
+	 * @param $result
+	 *
+	 * @param $message
+	 *
+	 * @throws Exception
+	 */
+	public static function handleDbError( $result, $message ) {
+		if ( $result === false ) {
+			global $wpdb;
+			MM_WPFS_Utils::log( sprintf( "%s: Raised exception with message=%s", 'WP Full Pay/Database', $message ) );
+			MM_WPFS_Utils::log( sprintf( "%s: SQL last error=%s", 'WP Full Pay/Database', $wpdb->last_error ) );
+			throw new Exception( $message );
+		}
+	}
+
+	/**
+	 * @return array|null|object|void
+	 */
+	public static function get_site_ids() {
+		global $wpdb;
+
+		return $wpdb->get_col( "SELECT blog_id FROM {$wpdb->blogs} WHERE site_id = {$wpdb->siteid};" );
+	}
+
+	/**
+	 * @param MM_WPFS_Public_DonationFormModel $donationFormModel
+	 * @param \StripeWPFS\Stripe\PaymentIntent $paymentIntent
+	 * @param \StripeWPFS\Stripe\Subscription $subscription
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	public function insertInlineDonation( $donationFormModel, $paymentIntent, $subscription, $lastCharge ) {
+		global $wpdb;
+
+		$stripeCustomerID = $donationFormModel->getStripeCustomer()->id;
+		$stripeSubscriptionID = $donationFormModel->isRecurringDonation() ? $subscription->id : null;
+		$billingAddress = $donationFormModel->getBillingAddress();
+		$shippingAddress = $donationFormModel->getShippingAddress();
+
+		$description = $this->getTruncatedDescriptionFromPaymentIntent( $paymentIntent );
+		$data = [
+			'stripeCustomerID' => $stripeCustomerID,
+			'stripeSubscriptionID' => $stripeSubscriptionID,
+			'stripePaymentIntentID' => $paymentIntent->id,
+			'stripeSetupIntentID' => $donationFormModel->getStripeSetupIntentId(),
+			'stripePlanID' => $donationFormModel->isRecurringDonation() ? $subscription->plan->id : null,
+			'description' => $description,
+			'paymentMethod' => 'card',
+			'paid' => $lastCharge->paid,
+			'captured' => $lastCharge->captured,
+			'refunded' => $lastCharge->refunded,
+			'expired' => false,
+			'failureCode' => $lastCharge->failure_code,
+			'failureMessage' => $lastCharge->failure_message,
+			'lastChargeStatus' => $lastCharge->status,
+			'currency' => $paymentIntent->currency,
+			'amount' => $paymentIntent->amount,
+			'donationFrequency' => $donationFormModel->getDonationFrequency(),
+			'subscriptionStatus' => $donationFormModel->isRecurringDonation() ? $subscription->status : null,
+			'name' => $donationFormModel->getCardHolderName(),
+			'email' => $donationFormModel->getCardHolderEmail(),
+			'billingName' => $donationFormModel->getBillingName(),
+			'addressLine1' => is_null( $billingAddress ) ? null : $billingAddress['line1'],
+			'addressLine2' => is_null( $billingAddress ) ? null : $billingAddress['line2'],
+			'addressCity' => is_null( $billingAddress ) ? null : $billingAddress['city'],
+			'addressState' => is_null( $billingAddress ) ? null : $billingAddress['state'],
+			'addressCountry' => is_null( $billingAddress ) ? null : $billingAddress['country'],
+			'addressCountryCode' => is_null( $billingAddress ) ? null : $billingAddress['country_code'],
+			'addressZip' => is_null( $billingAddress ) ? null : $billingAddress['zip'],
+			'shippingName' => $donationFormModel->getShippingName(),
+			'shippingAddressLine1' => is_null( $shippingAddress ) ? null : $shippingAddress['line1'],
+			'shippingAddressLine2' => is_null( $shippingAddress ) ? null : $shippingAddress['line2'],
+			'shippingAddressCity' => is_null( $shippingAddress ) ? null : $shippingAddress['city'],
+			'shippingAddressState' => is_null( $shippingAddress ) ? null : $shippingAddress['state'],
+			'shippingAddressCountry' => is_null( $shippingAddress ) ? null : $shippingAddress['country'],
+			'shippingAddressCountryCode' => is_null( $shippingAddress ) ? null : $shippingAddress['country_code'],
+			'shippingAddressZip' => is_null( $shippingAddress ) ? null : $shippingAddress['zip'],
+			'created' => date( self::DATE_FORMAT_DATABASE, $paymentIntent->created ),
+			'livemode' => $paymentIntent->livemode,
+			'formId' => $donationFormModel->getForm()->donationFormID,
+			'formType' => MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			'formName' => $donationFormModel->getForm()->name,
+			'ipAddressSubmit' => $donationFormModel->getIpAddress(),
+			'customFields' => $donationFormModel->getCustomFieldsJSON(),
+			'phoneNumber' => empty( $donationFormModel->getCardHolderPhone() ) ? null : $donationFormModel->getCardHolderPhone()
+		];
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_donations', apply_filters( 'fullstripe_insert_donation_data', $data ) );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( ! isset( $lastCharge->payment_intent ) ) {
+			return $insertResult;
+		}
+
+		$report = $this->getReportByPaymentIntentID( $lastCharge->payment_intent );
+
+		if ( $report ) {
+			$this->updateReport( $report->id, [
+				'updated_at'            => date( 'Y-m-d H:i:s', time() ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		} else {
+			$this->addReport( [
+				'created_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'updated_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'formId'                => $data['formId'] ?? null,
+				'formType'              => $data['formType'] ?? null,
+				'stripePaymentIntentID' => $data['stripePaymentIntentID'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'stripeSubscriptionID'  => $data['stripeSubscriptionID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		}
+
+		return $insertResult;
+	}
+
+	/**
+	 * @param MM_WPFS_Public_DonationFormModel $donationFormModel
+	 * @param \StripeWPFS\Stripe\PaymentIntent $paymentIntent
+	 * @param \StripeWPFS\Stripe\Subscription $subscription
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	public function insertCheckoutDonation( $donationFormModel, $paymentIntent, $subscription, $lastCharge ) {
+		global $wpdb;
+
+		$stripeCustomerID = $donationFormModel->getStripeCustomer()->id;
+		$stripeSubscriptionID = $donationFormModel->isRecurringDonation() ? $subscription->id : null;
+		$subscriptionStatus = $donationFormModel->isRecurringDonation() ? $subscription->status : null;
+		$billingAddress = $donationFormModel->getBillingAddress();
+		$shippingAddress = $donationFormModel->getShippingAddress();
+
+		$description = $this->getTruncatedDescriptionFromPaymentIntent( $paymentIntent );
+		$data = [
+			'stripeCustomerID' => $stripeCustomerID,
+			'stripeSubscriptionID' => $stripeSubscriptionID,
+			'stripePaymentIntentID' => $paymentIntent->id,
+			'stripeSetupIntentID' => $donationFormModel->getStripeSetupIntentId(),
+			'stripePlanID' => $donationFormModel->isRecurringDonation() ? $subscription->plan->id : null,
+			'description' => $description,
+			'paymentMethod' => 'card',
+			'paid' => $lastCharge->paid,
+			'captured' => $lastCharge->captured,
+			'refunded' => $lastCharge->refunded,
+			'expired' => false,
+			'failureCode' => $lastCharge->failure_code,
+			'failureMessage' => $lastCharge->failure_message,
+			'lastChargeStatus' => $lastCharge->status,
+			'currency' => $paymentIntent->currency,
+			'amount' => $paymentIntent->amount,
+			'donationFrequency' => $donationFormModel->getDonationFrequency(),
+			'subscriptionStatus' => $subscriptionStatus,
+			'name' => $donationFormModel->getCardHolderName(),
+			'email' => $donationFormModel->getCardHolderEmail(),
+			'billingName' => $donationFormModel->getBillingName(),
+			'addressLine1' => is_null( $billingAddress ) ? null : $billingAddress['line1'],
+			'addressLine2' => is_null( $billingAddress ) ? null : $billingAddress['line2'],
+			'addressCity' => is_null( $billingAddress ) ? null : $billingAddress['city'],
+			'addressState' => is_null( $billingAddress ) ? null : $billingAddress['state'],
+			'addressCountry' => is_null( $billingAddress ) ? null : $billingAddress['country'],
+			'addressCountryCode' => is_null( $billingAddress ) ? null : $billingAddress['country_code'],
+			'addressZip' => is_null( $billingAddress ) ? null : $billingAddress['zip'],
+			'shippingName' => $donationFormModel->getShippingName(),
+			'shippingAddressLine1' => is_null( $shippingAddress ) ? null : $shippingAddress['line1'],
+			'shippingAddressLine2' => is_null( $shippingAddress ) ? null : $shippingAddress['line2'],
+			'shippingAddressCity' => is_null( $shippingAddress ) ? null : $shippingAddress['city'],
+			'shippingAddressState' => is_null( $shippingAddress ) ? null : $shippingAddress['state'],
+			'shippingAddressCountry' => is_null( $shippingAddress ) ? null : $shippingAddress['country'],
+			'shippingAddressCountryCode' => is_null( $shippingAddress ) ? null : $shippingAddress['country_code'],
+			'shippingAddressZip' => is_null( $shippingAddress ) ? null : $shippingAddress['zip'],
+			'created' => date( self::DATE_FORMAT_DATABASE, $paymentIntent->created ),
+			'livemode' => $paymentIntent->livemode,
+			'formId' => $donationFormModel->getForm()->checkoutDonationFormID,
+			'formType' => MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			'formName' => $donationFormModel->getForm()->name,
+			'ipAddressSubmit' => $donationFormModel->getIpAddress(),
+			'customFields' => $donationFormModel->getCustomFieldsJSON(),
+			'phoneNumber' => empty( $donationFormModel->getCardHolderPhone() ) ? null : $donationFormModel->getCardHolderPhone()
+		];
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_donations', apply_filters( 'fullstripe_insert_checkout_donation_data', $data ) );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( ! isset( $lastCharge->payment_intent ) ) {
+			return $insertResult;
+		}
+
+		$report = $this->getReportByPaymentIntentID( $lastCharge->payment_intent );
+
+		if ( $report ) {
+			$this->updateReport( $report->id, [
+				'updated_at'            => date( 'Y-m-d H:i:s', time() ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		} else {
+			$this->addReport( [
+				'created_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'updated_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'formId'                => $data['formId'] ?? null,
+				'formType'              => $data['formType'] ?? null,
+				'stripePaymentIntentID' => $data['stripePaymentIntentID'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'stripeSubscriptionID'  => $data['stripeSubscriptionID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		}
+
+		return $insertResult;
+	}
+
+	protected function getTruncatedDescriptionFromPaymentIntent( $paymentIntent ) {
+		$description = isset( $paymentIntent->description ) && ! empty( $paymentIntent->description ) ? $paymentIntent->description : '';
+
+		return MM_WPFS_Utils::truncateString( $description, 255 );
+	}
+
+	/**
+	 * @param $paymentFormModel MM_WPFS_Public_PaymentFormModel
+	 * @param $transactionData MM_WPFS_PaymentTransactionData
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function insertOrUpdatePayment( $paymentFormModel, $transactionData, $lastCharge ) {
+		global $wpdb;
+
+		/** @var \StripeWPFS\Stripe\PaymentIntent */
+		$paymentIntent = $paymentFormModel->getStripePaymentIntent();
+		$billingAddress = $paymentFormModel->getBillingAddress( false );
+		$shippingAddress = $paymentFormModel->getShippingAddress( false );
+		$description = $this->getTruncatedDescriptionFromPaymentIntent( $paymentIntent );
+		$paymentMethodType = $paymentFormModel->getStripePaymentMethodType() ? $paymentFormModel->getStripePaymentMethodType() : 'card';
+
+		$data = [
+			'eventID' => $paymentIntent->id,
+			'description' => $description,
+			'payment_method' => $paymentMethodType,
+			'paid' => $lastCharge->paid,
+			'captured' => $lastCharge->captured,
+			'refunded' => $lastCharge->refunded,
+			'expired' => false,
+			'failure_code' => $lastCharge->failure_code,
+			'failure_message' => $lastCharge->failure_message,
+			'livemode' => $paymentIntent->livemode,
+			'last_charge_status' => $lastCharge->status,
+			'currency' => $paymentIntent->currency,
+			'amount' => $paymentIntent->amount,
+			'fee' => ( isset( $paymentIntent->application_fee_amount ) && ! is_null( $paymentIntent->application_fee_amount ) ) ? $paymentIntent->application_fee_amount : 0,
+			'priceId' => $paymentFormModel->getPriceId(),
+			'coupon' => empty( $transactionData->getCouponCode() ) ? null : $transactionData->getCouponCode(),
+			'billingName' => $paymentFormModel->getBillingName(),
+			'addressLine1' => $billingAddress['line1'],
+			'addressLine2' => $billingAddress['line2'],
+			'addressCity' => $billingAddress['city'],
+			'addressState' => $billingAddress['state'],
+			'addressCountry' => $billingAddress['country'],
+			'addressCountryCode' => $billingAddress['country_code'],
+			'addressZip' => $billingAddress['zip'],
+			'shippingName' => $paymentFormModel->getShippingName(),
+			'shippingAddressLine1' => $shippingAddress['line1'],
+			'shippingAddressLine2' => $shippingAddress['line2'],
+			'shippingAddressCity' => $shippingAddress['city'],
+			'shippingAddressState' => $shippingAddress['state'],
+			'shippingAddressCountry' => $shippingAddress['country'],
+			'shippingAddressCountryCode' => $shippingAddress['country_code'],
+			'shippingAddressZip' => $shippingAddress['zip'],
+			'created' => date( self::DATE_FORMAT_DATABASE, $paymentIntent->created ),
+			'stripeCustomerID' => $paymentFormModel->getStripeCustomer() ? $paymentFormModel->getStripeCustomer()->id : null,
+			'name' => $paymentFormModel->getCardHolderName(),
+			'email' => $paymentFormModel->getCardHolderEmail(),
+			'formId' => MM_WPFS_Utils::getFormId( $paymentFormModel->getForm() ),
+			'formType' => MM_WPFS::FORM_TYPE_PAYMENT,
+			'formName' => $paymentFormModel->getFormName(),
+			'ipAddressSubmit' => $paymentFormModel->getIpAddress(),
+			'customFields' => $paymentFormModel->getCustomFieldsJSON(),
+			'phoneNumber' => empty( $paymentFormModel->getCardHolderPhone() ) ? null : $paymentFormModel->getCardHolderPhone()
+		];
+		// see if a payment with the same event ID already exists
+		$existingPayment = $wpdb->get_row(
+			$wpdb->prepare(
+				"SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE eventID=%s",
+				$paymentIntent->id
+			)
+		);
+		$result = null;
+		if ( $existingPayment ) {
+			// if exists update
+			$result = $wpdb->update(
+				$wpdb->prefix . 'fullstripe_payments',
+				apply_filters( 'fullstripe_update_payment_data', $data ),
+				[ 'eventID' => $paymentIntent->id ]
+			);
+			self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during update!' );
+
+		} else {
+			// if not insert
+			$result = $wpdb->insert( $wpdb->prefix . 'fullstripe_payments', apply_filters( 'fullstripe_insert_payment_data', $data ) );
+			self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during insert!' );
+		}
+
+		if ( ! isset( $lastCharge->payment_intent ) ) {
+			return $result;
+		}
+
+		$report = $this->getReportByPaymentIntentID( $lastCharge->payment_intent );
+
+		if ( $report ) {
+			$this->updateReport( $report->id, [
+				'updated_at'            => date( 'Y-m-d H:i:s', time() ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		} else {
+			$this->addReport( [
+				'created_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'updated_at'            => date( 'Y-m-d H:i:s', $lastCharge->created ),
+				'currency'              => $data['currency'] ?? null,
+				'amount'                => $data['amount'] ?? null,
+				'formId'                => $data['formId'] ?? null,
+				'formType'              => MM_WPFS_Utils::getFormType( $paymentFormModel->getForm() ),
+				'stripePaymentIntentID' => $data['eventID'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'status'                => $this->getPaymentStatus( $lastCharge ),
+				'mode'				    => $lastCharge->livemode ? 'live' : 'test',
+			] );
+		}
+
+		return $result;
+	}
+
+	/**
+	 * @param $subscriptionFormModel MM_WPFS_Public_SubscriptionFormModel
+	 * @param $transactionData MM_WPFS_SubscriptionTransactionData
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function insertSubscriber( $subscriptionFormModel, $transactionData ) {
+		$stripeCustomer = $subscriptionFormModel->getStripeCustomer();
+		$stripeSubscription = $subscriptionFormModel->getStripeSubscription();
+		$stripePaymentIntent = $subscriptionFormModel->getStripePaymentIntent();
+		$stripeSetupIntent = $subscriptionFormModel->getStripeSetupIntent();
+
+		$billingAddress = $subscriptionFormModel->getBillingAddress( false );
+		$shippingAddress = $subscriptionFormModel->getShippingAddress( false );
+
+		$planId = isset( $stripeSubscription->plan ) ? $stripeSubscription->plan->id : null;
+
+		if ( $stripeSubscription->items->total_count > 1 && isset( $stripeSubscription->items->data[0]->plan ) ) {
+			$planId = $stripeSubscription->items->data[0]->plan->id;
+		}
+
+		$data = [
+			'stripeCustomerID' => $stripeCustomer->id,
+			'stripeSubscriptionID' => $transactionData->getTransactionId(),
+			'stripePaymentIntentID' => isset( $stripePaymentIntent ) ? $stripePaymentIntent->id : null,
+			'stripeSetupIntentID' => isset( $stripeSetupIntent ) ? $stripeSetupIntent->id : null,
+			'chargeMaximumCount' => $subscriptionFormModel->getCancellationCount(),
+			'chargeCurrentCount' => 0,
+			'invoiceCreatedCount' => 0,
+			'status' => MM_WPFS::SUBSCRIBER_STATUS_INCOMPLETE,
+			'name' => $subscriptionFormModel->getCardHolderName(),
+			'email' => $stripeCustomer->email,
+			'planID' => $planId,
+			'quantity' => $stripeSubscription->quantity,
+			'coupon' => empty( $transactionData->getCouponCode() ) ? null : $transactionData->getCouponCode(),
+			'billingName' => $subscriptionFormModel->getBillingName(),
+			'addressLine1' => $billingAddress['line1'],
+			'addressLine2' => $billingAddress['line2'],
+			'addressCity' => $billingAddress['city'],
+			'addressState' => $billingAddress['state'],
+			'addressCountry' => $billingAddress['country'],
+			'addressCountryCode' => $billingAddress['country_code'],
+			'addressZip' => $billingAddress['zip'],
+			'shippingName' => $subscriptionFormModel->getShippingName(),
+			'shippingAddressLine1' => $shippingAddress['line1'],
+			'shippingAddressLine2' => $shippingAddress['line2'],
+			'shippingAddressCity' => $shippingAddress['city'],
+			'shippingAddressState' => $shippingAddress['state'],
+			'shippingAddressCountry' => $shippingAddress['country'],
+			'shippingAddressCountryCode' => $shippingAddress['country_code'],
+			'shippingAddressZip' => $shippingAddress['zip'],
+			'created' => date( self::DATE_FORMAT_DATABASE, $stripeSubscription->created ),
+			'livemode' => $stripeCustomer->livemode,
+			'formId' => MM_WPFS_Utils::getFormId( $subscriptionFormModel->getForm() ),
+			'formName' => $subscriptionFormModel->getForm()->name,
+			'ipAddressSubmit' => $subscriptionFormModel->getIpAddress(),
+			'customFields' => $subscriptionFormModel->getCustomFieldsJSON(),
+			'phoneNumber' => empty( $subscriptionFormModel->getCardHolderPhone() ) ? null : $subscriptionFormModel->getCardHolderPhone()
+		];
+
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_subscribers', apply_filters( 'fullstripe_insert_subscriber_data', $data ) );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( ! isset( $data['stripePaymentIntentID'] ) ) {
+			return $insertResult;
+		}
+
+		$report = $this->getReportByPaymentIntentID( $data['stripePaymentIntentID'] ?? null );
+
+		if ( $report ) {
+			$this->updateReport( $report->id, [
+				'updated_at'            => date( 'Y-m-d H:i:s', time() ),
+				'formId'                => $data['formId'] ?? null,
+				'formType'              => MM_WPFS_Utils::getFormType( $subscriptionFormModel->getForm() ),
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'status'                => 'succeeded',
+				'mode'				    => $stripeSubscription->livemode ? 'live' : 'test',
+			] );
+		} else {
+			$this->addReport( [
+				'created_at'            => date( 'Y-m-d H:i:s', $stripeSubscription->created ),
+				'updated_at'            => date( 'Y-m-d H:i:s', $stripeSubscription->created ),
+				'formId'                => $data['formId'] ?? null,
+				'formType'              => MM_WPFS_Utils::getFormType( $subscriptionFormModel->getForm() ),
+				'stripePaymentIntentID' => $data['stripePaymentIntentID'] ?? null,
+				'stripeCustomerID'      => $data['stripeCustomerID'] ?? null,
+				'stripeSubscriptionID'  => $data['stripeSubscriptionID'] ?? null,
+				'status'                => 'succeeded',
+				'mode'				    => $stripeSubscription->livemode ? 'live' : 'test',
+			] );
+		}
+
+		return $insertResult;
+	}
+
+	/**
+	 * @param $stripePaymentIntentId
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionByPaymentIntentToRunning( $stripePaymentIntentId ) {
+		global $wpdb;
+		$queryResult = $wpdb->query(
+			$wpdb->prepare(
+				"UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s WHERE stripePaymentIntentID=%s",
+				MM_WPFS::SUBSCRIBER_STATUS_RUNNING,
+				$stripePaymentIntentId
+			)
+		);
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSetupIntentId
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionBySetupIntentToRunning( $stripeSetupIntentId ) {
+		global $wpdb;
+		$queryResult = $wpdb->query(
+			$wpdb->prepare(
+				"UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s WHERE stripeSetupIntentID=%s",
+				MM_WPFS::SUBSCRIBER_STATUS_RUNNING,
+				$stripeSetupIntentId
+			)
+		);
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $id
+	 * @param $subscriber
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function updateSubscriber( $id, $subscriber ) {
+		global $wpdb;
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_subscribers', $subscriber, [ 'subscriberID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	public function insertInlineSubscriptionForm( $form ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_subscription_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	public function updateInlineSubscriptionForm( $id, $form ) {
+		global $wpdb;
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_subscription_forms', $form, [ 'subscriptionFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @param $form
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function insertCheckoutSubscriptionForm( $form ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_checkout_subscription_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '()): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	/**
+	 * @param $id
+	 * @param $form
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateCheckoutSubscriptionForm( $id, $form ) {
+		global $wpdb;
+		unset( $form['stripeElementsTheme'] );
+		unset( $form['stripeElementsFont'] );
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_checkout_subscription_forms', $form, [ 'checkoutSubscriptionFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function insertInlinePaymentForm( $form ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_payment_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert.' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function insertCheckoutPaymentForm( $form ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_checkout_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert.' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function insertInlineDonationForm( $form ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_donation_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert.' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function insertCheckoutDonationForm( $form ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_checkout_donation_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert.' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function updateInlineDonationForm( $id, $form ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_donation_forms', $form, [ 'donationFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function updateCheckoutDonationForm( $id, $form ) {
+		global $wpdb;
+		unset( $form['stripeElementsTheme'] );
+		unset( $form['stripeElementsFont'] );
+
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_checkout_donation_forms', $form, [ 'checkoutDonationFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+
+	/**
+	 *
+	 * @param $id
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function updateInlinePaymentForm( $id, $form ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_payment_forms', $form, [ 'paymentFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 *
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function insert_checkout_form( $form ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_checkout_forms', $form );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 * @param $form
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function updateCheckoutPaymentForm( $id, $form ) {
+		global $wpdb;
+		unset( $form['stripeElementsTheme'] );
+		unset( $form['stripeElementsFont'] );
+		unset( $form['paymentMethods'] );
+		file_put_contents( 'checout.json', json_encode( $form, JSON_PRETTY_PRINT ) );
+
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_checkout_forms', $form, [ 'checkoutFormID' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteInlinePaymentForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_payment_forms WHERE paymentFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteInlineDonationForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_donation_forms WHERE paymentFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteCheckoutDonationForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_checkout_donation_forms WHERE paymentFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteInlineSubscriptionForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_subscription_forms WHERE subscriptionFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteCheckoutPaymentForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE checkoutFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	function deleteCheckoutSubscriptionForm( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms WHERE checkoutSubscriptionFormID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	function cancelSubscription( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s WHERE subscriberID=%d", MM_WPFS::SUBSCRIBER_STATUS_CANCELLED, $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	function cancelDonationByDonationId( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_donations SET subscriptionStatus=%s WHERE donationID=%d", MM_WPFS::SUBSCRIBER_STATUS_CANCELLED, $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	function deleteSubscriptionById( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_subscribers WHERE subscriberID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function cancelSubscriptionByStripeSubscriptionId( $stripeSubscriptionID ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s,cancelled=NOW() WHERE stripeSubscriptionID=%s", MM_WPFS::SUBSCRIBER_STATUS_CANCELLED, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function cancelDonationByStripeSubscriptionId( $stripeSubscriptionID ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_donations SET subscriptionStatus=%s,cancelled=NOW() WHERE stripeSubscriptionID=%s", MM_WPFS::SUBSCRIBER_STATUS_CANCELLED, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @param $newQuantity
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionPlanByStripeSubscriptionId( $stripeSubscriptionID, $newPlanId ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET planID=%s WHERE stripeSubscriptionID=%s", $newPlanId, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @param $newQuantity
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionPlanAndQuantityByStripeSubscriptionId( $stripeSubscriptionID, $newPlanId, $newQuantity ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET planID=%s, quantity=%d WHERE stripeSubscriptionID=%s", $newPlanId, $newQuantity, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function endSubscription( $stripeSubscriptionID ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s,cancelled=NOW() WHERE stripeSubscriptionID=%s", MM_WPFS::SUBSCRIBER_STATUS_ENDED, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionWithInvoice( $stripeSubscriptionID ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET invoiceCreatedCount=invoiceCreatedCount + 1 WHERE stripeSubscriptionID=%s", $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function updateSubscriberWithInvoiceAndEvent( $stripeSubscriptionID, $processedStripeEventIDs ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET invoiceCreatedCount=invoiceCreatedCount + 1, processedStripeEventIDs=%s WHERE stripeSubscriptionID=%s", $processedStripeEventIDs, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+
+	/**
+	 * @param $stripeSubscriptionID
+	 * @param $processedStripeEventIDs
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriberWithPaymentAndEvent( $stripeSubscriptionID, $processedStripeEventIDs ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET chargeCurrentCount=chargeCurrentCount+1, processedStripeEventIDs=%s WHERE stripeSubscriptionID=%s", $processedStripeEventIDs, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $stripeSubscriptionID
+	 * @param $processedStripeEventIDs
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriberWithEvent( $stripeSubscriptionID, $processedStripeEventIDs ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET processedStripeEventIDs=%s WHERE stripeSubscriptionID=%s", $processedStripeEventIDs, $stripeSubscriptionID ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $submitHash
+	 * @param $relatedStripeEventIDs
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updatePopupFormSubmitWithEvent( $submitHash, $relatedStripeEventIDs ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_checkout_form_submit SET relatedStripeEventIDs=%s WHERE hash=%s", $relatedStripeEventIDs, $submitHash ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $subscriptionId
+	 * @param $planId
+	 * @param $chargeMaxCount
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionPlanAndCounters( $subscriptionId, $planId, $chargeMaxCount ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_subscribers SET planID=%s, chargeMaximumCount=%s, chargeCurrentCount=0, invoiceCreatedCount=0 WHERE stripeSubscriptionID=%s", $planId, $chargeMaxCount, $subscriptionId ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deletePayment( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_payments WHERE paymentID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 * @throws Exception
+	 */
+	function deleteDonation( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_donations WHERE donationID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	////////////////////////////////////////////////////////////////////////////////////////////
+
+	function deleteSavedCard( $id ) {
+		global $wpdb;
+		$queryResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_card_captures WHERE captureID=%d", $id ) );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $queryResult;
+	}
+
+	function getInlineSaveCardFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_payment_forms where customAmount='card_capture';", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying inline save card forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlinePaymentFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payment_forms WHERE paymentFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlinePaymentFormById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payment_forms WHERE paymentFormID=%s", $id ), OBJECT );
+	}
+
+	/**
+	 *
+	 * @param $name
+	 *
+	 * @return mixed
+	 */
+	function getInlinePaymentFormByName( $name ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payment_forms  WHERE name=%s", $name ) );
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getInlinePaymentFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_payment_forms where customAmount != 'card_capture';", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying inline payment forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlineSubscriptionFormById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscription_forms WHERE subscriptionFormID=%s", $id ), OBJECT );
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlineSubscriptionFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscription_forms WHERE subscriptionFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 *
+	 * @param $name
+	 *
+	 * @return mixed
+	 */
+	function getInlineSubscriptionFormByName( $name ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscription_forms  WHERE name=%s", $name ) );
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getInlineSubscriptionFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_subscription_forms;", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying inline subscription forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $formId
+	 *
+	 * @return array|null|object|void
+	 */
+	public function getCheckoutSubscriptionFormById( $formId ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms WHERE checkoutSubscriptionFormID=%d", $formId ) );
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getCheckoutSubscriptionFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms WHERE checkoutSubscriptionFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 * @param $formName
+	 *
+	 * @return mixed
+	 */
+	public function getCheckoutPaymentFormByName( $formName ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE name=%s", $formName ) );
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return array|null
+	 */
+	public function getCheckoutPaymentFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE checkoutFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 * @param $id
+	 * @return object|null
+	 */
+	public function getCheckoutPaymentFormById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE checkoutFormID=%s", $id ), OBJECT );
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getCheckoutPaymentFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_checkout_forms where customAmount != 'card_capture';", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying checkout payment forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getCheckoutSaveCardFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_checkout_forms where customAmount='card_capture';", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying checkout save card forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @param $formName
+	 *
+	 * @return array|null|object|void
+	 */
+	public function getCheckoutSubscriptionFormByName( $formName ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms WHERE name=%s", $formName ) );
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getCheckoutSubscriptionFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_checkout_subscription_forms;", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying checkout subscription forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlineDonationFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donation_forms WHERE donationFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getInlineDonationFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_donation_forms;", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying inline donation forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 * @return array|object|null
+	 *
+	 * @throws Exception
+	 */
+	function getCheckoutDonationFormsAsArray() {
+		global $wpdb;
+
+		$queryResult = $wpdb->get_results( "SELECT * from {$wpdb->prefix}fullstripe_checkout_donation_forms;", ARRAY_A );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during querying checkout donation forms!' );
+
+		return $queryResult;
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getInlineDonationFormById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donation_forms WHERE donationFormID=%s", $id ), OBJECT );
+	}
+
+	/**
+	 * @param $formName
+	 *
+	 * @return array|null|object|void
+	 */
+	public function getInlineDonationFormByName( $formName ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donation_forms WHERE name=%s", $formName ) );
+	}
+
+	/**
+	 *
+	 * @param $id
+	 *
+	 * @return mixed
+	 */
+	function getCheckoutDonationFormAsArrayById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_donation_forms WHERE checkoutDonationFormID=%s", $id ), ARRAY_A );
+	}
+
+	/**
+	 * @param $formName
+	 *
+	 * @return array|null|object|void
+	 */
+	public function getCheckoutDonationFormByName( $formName ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_donation_forms WHERE name=%s", $formName ) );
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return array|object|void|null
+	 */
+	public function getCheckoutDonationFormById( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_donation_forms WHERE checkoutDonationFormID=%s", $id ) );
+	}
+
+	/**
+	 *
+	 * @param $email
+	 * @param $livemode
+	 *
+	 * @return null
+	 */
+	public function get_customer_id_from_payments( $email, $livemode ) {
+		global $wpdb;
+		$id = null;
+		$payment = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE email=%s AND livemode=%s", $email, $livemode ? '1' : '0' ) );
+		if ( $payment ) {
+			// if no ID set, will be set to null.
+			$id = $payment->stripeCustomerID;
+		}
+
+		return $id;
+	}
+
+	/**
+	 *
+	 * search payments and subscribers table for existing customer
+	 *
+	 * @param $email
+	 * @param $livemode
+	 *
+	 * @return null
+	 */
+	public function find_existing_stripe_customer_by_email( $email, $livemode ) {
+		global $wpdb;
+		$subscriber = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE email=%s AND livemode=%s", $email, $livemode ? '1' : '0' ), ARRAY_A );
+		if ( $subscriber ) {
+			$subscriber['is_subscriber'] = true;
+
+			return $subscriber;
+		} else {
+			$payment = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE email=%s AND livemode=%s", $email, $livemode ? '1' : '0' ), ARRAY_A );
+			if ( $payment ) {
+				$subscriber['is_subscriber'] = false;
+
+				return $payment;
+			}
+		}
+
+		return null;
+	}
+
+	/**
+	 *
+	 * return customers from the payment and subscriber tables where the email address and the mode match
+	 *
+	 * @param $email
+	 * @param $livemode
+	 *
+	 * @return array
+	 */
+	public function getExistingStripeCustomersByEmail( $email, $livemode ) {
+		global $wpdb;
+
+		$subscribers = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE UPPER(email)=%s AND livemode=%s GROUP BY StripeCustomerID;", strtoupper( $email ), $livemode ? '1' : '0' ), ARRAY_A );
+		$donors = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donations WHERE UPPER(email)=%s AND livemode=%s GROUP BY StripeCustomerID;", strtoupper( $email ), $livemode ? '1' : '0' ), ARRAY_A );
+		$payees = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE UPPER(email)=%s AND livemode=%s GROUP BY StripeCustomerID;", strtoupper( $email ), $livemode ? '1' : '0' ), ARRAY_A );
+		$cards = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_card_captures WHERE UPPER(email)=%s AND livemode=%s GROUP BY StripeCustomerID;", strtoupper( $email ), $livemode ? '1' : '0' ), ARRAY_A );
+
+		$result = array_merge( $subscribers, $donors, $payees, $cards );
+
+		return $result;
+	}
+
+	/**
+	 * @param $id
+	 *
+	 * @return array|null|object|void
+	 */
+	public function findSubscriberById( $id ) {
+		global $wpdb;
+		$subscription = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE subscriberID=%d", $id ) );
+
+		return $subscription;
+	}
+
+	/**
+	 * @param $stripePaymentIntentId
+	 *
+	 * @return array|null|object|void
+	 */
+	public function findSubscriberByPaymentIntentId( $stripePaymentIntentId ) {
+		global $wpdb;
+		$subscription = $wpdb->get_row(
+			$wpdb->prepare(
+				"SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE stripePaymentIntentId=%s",
+				$stripePaymentIntentId
+			)
+		);
+
+		return $subscription;
+	}
+
+	/**
+	 * @param $stripeSetupIntentId
+	 *
+	 * @return array|null|object|void
+	 */
+	public function findSubscriberBySetupIntentId( $stripeSetupIntentId ) {
+		global $wpdb;
+		$subscription = $wpdb->get_row(
+			$wpdb->prepare(
+				"SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE stripeSetupIntentId=%s",
+				$stripeSetupIntentId
+			)
+		);
+
+		return $subscription;
+	}
+
+	/**
+	 * @param $stripeSubscriptionId
+	 *
+	 * @return array|null|object|void
+	 */
+	public function getSubscriptionByStripeSubscriptionId( $stripeSubscriptionId ) {
+		global $wpdb;
+		$subscription = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_subscribers WHERE stripeSubscriptionID=%s", $stripeSubscriptionId ) );
+
+		return $subscription;
+	}
+
+	/**
+	 * @param $paymentFormModel MM_WPFS_Public_PaymentFormModel
+	 * @param $transactionData MM_WPFS_SaveCardTransactionData
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function insertSavedCard( $paymentFormModel, $transactionData ) {
+		global $wpdb;
+
+		/** @var $stripeCustomer \StripeWPFS\Stripe\Customer */
+		$stripeCustomer = $paymentFormModel->getStripeCustomer();
+
+		$billingAddress = $paymentFormModel->getBillingAddress( false );
+		$shippingAddress = $paymentFormModel->getShippingAddress( false );
+
+		$data = [
+			'livemode' => $stripeCustomer->livemode,
+			'billingName' => $paymentFormModel->getBillingName(),
+			'addressLine1' => $billingAddress['line1'],
+			'addressLine2' => $billingAddress['line2'],
+			'addressCity' => $billingAddress['city'],
+			'addressState' => $billingAddress['state'],
+			'addressCountry' => $billingAddress['country'],
+			'addressCountryCode' => $billingAddress['country_code'],
+			'addressZip' => $billingAddress['zip'],
+			'shippingName' => $paymentFormModel->getShippingName(),
+			'shippingAddressLine1' => $shippingAddress['line1'],
+			'shippingAddressLine2' => $shippingAddress['line2'],
+			'shippingAddressCity' => $shippingAddress['city'],
+			'shippingAddressState' => $shippingAddress['state'],
+			'shippingAddressCountry' => $shippingAddress['country'],
+			'shippingAddressCountryCode' => $shippingAddress['country_code'],
+			'shippingAddressZip' => $shippingAddress['zip'],
+			'created' => date( self::DATE_FORMAT_DATABASE, $stripeCustomer->created ),
+			'stripeCustomerID' => $stripeCustomer->id,
+			'name' => $paymentFormModel->getCardHolderName(),
+			'email' => $stripeCustomer->email,
+			'formId' => MM_WPFS_Utils::getFormId( $paymentFormModel->getForm() ),
+			'formType' => MM_WPFS::FORM_TYPE_PAYMENT,
+			'formName' => $paymentFormModel->getFormName(),
+			'ipAddressSubmit' => $paymentFormModel->getIpAddress(),
+			'customFields' => $paymentFormModel->getCustomFieldsJSON()
+		];
+
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_card_captures', apply_filters( 'fullstripe_insert_card_data', $data ) );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	/**
+	 * Insert card update session
+	 *
+	 * @param $email
+	 * @param $liveMode
+	 * @param $stripeCustomerId
+	 * @param $cardUpdateSessionHash
+	 *
+	 * @return int -1 when insert failed, the inserted record id otherwise
+	 * @throws Exception
+	 */
+	public function insertCustomerPortalSession( $email, $liveMode, $stripeCustomerId, $cardUpdateSessionHash ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( "{$wpdb->prefix}fullstripe_card_update_session", [
+			'hash' => $cardUpdateSessionHash,
+			'email' => $email,
+			'liveMode' => $liveMode,
+			'stripeCustomerId' => $stripeCustomerId,
+			'created' => current_time( 'mysql' ),
+			'status' => MM_WPFS_CustomerPortalService::SESSION_STATUS_WAITING_FOR_CONFIRMATION
+		] );
+
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( $insertResult === false ) {
+			return -1;
+		}
+
+		return $wpdb->insert_id;
+	}
+
+	/**
+	 * @param string $hash
+	 * @param string $formHash
+	 * @param string $formType
+	 * @param string $referrer
+	 * @param string $postData JSON
+	 * @param boolean $liveMode
+	 *
+	 * @return int
+	 * @throws Exception
+	 */
+	public function insertCheckoutFormSubmit( $hash, $formHash, $formType, $referrer, $postData, $liveMode ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( "{$wpdb->prefix}fullstripe_checkout_form_submit", [
+			'hash' => $hash,
+			'formHash' => $formHash,
+			'formType' => $formType,
+			'referrer' => $referrer,
+			'postData' => $postData,
+			'liveMode' => $liveMode,
+			'created' => current_time( 'mysql' ),
+			'status' => MM_WPFS_CheckoutSubmissionService::POPUP_FORM_SUBMIT_STATUS_CREATED
+		]
+		);
+
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( $insertResult === false ) {
+			return -1;
+		}
+
+		return $wpdb->insert_id;
+	}
+
+	/**
+	 * @param $hash
+	 *
+	 * @return array|null|object|void
+	 */
+	public function findPopupFormSubmitByHash( $hash ) {
+		global $wpdb;
+
+		$popupFormSubmit = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_checkout_form_submit WHERE hash=%s", $hash ) );
+
+		return $popupFormSubmit;
+	}
+
+	/**
+	 * @param boolean $liveMode
+	 * @param null $limit
+	 *
+	 * @return array|null|object
+	 */
+	public function find_popup_form_submits( $liveMode, $limit = null ) {
+		global $wpdb;
+
+		if ( is_null( $limit ) ) {
+			$popupFormSubmits = $wpdb->get_results(
+				$wpdb->prepare(
+					"SELECT * FROM {$wpdb->prefix}fullstripe_checkout_form_submit WHERE liveMode=%d AND status<>%s",
+					$liveMode,
+					MM_WPFS_CheckoutSubmissionService::POPUP_FORM_SUBMIT_STATUS_INTERNAL_ERROR
+				)
+			);
+		} else {
+			$popupFormSubmits = $wpdb->get_results(
+				$wpdb->prepare(
+					"SELECT * FROM {$wpdb->prefix}fullstripe_checkout_form_submit WHERE liveMode=%d AND status<>%s LIMIT %d",
+					$liveMode,
+					MM_WPFS_CheckoutSubmissionService::POPUP_FORM_SUBMIT_STATUS_INTERNAL_ERROR,
+					$limit
+				)
+			);
+		}
+
+		return $popupFormSubmits;
+	}
+
+	/**
+	 * @param array $idsToDelete
+	 *
+	 * @return int
+	 */
+	public function delete_popup_form_submits_by_id( $idsToDelete ) {
+		global $wpdb;
+
+		$whereStatement = ' WHERE id IN (' . implode( ', ', array_fill( 0, sizeof( $idsToDelete ), '%s' ) ) . ')';
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_checkout_form_submit" . $whereStatement, $idsToDelete ) ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @param $status
+	 * @param array $idsToUpdate
+	 *
+	 * @return int
+	 * @throws Exception
+	 */
+	public function update_popup_form_submits_with_status_by_id( $status, $idsToUpdate ) {
+		global $wpdb;
+
+		$whereStatement = ' WHERE id IN (' . implode( ', ', array_fill( 0, sizeof( $idsToUpdate ), '%s' ) ) . ')';
+		$updateResult = $wpdb->query(
+			$wpdb->prepare(
+				"UPDATE {$wpdb->prefix}fullstripe_checkout_form_submit SET status=%s" . $whereStatement,array_merge( [ $status ], $idsToUpdate ) // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+			)
+		);
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @param $popupFormSubmitHash
+	 * @param $data
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function update_popup_form_submit_by_hash( $popupFormSubmitHash, $data ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->update( "{$wpdb->prefix}fullstripe_checkout_form_submit", $data, [ 'hash' => $popupFormSubmitHash ] );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @param $cardUpdateSessionId
+	 * @param $data
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function updateCustomerPortalSession( $cardUpdateSessionId, $data ) {
+
+		global $wpdb;
+
+		$updateResult = $wpdb->update( "{$wpdb->prefix}fullstripe_card_update_session", $data, [ 'id' => $cardUpdateSessionId ] );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function findCustomerPortalSessionByHash( $cardUpdateSessionHash ) {
+		global $wpdb;
+
+		$cardUpdateSession = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_card_update_session WHERE hash=%s", $cardUpdateSessionHash ) );
+
+		return $cardUpdateSession;
+	}
+
+	public function findCustomerPortalSessionsByEmailAndCustomer( $email, $stripeCustomerId ) {
+		global $wpdb;
+
+		$cardUpdateSession = $wpdb->get_results(
+			$wpdb->prepare(
+				"SELECT * FROM {$wpdb->prefix}fullstripe_card_update_session WHERE email=%s AND stripeCustomerId=%s",
+				$email,
+				$stripeCustomerId
+			)
+		);
+
+		return $cardUpdateSession;
+	}
+
+	public function findCustomerPortalSessionsById( $cardUpdateSessionId ) {
+		global $wpdb;
+
+		$cardUpdateSession = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_card_update_session WHERE id=%s", $cardUpdateSessionId ) );
+
+		return $cardUpdateSession;
+	}
+
+	public function insert_security_code( $cardUpdateSessionId, $securityCode ) {
+		global $wpdb;
+
+		$insertResult = $wpdb->insert( "{$wpdb->prefix}fullstripe_security_code", [
+			'sessionId' => $cardUpdateSessionId,
+			'securityCode' => $securityCode,
+			'created' => current_time( 'mysql' ),
+			'status' => MM_WPFS_CustomerPortalService::SECURITY_CODE_STATUS_PENDING
+		] );
+
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		if ( $insertResult === false ) {
+			return -1;
+		}
+
+		return $wpdb->insert_id;
+
+	}
+
+	public function find_security_codes_by_session( $sessionId ) {
+		global $wpdb;
+
+		return $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_security_code WHERE sessionId=%d", $sessionId ) );
+
+	}
+
+	public function find_security_code_by_session_and_code( $sessionId, $securityCode ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_security_code WHERE sessionId=%d AND securityCode=%s", $sessionId, $securityCode ) );
+
+	}
+
+	public function updateSecurityCode( $securityCodeId, $data ) {
+
+		global $wpdb;
+
+		$updateResult = $wpdb->update( "{$wpdb->prefix}fullstripe_security_code", $data, [ 'id' => $securityCodeId ] );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function incrementSecurityCodeInput( $cardUpdateSessionId ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_card_update_session SET securityCodeInput=securityCodeInput+1 WHERE id=%d", $cardUpdateSessionId ) );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function increment_security_code_request( $cardUpdateSessionId ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_card_update_session SET securityCodeRequest=securityCodeRequest+1 WHERE id=%d", $cardUpdateSessionId ) );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '%s: an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function invalidateExpiredCustomerPortalSessions( $validUntilHour ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_card_update_session SET status=%s WHERE created < DATE_SUB(NOW(), INTERVAL %d HOUR)", MM_WPFS_CustomerPortalService::SESSION_STATUS_INVALIDATED, $validUntilHour ) );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function invalidateCustomerPortalSessionsBySecurityCodeRequestLimit( $securityCodeRequestLimit ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_card_update_session SET status=%s WHERE securityCodeRequest >= %d", MM_WPFS_CustomerPortalService::SESSION_STATUS_INVALIDATED, $securityCodeRequestLimit ) );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function invalidateCustomerPortalSessionsBySecurityCodeInputLimit( $securityCodeInputLimit ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "UPDATE {$wpdb->prefix}fullstripe_card_update_session SET status=%s WHERE securityCodeInput >= %d", MM_WPFS_CustomerPortalService::SESSION_STATUS_INVALIDATED, $securityCodeInputLimit ) );
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	public function findInvalidatedCustomerPortalSessionIds() {
+		global $wpdb;
+
+		$cardUpdateSessionIds = $wpdb->get_results( $wpdb->prepare( "SELECT id FROM {$wpdb->prefix}fullstripe_card_update_session WHERE status=%s", MM_WPFS_CustomerPortalService::SESSION_STATUS_INVALIDATED ) );
+
+		return $cardUpdateSessionIds;
+	}
+
+	public function deleteSecurityCodesBySessions( $invalidatedSessionIds ) {
+		global $wpdb;
+
+		$whereStatement = ' WHERE sessionId IN (' . implode( ', ', array_fill( 0, sizeof( $invalidatedSessionIds ), '%s' ) ) . ')';
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_security_code" . $whereStatement, $invalidatedSessionIds ) ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $updateResult;
+	}
+
+	public function deleteInvalidatedCustomerPortalSessions( $invalidatedSessionIds ) {
+		global $wpdb;
+
+		$whereStatement = ' WHERE id IN (' . implode( ', ', array_fill( 0, sizeof( $invalidatedSessionIds ), '%s' ) ) . ')';
+
+		$updateResult = $wpdb->query( $wpdb->prepare( "DELETE FROM {$wpdb->prefix}fullstripe_card_update_session" . $whereStatement, $invalidatedSessionIds ) ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during delete!' );
+
+		return $updateResult;
+	}
+
+	public function getPayment( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE paymentID=%d", $id ) );
+	}
+
+	public function getSavedCard( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_card_captures WHERE captureID=%d", $id ) );
+	}
+
+	public function getPaymentByEventId( $eventId ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_payments WHERE eventID=%s", $eventId ) );
+	}
+
+	public function updatePaymentByEventId( $event_id, $data ) {
+		global $wpdb;
+
+		$update_result = $wpdb->update( "{$wpdb->prefix}fullstripe_payments", $data, [ 'eventID' => $event_id ] );
+
+		self::handleDbError( $update_result, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $update_result;
+	}
+
+	public function getDonation( $id ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donations WHERE donationID=%d", $id ) );
+	}
+
+	public function getDonationByStripeSubscriptionId( $stripeSubscriptionId ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donations WHERE stripeSubscriptionID=%s", $stripeSubscriptionId ) );
+	}
+
+	public function getDonationByPaymentIntentId( $paymentIntentId ) {
+		global $wpdb;
+
+		return $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_donations WHERE stripePaymentIntentID=%s", $paymentIntentId ) );
+	}
+
+	public function updateDonationByPaymentIntentId( $paymentIntentId, $data ) {
+		global $wpdb;
+
+		$update_result = $wpdb->update( "{$wpdb->prefix}fullstripe_donations", $data, [ 'stripePaymentIntentID' => $paymentIntentId ] );
+
+		self::handleDbError( $update_result, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $update_result;
+	}
+
+	/**
+	 * @param string $stripeSubscriptionId
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function updateSubscriptionToRunning( $stripeSubscriptionId ) {
+		global $wpdb;
+		$queryResult = $wpdb->query(
+			$wpdb->prepare(
+				"UPDATE {$wpdb->prefix}fullstripe_subscribers SET status=%s WHERE stripeSubscriptionID=%s",
+				MM_WPFS::SUBSCRIBER_STATUS_RUNNING,
+				$stripeSubscriptionId
+			)
+		);
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $queryResult;
+	}
+
+
+	/**
+	 * @return array|null
+	 */
+	public function getAllForms() {
+		global $wpdb;
+
+		$result = array_merge(
+			$this->getInlinePaymentFormsForList(),
+			$this->getCheckoutPaymentFormsForList(),
+			$this->getInlineSubscriptionFormsForList(),
+			$this->getCheckoutSubscriptionFormsForList(),
+			$this->getInlineDonationFormsForList(),
+			$this->getCheckoutDonationFormsForList(),
+			$this->getInlineSaveCardFormsForList(),
+			$this->getCheckoutSaveCardFormsForList()
+		);
+
+		return $result;
+	}
+
+	private function getInlinePaymentFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.paymentFormID as id,
+                'payment' as type,
+                'inline' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_payments 
+                    where form.paymentFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_payment_forms form
+                WHERE
+                customAmount != 'card_capture'
+
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getCheckoutPaymentFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.checkoutFormID as id,
+                'payment' as type,
+                'checkout' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_payments
+                    where form.checkoutFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_checkout_forms form
+                WHERE
+                customAmount != 'card_capture'
+
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getInlineSubscriptionFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.subscriptionFormID as id,
+                'subscription' as type,
+                'inline' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_subscribers 
+                    where form.subscriptionFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_subscription_forms form
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getCheckoutSubscriptionFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.checkoutSubscriptionFormID as id,
+                'subscription' as type,
+                'checkout' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_subscribers 
+                    where form.checkoutSubscriptionFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_checkout_subscription_forms form
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getInlineDonationFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT 
+                donationFormID as id,
+                'donation' as type,
+                'inline' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_donations 
+                    where form.donationFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_donation_forms form
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getCheckoutDonationFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT 
+                checkoutDonationFormID as id,
+                'donation' as type,
+                'checkout' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_donations 
+                    where form.checkoutDonationFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_checkout_donation_forms form
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getInlineSaveCardFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.paymentFormID as id,
+                'save_card' as type,
+                'inline' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_card_captures 
+                    where form.paymentFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_payment_forms form
+                WHERE
+                customAmount = 'card_capture'
+
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	private function getCheckoutSaveCardFormsForList() {
+		global $wpdb;
+
+		$result = $wpdb->get_results( "
+            SELECT
+                form.checkoutFormID as id,
+                'save_card' as type,
+                'checkout' as layout,
+                form.name as name,
+                form.displayName as displayName,
+                (
+                    select max(created) 
+                    from {$wpdb->prefix}fullstripe_card_captures 
+                    where form.checkoutFormID = formId AND form.name = formName
+                ) as created
+            FROM
+                {$wpdb->prefix}fullstripe_checkout_forms form
+            WHERE
+                customAmount = 'card_capture'
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @param $module
+	 * @param $class
+	 * @param $function
+	 * @param $level
+	 * @param $message
+	 * @param $exceptionStackTrace
+	 *
+	 * @return false|int
+	 * @throws Exception
+	 */
+	public function insertLog( $module, $class, $function, $level, $message, $exceptionStackTrace ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert(
+			"{$wpdb->prefix}fullstripe_log",
+			[
+				'created' => current_time( 'mysql' ),
+				'module' => $module,
+				'class' => $class,
+				'function' => $function,
+				'level' => $level,
+				'message' => substr( $message, 0, 512 ),
+				'exception' => $exceptionStackTrace
+			]
+		);
+
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	public function findLogs() {
+
+	}
+
+	public function getFormIdsByName( $name ) {
+		global $wpdb;
+
+		$inlinePaymentForms = $wpdb->get_results( $wpdb->prepare( "SELECT paymentFormID as id FROM {$wpdb->prefix}fullstripe_payment_forms WHERE name=%s;", $name ), ARRAY_A );
+		$checkoutPaymentForms = $wpdb->get_results( $wpdb->prepare( "SELECT checkoutFormID FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE name=%s;", $name ), ARRAY_A );
+		$inlineSubscriptionForms = $wpdb->get_results( $wpdb->prepare( "SELECT subscriptionFormID FROM {$wpdb->prefix}fullstripe_subscription_forms WHERE name=%s;", $name ), ARRAY_A );
+		$checkoutSubscriptionForms = $wpdb->get_results( $wpdb->prepare( "SELECT checkoutSubscriptionFormID FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms WHERE name=%s;", $name ), ARRAY_A );
+		$inlineDonationForms = $wpdb->get_results( $wpdb->prepare( "SELECT donationFormID FROM {$wpdb->prefix}fullstripe_donation_forms WHERE name=%s;", $name ), ARRAY_A );
+		$checkoutDonationForms = $wpdb->get_results( $wpdb->prepare( "SELECT checkoutDonationFormID FROM {$wpdb->prefix}fullstripe_checkout_donation_forms WHERE name=%s;", $name ), ARRAY_A );
+
+		$result = array_merge( $inlinePaymentForms, $checkoutPaymentForms,
+			$inlineSubscriptionForms, $checkoutSubscriptionForms,
+			$inlineDonationForms, $checkoutDonationForms );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfOneTimePayments() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "SELECT count(*) as paymentCount FROM {$wpdb->prefix}fullstripe_payments;", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfOneTimePaymentForms() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "
+            SELECT SUM(formCount) as formCount FROM (
+	            SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_payment_forms WHERE customAmount != 'card_capture'
+	            union all
+	            SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE customAmount != 'card_capture'
+            ) as x;
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfSubscriptions() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "SELECT count(*) as subscriptionCount FROM {$wpdb->prefix}fullstripe_subscribers;", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfSubscriptionForms() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "
+            SELECT SUM(formCount) as formCount FROM (
+                SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_subscription_forms
+                union all
+                SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms
+            ) as x;
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfDonations() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "SELECT count(*) as donationCount FROM {$wpdb->prefix}fullstripe_donations;", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return int
+	 * @throws Exception
+	 */
+	public function getTotalDonationsByFormId( $formId, $formType ) {
+		global $wpdb;
+
+		$result = $wpdb->get_var( $wpdb->prepare( "SELECT sum(amount) FROM {$wpdb->prefix}fullstripe_donations WHERE formId=%d AND formType=%s AND lastChargeStatus='succeeded' AND refunded=0;", $formId, $formType ) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result ? (int) $result : 0;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfDonationForms() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "
+            SELECT SUM(formCount) as formCount FROM (
+                SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_donation_forms
+                union all
+                SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_checkout_donation_forms
+            ) as x;
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfSavedCards() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "SELECT count(*) as savedCardCount FROM {$wpdb->prefix}fullstripe_card_captures;", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfSaveCardForms() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "
+            SELECT SUM(formCount) as formCount FROM (
+	            SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_payment_forms WHERE customAmount = 'card_capture'
+	            union all
+	            SELECT count(*) as formCount FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE customAmount = 'card_capture'
+            ) as x;
+        ", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * Get the number of payments by method.
+	 * 
+	 * @param $method
+	 *
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfPaymentsByMethod( $method ) {
+		$cacheKey = self::TRANSIENT_KEY_PREFIX . 'getNumberOfPaymentsByMethod_' . $method;
+		$cache    = get_transient( $cacheKey );
+
+		if ( $cache !== false ) {
+			return $cache;
+		}
+
+		switch ( $method ) {
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_TAB_PAYMENTS:
+				$result = ( $this->getNumberOfOneTimePayments() )->paymentCount;
+				break;
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_TAB_SUBSCRIPTIONS:
+				$result = ( $this->getNumberOfSubscriptions() )->subscriptionCount;
+				break;
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_TAB_DONATIONS:
+				$result = ( $this->getNumberOfDonations() )->donationCount;
+				break;
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_TAB_SAVED_CARDS:
+				$result = ( $this->getNumberOfSavedCards() )->savedCardCount;
+				break;
+			default:
+				$result = null;
+		}
+
+		$cacheTime = $result > 100 ? WEEK_IN_SECONDS : MINUTE_IN_SECONDS;
+		set_transient( $cacheKey, $result, $cacheTime );
+
+		return $result;
+	}
+
+	/**
+	 * @param $query
+	 *
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getResults( $query ) {
+		global $wpdb;
+
+		$result = $wpdb->get_results( $query, OBJECT ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @param $query
+	 *
+	 * @return bool|int
+	 * @throws Exception
+	 */
+	public function runQuery( $query ) {
+		global $wpdb;
+
+		$result = $wpdb->query( $query ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @return array
+	 */
+	public function getOneTimePaymentFormNames(): array {
+		global $wpdb;
+
+		$inlineForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_payment_forms WHERE customAmount != 'card_capture';", OBJECT );
+		$checkoutForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE customAmount != 'card_capture';", OBJECT );
+
+		$result = array_merge( $inlineForms, $checkoutForms );
+
+		return $result;
+	}
+
+	/**
+	 * @return array
+	 */
+	public function getSaveCardFormNames(): array {
+		global $wpdb;
+
+		$inlineForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_payment_forms WHERE customAmount = 'card_capture';", OBJECT );
+		$checkoutForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_checkout_forms WHERE customAmount = 'card_capture';", OBJECT );
+
+		$result = array_merge( $inlineForms, $checkoutForms );
+
+		return $result;
+	}
+
+	/**
+	 * @return array
+	 */
+	public function getSubscriptionFormNames(): array {
+		global $wpdb;
+
+		$inlineForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_subscription_forms;", OBJECT );
+		$checkoutForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_checkout_subscription_forms;", OBJECT );
+
+		$result = array_merge( $inlineForms, $checkoutForms );
+
+		return $result;
+	}
+
+	/**
+	 * @return array
+	 */
+	public function getDonationFormNames(): array {
+		global $wpdb;
+
+		$inlineForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_donation_forms;", OBJECT );
+		$checkoutForms = $wpdb->get_results( "SELECT name, displayName FROM {$wpdb->prefix}fullstripe_checkout_donation_forms;", OBJECT );
+
+		$result = array_merge( $inlineForms, $checkoutForms );
+
+		return $result;
+	}
+
+	/**
+	 * @return string
+	 */
+	public function getDatabasePrefix() {
+		global $wpdb;
+
+		return $wpdb->prefix;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateInlineSubscriptionFormSelectorListStyle() {
+		global $wpdb;
+
+		$updateResult = $wpdb->update(
+			"{$wpdb->prefix}fullstripe_subscription_forms",
+			[
+				'planSelectorStyle' => 'radio-buttons'
+			],
+			[
+				'planSelectorStyle' => 'list'
+			]
+		);
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateCheckoutSubscriptionFormSelectorListStyle() {
+		global $wpdb;
+
+		$updateResult = $wpdb->update(
+			"{$wpdb->prefix}fullstripe_checkout_subscription_forms",
+			[
+				'planSelectorStyle' => 'radio-buttons'
+			],
+			[
+				'planSelectorStyle' => 'list'
+			]
+		);
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateInlinePaymentFormTaxDefaultSettings( $taxTypeDefault, $taxRateDefault ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->update(
+			"{$wpdb->prefix}fullstripe_payment_forms",
+			[
+				'vatRateType' => $taxTypeDefault,
+				'vatRates' => $taxRateDefault
+			],
+			[
+				'vatRateType' => NULL
+			]
+		);
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateCheckoutPaymentFormTaxDefaultSettings( $taxTypeDefault, $taxRateDefault ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->update(
+			"{$wpdb->prefix}fullstripe_checkout_forms",
+			[
+				'vatRateType' => $taxTypeDefault,
+				'vatRates' => $taxRateDefault
+			],
+			[
+				'vatRateType' => NULL
+			]
+		);
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateInlineSubscriptionFormTaxDefaultSettings( $taxTypeDefault, $taxRateDefault ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare(
+			"UPDATE {$wpdb->prefix}fullstripe_subscription_forms SET vatRateType=%s, vatRates=%s WHERE vatRateType in (%s, %s, %s)",
+			$taxTypeDefault,
+			$taxRateDefault,
+			MM_WPFS::VAT_RATE_TYPE_NO_VAT,
+			MM_WPFS::VAT_RATE_TYPE_FIXED_VAT,
+			MM_WPFS::VAT_RATE_TYPE_CUSTOM_VAT ) );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateCheckoutSubscriptionFormTaxDefaultSettings( $taxTypeDefault, $taxRateDefault ) {
+		global $wpdb;
+
+		$updateResult = $wpdb->query( $wpdb->prepare(
+			"UPDATE {$wpdb->prefix}fullstripe_checkout_subscription_forms SET vatRateType=%s, vatRates=%s WHERE vatRateType in (%s, %s, %s)",
+			$taxTypeDefault,
+			$taxRateDefault,
+			MM_WPFS::VAT_RATE_TYPE_NO_VAT,
+			MM_WPFS::VAT_RATE_TYPE_FIXED_VAT,
+			MM_WPFS::VAT_RATE_TYPE_CUSTOM_VAT ) );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return bool|int
+	 *
+	 * @throws Exception
+	 */
+	public function updateInlineDonationFormDefaultProduct() {
+		global $wpdb;
+
+		$updateResult = $wpdb->update(
+			"{$wpdb->prefix}fullstripe_donation_forms",
+			[
+				'productDesc' => 'Donation'
+			],
+			[
+				'productDesc' => NULL
+			]
+		);
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * @return array|object|null
+	 * @throws Exception
+	 */
+	public function getNumberOfLogEntries() {
+		global $wpdb;
+
+		$result = $wpdb->get_row( "SELECT count(*) as logCount FROM {$wpdb->prefix}fullstripe_log;", OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	public function getLogEntries( $offset, $rowCount ) {
+		global $wpdb;
+
+		$result = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_log LIMIT %d, %d", $offset, $rowCount ), OBJECT );
+
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	/**
+	 * @throws Exception
+	 */
+	function deleteLogs() {
+		global $wpdb;
+		$queryResult = $wpdb->query( 'DELETE FROM ' . $wpdb->prefix . 'fullstripe_log;' );
+		self::handleDbError( $queryResult, __FUNCTION__ . '(): an error occurred during delete!' );
+	}
+
+	/**
+	 * Adds a new report to the database.
+	 *
+	 * @param array $data An associative array of data to insert into the report.
+	 * @return int|false The number of rows inserted, or false on error.
+	 */
+	public function addReport( $data ) {
+		global $wpdb;
+		$insertResult = $wpdb->insert( $wpdb->prefix . 'fullstripe_reports', $data );
+		self::handleDbError( $insertResult, __FUNCTION__ . '(): an error occurred during insert!' );
+
+		return $insertResult;
+	}
+
+	/**
+	 * Updates an existing report in the database.
+	 *
+	 * @param int $id The ID of the report to update.
+	 * @param array $data An associative array of data to update in the report.
+	 * @return int|false The number of rows updated, or false on error.
+	 */
+	public function updateReport( $id, $data ) {
+		global $wpdb;
+		$updateResult = $wpdb->update( $wpdb->prefix . 'fullstripe_reports', $data, [ 'id' => $id ] );
+		self::handleDbError( $updateResult, __FUNCTION__ . '(): an error occurred during update!' );
+
+		return $updateResult;
+	}
+
+	/**
+	 * Retrieves a report by payment intent from the database.
+	 *
+	 * @param string $paymentIntent The paymentIntent of the report to retrieve.
+	 * @return object|null The report object, or null if not found.
+	 */
+	public function getReportByPaymentIntentID( $paymentIntent ) {
+		global $wpdb;
+		$report = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->prefix}fullstripe_reports WHERE stripePaymentIntentID=%s", $paymentIntent ), OBJECT );
+		self::handleDbError( $report, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $report;
+	}
+
+	/**
+	 * Get payment status by charge.
+	 *
+	 * @param object $charge The charge object.
+	 * @return string The payment status.
+	 */
+	public function getPaymentStatus( $charge ) {
+		if ( $charge->status !== 'succeeded' ) {
+			return $charge->status;
+		}
+
+		if ( $charge->amount_refunded > 0 ) {
+			return ( $charge->amount_refunded < $charge->amount ) ? 'partially_refunded' : 'refunded';
+		}
+
+		return 'succeeded';
+	}
+
+	public function getFormNameByReport( $payment ) {
+		$id     = $payment->formId;
+		$type   = $payment->formType;
+		$method = 'get' . str_replace( '_', '', ucwords( $type, '_' ) ) . 'FormById';
+	
+		if ( ! method_exists( $this, $method ) ) {
+			return '-';
+		}
+	
+		return $this->$method( $id )->displayName;
+	}
+
+	public function getTotalDonationAmount( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT sum(amount) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		$amount = MM_WPFS_Currencies::format_amount_with_currency( $currency, ( $result ? (int) $result : 0 ) );
+
+		return $amount;
+	}
+
+	public function getTotalNumberOfDonations( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT count(*) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result ? (int) $result : 0;
+	}
+
+	public function getAverageDonationAmount( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT avg(amount) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		$amount = MM_WPFS_Currencies::format_amount_with_currency( $currency, ( $result ? (int) $result : 0 ) );
+
+		return $amount;
+	}
+
+	public function getDonations( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS, $number = 10 ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_results( $wpdb->prepare(
+			"SELECT * FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s) AND status='succeeded' AND mode=%s ORDER BY created_at DESC LIMIT %d;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			MM_WPFS_Utils::getMode(),
+			$number,
+		), OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	public function getTopDoners( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS, $number = 10 ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_results( $wpdb->prepare(
+			"SELECT stripeCustomerID, currency, sum(amount) as total, avg(amount) as average FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s) AND status='succeeded' AND mode=%s GROUP BY stripeCustomerID ORDER BY total DESC LIMIT %d;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_DONATION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_DONATION,
+			MM_WPFS_Utils::getMode(),
+			$number,
+		), OBJECT );
+
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	public function getTotalRevenueAmount( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT sum(amount) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		$amount = MM_WPFS_Currencies::format_amount_with_currency( $currency, ( $result ? (int) $result : 0 ) );
+
+		return $amount;
+	}
+
+	public function getAverageTransactionAmount( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT avg(amount) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		$amount = MM_WPFS_Currencies::format_amount_with_currency( $currency, ( $result ? (int) $result : 0 ) );
+
+		return $amount;
+	}
+
+	public function getTotalNumberOfPayments( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT count(*) FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode()
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+		return $result ? (int) $result : 0;
+	}
+
+	public function getTotalActiveSubscriptions( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT count(*) FROM {$wpdb->prefix}fullstripe_subscribers WHERE created >= %s AND created < %s AND status='running' AND livemode=%s;",
+			$periodStart,
+			$periodEnd,
+			MM_WPFS_Utils::isLiveMode() ? 1 : 0
+		) );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result ? (int) $result : 0;
+	}
+
+	public function getPayments( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS, $number = 10 ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_results( $wpdb->prepare(
+			"SELECT * FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s ORDER BY created_at DESC LIMIT %d;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode(),
+			$number,
+		), OBJECT );
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	public function getTopCustomers( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS, $number = 10 ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$result = $wpdb->get_results( $wpdb->prepare(
+			"SELECT stripeCustomerID, currency, sum(amount) as total, avg(amount) as average FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s GROUP BY stripeCustomerID ORDER BY total DESC LIMIT %d;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode(),
+			$number,
+		), OBJECT );
+
+		self::handleDbError( $result, __FUNCTION__ . '(): an error occurred during select!' );
+
+		return $result;
+	}
+
+	public function getRevenueAndSalesData( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$interval = new DateInterval('P1D');
+		$start = new DateTime($periodStart);
+		$end = new DateTime($periodEnd);
+		$end->add($interval);
+		$period = new DatePeriod($start, $interval, $end);
+
+		$dates = [];
+		foreach ($period as $date) {
+			$dates[$date->format('Y-m-d')] = (object) ['date' => $date->format('Y-m-d'), 'revenue' => 0, 'sales' => 0];
+		}
+		$revenueAndSalesData = $wpdb->get_results( $wpdb->prepare(
+			"SELECT DATE(created_at) as date, formId, formType, sum(amount) as revenue, count(*) as sales FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='succeeded' AND mode=%s GROUP BY date, formId, formType ORDER BY date ASC;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode()
+		), OBJECT );
+
+		self::handleDbError( $revenueAndSalesData, __FUNCTION__ . '(): an error occurred during select!' );
+
+		// Merge the results with the dates array
+		foreach ( $revenueAndSalesData as $data ) {
+			if ( ! isset( $dates[ $data->date ]->details ) ) {
+				$dates[ $data->date ]->details = [];
+			}
+			$dates[ $data->date ]->revenue += $data->revenue;
+			$dates[ $data->date ]->sales += $data->sales;
+			$dates[ $data->date ]->details[] = $data;
+		}
+
+		return array_values($dates);
+	}
+
+	public function getRefundsData( $currency = MM_WPFS::CURRENCY_USD, $period = MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS ) {
+		global $wpdb;
+
+		list( $periodStart, $periodEnd ) = array_values( self::getPeriod( $period ) );
+
+		$interval = new DateInterval('P1D');
+		$start = new DateTime($periodStart);
+		$end = new DateTime($periodEnd);
+		$end->add($interval);
+		$period = new DatePeriod($start, $interval, $end);
+
+		$dates = [];
+		foreach ($period as $date) {
+			$dates[$date->format('Y-m-d')] = (object) ['date' => $date->format('Y-m-d'), 'refunds' => 0, 'refund_count' => 0];
+		}
+
+		$refundsData = $wpdb->get_results( $wpdb->prepare(
+			"SELECT DATE(created_at) as date, sum(amount) as refunds, count(*) as refund_count FROM {$wpdb->prefix}fullstripe_reports WHERE created_at >= %s AND created_at < %s AND currency=%s AND formType IN (%s, %s, %s, %s) AND status='refunded' AND mode=%s GROUP BY date ORDER BY date ASC;",
+			$periodStart,
+			$periodEnd,
+			$currency,
+			MM_WPFS::FORM_TYPE_INLINE_PAYMENT,
+			MM_WPFS::FORM_TYPE_CHECKOUT_PAYMENT,
+			MM_WPFS::FORM_TYPE_INLINE_SUBSCRIPTION,
+			MM_WPFS::FORM_TYPE_CHECKOUT_SUBSCRIPTION,
+			MM_WPFS_Utils::getMode()
+		), OBJECT );
+
+		self::handleDbError( $refundsData, __FUNCTION__ . '(): an error occurred during select!' );
+
+		// Merge the results with the dates array
+		foreach ($refundsData as $data) {
+			$dates[$data->date] = $data;
+		}
+
+		return array_values($dates);
+	}
+
+	public function getMostUsedCurrency() {
+		global $wpdb;
+
+		$result = $wpdb->get_var( $wpdb->prepare(
+			"SELECT currency FROM ( SELECT currency FROM {$wpdb->prefix}fullstripe_reports WHERE mode=%s ORDER BY created_at DESC LIMIT 50 ) as latest GROUP BY currency ORDER BY COUNT(*) DESC LIMIT 1", MM_WPFS_Utils::getMode()
+		) );
+
+		return $result ? $result : MM_WPFS::CURRENCY_USD;
+	}
+
+	public static function getPeriod( $period ) {
+		$start = null;
+		$end   = null;
+
+		if ( is_array( $period ) ) {
+			$start = date( 'Y-m-d 00:00:00', strtotime( $period['start'] ) );
+			$end   = date( 'Y-m-d 23:59:59', strtotime( $period['end'] ) );
+		
+			return [
+				'start' => $start,
+				'end'   => $end
+			];
+		}
+		
+		switch ( $period ) {
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_TODAY:
+				$start = date( 'Y-m-d 00:00:00', strtotime( 'today' ) );
+				$end   = date( 'Y-m-d 23:59:59', strtotime( 'today' ) );
+				break;
+				
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_YESTERDAY:
+				$start = date( 'Y-m-d 00:00:00', strtotime( 'yesterday' ) );
+				$end   = date( 'Y-m-d 23:59:59', strtotime( 'yesterday' ) );
+				break;
+				
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_7_DAYS:
+				$start = date( 'Y-m-d H:i:s', strtotime( '-7 days' ) );
+				$end   = date( 'Y-m-d H:i:s', strtotime( 'now' ) );
+				break;
+				
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_30_DAYS:
+				$start = date( 'Y-m-d H:i:s', strtotime( '-30 days' ) );
+				$end   = date( 'Y-m-d H:i:s', strtotime( 'now' ) );
+				break;
+				
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_THIS_MONTH:
+				$start = date( 'Y-m-01 00:00:00' );
+				$end   = date( 'Y-m-d 23:59:59', strtotime( 'last day of this month' ) );
+				break;
+				
+			case MM_WPFS_Admin_Menu::PARAM_VALUE_RANGE_LAST_MONTH:
+				$start = date( 'Y-m-01 00:00:00', strtotime( 'first day of last month' ) );
+				$end   = date( 'Y-m-t 23:59:59', strtotime( 'last day of last month' ) );
+				break;
+		}
+		
+		return [
+			'start' => $start,
+			'end'   => $end
+		];
+	}
+}

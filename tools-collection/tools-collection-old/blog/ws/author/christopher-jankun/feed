@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Christopher Jankun, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/christopher-jankun/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 15 Dec 2023 19:53:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Christopher Jankun, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Supercharge Your PPC Performance Using LinkedIn Audiences</title>
+		<link>https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences#respond</comments>
+		
+		<dc:creator><![CDATA[Christopher Jankun]]></dc:creator>
+		<pubDate>Fri, 09 Apr 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences/</guid>
+
+					<description><![CDATA[<p>LinkedIn audiences are one of the most powerful tools for high-performing Microsoft ads. In this post, you'll learn about the different types of LinkedIn audiences and what they entail, how to set them up for targeting in Microsoft Ads, and how to optimize your ads with bid adjustments.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences">How to Supercharge Your PPC Performance Using LinkedIn Audiences</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<p><span lang="EN">As we leave a year like no other behind us and transition into 2021, the goal for paid search advertisers remains the same: to reach the right audience at the right time and turn that click into a lead or sale. One of the best ways to do that is to start integrating the unique LinkedIn targeting audiences that Microsoft Advertising offers. </span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ae0c4709-f834-4ad0-b68e-928523d6079d" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linked-in-targeting-microsoft-ads-1.jpg" alt="linkedin targeting for microsoft ads" width="794" height="374" /></div>
+</article>
+</div>
+<p><span lang="EN">These advanced ways to collect data and target customers allow you to dive deeper into the company, industry, and even job title of the person clicking on your ads. </span></p>
+<p><span lang="EN">So that’s what I’ll be focusing on in this post. We’ll talk about: In this post, I’ll cover:</span></p>
+<ul>
+<li><span lang="EN">The different types of LinkedIn audiences and what they entail.</span></li>
+<li><span lang="EN">How to set them up for targeting in Microsoft Ads.</span></li>
+<li><span lang="EN"><a href="https://www.wordstream.com/blog/ws/2023/01/25/optimize-linkedin-ads">How to optimize your LinkedIn ads</a> once you’ve collected data.</span></li>
+</ul>
+<p><span lang="EN">I’ll also provide some real-life examples and data from my own experiences in PPC consulting. LinkedIn targeting will be one of your most important strategies moving forward and you will continue to see Microsoft Ads deliver you even greater performance.</span></p>
+<h2>LinkedIn audience types</h2>
+<p>Before I get into setting up your audiences for Microsoft Ads, let’s go over the three different LinkedIn audience types you can target.</p>
+<h3>1. Company</h3>
+<ul>
+<li><span lang="EN">Target users in specific companies.</span></li>
+<li><span lang="EN">Good for if you have a list of prospect names or high-converting organizations</span></li>
+<li><span lang="EN">Use to collect data and adjust.</span></li>
+</ul>
+<p><span lang="EN">With this first audience, advertisers can select from thousands of different companies. Operating off a search function, you’re able to type in a <a href="/blog/ws/2019/03/26/prospecting-strategies-ppc-agencies">prospective client</a> or business name and then add them into your data observation strategy.</span></p>
+<p><span lang="EN">The most important thing to note about this company audience, as well as the others, is that they are operating entirely under the assumption that people have their LinkedIn profiles up to date. So, for the company audience, Microsoft Ads would look for people who worked most recently at the companies you select and have that set under their LinkedIn profile. This particular audience type can be helpful if you have a list of prospective client names or if you know that your customers will likely come from whatever organization(s) you select.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d2fa85a2-3fd4-4a3c-bcbf-e80cea826e9d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linked-in-audiences-microsoft-ads-company-1.png" alt="linkedin audiences in microsoft ads—target by company" width="800" height="305" /></div>
+</article>
+</div>
+<p><span lang="EN">If you’re not 100% sure what companies you need to target, it can also just be a great way to start collecting data and observing the click traffic for a time before you make any adjustments. </span></p>
+<p><span lang="EN">My advice would be to start with businesses that you currently have on your prospect list, businesses in the target work sector you’re gearing your ads towards, or purely to collect data to utilize in the future.</span></p>
+<h3>2. Industry</h3>
+<ul>
+<li><span lang="EN">Target people in highly specific industries</span></li>
+<li><span lang="EN">Can help collect the most valuable clicks </span></li>
+<li><span lang="EN">Start with higher-level industries</span></li>
+</ul>
+<p><span lang="EN">Our second LinkedIn audience comes in the form of industry data. The industries you can select from are in the form of a pre-set list that Microsoft has in the campaign settings, but they can get extremely specific depending on how deep you dig into them. </span></p>
+<p><span lang="EN">I’ve personally found the industry audiences to be some of the most helpful for advertisers to take advantage of because <a href="/blog/ws/2014/09/18/beginners-guide-to-target-markets">knowing your target audience</a> and industry is at the foundation of not just PPC marketing, but your entire marketing strategy as a whole. </span></p>
+<p><span lang="EN">For example, I work with an ecommerce client who sells school &amp; office supplies. They understand that one of their biggest target audiences is the education sector. Through the industry audience section, we were able to first observe the <em>Higher Education, Research, eLearning, Education Management, and Primary/Secondary Education</em> audiences they offer and then optimize with bid adjustments after we recognized which was driving the most value and best return. </span></p>
+<p><span lang="EN">With a wide array of different industries to select from that include Energy &amp; Mining all the way to Wellness &amp; Fitness, these audiences can really help drill down into the <a href="https://www.wordstream.com/blog/ws/2017/10/03/most-valuable-keywords-high-ctr">most valuable clicks</a> out there on the Microsoft search network.</span></p>
+<p><span lang="EN">With industry audiences, I would recommend first identifying which higher-level industries will be your targets and then dive deeper into the more specific sub-categories under those to make your first selections.</span></p>
+<h3>3. Job function</h3>
+<ul>
+<li><span lang="EN">Target users of specific roles within their organization.</span></li>
+<li><span lang="EN">Helpful if you know who the decision-makers are in your target market.</span></li>
+<li><span lang="EN">Start with a broad range of roles, then refine accordingly. </span></li>
+</ul>
+<p><span lang="EN">The final type of audience that we can utilize is the job function. Bing describes this audience as a way to target people who perform certain job functions as defined by their <a href="https://www.wordstream.com/blog/ws/2021/03/17/generate-leads-linkedin">LinkedIn profile</a>. This particular audience is extremely helpful if you know what roles the decision-makers at your target companies tend to have.</span></p>
+<p><span lang="EN">For example, if when signing on a new customer, you tend to work with people in their finance department, then finance, accounting, and purchasing may be the more ideal audiences for you to select. Or let’s say you tend to work with customers that are more regularly in administrative-type roles. In that case, the administrative, human resources, and operations audiences would be the perfect ones for you.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0a6acd60-6f3c-4f51-80f8-e824704baafe" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linked-in-audiences-microsoft-ads-job-function-1.png" alt="linkedin audiences in microsoft ads—target by job function" width="800" height="363" /></div>
+</article>
+</div>
+<p><span lang="EN">At the end of the day, because you are solely collecting data in the beginning, I would recommend selecting as many as you feel are relevant and then optimizing once you have a solid one to two months’ worth of information to go off of. This could also be a great way for you to dive deeper into the <a href="/blog/ws/2020/09/02/linkedin-website-demographics">demographic make-up</a> of your ideal customer and collect data for job function audiences you may have not thought would normally be relevant.</span></p>
+<p><span lang="EN">On consulting calls, I generally advise people to use any combination of the following: program/project management, purchasing, operations, administrative, human resources, marketing, sales, and finance. Of course, if you identify any others that are even more entrenched in your specific industry, then be sure to add them in. It really is the more the merrier type of situation when adding these audiences because it will only allow you to collect and utilize more data and continue to get the best results from your Microsoft ads.</span></p>
+<blockquote><p><em><span lang="EN">When starting out, I generally advise people to target any combination of the following: program/project management, purchasing, operations, administrative, human resources, marketing, sales, and finance. </span></em></p></blockquote>
+<h2><span lang="EN">How to set up LinkedIn audiences in Microsoft Ads</span></h2>
+<p><span lang="EN">In this next section, I’m going to cover how to set up the LinkedIn audiences in your <a href="/blog/ws/2021/03/01/microsoft-ads-optimizations">Microsoft Ads account</a> (on both the campaign and ad group level). There are also several specific rules when setting up the audiences that I will cover to make the process for you as easy as possible, but let’s first start with the steps:</span></p>
+<ol>
+<li><span lang="EN">Log into your Microsoft Ads account</span></li>
+<li><span lang="EN">Click on the first campaign you’re adding LinkedIn audiences to</span></li>
+<li><span lang="EN">Click into the campaign’s settings</span></li>
+<li><span lang="EN">Scroll down to the Campaign targets section</span></li>
+<li><span lang="EN">Click Edit target categories and then select the ones you want to use (any combo of Company, Industry, or Job Function)</span></li>
+<li><span lang="EN">Scroll down to the very bottom of the Settings page</span></li>
+<li><span lang="EN">Under each category click Edit target and select from the different options available in each</span></li>
+<li><span lang="EN">Once you’ve selected them all click Done</span></li>
+<li><span lang="EN">After you’ve finished each category you’re going to use, click Save</span></li>
+<li><span lang="EN">Once saved, scroll back down into the settings to the new category sections and manually change all bid adjustments to 0%.</span></li>
+</ol>
+<h3><strong><span lang="EN">Selecting Your Audiences</span></strong></h3>
+<p><span lang="EN">We&#8217;ll first go through the basic steps, and then I&#8217;ll provide some best practices and important considerations.</span></p>
+<p><strong>Select your campaign and level of application</strong></p>
+<p><span lang="EN">When you first log into your account, the first thing you will need to decide is which campaign(s) you would like to start using them in and whether you want to add them on the campaign level or more granularly at the ad group level.</span></p>
+<p><span lang="EN">Unless you do have very specific ad groups set up that you anticipate would be more ideal to have set on that level, my suggestion would be just to add it at the campaign level. This will allow you to collect data much quicker and will also prevent you from running into any issues using these down the line.</span></p>
+<blockquote><p><em><span lang="EN">You can only select one level: campaign or ad group. My suggestion would be to go with campaign level. This will allow you to collect data quicker and also prevent you from running into any issues down the line.</span></em></p></blockquote>
+<p><span lang="EN">The one specific rule you need to be careful of is that you can only select one level: campaign or ad group. If you try to add audiences to the campaign level and then also to the ad group level, it will block you. In the reverse scenario, if you set some up for specific ad groups and then try to for the entire campaign, you will receive an error message. Campaign level allows you to collect information on a much bigger scale.</span></p>
+<p><strong><span lang="EN">Select your campaign targets</span></strong></p>
+<p><span lang="EN">Next, after you’ve selected your first campaign to add them to, you’ll want to click into the campaign’s settings. Once in the settings, you’ll want to scroll down to the section titled ‘Campaign targets’ and this is where you will select which of the three you’d like to use.</span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8df2c8a7-7d25-490d-bfd4-4d82bfc6b17e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linked-in-audiences-microsoft-ads-campaign-targets-1.png" alt="linkedin audiences in microsoft ads—campaign-targeting-options" width="800" height="448" /></div>
+</article>
+</div>
+<p><strong><span lang="EN">Select your categories</span></strong></p>
+<p><span lang="EN">Under campaign targets, you will then click “edit target categories.” You have the ability to utilize any combination of the three, but the two I see used more often are usually Industry and Job Function. I would suggest using as many as you feel are relevant to your business. </span></p>
+<p><span lang="EN">After you select your audience types, you’ll scroll down all the way to the bottom of the settings screen and will see the categories you’re going to use. Next to each, there will be a blue font button ‘Edit target’ that will then allow you to go in and select from the different options.</span></p>
+<h3><span lang="EN">Notes on selecting your audiences</span></h3>
+<p><span lang="EN">A few important notes on selecting your audiences:</span></p>
+<ul>
+<li><span lang="EN">The process for adding the three different types of audiences is exactly the same. You’ll click “edit target,” scroll through and select the ones you want to use, and then hit the ‘Done’ blue button when finished.  </span></li>
+<li><span lang="EN">One other important thing to also look out for is that when you click Done after selecting your audiences, you’ll need to hit the big blue ‘Save’ button. Unfortunately, if you don’t <strong>hit that final Save button</strong> and click away from the Settings screen, you will lose all your selected audiences and will have to repeat the process.</span></li>
+<li><span lang="EN">The final change to also be aware of is that once your audience categories are selected and you’ve successfully Saved them, there will automatically be a +15% bid adjustment applied to them. In the final section, we’ll discuss optimizing these audiences with bid adjustments, but for now,<strong> I would manually change that back to 0%</strong> so that it does not increase our bids just yet.</span></li>
+</ul>
+<h2><span lang="EN">Optimizing your audiences with bid adjustments</span></h2>
+<p><span lang="EN">Once you&#8217;ve set up your campaign with the selected audience, here&#8217;s what you can do to access its important data and apply it to further improve performance.</span></p>
+<h3>Allow time for data collection</h3>
+<p><span lang="EN">Now that you have your LinkedIn audiences selected and collecting data, the next step is to wait and give it time. Generally, with optimizing audiences, I would say that waiting at least two to four weeks minimum is important, but there are other factors that could affect that timeline. </span></p>
+<blockquote><p><em><span lang="EN">Waiting at least two to four weeks minimum is important, so you can really see which audiences are driving the most value.</span></em></p></blockquote>
+<p><span lang="EN">If you usually get a <a href="https://www.wordstream.com/blog/ws/2016/09/26/high-ctr-benefits">high number of clicks</a> in that particular campaign, then you may be able to analyze the data even sooner. I use four weeks as a rule of thumb because after a month, you can really see which ones are driving the most value. Of course, as you move forward advertising and using these audiences, more data makes it easier to make changes.</span></p>
+<h3>Access and organize your data</h3>
+<p><span lang="EN">Ok, you have your first month of data collected—now what? To access the data, you’ll first want to click into the campaign using the audiences and then click on the Demographics tab. You’ll notice that at the top of the page, it will have all the different demographic types listed out and you will then select whichever one you want to view first. </span></p>
+<p><span lang="EN">You may only see a few columns in regards to the type of data (clicks, impressions, etc.) so my suggestion would be to modify your columns and make sure you have all of the most <a href="https://www.wordstream.com/blog/ws/2020/12/03/underrated-youtube-metrics">important metrics</a> selected, such as clicks, impressions, cost, CPC, conversions, CPA, and any other conversion-related ones that are relevant.</span></p>
+<blockquote><p><em><span lang="EN">Modify your columns and make sure you have all of the most important metrics selected, such as clicks, impressions, cost, CPC, and more.</span></em></p></blockquote>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="094bb448-dd28-4f18-8aea-85c19c4f0f31" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linked-in-audiences-microsoft-ads-add-job-function-1.png" alt="linkedin audiences in microsoft ads—reporting columns example" width="800" height="295" /></div>
+</article>
+</div>
+<p><span lang="EN">In the industry section, for example, you’ll see each of the different industries you selected and the data they’ve collected. This optimization may vary depending on what metrics you hold to be most valuable and what your business’s goals are, but most likely you’ll want to use conversions, CPA, and conversion rate as your main three. You’re going to be looking to see:</span></p>
+<ul>
+<li><span lang="EN">Which industry drives the most conversions</span></li>
+<li><span lang="EN">Which has the lowest CPA, and</span></li>
+<li><span lang="EN">Which converts at the highest rate</span></li>
+</ul>
+<h3>Add bid adjustments</h3>
+<p><span lang="EN">Your next move will be to add bid adjustments to the audiences performing the best, based on those three metrics. By adding in a bid adjustment, you’re targeting your ads more towards those audiences in the hopes to <a href="/blog/ws/2014/08/14/increase-traffic-to-my-website">drive more traffic</a> and more value from them. </span></p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f0a892a8-1f5e-406e-ae77-82de3458cbcf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/linkedin-audiences-microsoft-ads-bid-adjustments-1.png" alt="linkedin audiences in microsoft ads—bid adjustments" width="800" height="292" /></div>
+</article>
+</div>
+<p><span lang="EN">On the flip side, if you notice there are certain audiences performing poorly and not <a href="https://www.wordstream.com/blog/ws/2019/01/22/conversion-rate-optimizations">converting</a> well, then you can also decrease your bid adjustment. This lessens the likelihood that your ads show to people in those audiences. As more time goes by and your data continues to grow, you can continue to add adjustments where you see fit and really drive the most value from your LinkedIn audiences and Microsoft Ads as possible.</span></p>
+<p><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AdWordsGrader_AWGrader"><span lang="EN">For even more ways to drive value, use our Free Google Ads Performance Grader to make sure you&#8217;re maximizing your results!</span></a></p>
+<h2>Drive high-value traffic with LinkedIn audience targeting</h2>
+<p><span lang="EN">Identifying business leads and opportunities can almost feel like a needle in a haystack situation. With the need to drive as much value from the traffic you’re getting, you must take advantage of all tools available, and now you know how to use one of the best ones out there: LinkedIn audiences! Some key things to remember are:</span></p>
+<ul>
+<li><span lang="EN">The targeting technology is operating entirely under the assumption that people have their LinkedIn profiles up to date. </span></li>
+<li>Always start broad with targeting options and then refine as you collect data.</li>
+<li>Give plenty of time for your campaigns to give enough data to make meaningful decisions.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences">How to Supercharge Your PPC Performance Using LinkedIn Audiences</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/04/09/linkedin-audiences/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>21 Essential Tips &#038; Tools for Running International Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads#respond</comments>
+		
+		<dc:creator><![CDATA[Christopher Jankun]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads/</guid>
+
+					<description><![CDATA[<p>This post covers the details and nuances you need to consider to build out an effective international advertising campaign. You'll learn about location and language targeting, scheduling tips, ad copy guidelines, and more optimizations to get the most out of your internationl PPC budget.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads">21 Essential Tips &amp; Tools for Running International Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Is it color or colour? What is the equivalent of a $20-a-day budget in rands? Is Germany six hours ahead of the United States or five?</p>
+<p>I have been consulting and helping businesses with their paid search marketing in the United Kingdom, South Africa, Germany, China, and many other countries for the past three years, and these are some of the everyday questions I get. Along with working directly with our international WordStream clients, I also have a handful of US-based companies that advertise in almost every country around the world.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20advertising20campaigns20around20the20world20.png" alt="international advertising campaigns around the world" width="800" height="347" /></div>
+<p>Whether you’re a startup expanding into a new international market for the first time, or have been in business for over 20 years and just want to grow your local presence, the paid search best practices remain the same, but there are certain details and strategies to pay extra attention to.</p>
+<p>In this post, I’m going to share <strong>21 strategies to help you ensure success with your international online advertising campaigns</strong>. I’ll provide:</p>
+<ul>
+<li>Tips and tools to properly target international locations and languages.</li>
+<li>Guidelines for keyword research and winning ad copy for international campaigns.</li>
+<li>Important considerations for time zones and ad scheduling.</li>
+<li>Effective strategies for building brand awareness in a new/international market.</li>
+</ul>
+<h2>Location targeting tips for international PPC ads</h2>
+<p>No matter what, it’s important to familiarize with the country you are targeting and it’s surrounding or associated countries. Your targeting strategy will also depend on what you are looking to achieve with your <a href="https://www.wordstream.com/blog/ws/2015/05/22/international-ppc-webinar">international PPC campaigns</a>.</p>
+<h3>1. Research the location</h3>
+<p>One of the biggest mistakes I see most often is that of advertisers targeting an entire new country, without having done any research into where exactly that encompasses. For example, many businesses in England will look to target the entire United Kingdom when selecting <a href="https://www.wordstream.com/geo-targeting">location targeting </a>for a new campaign, but it’s important to remember that this includes not only England, but Scotland, Wales, Northern Ireland, and the Isle of Man as well. Definitely very important details to know, especially when you take into consideration shipping costs of your products, transportation, and the overall effect it will have on <a href="/blog/ws/2020/09/22/maximize-ROI-with-responsive-search-ads">your advertising ROI</a>. In most cases, I’ve identified two different strategies based off of two very different scenarios:</p>
+<h3>2. Target large cities</h3>
+<p>This strategy is effective if you are located in your home country but are looking to <strong>expand your brand into another, new country</strong>. The best approach would be to target some of the larger cities where you’re going to see larger search volume and potentially have a wider demographic to reach.</p>
+<p>For a US-based company looking to break into the United Kingdom market, for example, I would suggest starting with London, Liverpool, Manchester, Glasgow, and Cardiff as they have the largest volume of search traffic based on their populations.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20ppc20advertising20tips20UK20population20map_4.png" alt="international ppc advertising tips UK population map" width="388" height="528" /></div>
+<h3>3. Aim for localized traffic</h3>
+<p>Use this strategy if you want to <strong>build your presence in your current home country</strong>. Starting off with radius targeting around your business or using your local city is key, and you can really drive paid search traffic in proximity. Pairing this with “near me” based keywords can be a great combination to maximize the potential of<a href="/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide"> localized traffic</a>. Location-based keywords can be your best friend, and developing entire ad groups based off of these types of keywords to pair with this strategy is the perfect fit.  And if you’re also looking for ways to drive localized, organic traffic in a new country (in addition to paid traffic), check out these <a href="https://www.wordstream.com/blog/ws/2018/07/26/international-seo">international SEO tips</a>.</p>
+<h2>How to target language with international campaigns</h2>
+<p>Sprache ist der Schlüssel. La langue est la clé. El idioma es clave. Just three different ways of saying that language is key! Here are some tips and tools to help you with this component of your international campaigns.</p>
+<h3>4. Prioritize language consistency</h3>
+<p>In PPC, we’re taught that the language you select in your campaign settings needs to be the language in which your landing pages and <a href="/blog/ws/2015/04/21/adwords-ads">ads are written</a>, and this is very true. You want to make sure that you’re consistent with the language of your keywords, <a href="/blog/ws/2016/03/14/ppc-ad-copywriting">ad copy</a>, and landing pages because this is something Google heavily takes into consideration when giving out <a href="https://www.wordstream.com/blog/ws/2017/09/19/whats-a-good-quality-score">Quality Scores</a> and search page rankings.</p>
+<h3>5. Target multiple languages when applicable</h3>
+<p>However, let’s say you’re looking to start driving conversions from a new country you’re now targeting. You most definitely want to start with your original language and then you set another one on top of that. With both languages selected, you’re expanding into viewership from end users that may be bilingual. It is all dependent on what your audience members have as the language setting on their computers. This means that if your ads are in English, but you include Spanish as a targeted language, you have the ability to show your ads to people that are bilingual in<a href="https://www.wordstream.com/blog/ws/2013/09/26/language-targeting-adwords"> both Spanish and English</a>. Definitely a great way to start testing!</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20ppc20multiple20language20targeting_1.png" alt="international ppc multiple language targeting" width="800" height="404" /></div>
+<p class="text-align-center"><em>Note: This is a truncated screenshot; not all languages are shown here.</em></p>
+<p>For more help with bilingual language targeting, check out our post on <a href="https://www.wordstream.com/blog/ws/2016/04/20/international-ppc">how to break into bilingual advertising</a>.</p>
+<h3>6. Use Google Translate</h3>
+<p>Now, if you’re looking to full-on start creating campaigns with keywords and <a href="/blog/ws/2017/01/12/how-to-write-great-advertising-copy">compelling ad copy</a> in another language, the most user-friendly tool has to be Google Translate. This is a plug in for Google Chrome that you can download for free that easily allows you to translate back and forth between pretty much every language out there. I’ve had the awesome experience of getting to create ad copy in Spanish, French, German, and even Arabic.</p>
+<p>When translating and creating ads, you need to be conscious of the character limits in the headlines and descriptions, but the icing on the cake would be to also make sure your landing pages can translate into your new targeted languages as well. This will certainly improve the <a href="https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide">likelihood and ease of conversion </a>capability of your new audience.</p>
+<h2>Keyword strategies for your international paid search strategy</h2>
+<p>As with any paid advertising campaign, having a keyword strategy is imperative when advertising internationally. Below are some guidelines and tools to help you identify the <a href="https://www.wordstream.com/niche-keywords">best words and phrases to target</a> in your international campaigns.</p>
+<h3>7. Use keyword research tools</h3>
+<p>You may think you know what your potential customers are typing into Google and other search engines, but you may not know all of it. Plus, jargon that is second nature to you is not always the same as the terms a consumer will use with regard to your industry or services. Keyword research tools, such as <a href="https://www.wordstream.com/keywords">WordStream’s Free Keyword Tool</a> or Google’s Keyword Planner, will ensure you’re on the right track with adequate-volume, high-value keywords for your campaigns.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20ppc20advertising20free20keyword20tool.png" alt="international ppc advertising free keyword tool" width="800" height="437" /></div>
+<p class="text-align-center"><em>WordStream&#8217;s <a href="/keywords">Free Keyword Tool</a></em></p>
+<h3>8. Pay attention to nuances</h3>
+<p>One of the biggest lessons I’ve learned is that just because we say something one way in our own language, doesn’t mean that other languages use the same wording or phrasing. For example, I’ve worked with hundreds of businesses in the United Kingdom and a handful of them are <a href="https://www.wordstream.com/blog/ws/2016/11/17/lawyer-marketing-strategies-adwords">lawyers</a>. However, the word lawyer is very much an “American-style” word; people in the UK generally use the word attorney instead. Small nuances like this make all the difference in the world when your goal is to <a href="https://www.wordstream.com/blog/ws/2014/08/14/increase-traffic-to-my-website">drive relevant traffic</a> in a new international market.</p>
+<h3>9. Perform competitor research on Google</h3>
+<p>Another very simple yet very helpful tactic to help with your <a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a> would be to perform your own Google searches for similar products/services in your new market. This could give you some new ideas not only for keywords to start utilizing, but also for the ad creation process. Along with auction insights, it will also provide a good idea of who your local competitors may be.</p>
+<h3>10. Review your queries</h3>
+<p>With the proactive research that comes from using keyword research tools, being reactive in a sense can also help your keyword strategy once your campaigns start running. I always feel that using the Querystream in WordStream or the <a href="/blog/ws/2020/09/03/google-search-terms-report-changes">Search Terms Report</a> in Google is our way of hearing directly from the customers themselves. I would suggest utilizing a tiered or stacked bidding strategy by taking advantage of the exact, phrase, and modified broad match types of the keywords you identified during the research process. Once you’ve gathered some initial click data from those, you can then analyze the search terms and see if there are new or <a href="https://www.wordstream.com/blog/ws/08/03/09/long-tail-guide">long-tailed terms</a> that may increase your relevancy when advertising in a different country.</p>
+<h2>Tips for building awareness in a new/international market</h2>
+<p>Like breaking into any new market, one of your first goals with advertising will be to start building as much brand awareness as possible. You want to get end users excited about the <a href="https://www.wordstream.com/blog/ws/2020/07/29/how-to-promote-a-product">product or service you are promoting</a>. This can be difficult if you’re just relying on search campaigns alone. Here are my tips and tricks to help remedy that.</p>
+<h3>11. Start with display ads or video campaigns</h3>
+<p>If people have never heard of your brand before, it may be challenging to break into a new market that already has other established brands they’re more familiar with. If your industry also has a lot of local competition or expensive keywords, this can deplete your budget very quickly with little to no return to you.</p>
+<p>My advice would be to have at least one or two display or video campaigns that we can utilize to start building your top-of-the-funnel strategy. Display tends to have a much lower cost per click than search, so it can be a great way to reach a large number of people by impressions and also generate a decent number of clicks with a smaller budget.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20PPC20video20campaign.png" alt="international PPC video campaign" width="800" height="280" /></div>
+<h3>12. Use “Observation” mode in search campaigns</h3>
+<p>One tactic I find to be very helpful takes advantage of previous information you should already have from your search campaigns in our home markets. That would be data we can take from having audiences created via “Observation” mode in Google Ads.</p>
+<p>Applying relevant (and sometimes irrelevant) audiences to search campaigns in “Observation” mode allows you to dive deeper into the demographic makeup of the people clicking on your ads.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20PPC20strategy20observation20mode.png" alt="international PPC strategy observation mode" width="800" height="227" /></div>
+<p>Below are the types of information you’ll be able to see by observing those audiences for a period of time in your search campaigns:</p>
+<ul>
+<li>In-market: what people are actively looking for</li>
+<li><a href="https://www.wordstream.com/blog/ws/2018/08/23/custom-affinity-audiences">Affinity</a>: things people look for or do habitually</li>
+<li><a href="/blog/ws/2018/10/31/detailed-demographics">Detailed demographics</a>: parental status, education level, and more</li>
+<li>Remarketing data: website visitors</li>
+</ul>
+<p>This data is absolutely priceless because you can then use it to pick <a href="https://www.wordstream.com/blog/ws/2015/02/10/google-display-network-targeting">audiences you want to target with your display campaigns</a>. If you see that a search campaign has a particular audience that converts really well and has a good CPA in your home market, you can then apply that as the targeting method for a <a href="https://www.wordstream.com/blog/ws/2019/05/23/google-display-ads">display campaign</a>. This way you can start <a href="/blog/ws/2015/07/10/brand-awareness">building awareness</a> among an audience that you know has a track record of performing well. Display can also help to start building up your remarketing lists for website visitors that we can take advantage of in the future for either display remarketing campaigns or <a href="/blog/ws/2016/11/16/rlsa-strategies">RLSA campaigns</a>.</p>
+<h2>Important time zone considerations for international campaigns</h2>
+<p>For the past three years while working with our international clients, I have worked a shifted schedule of 6:00 AM to 2:00 PM Eastern Time. This allows me to work with clients that are five or six hours ahead and still have a large portion of their workday during which we can schedule consulting calls. That being said, time zones and time differences are something you need to also consider when <a href="https://www.wordstream.com/blog/ws/2018/01/31/low-budget-facebook-ad-campaigns">creating ad campaigns</a> to target other countries. Here are some important considerations for running your international ads at the right time.</p>
+<h3>13. Check your time zone</h3>
+<p>When you first create a new ad campaign, it will automatically run 24 hours a day, 7 days a week, 365 days a year—unless you specify otherwise. It’s important to go to the “<a href="/blog/ws/2021/05/13/how-to-set-up-ad-scheduling">Ad schedule</a>” section in Google Ads and create a custom schedule that shows your ads during the most opportune time of the day in the new country you’re advertising in.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20PPC20check20your20time20zone.png" alt="international ppc advertising ad schedule" width="800" height="446" /></div>
+<p>The first thing you’ll want to check in the “<a href="/blog/ws/2014/01/20/adwords-daily-budget-with-ad-scheduling">Ad schedule</a>” tab is which time zone your account falls under—which will display at the bottom of the page. Usually this will be the time zone where the ad account was originally created, so it’s good to double check in case you’re advertising for a country outside of the one you’re currently in.</p>
+<h3>14. Create a custom schedule</h3>
+<p>Once you know this, you’ll then need to do a little math to <a href="https://www.wordstream.com/blog/ws/2014/07/30/ad-scheduling">create a custom schedule</a>. For example, if my ad account is under Eastern Time, but I’m advertising in South Africa (which is 6 hours ahead of EST) and I want my ads to run from 9:00 AM to 5:00 PM South African time, then you would need to have them start at 3:00 AM and end at 11:00 AM EST. Being proactive with this right from the start will ensure you’re going to <a href="https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget">get the most value from your budget. </a></p>
+<h3>15. Create region-based campaigns</h3>
+<p>One common mistake I see is that of campaigns targeting multiple countries and multiple time zones all at once. If you’re targeting European countries, but I also have APAC region countries in the mix, your results may not be great because of the large differences in time. A good practice if you’re looking to target multiple countries under one campaign would be to create region-based campaigns that would ideally only cover three different time zones maximum.</p>
+<h3>16. Target one country per campaign</h3>
+<p>One of the most effective strategies I’ve seen is to keep North America, South America, Western Europe, Eastern Europe, APAC, and Australia/New Zealand separate so that you can create custom ad schedules for each. If you have the budget and are able to get even more granular, the most optimized method would be to have each campaign target one country. This way, you can make sure your ad scheduling is in tip-top shape and that you’re <a href="/blog/ws/2010/09/15/ppc-ad-testing-to-maximize-conversions">maximizing the positive results you can get</a>.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20ppc20advertising20campaigns20locations.png" alt="international ppc advertising campaigns locations" width="800" height="342" /></div>
+<h2>International ad copywriting guidelines</h2>
+<p>You’ve done your keyword research, have your custom ad schedule lined up, and new language targeting selected. Now it’s time for the cherry on top: <a href="https://www.wordstream.com/blog/ws/2013/08/15/ad-copywriting-tips">writing the perfect ad cop</a>y! Going hand-in-hand with keyword research, this is one of the major areas of paid search marketing where you’ll get to learn more about the culture of the area you’re marketing in.</p>
+<h3>17. Take note of spelling differences</h3>
+<p>I’ve been corrected many times when helping clients in the UK with their ad copy, such as to remember it’s colour; not color, humour; not humor, or favourite; not favorite. Even though English is the common language spoken by the US and the UK, the British usage of “ou” in certain words is not something we use in the United States.</p>
+<h3>18. Create headlines</h3>
+<p>Along with observing word and phrase differences, you also want to make sure you’re <a href="/blog/ws/2015/02/02/ppc-ad-headlines">creating effective headlines</a> that speak to your international audience. Are local locations important to utilize in headlines? Should you use all 180 description characters or try and keep it short and sweet? What flexibility does Google Translate allow when trying to utilize your main keywords?</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20ppc20google20translate.png" alt="international ppc google translate" width="800" height="175" /></div>
+<h3>19. Use RSA and expanded text ads</h3>
+<p>One major suggestion I always give is to add in a <a href="/blog/ws/2018/07/10/responsive-search-ads">responsive search ad</a> along with two <a href="https://www.wordstream.com/blog/ws/2016/07/26/expanded-text-ad-best-practices">regular expanded text ads</a>. With the creation of new campaigns and ad groups, it’s important to A/B test different ad copy to see which resonates more with your end users.</p>
+<p>Including a responsive search ad helps you to not only test different headlines and descriptions, but it also will help your chances at a higher CTR and CVR by aligning the search terms with your most relevant headline.</p>
+<h3>20. Familiarize with how local businesses communicate in their own home market</h3>
+<p>Take a look at the ads, website copy, and social media posts of <a href="/blog/ws/2020/09/08/facebook-local-advertising">local businesses</a> in your new market—especially those that are you competitors. Common words and phrases you pick up on are likely the most effective for that particular region. This is a great way to identify and align with how local businesses communicate in their own home market.</p>
+<h3>21. Talk to your new customers</h3>
+<p>One final piece of advice I have is to talk to your new customers. As you start building up new leads, sales, and relationships, you should take that opportunity to hear directly from the customer. Find out what they look for when viewing ads and optimize accordingly. Always remember to be constantly <a href="https://www.wordstream.com/blog/ws/2018/05/11/copywriting-ab-tests">testing new ad cop</a>y until you can lock in on what works the best!</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/international20PPC20campaigns20test20your20copy.png" alt="international PPC campaigns test your copy" width="800" height="231" /></div>
+<h2>Apply these international PPC best practices for maximum results</h2>
+<p>Getting to work with our international clients has given me the amazing opportunity to help some pretty cool businesses over the last 3 years.  As mentioned at the beginning of this post, the overall <a href="https://www.wordstream.com/ppc-search-engine">best practices for PPC advertising</a> apply to any type of campaign, but international campaigns come with some additional details and nuances to consider. When building out your international PPC strategy, it’s important to do your research with regard to location and language targeting, bidding as it relates to local currencies, scheduling with respect to time zone differences, local communication strategies, and more. Not only will this ensure the success of your campaigns, but you’ll also get the opportunity to experience different cultures, learn new words and phrases, and discover that no matter where you are in the world, marketing is a universal language.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads">21 Essential Tips &amp; Tools for Running International Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/10/06/international-google-ads/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

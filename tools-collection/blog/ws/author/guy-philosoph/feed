@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guy Philosoph, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/guy-philosoph/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 21 May 2025 15:42:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Guy Philosoph, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why Google Ad Costs Are Rising in 2025 (+What to Do About It)</title>
+		<link>https://www.wordstream.com/blog/why-google-ad-costs-are-rising-in-2025</link>
+		
+		<dc:creator><![CDATA[Guy Philosoph]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 12:30:56 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=90332</guid>
+
+					<description><![CDATA[<p>Get expert insights to help you cut costs without sacrificing results for your Google Ads campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/why-google-ad-costs-are-rising-in-2025">Why Google Ad Costs Are Rising in 2025 (+What to Do About It)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In our most recent <a href="https://www.wordstream.com/blog/2025-google-ads-benchmarks">Google Ads benchmarks report</a>, we found that search ads cost per lead increased over 5% from 2024 to 2025 (after a 24% increase from 2023 to 2024).</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/05/2025-GA-Benchmarks-Ave-5Years-chart.png" alt="google ads benchmarks - google ads costs last five years" width="767" height="535" class="aligncenter size-full wp-image-91538" srcset="https://www.wordstream.com/wp-content/uploads/2025/05/2025-GA-Benchmarks-Ave-5Years-chart.png 767w, https://www.wordstream.com/wp-content/uploads/2025/05/2025-GA-Benchmarks-Ave-5Years-chart-480x335.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 767px, 100vw" /></p>
+<p>Why does cost per lead keep increasing in Google Ads? Today, we’ll be digging into the rising costs, as well as what you can do about it to keep your ad costs as low as possible while still driving meaningful results.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#why-google-ads-costs-are-rising">Why Google Ads costs are rising</a></li>
+<li><a href="#5-ways-to-cut-google-ads-cost-per-lead-in-2025">5 ways to cut costs in 2025</a>
+<ol>
+<li><a href="#collect-and-use-first-party-data">Collect and use first-party data</a></li>
+<li><a href="#focus-on-lead-qualification-and-follow-up">Focus on lead qualification and follow-up</a></li>
+<li><a href="#use-ai-the-right-way">Use AI (the right way)</a></li>
+<li><a href="#refine-your-keyword-strategy">Refine your keyword strategy</a></li>
+<li><a href="#complement-with-lower-funnel-strategies">Complement with lower-funnel strategies</a></li>
+</ol>
+</li>
+</ul>
+<div id="why-google-ads-costs-are-rising"></div>
+<h2>Why Google Ads costs are rising</h2>
+<p>We’ve identified a few factors that are contributing to the increase in cost per lead (CPL) many businesses are seeing in Google Ads.</p>
+<h3>Higher competition</h3>
+<p>Unsurprisingly, higher competition is a huge factor driving up costs. As more and more businesses invest in <a href="https://www.wordstream.com/search-advertising">search advertising</a>, competition for high-intent keywords increases. This leads to higher costs for keyword bids which drives up CPL.</p>
+<h3>Increased privacy restrictions</h3>
+<p>Privacy restrictions have also played a role in increasing CPL for many businesses. <a href="https://www.wordstream.com/blog/google-privacy-sandbox-update">Cookie deprecation</a> (although the full rollout has been delayed multiple times) and iOS tracking limitations have made it more difficult for advertisers to track their customers—which makes it more difficult to target them. This means you may be paying more to find the right audience for your ads.</p>
+<h3>AI-driven bidding strategies</h3>
+<p>While <a href="https://www.wordstream.com/blog/google-ads-smart-bidding">Google Smart Bidding bid strategies</a> are highly effective at optimizing toward queries that are most likely to convert, the following campaign structure pitfalls can lead to poor cost-efficiency over time:</p>
+<ul>
+<li>Overly restrictive targeting and/or match types</li>
+<li>Low volume of conversion signals</li>
+<li>Poor ad strength</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Think your Google Ads aren&#8217;t performing like they should?</strong> Find out how to improve them with a free, instant audit &gt;&gt; <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a></p>
+<div id="5-ways-to-cut-google-ads-cost-per-lead-in-2025"></div>
+<h2>5 tips to keep Google Ads costs low</h2>
+<p>So, what can you do to keep costs low despite these extenuating circumstances driving up CPLs? Here are some tips to try.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-png.avif" alt="tips to keep google ads costs low" width="1200" height="2880" class="aligncenter size-full wp-image-90662" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-png.avif 1200w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-125x300.avif 125w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-427x1024.avif 427w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-768x1843.avif 768w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-640x1536.avif 640w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-853x2048.avif 853w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-1080x2592.avif 1080w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-980x2352.avif 980w, https://www.wordstream.com/wp-content/uploads/2025/03/tips-to-keep-google-ads-costs-low-480x1152.avif 480w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<div id="collect-and-use-first-party-data"></div>
+<h3>1. Collect and use first-party data</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2021/04/12/first-party-data">Collecting and using first-party data</a> is key to keeping your Google Ads costs low in 2025. If you can better understand and track your audience, you can <a href="https://www.wordstream.com/blog/google-ads-audience-targeting">refine your targeting</a> to increase your return on investment.</p>
+<p>Here are some tips to get started:</p>
+<ul>
+<li><strong>Send a regular newsletter.</strong> A newsletter not only helps you stay top of mind with customers and prospects, but it gives you an opportunity to <a href="https://www.wordstream.com/blog/ws/2019/04/11/email-list-building">build your email list</a>. Drive subscribers to your newsletter to collect valuable first-party data you can use in your campaigns.</li>
+<li><strong>Create a lead magnet.</strong> A <a href="https://www.wordstream.com/blog/ws/2021/06/15/lead-magnet-ideas">lead magnet</a> entices users to provide their data in exchange for a helpful piece of content or a tool. Think of what your audience would be interested in—this could be a webinar on how to winterize your home from an HVAC company, a wedding planning template from a wedding venue, or a cost calculator from a home renovation company.</li>
+<li><strong>Use a lead management tool.</strong> A <a href="https://localiq.com/products/ai-lead-management/" target="_blank" rel="noopener">lead management tool</a> is essential for helping you manage and use the data you’re collecting from your lead generation strategies. This helps you follow up with leads, collect more information about them to build more advanced profiles, and analyze key characteristics of your overall customer base.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/lead-management-localiq-dash-dashboard.webp" alt="view of lead management in dash by localiq platform" width="946" height="782" class="aligncenter size-full wp-image-90343" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/lead-management-localiq-dash-dashboard.webp 946w, https://www.wordstream.com/wp-content/uploads/2025/03/lead-management-localiq-dash-dashboard-480x397.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 946px, 100vw" /></p>
+<p style="text-align: center;"><em>A lead management platform like <a href="https://localiq.com/products/ai-lead-management/" target="_blank" rel="noopener">Dash by LocaliQ</a> lets you track leads and follow up promptly.</em></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Is your Google Ads account set up for success?</strong> Download now &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLAccountStructure.html?cid=Web_Any_InContentTextLink_PPC_LastAccountStructureGuide_Download">The Last Guide to Google Ads Account Structure You&#8217;ll Ever Need</a></p>
+<div id="focus-on-lead-qualification-and-follow-up"></div>
+<h3>2. Focus on lead qualification and follow-up</h3>
+<p>You can generate a steady supply of leads without seeing any business growth if you’re not converting those leads into customers.</p>
+<p>This is where higher <a href="https://www.salesforce.com/blog/lead-qualification/#:~:text=Lead%20qualification%20helps%20you%20determine%20whether%20a%20prospective%20customer%20is,2)%20they%20can%20afford%20it." target="_blank" rel="noopener">lead qualification</a> standards and effective follow-up comes into play, meaning you’re prioritizing converting leads with the most potential to become a customer. This is especially important for businesses seeing much higher CPLs, like financial services businesses and healthcare.</p>
+<p>Here are some tips to help:</p>
+<ul>
+<li><strong>Create buyer personas. </strong><a href="https://www.wordstream.com/blog/ws/2023/07/25/buyer-persona-examples">Buyer personas</a> can help you understand your ideal customers and their needs, pain points, and motivations. If a lead falls into one of your buyer personas, prioritize following up with and converting them.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/buyer-persona-definition-png.webp" alt="definition of and info about buyer personas" width="936" height="600" class="aligncenter size-full wp-image-90344" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/buyer-persona-definition-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/03/buyer-persona-definition-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<ul>
+<li><strong>Use lead scoring.</strong> Many lead management tools allow you to collect information that can help you automatically qualify a lead. Think about your highest value leads and what they have in common and then determine if there’s a way to include a qualifying question as part of your lead collection forms. This could be budget, whether or not they’re a homeowner, etc.</li>
+<li><strong>Automate follow-up.</strong> By automating the follow up process through your lead management tool, you can close more leads quicker. And if you’ve enabled lead scoring or other similar options, you can have your <a href="https://www.wordstream.com/blog/ws/2021/01/26/how-to-use-chatbots-for-lead-generation">lead automation</a> follow up with your highest value leads first.</li>
+</ul>
+<div id="use-ai-the-right-way"></div>
+<h3>3. Use AI (the right way)</h3>
+<p>Yes, AI is a super helpful resource when it comes to optimizing Google Ads. But you want to make sure you’re using it the right way and not letting it get the best of you.</p>
+<p>Here are some ways to <a href="https://www.wordstream.com/resources/ai-advertising?cid=Web_WS_InContent_Guide_AIAdvertising_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">use AI in your Google Ads</a>:</p>
+<ul>
+<li><strong>Optimize landing pages and creative.</strong> Generative AI and predictive analytics can help you optimize ad creative and <a href="https://www.wordstream.com/landing-page-optimization">landing pages</a> to capture and convert more potential leads.</li>
+<li><strong>Try automated bidding strategies.</strong> Google Ads Smart Bidding bid strategies can be a highly effective option if your account has ample conversion history, targeting and <a href="https://www.wordstream.com/keyword-match-types">match types</a> are not too restrictive, and budget is sufficient.</li>
+<li><strong>Run Performance Max (PMax) campaigns.</strong> <a href="https://www.wordstream.com/blog/ws/2022/04/20/performance-max-pros-cons">PMax</a> leverages Google’s AI-powered advertising to automatically generate ads based on your business goals and delivers them across all available Google placements. Running Search and PMax is a power pairing that can help you capture existing demand <em>plus</em> generate new demand and optimize performance across all Google channels.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/performance-max-advertising-placements.webp" alt="performance max advertising placements" width="1000" height="500" class="aligncenter size-full wp-image-90345" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/performance-max-advertising-placements.webp 1000w, https://www.wordstream.com/wp-content/uploads/2025/03/performance-max-advertising-placements-980x490.webp 980w, https://www.wordstream.com/wp-content/uploads/2025/03/performance-max-advertising-placements-480x240.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw" /></p>
+<ul>
+<li><strong>Make follow-up easier.</strong> <a href="https://www.wordstream.com/blog/ai-agents">AI-driven chatbots</a> and lead nurturing tools can improve conversion rates from existing leads, reducing wasted ad spend.</li>
+</ul>
+<div id="refine-your-keyword-strategy"></div>
+<h3>4. Refine your keyword strategy</h3>
+<p>As mentioned, competition for keywords is driving CPLs up. So refining your <a href="https://www.wordstream.com/blog/ws/2023/03/13/ppc-keyword-maintenance-tasks">keyword strategy</a> can help you lower costs while still pulling in clicks and conversions.</p>
+<p>Here are some tips to keep in mind:</p>
+<ul>
+<li><strong>Audit your existing keywords. </strong>Get a clear look at your current keywords, how they’re performing, and any gaps. Also take this time to ensure you’ve added negative keywords. Get the steps for a full <a href="https://www.wordstream.com/blog/google-ads-audit">Google Ads audit</a>.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/03/google-ads-audit-checklist-png.webp" alt="google ads audit checklist" width="936" height="600" class="aligncenter size-full wp-image-90346" srcset="https://www.wordstream.com/wp-content/uploads/2025/03/google-ads-audit-checklist-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/03/google-ads-audit-checklist-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<ul>
+<li><strong>Try a </strong><a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool"><strong>keyword research tool</strong></a><strong>.</strong> These can help you find new keywords and better understand competition levels for your existing keyword strategy.</li>
+<li><strong>Align your keyword targeting with your business objectives.</strong> Looking to hyperfocus on very specific queries with a smaller budget? Intent-driven keywords with tighter match types could be a good option. Looking to maximize lead volume across more generic service or solution-based keywords? Consider leveraging Smart Bidding with broad match keywords.</li>
+</ul>
+<div id="complement-with-lower-funnel-strategies"></div>
+<h3>5. Complement with lower-funnel strategies</h3>
+<p>Google Ads continues to be an effective way to drive leads and new customers. But it shouldn’t be the only channel you rely on. You can (and should) supplement your Google Ads strategy with lower-funnel strategies to help you build awareness and reach a new audience—oftentimes one that you don’t have to explicitly pay to get in front of.</p>
+<p>Here are some tips to keep in mind:</p>
+<ul>
+<li><strong>Complement with organic strategies.</strong> Content marketing, <a href="https://www.wordstream.com/seo">SEO</a>, and inbound strategies are helping businesses generate lower cost leads organically. And these strategies help you own more space in search results, which can boost the effectiveness of your Google Ads campaigns.</li>
+<li><strong>Run CRM-based campaigns.</strong> Email, SMS, and <a href="https://www.wordstream.com/blog/brand-loyalty">loyalty programs</a> are becoming more cost-effective compared to cold acquisition. Try sending <a href="https://localiq.com/blog/text-promotions/" target="_blank" rel="noopener">text promotions</a>, regular emails, and launching loyalty programs to bring in new customers.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/sms-example-stratia-come-back-text-png.webp" alt="sms marketing example from stratia to come back" width="488" height="244" class="aligncenter size-full wp-image-89712" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/sms-example-stratia-come-back-text-png.webp 488w, https://www.wordstream.com/wp-content/uploads/2025/02/sms-example-stratia-come-back-text-480x240.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 488px, 100vw" /></p>
+<ul>
+<li><strong>Invest in online communities.</strong> Community-building on sites like Discord, LinkedIn groups, and <a href="https://www.wordstream.com/blog/reddit-marketing">Reddit</a> can help foster direct engagement and build your audience.</li>
+</ul>
+<h2>Keep Google Ads costs as low as possible</h2>
+<p>While <a href="https://www.wordstream.com/blog/ws/2015/05/21/how-much-does-adwords-cost">Google Ads costs</a> will likely continue to rise, there are steps you can take to make sure you’re getting the most out of your budget. It’s important to keep a close eye on your Google Ads accounts so you can make tweaks and changes as needed and supplement your ad strategy with an effective full-funnel and cross-channel approach.</p>
+<p>For help running successful (and cost-effective!) Google Ads, <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo">reach out for a demo</a>.</p>
+<p><em>Thanks to Jake Cox, LocaliQ product manager for lead gen products, for his contributions to this article.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/why-google-ad-costs-are-rising-in-2025">Why Google Ad Costs Are Rising in 2025 (+What to Do About It)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

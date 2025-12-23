@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jed Robinson, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jed-robinson/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 26 Nov 2021 03:33:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jed Robinson, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Use Design Thinking to Solve Your Next Marketing Problem: Here&#8217;s How</title>
+		<link>https://www.wordstream.com/blog/ws/2020/03/27/design-thinking</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/03/27/design-thinking#respond</comments>
+		
+		<dc:creator><![CDATA[Jed Robinson]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/03/27/design-thinking/</guid>
+
+					<description><![CDATA[<p>In this guide to design thinking, we're explaining what it is, why it can help you solve your next marketing problem, and the six steps to follow for applying the design thinking process!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/27/design-thinking">Use Design Thinking to Solve Your Next Marketing Problem: Here&#8217;s How</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Next time you meet a UX designer, ask them to describe what they do for a living. Not necessarily because UX design is extremely interesting—it is, but I’m biased. Ask because, unlike most professions, UX designers almost always have an idiosyncratic and evolving description of their position. This discrepancy arises not because we designers inherently possess broadly differing beliefs about what UX design encompasses; it’s because UX design can be used for so many different things.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="16f7b35e-38ba-4ada-aa1f-ed0c31910031" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-ux.jpg" alt="design thinking for UX/UI design" width="734" height="502" /></div>
+</article>
+</div>
+<p>If you do ask a UX designer to explain what they do, you will undoubtedly hear repetitive buzzwords (user research, usability testing, A/B testing, prototyping, iteration, and accessibility, etc.). However, there is one unanimous central theme underlying the heart of every proficient user experience designer’s work that doesn’t always make it into the quick description of the job: solving complex problems with the end user in mind.</p>
+<p>That complex problem solving is what I’m going to talk about today. In this guide, I’ll show you:</p>
+<ul>
+<li>What design thinking is</li>
+<li>Why it’s useful for you</li>
+<li>How to apply design thinking</li>
+</ul>
+<p>Here we go.</p>
+<h2>What is design thinking?</h2>
+<p>Design thinking is the most widely accepted method for problem-solving among UX designers. The design thinking process was formalized as an educational and professional tool in the 1990s by <a href="https://www.nngroup.com/articles/design-thinking/" target="_blank" rel="noopener">David Kelley and Tim Brown of IDEO</a>. Similar to the scientific method typically taught early on in elementary school, design thinking has six steps:</p>
+<ol>
+<li>Empathize</li>
+<li>Define</li>
+<li>Ideate</li>
+<li>Prototype</li>
+<li>Test</li>
+<li>Implement</li>
+</ol>
+<p>Contrary to the scientific method, design thinking is not intended as a formulaic guide to be followed meticulously in order for it to work. Rather, design thinking is more of a general guide for people to liberally follow and refer to when solving complex problems.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="289a58b0-d450-4f98-bc0e-1f44477c550a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-wheel.jpg" alt="design thinking wheel graphic" width="618" height="625" /></div>
+</article>
+</div>
+<p>Design thinking is a process that, when done correctly, has many iterative steps and within those steps encourages failure as an <a href="https://www.wordstream.com/blog/ws/2014/08/19/free-online-marketing-courses">instrument for learning</a>.</p>
+<h2>Why will design thinking help you?</h2>
+<p>At this point you may be thinking something like: “But, wait, I don’t do design!”  Not to worry! The design thinking process can be applied to a wide array of situations. Let’s consider a marketing example, though. Say you are attempting to market a new product and you have a good sense of your target audience but aren’t sure how to reach them. The best way to <a href="https://www.wordstream.com/blog/ws/2017/08/28/behavioral-segmentation">reach your target user</a> is to get inside their mind. You want to empathize with them, learn who they are, what they do, what they want, and consequently you’ll learn how to reach them. That’s the start of design thinking.</p>
+<p>After you define your target audience, you want to start by exploring as many different avenues to reach them as possible. Once you determine your most successful ideas, you want to test them. Your <a href="/blog/ws/2014/02/26/ab-testing-best-practices">testing</a> may yield great results, or results that are less than satisfactory; however, you will be able to learn from them all and build upon them in your next tests.</p>
+<p>Eventually, you will have found an effective way to reach your target audience by using design thinking. The best part is that you will continually be able to adapt to changes in your target audience, the technology and <a href="/blog/ws/2019/12/05/best-ad-platform">mediums you use to reach them</a>, and other unforeseeable factors thrown your way. Design thinking encourages education through failure, constant iteration, and adaptation.</p>
+<h2>The design thinking process</h2>
+<p>Now that we’ve covered what design thinking is and why it’ll be useful for you, let’s talk about how to apply the steps of the design thinking process. While design thinking is a set of guidelines that can be followed loosely, the first step in the design thinking process is essential if you truly want to solve real problems for real people.</p>
+<h3>Part 1: Understand</h3>
+<p>The only genuine way to understand what your users are experiencing as they use your product is to try to get inside their mind. And no, you do not need to be telepathic to do this.</p>
+<p>The most important thing to remember here is this: <strong>Before speaking to your <a href="https://www.wordstream.com/blog/ws/2014/09/18/beginners-guide-to-target-markets">target audience</a>, you do not yet know what the problem is. </strong>You may realize there is some sort of problem and perhaps the results of this problem. However, the only way to truly understand the problem you are trying to solve is to speak to the people who are experiencing the problem.</p>
+<h4>Step 1: Empathize</h4>
+<p>In order to get inside your user’s mind, you need to conduct sufficient research. You need to learn what they <em>think, feel, say, </em>and <em>do. </em>The only way to do this is to speak to them, observe them, and release whatever preconceived notions you may be holding about them.</p>
+<p>There are many different techniques you can use when doing your research. User interviews, user observation, task analysis, and empathy mapping are just a few.</p>
+<ul>
+<li><strong>User interviews: </strong>You can try techniques like the Five Whys to better each user’s problem.</li>
+<li><strong>User observation: </strong>Try observing your users in their natural habitats.</li>
+<li><strong>Task Analysis: </strong>Giving your user tasks to complete while recording them doing so. Ask them to speak out loud as they complete each task. Measure metrics such as time on task and the number of clicks it takes to complete the task (if applicable).</li>
+<li><strong>Empathy mapping: </strong>This helps you learn what your users <strong>think, feel, say/do, </strong>and <strong>see. </strong>You will also learn their <a href="https://www.wordstream.com/blog/ws/2018/02/28/pain-points"><strong>pain points </strong></a>and their <strong>gain points</strong></li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="25eb9973-b399-4c9a-a91d-05a9881c00a4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-empathy-chart.jpg" alt="design thinking empathy chart" width="675" height="855" /></div>
+</article>
+</div>
+<h4>Step 2: Define</h4>
+<p>After you have conducted your research, the next step is to compile your research for analysis. The best way to do this is to expose all of your findings out in the open: Use sticky notes, whiteboards, or anything at your disposal, so you can look at all of your findings at once. By doing this, you will be able to start identifying parallels and similar thoughts. Three users found this confusing, while only users above the age of 40 enjoyed this section, etc.</p>
+<p>These parallel thoughts and ideas will help you define your problem and begin to solve it. You may find that you have more than one problem, or that your problem is completely different than what you had assumed. This is ok! Discovering problems gives you a means to solve them—and to <a href="https://www.wordstream.com/blog/ws/2016/02/17/online-audiences">better understand your audience</a>.</p>
+<h3>Part 2: Explore</h3>
+<p>Once you’ve defined your problem—or, more likely, problems—you can move on to the exploration part of the design thinking process. In this stage, you’re exploring potential solutions.</p>
+<h4>Step 3: Ideate</h4>
+<p>Now it is time to <a href="https://www.wordstream.com/blog/ws/2017/05/10/ad-creative-inspiration">get creative</a>. During the ideate phase, you want to come up with as many solutions to your problem as possible. Think outside of the box!! Crazy ideas are good, and the more the better. It’s easy to reel in an idea and make it feasible—it’s not as easy to cast one out.</p>
+<p>It is extremely important to be open minded while you are ideating. There is no such thing as a bad idea in this stage. The goal is to come up with as many possible solutions and think about the problem in as many different ways as possible. You never know <a href="https://www.wordstream.com/blog/ws/2016/12/20/creative-advertising-ideas">what may work</a>.</p>
+<p>One great way to get as many ideas out as possible is Crazy Eights. In Crazy Eights, the goal is to come up with as many possible solutions in a shortest period of time. No idea is a bad idea, whatever comes to your head, just run with it. To do this, you will fold a paper up into eight sections and spend eight minutes (one minute per square) sketching and explaining a possible solution. Once the minute is up, you move on to the next idea.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fb2343b0-0ebe-4476-95a2-f8ade710a9b7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-crazy-8s.jpg" alt="design thinking Crazy Eights exercise" width="750" height="562" /></div>
+</article>
+</div>
+<h4>Step 4: Prototype</h4>
+<p>Once you have thought of as many ideas as possible, it is time to focus on taking your best solution and building out a prototype. The aim of prototyping is to be able to create a version of your solution that you will then be able to test.</p>
+<p>Here are a few different <a href="https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/" target="_blank" rel="noopener">options for prototypes:</a></p>
+<ul>
+<li><strong>Single page</strong> (more of a proof of concept) or <strong>multi page</strong> (allows you to complete a full task).</li>
+<li><strong>Realistic and detailed</strong> or <strong>hand sketched</strong>.</li>
+<li><strong>Interactive</strong> (allows for your user to click through your prototype) or<strong> static</strong> (your user will need to manually manipulate your prototype to complete a task).</li>
+</ul>
+<p>Don’t worry about how in-depth your prototype is. If you are doing it right, you will be iterating on your first version after testing anyway!</p>
+<h3>Part 3: Materialize</h3>
+<p>Now that you have built your prototype, you can begin to figure out whether it’s a viable solution. That means testing—and repeating the process.</p>
+<h4>Step 5: Test</h4>
+<p>The next step is to test your prototype. It is extremely important to remember that your failures are just as important as your <a href="https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers">triumphs</a>. The goal in prototyping and testing is to fail often and fail fast. You want to take all of the lessons you have learned from your failures and implement them in your next solution.</p>
+<p>It is important to test small changes, as well as big changes. In my first <a href="https://www.wordstream.com/blog/ws/2015/06/16/ab-testing-tips">A/B test </a>on the website at WordStream, we simply changed the iconography, the copy, and the color of the buttons for one section on our homepage.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5c8ceca0-4dea-4dc7-b957-66fa50a45fda" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-homepage-test.jpg" alt="homepage test" width="750" height="393" /></div>
+</article>
+</div>
+<p>Incredibly, we saw a 68% increase in the Free Trial conversion rate over the original version. While this will certainly not always happen, tests like this can still be extremely valuable, even in failure. It is also important to note that this section of the homepage, even after a successful change, no longer exists after further testing (<a href="http://www.wordstream.com">click here to see our current homepage</a>). We are constantly adapting to the world around us and looking for the best solutions, and you should be, too!</p>
+<h4>Step 6: Repeat</h4>
+<p>If your first test is a success that is great. But there is always a better solution out there and new problems will always arise.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c736994f-5929-4897-8e0e-fa71dd0ebe80" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/design-thinking-process.jpg" alt="design thinking process" width="750" height="467" /></div>
+</article>
+</div>
+<p>Design thinking is meant to be an iterative process. While testing, you will often be going back to your research. While prototyping, you may need to do more research to better understand a pain point you are now experiencing. After testing, you may realize you defined the wrong problem, and the whole process begins again, only more informed and confident.</p>
+<h2>Use design thinking to solve your next problem</h2>
+<p>The design thinking process isn’t just useful for UX designers—it’s useful for anyone. <a href="https://www.wordstream.com/blog/ws/2019/12/31/basic-website">Building a website</a>, a product, a company, or anything else takes time and effort if it is done right. You will fail, but that’s a good thing. Try out the process, learn from your mistakes, build on them, and grow as an individual, and a company.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/27/design-thinking">Use Design Thinking to Solve Your Next Marketing Problem: Here&#8217;s How</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/03/27/design-thinking/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Solutions-dropdown" transform="translate(-786, -85)" stroke-width="1.5">
+            <g id="legal-scale-1" transform="translate(787, 86)">
+                <line x1="10.5" y1="20.16" x2="10.5" y2="2.88" id="Shape" stroke="#3A56BC"></line>
+                <line x1="6" y1="20.16" x2="15" y2="20.16" id="Shape" stroke="#3A56BC"></line>
+                <line x1="12" y1="1.44" x2="17.25" y2="1.44" id="Shape" stroke="#3A56BC"></line>
+                <line x1="3.75" y1="1.44" x2="9" y2="1.44" id="Shape" stroke="#3A56BC"></line>
+                <ellipse id="Oval" stroke="#3A56BC" cx="10.5" cy="1.44" rx="1.5" ry="1.44"></ellipse>
+                <path d="M7.5,11.52 C7.5,13.5082251 5.82106781,15.12 3.75,15.12 C1.67893219,15.12 0,13.5082251 0,11.52 L7.5,11.52 Z" id="Shape" stroke="#FFAF24"></path>
+                <line x1="3.75" y1="1.44" x2="0" y2="8.64" id="Shape" stroke="#3A56BC"></line>
+                <line x1="3.75" y1="1.44" x2="7.5" y2="8.64" id="Shape" stroke="#3A56BC"></line>
+                <path d="M21,11.52 C21,13.5082251 19.3210678,15.12 17.25,15.12 C15.1789322,15.12 13.5,13.5082251 13.5,11.52 L21,11.52 Z" id="Shape" stroke="#FFAF24"></path>
+                <line x1="17.25" y1="1.44" x2="13.5" y2="8.64" id="Shape" stroke="#3A56BC"></line>
+                <line x1="17.25" y1="1.44" x2="21" y2="8.64" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adam Enfroy, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/adam-enfroy/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 17 Jun 2024 21:20:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Adam Enfroy, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Ultimate Guide to Facebook Insights for Advertisers</title>
+		<link>https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights#respond</comments>
+		
+		<dc:creator><![CDATA[Adam Enfroy]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights/</guid>
+
+					<description><![CDATA[<p>In this all-in-one guide to Facebook Insights, we cover how to navigate the dashboard, which metrics to track, and how to use Facebook Insights to make your Facebook ad campaigns even more effective!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights">The Ultimate Guide to Facebook Insights for Advertisers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Customers, founders, marketers, your neighbor down the street—everyone is on Facebook these days. With billions of monthly active users, marketers still look at the social media giant as an effective channel for customer acquisition. By running paid ads on the channel, you can reach your target audience for a relatively low cost per click. Your ads can be served directly to your prospects in their newsfeeds, messages, and sidebars.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="aa18c5cd-1945-4977-a385-8e7cce10ba48" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-instagram-ad.jpg" alt="Facebook ad example" width="536" height="527" /></div>
+</article>
+</div>
+<p>However, Facebook ad campaigns can get costly if you don’t know what you’re doing or aren’t measuring the effectiveness of your ads. Most marketers <em>think </em>they know Facebook, but until you dive in and truly see the breadth of data and options available, you might not know what you&#8217;re up against. Making the most of the Facebook Insights tab isn’t easy.</p>
+<p>Ad performance data can look like another language if you aren’t familiar with the terms and how they relate to one another. That’s why it’s so imperative to understand the Facebook Insights framework and what each of the metrics means. In this guide, I’m going to walk you through Facebook Insights, including:</p>
+<ul>
+<li>How to get results using Facebook.</li>
+<li>How to navigate the Facebook Insights dashboard.</li>
+<li>Which Facebook Insights data to track.</li>
+<li>How to improve your ad campaigns based on data.</li>
+</ul>
+<p>Now, let’s start by taking a look at why so many marketers continue to allocate substantial portions of their marketing budget to Facebook ad campaigns.</p>
+<h2>Getting results: Facebook Insights for customer acquisition</h2>
+<p>Facebook ranks high when it comes to marketer preference. An overwhelming <a href="https://www.statista.com/statistics/259382/social-media-platforms-used-by-b2b-and-b2c-marketers-worldwide/" target="_blank" rel="noopener">97% of B2C marketers and 89% of B2B marketers</a> picked Facebook when asked the question, “Which social media platforms do you use for marketing your business?”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bac078b2-fc42-420e-876c-20e6c8956b33" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-b2b-b2c-graph.jpg" alt="Facebook for B2B and B2C" width="706" height="505" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://www.statista.com/statistics/259382/social-media-platforms-used-by-b2b-and-b2c-marketers-worldwide/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>It seems like everything ranging from sought-after <a href="https://www.wordstream.com/blog/ws/2019/05/01/amazon-advertising-tips">Amazon</a> products to B2B software is sold on Facebook. But why?</p>
+<p>The answer lies in the effectiveness of the ad campaigns that are run on the platform and the low customer acquisition costs. While Facebook ad costs have risen over the years, it can still be a valuable, cost-efficient way to reach your customers.</p>
+<p>The average Facebook cost per click (CPC) was $0.50 in 2019, which is <a href="https://cxl.com/blog/ab-testing-facebook-ad-campaigns/" target="_blank" rel="noopener">a 5% decrease</a> from the year prior. With engaging creative and proper targeting, you can get that number much lower depending on what industry you’re in.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="57fcd274-e66f-42dd-ac21-fec846804960" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-global-average-cpc.jpg" alt="average global CPC" width="788" height="304" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://cxl.com/blog/ab-testing-facebook-ad-campaigns/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>Marketers or ad strategists should be evaluating the campaign performance data daily (if not more frequently) to ensure the proper tweaks are being made as the campaign is live.</p>
+<p>Different strategies including featuring influencers in ads or producing product videos (like the example below) can lead to Facebook ad campaign success.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="667f3ddb-db81-4035-9f6c-3826a48002cc" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/q-t45ayGHjg?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p>More and more publishers are outsourcing to freelance designers, stepping up their ad quality, too.</p>
+<p>But if you don’t constantly evaluate the campaign data, you won’t know what is working for your brand. Facebook provides the data you need to make informed campaign decisions right in the Facebook Insights dashboard in Facebook&#8217;s Business Manager.</p>
+<p>Let’s explore the basic functionality of the dashboard and the essential insights you can find and use in your next campaign.</p>
+<h2>Navigating the Facebook Insights dashboard</h2>
+<p>First, click on the “More” tab at the top of your Facebook page’s navigation bar. Once the drop-down menu appears, there will be an option to select “Insights” and open the dashboard to look at all the available data.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bb7eb1d7-eff8-457e-9dc2-01de5433ef5a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-dashboard.jpg" alt="Facebook Insights dashboard" width="750" height="398" /></div>
+</article>
+</div>
+<p>The home screen of the Insights tab showcases your “Page Summary,” a snapshot of performance data from your page. You can toggle between options that show the data for today, yesterday, the previous seven days, or the previous 28 days.</p>
+<p>It is important to note that this data reflects the data from your business-owned Facebook page. Paid ad performance data is available in a Facebook Ad Manager dashboard. Both are two different data dashboards, but today we’re concentrating on Facebook Insights and how that data can be used in your campaign.</p>
+<p>Some of the top-level data captured in the summary include actions on page, views, previews, likes, post/story reach, recommendations, <a href="https://www.wordstream.com/blog/ws/2019/06/10/facebook-post-engagement">post engagement</a>, responsiveness, videos, followers, and orders. For busy marketers, this can provide a good preview of how your Facebook performance has been recently.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a314c56a-53f2-46dc-8e98-1440680b977d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-metrics-view.jpg" alt="Facebook Insights metrics view" width="750" height="397" /></div>
+</article>
+</div>
+<p>You can see the same metrics on the side-bar navigation panel on the left side of the page. Each has its own page within the Insights tab that contains a plethora of useful data for marketers and ad strategists to digest and learn from. Merely accessing this tab and poking around is good to begin creating a foundational understanding of what types of insights are available. But those who take this information and use it to inform their <a href="https://www.wordstream.com/blog/ws/2018/01/31/low-budget-facebook-ad-campaigns">ad campaigns</a> are maximizing their reach on Facebook.</p>
+<p>Here are some of the top insights you need to look for and the step-by-step instructions for leveraging them to make your Facebook ad campaigns more effective.</p>
+<h2>Facebook Insights you need to know</h2>
+<p>It can be daunting to try and figure out all the data available for you and what it means when you first get into the Facebook Insights tab. Don’t get overwhelmed. While all the data in the dashboard is useful in some capacity, only certain data sets can be leveraged for <a href="https://www.wordstream.com/blog/ws/2016/05/23/facebook-ad-examples">Facebook ad campaigns</a>.</p>
+<p>Every marketer needs to know how to locate and decipher fan demographic data, geographic data, online habit data, and post type data. Those are the ones we’re focusing on today.</p>
+<h3>Fan demographic data</h3>
+<p>Who <em>really </em>are your fans? This is a question that can perplex unskilled marketers if they haven’t done the research. From persona building to data acquisition efforts, this question has an evolving answer that continually changes over time. Thankfully, Facebook Insights provides fan demographic data that will begin to make this question less of a conundrum and more straightforward. To begin, click the “People” tab on the navigation menu on the left side of the Facebook Insights page.</p>
+<p>Once you have the People tab open, you’ll see the demographic information of your fans. At the top, you can toggle between your fans, your followers, people reached, and people engaged.</p>
+<p>Currently, looking at the fan data will provide you the most comprehensive demographic data of those who have liked your business’ Facebook page.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="141becd7-f941-400a-ad21-03e08930c958" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-fans-view.jpg" alt="Facebook Insights fan demographics" width="741" height="320" /></div>
+</article>
+</div>
+<p>The demographic breakdown paints a clear picture of the age and gender of those who like your page. In addition, there are breakdowns of male and female followers within predetermined age ranges. This is important because these ranges correlate directly to the ones set in Facebook’s Ad Manager.</p>
+<p>Demographic information is valuable for Facebook ad campaigns because it lays the foundation for your targeting. As you can see from the data above, the audience skews significantly male. Approximately three out of four people who liked the Facebook page were male, while only one in four were female.</p>
+<p>You should consider matching this breakdown when you set up your campaign&#8217;s <a href="https://www.wordstream.com/blog/ws/2018/12/10/facebook-ad-targeting-options">targeting parameters</a> depending on your goals. If you’re optimizing for conversions, you might consider allocating 75% of your budget to an ad group that targets males and 25% to one that targets interested females.</p>
+<p>Alternatively, if you are looking to perform more outreach to segments of your fanbase with growth potential, isolating male and female variables as well as secondary age ranges would be a beneficial strategy to deploy. For this, I would recommend building out separate landing pages for each target demographic. Depending on the complexity of your <a href="https://www.wordstream.com/blog/ws/2019/02/21/facebook-funnel">funnel</a>, you could start with a simple landing page such as a squeeze page to capture email addresses from visitors in exchange for something valuable, like a free ebook or webinar.</p>
+<p>Once users exchange their email address, it’s crucial that you implement an effective <a href="https://respona.com/blog/follow-up-email/" target="_blank" rel="noopener">follow-up email strategy</a> to convert them while they’re still a warm or hot lead. Otherwise, you risk them going cold.</p>
+<h3>Fan geographic data</h3>
+<p>Like demographic data, fan geographic data will add another layer to your targeting. In the same “People” tab within Facebook Insights and immediately under the demographic data carts, you’ll find geographic data in the form of three tables.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ab4045fe-7a77-4555-884e-6fc45bbf4975" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-geographic-fans-view.jpg" alt="Facebook Insights fan geographic view" width="804" height="419" /></div>
+</article>
+</div>
+<p>The demographic data is granular with the ability to look at country, city, and language data sets. Coupled with the demographic data, you can use the geographic data to understand who your fans are and where they live.</p>
+<h3>Online habit data</h3>
+<p>Now you know who your fans are, but do you know when they’re online? This is critical to improving the chances that your ad is run during peak times when using the platform. Thankfully, there is a “Posts” tab in Facebook Insights that will help you uncover this data.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="92ba09db-aafe-4055-a24b-3fed566abf96" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-online-habit-data.jpg" alt="Facebook Insights online habit data" width="806" height="474" /></div>
+</article>
+</div>
+<p>No one wants to have their ads running at 4 a.m. if their audience isn’t awake. That’s why it’s imperative to evaluate your post performance and <a href="https://www.wordstream.com/blog/ws/2020/03/19/best-time-to-run-facebook-ads">peak times</a> that your audience is engaging with your content.</p>
+<p>Better yet, ensure someone on your team is available to handle customer requests and inquiries whenever your audience is most active. Luckily, there’s plenty of live chat software you can integrate with <a href="https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing">Facebook Messenger</a> to provide instant responses and potentially answer most commonly asked questions.</p>
+<p>At the very least, you can let your audience know when to expect a response and that a member of your team will get back to them shortly.</p>
+<h3>Post type data</h3>
+<p>Lastly, marketers need to evaluate the post type data that is available to them. In the same “Posts” tab in Facebook Insights, marketers can find a breakdown of “the success of different post types based on average reach and engagement.” The options provided are shared videos, photos, videos, and links.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7a559e36-a4cc-4e06-b978-9a48a890416d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-post-type-data.jpg" alt="Facebook Insight post data" width="801" height="429" /></div>
+</article>
+</div>
+<p>While there isn’t a <em>direct </em>correlation for what works organically compared to what works in Facebook ads, this does provide a light indication for high-performing content that your audience is engaging with. As you can see above, shared video reaches an average of 1,311 more people than photos on that specific page. Find out what works for you and double down.</p>
+<p>However, you need to make sure that the data isn’t misrepresented. If you simply don’t publish videos, your average reach might be inaccurately decreased compared to other types of content. Many marketers struggle to produce high-quality videos, but seeing how high their average engagement is above, it might be a good time to invest in a <a href="https://www.wordstream.com/blog/ws/2015/01/05/marketing-videos">video production</a> agency to help.</p>
+<p>Video production can seem daunting at first, but it doesn’t have to be. One of the easiest ways to get started with content is by <a href="https://www.adamenfroy.com/how-to-start-a-blog" target="_blank" rel="noopener">starting a blog first</a> and then repurposing your blog content into other formats like video and audio.</p>
+<p>This is a prime example of <a href="https://www.moengage.com/blog/omnichannel-marketing/" target="_blank" rel="noopener">omnichannel marketing</a> and increasing the likelihood for your audience and prospects to consume your content in a medium that best suits them.</p>
+<h2>How to use Facebook Insights to inform ad campaigns</h2>
+<p>Now that you’re equipped with fan data, it’s time to build the targeting parameters for your campaigns. Conveniently, Facebook Insights has a tab that will open the Ad Manager on the left-hand navigation menu.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4ae22e91-6784-41e3-bad5-16279f8ba840" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-ads.jpg" alt="Facebook Insights ads dashboard view" width="750" height="380" /></div>
+</article>
+</div>
+<p>Once the Ad Manager opens, click the “Audience” tab on the same left-hand navigation menu. This will display all the custom audiences you’ve built for ad campaigns over the years. To create a new audience, click the “Create Audience” button in the top-right corner.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4d15cd9d-e1f1-4e41-b032-f8cb4b785f73" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-create-audience.jpg" alt="&quot;Create Audience&quot; button" width="765" height="260" /></div>
+</article>
+</div>
+<p>When the new pop-up box appears, you’ll have the chance to begin adding the targeting parameters that you’ve learned from Facebook Insights. You can add gender, age, location, and interest data to create this custom audience.</p>
+<p>As you add the location data, you can select how far of a mile radius you want your ads to show to people near your selected location. Multiple audiences can be created and added to custom ad groups to grow or narrow your total addressable audience.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6a5d9007-41e8-490f-a594-384ee3067fb9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-insights-create-audience-view.jpg" alt="Facebook Insights &quot;Create Audience&quot; view" width="628" height="754" /></div>
+</article>
+</div>
+<p>From here you can adjust anything from occupation to income, meaning you can even reprice your products to fit new markets.</p>
+<p>Now, with your custom audiences built, you’re ready to load it into your campaign and launch! As with any campaign, you’ll need to evaluate and optimize in real-time. The targeting you thought was “perfect” might miss the mark completely. That’s why it’s critical to evaluate both the ad performance data in <a href="https://www.wordstream.com/blog/ws/2018/11/06/facebook-ads-account-audit">Facebook Ad Manager</a> and your business page’s organic posts performance in Facebook Insights.</p>
+<h2>Cracking Facebook Insights for advertisers</h2>
+<p>There’s no denying that Facebook is still a valuable marketing channel for your business with over billions of people that use the platform every day. For years, marketers have run ad campaigns on the social network to capitalize on the low cost-per-clicks and the return on investment that most campaigns provide.</p>
+<p>Accurate data is needed for campaign decisions and optimization. Without it, marketers may just be burning through cash with no sales to report. Thankfully, Facebook Insights provides marketers and ad strategists with fan demographics, geographics, online habits, and post-type data to guide their campaigns. With this data, marketers can execute ad campaigns designed to acquire more customers and grow their business today.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights">The Ultimate Guide to Facebook Insights for Advertisers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/07/24/facebook-insights/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The 6 Most Effective Ecommerce Discounts to Promote with PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts#respond</comments>
+		
+		<dc:creator><![CDATA[Adam Enfroy]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Ecommerce Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts/</guid>
+
+					<description><![CDATA[<p>Ecommerce discounts can be a powerful advertising tool—especially when you combine them with your PPC campaigns. Here are the six most effect ecommerce discounts to offer in your PPC ads, including seasonal sales, free trial offers, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts">The 6 Most Effective Ecommerce Discounts to Promote with PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Before we talk about ecommerce, we have to address the elephant in the room: Amazon.</p>
+<p>From being the leader in direct to consumer sales, Amazon is now even in the call center software space thanks to its newest addition, <a href="https://getvoip.com/blog/2019/04/05/amazon-connect-pricing/" target="_blank" rel="noopener">Amazon Connect</a>.</p>
+<p>This heavyweight ecommerce brand accounts for nearly <a href="https://www.broadbandsearch.net/blog/internet-statistics" target="_blank" rel="noopener">50% of all online shopping purchases</a>. Not only that, but Amazon has over 100 million Amazon Prime members.Many brands find it incredibly difficult to compete with their low prices and free, two-day shipping. Difficult, yes. But impossible? Not at all.</p>
+<p>One of the most powerful ways to compete with the commerce giant is through discounts, which are effective on their own. Pair them with strategic PPC ads, and you&#8217;ve got a winner.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="25b35fa6-38cb-4ed4-91b3-bc16702eab4a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-intro.jpg" alt="ecommerce discounts in PPC ads for Sears" width="649" height="502" /></div>
+</article>
+</div>
+<p>You might think that giving discounts is often associated with undervaluing your offering. If products are worth it, customers are willing to pay—but that’s not the case. The truth is that discounts can be an incredibly powerful <a href="https://learn.g2.com/types-of-advertising" target="_blank" rel="noopener">form of advertising</a>.</p>
+<p>Now, I’m going to tell you why—and I’m going to share six of the most effective discounts you can promote in your PPC campaigns so that you can start using discounts to <a href="https://www.wordstream.com/blog/ws/2021/01/11/increase-online-store-sales">drive sales</a>. Let’s get started.</p>
+<h2>Why do ecommerce discounts work?</h2>
+<p>Two psychological aspects contribute to the effectiveness of discounts. First, discounts create a sense of urgency (a form of <a href="https://www.wordstream.com/blog/ws/2017/01/10/social-proof-guide">social proof</a>) because most discounts are time-sensitive.</p>
+<p>The <a href="https://sleeknote.com/blog/fomo-marketing" target="_blank" rel="noopener">FOMO is powerful</a> and can drive people to make purchases they have been debating for a while. (This is part of the reason why President&#8217;s Day and Labor Day sales do so well.)</p>
+<p>Some discounts work better than others. Even the same discount with different wording can be more effective.</p>
+<p>For example, many people respond more favorably to discounts that use the word &#8220;Save $X&#8221; versus &#8220;$X Off.&#8221; While the final cost saved might be the same, <em>saving</em> indicates avoidance of a loss, while a certain amount off indicates a benefit.</p>
+<p>This is the second psychological aspect of discounts at play.</p>
+<p>People tend to respond more strongly to <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/loss-aversion/" target="_blank" rel="noopener">loss aversion</a>. Sounds fancy, but what does it mean? As humans, we are more drawn to things that, for example, help us avoid pain rather than things we like.</p>
+<p>So, you might avoid going parachuting to prevent the experience of a broken leg, even though you might enjoy the experience. (Assuming you didn&#8217;t break a leg, of course.)</p>
+<p>The drive to avoid a loss is, in most cases, more powerful than any benefit we might receive.</p>
+<p>Let’s say you’re comparing airline credit cards like the ones below:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2185dc08-01ce-4fbf-99a3-d040b8bd1a8c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-airline-credit-cards.jpg" alt="airline credit card comparisons" width="669" height="401" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://adventureforlessblog.com/travel-hacks/best-airline-credit-cards" target="_blank" rel="noopener">Source</a></p>
+<p>You might love that the Gold Delta SkyMiles card gives 40,000 bonus miles and a $50 credit. But then you notice the $95 annual fee after the first year, so you avoid that card and opt for one without the fee.</p>
+<p>Here&#8217;s another example: Say you really love swimming in the ocean. In fact, you do it at least twice a week.</p>
+<p>One day, you get stung by a giant jellyfish during your swim and, as a result, the thought of going in the water horrifies you.</p>
+<p>Even though you&#8217;ve swum for years without being stung, that one experience stops you in your tracks. The possibility of getting stung <em>(the loss)</em> is more powerful than the joy you get from swimming (the benefit.)</p>
+<p>That is loss aversion, and it is powerful whether the perceived loss is money or a jellyfish sting.</p>
+<p>Now that you understand the psychological reasons why people love discounts, which ones are the most effective to use in PPC ads? Here are six insanely effective PPC discounts to test out on your audience.</p>
+<h2>1. 20% Off Orders Over $50 or 30% Off Orders Over $100</h2>
+<p>Increasing the amount each customer spends is one of the simplest ways to increase your bottom line.</p>
+<p>Think about it this way: The sales numbers are the same whether 20 customers spend $10 or four customers spend $50, but your PPC costs are far lower to obtain four customers versus 20, right?</p>
+<p>In addition, X amount off $50 orders encourages people to meet the minimum spend, which leads to spending more time on site.</p>
+<p>There&#8217;s also a good chance they will spend more than the $50 required if they spend more time browsing, so including a “Buy More, Save More” component with 30% off orders over $100 increases average order value (AOV).</p>
+<p>The business side benefits are clear enough, but why does this work from the customer angle?  Take a look at this coupon by <a href="https://www.carters.com/" target="_blank" rel="noopener">Carter&#8217;s</a>, a children&#8217;s clothing brand.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4016b168-212c-40ce-8c86-3754af85c2e0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-carters-promos.jpg" alt="ecommerce discount for Cater's PPC ad" width="711" height="124" /></div>
+</article>
+</div>
+<p>Carter&#8217;s actually combines its 20% off $50 with free shipping, which is even more enticing.</p>
+<p>Plus, the mention of other discounts and clearance makes customers feel like they can get a really good deal.</p>
+<p>Shoppers are going to work really hard to meet that $50. If the customer is just a few dollars away from $50, that last item is basically free, right?</p>
+<p><a href="https://housecallpro.com/industries/plumbing-software/" target="_blank" rel="noopener">Housecall Pro</a>, an online software system for home service companies, like plumbers and electricians, uses a 33% discount, which is more eye-catching than a flat 25% or 30% off.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="85d09a06-4470-4e1a-aa42-87f500e0c427" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-housecall-discount-promo.jpg" alt="Housecall Pro ecommerce discount" width="725" height="78" /></div>
+</article>
+</div>
+<p>Play around with the numbers to see what rate customers respond to, but don&#8217;t go below 15% or the deal will lose its value. If margins are tight, offer a flat amount off, like $5, instead of 10%.</p>
+<h2>2. 40% Off on Black Friday/Cyber Monday</h2>
+<p>Black Friday, and more recently, <a href="https://www.wordstream.com/blog/ws/2018/10/16/black-fiveday">Cyber Monday</a>, has been the most popular sales day for several years now. However, ecommerce is taking over a larger portion of the Black Friday sales pie, with ecommerce sales increasing <a href="https://www.bigcommerce.com/blog/black-friday-ecommerce/" target="_blank" rel="noopener">16.7% in 2018</a>, while brick and mortar sales dipped.</p>
+<p>But, don&#8217;t expect to get away with 20% off on <a href="https://www.wordstream.com/blog/ws/2017/11/08/black-friday-ppc">Black Friday</a>. Customers expect deep discounts, so consider offering 40% off or even higher.</p>
+<p>You can also try using uneven numbers, which are more likely to catch the eye. Check out this ad from Old Navy.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9faee2df-1697-4aa5-b5eb-4636bba60505" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-old-navy-discounts.jpg" alt="Old Navy ecommerce discounts" width="701" height="254" /></div>
+</article>
+</div>
+<p>Instead of relying on the price drop signals like above, use language like &#8220;Save 40%,&#8221; which triggers the loss aversion mentioned at the beginning of this article.</p>
+<h2>3. Seasonal sales</h2>
+<p>The best deals are the ones where everyone wins. Seasonal changes are the perfect time to get rid of excess inventory while offering customers a great deal.</p>
+<p>Take Macy&#8217;s, for example, which hosted a clearance/blowout sale at the end of the summer to get rid of their summer inventory to make room for fall and winter styles.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4558a23e-c952-4d90-8c70-375873ef4af2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-macys-discounts.jpg" alt="Macy's PPC ad with ecommerce discount" width="685" height="97" /></div>
+</article>
+</div>
+<p>For deep discounts, it is important to make the most of the attention and traffic generated by the sale.</p>
+<p>For example, ask to add new customers to an <a href="https://www.omnisend.com/blog/email-blasts/" target="_blank" rel="noopener">email blast</a> or tease new products in order to encourage a relationship, rather than a one-time purchase.</p>
+<h2>4. Retail Holidays</h2>
+<p>FOMO is compelling, which is why short-lived sales for retail holidays like Presidents Day, the 4th of July, and Labor Day are so popular.</p>
+<p>We don&#8217;t want to risk missing out on a good deal!</p>
+<p><a href="https://www.vineyardvines.com/" target="_blank" rel="noopener">Vineyard Vines</a>, a popular casual clothing brand, made the most out of the recent President&#8217;s Day sales by offering 30% off select styles.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1a02dee3-0e64-4503-8659-2c1f62c2b9de" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-vineyard-vines.jpg" alt="Vineyard Vines ecommerce discount ad" width="303" height="251" /></div>
+</article>
+</div>
+<p><span lang="EN">Ecommerce brands could get even more mileage out of retail <a href="https://www.wordstream.com/blog/ws/2017/11/27/holiday-marketing-stats">holiday discounts</a> by using some of the other popular discounts listed above, such as a certain amount off of $50 purchase or free shipping. </span></p>
+<h2>5. Free trial</h2>
+<p>Which discount sounds more powerful: 10% off your first year or a free 30-day trial? Most of us would pick the free trial because it sounds like it&#8217;s worth more.</p>
+<p>For example, if a customer is comparing the different types of password managers, they might be overwhelmed by the options. Which one is the best? It&#8217;s a subscription service, so what if they try it and don&#8217;t like it?</p>
+<p>A free trial call to action, like the one <a href="https://www.manageengine.com/" target="_blank" rel="noopener">Manage Engine</a> offers, can reduce option overload and encourage users to make a purchase by alleviating risk.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6c6920dc-8f1d-4bd5-9730-003f2a88d41e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-free-trial-ad.jpg" alt="PPC ad with free trial offer" width="628" height="230" /></div>
+</article>
+</div>
+<p>Additionally, once on the site, popular <a href="https://www.adamenfroy.com/best-website-builder" target="_blank" rel="noopener">website builders</a> make it easier than ever to add exit-intent <a href="https://www.wordstream.com/blog/ws/2019/09/23/pop-up-advertising">pop-ups</a> or banners to advertise your free trial to potential customers.</p>
+<p>Once the customer has signed up and begun using the password manager, they are unlikely to want to switch (as long as the product is decent of course!) because it would require a lot of work.</p>
+<h2>6. Free shipping</h2>
+<p>While the cost of shipping is often just a few dollars, it is <a href="https://blog.rjmetrics.com/2014/07/14/the-psychology-of-free-shipping-why-it-works-as-a-marketing-tool/" target="_blank" rel="noopener">one of the most powerful discounts you can offer.</a> In fact, one survey found that shipping costs triggered <a href="http://rejoiner.com/resources/free-shipping-online-retail-sales/" target="_blank" rel="noopener">52% of shopping cart abandonment</a>.</p>
+<p>Free shipping is so powerful, it has even sparked memes. Like this one:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1c9176ff-5664-4173-a954-4d946a6f8791" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-free-shipping-meme.jpg" alt="free shipping meme" width="486" height="496" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://www.reddit.com/r/memes/comments/8zhim2/free_shipping/" target="_blank" rel="noopener">Source</a></p>
+<p>When it comes to PPC ads, free shipping is especially powerful for standing out against big competitors.</p>
+<p>Amazon offers free shipping for most purchases, so not offering free shipping (even if your product is slightly more expensive) helps level the playing field.</p>
+<p><a href="https://www.facebook.com/prettylittercats/?ref=br_rs" target="_blank" rel="noopener">Pretty Litter</a>, which offers a cat litter that changes color to indicate health issues, uses free shipping in their Google ads.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5a107ced-e1ce-4a17-bd0d-d21bfb8ea652" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-pretty-litter.jpg" alt="Pretty Litter ecommerce discount" width="719" height="298" /></div>
+</article>
+</div>
+<p>This is a powerful differentiator, especially against far bigger <a href="https://www.wordstream.com/blog/ws/2019/04/09/ecommerce-brands">ecommerce brands</a>, like Tidy Cats, Chewey.com, and Walmart.</p>
+<p>Free shipping can also be powerful on social media ads, with notoriously high costs per click.</p>
+<p>Pretty Litter, for example, uses free shipping as part of their video ad. They actually double down on the discounts by offering both 20% off as well.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="375bcfe3-aa31-44c4-bb0e-062ff6aa85cd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-discounts-pretty-litter-facebook.jpg" alt="Pretty Litter Facebook ecommerce discount offer" width="504" height="714" /></div>
+</article>
+</div>
+<p>The bottome line here? In order to compete with Amazon, you need to offer free shipping. recommend starting with free shipping on orders over $50.</p>
+<h2>Combining the powers of ecommerce discounts &amp; PPC</h2>
+<p>Don&#8217;t listen to those who insist &#8220;discounts will kill your business”! When used strategically, discounts can super-charge your PPC campaign by helping brands stand out against large competitors like Amazon and Walmart. Start with the discounts suggested here, but don&#8217;t forget to A/B test to see which discounts resonate with your customers!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts">The 6 Most Effective Ecommerce Discounts to Promote with PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/10/21/ecommerce-discounts/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Make $1,000/Month Selling on Amazon</title>
+		<link>https://www.wordstream.com/blog/ws/selling-on-amazon</link>
+					<comments>https://www.wordstream.com/blog/ws/selling-on-amazon#respond</comments>
+		
+		<dc:creator><![CDATA[Adam Enfroy]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Ecommerce Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/04/23/selling-on-amazon/</guid>
+
+					<description><![CDATA[<p>Selling on Amazon is a powerful way to sell more products and grow your ecommerce business. Curious how selling on Amazon works? Check out this beginner's guide to learn how you can start selling on Amazon successfully!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/selling-on-amazon">How to Make $1,000/Month Selling on Amazon</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When you think about making an online purchase, your brain might be hardwired now to go right to Amazon. If that’s true, you’re not alone.</p>
+<p>There are over <a href="https://www.nchannel.com/blog/amazon-statistics/">310 million active users</a> on Amazon, and 100 million of them are Prime members—that’s a lot of two-day shipping.</p>
+<p>Amazon is an ecommerce behemoth, and the company is quickly moving into other markets like streaming services, grocery and food delivery, music, video games, fashion, and <a href="https://www.beckershospitalreview.com/healthcare-information-technology/amazon-moves-into-healthcare-a-2018-timeline.html">even healthcare</a>. This vertical integration is making even it harder for smaller businesses to stay competitive.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon.jpg" alt="how to make $1,000/month selling on Amazon" width="800" height="300" /></div>
+<p>As they say: If you can’t beat ’em, join ’em. And there are plenty of ecommerce brands making a lot of money by selling on Amazon. While <a href="https://influencermarketinghub.com/start-ecommerce-business/">running your own ecommerce site</a> provides more control over branding and profit margin, you can’t ignore Amazon—in fact, you might be better off joining.</p>
+<p>If you’re looking to increase profits from your ecommerce business, it&#8217;s time to start selling on Amazon! Ready to get your feet wet? Wondering how to make $1,000 per month selling on Amazon? Before we get into how to accomplish that, let’s review some basics to see if selling on Amazon is the right opportunity for you.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#how-to-sell-on-amazon">How to sell on Amazon (for beginners)</a>
+<ul>
+<li><a href="#selling-on-amazon-with-fba">Selling on Amazon with FBA</a></li>
+<li><a href="#selling-on-amazon-directly">Selling on Amazon directly</a></li>
+</ul>
+</li>
+<li><a href="#how-much-can-i-make-selling-on-amazon">How much can I earn by selling on Amazon?</a></li>
+<li><a href="#how-to-make-money-selling-on-amazon">How to make money selling on Amazon</a></li>
+</ul>
+<div id="how-to-sell-on-amazon"><a class="subhead-anchor" rel="#how-to-sell-on-amazon"><svg width="19" height="19" viewbox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M0 0h14v14H0z"></path><path d="M7.45 9.887l-1.62 1.621c-.92.92-2.418.92-3.338 0a2.364 2.364 0 0 1 0-3.339l1.62-1.62-1.273-1.272-1.62 1.62a4.161 4.161 0 1 0 5.885 5.884l1.62-1.62L7.45 9.886zM5.527 5.135L7.17 3.492c.92-.92 2.418-.92 3.339 0 .92.92.92 2.418 0 3.339L8.866 8.473l1.272 1.273 1.644-1.643A4.161 4.161 0 1 0 5.897 2.22L4.254 3.863l1.272 1.272zm-.66 3.998a.749.749 0 0 1 0-1.06l2.208-2.206a.749.749 0 1 1 1.06 1.06L5.928 9.133a.75.75 0 0 1-1.061 0z"></path></g></svg></a></p>
+<h2>How to sell on Amazon (for beginners)</h2>
+</div>
+<p>Before you get started with that $1,000/month goal, you need to get set up to sell your products on Amazon. There are two options for ecommerce vendors: selling on Amazon with FBA or <a href="https://www.wordstream.com/blog/ws/2021/01/27/top-reasons-to-sell-on-amazon-2021">selling on Amazon</a> directly. Here’s how to choose the best option for your business.</p>
+<div id="selling-on-amazon-with-fba"><a class="subhead-anchor" rel="#selling-on-amazon-with-fba"><svg width="19" height="19" viewbox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M0 0h14v14H0z"></path><path d="M7.45 9.887l-1.62 1.621c-.92.92-2.418.92-3.338 0a2.364 2.364 0 0 1 0-3.339l1.62-1.62-1.273-1.272-1.62 1.62a4.161 4.161 0 1 0 5.885 5.884l1.62-1.62L7.45 9.886zM5.527 5.135L7.17 3.492c.92-.92 2.418-.92 3.339 0 .92.92.92 2.418 0 3.339L8.866 8.473l1.272 1.273 1.644-1.643A4.161 4.161 0 1 0 5.897 2.22L4.254 3.863l1.272 1.272zm-.66 3.998a.749.749 0 0 1 0-1.06l2.208-2.206a.749.749 0 1 1 1.06 1.06L5.928 9.133a.75.75 0 0 1-1.061 0z"></path></g></svg></a></p>
+<h3>Selling on Amazon with FBA</h3>
+</div>
+<p>Amazon is a global leader in online selling because of its cutting-edge, worldwide <a href="https://www.shipbob.com/blog/order-fulfillment/" target="_blank" rel="noopener">order fulfillment networks</a>. If you sign up for <a href="https://www.wordstream.com/blog/ws/2018/09/19/amazon-fba">Fulfillment by Amazon (FBA)</a>, you can store your products in their centers and scale your business reach by using FBA to pick, pack, ship, and provide customer service for your products.</p>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/1AVOHlpA9Mg?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<p>Think about it: If you’re just <a href="https://www.bigcommerce.com/blog/how-to-start-online-business/" target="_blank" rel="noopener">getting started in ecommerce</a>, you need to take the time to market your business with digital ads, SEO, content, and PR. By selling on Amazon through FBA, you at least get to remove inventory management, shipping, <a href="https://www.pandadoc.com/electronic-signature-software/" target="_blank" rel="noopener">the signature process</a>, and returns from your plate.</p>
+<p>Plus, Amazon’s customer service via email, phone, and <a href="https://getvoip.com/live-chat-software/">live chat tools</a> can save you from hiring employees to handle complaints and returns. Customer service and returns for any orders your customers place are handled directly by FBA and their <a href="https://freshdesk.com/knowledge-base-software">knowledge base software</a> database. This saves you time and frustration so you can focus on selling on Amazon to the best of your ability.</p>
+<p>And there are more benefits:</p>
+<ul>
+<li>You can use Amazon FBA to quickly grow your business since its fulfillment centers have been designed with wide-ranging inventory in mind.</li>
+<li>There is no minimum number of products you must send in order to participate in this program.</li>
+<li>Storing your products in the Amazon fulfillment centers is cost-effective.</li>
+<li>You basically <a href="https://services.amazon.com/fulfillment-by-amazon/pricing.htm/ref=asus_fba_snav_p" target="_blank" rel="noopener">pay as you go</a>.</li>
+<li>Amazon charges for storage space and the orders it fulfills for your customers. Shipping costs are included in your fees.</li>
+</ul>
+<p>The Amazon fulfillment center that stores your products will be assigned to you. You can box up a variety of items and ship them to the assigned warehouse. You are only responsible to package them correctly and send them to the fulfillment center.</p>
+<p>Be sure to pay attention to where Amazon assigns items to be sent, though. For example, you may be sending in 20 copies of a cookbook, but they assign 10 to one center and 10 to another.</p>
+<p>If these benefits sound worth it for your business, you’ll just need to sign up for an FBA account. Here are three main steps to get started:</p>
+<ol>
+<li>Create your product listings—add them in one at a time or in bulk with <a href="https://developer.amazonservices.com/?ld=NSGoogle" target="_blank" rel="noopener">Amazon’s API</a><u>.</u></li>
+<li>Prep your products and make sure they are ready to sell and ship to Amazon. They provide a <a href="https://www.amazon.com/gp/feature.html/ref=asus_fba_how_prefer?ie=UTF8&amp;docId=1001359701&amp;ld=NSGoogle" target="_blank" rel="noopener">page of helpful products</a> you may need including packing tape, barcode scanners, measuring tools, and more.</li>
+<li>Ship your products directly to Amazon. They can provide <a href="https://sellercentral.amazon.com/gp/help/external/201119120?language=en-US&amp;ref=mpbc_201119160_cont_201119120&amp;ld=NSGoogle" target="_blank" rel="noopener">discounted carrier rates</a> with their partnership programs and allow you to track your order to the warehouse.</li>
+</ol>
+<p>Once your products are listed and you generate sales, Amazon takes their orders and provides Prime members with free two-day shipping from their huge network of warehouses.</p>
+<p>Now, you’re all set to start selling on Amazon though FBA! Amazon will fulfill your orders, and you can focus on <a href="https://www.wordstream.com/blog/ws/2016/02/03/increase-sales-online">driving online sales</a>.</p>
+<div id="selling-on-amazon-directly"><a class="subhead-anchor" rel="#selling-on-amazon-directly"><svg width="19" height="19" viewbox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M0 0h14v14H0z"></path><path d="M7.45 9.887l-1.62 1.621c-.92.92-2.418.92-3.338 0a2.364 2.364 0 0 1 0-3.339l1.62-1.62-1.273-1.272-1.62 1.62a4.161 4.161 0 1 0 5.885 5.884l1.62-1.62L7.45 9.886zM5.527 5.135L7.17 3.492c.92-.92 2.418-.92 3.339 0 .92.92.92 2.418 0 3.339L8.866 8.473l1.272 1.273 1.644-1.643A4.161 4.161 0 1 0 5.897 2.22L4.254 3.863l1.272 1.272zm-.66 3.998a.749.749 0 0 1 0-1.06l2.208-2.206a.749.749 0 1 1 1.06 1.06L5.928 9.133a.75.75 0 0 1-1.061 0z"></path></g></svg></a></p>
+<h3>Selling on Amazon directly</h3>
+</div>
+<p>Selling on Amazon directly is similar to selling your products on Etsy or eBay. <a href="https://www.ryrob.com/how-to-start-grow-your-business-while-working-a-full-time-job/" target="_blank" rel="noopener">Even as a side business</a>, you can start selling on Amazon for $39.99 per month plus additional selling fees. The registration process is simple.</p>
+<ol>
+<li>Decide what you want to sell.</li>
+<li>Choose a selling plan.</li>
+<li>Register online.</li>
+</ol>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon-sell-directly-on-amazon.jpg" alt="selling on Amazon directly example listing" width="839" height="432" /></div>
+<p>The four-step setup process after registration is user-friendly and similar to Amazon FBA:</p>
+<ol>
+<li>List your products in the Amazon Marketplace.</li>
+<li>Sell items to customers.</li>
+<li>Ship the products to customers.</li>
+<li>Get paid directly by Amazon into your bank account.</li>
+</ol>
+<p>You’re responsible for listing your product, managing the inventory, and shipping it to customers. When selling on Amazon directly, you have more access to contact customers to request a review or handle issues that may arise before the customer posts a negative review. This is important because you don’t want an issue with your <a href="https://aggeewrites.com/customer-experience-strategies/" target="_blank" rel="noopener">customer experience strategy</a> to negatively impact your brand.</p>
+<div id="how-much-can-i-make-selling-on-amazon"><a class="subhead-anchor" rel="#how-much-can-i-make-selling-on-amazon"><svg width="19" height="19" viewbox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M0 0h14v14H0z"></path><path d="M7.45 9.887l-1.62 1.621c-.92.92-2.418.92-3.338 0a2.364 2.364 0 0 1 0-3.339l1.62-1.62-1.273-1.272-1.62 1.62a4.161 4.161 0 1 0 5.885 5.884l1.62-1.62L7.45 9.886zM5.527 5.135L7.17 3.492c.92-.92 2.418-.92 3.339 0 .92.92.92 2.418 0 3.339L8.866 8.473l1.272 1.273 1.644-1.643A4.161 4.161 0 1 0 5.897 2.22L4.254 3.863l1.272 1.272zm-.66 3.998a.749.749 0 0 1 0-1.06l2.208-2.206a.749.749 0 1 1 1.06 1.06L5.928 9.133a.75.75 0 0 1-1.061 0z"></path></g></svg></a></p>
+<h2>How much can I earn by selling on Amazon?</h2>
+</div>
+<p>When you&#8217;re selling on Amazon, really anything is possible: You could be making $9 or $9 million. The answer varies.</p>
+<p>Ultimately, <strong>the amount of money you can earn by selling on Amazon is directly correlated to the uniqueness of your products.</strong> You need to sell your own branded products with high margins (+50% to 66%). That way, your marketing efforts can afford a higher <a href="https://www.wordstream.com/blog/ws/2019/01/10/cac-vs-clv">customer acquisition cost (CAC)</a>, and you’re making more for every sale (<a href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost" data-cke-saved-href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost">how to lower your customer acquisition cost here!</a>).</p>
+<p>Today more than ever, ecommerce content and storytelling drive brand loyalty. Focus on maintaining your brand image on Amazon so that your products are seen as reputable, high-quality goods from a company that consumers know and trust.</p>
+<p>If you’re a seller with a large inventory of high-ranking products with high margins and <a href="https://www.wordstream.com/blog/ws/2014/04/10/amazon-reviews">good reviews</a>, you will be set up for success. But just like any online business, it all comes down to how well you can choose your products and market yourself.</p>
+<div id="how-to-make-money-selling-on-amazon"><a class="subhead-anchor" rel="#how-to-make-money-selling-on-amazon"><svg width="19" height="19" viewbox="0 0 14 14"><g fill="none" fill-rule="evenodd"><path d="M0 0h14v14H0z"></path><path d="M7.45 9.887l-1.62 1.621c-.92.92-2.418.92-3.338 0a2.364 2.364 0 0 1 0-3.339l1.62-1.62-1.273-1.272-1.62 1.62a4.161 4.161 0 1 0 5.885 5.884l1.62-1.62L7.45 9.886zM5.527 5.135L7.17 3.492c.92-.92 2.418-.92 3.339 0 .92.92.92 2.418 0 3.339L8.866 8.473l1.272 1.273 1.644-1.643A4.161 4.161 0 1 0 5.897 2.22L4.254 3.863l1.272 1.272zm-.66 3.998a.749.749 0 0 1 0-1.06l2.208-2.206a.749.749 0 1 1 1.06 1.06L5.928 9.133a.75.75 0 0 1-1.061 0z"></path></g></svg></a></p>
+<h2>4 steps to make $1,000/month selling on Amazon</h2>
+</div>
+<p>After you decide whether you want to ship products directly to customers or use the FBA system, you can start focus on building a well-trusted, well-reviewed brand on Amazon. The process of selling on Amazon begins when you grow your inventory and start listing products for sale in the Amazon Marketplace. The process of making money on Amazon starts with these four steps.</p>
+<p>Here’s how make $1,000/month selling on Amazon.</p>
+<h3>1. Choose your product niche</h3>
+<p>It’s important to have a strategy for choosing your product niche. When you find the right niche, it can potentially become a gold mine for you in your Amazon selling business. Choosing one product niche can help you better track which products are selling and which are not.</p>
+<p>When you find a great niche, you can also sell online without a huge competitive market stealing customers away from you. However, this process starts with an objective analysis of the product niche, whether that’s matcha tea or minimalist watches.</p>
+<p>Search for your product on <a href="https://www.google.com/shopping?hl=en" target="_blank" rel="noopener">Google Shopping</a> to understand how many other brands are selling similar items. Check out the minimum advertised price (MAP) pricing. If you are going to have to compete against 25 other large retailers, the market may be too saturated to enter.</p>
+<p>Choosing your product niche and sales funnel also involves understanding your customer persona Seasonality will also play a role, as products only in demand during the holidays, or specific times of the year require a different approach than year-round, evergreen products.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon-product-niche.jpg" alt="pool toy example photo " width="800" height="800" /></div>
+<p class="text-align-center"><em>A niche like <a href="https://www.amazon.com/Swimline-Giant-Shootball-Basketball-Swimming/dp/B00769SDUW/ref=sr_1_3?keywords=pool+toys&amp;qid=1555098653&amp;s=home-garden&amp;sr=1-3" target="_blank" rel="noopener">swimming pool basketball toys</a>, for instance.</em></p>
+<p>Ultimately, you should sell high-end, branded items (that only you sell) with high margins and low product weight.</p>
+<h3>2. Price your items to sell</h3>
+<p>If you want your items to sell, you need to price them accordingly. When you price your products higher than your competition, it can kill both your Amazon venture and any trust with your customers. 91% of customers buy from <a href="https://www.lyfemarketing.com/branding-services/" target="_blank" rel="noopener">trusted branding</a>, so you need to build this customer trust on Amazon, too.</p>
+<p>Once you build trust and start generating sales, you may see that Amazon starts to promote your products. Amazon automatically promotes other products in the section on the product detail page under “Customers who bought this item also bought.”</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon-customers-also-shop-for.jpg" alt="&quot;customers also shop for&quot; example" width="925" height="212" /></div>
+<p>Setting the price for your product involves the following strategy:</p>
+<ol>
+<li>Have a profit margin over 50% to 66%.</li>
+<li>Price your item between MAP and MSRP pricing.</li>
+<li>Know your cost of goods sold (COGS).</li>
+<li>Remember to count additional fees, such as the Amazon commission on sales, Amazon FBA fees, customer return fees, fees for returns that you have incurred, overhead costs, packing and shipping costs, and any category-specific costs. For example, vendors selling apparel on Amazon will incur category-specific costs due to the high rate of customer returns for these items.</li>
+</ol>
+<p>Finally, search for other Amazon products similar to yours. Use the same three keywords that you used for your description page and search for other products to see what appears.</p>
+<p>You’ll want to stand out from this list with strong pricing, high quality imagery, and a highly clickable product title.</p>
+<h3>3. Improve product page ranking</h3>
+<p>Ask yourself if your price is comparable to your competitors’. You need to have a competitive price and <a href="https://contentwriters.com/product-descriptions" target="_blank" rel="noopener">unique product descriptions</a> so that your product ends up on page one of the Amazon search results. Page one results mean that customers are seeing your products first, which will increase the probability of a sale.</p>
+<p>You can get your products to page one results when you invest in <a href="https://www.wordstream.com/blog/ws/2018/05/17/amazon-seo">Amazon SEO strategies</a> like the following:</p>
+<ol>
+<li>Relevant product title</li>
+<li>Your Amazon backend keywords</li>
+<li>Your product’s price and conversion rate</li>
+<li>Your Amazon reviews</li>
+<li>Your product’s price</li>
+</ol>
+<p>Making sure you have high-quality <a href="https://www.wordstream.com/blog/ws/2019/02/26/product-photography">product photos</a> is also important, which is why I recommend using <a href="https://learn.g2crowd.com/free-photo-editing-software" target="_blank" rel="noopener">free photo editing tools</a> to improve your image quality.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon-photo-editing.jpg" alt="photo editing image" width="768" height="512" /></div>
+<p>Research your competition to continually generate sales from high rankings. Tweak your product title to generate a high click-through rate so that you can continually generate organic sales.</p>
+<p>Remember that ecommerce promotions often follow retail holidays like <a href="https://www.wordstream.com/blog/ws/2018/10/16/black-fiveday">Black Friday</a>, Cyber Monday, and even other more general promotions like winter clearance or fall sales. Promotional periods are high sales periods, which is another reason your profit margin should be high.</p>
+<p>Most often, sellers choose to deviate from a stable price in the following instances:</p>
+<ul>
+<li>Launching new products</li>
+<li>Cross-selling</li>
+<li>Selling stock clearance items</li>
+<li>Sales like Black Friday or Cyber Monday</li>
+</ul>
+<p>However, lowering your price for these reasons means that you usually lower them to near break-even level—sometimes even lowering them below the <a href="/blog/ws/2020/10/07/agency-profitability-metrics">profitability</a> level. This is not recommended for normal pricing, so you have to deeply understand your profit margin and cost of goods sold (COGS).</p>
+<p>Remember, your <a href="https://www.wordstream.com/blog/ws/2019/01/16/return-on-ad-spend-roas">return on ad spend</a> for any marketing should always be 3:1. So if you spend $100 on marketing, you need to generate $300 in sales to maintain profitability.</p>
+<h3>4. Add detailed product information</h3>
+<p>Products can be listed in the Amazon Marketplace catalog one at a time. However, if you obtain a professional selling subscription, you have the option to add larger groups of products through the bulk tools. If the products are not yet listed on Amazon, you can identify the UPC/EAN and SKU.</p>
+<p>Then, you describe the attributes of the product, such as a title and detailed description information. If the product is already listed on Amazon, you need to identify the number of products you have to sell, list the condition, and the shipping options.</p>
+<p>If you want to make a lot of money on Amazon, simply describing the basics of your product is not good enough. Amazon keywords are everything for sellers. A good majority of sales on Amazon occur through organic searches for products. If you haven’t optimized your product descriptions and <a href="https://firstsiteguide.com/grammar-checker-tools/" target="_blank" rel="noopener">checked your grammar</a> and SEO, you can lose out on traffic to your products and sales.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/selling-on-amazon-product-description.jpg" alt="product description image" width="824" height="516" /></div>
+<h2>Now, go make money by selling on Amazon!</h2>
+<p>Making a profit by selling on Amazon is possible if you think smart, implement a well-planned strategy, and effectively market your business.</p>
+<p>Identify your process, (whether you’re shipping products yourself or using FBA), engage in Amazon SEO, optimize your product pages, market your brand effectively, and price your items to sell.</p>
+<p>Because remember, even if you can’t beat ’em, you can join ’em—and make $1,000 each month selling on ’em if you follow these steps.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/selling-on-amazon">How to Make $1,000/Month Selling on Amazon</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/selling-on-amazon/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Ecommerce KPIs That Are Critical to Your Online Store</title>
+		<link>https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis#respond</comments>
+		
+		<dc:creator><![CDATA[Adam Enfroy]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Ecommerce Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis/</guid>
+
+					<description><![CDATA[<p>It’s easy to get caught up in vanity metrics that don’t really tell you much about how your online sales are performing. Here are the four key ecommerce KPIs that you really need to be tracking for ecommerce success.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis">4 Ecommerce KPIs That Are Critical to Your Online Store</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When tracking online sales in ecommerce, it’s easy to get caught up in <a href="https://getcodeless.com/saas-marketing-metrics/" target="_blank" rel="noopener">vanity metrics</a>, metrics that don’t really tell you much about how your online sales are performing.</p>
+<p>Impressions, clicks, and all those other shiny looking <strong>key performance indicators (<a href="/blog/ws/2020/12/17/content-marketing-kpis">KPIs</a>)</strong> might look amazing on your Google Analytics reports, but they ultimately give you zero depth into what the heck is actually happening.</p>
+<p>It’s amazing to open Analytics or your store stats and see 10,000 unique visitors today!</p>
+<p>But did they buy from you? How much did it cost for you to get that site visit? And how many times does the average visitor engage with you before deciding to give you money?</p>
+<p>You see, most ecommerce KPIs are very misleading. They sell you false hope of success.</p>
+<p>When it comes down to it, only a few KPIs matter for <a href="https://www.wordstream.com/blog/ws/2019/03/11/ecommerce-ppc">ecommerce success</a>.</p>
+<p>Ready to find out which? Here are the four most important ecommerce KPIs that are crucial to growing your online store.</p>
+<p><em><strong>You know what else is crucial to growing your online store? Advertising on Google Shopping. <a href="https://marketing.wordstream.com/WSContentDLWebAnyInContentBannerEcommerceShopping101.html?cid=Web_Any_InContentBanner_Ecommerce_Shopping101_Download" target="_blank" rel="noopener">Download our free guide today!</a></strong></em></p>
+<h2>Ecommerce KPI #1: Cost per acquisition AND lifetime value</h2>
+<p>Let’s start with the top dogs of ecommerce KPIs: <a href="https://www.wordstream.com/blog/ws/2019/01/10/cac-vs-clv">cost per acquisition and lifetime value</a>.</p>
+<p>Why are they the top dogs? Because they determine just about every marketing and selling action you take.</p>
+<p>Let me explain. First, let’s start with acquisition costs. <a href="https://shanebarker.com/blog/customer-acquisition-strategies/" target="_blank" rel="noopener">Acquiring customers</a> costs money, unfortunately. Whether you are getting them through content marketing, social media <a href="/blog/ws/2021/06/15/lead-magnet-ideas">lead magnets,</a> pay-per-click advertising, on <a href="https://www.garyvaynerchuk.com/the-snap-generation-a-guide-to-snapchats-history/" target="_blank" rel="noopener">Snapchat</a> or even by sponsoring a <a href="https://www.smartpassiveincome.com/tutorials/start-podcast-pats-complete-step-step-podcasting-tutorial/" target="_blank" rel="noopener">new podcast</a>, everything you do costs money.</p>
+<p>While PPC is a more direct way of paying for traffic via clicks…</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f1861435-8097-434b-b2a5-01c177f77a6d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-keyword-overview.jpg" alt="ecommerce keyword overview" width="427" height="401" /></div>
+</article>
+</div>
+<p>&#8230;you still incur costs when creating posts for social media or detailed content marketing pieces to attract organic visits.</p>
+<p>For instance, the <a href="https://ryrob.com/how-start-blog/" target="_blank" rel="noopener">best blog</a> posts for content marketing take at least six hours. And if you want to stand out today, sub-par content won’t cut it on SERPs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e8152adf-799b-46bc-bacc-8a6f97183a02" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-blog-post-time-spent.jpg" alt="time spent on blog post graph" width="710" height="548" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://www.orbitmedia.com/blog/blogging-statistics/" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>And that’s just for a 1,151-word blog post:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="275d6fc1-c234-4e62-8a99-8f49c89b9355" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-blog-post-length.jpg" alt="length of blog post graph" width="710" height="483" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://www.orbitmedia.com/blog/blogging-statistics/">Image Source</a></em></p>
+<p>Data shows that 2,000-word blog posts rank best. This mean that you’ll be paying for 12 hours or more of labor for a single piece of high-quality content. And labor ain’t cheap when you are hiring top quality writers.</p>
+<p>All of this requires labor, design, and development that, unfortunately, you have to factor those into your acquisition costs.</p>
+<p><strong>Simply put, cost per acquisition is the average amount of money your ecommerce store has to spend to acquire a single customer. </strong></p>
+<p>Cost per acquisition is vitally important, as it can dramatically impact your acquisition strategy.</p>
+<p>But, to get the full picture, you need to look at lifetime value too.</p>
+<p><strong>Customer lifetime value is the average amount of money a single customer will spend with you over their lifetime/relationship with your ecommerce store. </strong></p>
+<p>The connection here is important, as analyzing either of these ecommerce KPIs alone won’t make sense.</p>
+<p>Why? Here is an example:</p>
+<p>Let’s say your cost per acquisition is $50. That’s fifty bucks for a single customer to do business with you.</p>
+<p>So what? Alone, that doesn’t tell you much.</p>
+<p>Now, let’s say your lifetime value is $45.</p>
+<p>Only now can you make sense of these ecommerce KPIs. From the example above, your acquisition costs are too high, because they surpass the amount the customer spends with you!</p>
+<p>But if your lifetime value is $500, a $50 cost per acquisition is nothing!</p>
+<p>When analyzing ecommerce KPIs, you should always start from the top with lifetime value and customer acquisition costs (<a href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost">how to lower your CAC here!</a>).</p>
+<p>Depending on these metrics, you can easily plan the next steps you need to take:</p>
+<p><strong>If your CPA is higher than your lifetime value</strong>: You are paying more to land the customer than they spend with you. This means you are not producing a profit. To combat this, you have a few options. You can cut costs on advertising or find ways to produce cheaper lead magnets and content marketing. Or you can focus on improving your customer retention and focus on upselling existing and <a href="https://www.wordstream.com/blog/ws/2016/04/19/customer-marketing-strategies">loyal customers</a> to build lifetime value. Building lifetime value per customer will help you afford those acquisition costs.</p>
+<p><strong>If your lifetime value is higher than your CPA</strong>: Congrats! You are doing great. This opens the door for tons of growth. If LTV is far higher than CPA, you are making a profit per customer and have room to spend even more on customer acquisition because of your high lifetime values. LTV can be higher for ecommerce subscription businesses or companies <a href="https://www.adamenfroy.com/best-online-course-platforms">selling online courses</a> and digital subscriptions, as monthly recurring revenue can greatly increase LTV. With a return on ad spend (ROAS) over 3:1, you can focus heavily on new customer acquisition and sustainable growth.</p>
+<h2>Ecommerce KPI #2: Cart abandonment rate</h2>
+<p><strong>Cart abandonment rate is the percentage of people who leave their cart after putting items into it on your store.</strong></p>
+<p>This pesky little ecommerce KPI can tell you a lot about your current store and website. Cart abandonment tells you if your <a href="https://www.wordstream.com/blog/ws/2014/08/14/increase-traffic-to-my-website">website is killing it</a> or <a href="https://blog.landbot.io/is-your-website-driving-people-away-heres-how-to-fix-it/" target="_blank" rel="noopener">driving people away</a> in masses. It’s one of the most annoying metrics to see on your dashboard, but it’s also one of the most telling, helpful metrics to analyze.</p>
+<p>According to Statista data, cart abandonment averages at <a href="https://www.statista.com/statistics/457078/category-cart-abandonment-rate-worldwide/" target="_blank" rel="noopener">74.2%</a> for online retailers in 2018.</p>
+<p>That’s high. Too high.</p>
+<p>While not all stores will have such a high rate, the average ecommerce store does. What are the most common reasons? Almost all of them have to do with key purchasing pain points:</p>
+<ul>
+<li>Expensive shipping</li>
+<li>No free shipping</li>
+<li>Unaware of shipping costs</li>
+<li>Slow shipping</li>
+<li>Researching</li>
+<li>Long process</li>
+<li>Bad site UI</li>
+</ul>
+<p>Thanks to Amazon, shipping has become a value point in its own right. No longer are the days where people will patiently wait 7-10 business days to receive the product they ordered. Not when Amazon delivers in two days (or even same-day).</p>
+<p>Do you have competitors selling on Amazon with similar products and pricing to you? Do you have high cart abandonment rates?</p>
+<p>You can bet that people are abandoning your cart, looking to Amazon, finding competitors, and getting their products because of shipping.</p>
+<p>So, how can you combat it?</p>
+<p>By tackling cart abandonment rates at the source:</p>
+<ul>
+<li>Showcase pain points during the cart process</li>
+<li>Improve speed</li>
+</ul>
+<p>First, you need to combat pain points during the checkout process. And the biggest pain points all revolve around shipping:</p>
+<ul>
+<li>Cost</li>
+<li>Time to ship</li>
+<li>Estimated delivery dates</li>
+</ul>
+<p>Amazon wins the shipping game not just because they have two-day shipping, but also because they are so clear about your shipping expectations before you even order the product:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2345e6aa-2ed0-4dad-8ef5-a758bb509d88" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-amazon-review-shipping.jpg" alt="review shipping page" width="845" height="425" /></div>
+</article>
+</div>
+<p>People know exactly when they are going to get their product instead of seeing “7-10 business days after order processing.” What does that even mean for a consumer? How are they supposed to know what your order processing looks like? Is that one day? Next week?</p>
+<p>These all cause frustration and lead to cart abandonment rates. On your checkout page, be sure to make shipping as clear as Amazon does.</p>
+<p>Another key reason for cart abandonment is bad user experience. How fast is your site? Is it easy to navigate? Choose a top web hosting provider with uptime history monitoring that won’t impact your site speed. Google data shows that most websites are far too slow:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3c3dbb3c-0ade-4eb8-a6e0-da84ea910573" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-speed-index.jpg" alt="speed index graph" width="961" height="504" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/">Image Source</a></em></p>
+<p>This can lead to big bounce rates and cart abandonment:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="10760519-9897-41f5-a194-709f3f25c0d9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-page-load-time.jpg" alt="page load time stats" width="800" height="559" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>Are you making customers wait seconds between each step of the checkout process due to speed? They aren’t gonna stick around. Data shows that most people use WordPress to create a website.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4485e2b7-c1d2-4523-82a8-4bf752f9536a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-cms-usage.jpg" alt="CMS usage pie chart" width="768" height="862" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://websitesetup.org/" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>In addition to <a href="https://www.bigcommerce.com/wordpress-ecommerce-plugin/" target="_blank" rel="noopener">WordPress ecommerce</a> plugins, there are countless plugins that you can use with <a href="https://wordpress.org/plugins/search/site+speed/" target="_blank" rel="noopener">WordPress to increase speed</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cd58c146-dbda-4119-866a-12375a9b632b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-site-speed.jpg" alt="ecommerce site speed" width="813" height="538" /></div>
+</article>
+</div>
+<p>Simplify your checkout process, improve your speed, and address shipping pain points right in the checkout process with detailed information. This will result in much lower cart abandonment and improved sales.</p>
+<h2>Ecommerce KPI #3: Branded online search impressions</h2>
+<p>I know what you’re thinking: Didn’t he just say that vanity metrics are worthless?</p>
+<p>You bet I did.</p>
+<p>But online search impressions aren’t a vanity metric when you are concerned with brand awareness. For most ecommerce stores during the growth phase, this is a vanity metric. But once you have a steady stream of organic sales, it’s a crucial ecommerce KPI.</p>
+<p>You see, most new ecommerce stores make the mistake of focusing on this too early. This leads them to have distorted views of what KPIs matter. Only when you have consistent organic sales should you start monitoring your branded <a href="https://www.adamenfroy.com/blog/ecommerce-marketing" target="_blank" rel="noopener">online search impressions. </a></p>
+<p>When it comes to <a href="https://www.wordstream.com/blog/ws/2019/04/09/ecommerce-brands">ecommerce marketing</a>, you need to look at it with a funnel just like any business:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0a0af05d-502f-42e8-9de4-b44f3bba6289" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-sales-funnel.jpg" alt="ecommerce sales funnel" width="732" height="553" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://www.bigcommerce.com/blog/ecommerce-metrics/#understanding-the-customer-stages" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>Depending on funnel stages, ecommerce KPIs can change.</p>
+<p>When it comes to developing a <a href="https://www.wordstream.com/blog/ws/2020/10/28/growth-strategy">growth strategy</a> with <a href="https://venngage.com/blog/growth-strategy/#step1" target="_blank" rel="noopener">key metrics</a>, you have to start at the top, listing metrics that you can track years in advance and ones that also matter more in the short-term development of your store, like brand awareness:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="91dc5481-e3f1-4671-a95c-c9bd96e58905" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-growth-strategy.jpg" alt="ecommerce kpi growth strategy" width="639" height="555" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://venngage.com/blog/growth-strategy/#step1" target="_blank" rel="noopener">Image Source</a></em></p>
+<p><strong><em>Branded online search impressions is an ecommerce KPI that tells you how many people are organically (not paid) searching for your brand on different channels.</em></strong></p>
+<p>An easy way to track online branded search impressions is via a keyword tool, either directly on Google Ads or through a tool like WordStream, Moz, SEMRush. orAhrefs.</p>
+<p>For instance, if I wanted to track the branded online search impressions for WordStream, I would plug variations of “WordStream” into the keyword tool to see how many monthly search impressions are:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="796d78ec-9be5-4649-b3e3-0ddcefaba919" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-search-impression-overview.jpg" alt="ecommerce kpi search impression overview" width="1351" height="251" /></div>
+</article>
+</div>
+<p>Then, you can track impressions over time, as they hopefully increasing month over month.</p>
+<p>Organic branded search impressions tell you how well your marketing efforts are paying off for building brand awareness, even in local markets.</p>
+<p>If more people are starting to search for your store via branded searches, you are doing something right!</p>
+<p>Another great way to manage <a href="https://www.wordstream.com/blog/ws/2017/07/26/search-impression-share">online impression building</a> is via <a href="https://www.wordstream.com/blog/ws/2018/02/08/customer-feedback-ad-copy">customer reviews</a>. This can help you <a href="https://www.wordstream.com/blog/ws/2018/02/28/pain-points" target="_blank" rel="noopener">learn about customer complaints</a>, trends of how your reviews look, and where you can improve:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="80ab53bd-7ed5-4060-af5a-fd1eb22f0669" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-amazon-reviews.jpg" alt="Amazon reviews" width="868" height="579" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://wisemerchant.com/start-ecommerce-business" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>Plus, it’s far easier to sell to brand aware searchers than people who have never heard of you before!</p>
+<h2>Ecommerce KPI #4: Average order value</h2>
+<p><strong>The average order value, or AOV, is an ecommerce KPI that shows you how big an average order on your website is. </strong></p>
+<p>This is the average figure for all the orders made on your website during a particular period of time. This number tells you how many people really want to buy from you and in what quantity.</p>
+<p>In simple terms, AOV is total revenue divided by the number of orders you have:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f18faa97-ec2a-4bbc-9302-767bfa1f9403" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-average-order-value.jpg" alt="average order value image" width="608" height="321" /></div>
+</article>
+</div>
+<p class="text-align-center"><em><a href="https://support.bigcommerce.com/s/article/Optimize-Your-Product-Pages-for-Increased-AOV" target="_blank" rel="noopener">Image Source</a></em></p>
+<p>AOV can tell you a ton about your current selling strategy.</p>
+<p>It’s one thing to have 1,000 new orders on your store for $5 each compared to 500 orders for $100. The revenue differences are huge. Most people will get caught up in having more orders. More unique orders from new customers. But more often than not, the fastest way to increase total revenue isn’t to acquire more customers.</p>
+<p>Why?</p>
+<p>You are paying to acquire more customers, and they aren’t going to be your biggest spenders.</p>
+<p>It’s often repeat purchasers who spend the most with a business. In this case, you don’t need more and more orders. You just need bigger average order values! That is why, as an ecommerce owner or digital marketing expert, you should be aiming at maximizing the AOV before total order volume.</p>
+<p>The other interesting thing about the AOV is that knowing this number will help you easily define the threshold for free shipping. You can even use this is a tactic to increase average order values over time!</p>
+<p>For instance, this is a strategy that <a href="https://www.puravidabracelets.com/" target="_blank" rel="noopener">Pura Vida Bracelets</a> takes to increase their AOV and meet the shipping preferences of their consumers:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5e12c916-4d79-49da-bd2f-b6e907f1a33b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ecommerce-kpis-free-shipping-banner.jpg" alt="free shipping banner" width="1321" height="122" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>“Free Shipping On All Orders $30+”</em></p>
+<p>Using the strategy, they can drive AOVs above $30 and provide shipping value. This way, they don’t need thousands of orders for $5. They need far less but with higher order values per sale.  AOV is a useful metric for tracking how well you are selling to new, existing, and loyal customers.</p>
+<h2>Focus on ecommerce KPIs that matter!</h2>
+<p>Ecommerce KPIs are almost limitless. In my experience, CPA, AOV, branded search impressions, CLTV, and cart abandonment are some of the most important ones around.</p>
+<p>If your reporting is focused on vanity metrics like clicks and impressions, it’s time to shift your perspective. While those vanity metrics can be great for measuring brand awareness, they aren’t so good for measuring direct revenue gains from your <a href="https://serp.co/blog/ecommerce-marketing/" target="_blank" rel="noopener">ecommerce marketing</a> strategy.  And getting too caught up in the glitz and glamour of them will have you draining your company account faster than you can blink.</p>
+<p>Focus your ecommerce data strategy on the KPIs we covered today and you will be a <a href="https://www.eofire.com/becoming-a-better-leader-7-steps-you-can-take-now/" target="_blank" rel="noopener">better leader in the space</a> and set yourself up for success in the future.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis">4 Ecommerce KPIs That Are Critical to Your Online Store</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/01/23/ecommerce-kpis/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

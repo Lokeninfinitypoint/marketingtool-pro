@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Contact" transform="translate(-56, -60)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(26, 27)">
+                <g id="laptop-user" transform="translate(29.5034, 31.747)">
+                    <path d="M22.371,19.978 C22.5616398,20.3586527 22.5411623,20.8109532 22.3169057,21.1728218 C22.0926491,21.5346905 21.6967208,21.7543173 21.271,21.753012 L2.727,21.753012 C2.30104951,21.7548836 1.90469954,21.5353669 1.68032081,21.1733012 C1.45594208,20.8112355 1.43575089,20.3586063 1.627,19.978 L3,15.749 L21,15.749 L22.371,19.978 Z" id="Shape" stroke="#3A56BC"></path>
+                    <path d="M6,3.753 L4.506,3.753 C3.67757288,3.753 3.006,4.42457288 3.006,5.253 L3.006,15.753 L21,15.753 L21,5.253 C21,4.42457288 20.3284271,3.753 19.5,3.753 L18,3.753" id="Shape" stroke="#3A56BC"></path>
+                    <line x1="11.25" y1="18.751" x2="12.75" y2="18.751" id="Shape" stroke="#3A56BC"></line>
+                    <circle id="Oval" stroke="#FFAF24" cx="12" cy="4.878" r="2.625"></circle>
+                    <path d="M7.5,12.753 C7.5,10.2677186 9.51471863,8.253 12,8.253 C14.4852814,8.253 16.5,10.2677186 16.5,12.753 L7.5,12.753 Z" id="Shape" stroke="#FFAF24"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+{
+  "id": "blik",
+  "title": "BLIK",
+  "longTitle": "BLIK",
+  "countries": [
+    "at",
+    "be",
+    "bg",
+    "hr",
+    "cy",
+    "cz",
+    "dk",
+    "ee",
+    "fi",
+    "fr",
+    "de",
+    "gr",
+    "hu",
+    "is",
+    "ie",
+    "it",
+    "lv",
+    "li",
+    "lt",
+    "lu",
+    "mt",
+    "nl",
+    "no",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "si",
+    "es",
+    "se"
+  ],
+  "currencies": [
+    "pln"
+  ],
+  "version": "1.0.0",
+  "description": "BLIK is a single use payment method that requires customers to authenticate their payments. When customers want to pay online using BLIK, they request a six-digit code from their banking application and enter it into the payment collection form.",
+  "icon": "blik.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "external_docs": "https://docs.stripe.com/payments/blik",
+  "internal_docs": "https://docs.stripe.com/payments/blik",
+  "enabled": true
+}
+
+

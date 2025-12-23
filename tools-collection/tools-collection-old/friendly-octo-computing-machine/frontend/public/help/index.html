@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <title>Help Center – Adalysis</title>
+  <meta name="description" content="Browse Adalysis onboarding guides, feature walkthroughs, and troubleshooting tips.">
+  <link rel="canonical" href="https://docs.adalysis.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Adalysis">
+  <meta property="og:title" content="Help Center – Adalysis">
+  <meta property="og:description" content="Browse Adalysis onboarding guides, feature walkthroughs, and troubleshooting tips.">
+  <meta property="og:url" content="https://docs.adalysis.com/">
+  <meta property="og:image" content="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTEyNiA2OTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9Im51bWJlci1mb3JtYXQtZmlndXJlLXRpdGxlIG51bWJlci1mb3JtYXQtZmlndXJlLWRlc2MiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgogIDx0aXRsZSBpZD0ibnVtYmVyLWZvcm1hdC1maWd1cmUtdGl0bGUiPk51bWJlciBmb3JtYXQgc2V0dGluZyBvcHRpb25zIGluIEFkYWx5c2lzPC90aXRsZT4KICA8ZGVzYyBpZD0ibnVtYmVyLWZvcm1hdC1maWd1cmUtZGVzYyI+QSBzaW1wbGlmaWVkIGlsbHVzdHJhdGlvbiBzaG93aW5nIHRvZ2dsZSBvcHRpb25zIGZvciBpbnRlcm5hdGlvbmFsIGFuZCBFdXJvcGVhbiBudW1iZXIgZm9ybWF0dGluZy48L2Rlc2M+CiAgPHJlY3Qgd2lkdGg9IjExMjYiIGhlaWdodD0iNjk0IiByeD0iMjgiIGZpbGw9IiNlZWYyZmYiIC8+CiAgPHJlY3QgeD0iNDgiIHk9IjYwIiB3aWR0aD0iMTAzMCIgaGVpZ2h0PSIxMjAiIHJ4PSIxOCIgZmlsbD0iIzFkNGVkOCIgb3BhY2l0eT0iMC4xMiIgLz4KICA8cmVjdCB4PSI3MiIgeT0iOTIiIHdpZHRoPSIyODAiIGhlaWdodD0iNDgiIHJ4PSIxMiIgZmlsbD0iIzI1NjNlYiIgLz4KICA8dGV4dCB4PSI5OCIgeT0iMTIyIiBmb250LWZhbWlseT0iSW50ZXIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiNmZmZmZmYiPkludGVybmF0aW9uYWwgZm9ybWF0PC90ZXh0PgogIDxyZWN0IHg9IjM4NCIgeT0iOTIiIHdpZHRoPSIyODAiIGhlaWdodD0iNDgiIHJ4PSIxMiIgZmlsbD0iIzFlMjkzYiIgb3BhY2l0eT0iMC4xIiAvPgogIDx0ZXh0IHg9IjQwOCIgeT0iMTIyIiBmb250LWZhbWlseT0iSW50ZXIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiMxZTI5M2IiPkV1cm9wZWFuIGZvcm1hdDwvdGV4dD4KICA8cmVjdCB4PSI3MiIgeT0iMjQwIiB3aWR0aD0iOTc4IiBoZWlnaHQ9IjMyMCIgcng9IjIyIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNjYmQ1ZjUiIHN0cm9rZS13aWR0aD0iMiIgLz4KICA8cmVjdCB4PSIxMjAiIHk9IjI4OCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSI1NiIgcng9IjE0IiBmaWxsPSIjMjU2M2ViIiBvcGFjaXR5PSIwLjEyIiAvPgogIDxyZWN0IHg9IjEyMCIgeT0iMzY0IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjU2IiByeD0iMTQiIGZpbGw9IiMyNTYzZWIiIG9wYWNpdHk9IjAuMTIiIC8+CiAgPHJlY3QgeD0iMTIwIiB5PSI0NDAiIHdpZHRoPSIzMjAiIGhlaWdodD0iNTYiIHJ4PSIxNCIgZmlsbD0iIzI1NjNlYiIgb3BhY2l0eT0iMC4xMiIgLz4KICA8cmVjdCB4PSI0ODAiIHk9IjI4OCIgd2lkdGg9IjQ1MCIgaGVpZ2h0PSIzMiIgcng9IjEwIiBmaWxsPSIjOTRhM2I4IiBvcGFjaXR5PSIwLjUiIC8+CiAgPHJlY3QgeD0iNDgwIiB5PSIzMzYiIHdpZHRoPSI0MjAiIGhlaWdodD0iMjQiIHJ4PSI4IiBmaWxsPSIjY2JkNWY1IiBvcGFjaXR5PSIwLjc1IiAvPgogIDxyZWN0IHg9IjQ4MCIgeT0iMzg0IiB3aWR0aD0iNDUwIiBoZWlnaHQ9IjMyIiByeD0iMTAiIGZpbGw9IiM5NGEzYjgiIG9wYWNpdHk9IjAuNSIgLz4KICA8cmVjdCB4PSI0ODAiIHk9IjQzMiIgd2lkdGg9IjQyMCIgaGVpZ2h0PSIyNCIgcng9IjgiIGZpbGw9IiNjYmQ1ZjUiIG9wYWNpdHk9IjAuNzUiIC8+CiAgPHJlY3QgeD0iNDgwIiB5PSI0ODAiIHdpZHRoPSI0NTAiIGhlaWdodD0iMzIiIHJ4PSIxMCIgZmlsbD0iIzk0YTNiOCIgb3BhY2l0eT0iMC41IiAvPgo8L3N2Zz4K">
+  <meta property="og:image:type" content="image/svg+xml">
+  <meta property="og:image:width" content="1126">
+  <meta property="og:image:height" content="694">
+  <meta property="og:image:alt" content="Screenshot of the Number format setting options in Adalysis.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Help Center – Adalysis">
+  <meta name="twitter:description" content="Browse Adalysis onboarding guides, feature walkthroughs, and troubleshooting tips.">
+  <meta name="twitter:image" content="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTEyNiA2OTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9Im51bWJlci1mb3JtYXQtZmlndXJlLXRpdGxlIG51bWJlci1mb3JtYXQtZmlndXJlLWRlc2MiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgogIDx0aXRsZSBpZD0ibnVtYmVyLWZvcm1hdC1maWd1cmUtdGl0bGUiPk51bWJlciBmb3JtYXQgc2V0dGluZyBvcHRpb25zIGluIEFkYWx5c2lzPC90aXRsZT4KICA8ZGVzYyBpZD0ibnVtYmVyLWZvcm1hdC1maWd1cmUtZGVzYyI+QSBzaW1wbGlmaWVkIGlsbHVzdHJhdGlvbiBzaG93aW5nIHRvZ2dsZSBvcHRpb25zIGZvciBpbnRlcm5hdGlvbmFsIGFuZCBFdXJvcGVhbiBudW1iZXIgZm9ybWF0dGluZy48L2Rlc2M+CiAgPHJlY3Qgd2lkdGg9IjExMjYiIGhlaWdodD0iNjk0IiByeD0iMjgiIGZpbGw9IiNlZWYyZmYiIC8+CiAgPHJlY3QgeD0iNDgiIHk9IjYwIiB3aWR0aD0iMTAzMCIgaGVpZ2h0PSIxMjAiIHJ4PSIxOCIgZmlsbD0iIzFkNGVkOCIgb3BhY2l0eT0iMC4xMiIgLz4KICA8cmVjdCB4PSI3MiIgeT0iOTIiIHdpZHRoPSIyODAiIGhlaWdodD0iNDgiIHJ4PSIxMiIgZmlsbD0iIzI1NjNlYiIgLz4KICA8dGV4dCB4PSI5OCIgeT0iMTIyIiBmb250LWZhbWlseT0iSW50ZXIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiNmZmZmZmYiPkludGVybmF0aW9uYWwgZm9ybWF0PC90ZXh0PgogIDxyZWN0IHg9IjM4NCIgeT0iOTIiIHdpZHRoPSIyODAiIGhlaWdodD0iNDgiIHJ4PSIxMiIgZmlsbD0iIzFlMjkzYiIgb3BhY2l0eT0iMC4xIiAvPgogIDx0ZXh0IHg9IjQwOCIgeT0iMTIyIiBmb250LWZhbWlseT0iSW50ZXIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiMxZTI5M2IiPkV1cm9wZWFuIGZvcm1hdDwvdGV4dD4KICA8cmVjdCB4PSI3MiIgeT0iMjQwIiB3aWR0aD0iOTc4IiBoZWlnaHQ9IjMyMCIgcng9IjIyIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNjYmQ1ZjUiIHN0cm9rZS13aWR0aD0iMiIgLz4KICA8cmVjdCB4PSIxMjAiIHk9IjI4OCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSI1NiIgcng9IjE0IiBmaWxsPSIjMjU2M2ViIiBvcGFjaXR5PSIwLjEyIiAvPgogIDxyZWN0IHg9IjEyMCIgeT0iMzY0IiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjU2IiByeD0iMTQiIGZpbGw9IiMyNTYzZWIiIG9wYWNpdHk9IjAuMTIiIC8+CiAgPHJlY3QgeD0iMTIwIiB5PSI0NDAiIHdpZHRoPSIzMjAiIGhlaWdodD0iNTYiIHJ4PSIxNCIgZmlsbD0iIzI1NjNlYiIgb3BhY2l0eT0iMC4xMiIgLz4KICA8cmVjdCB4PSI0ODAiIHk9IjI4OCIgd2lkdGg9IjQ1MCIgaGVpZ2h0PSIzMiIgcng9IjEwIiBmaWxsPSIjOTRhM2I4IiBvcGFjaXR5PSIwLjUiIC8+CiAgPHJlY3QgeD0iNDgwIiB5PSIzMzYiIHdpZHRoPSI0MjAiIGhlaWdodD0iMjQiIHJ4PSI4IiBmaWxsPSIjY2JkNWY1IiBvcGFjaXR5PSIwLjc1IiAvPgogIDxyZWN0IHg9IjQ4MCIgeT0iMzg0IiB3aWR0aD0iNDUwIiBoZWlnaHQ9IjMyIiByeD0iMTAiIGZpbGw9IiM5NGEzYjgiIG9wYWNpdHk9IjAuNSIgLz4KICA8cmVjdCB4PSI0ODAiIHk9IjQzMiIgd2lkdGg9IjQyMCIgaGVpZ2h0PSIyNCIgcng9IjgiIGZpbGw9IiNjYmQ1ZjUiIG9wYWNpdHk9IjAuNzUiIC8+CiAgPHJlY3QgeD0iNDgwIiB5PSI0ODAiIHdpZHRoPSI0NTAiIGhlaWdodD0iMzIiIHJ4PSIxMCIgZmlsbD0iIzk0YTNiOCIgb3BhY2l0eT0iMC41IiAvPgo8L3N2Zz4K">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2064%2064%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27bg%27%20x1%3D%270%25%27%20y1%3D%270%25%27%20x2%3D%27100%25%27%20y2%3D%27100%25%27%3E%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%232563eb%27/%3E%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%231d4ed8%27/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20x%3D%274%27%20y%3D%274%27%20width%3D%2756%27%20height%3D%2756%27%20rx%3D%2716%27%20fill%3D%27url(%23bg)%27/%3E%3Cpath%20fill%3D%27%23fff%27%20d%3D%27M32%2014l14%2036h-8.2l-2.7-7.6H28.9L26.2%2050H18l14-36Zm0%2014.4L28.1%2033h7.8L32%2028.4Z%27/%3E%3C/svg%3E">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2064%2064%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27bg%27%20x1%3D%270%25%27%20y1%3D%270%25%27%20x2%3D%27100%25%27%20y2%3D%27100%25%27%3E%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%232563eb%27/%3E%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%231d4ed8%27/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20x%3D%274%27%20y%3D%274%27%20width%3D%2756%27%20height%3D%2756%27%20rx%3D%2716%27%20fill%3D%27url(%23bg)%27/%3E%3Cpath%20fill%3D%27%23fff%27%20d%3D%27M32%2014l14%2036h-8.2l-2.7-7.6H28.9L26.2%2050H18l14-36Zm0%2014.4L28.1%2033h7.8L32%2028.4Z%27/%3E%3C/svg%3E">
+  <link rel="shortcut icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2064%2064%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27bg%27%20x1%3D%270%25%27%20y1%3D%270%25%27%20x2%3D%27100%25%27%20y2%3D%27100%25%27%3E%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%232563eb%27/%3E%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%231d4ed8%27/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20x%3D%274%27%20y%3D%274%27%20width%3D%2756%27%20height%3D%2756%27%20rx%3D%2716%27%20fill%3D%27url(%23bg)%27/%3E%3Cpath%20fill%3D%27%23fff%27%20d%3D%27M32%2014l14%2036h-8.2l-2.7-7.6H28.9L26.2%2050H18l14-36Zm0%2014.4L28.1%2033h7.8L32%2028.4Z%27/%3E%3C/svg%3E">
+  <meta name="theme-color" content="#0f172a">
+  <style>
+    :root {
+      --brand-dark: #0f172a;
+      --brand-light: #f8fafc;
+      --brand-accent: #2563eb;
+      --brand-accent-dark: #1d4ed8;
+      --ink-500: #475569;
+      --ink-700: #1e293b;
+      --radius-lg: 18px;
+      --radius-md: 14px;
+      --radius-sm: 10px;
+      --shadow-card: 0 20px 45px rgba(15, 23, 42, 0.08);
+    }
+
+    *, *:before, *:after {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+      background: var(--brand-light);
+      color: var(--ink-700);
+      line-height: 1.6;
+    }
+
+    a {
+      color: var(--brand-accent);
+      text-decoration: none;
+      transition: color 0.15s ease;
+    }
+
+    a:hover,
+    a:focus-visible {
+      color: var(--brand-accent-dark);
+      text-decoration: underline;
+    }
+
+    a:focus-visible {
+      outline: 2px solid var(--brand-accent);
+      outline-offset: 3px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    .site-logo {
+      font-weight: 700;
+      font-size: 1.25rem;
+      letter-spacing: -0.01em;
+      color: var(--brand-dark);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .site-logo::before {
+      content: "";
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      background: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%2064%2064%27%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%27bg%27%20x1%3D%270%25%27%20y1%3D%270%25%27%20x2%3D%27100%25%27%20y2%3D%27100%25%27%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%232563eb%27%20/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%231d4ed8%27%20/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20x%3D%274%27%20y%3D%274%27%20width%3D%2756%27%20height%3D%2756%27%20rx%3D%2716%27%20fill%3D%27url%28%23bg%29%27%20/%3E%0A%20%20%3Cpath%20fill%3D%27%23fff%27%20d%3D%27M32%2014l14%2036h-8.2l-2.7-7.6H28.9L26.2%2050H18l14-36Zm0%2014.4L28.1%2033h7.8L32%2028.4Z%27%20/%3E%0A%3C/svg%3E") no-repeat center/cover;
+      box-shadow: 0 8px 18px rgba(15, 23, 42, 0.15);
+    }
+
+    .site-logo span {
+      display: none;
+    }
+
+    .nav-toggle {
+      display: none;
+      border: none;
+      background: none;
+      width: 44px;
+      height: 44px;
+      padding: 0.5rem;
+      cursor: pointer;
+    }
+
+    .nav-toggle span {
+      display: block;
+      height: 3px;
+      background: var(--brand-dark);
+      border-radius: 999px;
+      margin: 5px 0;
+      transition: transform 0.2s ease, opacity 0.2s ease;
+    }
+
+    .site-header {
+      background: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    .site-header .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      padding: 1.25rem 1.5rem;
+    }
+
+    .primary-nav ul {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .primary-nav a {
+      color: var(--ink-700);
+      font-weight: 500;
+    }
+
+    .nav-cta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .nav-cta a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      padding: 0.55rem 1.2rem;
+      font-weight: 600;
+      border: 1px solid transparent;
+      text-decoration: none;
+      transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .nav-cta .cta-outline {
+      border-color: #cbd5f5;
+      color: var(--brand-accent);
+      background: #ffffff;
+    }
+
+    .nav-cta .cta-outline:hover,
+    .nav-cta .cta-outline:focus-visible {
+      border-color: var(--brand-accent);
+      color: var(--brand-accent-dark);
+    }
+
+    .nav-cta .cta-primary {
+      background: var(--brand-accent);
+      color: #ffffff;
+      box-shadow: 0 12px 25px rgba(37, 99, 235, 0.22);
+    }
+
+    .nav-cta .cta-primary:hover,
+    .nav-cta .cta-primary:focus-visible {
+      background: var(--brand-accent-dark);
+      box-shadow: 0 14px 30px rgba(29, 78, 216, 0.25);
+    }
+
+    .help-hero {
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.97), rgba(30, 64, 175, 0.94));
+      color: #ffffff;
+      padding: 3rem 0;
+      margin-bottom: 2.5rem;
+    }
+
+    .help-hero .container {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .help-hero .section-label {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      opacity: 0.75;
+    }
+
+    .help-hero h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .help-hero p {
+      margin: 0;
+      font-size: 1.05rem;
+      max-width: 46ch;
+      color: rgba(226, 232, 240, 0.85);
+    }
+
+    main {
+      padding: 3rem 0 4rem;
+    }
+
+    .page-outline {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-lg);
+      padding: 1.75rem 2rem;
+      box-shadow: var(--shadow-card);
+      margin-bottom: 3rem;
+    }
+
+    .page-outline h2 {
+      margin: 0 0 1rem;
+      font-size: 1.2rem;
+      color: var(--ink-700);
+    }
+
+    .page-outline ol {
+      margin: 0;
+      padding-left: 1.15rem;
+      color: var(--ink-500);
+      display: grid;
+      gap: 0.5rem;
+    }
+
+    .page-outline a {
+      font-weight: 600;
+    }
+
+    .single-section {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-lg);
+      padding: 2.25rem 2.5rem;
+      box-shadow: var(--shadow-card);
+      margin-bottom: 3rem;
+    }
+
+    .single-section .section-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: #64748b;
+      display: inline-block;
+      margin-bottom: 0.65rem;
+    }
+
+    .single-section h2 {
+      margin: 0 0 0.75rem;
+      font-size: 2rem;
+      letter-spacing: -0.015em;
+    }
+
+    .section-lede {
+      margin: 0;
+      max-width: 60ch;
+      color: var(--ink-500);
+    }
+
+    .help-grid {
+      display: grid;
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .single-section .help-grid {
+      margin-top: 2.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    }
+
+    .help-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-lg);
+      padding: 1.75rem;
+      box-shadow: var(--shadow-card);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .help-card:hover,
+    .help-card:focus-within {
+      transform: translateY(-4px);
+      box-shadow: 0 24px 55px rgba(15, 23, 42, 0.12);
+    }
+
+    .help-card h2,
+    .help-card h3 {
+      margin: 0 0 0.5rem;
+      font-size: 1.15rem;
+    }
+
+    .help-card p {
+      margin: 0 0 1rem;
+      color: var(--ink-500);
+    }
+
+    .help-card a {
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .help-card a::after {
+      content: "→";
+      font-weight: 600;
+      transition: transform 0.2s ease;
+    }
+
+    .help-card a:hover::after,
+    .help-card a:focus-visible::after {
+      transform: translateX(3px);
+    }
+
+    .article {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-lg);
+      padding: 2.5rem;
+      box-shadow: var(--shadow-card);
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .article header .eyebrow {
+      font-size: 0.875rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #475569;
+      margin: 0 0 0.75rem;
+    }
+
+    .article header h2 {
+      margin: 0 0 0.75rem;
+      font-size: 2.2rem;
+      line-height: 1.2;
+    }
+
+    .article header .summary {
+      font-size: 1.05rem;
+      color: #475569;
+      margin: 0 0 2rem;
+      max-width: 46ch;
+    }
+
+    .article h3 {
+      font-size: 1.3rem;
+      margin: 0 0 1rem;
+      color: var(--ink-700);
+    }
+
+    .article + .article {
+      margin-top: 3rem;
+    }
+
+    .article p {
+      margin: 0 0 1.5rem;
+    }
+
+    .article section {
+      margin-bottom: 2.5rem;
+    }
+
+    .article ol {
+      margin: 0 0 1.5rem 1.25rem;
+      padding: 0;
+    }
+
+    .article ol li {
+      margin-bottom: 0.75rem;
+      padding-left: 0.35rem;
+    }
+
+    .article details {
+      border: 1px solid #e2e8f0;
+      border-radius: 14px;
+      padding: 1rem 1.25rem;
+      background: #f8fafc;
+      margin: 0 0 1rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    .article details:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .article details summary {
+      font-weight: 600;
+      cursor: pointer;
+      color: var(--ink-700);
+      outline: none;
+    }
+
+    .article details[open] summary {
+      margin-bottom: 0.75rem;
+    }
+
+    .article details summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .article details summary::after {
+      content: "+";
+      float: right;
+      font-weight: 600;
+      transition: transform 0.2s ease;
+    }
+
+    .article details[open] summary::after {
+      content: "−";
+    }
+
+    .article figure {
+      margin: 2rem 0;
+      background: linear-gradient(180deg, rgba(226, 232, 240, 0.45), rgba(241, 245, 249, 0.9));
+      border: 1px solid #e2e8f0;
+      border-radius: 16px;
+      padding: 1rem;
+    }
+
+    .article figure .screenshot {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 12px;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.15);
+    }
+
+    .article figure figcaption {
+      font-size: 0.85rem;
+      color: #475569;
+      margin-top: 0.75rem;
+      text-align: center;
+    }
+
+    .article-meta {
+      border-top: 1px solid #e2e8f0;
+      padding-top: 1.5rem;
+      margin-top: 2.5rem;
+      font-size: 0.9rem;
+      color: #475569;
+    }
+
+    .site-footer {
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 3rem 0;
+    }
+
+    .site-footer .container {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .site-footer a {
+      color: #cbd5f5;
+    }
+
+    .site-footer address {
+      font-style: normal;
+      line-height: 1.8;
+    }
+
+    .site-footer .footer-meta {
+      font-size: 0.85rem;
+      color: #94a3b8;
+    }
+
+    @media (max-width: 768px) {
+      .site-header .container {
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+
+      .primary-nav {
+        order: 3;
+        width: 100%;
+      }
+
+      .primary-nav ul {
+        flex-wrap: wrap;
+        gap: 0.75rem 1.25rem;
+        padding-bottom: 0.75rem;
+      }
+
+      .nav-cta {
+        width: 100%;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+      }
+
+      .help-hero {
+        padding: 2.5rem 0;
+      }
+
+      .article {
+        padding: 1.75rem;
+        border-radius: 16px;
+      }
+
+      .article header h2 {
+        font-size: 2rem;
+      }
+
+      .article figure {
+        padding: 0.75rem;
+        border-radius: 14px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      main {
+        padding: 2.5rem 0 3rem;
+      }
+
+      .site-header .container {
+        gap: 0.75rem;
+      }
+
+      .primary-nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .article {
+        padding: 1.5rem;
+      }
+
+      .article header h2 {
+        font-size: 1.85rem;
+      }
+
+      .article header .summary {
+        font-size: 1rem;
+      }
+
+      .nav-cta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body id="top">
+  <header class="site-header" role="banner">
+    <div class="container">
+      <a class="site-logo" href="https://adalysis.com/"><span>A</span>Adalysis</a>
+      <nav class="primary-nav" aria-label="Primary navigation">
+        <ul>
+          <li><a href="https://adalysis.com/features/">Features</a></li>
+          <li><a href="https://adalysis.com/ppc-tools/">PPC tools</a></li>
+          <li><a href="https://docs.adalysis.com/" aria-current="page">Help Center</a></li>
+          <li><a href="https://adalysis.com/contact/">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="nav-cta">
+        <a class="cta-outline" href="https://app.adalysis.com/">Login</a>
+        <a class="cta-primary" href="https://adalysis.com/free-trial/">Start free trial</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="help-hero">
+    <div class="container">
+      <span class="section-label">Welcome</span>
+      <h1>Help Center</h1>
+      <p>Find step-by-step instructions, best practices, and release notes to keep Adalysis working the way your team expects.</p>
+    </div>
+  </section>
+
+  <main id="main-content">
+    <div class="container">
+      <nav class="page-outline" aria-label="Table of contents">
+        <h2>Contents</h2>
+        <ol>
+          <li><a href="#onboarding">Onboarding overview</a></li>
+          <li><a href="#getting-started">Getting Started checklist</a></li>
+          <li><a href="#customize-your-setup">Customize Your Setup</a></li>
+          <li><a href="#invite-your-team">Invite Your Team</a></li>
+          <li><a href="#number-format">Number Format</a></li>
+        </ol>
+      </nav>
+
+      <section id="onboarding" class="single-section">
+        <span class="section-label">Collection</span>
+        <h2>Onboarding</h2>
+        <p class="section-lede">Follow these guides to configure Adalysis to your naming conventions, data displays, and collaboration workflows.</p>
+        <div class="help-grid">
+          <article class="help-card">
+            <h3>Getting Started</h3>
+            <p>Work through the essential settings before you import your first accounts.</p>
+            <a href="#getting-started">Jump to the checklist</a>
+          </article>
+        </div>
+      </section>
+
+      <section id="getting-started" class="single-section">
+        <span class="section-label">Sub-collection</span>
+        <h2>Getting Started</h2>
+        <p class="section-lede">Work through these key steps to align Adalysis with your regions, naming conventions, and daily workflows.</p>
+        <div class="help-grid">
+          <article class="help-card">
+            <h3>Customize Your Setup</h3>
+            <p>Dial in notification rules, data formatting, and collaboration defaults before inviting the wider team.</p>
+            <a href="#customize-your-setup">Tailor core settings</a>
+          </article>
+          <article class="help-card">
+            <h3>Invite Your Team</h3>
+            <p>Add teammates, assign permissions, and share the Microsoft SSO link before you go live.</p>
+            <a href="#invite-your-team">Review the steps</a>
+          </article>
+        </div>
+      </section>
+
+      <section id="customize-your-setup" class="single-section">
+        <span class="section-label">Getting Started</span>
+        <h2>Customize Your Setup</h2>
+        <p class="section-lede">Lock in the account-wide preferences that govern how teammates see data, collaborate, and stay informed.</p>
+        <div class="help-grid">
+          <article class="help-card">
+            <h3>Number Format</h3>
+            <p>Pick the punctuation style that matches your team's preferred notation for spend, clicks, and conversions.</p>
+            <a href="#number-format">Follow the steps</a>
+          </article>
+        </div>
+      </section>
+
+      <article id="invite-your-team" class="article">
+        <header>
+          <p class="eyebrow">Onboarding · Set up your workspace</p>
+          <h2>Invite Your Team</h2>
+          <p class="summary">Set up user accounts, control permissions, and enable Microsoft sign-in to keep everyone productive from day one.</p>
+        </header>
+
+        <section>
+          <h3>Add all account users</h3>
+          <ol>
+            <li>Go to <strong>Settings &gt; Users</strong> in the left navigation.</li>
+            <li>Select <strong>Add user</strong> and enter the teammate’s name and email address.</li>
+            <li>Choose the workspaces, accounts, or client groups they should access.</li>
+            <li>Click <strong>Send invite</strong>. The teammate receives an email to finish their registration.</li>
+          </ol>
+          <p><strong>Tip:</strong> Send invites before your go-live date so users can confirm access and bookmark the login link ahead of time.</p>
+          <p><strong>Important:</strong> Fewer pending invites means fewer approval bottlenecks when you launch new campaigns or schedule automations.</p>
+        </section>
+
+        <section>
+          <h3>Make someone’s access read or edit</h3>
+          <ol>
+            <li>Open the user’s record from the <strong>Settings &gt; Users</strong> list.</li>
+            <li>In the <strong>Permissions</strong> tab, choose <strong>Read-only</strong> or <strong>Can edit</strong> for each workspace.</li>
+            <li>If you need granular control, limit edit access to specific accounts and keep others read-only.</li>
+            <li>Save your changes. They take effect immediately for that teammate.</li>
+          </ol>
+          <p><strong>Note:</strong> Analysts who only need to pull reports can stay read-only, while campaign owners should have edit rights to manage bids and budgets.</p>
+        </section>
+
+        <section>
+          <h3>Let users access Adalysis with single sign-on</h3>
+          <ol>
+            <li>From <strong>Settings &gt; Authentication</strong>, enable <strong>Microsoft single sign-on</strong>.</li>
+            <li>Copy the <strong>Login with Microsoft</strong> link and share it with your team in the invite email or chat thread.</li>
+            <li>Ask teammates to choose <strong>Continue with Microsoft</strong> the first time they sign in and authorize their Azure AD account.</li>
+            <li>Once connected, they can bypass passwords and use their Microsoft credentials for every future login.</li>
+          </ol>
+          <p><strong>Reminder:</strong> Microsoft SSO keeps access consistent with your company’s identity policies and simplifies offboarding later.</p>
+        </section>
+
+        <section>
+          <h3>Frequently asked questions</h3>
+          <details>
+            <summary>Can I resend an invite to someone who missed it?</summary>
+            <p>Yes. Find the user in <strong>Settings &gt; Users</strong>, open the menu next to their name, and select <strong>Resend invite</strong>. The email arrives instantly with a fresh activation link.</p>
+          </details>
+          <details>
+            <summary>How do I know who still needs to finish registration?</summary>
+            <p>Pending users are labeled <strong>Awaiting acceptance</strong> in the user list. Filter by status to follow up with anyone who hasn’t joined yet.</p>
+          </details>
+          <details>
+            <summary>What happens when someone leaves the company?</summary>
+            <p>Open their user profile, revoke access to all workspaces, and select <strong>Deactivate</strong>. This removes them from future notifications and frees the seat for a new teammate.</p>
+          </details>
+        </section>
+
+        <footer class="article-meta">
+          <p><strong>Last updated:</strong> <time datetime="2025-08-02">August 2, 2025</time></p>
+        </footer>
+      </article>
+
+      <article id="number-format" class="article">
+        <header>
+          <p class="eyebrow">Onboarding · Customize your setup</p>
+          <h2>Number Format</h2>
+          <p class="summary">Choose between the international and European number formats so everyone interprets metrics the same way.</p>
+        </header>
+        <p>Numbers are rendered differently in Europe compared to the rest of the world. You can choose your preferred option from the <strong>Settings &gt; Number format</strong> screen.</p>
+        <figure>
+          <svg class="screenshot" viewBox="0 0 1126 694" role="img" aria-labelledby="number-format-figure-title number-format-figure-desc" preserveAspectRatio="xMidYMid meet">
+            <title id="number-format-figure-title">Number format setting options in Adalysis</title>
+            <desc id="number-format-figure-desc">A simplified illustration showing toggle options for international and European number formatting.</desc>
+            <rect width="1126" height="694" rx="28" fill="#eef2ff" />
+            <rect x="48" y="60" width="1030" height="120" rx="18" fill="#1d4ed8" opacity="0.12" />
+            <rect x="72" y="92" width="280" height="48" rx="12" fill="#2563eb" />
+            <text x="98" y="122" font-family="Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#ffffff">International format</text>
+            <rect x="384" y="92" width="280" height="48" rx="12" fill="#1e293b" opacity="0.1" />
+            <text x="408" y="122" font-family="Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#1e293b">European format</text>
+            <rect x="72" y="240" width="978" height="320" rx="22" fill="#ffffff" stroke="#cbd5f5" stroke-width="2" />
+            <rect x="120" y="288" width="320" height="56" rx="14" fill="#2563eb" opacity="0.12" />
+            <rect x="120" y="364" width="320" height="56" rx="14" fill="#2563eb" opacity="0.12" />
+            <rect x="120" y="440" width="320" height="56" rx="14" fill="#2563eb" opacity="0.12" />
+            <rect x="480" y="288" width="450" height="32" rx="10" fill="#94a3b8" opacity="0.5" />
+            <rect x="480" y="336" width="420" height="24" rx="8" fill="#cbd5f5" opacity="0.75" />
+            <rect x="480" y="384" width="450" height="32" rx="10" fill="#94a3b8" opacity="0.5" />
+            <rect x="480" y="432" width="420" height="24" rx="8" fill="#cbd5f5" opacity="0.75" />
+            <rect x="480" y="480" width="450" height="32" rx="10" fill="#94a3b8" opacity="0.5" />
+          </svg>
+          <figcaption>Pick the number format that matches your team's preferred notation.</figcaption>
+        </figure>
+        <p>This setting is per email address, so each team member can choose their preferred option. The chosen number format will apply to all linked PPC accounts.</p>
+        <footer class="article-meta">
+          <p><strong>Last updated:</strong> <time datetime="2025-08-02">August 2, 2025</time></p>
+        </footer>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>
+        <strong>Need more help?</strong>
+        <p>Return to the <a href="#top">Help Center home</a> or <a href="https://adalysis.com/contact/">contact the Adalysis support team</a>.</p>
+      </div>
+      <div>
+        <strong>Support</strong>
+        <address>
+          Adalysis Ltd<br>
+          17 Syon Park Gardens<br>
+          London TW7 5NE, United Kingdom<br>
+          Phone: <a href="tel:+18555742506">+1-855-574-2506</a><br>
+          Email: <a href="mailto:support@adalysis.com">support@adalysis.com</a>
+        </address>
+      </div>
+      <div class="footer-meta">
+        © 2025 Adalysis. All rights reserved.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

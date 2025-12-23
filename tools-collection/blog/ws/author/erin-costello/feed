@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Erin Costello, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/erin-costello/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 20 May 2025 17:53:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Erin Costello, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>4 Facebook Ad Fails (And How To Fix Them)</title>
+		<link>https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Costello]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails/</guid>
+
+					<description><![CDATA[<p>Facebook ads deliver awesome results at a very low cost. But the Facebook platform can be frustrating and confusing sometimes. Here are four of my worst Facebook ad fails with the workarounds to fix them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails">4 Facebook Ad Fails (And How To Fix Them)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Marketers and small businesses love running Facebook ads because they yield fantastic results <a href="/blog/ws/2017/02/28/facebook-advertising-benchmarks">at a low cost</a>.</p>
+<div style="text-align:center;"><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ads-average-cost-per-click-cpc-5.png" alt="facebook posted massive increases in cost per click despite losses in impressions" width="800" height="692" /></div>
+<p>Plus, Facebook ads are also really easy to run&#8230;right???</p>
+<p>Did anyone out there (especially designers) just sigh?</p>
+<p>As the Director of Marketing for a small business, I am also the entire Department of Marketing, so I personally create our Facebook ads from strategy to design to implementation. As a Creative at heart, I enjoy the graphic design part of my job and yet, I dread the days I have to spend designing anything for Facebook ads.</p>
+<p>Yes, advertising with Facebook is often very simple, but with the ever-changing and often opaque creative requirements, things can get tricky and frustrating on the ad creation side. None of the following <a href="https://www.wordstream.com/blog/ws/2019/09/10/common-facebook-ads-issues">Facebook advertising issues</a> I’ve encountered are insurmountable by any means (and I’ll show you how to work around them). But man does it get frustrating (and kinda funny) sometimes.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/4-facebook-ad-fails1.png" alt="facebook ad fails" width="800" height="398" /></div>
+<h2>Facebook Ad Fail #1: The Pixel That Got Away</h2>
+<p>Have you ever tried to use an image for an ad that wasn’t <em>exactly</em> Facebook’s “recommended” size? I have (on accident)! As you might imagine, it didn’t go too well.</p>
+<p>My single image ad was rejected once because it was one pixel off from the recommended size. The toughest part of this wasn’t so much that it was rejected but that there was no error message or reason given for the rejection. Power Editor was just stuck and no matter how many times I tried uploading the image, the preview just stayed blank.</p>
+<p>To troubleshoot, I restarted Power Editor, re-created the campaign again from scratch, and tried a different browser – but nothing made a difference.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-recommended-pixel-size.png" alt="facebook ad sizes" width="644" height="533" /></div>
+<p>Finally, I checked my creative and saw that it was 1200 x 627 pixels instead of the “recommended” 1200 x 628. When I adjusted the image, it loaded into my campaign perfectly LIKE NOTHING HAPPENED.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/recommended-vs-required-facebook-ad-size.jpg" alt="recommended facebook ad size" width="450" height="364" /></div>
+<p>I don’t get mad about strict requirements on creative; graphic designers are very used to that and creativity thrives under constraint; but, I do wish Power Editor would have given me a head’s up about what was wrong.</p>
+<p><strong>How To Fix It: </strong>If something goes wrong during your ad creation and you can’t figure out why, double check your creative to make sure it matches <a href="/blog/ws/2016/07/13/facebook-ad-types-cheatsheet">Facebook’s recommended ad specs</a> <em>exactly</em>.</p>
+<h2>Facebook Ad Fail #2: What Are Words?</h2>
+<p>Here’s something you may not know: illustrations of falling snow are actually words!</p>
+<p>Wait, what? Let me explain. A few months ago I was creating a carousel ad to feature some of the best deals for our Christmas sale and I kept getting the “your ad may not run” error message because there was “too much text” in it. I started to strip text, test, strip more text, then test over and over again until there was literally no text in the ad:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-image-text-rule.jpg" alt="facebook ad text on image" width="1598" height="1103" /></div>
+<p>As you can see, there is zero text in this image but the <a href="https://www.wordstream.com/blog/ws/2020/03/10/facebook-ads-not-delivering">Facebook ad still failed</a>. Okay, maybe a little if you zoom in on the Jensen DUB logo, but it certainly does not deserve a warning at all, let alone an “Image Text: High” warning.</p>
+<p>So I did what anyone would do in this situation: LOL’ed, took a screenshot, then later wrote about it on the WordStream blog. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I also sent the screenshot to Facebook and nicely asked for an explanation and some direction on how to fix it. A couple days later I received a phone call from the Facebook ads team, and they were as baffled as I had been at first.</p>
+<p>But by then I had figured out by trial and error that when I removed the snow graphic, my image (even with some real text in it) passed with no issues! In other words: the program was reading the <em>snow</em> as text.</p>
+<p><strong>How To Fix It:</strong> Contact Facebook ads support via Power Editor. They’re very helpful and nice! Also, after that incident the Facebook text overlay tool has earned a coveted spot on my Chrome bookmark bar alongside heavy hitters like my Shopify login and Google Analytics. If you aren’t using that tool yet and you put text in your ads, I highly recommend <a href="https://www.facebook.com/ads/tools/text_overlay">you check it out.</a></p>
+<h2>Facebook Ad Fail #3: Exceptions AKA Text On Product Images</h2>
+<p>We sell car stereos (among many other aftermarket car accessories) and some of our best performing ads feature product images. If you think I can just drop in a nice beauty shot .png of the latest Apple CarPlay receiver into Photoshop and be on my merry way – think again.</p>
+<p>There is a LOT of text on a product image like that and even though <a href="https://www.facebook.com/business/help/980593475366490/?ref=u2u">they say this should qualify for an exception</a>, that has not (until recently) been my experience for our products. My workaround was to use a Gaussian blur on ALL of the text including the logo (ugh) on products like these:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-product-image-1.png" alt="facebook ad troubleshooting" width="300" height="167" /></div>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-product-image-2.jpg" alt="facebook ad errors" width="800" height="533" /></div>
+<p>But taking the text off of a multimedia receiver is a bad option because the content on the product’s screen is intrinsically tied to the appeal and value of the product! That is of course why Facebook made product images an exception, and even though <a href="https://www.facebook.com/business/help/980593475366490/?ref=u2u#exceptions_lower">those exceptions are supposed to be automatically applied, they were not in my case.</a></p>
+<p>When I spoke to a very nice gentleman at Facebook about the snowflake/text debacle I mentioned this issue to him as well. He basically told me that next time I encounter that problem, to let him know and he’d see what he could do. He never said he would (or could for that matter) do anything to help me account-wide or to prevent it from happening again.</p>
+<p>Since that conversation however, I haven’t had any problems with an ad getting rejected for having too much text when it features a text-laden car stereo receiver. Did they change something on my account or to the ads software in general? Maybe. Am I simply getting lucky? Perhaps. Is it my place (a mere mortal!) to question the vast mysteries of the Zuck? Probably not.</p>
+<p><strong>How To Fix It:</strong> If you know you have an ad coming up that will have text in it but should qualify for an exception, start your ad creation early in case you need to contact Facebook ads support to get it resolved.</p>
+<h2>Facebook Ad Fail #4: Editing Boosted Posts on Instagram</h2>
+<p>One day I noticed that a <a href="https://www.wordstream.com/blog/ws/2020/04/15/facebook-sponsored-posts">boosted post</a> was getting a lot of <a href="/blog/ws/2015/01/06/instagram-marketing">engagement on Instagram</a> and I thought I’d change the link to a new optimized landing page I had just finished working on.</p>
+<p>Should I have just had the best link on there to begin with? Yes, of course I should have but that isn’t always how things go when you are a one-woman marketing department (or even if you’re not). Plus, remember that this is a post about fails.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/boosted-instagram-post-fail.jpg" alt="instagram ads" width="750" height="1086" /></div>
+<p>So here’s what I learned from this particular Facebook fail. You are allowed to edit your boosted post and change the link on your ad but there’s a catch. The Instagram ad preview in Power Editor updates with your new link BUT it does not in fact change the link on your live Instagram ad. Boo. <a href="https://www.facebook.com/business/help/community/question/?id=10154128906720081">If you somehow forget the link entirely, you cannot go back and add one.</a> Boo! However, if you want to change or add a link on a boosted post on Facebook it will actually change the link. Yay!</p>
+<p><strong>How To Fix It: </strong>The beauty of the boosted post is that it’s so easy and cheap that one might be tempted to be compulsive about clicking that “boost now” button. Instead, slow down and make sure your ad content is 100% workable on both Facebook &amp; Instagram (if you have Instagram and it’s linked). Pretend that your boosted ad is a printed ad you won’t be able to change once it runs (b/c on Instagram it basically is).</p>
+<h2>I Still Love Facebook Ads</h2>
+<p>I wrote a post last year about <a href="/blog/ws/2016/04/06/small-marketing-budget">stretching a small business marketing budget</a> and I still believe <a href="/blog/ws/2015/10/14/advertising-on-facebook">paying to play on Facebook</a> is a must for everyone. Facebook ads are such a cost-efficient way to promote your business that it’s worth all of the fails in the end.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails">4 Facebook Ad Fails (And How To Fix Them)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/03/02/facebook-ad-fails/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The 3-Step Guide to Hiring an Agency or Any 3rd Party Vendor</title>
+		<link>https://www.wordstream.com/blog/ws/2016/10/31/ultimate-guide-hiring-an-agency</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/10/31/ultimate-guide-hiring-an-agency#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Costello]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Business Planning & Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/10/26/ultimate-guide-hiring-an-agency/</guid>
+
+					<description><![CDATA[<p>Finding the right advertising or marketing agency to partner with is challenging, but this simple guide and flowchart will make the process as painless as possible!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/10/31/ultimate-guide-hiring-an-agency">The 3-Step Guide to Hiring an Agency or Any 3rd Party Vendor</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0a83ca0b-dd5a-4df9-b061-c975f7cef98d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ultimate-guide-to-hiring-an-agency.png" alt="how to hire an agency" width="800" height="399" /></div>
+</article>
+</div>
+<h2>Is it Time to Hire an Agency?</h2>
+<p>Even the best of us DIYers all eventually run up against something that makes little sense for us to tackle on our own and we have to hire a professional to get the results we want. When I first bought my home, I got HGTV Magazine just to read the section where a handyman answers home improvement questions with either:  “Ask a Pro” or “Give it a Go.”  Basically it has a question like, “I have termite damage, should I try to fix it myself?” (uh, no) or, “I need to replace a doorknob (go for it!).”</p>
+<p>Even though I am a proud DIY enthusiast, the homeowner stuff freaked me out.  I was talking to my then boss who owned some rental real estate and was a DIY home renovation hobbyist. He told me he felt the same way I did about home projects as he did about computers. We both looked at each other like we were aliens and at the same time said, “But if something on a [house -him] [computer -me] goes wrong you just fix it.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bb82f83d-067c-46cc-946e-9771b019accd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/hiring-a-marketing-agency-fixed-it.jpg" alt="marketing agency hiring guide" width="472" height="640" /></div>
+</article>
+</div>
+<p><a href="/blog/ws/2016/04/06/small-marketing-budget">For a small business</a>, it can be more complicated than just “I can’t do it so I’ll hire someone who can.” Sometimes it’s not the skillset of the new project that’s the issue, but the time it would take away from an internal team member to do it. For most of the hundreds of small businesses I have worked with, the Owner or General Manager is often the salesperson, the marketer, HR, payroll, webmaster and so on. In other words there is a lot of awesome DIY going on in small businesses and sometimes it works great and sometimes, well, it doesn’t, and experts have to be hired.</p>
+<p>So the first part of learning how to hire a third party to handle a facet of your business is to answer the age old HGTV magazine question: Hire a Pro or Give it a Go? In lieu of Q&amp;A here is a flowchart that I (obviously) DIYed.</p>
+<p>This Flowchart Assumes the Following:</p>
+<ol>
+<li><strong>You cannot afford NOT to do this project based on the goals of your business.</strong> You have already decided that “The Thing” you need done, whether that’s someone to run your online marketing, build your website, or cater your next event is something <em>you must do. </em></li>
+<li><strong>You can afford to hire a 3rd party to do “The Thing” for you.</strong></li>
+<li><strong>You cannot justify hiring a full- or a part-time team member for “The Thing.” </strong></li>
+<li><strong>You = the main decision maker for “The Thing”</strong></li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ecf119d9-e631-4277-ae47-b576f6aeace3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/agency-or-diy-flowchart.jpg" alt="hire an agency or not flowchart" width="734" height="687" /></div>
+</article>
+</div>
+<p>Congrats to all of you give-it-a-goers! Stop reading, grab some coffee and go get on YouTube or Lynda.</p>
+<p>For the rest of you, let’s talk about how you should go about hiring a business to help run your business. In my former position as Marketing Manager at Mobile Electronics Specialists of America (M.E.S.A.) a huge part of my job was hiring and managing third-party marketing vendors. Why? Because M.E.S.A. is a 150+ retailer buying and marketing group but the M.E.S.A. team was (and still is) quite small. So it was impossible to do it all. We often got stuck on the “Do you have time to do this” part of the flowchart, so we hired pros.</p>
+<p>For half a decade I was on the client side of B2B discovery and sales calls 2-3 times per month on average. Sometimes they were event vendors, sometimes they were digital marketing agencies, sometimes they were digital sign vendors, and the list goes on. That means I’ve talked to SO MANY of these companies and through it all I’ve learned that it’s like hiring anyone: you ultimately don’t know how it will work out until you take the leap and hire them.</p>
+<p>That doesn’t mean however, you can’t set yourself up for success. Use these 3 steps to make sure you partner with the best possible organization for your goals.</p>
+<h3>[<a href="http://marketing.wordstream.com/WSContentDL3SignsWeb.html?camplink=InContentCTA">Still not sure if you need an agency or not? Check out our free guide, 3 Signs That You Need an Agency</a>]</h3>
+<h2></h2>
+<h2>STEP 1: Start With You, Not With Them</h2>
+<p>Before you begin researching possibilities for partners on this project, make sure you know what you want. You can be flexible later if need be but always start with you. When a B2B company’s sales pitch is 100% about them and they ask nothing about you and your business that is a big red flag (see Step 3). I mean would you have a second date with someone who only talked about themselves for 1.5 hours? Hopefully not.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4ab3a2ab-9962-4617-8ab5-91c76204fcd3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/marketing-agency-hiring-guide.jpg" alt="how to choose an advertising agency" width="500" height="418" /></div>
+</article>
+</div>
+<p>Many B2B organizations have a wide range of offerings. For example, an agency might offer SEO, PPC, Call Tracking, Web Design, Sales Training, Business Listings, and Content Creation. If you were really only looking for PPC help they are still going to try to sell you the rest of those offerings. They might send you something scary that shows you how much you need them to take over that other part of your business that you were not even considering in your original plan.</p>
+<p>I am not saying you shouldn’t consider those pitches, but don’t lose sight of your original goal and <a href="/blog/ws/2016/10/26/marketing-budget">budget</a>. If you are interested in other services that come up along the way, make it clear that you would like to accomplish the original goal first before moving on to a next phase. In the meantime, do your own research to confirm whether or not their additional products or services are actually of value to your company.</p>
+<p>It is crucially important that you keep your eye on the ball and not be intimidated by excessive shiny jargon (another red flag) and scare tactics. Any car owner who doesn’t know much about cars knows this is easier said than done though, right? Why? Because if you lack the expertise to know exactly how to fix the car or whether or not it’s even broken, you need to find someone who does. Quite the pickle. (Are these baseball metaphors working for you?) <strong>That is why trusting your new partner is one of the most important factors in deciding who to work with</strong>. You should also remain mindful of what you do know: what you want out of this partnership.</p>
+<p><strong>Try This: </strong>compose a new email and address it to yourself. For the subject sum up what you need done. In the body describe exactly what you want to accomplish, how much you want to spend to accomplish it, and a sentence or two about the type of people you want to work with including what a trustworthy company looks like to you. It should take you 2-3 minutes tops. Click Send.</p>
+<p><strong>Note to Project Managers:</strong> Okay yes, a full statement of work would be ideal but let’s get real, are small business owners and GMs really going to do one? Well if they do that’s great! But the idea behind this “email to self” is to get to the heart of what ultimately really matters fast. If that’s all you have time to do, it should help you as a reference along the way.</p>
+<p>Good job, now let’s move on.</p>
+<h2>STEP 2: Finding a Partner</h2>
+<p>Every love story has the “how we met” story. Looking for someone to run your Facebook ads or SEO strategy probably won’t be an actual love story (who knows though!?) but still you have to find one another somehow and you have to do it all (gasp) without Tinder!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f897905d-e3d1-46bc-a4c6-db78dc540e4e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/matched-on-tinder.jpg" alt="finding an agency guide" width="625" height="402" /></div>
+</article>
+</div>
+<p>Here are my top three strategies for finding the right partner in a marketing agency:</p>
+<h3>Ask Other Businesses</h3>
+<p>If you’re a local business, find a non-competing company (like in a different geographic area) in your industry that seems to be doing a good job with what you’re trying to do. You might need to do a little research to find them or you may already have good industry contacts you can start with. If you can’t find anyone in your industry to help, try other businesses in your area that have similar challenges as you and seem to be managing them how you would like to.</p>
+<p>Don’t forget about your other vendors. Do you work with other businesses already? For example, at my current position we work with car dealerships, car/home audio and electronics vendors, and boat dealerships. Who do they work with? You may get multiple recommendations from this exercise, which would be great. Set up calls with them all.</p>
+<h3>Ask Your Team</h3>
+<p>You might have someone on board who worked with a great company for this service at a previous position or they might have other relevant contacts that can help in your search.</p>
+<h3>Google</h3>
+<p>I know you did this first and that’s fine. The downside to Google is that there are SO MANY B2B PRODUCT &amp; SERVICE PROVIDERS. Go back to your email to self from Step 2 to help you narrow down your search. Is it important to you that they be in your area? Can you afford those top companies that pop up? Do you want someone who has experience in your vertical? I found the lovely people over at <a href="http://www.webbmason.com/">WebMason</a> with a simple google search for franchise printing solutions and they’re one of my favorite vendor hires ever! So even though it can be daunting, throw some cold Google leads in the mix.</p>
+<p>More tips on partner hunting:</p>
+<ul>
+<li><strong>Don’t Hate the Player:</strong> Talk to 3-5 companies and make sure they know they aren’t the only ones you’re talking to.</li>
+<li><strong>Raise Your Hand: </strong>Make a list of specific and direct questions you have and ask them all to each company. Note discrepancies, whether or not they answer directly, and whether they seem annoyed by your inquiries or welcome them.</li>
+<li><strong>Keep Their Enemies Close:</strong> Ask them straight up who their #1 competitor is. If they tell you (many dance around this one for obvious reasons) ask why you shouldn’t go with them instead. Then talk to the competitor.</li>
+<li><strong>In Free Stuff We Trust:</strong> I recently had a call with <a href="http://ifocusmktg.com/">iFocus Marketing</a> and their National Sales Manager, Whitney Barker, offered me some great objective user feedback about our site’s mobile user experience that I was able to address and fix in minutes. We haven’t signed anything with them yet but that first taste of their expertise and potential value was a huge step in the right direction for me. I’m really not saying this just because this is their blog but WordStream does this really well and it’s one of the reasons people trust them.</li>
+<li><strong>We Want Prenup</strong>. Not really but you know what I mean. Should you part ways, you should leave with at least what you started with. Make sure you retain ownership level access of all digital properties and accounts that you own that they help manage. Get it in writing.</li>
+</ul>
+<h2>STEP 3: Watch for These 9 Red Flags</h2>
+<p>Now for the fun part. Use these red flags as a guide to help you in your vetting process. But note: They only work if you’re honest with yourself about them. I know it’s tempting to just go with the first company you talked to because you have zero time, but avoiding bad eggs will save you time and money in the long run.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="990ece4d-7326-44af-b415-a690459b5820" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/red-flag.jpg" alt="marketing agency red flags" width="700" height="468" /></div>
+</article>
+</div>
+<p><em>Not that kind of red flag</em></p>
+<p><strong>Red flag #1:</strong> You know 2 or more (yikes) other businesses that you trust that have had a bad experience with them. My father in law is <a href="http://www.garyrockswold.net/resources.html">a mathematician</a> and always likes to remind me that, “Two is a pattern.” But you don’t have to be a mathematician to know that this situation isn’t looking good. Don’t even waste your time with a call with this company. <strong>Dealbreaker, move on.  </strong></p>
+<p><strong>Red flag #2:</strong> They will not allow you access to something you owned before the relationship. See the prenup tip in Step 2. I have dealt with this mess and it isn’t pretty. <strong>Dealbreaker, move on.</strong></p>
+<p><strong>Red flag #3:</strong> They dodge questions about current or past clients and/or projects and will not provide any portfolio or examples of work. Or, their portfolio is bad. <strong>Dealbreaker, move on.</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d42969e9-6a92-45a0-9a38-6d87d00f81e5" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/hiring-an-agency-portfolio-example.png" alt="how to hire an advertising &amp; marketing agency" width="1229" height="880" /></div>
+</article>
+</div>
+<p><em>A detailed design portfolio</em></p>
+<p><strong>Red flag #4:</strong> They ask you few or no questions about your business, your goals, or your industry. Even if they have experience in your vertical. <strong>Workable: </strong>If everything else seems okay see if you can talk to someone higher up. You may just have an inexperienced salesperson. Make sure you will ultimately be working with someone who does care about your goals and wants to understand your business.</p>
+<p><strong>Red flag #5:</strong> Overusing repetitive scripted pitches. Some of you salespeople out there are mad at me about this one and I’m sorry (not sorry).  If they can’t think around every angle of your problem in relation to their own product, it’s possible they don’t completely understand their own offerings OR they don’t completely understand what you need. <strong>Workable: </strong>This happens all the time because salespeople are usually expert salespeople but may not have a deep technical understanding of what they sell. That’s why this one is workable. Ask to have a 2nd call that also includes a practical member of the team who will actually be working with you on the project. If you’re still not having a real conversation.</p>
+<p><strong>Red flag #6:</strong> They repeatedly refuse to answer or purposely dodge direct questions.</p>
+<p><strong>Dealbreaker, move on. </strong>This might be one of the most frustrating experiences as a client. I should have made this Red Flag #1 because it’s one of my biggest pet peeves. In my experience, people do this for 1 of 2 reasons: they don’t know the answer, or they know that you aren’t going to like their answer.  Answering questions honestly (even if it’s, “I don’t know but I’ll find out for you”) builds trust; but not answering questions or avoiding them destroys it. It’s pretty simple, people.</p>
+<p><strong>Red flag #7:</strong> They are very late to or miss scheduled meetings to sell you on their products or services. <strong>Dealbreaker, move on. </strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ac07245f-3a76-4dcd-90da-227bb3a530f3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/way-harsh-tai.gif" alt="way harsh" width="244" height="234" /></div>
+</article>
+</div>
+<p>I had a pretty pricey web project I was getting multiple bids for and I had a call set up with a company to pitch me on the project and…. the guy just forgot about the call. A WEEK later, he emailed me and was very apologetic and begged me to reschedule, but I didn’t. Maybe I was being too harsh but I stand by the decision. I get that people make mistakes but <strong>if they don’t show up when it means making them money, they probably aren’t going to show up when they already have your money. </strong>They should value your time from the get go and want to earn your trust.</p>
+<p><strong>Red flag #8:</strong> You know something crucial about their area of expertise that they do not. <strong>Dealbreaker, move on. </strong></p>
+<p>A person in a social marketing agency once told me I needed to use hashtags on Facebook.  Which sounds all fine and dandy here in 2016 except for the fact that this was about 2 years before hashtagging was even possible on Facebook. He didn’t use social media himself, must have been confused about something he heard, and never bothered to confirm it. If you’re going to hire an expert, make sure they’re actually an expert. If you don’t, remember you often get what you pay for (or don’t pay for as it were.)</p>
+<p><strong>Red flag #9:</strong> You have a bad feeling about them/You don’t think they are being honest with you/They seem to purposely talk over your head/They over-jargon their sales pitches.<strong> Judgment Call.</strong></p>
+<p>My friend owns a business and he found a company through word of mouth to build his website and possibly handle his Google AdWords account. He asked me to talk to the rep there because my friend doesn’t speak online marketing-ese. I exchanged a few emails with the rep and he came off kind of rude and pushy but when I got him on the phone he was all smoothed out. When I called my friend to tell him that I thought they would be fine, he said he had a bad feeling about the guy and the company. He thought the guy was too pushy and he wasn’t sure he liked him. From there, my friend needed to make that call for himself but for me it’s a dealbreaker: it hurts my soul to work with people I truly don’t like. My boss once said he can work with people he likes, with people he doesn’t like, but he cannot work with someone he can’t trust. Seems pretty reasonable to me. You have to decide where you stand on that for yourself but don’t ignore it as a red flag.</p>
+<h2>Final Thoughts</h2>
+<p>Congratulations! You now have an expert you trust to run something that will help you obtain your business goals! But don’t just settle on autopilot. People, technology, businesses, and goals all can change without much notice.  Just because there were no red flags when you started working with an agency doesn’t mean that in a year or two there won’t be. Make sure that it continues to be the right investment for your business.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/10/31/ultimate-guide-hiring-an-agency">The 3-Step Guide to Hiring an Agency or Any 3rd Party Vendor</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/10/31/ultimate-guide-hiring-an-agency/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6 Ways to Optimize a Small Marketing Budget</title>
+		<link>https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Costello]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Business Planning & Strategy]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/04/05/small-marketing-budget/</guid>
+
+					<description><![CDATA[<p>Don't have much budget? No problem! You can still make the most of even a small marketing budget if you have smart strategies.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget">6 Ways to Optimize a Small Marketing Budget</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the aftermath of the 2008 economic downturn, I was the Marketing Manager for a 250-storefront buying and marketing group of independent in-car electronics and accessories retailers. We learned a crucial lesson from the recession and its eventual recovery: <strong>Don’t stop promoting your business.</strong> Ever. Don’t stop, even when your resources are low.</p>
+<p>If you’ve got a small marketing budget, you have to be smart about priorities. In this post, I’ll share five specific things I’ve learned along the way to help small businesses make the most of their small marketing budgets.</p>
+<h3>Contents</h3>
+<ol>
+<li><a href="#have-a-marketing-budget">Have a marketing budget</a></li>
+<li><a href="#pick-one-social-media-channel">Pick one social media channel and do it well</a></li>
+<li><a href="#pay-to-play-in-social">Pay to play in social</a></li>
+<li><a href="#invest-in-email-marketing">Invest in email marketing</a></li>
+<li><a href="#get-creative-with-your-visual-creative">Get creative with your visual creative</a></li>
+<li><a href="#pay-to-play-in-search-too">Pay to play in search, too</a></li>
+</ol>
+<h2>6 top tips to optimize a small marketing budget</h2>
+<p>With a little creativity and know-how, you can get outsized results from even a small marketing budget. These strategies will help you do it.</p>
+<div id="have-a-marketing-budget">
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>You need a plan to go along with that budget. </strong>Download <a href="https://www.wordstream.com/resources/marketing-calendar?cid=Web_WS_InContent_Guide_2025MarketingCalendar_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">The Only Marketing Calendar You Need</a>.</p>
+</div>
+<h3>1. Have a marketing budget</h3>
+<p>A $0 marketing budget can’t be stretched. I have worked with small businesses that historically allocated zero resources to marketing, and nobody is surprised to hear that these retailers were not performing to their full potential.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-monday-1.webp" alt="Optimize marketing budget - screenshot of a Monday.com budget template." width="856" height="453" class="aligncenter wp-image-87279 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-monday-1.webp 856w, https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-monday-1-480x254.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 856px, 100vw" /></p>
+<p style="text-align: center;"><em>No matter how elaborate your </em><a href="https://localiq.com/blog/marketing-budget/" target="_blank" rel="noopener"><em>budget template</em></a><em> is, you can’t manage and optimize zero marketing dollars.</em></p>
+<p>There were retailers in our specialty retail industry who, like many small businesses, eliminated or significantly cut their promotional budgets during the recession. I get it. Consumers stopped having disposable income and subsequently stopped buying as many things, so why toss money into what seems like a burning pit of <a href="https://www.wordstream.com/blog/ws/2022/04/04/marketing-collateral">marketing collateral</a>? I’ll tell you why: because eventually, people got new jobs, had disposable incomes again, and, most importantly, started buying things again.</p>
+<p>After the economy recovered (in most markets), the retailers that stayed on message and stayed promotional even when times were rough had a <strong>huge</strong> advantage over competitors that had been waiting on the sidelines for conditions to improve. In some cases, our post-crash promotional retailers overtook their silent, non-promotional <a href="https://localiq.com/blog/how-to-find-your-competitors/" target="_blank" rel="noopener">competitors</a> by default and emerged as the single voice for consumers in their market.</p>
+<p>You need to build marketing into your <a href="https://www.wordstream.com/blog/ws/2022/09/28/small-business-budget">small business budget</a>. So fire up Excel and get spreadsheeting.</p>
+<div id="pick-one-social-media-channel"></div>
+<h3>2. Pick one social media channel and do it well</h3>
+<p>When Google+ was launched, I remember the collective panic expressed by the small business owners I worked with at the time. That same panic came along with the growing popularity of Instagram and Pinterest. Then there was Snapchat. How will an already insanely busy small business owner or marketer ever find the time and money to manage <a href="https://www.wordstream.com/social-media-marketing">social media marketing</a> on a gazillion business pages when they’re struggling to just promote one?</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>See what your competitors pay for Facebook ads!</strong> Get <a href="https://www.wordstream.com/resources/facebook-benchmarks?cid=Web_WS_InContent_Guide_FBAdsBenchmarks2024_Download">The Facebook Ads Benchmarks Report.</a></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-social-channels-1-1.webp" alt="Optimize marketing budget - chart of popular social media channels." width="544" height="593" class="aligncenter wp-image-87287 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-social-channels-1-1.webp 544w, https://www.wordstream.com/wp-content/uploads/2016/04/optimize-marketing-budget-wordstream-social-channels-1-1-480x523.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 544px, 100vw" /></p>
+<p style="text-align: center;"><em>Each <a href="https://www.wordstream.com/blog/ws/2022/01/11/most-popular-social-media-platforms">major social media channel</a> has its own merits, but it&#8217;s nearly impossible to be successful on all of them at the same time.</em></p>
+<p>Take a deep breath and stop panicking. Take a look at your resources and level with yourself. Can you really get the results you want with social if you try to be really good at all of them?</p>
+<p>If your answer is no, I have good news for you. My tried and true recommendation is to pick one or two and go all in. When you focus your time and money on a streamlined <a href="/blog/ws/2015/01/19/social-media-marketing-plan">social strategy</a>, you can bring in all of those resources scattered across multiple properties and put them toward a more concentrated and simplified strategy.</p>
+<p>I can’t tell you <a href="/blog/ws/2014/09/24/social-media-advertising">which social media network to choose</a> because that depends on your business, but I will say that most B2C businesses that take my advice choose Facebook, <a href="https://www.wordstream.com/blog/how-to-drive-traffic-from-instagram">Instagram</a>, or both, while most B2B businesses choose X (formerly Twitter), Facebook, or LinkedIn. When everyone tells you to start <a href="https://www.wordstream.com/blog/ws/2019/01/09/snapchat-ads">advertising on Snapchat</a>, and you think your head might explode, you have my permission to just say no. You’re welcome.</p>
+<div id="pay-to-play-in-social"></div>
+<h3>3. Pay to play in social (instead of thinking organic is enough)</h3>
+<p>Let’s say that after you read tip #2, you chose <a href="https://www.wordstream.com/blog/ws/2016/03/08/facebook-marketing-ideas">Facebook</a> as your social strategy focus. Good choice since Facebook is the most popular social network in the United States.</p>
+<p>Well, long gone are days of effective free <a href="https://localiq.com/blog/how-to-run-facebook-ads/" target="_blank" rel="noopener">advertising via Facebook</a> business page posts. The good news is that Facebook advertising and boosted posts are highly effective and very affordable.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fcf3f589-21dd-4d21-ae95-ce00a2b52263" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/small-marketing-budget-facebook-boost-posts.png" alt="Optimize marketing budget - small marketing budget for facebook" width="471" height="162" class="aligncenter" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><em>Facebook boosted posts insights from </em><a href="https://www.facebook.com/columbuscaraudioaccessories" target="_blank" rel="noopener"><em>Columbus Car Audio</em></a><em>, a specialty retailer with ~5,000 likes.</em></p>
+<p>The screenshot above shows how a boosted post performed vs. an unpaid post, and I think it speaks for itself. This $30 boosted post ran during a freak snowstorm as a way to promote car remote start systems. Nope, I am not missing any zeros, my friends, that is thirty dollars. It reached 10,000 people, was clicked 531 times, and had 55 comments. Yay for freak snowstorms!</p>
+<p>You probably also noticed the post below it, however, which was not boosted and got only 265 views and 5 engagements. They paid more for the boosted post than the free one, but they got <strong>38 times the reach and a whopping 106 times the engagement</strong>.</p>
+<p>Boosting posts isn’t the only way you can pay to play on Facebook. Columbus Car Audio spends about $300-$500 per Facebook ad campaign and gains, on average, about 57 leads per campaign with about an 8% <a href="https://www.wordstream.com/blog/ws/2023/09/11/increase-conversion-rates">conversion rate</a>. Considering that an average ticket for a 12-volt retailer is around $1500 (but usually higher!), they get a pretty healthy ROI from Facebook ads.</p>
+<p>Now, how about some good old-fashioned anecdotal evidence to pile on top of these statistics and charts? When I asked the folks over at Columbus Car Audio about their feelings on paid vs. organic social content, they replied, “Anything paid definitely blows organic posts out of the water. We think Facebook ads are one of our most successful advertising endeavors, and we’ve increased the budget tremendously for campaigns in 2016.” Thanks, Columbus Car Audio, for sharing your stats and success with the world!</p>
+<div id="invest-in-email-marketing"></div>
+<h3>4. Invest in email marketing and shred direct mail</h3>
+<p>Sometimes, we do what we’ve always done because it’s safe and familiar and because we’ve always done it. I know some businesses are still placing ads in print phone books (apparently, that is still a thing), and others are still choosing to invest in direct mail instead of <a href="https://www.wordstream.com/blog/ws/2021/07/01/email-marketing-tips">email marketing</a>.</p>
+<p>Harvard Business Review did a comparison between direct mail and email marketing in <a href="https://hbr.org/2012/08/why-email-marketing-is-king" target="_blank" rel="noopener">this great article</a>. To summarize their case study, direct mail costs about 100 times as much as email marketing, and ROI-wise, email marketing campaigns performed about 95 times better.</p>
+<p>The barrier to email marketing that I hear most is, “I have no list” or, “My list is too small, and I don’t know how to build one.” You <a href="https://www.wordstream.com/blog/ws/2023/08/11/how-to-build-an-email-list"><em>can</em> build a list</a> and you<em> can</em> do it cheaply.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="43edcc9b-b882-4222-9767-939d30e34f83" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/small-marketing-budget-email-list-offer.png" alt="email for small marketing budgets" width="588" height="462" class="aligncenter" /></div>
+</article>
+</div>
+<p>A simple popup with an attractive <a href="https://www.wordstream.com/blog/ws/2014/10/09/call-to-action">call to action</a> will generate new subscribers like crazy.</p>
+<p>Capture email leads on your website or sign up customers at checkout by clearly explaining the value of <a href="/blog/ws/2014/08/05/increase-email-signups">signing up for your newsletters</a> (so make sure there <em>is</em> value). In-person point-of-sale email address acquisition is cheap, and it&#8217;s just a matter of training your staff to capture that information. Whether you’re offering product discounts to subscribers, valuable information, or other exclusive offers, be clear and be specific.</p>
+<p>Do not trick customers into giving you their email addresses or buy shady lists. Your goal is to get and keep more real customers, not to win the biggest email list in the world award (and possibly get your IP blacklisted).</p>
+<p><strong>Tech Tip:</strong> According to HubSpot, <a href="http://www.hubspot.com/marketing-statistics#topic-email" target="_blank" rel="noopener">80.8%</a> of users report reading email on mobile devices, so once you have subscribers, make sure you use or build a mobile-optimized template for your e-blasts.</p>
+<div id="get-creative-with-your-visual-creative"></div>
+<h3>5. Get creative with your visual creative (and make content for less)</h3>
+<p>Finding ways to integrate promotional <a href="https://www.wordstream.com/blog/ws/2023/06/13/content-creation">content creation</a> into your day-to-day tasks (i.e., the stuff you’re doing anyway) saves you time and money. Get everyone in your business involved in generating visual promotional content.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9eb24eb7-394c-4e48-bea4-5416ccfbc7c9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/small-marketing-budget-tips-content-creation.png" alt="how to use a small marketing budget" width="634" height="434" class="aligncenter" /></div>
+</article>
+</div>
+<p class="text-align-center" style="text-align: center;"><em>Shout out to the beautiful people over at Deeda Salon in Sacramento, CA</em></p>
+<p>Take a hair salon, for example. Ask your stylists to take photos of their work and post them to Instagram. Use relevant <a href="https://www.wordstream.com/blog/ws/2019/05/29/instagram-hashtags">hashtags</a> so people can find your content even if they aren’t following you. I recommend using a social <a href="https://www.wordstream.com/blog/ws/2018/01/17/best-free-social-media-management-tools">media management tool</a> so someone can approve the content. In that scenario, you’ll likely end up with more content than you need, and you will spend absolutely nothing to create it.</p>
+<p>And why stop at <a href="https://www.wordstream.com/blog/social-media-image-sizes">still images</a> when you can do this with video, too? While I love being on location with a film crew and agency actors, not all (or any, really) of your <a href="https://www.wordstream.com/blog/ws/2016/08/03/video-marketing-ideas">video content</a> needs to be a full-blown red-carpet production.</p>
+<p>Do you have a phone with a camera? Of course, you do. Use it to capture (willing) <a href="https://www.wordstream.com/blog/ws/2017/07/19/customer-testimonial-examples">customer testimonials</a>, snap a photo showcase of the work you do, give your customers a short sneak peek into the inner workings of your business, or stand in front of it and talk about your expertise for a few minutes. Download photo and <a href="/blog/ws/2017/12/15/best-video-editing-software-for-beginners">video editing</a> apps on said phone (I like <a href="https://itunes.apple.com/us/app/imovie/id377298193?mt=8" target="_blank" rel="noopener">iMovie</a> for iPhone and Snapseed photo editor for <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&amp;hl=en" target="_blank" rel="noopener">Android</a> or <a href="https://itunes.apple.com/us/app/snapseed/id439438619?mt=8" target="_blank" rel="noopener">iPhone</a>) and promote!</p>
+<p>If the smartphone isn’t quite cutting it for what you’re trying to accomplish, consider getting a DSLR camera—they’re affordable and produce fantastic quality images and video.</p>
+<div id="pay-to-play-in-search-too"></div>
+<h3>6. Pay to play in search too</h3>
+<p>This one is sort of a bonus tip. I have seen some of our retailers who were just using <a href="/blog/ws/2015/04/30/seo-basics">SEO strategies</a> go from page two to page and position 1 after allocating resources to paid search (<a href="https://www.wordstream.com/ppc">pay-per-click advertising</a>).</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/holiday-google-ads-promotion-asset.webp" alt="google ads holiday tips - promotion asset" width="697" height="439" class="aligncenter wp-image-86917 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/holiday-google-ads-promotion-asset.webp 697w, https://www.wordstream.com/wp-content/uploads/2024/10/holiday-google-ads-promotion-asset-480x302.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 697px, 100vw" /></p>
+<p style="text-align: center;"><em>Google Ads has approximately one million (estimated) tools to help you create, target, and track <a href="https://www.wordstream.com/blog/google-ads-holiday-strategies">paid search ads</a>.</em></p>
+<p>Whether you’re just starting out with search and display ads or you’re looking to optimize your strategy, you should check out <a href="/learn">PPC University</a> for tips on getting started and making the most of your <a href="/blog/ws/2016/09/14/adwords-budget-guide">Google Ads budget</a>.</p>
+<h2>Let&#8217;s optimize that marketing budget</h2>
+<p>The one big advantage a small business has is that huge budgets are really hard to wrangle. It&#8217;s a lot easier to see where your advertising dollars end up and how effective they are at helping you grow. The trick is to try a few tactics and quickly drop the ones with the worst results. Or, <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo">contact us</a> and we&#8217;ll show you how we can get the most out of your marketing budget.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget">6 Ways to Optimize a Small Marketing Budget</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/04/06/small-marketing-budget/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

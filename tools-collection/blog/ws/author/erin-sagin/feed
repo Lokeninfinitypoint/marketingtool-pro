@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Erin Sagin, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/erin-sagin/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 03 Sep 2025 21:14:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Erin Sagin, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Do a PPC Audit in 8 Simple Steps</title>
+		<link>https://www.wordstream.com/blog/ws/2016/07/06/ppc-account-audit</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/07/06/ppc-account-audit#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2024 12:30:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/06/20/ppc-account-audit/</guid>
+
+					<description><![CDATA[<p>Time for a PPC audit to find and fix any costly mistakes you might be making! This easy, 8-step PPC audit guide will walk you through everything you need to know.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/06/ppc-account-audit">How to Do a PPC Audit in 8 Simple Steps</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s always a good idea to do a PPC audit any time you take on an existing pay-per-click account. And that&#8217;s just one reason you might want to perform a PPC audit. From time to time, it&#8217;s just good hygiene to make sure your pay-per-click accounts are in healthy shape.</p>
+<p>But how do you actually do a PPC audit? What&#8217;s the right process to audit your Google Ads account? <strong>That&#8217;s exactly what we&#8217;re going to cover in this step-by-step PPC audit guide. </strong>These are the steps I follow when I dive into a newly acquired search ads account. You can use this checklist as a handy tool for all future account audits.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Fast-track your PPC audit! <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Use the Google Ads Grader</a> to automatically audit your account for free.<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h3>Contents</h3>
+<p><span style="font-weight: 400;">Click to jump to each step of our PPC audit guide:</span></p>
+<ol>
+<li><a href="#google-ads-audit-conversion-tracking">Check your conversion tracking</a></li>
+<li><a href="#ppc-audit-targeting">Review your targeting</a></li>
+<li><a href="#ppc-audit-steps">Assess your ad group relevancy</a></li>
+<li><a href="#ppc-ad-audit">Check how many ads are in each ad group</a></li>
+<li><a href="#google-ads-assets-audit">Dive into ad assets</a></li>
+<li><a href="#ppc-keyword-audit">Review your keyword match types</a></li>
+<li><a href="#ppc-audit-negative-keywords">QA your negative keywords</a></li>
+<li><a href="#how-to-do-a-ppc-audit">Create a game plan</a></li>
+</ol>
+<h2 id="google-ads-audit-conversion-tracking">What is a PPC audit?</h2>
+<p>First, let&#8217;s get clear on what a PPC audit is. A PPC audit is a thorough evaluation of the structure and performance of a paid ad account in a pay-per-click ad platform, such as <a href="https://www.wordstream.com/blog/ws/2023/05/15/google-ads-benchmarks" target="_blank" rel="noopener">Google Ads</a>, Microsoft Ads, or <a href="https://www.wordstream.com/blog/ws/2023/11/28/facebook-ads-benchmarks" target="_blank" rel="noopener">Facebook Ads</a>. A PPC <a href="https://localiq.com/blog/marketing-audit/" target="_blank" rel="noopener">audit</a> looks at the setup of key account components and settings in order to uncover potential errors and areas for optimization. Regularly auditing your PPC accounts can help you stay ahead of performance trends and opportunities to maximize your<a href="https://localiq.com/blog/marketing-roi/" target="_blank" rel="noopener"> marketing ROI</a>.</p>
+<p>So <em>how</em> do you do a PPC audit? Let&#8217;s look at the steps that go into a PPC audit next!</p>
+<h2>1. Be sure conversions are being tracked (properly)</h2>
+<p>Are you tracking conversions properly? This is an <a href="https://www.wordstream.com/blog/ws/2022/05/16/ppc-audit">essential question to ask in any PPC audit</a>. Neglecting to track conversions is one of the biggest mistakes a <a href="https://www.wordstream.com/ppc-management">PPC manager</a> can make. Without this data, it’s impossible to understand whether all of your hard work is paying off! While this should be one of the very first tasks completed after setting up an account, a <a href="https://www.searchenginejournal.com/wasting-adwords-budget-lessons-2000-adwords-audits/162413/">report</a> from Disruptive Advertising found that only 58% of the 2,000 accounts featured in their study had at least one conversion registered.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-conversion-tracking.jpg" alt="ppc audit - google ads conversion tracking screenshot" width="913" height="332" class="aligncenter wp-image-80660 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-conversion-tracking.jpg 913w, https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-conversion-tracking-480x175.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 913px, 100vw" /></p>
+<p class="text-align-center" style="text-align: center;"><em>Google has made this setup easier and easier through the years. Use it!</em></p>
+<p>That’s bad, but this is worse—of this group, only half of the accounts that were “tracking conversions” had the code implemented correctly. Meaning, only 29% of all accounts reviewed passed muster when it came to tracking conversions.</p>
+<p>Be sure that your newly acquired account doesn’t fall into this group. If conversions are registered in the account, be watchful for these tell-tale signs that the tracking has been set up improperly:</p>
+<ul>
+<li>Your click count and conversion count are identical. If this is the case, you either have the most amazing products in the world or your conversion tracking code was added to your landing pages, rather than your thank you/order confirmation page.</li>
+<li>Your conversion rates are super-high, despite low sales numbers. If so, your conversion tracking may be measuring visits to a product page or home page, rather than an order confirmation.</li>
+<li>Your conversion count is suspiciously low, suggesting that you’re missing conversions. In this case, the former account manager neglected to track <a href="/adwords-call-tracking">phone call conversions</a> or forgot to add tracking codes to new landing pages.</li>
+</ul>
+<p>If no conversions are registered on the account, <a href="/conversion-tracking-setup">generating and implementing conversion tracking code</a> should be your first order of business! With this first PPC audit step conquered, your <a href="https://www.wordstream.com/blog/conversion-rate-optimization-statistics" target="_blank" rel="noopener">Google Ads conversion rate optimization</a> is off to a good start.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" />Get more tips on how to grow your PPC strategy with our free guide to <a href="https://marketing.wordstream.com/WSLIQContentDLWebsiteHackingGoogleAds.html?cid=Web_Any_BlogInContent_PPC_HackingGoogleAds_Download" target="_blank" rel="noopener">hacking Google Ads</a>!</p>
+<div id="ppc-audit-targeting"></div>
+<h2>2. Review campaign-level settings</h2>
+<p>Setting your campaign targeting settings is a simple activity that takes five minutes, tops, but one small misstep in this section can have a profound impact on your account performance. (You can see how some of our clients learned this the hard way <a href="/blog/ws/2016/06/13/ppc-mistakes-destroy-budget">here</a>.) Dive into each of your newly-acquired campaigns to review the previous owner’s targeting settings and ensure they make sense for the business.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audience-Account20Setting20Updates.png" alt="Google Ads account setting updates" width="756" height="476" class="aligncenter" /><br />
+Key items to check in on are:</p>
+<ul>
+<li><strong>Network Settings:</strong> The goals, expectations, and overall performance of ads on the Search Network are significantly different than those running on the GDN (get the low-down on each network <a href="/blog/ws/2014/05/20/google-adwords-search-versus-display">here</a>). The audit/optimization process that you follow will be dependent on the network you’re targeting.</li>
+<li><strong>Mobile Bid Adjustments: </strong>Do you want to show on mobile devices? If so, make sure that your bid modifiers are high enough to score you visibility for mobile searches. To determine this, segment your performance by device to assess the effectiveness of your existing mobile bids. Is your new company not quite ready for mobile traffic? Set the bids to -100%, until you get your mobile-preferred ads and mobile landing pages up to snuff. I recommend prioritizing this, given the <a href="/blog/ws/2015/09/24/mobile-ppc-charts">ever-growing percentage of searches occurring on mobile devices</a>.</li>
+<li><strong>Target Locations:</strong> Check to ensure that your company services the regions that your account has opted into. Then, take this one step further and review your geo-reports. You may find that a particular area performs ridiculously well (or ridiculously poorly) and can fine-tune the account to prioritize that location.</li>
+</ul>
+<p>Congrats! Another step your<a href="https://localiq.com/blog/ppc-optimization/" target="_blank" rel="noopener"> PPC optimization checklist</a> knocked out.</p>
+<div id="ppc-audit-steps"></div>
+<h2>3. Assess your ad groups</h2>
+<p>The general rule of thumb is that an ad group should never contain more than 15-20 keywords and, for auditing purposes, I think this is a good jumping-off point. Scan your newly inherited account to find ad groups that hold more than about 20 keywords. These are likely the groups that will require the most clean-up.</p>
+<p>You’re probably thinking, why the heck does the number of keywords matter so much? Realistically, your ad groups’ keyword count won’t impact performance. However, keep in mind that you’re serving the same set of ads for every keyword in a given ad group. If your keyword list is huge, it is likely includes various themes, meaning you’re forced to write generic ad copy.</p>
+<p>Instead, your goal should be to populate each ad group with a list of super-granular keywords that all share the same semantic theme. You can then create hyper-specific ads for each ad group that are truly reflective of what the searcher is looking for.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-audit-keywords.jpg" alt="keyword groupings" width="624" height="189" class="aligncenter" /></p>
+<p class="text-align-center" style="text-align: center;"><em>I think we can agree that it’d be way easier to write an ad for the second keyword group than the first!</em></p>
+<p>Despite the best of intentions, it’s easy to wind up with a few big ad groups in your account. Even if you start with small, tightly-knit keyword combinations, as more and more terms are added, your ad groups can grow to an unwieldy size. It’s important to QA them regularly and move terms that aren’t a good fit into new ad groups.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" />Find more ways to clean up your campaigns during your PPC audit using our free guide to <a href="https://marketing.wordstream.com/WSLIQContentDLAccountStructure.html?cid=Web_Any_InContentTextLink_PPC_LastAccountStructureGuide_Download">Google Ads Account Structure</a>.</p>
+<div id="ppc-ad-audit"></div>
+<h2>4. Check how many ads are in each ad group</h2>
+<p>If the account you inherit only has one active ad in each ad group, it’s an indication that the previous manager was not testing ad variations, which severely limits account optimization. On the flip side, having multiple active ads per ad group can also be detrimental. Likely, the previous owner was a testing zealot who dreamt up plenty of ad creative and tried to test it all at once (fail) or he just never bothered to <em>end</em> any of his tests (double fail).</p>
+<p>The sweet spot you should be shooting for is two to three ad variations per ad group. This is a manageable number of ads to run tests with. Once you’ve identified your winner, pause the losing ad and try testing a new variation.</p>
+<div id="google-ads-assets-audit"></div>
+<h2>5. Dive into ad assets</h2>
+<p>If your Google Ads account doesn’t have any ad assets (formerly known as ad extensions) set up, hop to it! In this day and age, ad assets are not a <em>nice to have</em>, they’re a <em>must</em> for creating competitive ad copy.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-google-ads-example.jpg" alt="ppc audit - google ads asset examples" width="729" height="483" class="aligncenter wp-image-80658 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-google-ads-example.jpg 729w, https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-google-ads-example-480x318.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 729px, 100vw" /></p>
+<p class="text-align-center" style="text-align: center;"><em>Ray-Bans has the right idea. This ad features callout and sitelink assets.</em></p>
+<p>Luckily, since Google’s announcement that assets officially do impact ad rank, most advertisers have gotten their act together and implemented them. However, just because these asstess <em>exist</em>, doesn’t mean you can cross them off of your to-do list.</p>
+<p>Confirm that the assets running are appropriate fits for the business itself. For example, if you’re using call assets, be sure that your company’s phone lines are staffed to handle incoming call volume. If you don’t have someone to answer incoming calls around the clock, schedule the assets to only appear during your hours of business. If you’re advertising for an e-commerce company with no physical storefront, be sure to eliminate any location assets so your ads don’t appear in Google Maps. Finally, check to ensure that your sitelinks, callouts and structured snippets are truly representative of your offerings and not overly repetitive.</p>
+<p>Don’t forget about automated assets! You can view the performance of any automated assets that Google has served alongside your ads from the assets section of Google Ads. Typically, we see that these yield positive performance but, if any appear to be negatively impacting the account, stop the bleed by opting out of them in the advanced extension options settings!</p>
+<div id="ppc-keyword-audit"></div>
+<h2>6. Review keyword match type settings</h2>
+<p>A <a href="https://www.wordstream.com/blog/ws/2022/03/21/how-to-run-google-ads">well-run Google Ads account</a> typically includes keywords set to a variety of <a href="/match-types">match types</a>. Each serves a unique purpose, for example broad match is great for<a href="https://marketing.wordstream.com/WSLIQContentDLWebsiteBigEasyKeyword.html?cid=Web_Any_Homepage_PPC_BigEasyKeyword_Download" target="_blank" rel="noopener"> keyword research</a>, while exact helps to ensure you’re only connecting with the most highly-qualified searchers.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-keyword-match-types.jpg" alt="ppc audit tools - keyword match type guide" width="936" height="600" class="aligncenter wp-image-80666 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-keyword-match-types.jpg 936w, https://www.wordstream.com/wp-content/uploads/2016/06/ppc-audit-keyword-match-types-480x308.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /><br />
+One of the most common (and dangerous) account faux-pas is running all keywords on the same match type. We see this most commonly with broad match (since it is Google’s default). Although these broad-match keywords yield plenty of traffic, many of their impressions are from people searching terms that are loosely related to the business, resulting in disastrous click-through and conversion rates and poor Quality Scores. Although broad match is usually the culprit for this problem, using all phrase or exact match can be just as damaging, as they may limit volume considerably.</p>
+<p>If the account you’ve inherited is already using mixed match types, it doesn’t mean you’re off the hook. Take the time to dive in and understand the previous owner’s strategy and ensure that it was implemented correctly. Just because they’ve attempted to enact an advanced strategy, like tiered bidding per match type, doesn’t mean they did it right!</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f50d.png" alt="🔍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Perfect your keyword strategy using our <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool" target="_blank" rel="noopener">Free Keyword Tool</a>!</p>
+<div id="ppc-audit-negative-keywords"></div>
+<h2>7. QA your negative keyword lists</h2>
+<p><a href="https://localiq.com/blog/negative-keywords/" target="_blank" rel="noopener">Negative keywords</a> are your best defense against impressions and clicks from unqualified searchers. If the previous account manager was not utilizing negatives, your work is cut out for you. You can proactively set negatives by doing some guesswork, but with an active account, I like to take more of a reactive approach. Try heading to your query reports to understand exactly what terms have been triggering your ads. Be on the lookout for terms that you do <em>not</em> want to continue showing for and set them as negatives.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-Master20Negative20Keyword20List.png" alt="Google Ads master negative keyword list" width="704" height="608" class="aligncenter" /></p>
+<p class="text-align-center" style="text-align: center;"><em>As you can see, we have a robust “master list” of negatives that we use for all campaigns!</em></p>
+<p>If the former account manager added negatives already, review the list with a fine-toothed comb. Confirm that all of the negative terms are genuinely a good fit for the business and are not blocking impressions for any of your keywords. In addition, check your <a href="/blog/ws/2015/03/31/negative-match-types">negative keywords’ match type settings</a> to ensure that they are operating as anticipated. I can’t tell you how many accounts I’ve seen with negatives set to “exact” match that are doing absolutely nothing for them. These settings can drastically affect the impact of your negatives.</p>
+<div id="how-to-do-a-ppc-audit"></div>
+<h2>8. Create your game plan</h2>
+<p>Now that you have all the groundwork done, you know exactly what you need to do to whip the account into tip-top shape. It&#8217;s time to <a href="https://www.wordstream.com/adwords-optimization">start optimizing</a>! Once you’ve cleaned it up, the real fun begins. Happy auditing! If you try the tips in this PPC audit guide but still want to squeeze more out of your accounts, see how<a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener"> our solutions</a> can help you maximize your PPC success!</p>
+<h2>Looking for a PPC audit tool?</h2>
+<p style="text-align: left;">If you&#8217;re tight on time and resources, let a <a href="https://www.wordstream.com/blog/ws/2021/10/19/ppc-metrics">PPC audit tool</a> do the work for you. Get a free, instant account audit with our <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Google Ads Grader</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/06/ppc-account-audit">How to Do a PPC Audit in 8 Simple Steps</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/07/06/ppc-account-audit/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>9 Ways for Agencies to Sell More Clients on PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2016/01/19/agencies-sell-more-ppc</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/01/19/agencies-sell-more-ppc#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Wed, 30 Aug 2023 12:30:00 +0000</pubDate>
+				<category><![CDATA[Strategies for Agencies]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/01/16/agencies-sell-more-ppc/</guid>
+
+					<description><![CDATA[<p>Selling PPC can be even harder than managing accounts! Learn the tricks of the trade with expert advice from an agency sales manager.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/01/19/agencies-sell-more-ppc">9 Ways for Agencies to Sell More Clients on PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Clients can be hesitant to try new things. But it&#8217;s your agency&#8217;s job to lead them to the right marketing solution for their business growth.</p>
+<p>And in many cases, the right marketing solution is PPC.</p>
+<p>Whether your agency has only recently started offering PPC services or you&#8217;re looking to expand your client base in this area, this article is for you–I’ll share some of our best strategies for selling Google Ads and winning new PPC business.</p>
+<p>Use these tried-and-true methods to sell more of your clients on PPC.</p>
+<h2>1. Follow up with EVERY lead</h2>
+<p>Unless you have a dedicated sales team or you are a salesperson at heart and just love to prospect for leads, I’d imagine that just making first contact with a prospect is a big hurdle for most. If you do have a sales team or the time, I recommend a strong follow-up process for all <a href="/blog/ws/2015/08/25/inbound-marketing-strategy">inbound leads</a>.</p>
+<p>If you don’t–it’s all about taking advantage of opportunities you might not realize are opportunities.</p>
+<p>You may also need to nurture leads through the <a href="https://www.wordstream.com/blog/ws/2015/05/07/marketing-funnel">marketing funnel</a> before you can close a sale for your PPC services.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/01/sales-funnel-1.jpg" alt="sales funnel image" width="936" height="600" class="aligncenter size-full wp-image-75752" srcset="https://www.wordstream.com/wp-content/uploads/2016/01/sales-funnel-1.jpg 936w, https://www.wordstream.com/wp-content/uploads/2016/01/sales-funnel-1-480x308.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h2>2. Go after low-hanging fruit</h2>
+<p>This includes current clients who are not using Google Ads. If you already know their business model and budget you should have a strong sense of <a href="/blog/ws/2015/05/12/does-google-adwords-work">whether PPC will be a good fit for them</a>, what <a href="https://www.wordstream.com/ppc">PPC strategies</a> will apply, and what will be <a href="https://www.wordstream.com/blog/ws/2019/12/05/best-ad-platform">the best ad platform for them</a>.</p>
+<p>From there, you can put together a <a href="https://www.wordstream.com/blog/ws/2023/12/13/marketing-proposal">marketing proposal</a> that shows them how PPC will complement their existing strategy&#8211;and the types of results they can anticipate.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Get our latest <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteGoogleAdsBenchmarks2023.html?cid=Web_WS_incontent_guide_2023benchmarks_Download&amp;utm_source=wordstream&amp;utm_medium=blog&amp;utm_campaign=incontent_links">search ads benchmarks</a> to see average results by industry!</p>
+<h2>3. Talk the talk</h2>
+<p>Fold PPC into ALL of your new business opportunities and marketing material. Don’t talk about <a href="https://www.wordstream.com/blog/ws/2023/06/26/marketing-channels">marketing channels</a> like organic search or <a href="/blog/ws/2015/12/07/amplify-email-marketing-with-ppc">email marketing</a> without considering how paid search marketing complements these channels.</p>
+<h2>4. Create a referral program</h2>
+<p>Client referrals are one of the main ways we found agencies <a href="https://www.wordstream.com/blog/ws/2020/01/02/strategies-to-grow-your-digital-marketing-agency">get new clients</a>. To sell PPC to more clients, you can create a referral program that rewards your existing clients for referring your PPC services to new businesses. This can help you expand while showing your existing clients you value them and their business.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/state-of-the-agency-client-acquisition.png.webp" alt="state-of-the-agency-new-client-source" /></p>
+<h2>5. Partner with complementary agencies or businesses</h2>
+<p>If your agency specializes in PPC and/or a small range of digital marketing services, you can partner with an agency that provides complementary services. This could be a web design firm, a PR agency, etc. By partnering with a complementary agency, you&#8217;re able to market your PPC services to their clients (and they&#8217;re able to market their services to your clients), which helps you expand your client base and sell Google Ads to more clients overall.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Free guide &gt;&gt;</strong> <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteGrowYourMarketingAgency.html?cid=Web_WS_InContent_Agency_StrategiestoGrowYourAgency_Download">6 Absolute Best Strategies to Grow Your Digital Marketing Agency</a></p>
+<h2>6. Understand the importance of the first outreach attempt</h2>
+<p>The first attempt is your reps’ best shot to reach a prospect because <strong>connect rates drop 33% after the first attempt</strong>. Make sure your reps get the most from these calls by having their pitch prepared and the right time blocked off. Coach them to continue following up on accounts when they have contact information for the decision-maker, and to break off after 6+ touches on weaker accounts. When they have time (or when lead flow is low), they can always return to these weaker accounts where some potential exists.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="750cf3ec-1259-4602-b158-385dd2dd581e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/agencies-sell-ppc-contact-rate.png" alt="contact rate graph" width="713" height="492" /></div>
+</article>
+</div>
+<p style="text-align: center;"><em>Source:<a href="http://www.insightsquared.com/2015/07/should-you-keep-calling-that-prospect-a-new-study-gives-the-answer/"> Insightsquared</a></em></p>
+<h2>7. Don&#8217;t lose the art of the follow-up</h2>
+<p>Many reps assume that if they haven’t connected with a prospect by the fourth or fifth attempt, they never will. But our data told a different story: <strong>Even after 10 attempts, reps were able to connect </strong>with their prospects almost 5% of the time. Connect rate declines quickly at first, but levels off around the sixth dial–this means that there are a lot of conversations buried in seemingly unreachable prospects.</p>
+<h2>8. Develop a plan that optimizes your reps’ time</h2>
+<p>The number of times you should have your reps <a href="https://www.wordstream.com/blog/ws/2021/03/18/how-to-follow-up-with-sales-leads">call each prospect</a> depends on your lead flow. If your reps are drowning in leads, it makes more sense for them to focus on making first attempts, where there is a significantly higher connect rate.</p>
+<p>Conversely, when lead flow is dry, don’t hesitate to have them dig into some older leads that they haven’t connected with yet. It may take them 20 calls to reach a single prospect, but that’s one more conversation they’d have than if they’d given up.</p>
+<p>When you do connect with your prospects, remember that the focus of your conversation isn’t paid search–it’s their business and how they can grow it. PPC is just a means to an end they care about.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2016/01/google-ads-roi-stat.jpg" alt="google ads roi stat" width="936" height="355" class="aligncenter size-full wp-image-75750" srcset="https://www.wordstream.com/wp-content/uploads/2016/01/google-ads-roi-stat.jpg 936w, https://www.wordstream.com/wp-content/uploads/2016/01/google-ads-roi-stat-480x182.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h2>9. Know how to respond to common objections</h2>
+<p>When <a href="https://www.wordstream.com/blog/ws/2015/07/15/ppc-agency-pricing">selling PPC to your clients</a>, you know they&#8217;re going to have some questions&#8211;and probably some objections, as well. You and your reps will need to be prepared to respond to these in a way that makes your clients feel comfortable about their investment in PPC moving forward. Here are some <a href="https://www.wordstream.com/blog/ws/2023/01/30/ppc-client-business-questions">common PPC objections</a> and how to respond to them.</p>
+<h4>“My SEO is good enough!”</h4>
+<p>It’s crazy to depend entirely on organic search as a lead source. Organic results are unreliable and have shrinking real estate on the SERP, especially on mobile.</p>
+<p>Further, we’ve found that the <a href="https://www.wordstream.com/keyword-intent">most high-intent searchers</a> (people who are really ready to buy) are more likely to click paid results than organic results, even if they’ve found your site organically while they were in the research phase. Plus, tons of studies show that <strong>doing PPC adds incremental traffic on top of your SEO</strong>:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3606317d-5e3b-411c-b5af-594c00b32aa4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/agencies-sell-ppc-seo.png" alt="seo and ppc graph" width="608" height="450" /></div>
+</article>
+</div>
+<p>So “I’m already doing SEO” is not a good argument against PPC.</p>
+<h4>“It’s too expensive.”</h4>
+<p>Putting aside the fact that SEO isn’t free (it requires both technical and creative resources), PPC is only “expensive” if you ignore what you’re getting back from it. There are tons of levers to pull in PPC to control spend so that you only pay for the clicks most likely to convert, which is the key to getting a strong return on your investment.</p>
+<h4>“The clicks don’t convert!”</h4>
+<p>If your prospect says PPC hasn’t converted for them in the past, one of a few things could be going on:</p>
+<p><strong>1. They’re not tracking conversions properly.</strong> If it’s a business that gets a lot of calls, <a href="https://localiq.com/products/marketing-dashboard/" target="_blank" rel="noopener">make sure they’re using call tracking</a> so that calls are properly attributed back to the ads that drove them.</p>
+<p><strong>2. Their offer just isn’t compelling.</strong> If that’s the case no channel is going to deliver conversions.</p>
+<p><strong>3. Landing page problems.</strong> Maybe ads link back to the home page, so leads get lost, or the <a href="https://www.wordstream.com/blog/ws/great-landing-pages">landing page</a> isn’t focused. This can be solved with landing page optimization.</p>
+<p><strong>4. They’re not remarketing.</strong> The first time isn’t always a charm! More often than not, you have to take your date out to dinner a few times before you sleep with them—and sales courtship isn’t too different! If a visitor doesn’t convert right off the bat, all hope is not lost. <a href="https://www.wordstream.com/blog/ws/2022/03/17/retargeting-campaign-tips">Remarketing</a> is a great CRO tool because it allows you to continue to engage with and nurture people who have already expressed interest in your website.</p>
+<p>For example, last summer I tried Jeni’s gourmet ice cream for the first time at a friend’s house. It’s absolutely divine but, at $12 a pint, I had no intentions of stocking my freezer with it. However, I will admit, I checked up on their site pretty regularly to peruse the latest flavors. Next thing I know, I’m getting slammed with remarketing ads! I managed to stay strong after seeing a few, but caved pretty quickly.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="74868314-52c9-4c15-aaa9-15774043816c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/agencies-sell-ppc-ice-cream.png" alt="jeni's ice cream remarketing" width="979" height="618" /></div>
+</article>
+</div>
+<p style="text-align: center;"><em>I’m now $56 poorer and 10 pounds heavier and I have remarketing to thank.</em></p>
+<p>All these things are fixable and getting it right can turn PPC into a <a href="https://www.wordstream.com/blog/ws/2023/07/20/google-ads-for-lead-generation">lead generation machine</a>!</p>
+<h2>One last note before you go forth and sell PPC to clients…</h2>
+<p>We’ve been focusing on how to win new PPC business, but as a final caveat, I want to stress that it’s also important to know when to say <em>no</em> to a new client. Be sure to check out my <a href="/blog/ws/2014/07/24/adwords-agency-client-red-flags">top ten red flags</a> that you’re dealing with a client who is going to be a nightmare or is going to churn. Just say no, it’s not worth your time!</p>
+<p>Here are the 9 ways to sell more clients on PPC:</p>
+<ol>
+<li class="p1"><span class="s1">Follow up with EVERY lead</span></li>
+<li class="p1"><span class="s1">Go after low-hanging fruit</span></li>
+<li class="p1"><span class="s1">Talk about how PPC complements other marketing strategies</span></li>
+<li class="p1"><span class="s1">Create a referral program</span></li>
+<li class="p1"><span class="s1">Partner with complementary agencies or businesses</span></li>
+<li class="p1"><span class="s1">Understand the importance of the first outreach attempt</span></li>
+<li class="p1"><span class="s1">Don’t lose the art of the follow-up</span></li>
+<li class="p1"><span class="s1">Develop a plan that optimizes your reps’ time</span></li>
+<li class="p1"><span class="s1">Know how to respond to common objections</span></li>
+</ol>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/01/19/agencies-sell-more-ppc">9 Ways for Agencies to Sell More Clients on PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/01/19/agencies-sell-more-ppc/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>10 Dos and Don&#8217;ts for Sitelink Extensions</title>
+		<link>https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[Extensions]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts/</guid>
+
+					<description><![CDATA[<p>Sitelinks are an easy and highly effective way to increase your Google ad CTR. But there are some gotchas to be aware of and opportunities you don’t want to miss. Get the most out of your AdWords sitelink extensions with these ten dos and don'ts!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts">10 Dos and Don&#8217;ts for Sitelink Extensions</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="text-align: center;"></div>
+<p>Sitelinks are the king of all AdWords ad extensions. They are, by far, the most versatile extensions; they’re useful for accounts of all verticals, they appear on all devices and advertisers can use them to say just about anything.</p>
+<p>Even better, I’ve literally never encountered an account that <em>didn’t</em> yield higher CTRs once enabling these bad boys. According to the crew at Google, the mere presence of <a href="https://adwords.googleblog.com/2014/01/better-ads-via-better-sitelinks.html">sitelinks typically lifts ad CTR by 10-20% (+20-50% on branded searches</a>).</p>
+<p>Sitelinks FTW.</p>
+<p>I’ve been preaching the wonders of these extensions for years (proof: I covered them in one of my <a href="/blog/ws/2013/06/03/adwords-ad-extensions-cheat-sheet/">first blogposts EVER</a>). Yet, we’ve never done a true deep dive on sitelink best practices.</p>
+<p>Better late than never, right? Without further ado, here’s a list of dos and don’ts to help you make the most of these truly magical extensions.</p>
+<p><em><strong>It&#8217;s time to find out why your text ads are wasting money. <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Run our free Google Ads Performance Grader</a> and get an instant account audit!</strong></em></p>
+<h2><em>DO </em>Keep ‘Em Short and Sweet</h2>
+<p>Google allows advertisers to include up to 25 characters in their sitelink descriptions but, just because you have the extra space doesn’t mean you need to use it. According to <a href="https://adwords.googleblog.com/2014/01/better-ads-via-better-sitelinks.html">Google</a>, more succinct link copy performs better. It recommends aiming for a baseline of 18-20 characters for desktop links and 12-15 for mobile. This ensures that your messaging isn’t truncated on the SERP.</p>
+<h2><em>DON’T</em> Set Them and Forget Them</h2>
+<p>Sitelinks require very little maintenance, but it never hurts to check in on them from time to time. Periodically dive into your <a href="https://www.wordstream.com/blog/ws/2018/12/12/automated-ad-extensions">ad extensions</a> tab to review performance metrics for each of your sitelinks. Here’re a few metrics to keep an eye on:</p>
+<ul>
+<li><strong>Impressions</strong>: If impressions are low for a given sitelink, it’s possible that Google is passing it over for a reason. Try editing the link and giving it another whirl.</li>
+<li><strong>Click-Through Rate</strong>: If CTR is high, you’ve nailed your link description text. If it’s low, it’s a sign that your copy isn’t resonating with viewers. Is this page relevant to your campaign/ad group themes? Can you re-craft your copy to make it more appealing?</li>
+<li><strong>Conversion Rate</strong>: If your CVRs are high, pat yourself on the back. If they’re low, give some extra consideration to the page you’re sending visitors to. Are you putting your best foot forward? Is it accurately represented by your link text, giving searchers the appropriate expectations?</li>
+</ul>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-reporting.jpg" alt="reporting for sitelinks" width="750" height="361" /></div>
+<p>For even more insight, use the segment dropdown to see “this extension vs. other.” This will show you how much direct interaction that particular sitelink received, versus the other components of the ad.</p>
+<h2><em>DO </em>Create Sitelinks for your Bing Ads Campaigns</h2>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-bing.jpg" alt="bing sitelinks" width="542" height="233" /></div>
+<p>Did you know that Bing Ads offers nearly all of the same extensions as AdWords, and then some? (It’s true—you can find the whole shebang <a href="/blog/ws/2016/02/05/bing-ad-extensions-cheat-sheet">here</a>.) All of the benefits associated with sitelink extensions in AdWords hold true for Bing too, so why not take a few minutes to port your AdWords extensions over from Bing. You don’t even have to write anything new!</p>
+<h2><em>DON’T</em> Apply Account Level-Sitelinks</h2>
+<p>Just last week, Google released account-level sitelinks, giving advertisers the opportunity to create just a single set of sitelinks to be applied across the board.  No doubt, the crew at Google created this new option to reduce the barrier to usage to boost sitelink adoption, since they’re so beneficial to ad CTR.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-account-level.jpg" alt="account level sitelinks" width="632" height="265" /></div>
+<p>As with most things, the fastest, easiest route is rarely the best route. You’re far better off investing a little extra time to create your sitelinks on the campaign or ad group level. This allows you to customize the links so they directly reflect the topic that your audience is looking for.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-relevant.jpg" alt="relevant sitelinks" width="791" height="323" /></div>
+<p>For example, if the Kate Spade ad above featured account-level sitelinks, it’s likely the links would be fairly generic or only feature their best-selling products. Instead, they’ve implemented them in a more strategic manner, giving the user (who is looking specifically for purses) closely related pages to check out.</p>
+<h2><em>DO </em>Give Enhanced Sitelinks a Shot</h2>
+<p>There are two primary benefits of sitelinks. Firstly, they allow you to consume considerably more real estate on the SERP, making your ads more prominent, and secondly, they give you the opportunity to share even more information with your audience.</p>
+<p>Now imagine you could make one simple change to score even more real-estate and include even more details with your searchers—tempting? You can actually do this with enhanced sitelinks! These giant, robust sitelinks allow you to include two lines of description text for each link, essentially mini-ads for each one!</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-enhanced.jpg" alt="enhanced sitelink extensions" width="581" height="259" /></div>
+<p>Google <a href="https://adwords.googleblog.com/2012/02/introducing-enhanced-ad-sitelinks.html">reports</a> a 30% CTR elevation when advertisers take advantage of this option, making it a definite “do.”</p>
+<h2><em>DO </em>Schedule Start and End Dates for Time-Sensitive Sitelinks</h2>
+<p>Sitelinks are the perfect way to highlight holiday sales, limited-time offers and special deals. However, no one is going to get excited about your 4th of July sale on the 5th, when all of the discounts are no longer valid.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-scheduling.jpg" alt="scheduling sitelinks" width="503" height="531" /></div>
+<p>If you create a time-sensitive sitelink, use the scheduling options to specify the dates that it is eligible to show. You can even set up specific time of day (or days of week) to serve a particular link!</p>
+<h2><em>DON’T </em>Assume That Your Sitelinks Will Always Be Served</h2>
+<p>Just because you’ve done your duty and created your sitelink extensions doesn’t necessarily mean that they’ll always be served alongside your ads. Extensions are displayed at Google’s discretion. Advertisers have virtually no impact on which are displayed, if any. Instead, Google uses a secret formula which aims to show the “best options” based on the users’ needs and their contexts.</p>
+<p>We <em>do</em> know that Google is more likely to display extensions for ads that appear in top positions. We also know that the number of extensions served decreases as your position decreases. So, if your ad rank is poor, chances are high that your sitelinks will never actually see the light of day.</p>
+<h2><em>DO</em> Periodically Check Your Links</h2>
+<p>There’s nothing worse than seeing an ad that offers <em>exactly</em> what you want, clicking on the link for your desired product and then landing on a freaking 404 error page.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink-extensions-broken-link.jpg" alt="broken link" width="507" height="308" /></div>
+<p class="text-align-center"><em>Lego’s creative spin on a 404 error page.</em></p>
+<p>Most advertisers diligently update their ads when they update their landing pages (or build a mobile site). Yet, many also neglect to update their sitelinks. Serving a broken link isn’t just a waste of a click and a little cash. It makes a bad impression on the searcher and dissuades them from returning to your site. Don’t let your sitelinks fall by the wayside. Check your sitelink landing pages regularly to ensure they are working links.</p>
+<h2><em>DON’T</em> Be Redundant</h2>
+<p>Nowadays, there are many different ways to enhance your ad copy. Google’s added a whole slew of new extensions (structured snippets, callouts, etc.) and <a href="/blog/ws/2016/08/08/create-expanded-text-ads">Expanded Text Ads</a> are giving us nearly twice as much space to rave about our products.</p>
+<p>Pumping up the word-count in your ads is great, but do it carefully. If all of your extensions and your ad creative tout only one value proposition, you’re missing out on the opportunity to build a compelling case for your product.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sitelink20extensions20resized.jpg" alt="sitelink extensions" width="800" height="242" /></div>
+<p>&nbsp;</p>
+<p class="text-align-center"><em>Yeah, we get it. Free Shipping.</em></p>
+<p>As you add new components to your ad, consider the bigger picture. Sure, it’s unlikely that <em>all</em> of your extensions will show, but any combination is fair game, so you should prepare accordingly. For more extension-planning guidance, check out <a href="http://searchengineland.com/sitelinks-callouts-structured-snippets-oh-230137">Matt Umbro’s post</a> on how to strategically prep your extensions.</p>
+<h2><em>DO</em> Adhere to Ad Policy Guidelines</h2>
+<p>I know this one is obvious, *eye-roll*, but you’d be shocked how many people fail to stick with the guidelines, resulting in disapproved sitelinks. AdWords’ policies on sitelinks are nearly identical to those for ad headlines—no emojis, no exclamation points and no symbols—period. You’re also prohibited from using dynamic keyword insertion. When in doubt, head to the <a href="https://support.google.com/adwordspolicy/answer/1054210?hl=en">Advertising Policies help section</a> to verify that your sitelinks are kosher.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts">10 Dos and Don&#8217;ts for Sitelink Extensions</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/09/06/sitelink-extensions-dos-and-donts/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Create Expanded Text Ads [Guide + FREE Template]</title>
+		<link>https://www.wordstream.com/blog/ws/2016/08/08/create-expanded-text-ads</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/08/08/create-expanded-text-ads#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[Ad copywriting]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/08/05/create-expanded-text-ads/</guid>
+
+					<description><![CDATA[<p>Expanded Text Ads are no longer the exception in Google AdWords, they’re the rule! Learn how to create super-clickable Expanded Text Ads line-by-line and build them out in your AdWords account. This guide includes a FREE Excel template download to help you out.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/08/08/create-expanded-text-ads">How to Create Expanded Text Ads [Guide + FREE Template]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bb0dfc3d-46dc-45f8-ae8b-3107a0414c36" data-langcode="en">
+<article>
+<div><strong>2021 update: </strong><a href="https://www.wordstream.com/blog/ws/2021/09/02/google-sunsetting-expanded-text-ads">RIP expanded text ads <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </a></div>
+<div></div>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-title1.jpg" alt="how to create etas title image" width="698" height="394" /></div>
+</article>
+</div>
+<p>Just last week, the crew at Google made advertisers’ wishes come true when they released support for <a href="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=expanded%20text%20ads%20larry%20kim">Expanded Text Ads</a> in the Google Ads (formerly known as Google AdWords) interface. This giant new ad format gives advertisers an additional <strong>45 characters</strong> to work with, making it easier to build a compelling case for searchers to click on their ads.</p>
+<p>The excitement I felt when ETAs were surprise-released in the Google Ads interface was akin to the excitement I felt when Beyoncé surprise-dropped Lemonade on Tidal. I cleared my schedule for the afternoon in eager anticipation of building out these new and improved ads.</p>
+<p>Unfortunately, my happiness was short-lived, as composing these ads wound up being way harder than I’d anticipated. I found solace in Twitter, where I was relieved to see that many PPC vets were struggling, too.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="44547a21-21f1-4f41-9950-e0feea608fe6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-hard.png" alt="creating etas is hard" width="667" height="656" /></div>
+</article>
+</div>
+<h2>What&#8217;s So Hard About Writing Expanded Text Ads?</h2>
+<p>Why all the griping? Well, for years, we’ve trained ourselves to mince words. Like compulsive tweeters who manage to nail the 140-character limit on the first try, long-time PPCers have grown accustomed to writing super-short, succinct ad copy. Now that ETAs are becoming the “new normal,” we’ll have to adapt to the new formats and develop new, go-to ad formulas.</p>
+<p>Luckily, the <a href="https://www.wordstream.com/marketing-services">marketing services</a> team here at WordStream had numerous accounts with beta access to Expanded Text Ads, so we’ve been experimenting with them for a few months now. Early on, we assumed that this transition would be pretty straightforward. We went the easy route—pulled our existing ad into the new template, tacked on a secondary headline and added fluffier language to the description portion.</p>
+<p>If only it were that easy.</p>
+<p>We quickly discovered that, <strong>if we wanted to make the most of this new ad real estate, we’d have to step up our game</strong>. In this post, I’ll show you how we’re approaching each component of this new formula to create super-clickable ETAs. Keep reading, or <a href="/blog/ws/2016/08/08/create-expanded-text-ads" target="_blank" rel="noopener">grab our free guide and cheat sheet</a> to learn our secrets to Expanded Text Ads success!</p>
+<h2>The Anatomy of an Expanded Text Ad</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="804318b9-cfff-4fe5-845f-7029903de75b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads.jpg" alt="create etas" width="522" height="214" /></div>
+</article>
+</div>
+<h3>Final URL</h3>
+<p>Your final URL should be the landing page where you wish to drive searchers who match to keywords in this particular ad group. I love that Google kicks off the ad creation process by forcing advertisers to pick this URL before creating their copy, because it forces us to create copy with that particular page in mind.</p>
+<h3>Headline 1 – 30 Characters</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="92e2215c-71e7-4230-bb6d-8642e3609e0b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-h1.jpg" alt="example h1" width="330" height="131" /></div>
+</article>
+</div>
+<p><strong>This is, hands down, the most important component of your new ad.</strong> We know that humans’ attention spans are abysmal. When we’re on the SERP, faced with a multitude of both paid and organic listings, our attention to detail is even worse. We jump into “scan mode” and rarely make it past most listings headlines. That said, a strong, relevant headline has the power to disrupt our scanning and compel us to actually <em>read</em> the entire listing.</p>
+<p>Since Headline 1 is essentially the gateway to the rest of your ad, it deserves special attention. Capture your readers’ attention by using language that is relevant to what they’re looking for (ahem, your top keywords) and/or your key selling point. Remember, you can absolutely kick things off with a question but you can’t use exclamation points in your headline.</p>
+<p><strong>Pro-tip: Have you identified headlines that work well on other channels? You may finally have enough room to use them in your PPC ads, too!</strong></p>
+<h3>Headline 2 – 30 Characters</h3>
+<p>The challenge with Headline 2 is that it doesn’t <em>always</em> show—at least not in its entirety. When it does appear, it has excellent visibility, so it’s the perfect place to feature supporting information that complements the critical information shared in Headline 1.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="12d7fabe-1c49-4e4d-8979-3c1bf6dbb349" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-h2.jpg" alt="example h2" width="334" height="131" /></div>
+</article>
+</div>
+<p>I love the example above because, although Headline 1 is solid on its own, Headline 2 strengthens the message by introducing an emotional component (protecting yourself from a financial ruin) and highlights a serious value prop (this insurance won’t break the bank).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="261715f7-4683-45d4-a7d1-e1aa9f61c65b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-truncated.jpg" alt="ad truncation" width="439" height="331" /></div>
+</article>
+</div>
+<p>Why is Headline 2 at risk? Although Google polices the size of ad creative by character-count, it actually determines the way it’s displayed on the SERP based on pixel-count.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c54cf3bf-62b8-43cb-9a1e-59a87beddc28" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-pixels.jpg" alt="pixels" width="117" height="281" /></div>
+</article>
+</div>
+<p class="text-align-center"><strong> </strong><em>All of these qualify as 5 characters, but the number of pixels that they consume varies.</em></p>
+<p>If the combination of Headline 1 and Headline 2 exceeds the number of pixels allocated to ads on the SERP, Google will truncate your ad to save space.</p>
+<p><strong>Pro-tip: If you’re super-sensitive to displaying truncated ads, Google officially recommends being uber-conservative and limiting the character count for both of your headlines to only 33 characters.</strong></p>
+<h3>Description – 80 Characters</h3>
+<p>The description section is the meat of your ad. Your headlines’ mission is to capture your searchers’ eyes. Once you’ve got their attention, it’s up to the description copy to compel them to act. When it comes to body copy, the <a href="/blog/ws/2016/03/31/create-super-bowl-caliber-ads">creative process</a> should mimic that of a standard ad—you just have a little more artistic freedom, thanks to the new character limits.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a52c50a1-7960-4c9d-845e-d7d3b134af6b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-description.jpg" alt="description example" width="333" height="143" /></div>
+</article>
+</div>
+<p>Here are a few creative strategies that we’re using to create <strong>compelling new description copy</strong>:</p>
+<ul>
+<li>Using <a href="/blog/ws/2015/11/09/emotional-ads">emotional triggers</a> to push searchers to take action</li>
+<li>Running <a href="/blog/ws/2015/08/18/ad-customizers">ad customizers</a> to instill a sense of FOMO in searchers</li>
+<li>Dynamically customizing ad copy to create ads that resonate with individual searchers</li>
+</ul>
+<p>Your description should also feature a clear <a href="/blog/ws/2014/10/20/call-to-action-examples">call-to-action</a> telling searchers exactly what you want them to do when they arrive on your landing page. Including this in your ad is critical, because it’s a subtle way to invade their subconscious and push them to take action after viewing your site.</p>
+<h3>URL Paths – 15 Characters Each</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c25aaea8-cc72-43b4-87d5-3bf161f8fc24" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-path.jpg" alt="paths example" width="338" height="127" /></div>
+</article>
+</div>
+<p>This new ad component is optional, but <strong>we highly recommend using it to your advantage</strong>. In fact, for years, we’ve been coaching advertisers to take advantage of the extra space alongside their domains in their Display URLs.  This does <em>not</em> have to produce a working URL—it’s simply a vanity link to strengthen your copy and show searchers that you’re sending them to view relevant content.</p>
+<p>With standard ads, only 35 characters were permitted in the Display URL. This was problematic for advertisers with lengthy URLs, who didn’t have sufficient space to add new keywords. These new, URL paths even the playing field.</p>
+<p>With ETAs, Google will automatically extract the domain from your Final URL and plug it into your Display URL. Then, regardless of your domain’s length, you can use the two, 15-character paths to enhance your URL.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9eecfbc4-cc46-4404-bf77-42e93ba8b0c1" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-dki.jpg" alt="dki example" width="519" height="368" /></div>
+</article>
+</div>
+<p>To populate each of these fields, I recommend turning to your ad group’s keyword list. Identify your most popular keywords and plug them into the path fields. If you really want to get fancy, you could also try using Dynamic Keyword Insertion for one of these paths, to ensure they’re truly catered toward your searchers’ needs.</p>
+<p>Need more ideas on how to craft your ETAs? <strong>Check out <a href="/blog/ws/2016/07/26/expanded-text-ad-best-practices">Mark Irvine’s 7 Best Practices</a> for Google’s NEW Expanded Text Ads</strong>.</p>
+<h2>Uploading Expanded Text Ads in Bulk</h2>
+<p>Let’s face it, composing new ETAs <em>will</em> be time-consuming. Luckily, you don’t have to build them all directly in the Google Ads interface. Just one day after Google released global ETA support, Google Ads Editor was updated to provide support for building new ETAs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="83305525-eedc-4efb-b3ac-f9ec8ad2181e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-editor.jpg" alt="create etas in editor" width="419" height="316" /></div>
+</article>
+</div>
+<p>The creation process is simple. All you have to do is select ETAs on the ads tab, select the option to make multiple changes and then begin building your spreadsheet.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5992d64e-6240-42fc-af81-6dd31abaf757" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/create-expanded-text-ads-bulk.jpg" alt="bulk creation in editor" width="641" height="343" /></div>
+</article>
+</div>
+<p>Once you’ve populated the spreadsheet with your new ads, submit and review your changes, then post them live to Google Ads!</p>
+<h2>FREE Expanded Text Ad Creation Template for Excel</h2>
+<p>Not a fan of Google Editor? You can also build your new ETAs in Excel, then upload the document to Google Ads. <a href="/download/docs/expanded-text-ad-creation-template.xlsx">Download our expanded text ad creation template (with detailed instructions included) here!</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/08/08/create-expanded-text-ads">How to Create Expanded Text Ads [Guide + FREE Template]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/08/08/create-expanded-text-ads/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 Reasons to Drop Everything &#038; Build Expanded Text Ads NOW</title>
+		<link>https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now/</guid>
+
+					<description><![CDATA[<p>Should you bite the bullet or ignore the ETA update? Erin Sagin argues that the best time to build your new ETAs is NOW!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now">3 Reasons to Drop Everything &amp; Build Expanded Text Ads NOW</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<div class="tag">
+<p><strong>2021 update: </strong><a href="https://www.wordstream.com/blog/ws/2021/09/02/google-sunsetting-expanded-text-ads">RIP expanded text ads <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </a></p>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ae3ed7e5-0977-4212-8a00-65a03d77611d" data-langcode="en">
+<article></article>
+</div>
+<p>Just this morning, support for Google’s brand new Expanded Text Ads (ETAs) dropped universally in the AdWords interface. Since AdWords’ <a href="/blog/ws/2016/05/24/google-mobile-first">big reveal at the #GoogleSummit</a> back in May, advertisers have been eagerly awaiting this new, more robust ad format, which has been deemed the biggest change to the AdWords model since <a href="/articles/interactive-history-of-adwords">its inception 16 years ago</a>.</p>
+<p>ETAs weren’t expected to come out of beta until mid-September, so most advertisers were completely unprepared to wake up this morning, log into their accounts and discover that they could indeed create these giant text ads.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4516ff88-5463-415c-81f8-4db96a188653" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/expanded-text-ads-surprise.gif" alt="eta surprise release" width="356" height="200" /></div>
+</article>
+</div>
+<p>Excited as we all may be with regards to this change, it’s also a bit terrifying. In fact, I wouldn’t blame you if your reaction this morning was to quickly close your browser, wish you could un-see the ETA implementation interface and pray that your clients/bosses/co-workers remain blissfully unaware of the early release. The reality is, while the end result will be rewarding, re-writing all of your ad copy is going to be a huge, painful undertaking.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ETAs are no longer! <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Download our free guide to responsive search ads</strong>: <strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" target="_blank" rel="noopener">10 Tricks to Get the Click</a></strong></p>
+<ul>
+<li>RSA best practices cheat sheet</li>
+<li>RSA copywriting template</li>
+<li>10 tricks to improve your click-through rate (with examples!)</li>
+</ul></div></div>
+<p>So, should you bite the bullet or crawl back in bed and ignore the ETA update? I’d argue that your best bet is to cancel your afternoon plans, buy a carton of Red Bulls and power through that ad copywriting. Here’s why:</p>
+<h2>#1. Beat Your Competitors to the Punch</h2>
+<p>Google will eventually sunset standard text ads, making ETAs the norm. As with all major migrations (think Enhanced Campaigns), there will be a bit of a time lag between the release of the new format and the elimination of the old one, giving advertisers time to make the transition themselves. Although Google has yet to announce when ads “as we know them” will be officially retired, my guess is that this change will hit sometime in Q4 2016.</p>
+<p>So, in the next 3-5 months, SERPs will display a mix of standard and ETA ads.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8a82dbbb-70a7-4a6e-aaa9-fcd8ed1ef433" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/expanded-text-ads-change.jpg" alt="ads changing from standard to etas" width="658" height="258" /></div>
+</article>
+</div>
+<p>Imagine receiving these two ads alongside one another on the SERP. The ETA is basically the standard ad on steroids. It’s so huge that it automatically demands more attention than the standard ad, plus its messaging is more informative and more compelling. Who wouldn’t be drawn to the ETA?</p>
+<p>In fact, our research shows that ETAs almost always win. We have multiple accounts in this beta and the vast majority have experienced heightened CTR. That said, these extraordinary trends are unlikely to continue after the mass-migration. Sure, we expect that ETAs will perform better than standard ads did in general, but will the difference be this stark when all ads look the same? Probably not.</p>
+<p><strong>Take advantage of this unique situation while you can.</strong> Get your ETAs up and running before your competitors do and benefit from these temporary, inflated CTRs. Not only will you score more site traffic, you’ll likely see a nice little boost in Quality Scores, too! (Need some help? <a href="http://marketing.wordstream.com/WSContentDLETAGuideWebsite.html" target="_blank" rel="noopener">Get our checklist for creating Expanded Text Ads!</a>)</p>
+<h2>#2. Figure Out What Works Early On</h2>
+<p>Feel like you have an <a href="/blog/ws/2015/08/03/ppc-ad-templates">ad copy formula</a> that <em>works</em> down pat for each of your ad groups? I’d be willing to bet that you didn’t come up with it on the first try. You’ve likely spent years iterating on it, testing it and honing it into that perfect copy. In fact, if you’re playing things smart, you’re <em>still</em> running tests against it. Unfortunately, with the ETA transition, that “tried and true” copy may no longer cut it.</p>
+<p>When we first gained access to the ETA beta, we expected the ad transition to be fairly simple. We took our best performing ads, tacked on a second headline and set them off and running.</p>
+<p>We soon discovered that this approach was failing us. In fact, these ads yielded poorer CTRs than our standard ads (they’re responsible for the CTR loss noted in the graph below).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e9c9fefa-5314-4d03-beab-cb490644e956" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/expanded-text-ads-performance.jpg" alt="eta performance" width="624" height="358" /></div>
+</article>
+</div>
+<p>We quickly ditched the old format’s best practices and started running new ad variations that took advantage of ETAs’ lengthier character counts and keyword-based description paths. These new combinations had significantly higher CTRs and, for the past few weeks, we’ve continued to test new approaches, identifying more ETA best practices.</p>
+<p>These new ads are a different beasts and advertisers must be willing to test multiple iterations of them. You don’t have to completely reinvent the wheel for your new ETAs. In fact, you can definitely port over strong components of your existing ads to get started. However, it will likely take a few tries before you figure out what combinations work best for you, so the earlier you start, the better off you will be!</p>
+<h2>#3. Experience Less Job-Induced Pain this Holiday Season</h2>
+<p>We don’t know the official date that standard ads will be retired, but we <em>do</em> know that it’s definitely going to happen sooner or later. Scarily enough, <strong>many believe that the ad sunset is likely to occur near the end of 2016, potentially smack dab in the middle of the holiday season</strong>.</p>
+<p>Let’s be honest, the holiday season is already brutal for marketers. That Black Friday—Christmas sprint is jam packed with to-dos and the idea of adding a full account’s worth of ad rewrites to your list is terrifying at best.</p>
+<p>Don’t be the guy who is drinking eggnog alone all night at his desk, lamenting his summer of procrastination. Take this early release as an opportunity to <a href="/blog/ws/2016/08/01/killer-underused-adwords-features">get ahead of the curve</a> and start prepping your ads. Even if you only do a couple of ad groups a week, it will still be well worth your while!</p>
+<p>Also be sure to check out my colleague Mark Irvine&#8217;s <a href="/blog/ws/2016/07/26/expanded-text-ad-best-practices">seven best practices for writing new expanded text ads</a>.</p>
+<h3>Data Sources</h3>
+<p><em>Data is based on a sample size of 11 accounts (WordStream clients) using <a href="https://www.wordstream.com/blog/ws/2018/08/22/new-expanded-text-ads">Expanded Text Ads</a> on the Google Search Network in June 2016.</em></p>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now">3 Reasons to Drop Everything &amp; Build Expanded Text Ads NOW</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/07/25/build-expanded-text-ads-now/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why Every Small Business Needs YouTube Director for Business [VIDEO]</title>
+		<link>https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Tue, 12 Jul 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Video Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business/</guid>
+
+					<description><![CDATA[<p>Video advertising is one of the fastest growing forms of online advertising. In fact, according to eMarketer, total video ad spend is expected to increase by 28.5% within the year.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business">Why Every Small Business Needs YouTube Director for Business [VIDEO]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<div class="tag">
+<p>Video advertising is one of the fastest growing forms of online advertising. In fact, according to <a href="http://www.emarketer.com/Article/US-Digital-Display-Ad-Spending-Surpass-Search-Ad-Spending-2016/1013442">eMarketer</a>, total video ad spend is expected to increase by 28.5% within the year. There’s just one issue with video advertising –it has a crazy-high barrier to entry. Advertisers need collateral to promote and lament the idea of actually creating video ads. They require significantly more time, skills and resources than any old text ad, image ad or even an email campaign.</p>
+</div>
+</div>
+</div>
+<div class="column">
+<p>At best, most small, low-budget advertisers end up using an existing tutorials or training videos that aren’t really designed to be advertisements, likely yielding disappointing results. More commonly, they avoid video advertising altogether. If you fall into either of these categories, I’m happy to report that AdWords just rolled out the answer to your prayers. Let me introduce you to <a href="https://youtube.googleblog.com/2016/06/introducing-youtube-director-suite-of.html">YouTube Director for Business</a>, an app that’s even cooler than Snapchat and Tinder combined (at least to marketing nerds like yours truly, that is).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e8128c7b-33a5-4195-af80-a60fbca830a0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/youtube-director.jpg" alt="youtube director for business app" width="297" height="495" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>This totally free (!!) new app simplifies the video creation process, allowing you to create a professional-caliber video ad in just a few minutes. I’m not joking – it literally spoon-feeds the video creation process to you.</p>
+<p>The only real decision you have to make is what type of story you want to showcase. Even this selection process is easy! The app organizes templates by genre (a la Netflix) for those that have a story-type in mind. If you don’t, just head to the “By Business” tab to see video styles that were developed specifically for your vertical.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cdc292a0-fc40-4e75-8615-5e8bc362864e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/youtube-director-template.jpg" alt="youtube director templates" width="572" height="490" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>For each template option, the app will give you a quick overview of the intended mission of the video and give you the opportunity to watch an example created by the crew at YouTube. It also tells you what you need to do to prepare for the shoot. You’ll learn exactly how many shots the video will require, the number of people you will need to operate the camera or “act” in the ad, whether you need to write a script in advance or not, and approximately how much time the filming will take.</p>
+<p>Once you’ve selected your template, the fun begins. Start by reviewing each of the shots you’ll be taking. When you click in to view each shot, the app provides an in-depth explanation of what you should be saying and doing in the shot, along with an animated, cartoon-style example. I recommend walking through each shot ahead of time to prepare a rough script and get a sense for what images will be appearing along with the voiceover.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8eb2519c-3191-4a57-bf3d-e3e1b8445ba3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/youtube-director-shooting.jpg" alt="youtube director shots" width="571" height="493" /></div>
+</article>
+</div>
+<p>For our sample video, we elected the “Short Advertisement – Mobile App” template, which Director for Business cautioned would take approximately 30-60 minutes to complete. We started writing out a rough script on a whiteboard, which took about 15 minutes. Once the script was fully drafted, we recorded the audio, which we breezed through in 10 minutes, since we knew exactly what we wanted to say. We then spent about a half hour filming all 8 scenes (but it would have been way shorter if we hadn’t gallivanted all around our office park for the right shots!). Then, to finish off the visuals, we added text to the introductory and CTA shots.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="55e95851-88ef-4ff7-8d02-e3d63f394b7b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/youtube-director-music.jpg" alt="youtube director music" width="283" height="492" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>This step-by-step video production was easy and, by the end of the hour, we had a totally cohesive, compelling ad. While reviewing a rough copy, we also discovered that you can add music to play throughout the video. The app’s selection is massive—it’s organized by both genre and mood—so you’re guaranteed to find something that will jive with your content.</p>
+<p>Check out our finished product!</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="f297d0b7-f847-4864-8053-f794a4016879" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/aqQTuEr3Nds?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p>While it may not be the fanciest video ad out there, it’s pretty darn impressive for a crew with zero camera operating, acting or script-writing skills, armed with a crappy old iPhone 5C. <a href="https://youtube.googleblog.com/2016/06/introducing-youtube-director-suite-of.html">YouTube Director for Business</a> is the gateway to video ad creation that many small businesses need. Download it today and give it a try for yourself!</p>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business">Why Every Small Business Needs YouTube Director for Business [VIDEO]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/07/12/youtube-director-for-business/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Super-Actionable Google Ads Tips to Try Right Now</title>
+		<link>https://www.wordstream.com/blog/ws/2016/07/18/actionable-adwords-tips</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/07/18/actionable-adwords-tips#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/07/11/actionable-adwords-tips/</guid>
+
+					<description><![CDATA[<p>Looking for some fresh strategies to implement in your AdWords account? Here are 4 super-actionable AdWords tips and techniques that deliver proven results!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/18/actionable-adwords-tips">4 Super-Actionable Google Ads Tips to Try Right Now</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9a7bff2f-0709-49fb-93b9-417b4364f282" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-title.jpg" alt="adwords tips title image" width="696" height="389" /></div>
+</article>
+</div>
+<p>This month, I’ve been working hand-in-hand with Google account managers to review and assess a group of accounts, ultimately coming up with our top three most impactful recommendations for each account. During these conversations, I’ve learned a few new Google Ads (formerly known as AdWords) tips and techniques and different approaches to the “old faithfuls” we’ve been using here at WordStream for years.</p>
+<p>Looking for some fresh strategies to implement in your Google Ads account? Here are four super-actionable Google Ads tips that I’ll definitely be trying in the next few weeks!</p>
+<h2>Google Ads Tip #1: Combine Branded Terms with Modified Broad Keywords</h2>
+<p>The secret to lowering your CPCs and simultaneously boosting your ad rank lies in Google’s mystery metric—<a href="/quality-score">Quality Score</a>. Savvy advertisers are perpetually tweaking their accounts in pursuit of those coveted 10’s, but achieving high scores isn’t an easy feat. In fact, it seems as though the only keywords that consistently score 7-10’s are branded terms.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="686a71d1-3018-4659-921d-ef65aa312288" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-quality-score.jpg" alt="quality score" width="542" height="153" /></div>
+</article>
+</div>
+<p><strong> </strong>Branded terms are a slam dunk for <a href="/blog/ws/2013/03/19/why-bid-on-branded-terms-ppc">many reasons</a>. Firstly, it’s easy to create super-relevant ads and landing pages for these keywords, as your brand should appear regularly throughout your ad copy and website. Even better, the people who are searching your branded terms likely have strong intent; they know exactly what company they’re looking for so they’re apt to click on your ads and have high engagement rates on your website.</p>
+<p>While these keywords maybe be the holy grail for high Quality Scores, you certainly don’t want to limit your ad visibility to people who already know of and are looking for your brand. That said, you <em>can</em> leverage the power of these branded keywords to impact the Quality Scores of non-branded terms.</p>
+<p>Here’s how the hack works – create keywords that are a combination of branded and non-branded terms. Set the non-branded term to modified broad (using + signs), but leave the branded term on broad. Using this technique will allow your ads to show when people search combinations of your non-branded terms—your branded terms do not have to be present.</p>
+<p>So, for example, let’s say that your branded term is Havaianas and your non-branded terms are neon flip flops. You’d add the keyword as <em>havaianas +neon +flip +flops</em>, and the ad would be eligible to show for search queries that include the words <em>neon, flip </em>and<em> flops.</em></p>
+<p>Why does this technique yield high Quality Scores? Remember, Google calculates your scores based on exact matches to your keyword term. Because the “official” keyword technically includes your branded terms, it’s likely to yield a stellar Quality Score.</p>
+<h2>Google Ads Tip #2: Take Advantage of Location-Based Bid Modifiers</h2>
+<p>One of the best ways to fine tune your Google Ads account is to identify what’s working and amplify it (or promote your “unicorns”—in Larry Kim speak). One route to do this is through location-based bid modifiers.</p>
+<p>Far too many advertisers set their targeting to reflect the areas where their products are sold and neglect to revisit these settings. The problem is, not all geographic locations yield the same performance. For example, if you sell hunting equipment, there’s a good chance that you’ll see more conversions coming from searchers in rural areas where hunting is a popular sport than those in heavily populated urban centers.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d99b2c72-f6f5-48f0-9730-5c3dda9aa811" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-search-query-report.jpg" alt="search query report" width="645" height="230" /></div>
+</article>
+</div>
+<p>Rather than guesstimating which regions are the most valuable for your business, head to the Dimensions Tab and set your view to Geographic. This will produce a sortable report that breaks down your performance metrics by country, region, metro area, city and “most specific location.” Organize by conversions to understand the regions that are bringing in the most sales for your business.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eb450531-cc4f-476e-9f14-4514743833dd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-bid-adjustment.jpg" alt="mobile bid adjustment" width="511" height="274" /></div>
+</article>
+</div>
+<p>Once you’ve identified your most valuable locations, revisit your location targeting settings and set a positive bid adjustment for each of these locations. Higher bids will help you to attain <a href="https://www.wordstream.com/blog/ws/2019/05/16/gallery-ads">better visibility</a> for searchers located in (or searching for products within) your top locations, ushering in even more conversions.</p>
+<h2>Google Ads Tip #3: Reach Beyond Your Current Language Settings</h2>
+<p>According to a 2013 <a href="http://cis.org/record-one-in-five-us-residents-speaks-language-other-than-english-at-home">study</a> by the Center for Immigration Studies, one in five US residents speaks a language other than English in their household. However, just because their preferred language isn’t English does not mean that the vast majority of these people don’t <em>also</em> speak English.</p>
+<p>Remember, AdWords bases its language targeting settings on a Google user’s interface language. Users can edit this setting to ensure that Google provides results in their selected language, regardless of their physical location.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f7e3e138-a4c2-4e64-a768-e904c3355908" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-bilingual.jpg" alt="adwords settings bilingual" width="473" height="296" /></div>
+</article>
+</div>
+<p>As you can see, when I change my preferred language settings to Spanish, I’m only served ads that are targeted to Spanish speakers, despite the fact that I am logged into the US version of Google.com.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7fb09c0a-0f30-4425-98b9-32d16d139f92" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-spanish-search.jpg" alt="search spanish profile" width="637" height="200" /></div>
+</article>
+</div>
+<p>As you can imagine, many of these bilingual Americans set their first language as their primary language on Google, effectively eliminating ads from any companies who do not include <a href="/blog/ws/2013/09/26/language-targeting-adwords">Spanish-language targeting</a> in their Google Ads campaigns. This is a huge source of missed opportunity for US-based advertisers who absolutely should be advertising to the bilingual consumer-base.</p>
+<p>It may sound like a headache to expand your advertising efforts to a completely new market, but it’s actually quite simple. First, identify which languages are most prominent in your target regions.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="243d0a38-3d7b-4c7b-b053-ea3194e6afcf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-language-map.jpg" alt="map for most commonly spoken language other than english" width="637" height="420" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Source: </em><a href="http://www.slate.com/articles/arts/culturebox/2014/05/language_map_what_s_the_most_popular_language_in_your_state.html"><em>Slate.com</em></a></p>
+<p>Then, adjust your language targeting settings to include this new audience.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="975445cd-2d04-4b1d-91e3-5dd213fffa02" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-language-settings.jpg" alt="language settings adwords" width="640" height="529" /></div>
+</article>
+</div>
+<p>That’s it! There’s no need to add non-English keywords, ads or landing pages. It almost feels too good to be true, right?</p>
+<p>Here’s why this trick works—if your website doesn’t translate seamlessly or your sales reps aren’t trained to support multiple languages, you really shouldn’t risk going “whole hog” and <a href="https://www.wordstream.com/blog/ws/2019/08/09/google-ads-campaign">creating campaigns</a> specifically for non-English speakers. This could actually do more harm than good, as this campaign would likely garner plenty of impressions and clicks, but fewer conversions. Instead, this trick truly helps you to connect with a bilingual audience; people who are using a non-English browser but will still understand and respond to ads written in English.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7b2f5f9d-8ead-4953-aeef-ac4e222b1b47" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-grubhub.jpg" alt="grubhub bilingual ad example" width="633" height="293" /></div>
+</article>
+</div>
+<p>As you can see in the example above, GrubHub has adopted this strategy perfectly. This is clearly a bilingual searcher (her Google profile is set to Spanish, but she is searching in English) and GrubHub’s English ad should suit her just fine!</p>
+<h2>Google Ads Tip #4: Salvage Dying Ad Groups with RLSA</h2>
+<p>Ever have an ad group that you feel <em>really</em> good about but it just isn’t pulling through with strong results? It’s hard to hit the pause button when your gut tells you that these keywords hold unseen potential. It’s also hard to justify running keywords that aren’t yielding many clicks.</p>
+<p>Rather than pulling the plug completely, try resurrecting your ad group using <a href="/blog/ws/2016/06/08/rlsa">Remarketing Lists for Search Ads (RLSA)</a>. With this feature, you can restrict its traffic by solely displaying ads to people who have already visited your site. Since they already know who you are and have shown an interested in your offerings, they’re more likely to be further along in the purchase cycle and ready to convert than your standard audience.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2bfffde5-83f7-4c8b-94a9-a7151800c4e0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-tips-rlsa-1.jpg" alt="rlsa target and bid settings" width="639" height="372" /></div>
+</article>
+</div>
+<p>If you decide to go this route, it crucial that you execute it properly. With RLSA, your primary targeting criteria is still keywords—your remarketing list is then layered in as a secondary targeting method. When adding your remarketing list, you have the opportunity to set it to “bid only” or “target and bid.” In this scenario, be sure to select “target and bid”, which limits your ads’ visibility to past site visitors.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/18/actionable-adwords-tips">4 Super-Actionable Google Ads Tips to Try Right Now</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/07/18/actionable-adwords-tips/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wow-Facebook Ads on 3rd Party Sites for Non-Users</title>
+		<link>https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users/</guid>
+
+					<description><![CDATA[<p>Facebook is finally extending its reach into uncharted territory--it's serving ads to non-users on third party sites. Learn exactly how this change will work.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users">Wow-Facebook Ads on 3rd Party Sites for Non-Users</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This is my mom.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="afa751dc-4e26-4e5c-a045-7154cda91853" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-news-mom.png" alt="my mom!" width="268" height="254" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>She is many advertisers’ dream girl. She’s a full-time housewife, armed with a healthy wallet and plenty of time to peruse the internet. Moreover, she lovingly serves as a part-time personal assistant for most of my immediate family—meaning that she’s perpetually online shopping for everything ranging from household supplies to clothes for my dad to flights for us kids.</p>
+<p>She fits the perfect profile for so many online advertisers and yet, for years, she’s eluded many of their ads. Why? Because this woman is staunchly anti-Facebook. She thinks it’s creepy and invasive, and despite lots of prodding from me and my siblings, she’s held strong and has yet to set up a profile.</p>
+<p><a href="/blog/ws/2015/05/04/future-of-online-advertising">Identity-based targeting</a> is one of the hottest (and most powerful) tactics in digital marketing today. Social media platforms have rich personal data and sophisticated methods to categorize their users, giving marketers the ability to connect with their most highly qualified prospects.</p>
+<p>There’s one big downside to using this method: Advertisers are limited because they can only connect with social media users. And, while it certainly feels like everyone and their mom in on Facebook, I can quite literally attest that this is not quite the case.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e7b2a08f-17ed-48b1-85d6-411c1d7ddec5" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-news-demographics.png" alt="sprout social's facebook demographics infographic" width="641" height="670" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>As you can see from Sprout Social’s infographic on Facebook user demographics, my mom’s situation isn’t too rare. Only 56% of her peers (people ages 65+) have Facebook profiles.</p>
+<p>Facebook recognized that this reality was troubling for advertisers focused on demographics with low Facebook adoption rates, so they’re finally taking action. That’s right, mom, there’s no more escaping <a href="/blog/ws/2015/12/14/how-to-create-facebook-ads">Facebook ads</a>!</p>
+<p>The <a href="http://www.wsj.com/articles/facebook-wants-to-help-sell-every-ad-on-the-web-1464321603">news recently broke</a> that Facebook is extending its ad reach beyond Facebook users. For a year or so now, it’s been serving ads outside of the platform itself, through the Facebook Audience Network, a collection of third-party websites and mobile apps. However, these ads were only displayed to Facebook users, perusing these sites. <strong>Now, these ads will also be visible for non-users</strong>.</p>
+<p>Here’s how the new process will work—Facebook will leverage a combination of cookie tracking, plugins and button data to acquire data on non-Facebook users as they use the internet. This technique isn’t new—various online ad networks are already employing it—but Facebook has a unique advantage, thanks to the vast amount of data it has on its own users’ behavior. By linking the patterns in the non-users’ behaviors to those of their existing users, it can get a more accurate depiction of the non-users’ interests and demographics. As it starts to identify who these non-users are, it’ll be able to include them in the Facebook Audience Network.</p>
+<p>If all goes according to plan, this change will be hugely positive for <a href="/facebook-advertising">Facebook and Facebook advertisers</a> alike. Advertisers will be able to serve ads to even more qualified viewers and Facebook will reap even more dollars in ad revenue.</p>
+<p>The only person who won’t be thrilled about this update? My beloved mother. But don’t worry mom—non-users <em>will</em> have the ability to opt-out of these identity-based ads, should they wish.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users">Wow-Facebook Ads on 3rd Party Sites for Non-Users</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/06/01/facebook-ads-for-non-users/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Industry Reactions to the Big News from #GoogleSummit</title>
+		<link>https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit/</guid>
+
+					<description><![CDATA[<p>The industry is abuzz with changes announced at this year's #GoogleSummit. See what the experts have to say about the updates.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit">Industry Reactions to the Big News from #GoogleSummit</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Industry Reactions to the Big News from #GoogleSummit</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+April 9, 2018</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">Paid Search Marketing</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>Every spring, the PPC community eagerly awaits the Google Performance Summit, where <a href="/blog/ws/2016/05/24/google-mobile-first">Google reveals new AdWords technologies</a> that they’ll be releasing in the coming months. Last Tuesday was the big day and it definitely did not disappoint.</p>
+<p>As I watched the livestream of the event, I was also tuned into Twitter’s #ppcchat to gauge industry leaders’ reactions to the new Google products. The peanut gallery definitely kept things interesting—they had plenty to say about the extravaganza, from poking fun at the Product Managers’ corny skits to rejoicing over exciting new products to sharing their two cents on early-access beta performance.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dad76a90-b895-499a-8cea-fc92d8dd20d7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-kirk.png" alt="kirk williams reaction" width="583" height="305" /></div>
+</article>
+</div>
+<p><a href="https://twitter.com/ppckirk"><em>@PPCKirk</em></a><em> managed to sum his feelings up in one tweet</em></p>
+<p>Although there were mixed feelings for some new products, the overarching sentiment was positive. <a href="https://twitter.com/Realicity">James Svoboda</a> went as far as to say that this may have been the best Google Summit so far and I’m inclined to agree.</p>
+<p>Here’s the scoop from the community on each of Google’s upcoming releases:</p>
+<h2>Bidding by Device: 5 Stars and Cries of Hallelujah</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="651f3038-399b-493d-9fd6-15862896451b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-tablets.png" alt="tablet bids" width="596" height="84" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>Platform bidding is back and advertisers are beyond thrilled. In just a few months, we’ll be able to set a base bid for one device time and then have the ability to set bid modifiers ranging from -100% to +900% for the other TWO devices. Meaning, you can set your base bids for mobile devices, set a modifier for tablets and then set a separate modifier for desktop searchers, ultimately giving advertisers more control.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0195c094-8bd4-401c-be2f-2df0ab113542" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-ecs.png" alt="enhanced campaigns frustrations" width="630" height="107" /></div>
+</article>
+</div>
+<p>Unsurprisingly, advertisers were thrilled to hear the news. Ever since Google shattered our hearts with the oh-so-controversial enhanced campaigns release, we’ve been begging it give us back control of device-specific bids. We sent countless pleas to our account managers, petitioned AdWords through Twitter and consistently pushed the issue at partner summits. It’s heartening to see that the crew at Google took this feedback seriously and finally acquiesced to this request.</p>
+<h2>Expanded Text Ads: 5 Stars, Coupled with a Loud Sigh</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4920902b-0511-4465-b05c-99c9fea7427b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-ads.png" alt="expanded ads" width="634" height="213" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>This is the biggest (literally, the <em>biggest</em>) change that’s happened to PPC ad copy in the history of AdWords. New, <a href="/blog/ws/2016/05/25/google-expanded-text-ads">expanded text ads</a> are <strong>50% larger</strong> than standard text ads and Google’s early studies show that they’re yielding CTR increases of up to 20%!</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="195aa4a8-fc38-4b5c-b9c5-1b543781314a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-expanded-ads.jpg" alt="expanded ads" width="800" height="274" /></div>
+</article>
+</div>
+<p>For years we’ve been desperately cramming our messages into teensy tiny fields, praying they’ll still make sense. The character counts limited creativity and made ad copy creation endlessly frustrating. As you can see in the example above, the new ads dwarf the old ones. They have two headlines that are 30 characters each, both description lines are 40 characters long, and the display URL now includes two, 15-character path fields. Having the freedom to craft higher-quality ad copy the way we <em>want</em> to, without having to adhere to super-short character fields is a pretty exciting prospect.</p>
+<p>There’s just one downside—these new ads will be a royal pain to create. We all know that overhauling ad copy for an entire account is challenging, to say the least. With this ad format, we’ll have to create tons of new ads including more information than ever before. Even after you’ve created an expanded alternative for all of your ad groups, you’ll find yourself making adjustments rather frequently, as we start to discover new best practices for these lengthier ads. Le sigh.</p>
+<p>The good news is that we’re already experimenting with expanded ads here at WordStream HQ. In the coming months, we’ll be sharing our newfound tips and strategies to make updating these suckers less painful!</p>
+<h2>Demographic Audiences for Search Ads: 4 Stars</h2>
+<p>Demographic targeting on the search network is one of those <a href="/blog/ws/2015/02/25/bings-ads-vs-google-adwords">rare gems</a> that Bing Ads’ has offered for years, but Google never seemed to want to adopt. In fact, it was one of those AdWords betas that we joked would never actually make it out of the beta program. Well my friends, it seems that that day has finally come and, as you can see from Mark’s tweet, we’re pretty exuberant about it.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f4231dd8-d890-411b-8952-de142f42e34f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-demos.png" alt="demographic auds for search ads" width="633" height="107" /></div>
+</article>
+</div>
+<p>That said, there is some skepticism within the community with regards to the accuracy of Google’s demographic settings. It’ll definitely be interesting to see how things pan out with this one…</p>
+<h2>Similar Audiences for Search: 3.5 Stars and Some Healthy Skepticism</h2>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c59d06cb-da3b-4f06-84eb-24b89be34c3d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-similar-aud.png" alt="similar audiences" width="571" height="336" /></div>
+</article>
+</div>
+<p>Clearly Larry Kim is pumped about this feature, and many advertisers fall into the same boat. We’re already accustomed to Similar Audiences, which gives us the ability to create lookalike audiences based off our GDN and Customer Match groups. Now, Google is officially extending this option to search audiences, too!</p>
+<p>Feelings towards this new feature are mixed. Most industry peeps agree that it’s great in theory and, as the brilliant <a href="https://twitter.com/PPCKirk">Kirk Williams</a> pointed out, this could be hugely positive for SMBs, who don’t garner enough traffic to qualify for RLSA campaigns. However, many question whether Google can create lists that accurately reflect your ideal audience.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="28712c06-3d93-48b8-91e9-0cbe9f452975" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-skeptical.png" alt="skepticism for similar audiences" width="632" height="129" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>If Google can execute this the right way, it will be a major slam dunk for advertisers. But, until we’re able to test its effectiveness, the PPC jury’s out on Similar Audiences for Search.</p>
+<h2>Updated AdWords UI: 3 Stars</h2>
+<p>Google is promising a major overhaul of the AdWords UI, making it a more streamlined, intuitive platform for the end user. The philosophy behind the change is that AdWords should be more focused on the business it’s promoting, so account managers can optimize campaigns based on specific business goals and targets.</p>
+<p>You can catch a sneak peek of the new, half-built interface <a href="/blog/ws/2016/05/25/new-adwords-interface">here</a>, but the key highlights are:</p>
+<ul>
+<li>Campaign creation wizards aimed at helping you determine exactly what type of campaigns and which settings will yield the best return for your business</li>
+<li>A cleaner navigation system, with AdWords-generated opportunities available every step of the way</li>
+<li>Newly designed dashboards to help users consume data more easily</li>
+</ul>
+<p>Personally, I think it’s high-time that Google updates the interface and I’m excited to see a more user-friendly design plan. This is great news for PPC beginners and those who aren’t super-involved with their accounts. That said, I understand why the industry pros’ reactions to this update were lackluster.</p>
+<p>First things first, many of us have spent ages getting comfortable with the existing interface. Now that we know it like the back of our hands, Google’s switching things up and we have to learn a whole new setup?</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ccc3e2c2-2da9-4273-a99d-9082a38ad8df" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-ui.png" alt="new adwords ui" width="638" height="127" /></div>
+</article>
+</div>
+<p>On top of that, many are concerned that, as the AdWords team creates more streamlined workflows, they’ll eliminate advanced options that provide advertisers with more control over their accounts.</p>
+<p>Those with the greatest concerns are agencies. As AdWords becomes more prescriptive, will this eliminate the need for agencies? Will more businesses feel confident managing their campaigns in-house?</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a7dc923b-244b-49d6-ad5c-953292b074e9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/industry-reactions-new-ui.png" alt="new adwords ui reaction" width="665" height="86" /></div>
+</article>
+</div>
+<p>The good news is that the new UI isn’t hitting the net anytime soon. We’ve got plenty of time to wrap our heads around these changes (and hopefully more sneak peeks) throughout the next few months.</p>
+<p>Want to hear what others had to say about the Google Summit announcements? Check out these write-ups from my brilliant pals, <a href="http://www.ppchero.com/6-takeaways-from-googles-performance-summit/">Matt Umbro</a> and <a href="http://www.pointit.com/blog/google-summit-2016/">Maddie Cary</a>!</p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit">Industry Reactions to the Big News from #GoogleSummit</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/06/01/industry-reactions-google-summit/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6 Easy Google Ads Bidding Strategies for Newbies &#038; Math Haters</title>
+		<link>https://www.wordstream.com/blog/ws/2016/05/11/easy-adwords-bidding-strategies</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/05/11/easy-adwords-bidding-strategies#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Sagin]]></dc:creator>
+		<pubDate>Tue, 10 May 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/05/10/easy-adwords-bidding-strategies/</guid>
+
+					<description><![CDATA[<p>Math is hard. AdWords bidding is harder. If you hate math or you're new to PPC, here are our tried and true, super-simple tips for setting and adjusting your AdWords bids.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/05/11/easy-adwords-bidding-strategies">6 Easy Google Ads Bidding Strategies for Newbies &amp; Math Haters</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I’ve always struggled with math. In fact, when choosing where to go to college, the key attribute I was looking for was not the school with the best party scene or the nicest campus. Instead, I hunted for a school that didn’t have a mathematics course requirement. For five years, I skated through life, avoiding algebra, calculus, trigonometry and the like at all costs.</p>
+<p>When I started working in paid search, I was forced to end my strike against all math-related activities. I’d incorrectly assumed that online marketing was all about creative. Man, was I wrong. Between <a href="https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget">bidding and budget allocation</a>, I found myself doing more math than I’d ever anticipated.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8927d565-6610-4541-a042-d09adb013f4e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-math.jpg" alt="math sucks" width="343" height="229" /></div>
+</article>
+</div>
+<p>If you, too, fall into the anti-math camp, you’ll likely find that setting and adjusting bids is the biggest challenge you’ll face when running your Google Ads account (formerly known as Google AdWords). Over time, you’ll develop your own, more sophisticated bidding strategies and procedures, but I recommend kicking things off with these super-simple, go-to bidding tips.</p>
+<h2>Setting your initial Google Ads bids</h2>
+<p>When it comes to setting up those initial bids in Google Ads, the last thing you want to be doing is shooting in the dark and crossing your fingers in hopes that your bidding assignments work out. You have tons of data at your fingertips—use it! Here are a few tried and true ways to set your starting bids.</p>
+<h3>1. Use Google’s bid recommendations</h3>
+<p>One of the best places to get started is Google Ads’ Keyword Planner. Not only does this free tool help you to identify new keywords, it also provides a “suggested bid” for each of these terms, based on your ad serving settings. To make the most of it, start by entering your custom targeting information into the Keyword Planner.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="74fe22d2-6a64-4f88-8dc8-9e8cc8a9415b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-planner.jpg" alt="keyword planner" width="586" height="357" /></div>
+</article>
+</div>
+<p>As you may imagine, competitiveness for ad impressions can vary depending on your location, language and network targeting criteria. Google will take these details into account and cater your bid suggestion using this information. For example, check out the estimated pricing for divorce lawyers in West Virginia, versus those in New York City.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="15f46144-14a5-4eab-aaa1-ed82f24ec9c2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-wv.jpg" alt="cpc rec's for west virginia" width="800" height="184" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Keyword Planner’s bid suggestions for “divorce lawyer” in West Virginia.</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="104223e2-8906-4f63-8dc4-8f20b2729ad8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-nyc.jpg" alt="cpc recs for nyc" width="800" height="197" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Keyword Planner’s bid suggestions for “divorce lawyer” in New York City.</em></p>
+<p><a href="/cost-per-click">CPCs</a> for those in New York are more than double of those in West Virginia! As you can imagine, these customized insights are incredibly valuable.</p>
+<h3>2. Shoot for first-page(ish)</h3>
+<p>Google also provides numerous bid-related insights directly within the Google Ads interface. You can see Google’s estimate for the bid required for your ad to land position one, the top section of the SERP or simply the first page.</p>
+<p>To view these estimates, first add your keywords to Google Ads. Then, adjust your columns to view any/all of these metrics.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0b7593be-5b23-47a9-8a18-24001cc6e504" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-columns.jpg" alt="modifying keyword columns" width="529" height="360" /></div>
+</article>
+</div>
+<p>For new keywords, it can be costly to shoot for top positions right off the bat. Instead, give yourself some leeway to test things out—adjust your ads, add some negative keywords, etc.</p>
+<p>I like to start by <strong>viewing each keyword’s estimated first page bid, then bump it up by 20-30% to aim for the middle of the page</strong>. This is a great way to ensure that your ads have visibility, but aren’t at the top right off the bat. From there, you can work your way to higher positions by honing your account to improve Quality Scores or gradually bumping up your bids.</p>
+<p><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader"><strong><em>Worried about wasting money in Google Ads? Use the FREE Google Ads Grader to find out if you&#8217;re making mistakes with your account.</em></strong></a></p>
+<h3>3. Find out how much your competitors are bidding</h3>
+<p>Finding your bidding sweet spot can be tough—you don’t want to be consistently outbid by competitors, but you don’t want overshoot and vastly overpay for your ads, either. One of the easiest ways to identify where your competitors’ bids lay is to take advantage of third-party tools like <a href="https://www.semrush.com/">SEMRush</a> or <a href="https://www.spyfu.com/">SpyFu</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="52191df5-1cf3-4ed7-8401-a18dce50680d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-spyfu.jpg" alt="spyfu" width="638" height="271" /></div>
+</article>
+</div>
+<p>As you can see, the SpyFu report above provides a good sense for what any given advertiser is paying for a particular keyword. Use these tools to understand the competitive landscape and properly align your bids.</p>
+<h2>Adjusting your bids</h2>
+<p>Setting your starting bids is just the beginning. The real challenge comes a little later down the line, when it’s time to tweak them.</p>
+<p>Before you start changing your bids, be sure that you have established your <a href="/blog/ws/2014/03/25/ppc-plan">campaign goals</a>. Do you want to score more conversions, at any cost? Do you have a specific <a href="/cost-per-action">CPA</a> goal in mind? Are you dead-set on position one? Your goals should drive all of these bid changes.</p>
+<p>Depending on your goals, your Google Ads bidding strategies will differ drastically. Since the vast majority of advertisers tend to have a CPA focus, we’ll stick with CPA-based strategies in this post.</p>
+<h3>4. Identify Your CPA</h3>
+<p>Your CPA (or Cost Per Action) measures how much your business pays in order to attain a conversion. Based on your sales, operating costs and margins, you should have a good idea of what you <em>want</em> to be paying per conversion. Of course, even if you achieve this, it never hurts to aim for an even lower CPA.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f7cacebb-0ea5-4809-ac72-f6b061c77421" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-cpa.jpg" alt="what's your cpa" width="508" height="338" /></div>
+</article>
+</div>
+<p>To find your current CPA, all you need to do is divide your total costs by total conversions for a given period. Or, if you REALLY despise math, just plug your info into this trusty <a href="https://www.clickz.com/static/cpa-calculator">CPA calculator</a>.</p>
+<p><strong>CPA = Cost / Conversions</strong></p>
+<p>Ok, now I’m really going to blow your mind with some math trickery. Let’s break down that CPA formula—cost is actually number of clicks multiplied by your CPC and conversions are the number of clicks multiplied by conversion rate.</p>
+<p><strong>Cost = Clicks x CPC</strong></p>
+<p><strong>Conversions = Clicks x Conversion Rate</strong></p>
+<p>Nix clicks from the equation and you’ll discover that CPA can also be found by dividing CPC by conversion rate.</p>
+<p><strong>CPA = CPC / Conversion Rate</strong></p>
+<p>Now, if that’s the case, simple algebra tells me that CPA multiplied by conversion rate will give me my CPC.</p>
+<p><strong>CPC= CPA x Conversion Rate</strong></p>
+<p>Guys, the bottom line here is, if you know your <em>goal</em> CPA and your current conversion rate by ad group, you know <em>exactly</em> what you’re willing to pay for a click to the keywords in that given ad group. Use this information to drive your bid decisions moving forward.</p>
+<h3>5. Know when to hold ‘em and when to fold ‘em</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d2aa0154-e500-4cc4-9c88-198a1e5a410a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/easy-bidding-strategy-decisions.jpg" alt="decisions" width="451" height="217" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>With a little data, decision-making isn&#8217;t so hard.</em></p>
+<p>If your goal is to get your ad group-level CPAs under control, <strong>let your keyword-level CPAs dictate when it’s time to adjust your bids</strong>. Of course, your actions will differ on a keyword-by-keyword basis, but here are a few examples.</p>
+<ul>
+<li><strong>If a keyword’s CPA is lower than your goal</strong> and is appearing in a low position, up the ante. Boosting your bids ensures that you’ll score a higher position, gain more visibility and draw in more clicks and conversions.</li>
+<li><strong>If a keyword has a super-high CPA</strong> and is consistently appearing in a top position, it may be time to reduce your bids. Sure, you’ll see its position drop and fewer conversions come through, but it’ll drive down your CPAs considerably.</li>
+</ul>
+<h3>6. Try bid management scripts</h3>
+<p>Is this post giving you a headache? It’s cool, I get it. Math sucks. Plenty of people elect to avoid this bidding nightmare altogether, opting for automated bidding solutions. Google has several baked-in, automatic bidding features, but I’d recommend avoiding these if you&#8217;re a beginner. Instead, check out bid management scripts (there’s a ton of pre-made options on the <a href="https://developers.google.com/adwords/scripts/docs/solutions/bid-testing">Google Ads dev site</a> and <a href="http://www.freeadwordsscripts.com/2013/02/update-your-bids-from-google-spreadsheet.html">FreeAdWordsScripts.com</a>)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1d545d61-3a98-4a15-83b9-82c56cad13ac" data-langcode="en"></div>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/05/11/easy-adwords-bidding-strategies">6 Easy Google Ads Bidding Strategies for Newbies &amp; Math Haters</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/05/11/easy-adwords-bidding-strategies/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

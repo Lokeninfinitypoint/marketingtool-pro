@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Larry Kim, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/larry-kim/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 28 Mar 2025 21:02:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Larry Kim, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One Trick to Scale Meta Ads &#038; Target Your Best Customers</title>
+		<link>https://www.wordstream.com/blog/scale-meta-ads-with-first-party-data</link>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 12:30:49 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=89856</guid>
+
+					<description><![CDATA[<p>Use this trick to make your Facebook ad campaigns even more effective. </p>
+<p>The post <a href="https://www.wordstream.com/blog/scale-meta-ads-with-first-party-data">One Trick to Scale Meta Ads &#038; Target Your Best Customers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We can all agree that Meta advertising isn’t what it used to be. Sure, things seemed better in 2024 than in 2023, but I wouldn’t say we’re running at 100%.</p>
+<p>Privacy regulations like GDPR, iOS updates, and the slow dissolution of third-party cookies really threw a wrench into ad tracking. The Facebook Pixel doesn’t deliver nearly the same results as it once did and honestly, some days it feels like Meta is just shooting itself in the foot. Heck, there was an <a href="https://www.usatoday.com/story/tech/news/2024/12/11/instagram-facebook-whatsapp-down-outage/76923908007/" target="_blank" rel="noopener">outage</a> at the busiest time of the year!</p>
+<p>We also have to add that Meta isn’t the blue ocean it once was. With millions of advertisers now on the platform, costs <a href="https://www.wordstream.com/blog/facebook-ads-benchmarks-2024">have surged </a>to 20-year highs and every click and conversion eats into your budget way more than it used to. It’s no wonder we see platforms like Applovin and TikTok Shops becoming the new ‘it’ things.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/tiktok-shops-growth-png.webp" alt="tiktok social commerce growth from 2020-2026" width="950" height="912" class="aligncenter size-full wp-image-89904" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/tiktok-shops-growth-png.webp 950w, https://www.wordstream.com/wp-content/uploads/2025/02/tiktok-shops-growth-480x461.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 950px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://www.emarketer.com/chart/257912/us-tiktok-social-buyers-2020-2026-millions-change-of-us-tiktok-users" target="_blank" rel="noopener">Source</a></em></p>
+<p>All that being said (and you might be surprised at this) <strong>I still believe Meta is the place to be for ecommerce advertisers</strong>.</p>
+<p>Why? Because the people are there, they are buying, and with the right targeting, you can still reach them in a cost-effective way.</p>
+<p>But you have to go beyond what Meta is offering.</p>
+<p>You have to invest in first-party data and visitor identification. This data will help you build smarter audiences, lower your ad costs, and get back to the results you once had. In this article, I&#8217;ll walk through how to do just that.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-visitor-identification">What is visitor identification? (And why you’re probably not using it)</a></li>
+<li><a href="#why-does-visitor-id-work-for-meta-ads">Why does visitor identification matter for Meta ads?</a></li>
+<li><a href="#how-to-use-visitor-id-to-scale-meta-ads">How to use visitor identification to scale your Meta ads</a></li>
+<li><a href="#tips-to-use-visitor-id-for-meta-ads">Practical tips to start scaling your Facebook ads with visitor identification</a></li>
+</ul>
+<div id="what-is-visitor-identification"></div>
+<h2>What is visitor identification? (And why you’re probably not using it)</h2>
+<p>Let’s get into it, starting with the concept of visitor identification.</p>
+<p>If you’re like most advertisers, <a href="https://customers.ai/website-visitor-identification" target="_blank" rel="noopener">visitor identification</a> might not sound familiar (or like something only enterprise brands have figured out). You also may not realize that it’s everywhere. In all likelihood, you’ve seen it without even knowing!</p>
+<p>To break it down, visitor identification is exactly what it sounds like: Someone visits your website, and you identify them. We’re talking names, emails, job titles, addresses, and more.</p>
+<p><strong>Here’s how it works:</strong></p>
+<ul>
+<li>A website identity pixel identifies your anonymous visitors and matches them to a profile in a database.</li>
+<li>The visitor contact data is enriched with personal information and the pixel starts tracking visitor behavior (think customer journey tracking).</li>
+<li>This data is then sent to platforms like Meta, Google, and/or Klaviyo, giving you <a href="https://www.wordstream.com/blog/ws/2021/04/12/first-party-data">first-party data</a> to fuel your CRM, ad audiences, and email flows.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/how-visitor-identification-works-png.webp" alt="how visitor identification works in meta ads" width="936" height="718" class="aligncenter size-full wp-image-89886" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/how-visitor-identification-works-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/how-visitor-identification-works-480x368.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to know how your Facebook ads are <em>really</em> performing?</strong> Find out with our free <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader">Facebook Ads Performance Grader</a>!</p>
+<div id="why-does-visitor-id-work-for-meta-ads"></div>
+<h2>Why does visitor identification matter for Meta ads?</h2>
+<p>For starters, these are people who visit your site but don’t make a purchase, fill out a form, or even click a button. These are the 98% of <a href="https://customers.ai/blog/anonymous-website-visitors" target="_blank" rel="noopener">anonymous visitors</a> you never would be able to identify otherwise.</p>
+<p>With visitor identification, you can. You get first-party, person-level data without pop-ups, cookies, or other invasive tools.</p>
+<p>You also get data that allows you to create really targeted and high-intent audiences. <em>This</em> is how you build and scale your Meta ads strategy.</p>
+<div id="how-to-use-visitor-id-to-scale-meta-ads"></div>
+<h2>How to use visitor identification to scale your Meta ads</h2>
+<p>Scaling Meta ads can be downright frustrating. As soon as you increase your ad spend, costs seem to spike even faster. In fact, to increase your reach by 2.5X, you might have to boost your budget by <a href="https://popsixle.com/articles-podcasts/avoiding-costly-mistakes-when-scaling-meta-ads" target="_blank" rel="noopener">five times or more</a>.</p>
+<p>Why? Meta’s auction system isn’t exactly forgiving.</p>
+<p>When you try to scale, you’re competing harder for the same audience. That means you’re paying more for every click, impression, and conversion.</p>
+<p>But what if you didn’t have to compete for your audience? What if you kept building an audience of people who were genuinely interested in what you had to offer? That would scale.</p>
+<p>So let’s look at how to scale your Meta Ads with a custom-built first-party audience.</p>
+<h3>Step 1: Restore your lost signals</h3>
+<p>When we talk about using first-party data to scale Meta ads, we have to start with server-side tracking. And in this case, we have to talk about <a href="https://www.wordstream.com/blog/ws/2021/10/06/facebook-conversions-api">CAPI</a>, or Meta’s Conversion API.</p>
+<p>CAPI is essential to Meta Ads as it restores those lost audience signals that used to drive our crazy cheap numbers. You know, the signals it used to get from browser-based tracking.</p>
+<p>CAPI sends event data like purchases, page views, add-to-cart actions, and more directly from your website to Meta.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/meta-conversion-api-events-png.webp" alt="meta conversion api events" width="936" height="596" class="aligncenter size-full wp-image-89887" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/meta-conversion-api-events-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/meta-conversion-api-events-480x306.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>This data is then used to determine your <a href="https://www.facebook.com/business/help/765081237991954" target="_blank" rel="noopener">Event Match Quality (EMQ) score</a>, a number that many advertisers haven’t even heard of.</p>
+<p>The problem with that? Your EMQ score actually impacts costs!</p>
+<p>The better your EMQ, the better rates you get. The lower your EMQ? Well, we like to call it the Meta tax.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/improved-event-match-quality-png.webp" alt="benefits of improved event match quality" width="936" height="466" class="aligncenter size-full wp-image-89889" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/improved-event-match-quality-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/improved-event-match-quality-480x239.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>By sending your first-party data through CAPI, you give Meta the data it needs to understand who your audience is, what they want, and you can avoid the Meta tax.</p>
+<p>Check this out.</p>
+<p>DV8 Offroad, an off-road parts retailer, was previously relying on the standard Facebook tools to run their campaigns.</p>
+<p>What happened when they started sending Meta the first-party data they identified through visitor identification? They added an additional 23K visitors to their Meta ad audiences and decreased CPAs by 30%.</p>
+<p><em>That</em> is how you scale your ads.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3af.png" alt="🎯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Need targeting help?</strong> Get the guide &gt;&gt; <a href="https://marketing.wordstream.com/WSLIQContentDLWebsiteFBAdTargeting.html?cid=Web_Any_InContentTextLink_FacebookAdTargetingStrategiesForPrivacy_Download">10 Facebook Ad Targeting Strategies That Work In a Privacy-First World</a></p>
+<h3>Step 2: Segment smarter with first-party data</h3>
+<p>Alright, so you’ve restored your signals with server-side tracking. Step 1 down.</p>
+<p>Now what?</p>
+<p>It&#8217;s time to kick things up a notch by using your first-party data to segment and build strong audiences.</p>
+<p>I think we can all agree that generic targeting is so last decade. If you want to see real results, you need to get personal and that means more granular <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models" target="_blank" rel="noopener">audience segmentation</a>.</p>
+<p>It means going beyond basic demographics and building custom audiences based on real behaviors and interests.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/meta-custom-audiences-example-png.webp" alt="meta ads custom audiences example" width="936" height="494" class="aligncenter size-full wp-image-89890" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/meta-custom-audiences-example-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/meta-custom-audiences-example-480x253.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>It also means using your visitor identification data.</p>
+<p>Here&#8217;s the deal:</p>
+<ul>
+<li><strong> Collect behavioral data:</strong> With your website identity pixel in place, you can see exactly what your visitors are up to—what pages they&#8217;re browsing, which products they&#8217;re eyeing, how long they&#8217;re sticking around, etc.</li>
+<li><strong> Enrich that data:</strong> Don&#8217;t just stop at top-funnel-level info like name, email, address, page views, etc. Match this visitor data with profiles in your CRM to get a fuller picture. Think past purchases, browsing habits, and even specific interests.</li>
+<li><strong> Build custom audiences:</strong> Now, take all that juicy data and feed it back into Meta. Create hyper-targeted audiences like:
+<ul>
+<li>Folks who visited a particular product page but didn&#8217;t add anything to the cart.</li>
+<li>Customers who bought one item and might be interested in something complementary.</li>
+<li>Visitors who lingered on your pricing page but didn&#8217;t take the plunge.</li>
+<li>People who live in a specific region and have an income over $250K.</li>
+</ul>
+</li>
+</ul>
+<p>This is <a href="https://www.wordstream.com/blog/ws/2018/09/04/facebook-retargeting">retargeting</a> gold!</p>
+<p>These types of custom audiences allow you to scale because you’re not wasting spend on broad, low-intent targeting.</p>
+<p>Instead, you’re giving Meta a list of people who are most likely to convert. As a result, your ads are more relevant, engagement goes up, and your cost per conversion goes down.</p>
+<p>Bam!</p>
+<h3>Step 3: Use BOFU-powered TOFU campaigns</h3>
+<p>There are several types of ad objectives you can choose from on Meta and each comes with its own price tag. Some are downright pricey, while others are far more budget-friendly.</p>
+<p>Here’s a quick rundown of <a href="https://www.wordstream.com/blog/facebook-ad-objectives">common campaign types</a>, ranked from most expensive to least expensive:</p>
+<ol>
+<li><strong>Conversions:</strong> The holy grail for advertisers but also the priciest. You’re asking Meta to find people most likely to take a specific action, like purchasing.</li>
+<li><strong>Leads:</strong> Slightly cheaper than conversions but still costly since you’re targeting users ready to share their info.</li>
+<li><strong>App installs:</strong> Costs vary but they’re often in the mid-range depending on the audience and app.</li>
+<li><strong>Engagement:</strong> These campaigns are focused on likes, shares, and comments, and come in at a lower price point.</li>
+<li><strong>Traffic:</strong> The least expensive by far. These campaigns drive clicks and page visits without requiring high-intent actions.</li>
+</ol>
+<p>Unfortunately, advertisers have traditionally had to weigh their objective options carefully. Do you sink your budget into high-cost conversion campaigns or spread it across cheaper objectives, knowing that <a href="https://www.wordstream.com/blog/ws/2021/03/04/facebook-traffic-ads">traffic campaigns</a> alone don’t guarantee sales?</p>
+<p>Honestly, it’s one of the most challenging parts of running Meta Ads.</p>
+<p>It’s also where visitor identification comes in and changes the whole game.</p>
+<p><strong>Here’s how it works:</strong></p>
+<ol>
+<li>Run traffic-focused campaigns to attract a large volume of visitors at a lower cost.</li>
+<li>Use your website identity pixel to track those visitors and collect first-party data.</li>
+<li>Segment the audience based on behavior (e.g., product page viewers, cart abandoners, or blog readers).</li>
+<li>Retarget them with high-intent BOFU (bottom-of-funnel) campaigns designed to convert.</li>
+</ol>
+<p>Here’s the beauty of this approach: You can put more of your budget into general traffic campaigns (you know, the cheapest option) because now, you’re able to identify those visitors after they land on your site.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/benefits-of-traffic-campaigns-with-visitor-identification-png.webp" alt="benefits of traffic campaigns with visitor identification" width="936" height="522" class="aligncenter size-full wp-image-89891" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/benefits-of-traffic-campaigns-with-visitor-identification-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/benefits-of-traffic-campaigns-with-visitor-identification-480x268.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>And instead of paying extra to target high-intent users upfront, you’re leveraging affordable TOFU (top-of-funnel) traffic and converting them later through retargeting.</p>
+<p>By shifting more of your budget to low-cost objectives like traffic campaigns, you can bring in a massive volume of potential customers, identify who they are, and re-engage them with targeted BOFU ads that drive actual conversions.</p>
+<p>It’s efficient, it’s effective, and you won’t blow through your budget. It’s how you scale without breaking the bank.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>What results can you expect from Facebook Ads?</strong> Download our latest <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader">Facebook Ads Benchmarks</a> to find out!</p>
+<div id="tips-to-use-visitor-id-for-meta-ads"></div>
+<h2>Practical tips to start scaling your Facebook ads with visitor identification</h2>
+<p>Ready to scale your Meta ads with visitor identification and first-party data? Awesome.</p>
+<p>Let’s break it down step by step so you can get rolling without overcomplicating things.</p>
+<h3>1. Implement a website identity pixel</h3>
+<p>First things first, you need to install a website identity pixel. This tiny piece of code is the foundation of your visitor identification strategy.</p>
+<p>It tracks who’s visiting your site, what they’re doing, and feeds that data back to you in real-time.</p>
+<ul>
+<li>Make sure it’s installed on every page of your site for maximum coverage.</li>
+<li>Use <a href="http://customers.ai" target="_blank" rel="noopener">a tool</a> that matches and enriches visitor data to actual profiles, including names, emails, and more.</li>
+</ul>
+<h3>2. Set up server-side tracking with CAPI</h3>
+<p>We talked about this earlier but it’s worth repeating: Server-side tracking (CAPI) is a must if you want to scale. It restores your lost tracking signals and ensures Meta can optimize your campaigns effectively.</p>
+<ul>
+<li>Work with your web team or a developer to configure CAPI correctly.</li>
+<li>Test your setup thoroughly to ensure data is flowing smoothly to Meta.</li>
+<li>Monitor the results in Ads Manager to confirm better attribution and performance.</li>
+</ul>
+<h3>3. Use first-party data to build high-intent audiences in Meta</h3>
+<p>Leverage your first-party data to build audiences that actually convert.</p>
+<ul>
+<li><strong>Segment your visitors:</strong> Use behavior-based data to create audiences like:
+<ul>
+<li>Product page viewers who didn’t add to cart.</li>
+<li>Cart abandoners who didn’t complete checkout.</li>
+<li>Returning visitors who haven’t purchased yet.</li>
+</ul>
+</li>
+<li><strong>Sync your data:</strong> Feed your enriched audience data into Meta’s custom audiences to create campaigns tailored to specific behaviors and interests.</li>
+<li><strong>Focus on intent:</strong> Use this data to build retargeting campaigns that speak directly to high-intent visitors, offering the right incentives to push them toward conversion.</li>
+</ul>
+<h3>4. Run test campaigns to validate the results</h3>
+<p>Before you try and scale to the moon, start small. Run test campaigns to see how your new first-party data strategies perform.</p>
+<ul>
+<li>Launch traffic-focused campaigns and monitor how many visitors you can identify.</li>
+<li>Use retargeting flows to measure conversion rates and adjust as needed.</li>
+<li>Analyze the cost per result compared to traditional targeting methods.</li>
+</ul>
+<p>We suggest actually running your campaigns at the same time.</p>
+<p>For example, run the same exact campaign&#8211;one with your traditional audience and the other with your custom-built first-party audience. This will give you a much clearer picture of if your new audience is working.</p>
+<p>Here’s a sneak peek of what we saw when testing the Facebook audience against our custom audience:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/02/facebook-audience-vs-custom-audience-performance-png.webp" alt="facebook audience vs custom audience performance comparison" width="936" height="430" class="aligncenter size-full wp-image-89892" srcset="https://www.wordstream.com/wp-content/uploads/2025/02/facebook-audience-vs-custom-audience-performance-png.webp 936w, https://www.wordstream.com/wp-content/uploads/2025/02/facebook-audience-vs-custom-audience-performance-480x221.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h2>Reach the right audience on Meta with these tips</h2>
+<p>At the end of the day, if you want to scale your Meta ads and retarget like it’s 2019 again, visitor identification and first-party data are what you need.</p>
+<p>So take a step back and audit your current setup. Are you collecting the right data? Are you using that data? Do you have the ability to scale?</p>
+<p>If not, now’s the time to make changes.</p>
+<p>With visitor ID and first-party data, you can build campaigns that reach the right people, <a href="https://www.wordstream.com/blog/why-google-ad-costs-are-rising-in-2025">lower your costs</a>, and scale just like the old days. So good luck and cheers to a scalable future!</p>
+<p>The post <a href="https://www.wordstream.com/blog/scale-meta-ads-with-first-party-data">One Trick to Scale Meta Ads &#038; Target Your Best Customers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The World&#8217;s Most Successful Marketers Are Doing These 8 Things</title>
+		<link>https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Fri, 10 May 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers/</guid>
+
+					<description><![CDATA[<p>The world of marketing is always changing, but certain habits of successful, world-class marketers always stay the same. Larry Kim shares his top eight qualities of the world's best marketers, from T-shapes to testing and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers">The World&#8217;s Most Successful Marketers Are Doing These 8 Things</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The world of marketing has changed, and changed, and changed again during the fifteen years that I’ve been in it.</p>
+<p>But a few things have stayed the same, and one of them is the mindset characteristics of great marketers.</p>
+<p>World-class marketers have something in common. They all share these eight thought patterns. The reason these people are at the top of their game is <em>because </em>of these.</p>
+<h2>1. They aren’t afraid to try new or crazy stuff</h2>
+<p>A surefire way to be ho-hum is to do whatever everyone else is doing. Because if you do what everyone else is doing, then you’ll achieve what everyone else is achieving—which is ho-hum.</p>
+<p>I am <a href="https://www.wordstream.com/blog/ws/2019/01/08/personal-branding">not a fan of ho-hum.</a></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="976b1a66-62df-42d3-b1e4-327c106d3676" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-larry-kim.jpg" alt="Larry Kim on a unicorn" width="585" height="360" /></div>
+</article>
+</div>
+<p>When I founded WordStream, some people might have thought me to be a nutcase.</p>
+<p>Oh, <a href="https://www.wordstream.com/blog/ws/2016/12/05/best-online-marketing-strategies">I had ideas.</a> Were they good ideas or bad ideas?</p>
+<p>I don’t know, because I don’t assess ideas qualitatively. I assess them quantitatively. Some ideas worked really well.</p>
+<p>Ideas—the new, the crazy, the shocking, the unorthodox, the off-the-wall, the anything—are marketing fodder. You just have to go forth and try them.</p>
+<p>How do you come up with these ideas?</p>
+<p>The fact is, they just happen. But you have to be open to them.</p>
+<p>Here’s where I’ve come up with some of my ideas:</p>
+<ul>
+<li>In the middle of a 14-hour workday when my brain is totally fried</li>
+<li>While playing with my kids in the backyard</li>
+<li>In my Uber on the way to the office</li>
+<li>While sleeping</li>
+</ul>
+<p>What matters is your brain’s willingness to accept the zany and try it out.</p>
+<p>Which brings us to another thing great marketers do.</p>
+<h2>2. They cultivate a testing mindset</h2>
+<p>Want to know how to waste a whole lot of time and money?</p>
+<p>Do marketing without testing the results of your marketing.</p>
+<p>I can think of nothing more foolish and wasteful than marketing without testing.</p>
+<p>There’s a reason that entire careers are focused on <em>data </em>and <em>testing </em>in marketing. There’s a reason why WordStream employs data analysts and I hire data scientists.</p>
+<p>When you come up with your marketing idea, <em>immediately </em>put it into motion. <strong>And then measure the results. </strong></p>
+<p><strong>I repeat: Measure the results. </strong></p>
+<p>I cringe when I hear the reasons why marketers aren’t testing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4b7e6849-7a1c-4400-8bf5-8eeac5b69f8a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-testing.jpg" alt="graph of reasons why marketers don't test" width="859" height="328" /></div>
+</article>
+</div>
+<p>Or how infrequently marketers are testing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c91dc26b-4f3d-41a9-83ca-d9c813d57283" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-marketing-sherpa-testing-pie-chart.jpg" alt="frequency of testing pie chart" width="600" height="610" /></div>
+</article>
+</div>
+<p>Or how shoddy some of their testing is.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="028b0b3c-a03f-48b1-b462-78910cdf2c92" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-marketing-sherpa-testing-pie-chart-two.jpg" alt="quality of testing pie chart" width="630" height="563" /></div>
+</article>
+</div>
+<p>If testing sounds intimidating, let me try to make it a bit more palatable.</p>
+<p>You don’t need a data scientist with advanced degrees, a multi-armed bandit testing platform, or anything complicated.</p>
+<p>All you need to do is look at your numbers, whether that’s Google Analytics or some other platform.</p>
+<p>For example, some of the simplest “testing” that I’ve done is just to look at the success rate of a <a href="https://mobilemonkey.com/chatbots/facebook-messenger-drip-campaign" target="_blank" rel="noopener">drip campaign</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2502d5de-014a-44c6-aab0-a83d2fca179d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-drip-campaign-table.jpg" alt="drip campaign results" width="831" height="320" /></div>
+</article>
+</div>
+<p>If it has an especially high read rate or response rate, I’m happy. I’m generally looking for outliers, stuff that is 2-3x better than average.</p>
+<h2>3. They use the skills they have and borrow the skills they don’t</h2>
+<p>Marketing is a really big universe.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="af628738-620c-4fcf-b2c0-6f8e8d060912" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-universe.jpg" alt="image of universe" width="864" height="486" /></div>
+</article>
+</div>
+<p>In the universe of marketing, there are roles as diverse as a social media manager and front-end developer.</p>
+<ul>
+<li>One marketer is spending her days making bid adjustments for an <a href="https://www.wordstream.com/blog/ws/2015/03/12/remarketing-lists-for-search-ads">RLSA</a> campaign.</li>
+<li>Another marketer is researching a <a href="https://hbr.org/2004/10/blue-ocean-strategy" target="_blank" rel="noopener">blue ocean strategy</a>.</li>
+<li>Another marketer is conducting usability eye tracking studies.</li>
+<li>Some other marketer is writing an article about the best food for your pet hedgehog.</li>
+</ul>
+<p>You see how many different things “marketing” can encompass?</p>
+<p>My point is this. To be a successful marketer, you can’t successfully do everything that marketing entails. Instead, you have to borrow the brains, skills, and strategies of others.</p>
+<p>It’s a matter of knowing your weaknesses, so you can hire or outsource to supplement your own best marketing strengths.</p>
+<h2>4.  They are early adopters</h2>
+<p>You’ve heard of <a href="https://en.wikipedia.org/wiki/First-mover_advantage" target="_blank" rel="noopener">first-mover advantage (FMA)</a>, right?</p>
+<p>It’s the concept that if you’re early to a market, concept, resources, or technology, then you have an advantage over your competitors.</p>
+<p>A parallel concept of first-mover advantage is the early adopter advantage.</p>
+<p>The best marketers are early adopters.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fcbcc8ec-0b77-455f-af1c-6c762bda2695" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-early-adopter-bell-curve.jpg" alt="adoption bell curve" width="710" height="292" /></div>
+</article>
+</div>
+<p>If you were an early adopter on Twitter, then you probably nabbed a great Twitter handle, started building a loyal tribe, and established yourself as more authoritative than the <a href="https://www.washingtonpost.com/technology/2019/02/07/twitter-reveals-its-daily-active-user-numbers-first-time/?utm_term=.b9f82e58e514" target="_blank" rel="noopener">321 million users</a> who joined after you.</p>
+<p>If you were an early adopter of content marketing, then you were able to benefit from the traffic, brand signal building, and SEO power of links early on.</p>
+<p>When you see something promising in the marketing world, jump on it.</p>
+<p>You can bail if you need to, but at least try that thing out!</p>
+<h2>5.  They quit<span lang="EN">—fast</span></h2>
+<p>There’s no shame whatsoever in quitting.</p>
+<p>The minute something stops working, stop doing it.</p>
+<p>I say this, of course, with the assumption that you’re <em>testing</em> that tactic, concept, practice, or channel.</p>
+<p>Make your decision to quit based on data, rather than disgust or impatience.</p>
+<p>Disclaimer: Some channels just take time to gain steam. For example, doing SEO linkbuilding requires months of work. Building Reddit karma requires time.</p>
+<p>In the introduction to this article, I used the term “changed” three times to drive the point that marketing has&#8230;well, changed.</p>
+<p>If I were doing today some of the marketing hacks that I was using in 2003, you would laugh in my face. And I would deserve it.</p>
+<p>Take SEO, for example. Remember link wheels?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="900fa3a1-be33-4f6b-805d-31f0ac31a0ed" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-link-wheel.jpg" alt="link wheel" width="640" height="452" /></div>
+</article>
+</div>
+<p>Looks cool and quantum-theorish, but it’s not a thing anymore.</p>
+<p>You must change with the changes in marketing.</p>
+<p>Throw stuff away when it’s not working. Quit when you need to.</p>
+<h2>6. They’re T-shaped, or M-shaped, or whatever letter of the alphabet you choose</h2>
+<p>A few years ago, it was vogue to talk about the T-shaped marketer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3cc0842f-acfa-457a-ad0b-2c06770c5a70" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-t-shaped-marketer.jpg" alt="T-shaped marketers" width="720" height="452" /></div>
+</article>
+</div>
+<p>Some people made an even fatter T-shaped marketer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5be49e81-302b-4fd6-82d7-f449aef2e078" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-t-shaped-marketer-update.jpg" alt="updated T-shaped marketer" width="770" height="439" /></div>
+</article>
+</div>
+<p>Then someone thought they would improve on it with the m-shaped marketer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e34df938-622f-45f0-9d27-3c71c177112c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-i-t-m-shaped-marketer.jpg" alt="different shaped marketers" width="800" height="479" /></div>
+</article>
+</div>
+<p>Others decided to go all Greek and made a pi-shaped marketer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6558e5a4-b0c6-44fc-9b70-2573771e8cec" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-pi-shaped-talent.jpg" alt="Pi-shaped marketer" width="638" height="359" /></div>
+</article>
+</div>
+<p>Even I jumped on the bandwagon and came up with a <a href="https://mobilemonkey.com/articles/the-different-skills-of-a-modern-unicorn-marketer" target="_blank" rel="noopener">unicorn-shaped marketer!</a></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="179b8d3d-7324-4103-89d7-4139af7b236d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-modern-unicorn-marketer.jpg" alt="unicorn marketer" width="768" height="555" /></div>
+</article>
+</div>
+<p>Look, the letter, language, or animal isn’t the point.</p>
+<p>The point is this. Any marketer should be good at several different things.</p>
+<p>The reason to diversify is not <em>just</em> to have an additional marketable skill, even though that’s great.</p>
+<p>Another reason is to improve and expand your variety of marketing ideas.</p>
+<p>If you do PPC all day, every day, all the time, everywhere, <em>good. </em>You’re one heck of a PPC marketer.</p>
+<p>But if you supplement this skill with knowledge in Facebook marketing, video marketing, SEO, and Instagram, then you have a recipe for an even <em>better </em>PPC marketer.</p>
+<h2>7.  They shamelessly steal great ideas</h2>
+<p>You’ve probably heard the phrase “good artists copy, great artists steal.”</p>
+<p>Some people claim that Pablo Picasso said it first.</p>
+<p>Maybe he did. <a href="https://quoteinvestigator.com/2013/03/06/artists-steal/" target="_blank" rel="noopener">Maybe he didn’t.</a></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="60ec1ae4-da79-4407-8236-ffb28bebf475" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-steve-jobs.jpg" alt="Steve Jobs &quot;quote&quot;" width="599" height="221" /></div>
+</article>
+</div>
+<p>But it’s a good concept, especially when applied to marketing.</p>
+<p>Some marketers are great, not because they invented something brand new, but because they stole something that was working somewhere else.</p>
+<p>The “stealing” I’m talking about is not, of course, nefarious or criminal. The point is that you should <em>learn </em>and <em>replicate </em>killer marketing ideas.</p>
+<p>It’s no secret that <a href="https://www.businessinsider.com/all-the-times-facebook-copied-snapchat-2017-5#facebooks-biggest-attack-on-snapchat-came-in-august-when-instagram-copied-snapchats-iconic-story-format-4" target="_blank" rel="noopener">Facebook swiped Snapchat’s</a> stories feature.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ab41439d-b4eb-4bb8-a1ce-21404c0793e6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-facebook-snapchat-swipe-feature.jpg" alt="Snapchat logo with Mark Zuckerberg" width="765" height="431" /></div>
+</article>
+</div>
+<p>Some people cried foul, but others shrugged with a sense of gratitude for how the world evolves through innovation.</p>
+<p>Even the concept behind WordStream’s award-winning <a href="https://www.wordstream.com/google-adwords">Google Ads Grader</a> was inspired by the HubSpot Website Grader. We borrow stuff, we create stuff, we are inspired by stuff.</p>
+<p>If you see a really good marketing idea, copy it, steal it, borrow it, extend it, do it.</p>
+<h2>8. They judge marketing efforts based on results and act accordingly</h2>
+<p>Marketing becomes really simple when you get this concept.</p>
+<p>The best marketing tactics are the tactics that <em>work—the tactics that get results. </em></p>
+<p>What are “results?” Typically, results are measured in terms of CTR, conversions, and sometimes revenue. Your KPIs may vary.</p>
+<p>Some marketers like to measure <em>input </em>to make their judgment calls.</p>
+<p>An input-conscious marketer might ask questions like “What was the word count? How long did it take to write it?”</p>
+<p>An outcome-conscious marketer is looking at the data to find out, “What article had the most traffic in the last six months?</p>
+<p>For example, years ago, we looked at the traffic to more than 1,000 articles on the WordStream blog and discovered that a handful of those articles drove nearly <em>half </em>the traffic to the site!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="30345a98-5798-4174-987a-6850bb8686d6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-top-performing-content.jpg" alt="top-performing content pie chart" width="632" height="385" /></div>
+</article>
+</div>
+<p>I dubbed this the Unicorn Marketing Power Law.</p>
+<p>You might call it the 80/20 rule, the <a href="https://en.wikipedia.org/wiki/Pareto_principle" target="_blank" rel="noopener">Pareto Principle</a>, the law of the vital few, or the principle of factor sparsity.</p>
+<p>The principle states that most of your results come from a small number of your efforts<em>. </em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="20d8df64-7f55-4295-9099-7af5cd6d07d1" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/successful-marketers-80-20-principle.jpg" alt="80-20 principle" width="650" height="350" /></div>
+</article>
+</div>
+<p>The results may not be strictly 80/20, but the principle still holds true—most results come from a few efforts.</p>
+<p>Examples:</p>
+<ul>
+<li>75% of website pageviews come from 14% of the total pages on the site.</li>
+<li>90% of your sales come from 5% of your customers.</li>
+<li>60% of your support staff’s time is taken by the same 3% of customers</li>
+</ul>
+<p>When you identify those top-performing channels, tactics, articles, audiences, platforms, etc., then it’s time to make the most of it!</p>
+<ul>
+<li>Boost the high-performing organic Facebook post.</li>
+<li><a href="https://mobilemonkey.com/blog/2018/12/what-is-a-chat-blast" target="_blank" rel="noopener">Blast it</a> on Messenger.</li>
+<li>Cross-promote it on email.</li>
+<li>Turn it into a blog article.</li>
+<li>Test results.</li>
+<li>Do it again.</li>
+</ul>
+<p>World-class marketers chase down the top performing tactics and then make the most of them.</p>
+<p>You can do the same. Prioritize your marketing activities based on what is getting the best results.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers">The World&#8217;s Most Successful Marketers Are Doing These 8 Things</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/05/10/successful-marketers/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Facebook Messenger Marketing Strategies You Have to Try</title>
+		<link>https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing/</guid>
+
+					<description><![CDATA[<p>Facebook Messenger is quickly becoming a widely used marketing tactic. Here we're sharing the top four strategies that you need to try, including comment guards, chatblasts, and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing">4 Facebook Messenger Marketing Strategies You Have to Try</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Facebook Messenger is quickly becoming a widely used marketing tactic. <a href="https://mobilemonkey.com/blog/2018/10/crowdspring-facebook-messenger-marketing-guide" target="_blank" rel="noopener">It’s easy to see why</a>—80% open rates, 60% clickthrough rates, and sky-high conversion rates.</p>
+<p>Who doesn’t want results like that?</p>
+<p>I’m going to show you the exact features that marketers are using to get those results.</p>
+<p>Here are four specific Facebook Messenger features you must try:</p>
+<ol>
+<li>Comment guard</li>
+<li>Chat blasting</li>
+<li>Click to messenger ad</li>
+<li>Chat widget</li>
+</ol>
+<h2>1. Comment Guard (Private Auto-Responders on Facebook Posts)</h2>
+<p>Comment guard is a bot that you set up on your organic Facebook posts. When someone comments on the post, they will automatically receive a Facebook message from you.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1effd326-e34c-4020-b723-5bd8f3d5364e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-intro.jpg" alt="Facebook messenger marketing graphic" width="1024" height="536" /></div>
+</article>
+</div>
+<p>You can think of it as a Facebook post autoresponder.</p>
+<ol>
+<li>Person comments on a post.</li>
+<li>Said person automatically receives a Messenger reply.</li>
+</ol>
+<p>You can experience a comment guard in action by <a href="https://www.facebook.com/ws.larrykim/photos/a.545840015557088/1004326556375096/?type=3&amp;theater" target="_blank" rel="noopener">clicking on this link.</a></p>
+<p>No offense taken if you don’t want to become my next lead (mwahaha!), so I’ll show it to you in screenshots.</p>
+<p>Here is the Facebook post.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e8374a45-f3b5-4d64-8b19-b4bbbc951368" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-comment-guard.jpg" alt="Facebook post with comment guard" width="516" height="597" /></div>
+</article>
+</div>
+<p>As soon as someone comments, they receive a Facebook Messenger message from a <a href="https://www.wordstream.com/blog/ws/2018/09/14/chatbot-marketing">Facebook chatbot</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d2ca0615-e9c3-46fc-8c8a-01f0bf76b397" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-comment-guard-message.jpg" alt="Facebook messenger with comment guard" width="527" height="584" /></div>
+</article>
+</div>
+<p>The person has not become a lead yet! The lead loop is closed only when they reply to the chatbot.</p>
+<p>Once they reply, they’re a solid lead. You have all their information and permission to send them messages.</p>
+<p>There are three reasons that savvy marketers love comment guard.</p>
+<ol>
+<li><strong>Comment guards are free.</strong> You don’t pay for the leads. With Click to Messenger ads, you are paying per lead but not with comment guards.</li>
+<li><strong>Comment guards are a list building tactic.</strong> Anyone who comments and then engages the Messenger bot automatically adds themselves to your list.</li>
+<li><strong>Comment guards are blessed by Facebook.</strong> <a href="https://mobilemonkey.com/blog/2017/12/facebook-algorithm-hacks">Facebook’s algorithm</a> rewards engagement. So if you have a hot organic post and it’s getting comments, Facebook will prioritize that post in the newsfeed, giving you even more engagement.</li>
+</ol>
+<p>Remember, your goal with comment guards is <em>engagement. </em></p>
+<p>Here are some ways that you can create an organic post with insane levels of engagement.</p>
+<ul>
+<li><strong>Quizzes or riddles</strong>: Create a quiz, no matter how dumb, and ask people to reply with what they think is the correct answer.</li>
+<li><strong>Gif replies</strong>: Ask people to answer a question with a gif. It can be as simple as “How’s your Monday going? Answer with a gif!” The comments will come pouring in.</li>
+<li><strong>Autocomplete</strong>: Give people a starter sentence and ask them to create an answer with autocomplete. Example: “Hey guys, type <em>On Mondays I feel like a” </em>and use autocomplete to finish the sentence.</li>
+<li><strong>Surveys</strong>: Surveys are easy to create, and they bring in tons of engagement. Your survey may be as simple as this: “Are you an agency marketer or an in-house marketer?” By responding to the survey, your audience starts the comment guard.</li>
+<li><strong>Opinions</strong>: Who doesn’t want to share their opinion? Pose a question and let people comment with their thoughts and feelings.</li>
+<li><strong>Controversy</strong>: Obviously, you want to be careful with controversial issues, but you can use this technique to spark some conversation. For example, “Jason Momoa is not hot. Prove me wrong.” Obviously, you’ll want to select a topic or issue that is relevant to your niche.</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b3e8c00f-50ef-4933-b444-45141801dafd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-call-for-comments.jpg" alt="Jason Momoa meme" width="700" height="669" /></div>
+</article>
+</div>
+<p>Here are a few more tricks you can use to get more leverage from your Facebook comment guards.</p>
+<ul>
+<li><strong>Add a comment guard to hot posts.</strong> If you have an organic post that’s getting a lot of engagement, add a comment guard as soon as possible.</li>
+<li><strong>Boost the heck out of organic posts that seem to be getting a lot of comments. </strong>You know that the post is doing well. With a $100 boost, it will do better, and you’ll score additional leads.</li>
+<li><strong>Design organic posts for comment guard engagement.</strong> Start creating more organic posts with comment guards in mind. Spark interaction and conversation. Remember, this is free leads we’re talking about!</li>
+<li><strong>Bait your bot. </strong>Getting someone to comment on a post is only the first step. You have to keep things just as engaging once the bot starts. Add bait. Offer something enticing. Make it easy for them to respond — a simple “yes” button works just fine.</li>
+</ul>
+<h2>2. Facebook Messenger Chat blasting</h2>
+<p>Chat blasting is simple: It’s sending a Messenger chat to everyone on your list.</p>
+<p>Chat blasting is a lot like email blasting (except better).</p>
+<p>Why? It’s as obvious: 70-80% open rates in sixty minutes!</p>
+<p>Compare that to email marketing—5% open rates—and incorporating Facebook Chat blasts into your marketing strategy is a no-brainer.</p>
+<p>Before you can use chat blasting, you have to get in Facebook’s good graces by applying for subscription messaging.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0ad1f704-403a-40f4-a7ba-ac0564fad6a6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-chat-blast.jpg" alt="Facebook messenger chatblast vs email marketing" width="740" height="413" /></div>
+</article>
+</div>
+<p>Don’t worry. This is easier than it sounds.</p>
+<p><span lang="EN">From your Facebook page, go to Settings → Messenger Platform, then scroll down to “Advanced Messaging Features.” Click on “Request.” </span></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fcbbe705-bff6-4f88-beaa-f77550cff2d3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-subscription-messenging.jpg" alt="Facebook subscription messaging selection" width="574" height="383" /></div>
+</article>
+</div>
+<p>The submissions are handled manually, so the review process can take from a few days to over a week.</p>
+<p>The main thing to keep in mind here is that you <em>can’t send promotional content. </em></p>
+<p>It might be tempting to blast your list with a “BUY MAGIC UNICORN ICE CREAM NOW! CLICK HERE!!!”</p>
+<p>That’s not going to work here.</p>
+<p>Facebook requires you to confirm this statement: “I confirm this Page won&#8217;t use subscription messaging to send advertisements or promotional messages and will follow Messenger policies and Facebook community standards.”</p>
+<p>Keep in mind that anyone who receives a blast must first opt-in. Your goal is to make their opt-in smooth, simple, and delightful.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b984f9c3-05bf-4594-9f15-1ca00921a6e9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-opt-in-chat-blast.jpg" alt="Facebook message request to chatblast" width="464" height="740" /></div>
+</article>
+</div>
+<p>Using chat blasting is a powerful way to do the following:</p>
+<ul>
+<li>Maintain a high degree of engagement with your most devoted fans.</li>
+<li>Allow your audience segment <em>themselves </em>with a chatbot sequence.</li>
+<li>Automate drip sequences for even greater levels of engagement.</li>
+</ul>
+<p><span lang="EN"><a href="https://mobilemonkey.com/blog/2018/09/facebook-messenger-chat-blasting-guide" target="_blank" rel="noopener">As you gain experience with chat blasting</a> you’ll want to dig into your data to see <a href="https://mobilemonkey.com/blog/2018/08/messenger-chat-blast-tactics" target="_blank" rel="noopener">what works and what doesn’t.</a></span></p>
+<h2>3. Click to Messenger Ad</h2>
+<p>A click to messenger ad is a Facebook ad where the conversion action is “Send Message.” Instead of clicking on an offer or learning more, the user sends you a message in Facebook messenger.</p>
+<p>Here’s what a normal Messenger ad might look like. (I know, normal people don’t use vomiting unicorn pictures. Not sure why.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e99a6edc-e163-4d21-ae21-4e5233c479b0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-messenger-ad.jpg" alt="Facebook messenger ad" width="440" height="592" /></div>
+</article>
+</div>
+<p>Notice how this ad “opens in messenger” and the button says “Send Message.”</p>
+<p>If you think about it, Messenger ads convert at 100%. Anyone who messages you <em>is part of your contact list. </em>You have their name, email, phone, photo, likes/dislikes—everything.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="23c74331-38f8-4467-922b-92e242acfb21" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-profiles.jpg" alt="profiles" width="780" height="301" /></div>
+</article>
+</div>
+<p>Messenger ads are also ridiculously cheap compared to <a href="https://www.wordstream.com/blog/ws/2018/04/11/underused-facebook-ad-types">conventional Facebook ads. </a></p>
+<p>When MobileMonkey started testing Messenger ads, we slashed <a href="https://mobilemonkey.com/blog/2018/08/facebook-send-to-messenger-ads-benefits" target="_blank" rel="noopener">the cost of our leads from $150 to only $5</a>—a savings of 96%!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="922d3531-a760-48f6-9cb4-f902c66445b0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-cost-per-result.jpg" alt="cost per result chart" width="1279" height="189" /></div>
+</article>
+</div>
+<p>A lot of marketers would look at the number and think, “Pshaw, that’s impossible.” Well, clearly those marketers underestimate the power of Facebook Messenger marketing.</p>
+<p>When someone converts on your Messenger ad, the magic happens. <a href="https://www.wordstream.com/blog/ws/2018/12/13/facebook-messenger-bots">Your Facebook chatbot </a>takes over, coaxing the target down the funnel of your choice.</p>
+<p>The user becomes part of an interactive dialogue with you or the chatbot.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="01f38491-7ed5-4e19-b152-cac4da495fdf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-chatbot-interaction.jpg" alt="Facebook messenger with chatbot" width="738" height="481" /></div>
+</article>
+</div>
+<p>This type of interaction is enormously more compelling than a simple offer on a landing page. Plus, you can set up the bot so that users can choose to talk to a real person at any time.</p>
+<p>Based on my experience, Messenger ads have the biggest potential in marketing today. Sure, a few lone marketers are using them, but Facebook feeds aren’t yet crowded with them.</p>
+<p>As an example, I just spent a few minutes of my life mindlessly scrolling through Facebook. Except I was counting ads.</p>
+<p>Out of the 20 ads that I saw, <em>none of them were Facebook Messenger ads. </em>There were plenty of “Learn More” and “Download,” but zero Messenger ads.</p>
+<p>This is notable because I’m a target for ads that deal with marketing tactics and products. Ironically, one of the ads was for a Messenger chatbot app, and it was “Learn More” instead of “Send Message.”</p>
+<p>My point is this: Use Facebook Messenger ads.</p>
+<h2>4. Chat Widget</h2>
+<p>A chat widget is a button on your website that allows visitors to message you.</p>
+<p>You’ve probably seen these before.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a2a6e7e1-c6e9-414f-916d-afa6614cff95" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-chatbot-widget.jpg" alt="Facebook messenger chatbot widget" width="439" height="339" /></div>
+</article>
+</div>
+<p>Clicking the “Continue as [name]” button starts a chatbot messenger sequence.</p>
+<p>Once that simple click or tap takes place, you’ve scored a valuable lead.</p>
+<p>Have you heard the stats about live chat? <a href="https://www.apexchat.com/whitepapers/chat-study/" target="_blank" rel="noopener">According to some reports</a>, using live chat on your website can increase your leads by 40%.</p>
+<p>That sounds great.</p>
+<p>Until you realize the downsides:</p>
+<ul>
+<li>Live chat requires live people. Live people are expensive.</li>
+<li>Live chat may not be available 24/7. Customers want 24/7 service.</li>
+<li>Live chat often is a temporary touch, not a permanent lead.</li>
+<li>Live chat is slow. It could take 5-15 minutes to get a response, and even longer to get your questions answered.</li>
+</ul>
+<p>Messenger chat widgets destroy all of these downsides.</p>
+<ul>
+<li>Messenger chat widgets run on bots—totally automated and virtually free.</li>
+<li>Messenger chatbots are available 24/7.</li>
+<li>Messenger chat widgets add the person as a contact in Messenger, which is a permanent lead.</li>
+<li>Messenger chatbots respond instantly.</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9b4b81d1-b7db-450d-a2eb-5064bba49566" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-messenger-marketing-chatbot-setup.jpg" alt="chatbot setup view" width="740" height="385" /></div>
+</article>
+</div>
+<p>Here are some tips for optimizing your Messenger chat widget.</p>
+<ul>
+<li>Greet the customer <a href="https://blog.messengerdevelopers.com/messenger-customer-chat-open-beta-16b11879637" target="_blank" rel="noopener">by name</a>.</li>
+<li>Remind your visitors that they can pick up the conversation at any time on Messenger, not just on the website chat widget. The chat sequence exists in Messenger on mobile and desktop.</li>
+<li>Design your bot to ask for the customer’s email address, phone number, or anything else that you feel is important.</li>
+<li>Always provide options. The customer should feel as if he or she is in the driver’s seat.</li>
+<li>Tell the customer that Live Operator Takeover is available (if it truly is). If customers want to talk to a human agent, give them this option and tell them how to get in touch.</li>
+<li>Nurture your leads in Messenger using chat blasts and drip campaigns. Remember, once someone starts a conversation from your website chat widget, they’ve entered your contact list for future retargeting.</li>
+<li>WordPress user? Consider using the <a href="https://wordpress.org/plugins/wp-chatbot/" target="_blank" rel="noopener">WP-Chatbot plugin</a>!</li>
+</ul>
+<h2>Facebook Messenger Marketing: You Should Be Doing It!</h2>
+<p>Right now, it’s these four tactics that are taking the marketing world by storm. For my company, they are the top 1-3% tactics that are delivering the most outstanding results.</p>
+<p>When you look beyond the tactical stuff, each of these features has a core theme—interactivity.</p>
+<p>We’re in the sunset days of megaphone marketing. You can’t just broadcast messages to your customers and expect them to buy.</p>
+<p>People want an engaging, immersive, and interactive experience. Messenger marketing is the answer.</p>
+<p>By trying these four Facebook Messenger features, you’ll be performing one of the most persuasive methods of marketing available today.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing">4 Facebook Messenger Marketing Strategies You Have to Try</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/02/28/facebook-messenger-marketing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Find &#038; Eliminate 90%+ of Click Fraud in the Google Display Network</title>
+		<link>https://www.wordstream.com/blog/ws/2018/01/03/display-network-click-fraud</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/01/03/display-network-click-fraud#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Tue, 02 Jan 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/01/02/display-network-click-fraud/</guid>
+
+					<description><![CDATA[<p>The Google display ad network has fraudulent website placements that drain ad budgets from unsuspecting advertisers. You need to get these placements out of your campaigns! Here's how to find and eliminate the sites responsible for most of the click fraud in your display campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/01/03/display-network-click-fraud">How to Find &amp; Eliminate 90%+ of Click Fraud in the Google Display Network</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Believe it or not, click fraud in PPC marketing really does exist.</p>
+<p>Unfortunately, every display ad network on the planet has fraudulent website placements designed to drain ad budgets from unsuspecting advertisers. You need to get these placements out of your campaigns so your money is spent on clicks that actually do something for your business!</p>
+<p>In my article today, I’ll show you how to find the sites responsible for most of the <a href="/blog/ws/2015/08/17/click-fraud">click fraud</a> in your <a href="/blog/ws/2014/11/18/google-display-network-tips">Google Display Network campaigns</a>, plus share some concrete steps you can take to eliminate it.</p>
+<h2>Finding the Click Fraud in Your Google Display Campaigns</h2>
+<p>To find the fraudulent display ad clicks you’re paying for, go to “Display campaigns” à “Display Network” à Placements.</p>
+<p>Here you’ll see all the websites in the Google Display Network that yielded one or more impressions.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/display-network-placements-click-fraud-1.png" alt="how to eliminate display network click fraud" width="800" height="423" /></div>
+<p>First notice that the display ads here are showing up on 48,639 different websites:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-display-network-impressions.png" alt="click fraud in the display network" width="800" height="244" /></div>
+<p>And if you look at the sites that are generating spend and conversions, you’ll notice that most of them are fake websites.</p>
+<h3><a href="https://www.wordstream.com/smart-ads-creator"><em>Want to create designer-quality display ads in minutes? Try our free Smart Ads Creator.</em></a></h3>
+<p>Take for example “Fakereceipt.us” (link omitted intentionally). This site has spent $139.58 to drive 251 clicks, 22 conversions at an average cost of $6.34 per conversion cost – which is an <a href="/blog/ws/2014/11/18/google-display-network-tips">amazing conversion rate</a> of 8.76%!</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/display-network-placement-conversion-rates.png" alt="display network placements" width="1570" height="666" /></div>
+<p>This sounds fantastic! Almost too good to be true.</p>
+<p>And guess what? When you look at the site that drove all the conversions, you see that it’s a fake site.</p>
+<p>This website isn’t a real website that people actually visit – it was designed specifically to drain budgets.</p>
+<h3>How to Identify a Fake Website</h3>
+<p>Here are the tell-tale signs of a fake website:</p>
+<ul>
+<li>Extremely thin content</li>
+<li>Employs a template with little customization</li>
+<li>Domain registered in the last few days</li>
+<li>Unusually high number of ads per page</li>
+</ul>
+<p>Take a look at our #1 conversion driver:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/fake-websites-click-fraud.jpg" alt="fake website click fraud" width="650" height="564" /></div>
+<p>Does it seem likely that this website drove 22 conversions at an 8.76% conversion rate?</p>
+<p>No.</p>
+<p>Or how about this one?</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/eliminating-click-fraud-fake-sites.jpg" alt="display click fraud" width="650" height="423" /></div>
+<p>Totally fake. You get the idea.</p>
+<p>These are not highly effective premium display network sites. It’s just click fraud.</p>
+<h3>How Fake Sites Pull Off Click Fraud</h3>
+<p>Here’s how these sites work: First, they employ bots to visit your site, so that they can trigger your remarketing ads. Next, the operators of these sites don’t just click on your ads, they also employ people and/or bots fill out your landing pages, to generate fake conversions.</p>
+<p>Why on earth would a bot go through the trouble to register a fake conversion on your site?</p>
+<p>It’s because Google’s automated bid algorithms allocate even more traffic to these fake sites, if it believes that they are high performers (thank you, <a href="/blog/ws/2017/07/28/machine-learning-applications">machine learning</a>!!).</p>
+<p>It’s a vicious cycle.</p>
+<p>What can be done?</p>
+<h2>Dumb Spam Reduction Idea: Exclude Placements</h2>
+<p>The conventional wisdom around <a href="https://www.wordstream.com/blog/ws/2018/08/30/mastering-display-placements">eliminating spam placements</a> on the GDN is to <a href="https://www.wordstream.com/blog/ws/2018/08/02/google-ads-mobile-app-exclusions">exclude them manually</a> by adding them to an exclusion list, like this:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-exclude-fake-website-placements-in-adwords.png" alt="excluding display network placements" width="800" height="252" /></div>
+<p>The problem with this approach is that it’s a suicide mission.</p>
+<p>Remember, in this example, there were 48,639 different placements to review and more than 90% of them were fake.</p>
+<p>That will take forever – I know this because I’ve tried:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-campaign-placement-exclusions-click-fraud.png" alt="display campaign placement exclusions" width="800" height="271" /></div>
+<p>But worse, even after combing through the entire list, thousands of new fake sites keep showing up in your placement report every month.</p>
+<p>So, what should you do?</p>
+<p><strong>Stop using automatic placements!</strong></p>
+<p>Rather than trying to manually exclude potentially millions of random sites in the GDN, it’s much easier to just be explicit and hand-pick a few dozen or hundred sites that you know are real – like weather.com or cnet.com or techcrunch.com (etc.) – legitimate sites and that real people actually visit (i.e. they are not just made for bot traffic!).</p>
+<h2>Using Managed Placements in the Google Display Network</h2>
+<p>To explicitly specify a list of websites you’d like to have your display/remarketing ads show up on, go to “Display Network” à “Targeting” à “Placements” à “Add Multiple Placements” and add your list of websites.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/using-managed-placements-to-control-click-fraud.png" alt="control click fraud" width="815" height="868" /></div>
+<p>Important note: Make sure to choose “Target and bid” which ensures your ads only show up on the websites you specified.</p>
+<p>Finally, make sure you un-select the “Let AdWords automatically find new customers” option, which is selected by default.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-display-aggressive-targeting1-1.png" alt="Combating click fraud Google Display Network" width="817" height="386" /></div>
+<p>Otherwise, Google will automatically try to find conversions on all those sites you were trying to exclude in the first place.</p>
+<h2>How to Find a List of Managed Placements</h2>
+<p>For starters, don’t use the display planner tool. Why? Because it’s just an index of the millions of sites in the GDN, which includes a considerable number of fake sites!</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-find-the-best-managed-placements.png" alt="using managed placements on the google display network" width="800" height="393" /></div>
+<p>Instead use a tool like SEMrush to search for sites by topic. It shows you the most linked-to sites, which are more likely to be real than most listings in the Display ad planner.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/semrush-click-fraud-tools.png" alt="most linked to sites" width="800" height="609" /></div>
+<h2>How to Defeat the Bots &amp; Stop Paying for Fake Clicks</h2>
+<p>Let’s recap.</p>
+<p>Spam sites can suck up tons of clicks and spend from your display ad campaigns, because they register fake conversions, which <a href="/blog/ws/2017/12/07/google-algorithm-update">Google’s algorithms</a> reward by serving your ads there even more.</p>
+<p>The solution is to try to never place your conversion pixel on an “easy” conversion, like a lead form, which can be easily faked by a bot.</p>
+<p>Instead, only fire your conversion pixel if you’re darn sure that a real conversion has occurred – for example, if a sale has occurred and you’ve billed the customer’s credit card.</p>
+<p>Alternatively, if you are collecting leads, fire the conversion pixel on some lower-funnel activity, like activating their trial subscription.</p>
+<h2>Closing Thoughts</h2>
+<p>By making this the one small change, we:</p>
+<ul>
+<li><strong>Reduced fake conversions and costs by 90% </strong></li>
+<li><strong>Dramatically improved sales productivity:</strong> They were initially upset due to loss of leads, but later warmed up to the change when they realized they could make the same number of sales in 1/10 the time (due to not having to chase fake leads).</li>
+<li><strong>Got much more accurate campaign data:</strong> The true campaign performance metrics were worse than we originally thought (since both CTR and conversion metrics were artificially inflated by bots); however, it led us to realize that our ads and landing pages were actually under-performing, so we made some big changes there, too.</li>
+</ul>
+<p>Make the changes described in this tutorial to ensure that your valuable display ad budget only gets served to the best (real) sites in the ad network!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/01/03/display-network-click-fraud">How to Find &amp; Eliminate 90%+ of Click Fraud in the Google Display Network</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/01/03/display-network-click-fraud/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Inverted Unicorn Ad Targeting Strategy that Doubles Facebook Relevance Score</title>
+		<link>https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy/</guid>
+
+					<description><![CDATA[<p>By now, Facebook ads aren’t exactly a new thing. We all know the drill: It’s all about promoting your “unicorns” – the top 1-3% of your best content and/or offers, the ones with unusually high engagement rates, e.g. click-through rates of 10% or higher. Why? Facebook sponsored posts with high engagement rates get assigned high [&#8230;]</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy">The Inverted Unicorn Ad Targeting Strategy that Doubles Facebook Relevance Score</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>By now, <a href="/blog/ws/2017/11/16/facebook-ad-costs">Facebook ads</a> aren’t exactly a new thing.</p>
+<section class="section">We all know the drill: It’s all about promoting your “unicorns” – the top 1-3% of your best content and/or offers, the ones with unusually high engagement rates, e.g. <a href="/blog/ws/2016/02/29/google-adwords-industry-benchmarks">click-through rates</a> of 10% or higher. Why?</p>
+<p>Facebook sponsored posts with high engagement rates get assigned high <a href="/blog/ws/2017/09/14/facebook-relevance-score">Relevance Scores</a>, which get rewarded by the Facebook Ad algorithm through increased exposure at lower cost.</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1481bbca-e3fd-4feb-8530-823a390484b0" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/components-facebook-ad-relevance-score1-2.png" width="758" height="498" alt="Facebook ad costs relevance score concept" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>The cost per click for a sponsored post with 1% engagement rate might be around $3-5 per click, but <strong>if you can raise the engagement rate to 10%, your CPC will fall to around 25 cents</strong>.</p>
+<p>But HOW do you make the content you’re trying to promote get 10%+ click-through rates?</p>
+<h2>How Your Ad Targeting Strategy Affects Relevance Score</h2>
+<p>The normal way to increase relevance and CTR on Facebook is to be a bit picky with your ad targeting – no matter how boring your sponsored content is, if you get it in front of a targeted enough audience, it can become exciting to a smaller number of people, or at least that’s how the theory goes:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5746284d-ebde-47bc-83b9-c320f53500ee" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-targeting-inverted-unicorn.png" width="800" height="744" alt="facebook targeting strategies" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>For example, if you’re selling PPC marketing software, you promote your offers to people who have:</p>
+<ul>
+<li>An interest in marketing</li>
+<li>Middle-management job titles</li>
+<li>Recently visited your site</li>
+<li>Etc.</li>
+</ul>
+<p>Here we’re casting a narrower net, and maximizing the engagement rates within it.</p>
+<p>The problem is that <strong>you can lead a horse to water but you can’t make it drink</strong>. Meaning, just because you’ve created a perfectly targeted ad set, doesn’t guarantee the prospective buyer will find your offer worthy of clicking on.</p>
+<p>Further, sometimes you can <em>over</em>-define your audience, meaning you’re only showing your ad to a tiny pool of people.</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="86328fb9-66f8-474b-9c43-68a2153e80ce" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/inverted-unicorn-method-larry-kim.jpg" width="550" height="805" alt="inverted unicorn ad targeting" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h2>A Bold New Way of Ad Targeting: The Inverted Unicorn Method</h2>
+<p>My new ad targeting strategy has the potential to dramatically increase your sponsored post engagement rates and your relevance scores, which in turn will simultaneously increase reach and lower cost per engagement.</p>
+<p>Basically, the idea here is rather than only targeting correlated interests (e.g. marketers with middle-management job titles), <strong>we’re going to target two completely different interests</strong>: for example, liberals who watch Star Trek Deep Space Nine.</p>
+<p>These are two big audiences, but we’re only targeting the overlap:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dadd7050-6d93-4dfd-a84a-3985b534a9e4" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/liberals_trekkies_audience-overlap1.png" width="800" height="500" alt="advanced ad targeting strategies" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h2>A Crazy Example of the Inverted Unicorn Method for Facebook Ad Targeting</h2>
+<p>Two weeks ago I created a <a href="https://medium.com/marketing-and-entrepreneurship/facebook-ads-fake-news-and-the-shockingly-low-cost-of-influencing-an-election-data-ca7a086fa01c">case study that highlighted how Fake News being spread via Facebook Ads can pose a danger to society</a>.</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f1c016ea-cb75-4517-ac4b-ad06ea54f937" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/inverted-unicorn-fake-news.jpg" width="577" height="808" alt="larry kim facebook ad targeting" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>I only had a $400 budget to promote the story using Facebook Ads. Yet the content promotion efforts yielded:</p>
+<ul>
+<li>Gazillions of views</li>
+<li>Over 1300 likes</li>
+<li>235 shares</li>
+<li>68 comments</li>
+</ul>
+<p>The story got picked up in <a href="http://www.businessinsider.com/facebook-ad-targeting-means-voters-can-be-swayed-at-low-cost-2017-10">Business Insider</a>, <a href="https://www.forbes.com/sites/johnkoetsier/2017/10/11/how-to-hack-an-election-50-60-minutes-and-fake-ads-on-facebook/">Forbes</a>, and a major international television network is filming a story on this next week at my office.</p>
+<p>And it’s even possible that <a href="https://twitter.com/realDonaldTrump/status/921829947093733376">Trump might have heard about the story</a>!</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fa8fc1e0-c134-4f7d-b686-10ce17dd76ec" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/trump-facebook-fake-news.png" width="622" height="378" alt="facebook ad targeting fake news" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>Last week, Facebook started taking out ads on the issue.</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0576e412-dbb9-4ab1-99e1-da600a730f59" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-fake-news-ads.jpg" width="450" height="800" alt="facebook ad policies" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>And they even updated their ad reviewing policy:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3dabdcd6-d13c-45de-97a1-7e872c67400b" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-ad-review-policy-update.jpg" width="1788" height="172" alt="facebook ad reviewing" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>And about a hundred people at Facebook checked out my LinkedIn profile last week.</p>
+<p>Did my story cause all this? Impossible to know! But I can share the Inverted Unicorn Facebook Ad targeting strategy that I employed.</p>
+<p>As a reminder, I only had $400 to spend on content promotion, so I picked a demographic that I thought would find this story to be particularly interesting: Liberals.</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="579e65dc-a098-4e62-a924-bf02b55f1ae2" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/targeting-liberal-demo-on-facebook.png" width="1125" height="344" alt="how to target the right facebook audience" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>Unfortunately, this <a href="/blog/ws/2017/11/01/facebook-audiences">audience</a> is just too big (26 million people!). That’s just too broad considering I only have $400 to spend.</p>
+<p>I had to find a subset of this huge audience that I could still meaningfully target.</p>
+<p>So here’s what I did. I (basically arbitrarily) picked another large audience, then targeted the overlapping segment of these two large audiences. I was able to cut down the audience size to 1.1 million people by requiring that people in my target audience be <em>both</em> Liberal <em>and</em> Star Trek Fans, like this:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dbcfe98b-68d5-483f-9443-795e18683d20" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/inverse-unicorn-targeting-method-facebook-ad-sets.png" width="1119" height="624" alt="targeting strategies for facebook ads" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>What does Star Trek Deep Space Nine have do with Liberals? Absolutely nothing!</p>
+<p>But it allowed me to target people who would might understand <a href="https://www.youtube.com/watch?v=7qKcJF4fOPs">this obscure joke</a>.</p>
+<p>Then, I used that joke in the title image for the post:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="52166a61-49b3-467f-a6d9-3218a371fdd5" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/its-a-fake-facebook-ad.jpg" width="650" height="598" alt="unique ad targeting methods" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>If you have no clue what this joke is all about, that is the beauty of this strategy. You would have never seen the ad in the first place! <strong>It was engineered to appeal specifically to this audience.</strong></p>
+<p>It worked: The Star-Trek loving liberals engaged with the post, leading to strong engagement metrics  and a Facebook Relevance Score of 7/10…</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1967fb0a-a343-4e6f-a741-ba47affcfd99" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-get-high-facebook-relevance-score.png" width="800" height="131" alt="high facebook relevance score" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>…and overall very high engagement rates for such a small budget.</p>
+<p>I know it worked because I got all these kooky Star Trek comments in the <a href="https://www.facebook.com/ws.larrykim/posts/916683825139370">Post Comments</a>:</p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="96926193-4e7d-41dc-8c14-4db806caa0a4" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/trekkie-comments-facebook.png" width="563" height="543" alt="increasing relevance score with ad targeting" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>In a nutshell, <strong>the Inverted Unicorn Ad Targeting Strategy makes ads more interesting by appealing to two or more of a user’s different interests</strong>.</p>
+<p>There are so many ways you could use this strategy. For example, what if you’re HubSpot and you want to promote your INBOUND conference on a small budget? You could target the intersection of small business owners and fans of Michelle Obama. Then you would feature an inspiring image of her in your ad, noting that she’s a keynote speaker. Much more effective than a boring stock image of a laptop or something.</p>
+<h2>Closing Thoughts</h2>
+<p>Are your <a href="/blog/ws/2017/02/28/facebook-advertising-benchmarks">CTRs on Facebook</a> too low?</p>
+<p>Are your Relevance Scores below 5/10?</p>
+<p>Are you stuck promoting the same boring ads which never get more than relevancy score 2/10?</p>
+<p>Are the audiences you’re targeting way too big in comparison to your budget?</p>
+<p>If you answered yes to any of the above, perhaps it’s time you employed the Inverted Unicorn Facebook ad targeting method for doubling click-through rates!</p>
+</section>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy">The Inverted Unicorn Ad Targeting Strategy that Doubles Facebook Relevance Score</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/11/14/facebook-ad-targeting-strategy/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>7 Traits That REALLY Define High-Quality Content</title>
+		<link>https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Wed, 15 Mar 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Content Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined/</guid>
+
+					<description><![CDATA[<p>Why is most of your content still failing? Simple: Your definition of quality content is completely wrong! Here are seven traits that really define high-quality content.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined">7 Traits That REALLY Define High-Quality Content</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Most of your content is DOA: Dead on Arrival (or maybe Donkey on Arrival).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a96100da-272b-48b2-ae55-dfdab5ae2b8e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/content-amplification-donkey-in-space.jpg" alt="Content amplification donkey in a spacesuit" width="511" height="638" /></div>
+</article>
+</div>
+<p>Individuals, businesses, and brands are producing a <a href="http://www.smartinsights.com/internet-marketing-statistics/happens-online-60-seconds/">ridiculously enormous amount of content every minute</a>. That means your content is getting lost in the noise.</p>
+<p>But wait. Every marketing expert ever agrees that the secret to content marketing success is creating quality content. And you&#8217;re creating quality content, right?</p>
+<p>So &#8230; why are most of your content still failing?</p>
+<p>Simple: Your definition of &#8220;quality content&#8221; is completely wrong.</p>
+<p>Most marketers have bought into some fantasy that it&#8217;s about attributes rather than statistics. They evaluate content &#8220;quality&#8221; based on traits like:</p>
+<ul>
+<li>Length</li>
+<li>Visual appeal</li>
+<li>Spelling and grammar</li>
+<li>Formatting</li>
+<li>Readability</li>
+<li>Expertise, authoritativeness, and trustworthiness</li>
+<li>Overall &#8220;value&#8221;</li>
+</ul>
+<p>No, no, no!</p>
+<p>Although these content qualities are important in their own way,<strong> they don&#8217;t actually define quality content!</strong></p>
+<p>So what really defines quality content? These seven things.</p>
+<h2>1. Quality Content Is Defined by Data</h2>
+<p>Always base your definition of quality content on data. Any other definition will be based on your biased views of your own work.</p>
+<p>Data is the only objective way to tell whether your content is a unicorn or a donkey:</p>
+<ul>
+<li><strong>Unicorn content:</strong> This is your best, most magical content, performing among the top 3 percent of all your content. Unicorns rank well in Google (Position 1-3) and drive the most traffic, engagement, and leads.</li>
+<li><strong>Donkey content:</strong> This is your average and below average content. It makes up the remaining 97 percent of your content. But a donkey is still just a donkey – no magic here! Donkeys will never achieve unicorn status.</li>
+</ul>
+<p>What&#8217;s the difference between high engagement unicorns and low engagement donkeys?</p>
+<p>Well, in SEO, it looks like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c1504da0-5ca4-40c8-94a5-63e331919864" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ctr-average-position-graph.jpg" alt="CTR v. Average Position" width="700" height="358" /></div>
+</article>
+</div>
+<p>The unicorns (the top 10 percent) have 6x higher click-through rates (CTR) than donkeys (the bottom 10 percent).</p>
+<p>On Facebook, it looks like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e928d1f5-ed3b-4337-829a-a46183e56b65" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/post-engagement-social-graph.jpg" alt="Post Engagement Rates" width="700" height="455" /></div>
+</article>
+</div>
+<p>The unicorns are 10x more engaging than the donkeys.</p>
+<p>If you look at the most popular pages on your blog or website, you&#8217;ll see something like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6ce45596-1db9-4309-9395-0f3c0ccd5577" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/blog-traffic-distribution.jpg" alt="Blog Traffic Distribution" width="700" height="497" /></div>
+</article>
+</div>
+<p>For the WordStream blog, 10 percent of our stories generated more than 60 percent of our traffic in 2016.</p>
+<p>You&#8217;ll also see the difference between high engagement unicorns and low engagement donkeys with search <a href="/blog/ws/2016/07/05/conversion-rate-metric">conversion rates</a>:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cf68424d-259c-4df9-8eb8-11a69fbcc21a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/top-offers-that-convert.jpg" alt="Top Offers" width="700" height="415" /></div>
+</article>
+</div>
+<p>The top 10 percent of offers convert at least 5x better than donkeys – 11.45 percent or higher vs. 2.35 percent or lower (based on WordStream customer data).</p>
+<p>You may have heard of the 80/20 rule (AKA the Pareto principle). It&#8217;s been interpreted in marketing to mean that 80 percent of your profits come from 20 percent of your customers or 20 percent of your efforts lead to 80 percent of your results.</p>
+<p>Well, here&#8217;s a new law you need to know.</p>
+<p><strong>The Unicorn Power Law:</strong> most of your value comes from a tiny fraction of your content.</p>
+<p>Your data will reveal that fraction of your content – the true top quality content.</p>
+<p><a href="https://www.wordstream.com/blog/ws/2022/01/05/blog-post-templates"><strong>&gt;&gt; 9 Free Blog Post Templates Guaranteed to Drive Traffic</strong></a></p>
+<h2>2. Quality Content Achieves Marketing Objectives</h2>
+<p>You should define content quality based on how much you get <em>out</em> of it, not how much time and money you put into it.</p>
+<p>Imagine you own a baseball team and need to add a hitter to your lineup. Are you going to sign a player based on his height or how handsome he is? Or how well he speaks? Or maybe how many social media followers he has?</p>
+<p>NO! You want to score runs!</p>
+<p>You would look at things that matter, like statistics – hits, home runs, on-base percentage, etc. You know, how the player actually performed on the field.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="550be915-405a-4fc4-9d0d-e153ff2a1987" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/buy-wins-meme.jpg" alt="Pony meme" width="555" height="555" /></div>
+</article>
+</div>
+<p>Great baseball players come in all shapes and sizes.</p>
+<p>The same is true of quality content.</p>
+<p>Unicorn content can be long or short, have zero images or 10, and have a couple spelling errors or totally perfect grammarization.</p>
+<p>Ultimately, it&#8217;s about whether your <a href="/blog/ws/2017/10/23/cornerstone-content-guide">cornerstone content</a> achieves its marketing goal, whether that&#8217;s generating traffic, rankings, engagement, or conversions.</p>
+<h2>3. Quality Content Ranks Well in Google</h2>
+<p>Google uses machine learning as part of its <a href="/blog/ws/2016/03/16/rankbrain-seo">RankBrain algorithm</a>, which is <a href="http://searchengineland.com/google-loves-rankbrain-uses-for-every-search-252526">used on every search</a>. And it&#8217;s a known fact that this algorithm is focused on <a href="https://www.wordstream.com/blog/ws/2021/03/12/google-e-a-t">E-A-T</a>, or expertise, authority, and trust. One thing all machine learning systems have in common: they reward high engagement.</p>
+<p>How does Google measure engagement? I believe it&#8217;s through a combination of <a href="/blog/ws/2016/10/13/organic-seo-ctr-infographic">click-through rate</a> (people are clicking on your content) and <a href="/blog/ws/2017/01/25/dwell-time-seo">dwell time</a> (people are spending time and/or engaging with your content).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="826815c6-8407-4f40-b807-dbbc9a5fe16a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ctr-based-organic-ranking.jpg" alt="CTR Based Organic Rankings" width="700" height="465" /></div>
+</article>
+</div>
+<p>CTR is important for SEO because, for every 3 percent increase or decrease in CTR your experience, your position can go up or down by one spot.</p>
+<p>Meanwhile, data reveals how Google is slowly eliminating traffic to pages with low dwell time (the amount of time people spend on your website after clicking on your search result listing). We can&#8217;t measure dwell time, but time on site is proportional to dwell time.</p>
+<p>Look at WordStream&#8217;s top pages before RankBrain:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e20aa2a9-0707-4b6e-bbf4-9f6113feab22" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/time-on-page-before-rankbrain-1.png" alt="on site behavior targeting" width="1701" height="1449" /></div>
+</article>
+</div>
+<p>Eight of our top 32 pages had below average time on site.</p>
+<p>Here are our top pages after RankBrain:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="21248185-024f-41ef-90de-db944a11e760" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/average-time-on-site-after-rankbrain1.png" alt="time on site google analytics" width="1234" height="1209" /></div>
+</article>
+</div>
+<p>Now only two pages are donkeys? Wow!</p>
+<p>Google SERP positions used to be mainly determined by who had the most/best links and most relevant content. While those remain important ranking factors, now it&#8217;s equally important that people engage with your content if you want to rank well.</p>
+<h2>4. Quality Content Has Remarkable CTR</h2>
+<p>Before Google used machine learning as an organic search ranking signal, Google used machine learning in Google Ads (they also use it for the Google Display Network, Gmail Ads, and YouTube ads).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2d5ebae3-e0dd-4842-98ed-99d95f8b6cfb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/gmail-ads-cost-per-click.gif" alt="calculating quality score in gmail ads" width="858" height="512" /></div>
+</article>
+</div>
+<p>If your ad has a higher Quality Score, you pay less and your ad appears more prominently; if your ad has a lower Quality Score, you pay more and your ad impression share is much lower.</p>
+<p>What is the most important Google Ads (AdWords) Quality Score signal? A remarkable click-through rate.</p>
+<p>Facebook and Twitter both copied the Google Ads idea. These <a href="/blog/ws/2016/06/30/social-media-advertising-tips">social advertising</a> platforms also reward high engagement content with much lower costs per engagement and more visibility. Low engagement content is penalized, which makes promoting junk content very expensive.</p>
+<p>Google, Facebook, and Twitter incentivize high engagement content. If your content doesn&#8217;t make lots of people click, then it isn&#8217;t quality content.</p>
+<h2>5. Quality Content Has Lots of Social Media Engagement</h2>
+<p>We just briefly covered social media ads, but what about organic engagement on Facebook? Well, Facebook also uses machine learning to reward engagement. It works like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f3ecd9f5-f539-4bdb-97dc-7f78424fcf73" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/facebook-newsfeed-algo-simplified.jpg" alt="Facebook Newsfeed" width="700" height="427" /></div>
+</article>
+</div>
+<p>This is why fake news thrived on Facebook. It was all about engagement.</p>
+<p>People clicked on, shared, and commented on the fake news because it validated their existing biases, not because it was &#8220;quality content.&#8221; Facebook&#8217;s algorithms favored <strong>content popularity over authority</strong>, which helped the stories spread to more peoples&#8217; news feeds.</p>
+<p>Obviously, fake news = bad. We&#8217;re totally against it. But you can learn from it.</p>
+<p>To capture the attention of social media users you need content that triggers an emotional response. Only content that achieves high engagement on social media can truly be called quality.</p>
+<h2>6. Quality Content Converts</h2>
+<p>Quality content has higher conversion rates. If you can get people to click, it&#8217;s more likely they&#8217;ll ultimately convert, whether it&#8217;s signing up for a webinar, filling out a registration form, or buying a product or service.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2ba2d2f9-d131-4ef2-9f2d-9fa8fc80c65c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brand-affinity-graph-1.jpg" alt="Brand Affinity Dramatically Increases" width="800" height="407" /></div>
+</article>
+</div>
+<p>If you want more people to click, <a href="/blog/ws/2017/02/08/brand-affinity-marketing">increasing brand affinity</a> is the best way to do it. People who know your brand are more likely to choose you over brands they&#8217;ve never heard of.</p>
+<h2>7. Quality Content Does Well on Every Channel</h2>
+<p>Unicorns are the pinnacle of quality content.</p>
+<p>Some content might do well on one channel. But unicorns do well on every channel, whether it&#8217;s SEO, CRO, PPC, social (paid and organic), or email.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f34e3d36-f952-45a7-a363-02a2aed99576" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-venn-diagram.jpg" alt="Unicorn Venn Diagram" width="586" height="561" /></div>
+</article>
+</div>
+<p>Unicorn content does well on social media and tends to rank and convert well; content that ranks well in organic search tends to have high engagement on social media and convert well, and so on.</p>
+<p>Conversely, content that fails in one channel is likely to fail in another. Content that fails to rank well in organic search won&#8217;t have high engagement on social media and it will have a terrible conversion rate.</p>
+<p>At the heart of unicorn, content is a truly remarkable, engaging, and inspiring idea. So if you want your marketing – and your company – to be more successful, you need to come up with better ideas.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2c8c6999-af81-4584-92af-6f2183ffd13d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-meme.jpg" alt="Unicorn Meme" width="500" height="338" /></div>
+</article>
+</div>
+<p>Promoting a donkey won&#8217;t turn it into a unicorn. You&#8217;ll only waste time and money.</p>
+<p>Instead, focus all your efforts on promoting your powerful and valuable unicorns. Promote your unicorns on every channel when you find them to amplify their impact by 100x or even 1000x and drive even more traffic, engagement, and leads.</p>
+<h2>What REALLY Defines Quality Content</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5d4acd34-2dc8-4e3c-b197-5f11f8f23b51" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/quality-content-meme.jpg" alt="Quality Content" width="700" height="389" /></div>
+</article>
+</div>
+<p>Content marketing is an unfair game. If you want to win you need to stop relying on your gut (which is really just your opinion and, by nature, biased) and look at unbiased statistics.</p>
+<p><strong>Content marketing is about output, not input!</strong></p>
+<p>Stop looking at content attributes. Start looking at data to find your truly high-quality content. Start optimizing for engagement and you&#8217;ll find huge content wins.</p>
+<p>When you find that super rare <a href="/blog/ws/2016/12/05/best-online-marketing-strategies">unicorn content</a>, capitalize on it! Leverage the heck out of it on every channel to maximize your marketing ROI.</p>
+<h2>Is Your Content High Quality?</h2>
+<p>This post might have you thinking it&#8217;s time for a content audit. Lucky you! Here&#8217;s <a href="https://www.wordstream.com/blog/ws/2021/08/10/content-audit">how to do a content audit with 6 free templates.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined">7 Traits That REALLY Define High-Quality Content</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/03/15/quality-content-defined/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why Brand Advertising Drives More Conversions than You Think</title>
+		<link>https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Mon, 06 Mar 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Conversion Rates]]></category>
+		<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions/</guid>
+
+					<description><![CDATA[<p>Are big brands wasting their money on brand advertising like billboards and media spots? You might be surprised to learn the answer. Here's how brand advertising drives conversions.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions">Why Brand Advertising Drives More Conversions than You Think</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Search marketing is so awesome because it&#8217;s efficient – the ROI is measurable and tangible.</p>
+<p>Those big brand advertisers – the ones spending millions to advertise on TV, radio, and billboards – what do they know? What a waste of money, right?</p>
+<p>Well, if those formats are so useless, why are the big companies pouring so much money into these ads every year? What do they know that we don&#8217;t?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="16960666-e70c-4774-ad5a-dcbafca90755" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-billboard-brand-advertising1.jpg" alt="brand advertising" width="750" height="422" /></div>
+</article>
+</div>
+<p>Well, maybe they know that if consumers have never heard of you, they won&#8217;t search for you when they need the product or service you sell. And if they do a search, most probably won&#8217;t click on your paid search ad or organic listing. And if they don&#8217;t click on your brand, they can&#8217;t buy from you.</p>
+<p>Why? What&#8217;s stopping them?</p>
+<p>Again:<strong> They&#8217;ve never heard of you.</strong> You aren&#8217;t a magical unicorn everyone knows and loves. You&#8217;re just a boring donkey – another link in a sea of blue links.</p>
+<p>The ultimate conversion hack is making sure people have heard of your brand before.</p>
+<p>Here&#8217;s why.</p>
+<h2>Search harvests existing demand</h2>
+<p>We know there are <a href="/blog/ws/2012/12/10/three-types-of-search-queries">three types of searches</a>:</p>
+<ul>
+<li><strong>Informational</strong>: These searchers want to find an answer to a question or learn something. We lure in informational searchers via SEO, creating inspirational, memorable, optimized content that your target market will find informative or educational (not promotional).</li>
+<li><strong>Navigational</strong>: These searchers want to locate a specific website – like people looking for “facebook.” They already know you – they&#8217;ve visited your site before, liked what they saw, and want to return.</li>
+<li><strong>Transactional</strong>: The searcher is signaling <a href="/blog/ws/2016/01/26/intent-marketing">intent to buy something</a>. This is where search marketers live – the SEOs who create content for visitors who have demonstrated buying intent and the PPC marketers who <a href="/blog/ws/2017/01/12/how-to-write-great-advertising-copy">write compelling ad copy</a> with irresistible offers for hot prospects.</li>
+</ul>
+<p>Search marketing is all about <a href="/blog/ws/2017/02/08/brand-affinity-marketing">harvesting existing market demand</a>. Don&#8217;t get me wrong: as search marketers, we do a brilliant job of harvesting that demand. But <strong>search doesn&#8217;t grow new demand</strong>.</p>
+<p>What will ultimately make these searchers click on your organic result or your paid search ad? More importantly, how many of them will actually convert into leads and sales when they arrive on the landing page?</p>
+<h2>Small changes = small conversion rate increases</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9857447a-48fb-4ce9-b5ab-928d45d84550" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-conversion-math.png" alt="unicorn math" width="700" height="455" /></div>
+</article>
+</div>
+<p>Pop quiz: there&#8217;s one way to dramatically increase your website <a href="/blog/ws/2017/08/02/conversion-rate-statistics">conversion rate</a> right now. Is it:</p>
+<ul>
+<li>Changing a keyword from plural to singular on your landing page</li>
+<li>Adding a high-quality image of smiling people</li>
+<li>Reducing the number of fields on your form</li>
+<li>None of the above</li>
+</ul>
+<p>If you said none of the above, you are correct! These changes won&#8217;t <em>dramatically</em> <a href="https://www.wordstream.com/blog/ws/2018/05/18/residensportalen-customer-spotlight">increase your conversions</a>. Small on-page changes result in small conversion rate increases.</p>
+<p>Changes to on-page elements – things like button placement or color, image sizes, and fonts – might spike sales by 5 percent. And that&#8217;s exciting.</p>
+<p>But you can&#8217;t crown A/B test winners and losers for life. Offer fatigue is a big issue. No A/B test alone can turn a donkey into a unicorn.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8b13b1bb-6316-49d0-b742-502b00b079b8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-optimization-myths-ab-test-results-over-time.png" alt="Landing page optimization myths A/B test result graph over time" width="801" height="291" /></div>
+</article>
+</div>
+<p>Winners are just winners &#8220;for now.&#8221; Those gains tend to disappear over time, once the novelty wears off.</p>
+<p>There&#8217;s so much more you can do beyond these small on-page changes. Why settle for 5 percent when you could do things that move the needle 5x?</p>
+<h2>What turns search clicks into conversions?</h2>
+<p>On-page elements, as well as things like targeting, <a href="/blog/ws/2015/07/20/ppc-ad-copy">psychology</a>, and ad extensions, all play a role in the conversion process. I&#8217;m not saying these and other traditional CRO tactics aren&#8217;t important – they are.</p>
+<p>But you can&#8217;t predict which of your tweaks will result in changes. That&#8217;s why you A/B test.</p>
+<p><strong>The single biggest predictor of whether people will purchase is whether they&#8217;ve heard of you before.</strong> That process should start long before people are ready to buy and they click on your organic listing or paid search ad.</p>
+<p>Think of a conversion as a lifecycle, not a singular event. Target qualified prospects before they even know they want to buy from you!</p>
+<h2>Go brand yourself!</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="00d1fdaa-6299-4486-a110-fbe36f5ab9d4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/branding-unicorns.jpg" alt="importance of branding" width="569" height="524" /></div>
+</article>
+</div>
+<p>If you want to bias people in your favor, <a href="https://www.wordstream.com/blog/ws/2018/07/20/social-listening">you need to build a brand</a>.</p>
+<p>When people are scanning through the search results, they click on brands they know. In fact, <a href="http://searchengineland.com/brand-bias-70-of-consumers-look-for-known-retailers-when-doing-product-searches-179570">70 percent of consumers will click on a retailer they know</a>, according to Search Engine Land and SurveyMonkey research.</p>
+<p>If you&#8217;ve built a brand people know and love, people are more likely to click on your organic listing or your PPC ad. Non-branded keywords can act like brand terms when enough brand affinity exists.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3a2c5ea2-e8b7-4750-8ce0-0a6dc58c9d24" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/search-click-reason-brand-familiarity.png" alt="brand recognition effects" width="593" height="634" /></div>
+</article>
+</div>
+<p>Your CTR has a clear impact on your conversion rates. In fact, <a href="/blog/ws/2016/07/05/conversion-rate-metric">click-through rate is the most important conversion metric</a>. A higher CTR means a higher conversion rate:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="23749d50-0d74-424c-90cc-dd87e54ebb22" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/high-ctr-correlates-higher-conversion-rate.png" alt="online marketing ctr vs. conversion rate" width="800" height="482" /></div>
+</article>
+</div>
+<p>This is just one example from one large WordStream client, but we see a similar type of curve across industries.</p>
+<p>Why?</p>
+<p>We&#8217;ve found that if you can get someone excited enough to click on your offer, that excitement usually carries through all the way to a sign-up, checkout, or purchase.</p>
+<h2>How to see the impact of brand advertising</h2>
+<p>The value of branding has been ridiculously hard to measure historically.</p>
+<p>If you use RLSA, however, you can split test people based on brand affinity. A repeat visitor works as a proxy for brand affinity – and they convert <strong>2-3x higher</strong> than first-time visitors. Crazy!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="73afaaf9-5552-4b0f-bc08-17957aebc556" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-vs-repeat-visitor-conv-rates-branding-value-1.png" alt="conversion rates for repeat visitors" width="897" height="487" /></div>
+</article>
+</div>
+<p>This suggests when it comes to prioritizing activities we should be doing things a little differently!</p>
+<p>Attention search marketers: if you want to see truly monstrous differences in conversion rates, you&#8217;re better off segmenting conversions by new vs. repeat visitors.</p>
+<h2>What does it all mean?</h2>
+<p>PPC people – be open to other forms of online <a href="https://www.wordstream.com/blog/ws/2020/09/14/use-branding-to-improve-advertising">brand advertising</a> (such as display and social advertising) as well as broadcast media (radio and TV). Branding helps convert those clicks you&#8217;re paying for into customers.</p>
+<p>With a smart social ad strategy, you can promote your content to the perfect audience for just pennies. Send people to your most engaging content rather than sign-up forms. Sure, they won&#8217;t convert right away, but you can later remarket to them using social media ads. When you hit them with an offer next time, they&#8217;ll be 2x to 3x more likely to convert.</p>
+<p>SEO people – the brands that appear in organic search results more closely correlate with their overall popularity. So cast a wider net with off-topic content that will grow your popularity and start biasing future commercial searches and conversions in your favor.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions">Why Brand Advertising Drives More Conversions than You Think</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/03/06/brand-advertising-for-conversions/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 Super-Effective Content Syndication Strategies for Bloggers</title>
+		<link>https://www.wordstream.com/blog/ws/2017/02/16/content-syndication</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/02/16/content-syndication#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Content Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/02/15/content-syndication/</guid>
+
+					<description><![CDATA[<p>Content syndication sometimes gets a bad rap, but sites like the New York Times and Forbes do it -- you should too! Here's your complete guide to syndicating content to grow your audience.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/16/content-syndication">4 Super-Effective Content Syndication Strategies for Bloggers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Syndicated content sometimes gets a really bad rap in our industry.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5ac48ce7-0557-466f-be09-7a88ae204757" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/omg-becky-syndicated-content.jpg" alt="content marketing syndication" width="792" height="382" /></div>
+</article>
+</div>
+<p>Well, I&#8217;ve got a confession to make.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="97e10626-16c5-42cf-ae72-5153ea3e8ccb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/i-love-content-syndication.jpg" alt="content syndication strategy" width="800" height="448" /></div>
+</article>
+</div>
+<p>You should, too – and here&#8217;s why.</p>
+<h2>What Is Content Syndication?</h2>
+<p>First, a quick definition: Content syndication is a method of republishing content on other sites in order to reach a broader audience. Syndicated content not only increases your reach and brand awareness, it also builds links and can help drive more traffic to your original article.</p>
+<h2>What’s So Great About Content Syndication?</h2>
+<p>You need to syndicate your content. You&#8217;d be crazy not to.</p>
+<p>Most of the biggest and most influential sites on the web feature syndicated content, including the New York Times, the Huffington Post, and CNN.</p>
+<p>The web is so big and so noisy. It isn&#8217;t reasonable to think that all the people you want to reach will read your story just because you published it on your own blog.</p>
+<p>Syndicating your content gets your blog posts (either the full article or a shortened version of it) in front of a different audience who otherwise would have never known it existed.</p>
+<p>Content syndication is a very low-cost (usually no-cost) way to make your content go further. It&#8217;s much cheaper and quicker than writing a new blog post for a third-party site, either on the same topic or on something completely different.</p>
+<p>You know where you&#8217;ll get with that strategy? Burned out.</p>
+<h2>Don&#8217;t Forget the <em>Marketing</em> in Content Marketing</h2>
+<p>Some experts may have warned you that syndicating content is a bad idea because you&#8217;ll end up getting dinged by a Google penalty.</p>
+<p>This is nonsense.</p>
+<p>Google won&#8217;t penalize you for syndicating content. At worst, any <a href="/blog/ws/2017/10/06/duplicate-content">duplicate versions</a> of your article might be filtered out of the search results.</p>
+<p>Syndication isn&#8217;t about SEO. It&#8217;s a content marketing tactic – emphasis on the marketing. Because this is how marketing really works:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1b5be2ce-7d30-4148-8d0b-ddf0a82a4c95" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-content-syndication-marketing-works1.jpg" alt="how to syndicate content" width="800" height="403" /></div>
+</article>
+</div>
+<p>Here are the four types of content syndication bloggers need to know about.</p>
+<h2>1. Syndicate Third-Party Content on Your Blog</h2>
+<p>As a publisher you can ask another website for permission to feature their content on your blog.</p>
+<p>Ideally, your blog should contain about 10% syndicated content. Even though it may not be original, it&#8217;s always a great idea to feature helpful content that benefits your readers and is worth their time.</p>
+<p>If you run a multiple author blog, you know how challenging it can be to get fantastic authors to commit to writing a post for you. Anyone who is truly a <a href="/blog/ws/2016/12/15/best-marketers-on-medium">big deal influencer</a> in your industry usually won&#8217;t have much free time to spend writing a unique blog post just for you.</p>
+<p>Asking to feature an influencer&#8217;s existing content is a much more reasonable ask. They will probably feel honored to be asked by you.</p>
+<p>For example, WordStream has featured syndicated content from some amazing experts in the past, like <a href="/blog/ws/2014/12/01/jeff-weiner-retaining-superstar-talent">Jeff Weiner</a>, CEO of LinkedIn; <a href="/blog/ws/2014/12/11/women-in-tech-a-cause-worth-the-effect">Blake Irving</a>, CEO of GoDaddy; <a href="/blog/ws/2014/12/15/controversial-answers-to-common-startup-questions-dharmesh-shah">Dharmesh Shah</a>, founder of HubSpot; and <a href="/blog/ws/2014/12/03/jeff-haden-foolproof-way-to-accomplish-every-goal-you-set">Jeff Haden</a> of Inc.</p>
+<p>Also, don&#8217;t forget to syndicate yourself!</p>
+<p>If you contribute guest blog posts to third-party sites, republish those on your own blog. Many of the <a href="https://www.wordstream.com/guest-posting-guidelines">guest posts</a> I&#8217;ve written have been republished on the WordStream blog, linking back to the original. Just remember to seek permission from the site you write for – some publishers ask for a period of exclusivity, usually a few weeks or longer.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1b731e25-3fbf-4603-b126-eb3b72b77ecc" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/why-create-off-topic-content-infographic.png" alt="Create Content Outside Your Niche" width="800" height="490" /></div>
+</article>
+</div>
+<p>Adding syndicated content instantly <a href="/blog/ws/2016/09/08/why-create-content-outside-your-niche">diversifies your content</a>. It brings something new and valuable to your audience, even if it isn&#8217;t new to the web.</p>
+<h2>2. Syndicate Your Blog Content on Other Websites</h2>
+<p>As a publisher you can syndicate your content to be featured on other partner websites.</p>
+<p>For example, several posts that were first published on the WordStream blog were later featured on top search industry sites like <a href="https://smallbiztrends.com/author/larry-kim">Small Business Trends</a> and <a href="http://www.socialmediatoday.com/users/larrykim">Social Media Today</a>.</p>
+<p>These deals usually come in one of two flavors:</p>
+<ul>
+<li><strong>All Syndicated Content:</strong> You create no original content for your partner. Your partner simply republishes your content.</li>
+<li><strong>A Mix of Syndicated and Original Content:</strong> You agree to a split that&#8217;s acceptable to both sides. For instance, one month you give them syndicated content, the next it&#8217;s an original piece. Or if you agree to produce 1-4 posts per month, then at least one must be original.</li>
+</ul>
+<p>Usually publishers are willing to make deals provided the quality is there. After all, they know you&#8217;re busy – and hey, it&#8217;s free content!</p>
+<p>However, those publishers usually will only honor the deal as long as the content you&#8217;re giving them performs up to their expectations. It won&#8217;t be worth their time and effort if your syndicated content doesn&#8217;t generate any traffic or engagement.</p>
+<h2>3. Publishing Content on Sites That Syndicate Their Content</h2>
+<p>You can also get your content syndicated by becoming a regular contributor for a website that syndicates its content.</p>
+<p>For example, I&#8217;m a <a href="http://www.inc.com/author/larry-kim">columnist at Inc. magazine</a>. So that means I&#8217;m publishing to a content syndicator.</p>
+<p>Inc.&#8217;s content also ends up on major partner sites like <a href="http://www.businessinsider.com/author/larry-kim">Business Insider</a>, Slate, and TIME.</p>
+<h2>4. Self-Service Syndication</h2>
+<p>You can also syndicate your own content.</p>
+<p>Medium is a great place to do some self-service syndication. There are lots of great <a href="/blog/ws/2016/07/14/medium-publishing">reasons why you should publish on Medium</a>. Here are 10:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dc22644a-0800-4aaf-b028-b3af10d55f69" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/10-reasons-to-use-medium.png" alt="Reasons to Post on Medium" width="800" height="2031" /></div>
+</article>
+</div>
+<p>Also be sure to read my post on <a href="/blog/ws/2016/07/19/medium-optimization-tips">optimizing your Medium posts</a>.</p>
+<p>It&#8217;s also relatively easy to get an author ID and get published on the Huffington Post. They don&#8217;t really check your credentials. The conversations pretty much goes like this: &#8220;I want to write for you.&#8221; &#8220;OK, here&#8217;s your log-in.&#8221;</p>
+<p>You can also post your articles on LinkedIn. Every time you do, everyone you&#8217;re connected to will receive a notification. Check out these <a href="/blog/ws/2016/11/08/linkedin-pulse">11 ways you can hack the LinkedIn Pulse algorithm</a>.</p>
+<p>Business2Community is another good place for self-service syndication. Stuff that gets published there can get syndicated on large sites like Yahoo.</p>
+<h2>Content Repurposing? There&#8217;s No Purpose!</h2>
+<p>Some publications don&#8217;t like syndicated content. They want to publish 100 percent original content.</p>
+<p>But wait. They will publish your story. You just have to provide a completely different write up about the exact same topic.</p>
+<p>Huh?</p>
+<p>Content repurposing (a.k.a., content spinning)? Really?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="502247a6-4ea4-4f57-9d65-a227fd893216" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/larry-kim-content-syndication-guide.jpg" alt="content syndication how to" width="750" height="421" /></div>
+</article>
+</div>
+<p>I hate content repurposing (and I cannot lie). Can we just be adults here and think about this rationally?</p>
+<p>What if the first blog post was brilliant – a total unicorn that got tons of traffic and engagement? <a href="/blog/ws/2016/12/05/best-online-marketing-strategies">If something performs magically well</a> on one site, then the odds are that it will also perform well in syndication.</p>
+<p>Or perhaps you want to promote a new infographic you created on some relevant publications. Does the world really need four completely unique write-ups to accompany that same infographic?</p>
+<p>The only time you should repurpose or rewrite an article is if it&#8217;s for a different audience. For instance, maybe you need to &#8220;dumb it down&#8221; for a less tech-savvy audience.</p>
+<p>Repurposing your posts into other posts is silly. Would you ask Jerry Seinfeld to re-edit all his old &#8220;Seinfeld&#8221; episodes (that are worth billions of dollars as they aired) to give them a more unique spin?</p>
+<h2>Go Big With Content Syndication</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="148f05bd-7736-4852-a4c0-677d68030a32" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/what-is-content-syndication.jpg" alt="content syndication guide" width="750" height="421" /></div>
+</article>
+</div>
+<p>Content syndication in all its forms is incredibly valuable. It can be a win-win for any blogger.</p>
+<p>Help your content go further with these four types of syndication:</p>
+<ul>
+<li>Publish syndicated content from other relevant publications on your blog.</li>
+<li>Syndicate your blog content to other relevant publications.</li>
+<li>Write original content for a relevant site in your space that syndicates its content to partners.</li>
+<li>Republish your blog content Medium and LinkedIn to help it reach a wider audience.</li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/16/content-syndication">4 Super-Effective Content Syndication Strategies for Bloggers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/02/16/content-syndication/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Tell If Your PPC Service Provider Is a Huge Rip-off</title>
+		<link>https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models/</guid>
+
+					<description><![CDATA[<p>In the sea of partners you could work with to help manage your PPC, there are a few questionable business practices that I want you to be on the look-out for. You should avoid these types of partners at all cost!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models">How to Tell If Your PPC Service Provider Is a Huge Rip-off</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>How to Tell If Your PPC Service Provider Is a Huge Rip-off</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+April 9, 2018</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">Paid Search Marketing</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>If you’re a small business that needs help with your paid media, there are many, many companies out there that are ready to help. Some are agencies, some are software providers, and others are bundled solutions that may address a wide range of your marketing/advertising needs.</p>
+<p>In this sea of partners, there are a few questionable business practices that I want you to be on the look-out for. These business practices are intended to “lock you in” and to take a large share of your budget. You should avoid these types of partners at all cost. Consider this an exposé of some of these practices!</p>
+<p>Some firms employ one of these tactics, and sadly, there are firms that employ all of them. I’m going to take the high road and not pick on any particular company, so for the purposes of this blog post, we’ll use a fictitious company name. Let’s call this hypothetical partner “LeadMachine.” Sound too good to be true? It is! LeadMachine makes big promises. Promises they can’t keep.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="64231478-c075-45ef-bb2d-d5da3877bc09" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/lead-machine-logo1.png" alt="lead machine" width="2500" height="1076" /></div>
+</article>
+</div>
+<p>It makes me mad to see companies taking advantage of small businesses. These PPC solutions aren’t solutions. They’re the problem!</p>
+<p>Don’t be taken by a great sales pitch! Use this information to protect your company and save thousands of dollars and hours of mental anguish. Be sure you have the right answers to these three key questions before signing on with a partner for your paid ads.</p>
+<h2>Who Owns Your Account?</h2>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="81be5f7b-adf7-4091-8e2b-ab6f06d590cd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/non-transparent-ppc-pricing-ownership-models1.jpg" alt="ppc agency pricing models" width="800" height="420" /></div>
+</article>
+</div>
+<p>One of the crazy ways LeadMachine tries to keep you is by owning your account.</p>
+<p>Essentially, your account is Liam Neeson’s ridiculously unfortunate daughter in the <em>Taken</em> movies. Except you don’t have the very particular set of skills that will be needed to save her. The bad guys win.</p>
+<p>When you cancel your contract with these companies, you will have nothing left. Signing up with them is essentially paying for the gasoline and a lighter that a professional arsonist will use to burn your PPC to the ground when you cancel.</p>
+<p>This type of business model is awesome for the PPC provider, sure. But it’s beyond terrible for you, the business.</p>
+<p>There is a much better way.</p>
+<p>You should look for partners that let you own your own account – instead of kidnapping your account and holding it hostage for ransom money. You own your accounts and your campaigns. Not us.</p>
+<p>Ask yourself this: Can you log into AdWords, Bing, or Facebook directly and see your account? If not, this is trouble!</p>
+<p>Note: Beware of partners that say “you can always take your account with you” and really mean they will give you an Excel dump. This is not helpful! If you leave, you should be able to take your REAL account with you. Not just a dump of data. If you end your relationship, you shouldn’t have to start your PPC advertising from scratch.</p>
+<p>Your AdWords and Facebook accounts are part of your business, just like your website, blog, and analytics. Nobody should ever use your accounts to keep you as a customer. It’s just wrong!</p>
+<h2>Is Your Provider Marking Up the Cost of Ads?</h2>
+<p>LeadMachine has some fancy names for their ads. That’s so they can mark up the prices to put more of your money into their bank account.</p>
+<p>Let me be as clear as I can. There are:</p>
+<ul>
+<li>Google AdWords ads</li>
+<li>Google Display Network ads</li>
+<li>Facebook Ads</li>
+<li>Bing Ads</li>
+</ul>
+<p>There is no such thing as LeadMachine Ads or LeadMachine Search, LeadMachine Social, or LeadMachine Display ads.</p>
+<p>These companies are just paying for ads on those four ad networks from Google, Facebook, and Bing.</p>
+<p>We believe there’s a better model.</p>
+<p>How about this: you pay whatever you want to spend in advertising costs directly to Google, Facebook, or Bing. No markup.</p>
+<p>At WordStream, we think that’s fair.</p>
+<h2>What Are You REALLY Paying For?</h2>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="457d50ff-087c-4dc5-8ea2-8d046d68290e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-model-bundled-pricing.jpg" width="800" height="450" /></div>
+</article>
+</div>
+<p>LeadMachine doesn’t have very clear pricing. (You have to call LeadMachine to get a quote? Seriously? What year is this?)</p>
+<p>LeadMachine creates a “bundle.” Pay us $2,000 a month, and in your industry, we can delivery approximately X clicks or leads. But how much are you paying for their services and software versus your media spend? You know, for all those clicks they promise they’ll send to your website?</p>
+<p>If you believe the reviews and stories of ex-customers, these companies are taking upwards of 60 percent of the money SMBs pay them each month for their services. That leaves 40 percent for actual ads.  Consider this example:</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b7e534c9-888b-4396-a7b0-9da3e4d53f83" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-pricing-model-bad-vs-good-1.png" alt="ppc software pricing models" width="800" height="500" /></div>
+</article>
+</div>
+<p>If you’re paying these companies $2,000 per month, then maybe $800 or $1,000 of that is being spent on paid media.</p>
+<p>How is this at all fair to SMBs?</p>
+<p>The worst part is that many SMBs who are probably happy with their services don’t realize they could be bringing in 2x as many customers if they weren’t wasting so much of their budget on an invisible markup!</p>
+<h2>Don’t Get Taken!</h2>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="435a19c7-cf80-4d6c-be16-72ef3f4bc04b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dont-get-taken-by-scammy-pricing-models.jpg" width="800" height="533" /></div>
+</article>
+</div>
+<p>If you thought you were paying just for PPC with these companies, well, you’re paying for something else.</p>
+<p>These companies blend together the cost of media, management fees, software licensing fees, and other “services” in packages so you never know where one starts and the other ends.</p>
+<p>We think that’s crazy.</p>
+<p>Use this checklist to figure out whether you are in trouble:</p>
+<ul>
+<li>Can you visit your provider’s website and see fully transparent and easy-to-understand pricing information? No? RUN!!!!</li>
+<li>Are you the owner of your own accounts on each ad platform? Can you log directly into your own AdWords, Bing, or Facebook account at any time? No? RUN!!!!</li>
+<li>If you decide to part ways with your provider, can you take your account with you? Do all of the campaigns and improvements you have paid for over the years come with you? Excel dumps don’t cut it. Ask! No? RUN!!!!</li>
+<li>Are you paying for things in a bundled fashion? Service, media, and who knows what else all in “one easy price”? RUN!!!</li>
+</ul>
+<p>There is a better way. Demand transparency!</p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models">How to Tell If Your PPC Service Provider Is a Huge Rip-off</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/02/14/ppc-pricing-models/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Use Brand Affinity to Dramatically Increase CTR</title>
+		<link>https://www.wordstream.com/blog/ws/2017/02/08/brand-affinity-marketing</link>
+					<comments>https://www.wordstream.com/blog/ws/2017/02/08/brand-affinity-marketing#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Kim]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2017 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[CTR]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2017/02/07/brand-affinity-marketing/</guid>
+
+					<description><![CDATA[<p>It's time to re-examine our assumptions about branded vs. non-branded keywords in both paid and organic search marketing. Start building brand affinity to dramatically increase performance!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/08/brand-affinity-marketing">How to Use Brand Affinity to Dramatically Increase CTR</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Look, I get it. For the longest time, PPC marketers and SEOs alike have been segmenting brand campaigns and content (those with trademarks and company names) from more generic search terms.</p>
+<p>After all, <strong>branded keywords</strong> tend to be “<a href="/blog/ws/2016/12/05/best-online-marketing-strategies">unicorns</a>” — in PPC, these are keywords which generate ridiculously high CTRs (click-through rates of 40, 50 or 60 percent) and Quality Scores (9 or 10); in SEO, these are keywords that rank at the top of the SERP. Meanwhile, <strong>non-branded keywords</strong> perform like donkeys — in other words, average at best.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b4b7c5c3-b2cc-498d-a961-bbcbf61c5c79" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-not-donkey.jpg" alt="Be a Unicorn" width="630" height="439" /></div>
+</article>
+</div>
+<p>While branded vs. non-branded is an interesting distinction, it’s also an incomplete one. Even non-branded keywords can act like brand terms when brand affinity exists.</p>
+<p>Here’s why it’s time that we re-examine some of our assumptions about branded vs. non-branded keywords in both paid and organic search marketing.</p>
+<h2>Search doesn’t grow demand</h2>
+<p>Generally, in search marketing, the goal is to connect with people who are searching for your products and services. If you reach them at the right moment, you can turn these searchers into leads and sales for your business.</p>
+<p>By definition, however, the greatest strength of paid and organic search marketing is also its greatest weakness.</p>
+<p>Search doesn’t grow new demand. Search harvests <em>existing</em> market demand.</p>
+<p>Specifically, in terms of <a href="/blog/ws/2014/06/30/commercial-intent-keywords">commercial queries</a>, searchers need to know what they are looking for — and to have already decided to buy — in order for search marketing to be successful. So, when people search, they already need to know <em>what</em> they want to search for and purchase.</p>
+<p>But how do they decide which ads they click on and from whom to buy? Where does that come from? Certainly, it isn’t based on whether the keyword is branded or non-branded.</p>
+<h2>Brand affinity makes or breaks your search</h2>
+<p>The propensity to click on your paid or organic search listings is often based on pre-existing brand affinity. Put simply: <strong>searchers are more likely to click on you if they’ve heard of you before</strong>:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2ba2d2f9-d131-4ef2-9f2d-9fa8fc80c65c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brand-affinity-graph-2.jpg" alt="Brand Affinity Dramatically Increases" width="800" height="407" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Source: WordStream customer data</em></p>
+<p>What you’re witnessing here is the massive impact of branding on paid search. When <a href="https://www.wordstream.com/blog/ws/2018/07/20/social-listening">more people know about your brand</a>, they will search for your brand and the products you sell.</p>
+<p>All the queries people are searching for are branded terms. When people search for these terms, they express their preference for brands they know and love!</p>
+<p>If your “non-branded terms” aren’t performing as well as “branded terms,” then that means that these terms are performing great for <em>other companies</em>. Search is a zero-sum game. You’re just not getting the clicks.</p>
+<p>This points to a branding issue. You’re being passed over, and there could be various reasons why. But most likely, you don’t have strong enough brand affinity among people searching for your solution.</p>
+<h2>Are we creating as much value as we think?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1b3a2c9a-aa8b-47c7-a174-60920b93b785" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brand-affinity-meme.jpg" alt="Value of Brand Affinity" width="800" height="508" /></div>
+</article>
+</div>
+<p>Are we the search marketing rock stars we think we are? Or are we really just positioning ourselves at the very bottom of the funnel and taking credit for harvesting the existing demand and brand preferences that were established elsewhere?</p>
+<p>If you have really good performance on non-branded keywords, then a lot of times you want to take all the credit. However, it could just mean you’re working for a company with strong brand affinity.</p>
+<p>If you find your branded keywords acting like non-branded keywords (with low CTRs and conversion rates), then that means you have a lot of work to do.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="78f9b9b3-cfe2-4b11-a5d2-2841c74ad312" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brand-affinity-meme-2.jpg" alt="Brand Affinity Meme" width="564" height="472" /></div>
+</article>
+</div>
+<p>Remember, people don’t just randomly click on paid search listings. Listings don’t really have a simple one in seven chance of getting clicked on (or a one in 10 chance on the organic side).</p>
+<p>The impact of a brand can be difficult to quantify. But now, with Remarketing Lists for Search Ads (RLSA), we can target ads to repeat users.</p>
+<p>RLSA has revealed what I suspected might be true but had been hard to measure. <strong>The easiest way to measure the impact of brand affinity on CTR is to run the same ads, keywords, bids and budgets, but using RLSA in one campaign and excluding the same audience in another non-RLSA campaign.</strong></p>
+<p>The success or failure of search marketing campaigns is based largely on the existing <a href="/blog/ws/2015/07/10/brand-awareness">brand awareness</a> of your product, service or company in the marketplace. People are overwhelmingly biased toward clicking on brands they know and love.</p>
+<p><a href="/blog/ws/2016/06/08/rlsa">RLSA is incredibly powerful</a>. It can triple click-through and conversion rates and cut CPC (cost per click) in half, as shown here:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e59d23dd-3084-45a0-827d-1e318b698b53" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rlsa-example.jpg" alt="RLSA Example" width="800" height="373" /></div>
+</article>
+</div>
+<p>We position ourselves to look heroic to our clients. These notions about our awesomeness are kind of falsely affirmed by Google Analytics, which tends to focus on the last-click attribution.</p>
+<p>It’s OK to be the hero in your client presentations. Just don’t delude yourself.</p>
+<p>Search marketing, particularly when it comes to commercial queries, is often just reaching people already at the bottom of the funnel and ready to purchase.</p>
+<h2>So what should we do?</h2>
+<p>Search used to be a way to build a brand. But Google’s machine learning algorithms (<a href="/blog/ws/2016/03/16/rankbrain-seo">RankBrain on the organic side</a> and <a href="/blog/ws/2016/09/20/adwords-ad-data">Quality Score on the paid side</a>) are becoming pickier about which results they show. This has changed search from a channel where you can just do demand generation into more of a direct reflection of pre-existing preferences of the market.</p>
+<p>What we need is a more predictable and repeatable way to win business, so we’re not waiting on people to search for our stuff and just show up at the last minute in the hopes of making a sale.</p>
+<p>So how do we create value? What we should do is balance search marketing efforts with brand affinity and demand creation activities.</p>
+<h3>Building brand affinity in organic search</h3>
+<p>If you’re doing SEO, that means embracing doing <a href="/blog/ws/2016/09/08/why-create-content-outside-your-niche">off-topic content</a>. So, in addition to going after the people who are looking for the exact commercial keywords you’re going after, <strong>you also want to go after higher-funnel queries (i.e., informational queries) that don’t have as much commercial intent but could bias a future commercial search toward your brand.</strong></p>
+<p>Organic search is becoming increasingly a reflection of people’s brand preferences because of feedback loops. You may have never heard of Brand X, but if enough other people <em>have</em> heard of Brand X, then it will have a higher average CTR — and a more prominent position on the SERP.</p>
+<p>That feedback loop always existed in Google Ads (formerly known as AdWords) because of Quality Score. Big brands have had huge advantages thanks to brand affinity. People tended to click on ads from brands they knew.</p>
+<p>Now the same thing is happening in organic search. There’s a kind of feedback loop where brands you see in search now more closely correlate to the overall popularity of that brand.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="977b86c9-44ed-4afa-9af2-9ef20c6aa286" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/branded-unicorn-hearts.jpg" alt="Be a Unicorn" width="779" height="600" /></div>
+</article>
+</div>
+<h3>Building brand affinity in paid search</h3>
+<p>Now, on the paid search side, it’s remarkably difficult to use the same strategy because of the Quality Score algorithm. The Quality Score algorithm rewards high CTRs but is very punitive for low CTRs (it will restrict your impression share and increase your cost per click).</p>
+<p>The problem you run into is that people tend to click on ads if the query is commercial in nature because they were looking to buy something. They also tend to not click on PPC ads for educational/informational queries because they aren’t looking to buy something.</p>
+<p>Google grades your CTR for keywords on the same curve, regardless of whether it’s an educational or transactional query, as long as they’re in the same query space. You don’t get bonus points because it wasn’t a high commercial intent keyword.</p>
+<p>Informational queries tend to get very low paid search CTR (around 1 to 4 percent, in my observation) and Quality Scores of 1 to 4. This CTR is substantially lower <a href="/expected-ctr">than you’d expect to get</a> compared to a commercial query.</p>
+<p>So, what can you do? If you’re doing paid search, use display and <a href="/learn/social-ads">social ads</a>, as well as other forms of brand advertising (radio, TV or whatever) to <strong>create the demand before people search</strong>.</p>
+<h2>What does it all mean?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f28f27f4-34ca-4d76-801e-4c64a1f774b6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/unicorn-what-does-it-mean.jpg" alt="What Does Brand Affinity Mean" width="600" height="338" /></div>
+</article>
+</div>
+<p>If you see such a huge difference between your branded and non-branded keywords, it means you need to focus on building brand affinity even more. <strong>Go after users before they ever search for your stuff!</strong></p>
+<p>The success of campaigns that include queries without brand trademarks is largely based on the brand awareness and brand affinity of the products and services you’re promoting.</p>
+<p>Stop thinking in terms of branded vs. unbranded. There are just queries and the native amount of awareness you’ve been able to create.</p>
+<p>It’s not the presence of a certain brand term in the query. That was always just a proxy for whether or not the searcher has a brand affinity.</p>
+<p>Once that brand affinity exists, you’ll see the CTR and conversion rates for non-brand queries start behaving like brand queries.</p>
+<p><em>This article originally appeared on <a href="http://searchengineland.com/attention-search-marketers-keywords-branded-keywords-267522">Search Engine Land</a> and is republished with permission.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2017/02/08/brand-affinity-marketing">How to Use Brand Affinity to Dramatically Increase CTR</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2017/02/08/brand-affinity-marketing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Saas Technology were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://adswebstrom.com
+Data file = /home/u520004865/domains/adswebstrom.com/public_html/wp-content/uploads/2025/11/demo-content-import-file_2025-11-20__21-29-56.xml
+Widget file = /home/u520004865/domains/adswebstrom.com/public_html/wp-content/uploads/2025/11/demo-widgets-import-file_2025-11-20__21-29-56.json
+Customizer file = /home/u520004865/domains/adswebstrom.com/public_html/wp-content/uploads/2025/11/demo-customizer-import-file_2025-11-20__21-29-56.dat
+Redux files:
+iteck_theme_setting -> /home/u520004865/domains/adswebstrom.com/public_html/wp-content/uploads/2025/11/demo-redux-import-file_0-2025-11-20__21-29-56.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

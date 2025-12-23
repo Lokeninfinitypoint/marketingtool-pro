@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kelsey Halloran, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/kelsey-halloran/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sat, 11 Feb 2023 20:29:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Kelsey Halloran, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guide to Using Flexible Bid Strategies in Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies#respond</comments>
+		
+		<dc:creator><![CDATA[Kelsey Halloran]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies/</guid>
+
+					<description><![CDATA[<p>Learn how to use Flexible Bid Strategies in AdWords to simplify bidding and bid optimization in your Google AdWords pay-per-click campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies">Guide to Using Flexible Bid Strategies in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I’m sure by now many of you have at least heard of Google’s Flexible Bid Strategies (or read Larry’s blog post on the <a href="/blog/ws/2013/12/02/top-10-adwords-features">Top 10 Google Ads Features of 2013</a>), which was announced in May of last year. Google created these strategies to help advertisers make more sense of their bidding and spend less time trying to figure out what to do. However, most are struggling to see what the benefits are, how and where to use them, and how to measure success.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3aede4b1-bdd0-4dde-9570-c853d68a47f1" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/flexible-1.jpg" alt="Flexible Bid Strategies" width="506" height="384" /></div>
+</article>
+</div>
+<p>In this post, you&#8217;ll learn what they are, the different types of flexible bid strategies, and how to make them work for you.</p>
+<h2>What are Flexible Bid Strategies?</h2>
+<p>Flexible bid strategies automatically set bids to optimize for certain goals across set campaigns, ad groups and keywords.</p>
+<p>Once you have created a strategy, it will be shared in your Shared Library in Google Ads (formerly known as Google AdWords), making it accessible from one spot and making performance tracking easier. You can apply the strategy on the campaign, ad group or keyword level from each respective tab.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d2f67046-243c-4a48-b338-ca3d7d93f7dc" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-flexible-bid-strategy-guide-1.png" alt="flexible bid strategy guide" width="537" height="712" /></div>
+</article>
+</div>
+<p>Measuring success will depend on which of the flexible bid strategies you employ, but ultimately, are you getting what you signed up for? Are you getting more conversions within your target <a href="/cost-per-action">CPA</a>? Are your CPC’s within your goals and budget? Reviewing the data will tell you if something is working or not. Since these strategies can be applied at different levels and you will be adding them with different goals in mind, be sure to go over the data thoroughly and make sure the numbers reflect your goals. Also check whether the leads and sales you are receiving are of the same caliber you were receiving (or better) than before you started using flexible bid strategies. This will help you define success.</p>
+<p>The chart above is a quick overview of what the various flexible bid strategies are and when to use them. Now we’re going to take a deeper dive into how each of them work, where to apply them, and what you still have control over.</p>
+<h2>Maximize Clicks</h2>
+<p>This strategy is something that many of you are probably familiar with, as it is essentially automatic bidding. This strategy will focus on increasing clicks while spending a target amount. The target spend amount is essentially the budget you are setting for any campaign/ad group/keyword that is utilizing this strategy. This is separate from the daily budget you will set on the campaign level for a campaign using manual bidding or another bid strategy.</p>
+<p>This is different than automatic bidding as you can set this to specific ad groups or keywords instead of just at the campaign level, but you can still set this up at the campaign level as well. You can still control ad scheduling, but you can no longer set day or time of day bid adjustments. A note about the target spend: this is an amount that you set that is applied to any campaign, ad group or keyword using this strategy. This is separate from your campaigns’ daily budgets, as it is applied to those campaigns and ad groups that are using this flexible bidding strategy. With Maximize Clicks, you are giving Google control to change your bids in order for the areas using this strategy to work to gain you the most clicks. You can set a CPC bid limit to ensure that Google isn’t setting your bids higher than you would like to spend per click.</p>
+<p>This strategy will allow for you to set up custom ad scheduling for day and time of day (not bid adjustments, but scheduling) where you can use the Maximize Clicks strategy. You can set a cap on bids for any keyword, ad group or campaign that is using this strategy, but if you do not set one Google Ads will adjust your bids to an amount that will earn you the most clicks.</p>
+<p>You should apply this strategy when you want to get the most clicks to your site for your target spend amount. A time you wouldn’t want to use this is when you have strict ROI or CPA goals.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f018804e-41f6-407e-8b28-74237886b67f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/flexible-bid-strategies-maximize-clicks-1.png" alt="maximize clicks" width="763" height="305" /></div>
+</article>
+</div>
+<h2>Target Search Page Location</h2>
+<p>Want Google to change your bids so you will be on the first page of results, or even the top of the page? The Target Search Page Location option will automatically raise or lower your bids to show your ad at the top of the page or on the first page of the Google search results. This strategy only works for the Google Search Network. Once applied, it will only take a few minutes for your bids to start being changed by Google and can (and will) be updated several times a day. To set the initial bid amount you can do one of two things: you can opt for the <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">automated approach</a> and have Google set the bid and adjust for you, or set the bid yourself and then have Google adjust the bid for you.</p>
+<p>Keep in mind – this doesn’t <strong>guarantee</strong> placement on the top of page or ad position on the first page of results. This strategy will attempt to achieve your target location, but final placement is going to be decided by the results of the <a href="/articles/what-is-google-adwords">ad auction</a>.</p>
+<p>This strategy gives you the option to show on the top of the first search results page or anywhere on the first search results page. If you are using the top of first page search results, Google will raise your bid to fit the top-of-page bid estimate. If you utilize the option to show anywhere on the first page, it will use the first page bid adjustment. To gain more insight into how Google will raise your bids, you can check to see what your first page and top-of-page bid estimates are in AdWords.</p>
+<p>When using Target Search Page Location, you can set bid adjustments, in addition to mobile, location, day and time of day. You can also adjust your top-of-page or first page bids. This means you can actually bid a percentage of your first page or top-of-page bid estimate. You also have the ability to set a Max CPC bid limit and cap your bids. Setting these limits is important to ensure that you’re not spending more per click than you want to (from a cost or CPA goal standpoint). You’re also going to want to make sure that you are not going to exhaust your budget too quickly by the increasing bid adjustments.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7006775b-a59f-4b56-b23e-b6ab14c8bbe1" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/target-page-location-1.png" alt="target page location" width="687" height="581" /></div>
+</article>
+</div>
+<h2>Target CPA</h2>
+<p>Target CPA may sound familiar as it is similar to optimize for conversions. This option allows you to set bids to achieve an average CPA across all ad groups and campaigns using this strategy. With this approach, some conversions may cost more than the target and some may cost less, but overall Google Ads will try to keep your <a href="/blog/ws/2013/07/16/quality-score-cost-per-conversion">cost-per-conversion</a> equal to the target.</p>
+<p>Keep in mind – this strategy sets bid adjustments to reach your target CPA, superseding other bid adjustments you’ve set (except where you’ve set a mobile bid adjustment of -100%).</p>
+<p>While Google may recommend not setting a minimum or maximum CPC bid limit, it may be in your best interest to do so, as you <em>do</em> want to make sure that your CPC bids aren’t going to be too high. Yes, Google will set your bids within your target CPA, but if you set a bid limit you can also help ensure that you are not going to be having high CPC bids and that you are instead getting the most out of your budget. Setting a minimum bid limit will help make sure that your bids aren’t too low and that you will stay competitive.</p>
+<p>Bid limits give you more control and restrict how Google Ads automates your bids.</p>
+<p>There are two requirements to apply this strategy:</p>
+<ul>
+<li>You need at least 15 conversions in the last 30 days (the more data you have, the better Google can help to set bid adjustments)</li>
+<li>Your ad group or campaign has received conversions at a similar rate for at least a few days</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a0fa8e4b-7482-4025-9c34-7569e590fcd6" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/target-cpa-flexible-bid-strategy-1.png" alt="Flexible Bid Strategies Target CPA" width="571" height="443" /></div>
+</article>
+</div>
+<h2>Enhanced CPC</h2>
+<p>Enhanced CPC helps you bid more effectively to maximize conversions. You can set your own max CPC bids for each keyword, and from here, AdWords will adjust your bids depending on what it believes is the likelihood of the click leading to a conversion. ECPC will only raise your bid up to 30% and can lower it as much as 100%. Google looks at real-time data to make your bids more effective, such as device, browser, location, and time of day when adjusting your bids during each ad auction.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6472e8e7-9110-440e-bf52-f9a0e158e7f0" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/flex-bidding-strategies-enhanced-cpc-1.png" alt="Enhanced CPC Strategy" width="583" height="164" /></div>
+</article>
+</div>
+<h2>Target Return on Ad Spend</h2>
+<p>Target Return on Ad Spend uses the conversion value you set when you <a href="/blog/ws/2013/08/13/adwords-conversion-tracking-guide">set up your conversion tracking</a>. If you haven’t set up your conversion value, you can do so in the Tools tab under Conversions.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fe41a7e5-7be7-43fc-807a-2aa4d928062d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-set-conversion-value-1.png" alt="AdWords Conversion Value" width="765" height="359" /></div>
+</article>
+</div>
+<p>Once this is done, Google Ads will set the max CPC bid to maximize your conversion value. At the same time, Google Ads will be trying to achieve an average return on Ad Spend that is equal to your target.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ca4aca7d-326f-49e0-9cfa-c55f98f1e4f1" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/target-roas-flexible-bid-strategy-1.png" alt="Target ROAS in AdWords" width="671" height="419" /></div>
+</article>
+</div>
+<p>So, these are the Google Ads flexible bid strategies that Google has to offer. If you’re a WordStream customer and you think that one might be right for you, contract your CS rep – we’ll be more than happy to give you more details and help you get up and running.</p>
+<p>One thing I’ve learned from clients I’ve spoken to who are using different flexible bidding strategies is that you have be careful and really know what you’re doing. I’ve seen quite a few clients who have enabled a strategy and seen more spend in Google Ads, yet the amount of conversions has stayed the same and the quality of the conversions had not changed.</p>
+<p>Flexible bidding strategies will work differently than bidding rules, but with similar outcomes – Google will have more control over your <a href="https://www.wordstream.com/blog/ws/2023/01/17/google-ads-bid-management">PPC bid management</a> (in some cases all control), so it pays to tread carefully.</p>
+<p>Are you using flexible bid strategies in Google Ads? Let us know in the comments!</p>
+<p><em>Top image via </em><a href="https://www.flickr.com/photos/gbsk/4158686823"><em>Barry Silver</em></a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies">Guide to Using Flexible Bid Strategies in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/04/16/flexible-bid-strategies/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quick Guide to Google Grants: Google Ads for Nonprofits</title>
+		<link>https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits#respond</comments>
+		
+		<dc:creator><![CDATA[Kelsey Halloran]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits/</guid>
+
+					<description><![CDATA[<p>Learn all about the Google Grants program, which provides free ad spend for nonprofit organizations, including eligibility and tips for succeeding with Google Ad Grants.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits">Quick Guide to Google Grants: Google Ads for Nonprofits</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In this guide you’ll find everything you need to know about the <a href="/blog/ws/2017/12/18/google-ad-grants-policy-changes">Google Grant</a> Program, the Google Ads (formerly known as Google AdWords) program for nonprofit organizations, from how to qualify to ad guidelines.</p>
+<p><em>Special offer for non-profits! We offer <a href="/pricing">special pricing for non-profit 501(C)(3) organizations</a> (a 25% discount) on our software and Premier Consulting offerings. <a href="/pricing#faq">Learn more</a>.</em></p>
+<h2>What Is Google Ad Grants?</h2>
+<p>The <a href="http://www.google.com/grants/index.html">Google Ad Grants Program</a> gives nonprofits the chance to advertise on Google Ads at no cost to the nonprofit. This program gives qualified organizations $10,000 per month in Google Ads spend to be used to promote their missions and initiatives on Google.com. To qualify, companies must go through the application process, and to keep the grant they must follow the program details.</p>
+<p><strong>If you work at a non-profit, you like the sound of this. Before you apply, check to ensure your nonprofile is eligible. Here are the qualifications: </strong></p>
+<p>To be eligible for Google Grants an organization must:</p>
+<ul>
+<li><strong>Hold current and valid charity status</strong> (for example, in the US you must have a current 501(c)(3) status)</li>
+<li><strong>Acknowledge and agree to Google Grant’s required certifications</strong> regarding how to receive and use donations obtained from the grant (we will go into more detail)</li>
+<li><strong>Have a website that is both functioning and provides adequate detail</strong> on your nonprofit</li>
+</ul>
+<p>The following organizations are not eligible for Google Grants:</p>
+<ul>
+<li>Governmental entities and organizations</li>
+<li>Hospitals and medical groups</li>
+<li>Schools, childcare centers, academic institutions and universities (philanthropic arms of educational organizations are eligible).</li>
+</ul>
+<p>Please note, Google <em>does</em> have a similar program for educational institutions (<a href="http://www.google.com/edu/">http://www.google.com/edu/</a>).</p>
+<h2>How to Maintain Eligibility for Your Google Ad Grant</h2>
+<p>Once you’ve scored a Google grant, the tricky part is maintaining it. So, how do you maintain eligibility?</p>
+<ul>
+<li>All the ads in your account must link to the nonprofit URL that was approved in your application process.</li>
+<li>Be proactive in your Google Ads management by logging in to the account monthly. If a nonprofit advertiser who has a Google Grant does not log into their Google Ads account, the account is subject to being paused without notification.</li>
+<li>The ads you are promoting must reflect the mission of your nonprofit. You can advertise to sell products as long as 100% of the proceeds are going to support your program.</li>
+<li>The ads you create cannot point to pages that are used to primarily send visitors to other websites.</li>
+<li>Your ads cannot offer financial products, such as mortgages or credit cards. Your ads also cannot be asking for donations in the form of large goods such as cars, boats or property donations. Keywords related to this activity are also not allowed.</li>
+<li>Your website cannot display ads from Google AdSense or other affiliate advertising links while participating in Google Grants.</li>
+</ul>
+<p>Google states that any violation of these guidelines are subject to removal from the program. They also reserve the right to supplement or amend these eligibility guidelines at any time.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="aeecd224-bafc-4edd-ba56-0d36ae06edeb" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-grants-nonprofits-donate-button-1.jpg" width="601" height="158" /></div>
+</article>
+</div>
+<h2>Google Grant Program Details</h2>
+<p>Now that we’ve gotten through the nitty-gritty of what your status needs to be and what you can and cannot do, let’s dive into the details of <a href="/blog/ws/2016/02/09/marketing-for-nonprofits">Google Ads marketing for nonprofits</a>.</p>
+<p>Google Grant recipients receive free Google Ads advertising, but only to display their ads on Google.com. If you have been selected to receive a Google Grant to <a href="https://www.wordstream.com/blog/ws/2020/07/10/nonprofit-marketing-tactics">market your nonprofit</a>, you will build and manage your own Google Ads account similar to paying advertisers. What this means is that you will have control over your Google Ads account and Google will <em>not </em>be managing it for you.</p>
+<p>There are some restrictions …</p>
+<p>First, your daily budget will need to be set at $329 ($10,000 per month) and you cannot have keywords with a Max CPC over $2.00. Plus, your ads can only appear on Google.com – you cannot use Search Partners and since you can only be on Google.com with text ads, you are not eligible for the <a href="/blog/ws/2012/05/15/ipo-facebook-vs-google-display-advertising">Display Network</a> either.</p>
+<p>So, with these restrictions it might be a little more difficult to manage a PPC account. The biggest part of Google Grants is the money, and if you don’t use it, you lose it. Because of this, some of you will have a hard time finding a way to spend the $10,000 per month. If you’re struggling to spend your dough, here are some basic optimization recommendations. You may also want to check out our post on<a href="/blog/ws/2020/07/27/google-ad-grants"> three ways to get more free traffic from your Google Ad Grants account</a>.</p>
+<h3>Negative Keywords</h3>
+<p>Don’t go overboard with <a href="/blog/ws/2013/11/08/removing-negatives">negative keywords</a>; you need to spend this money. Yes, you’re going to want to block traffic that is nowhere near relevant to your site/organization, but you’re not measuring on ROI or even ROAS in the same manner as you would for an account where you are putting in your own marketing dollars. You’re still going to want to set negatives to block out completely irrelevant traffic; for example if you were looking for musical instrument donations and had a “Flute” ad group, you would want to set “Champagne” as a negative. You should also be looking at your query information to see not only what queries are triggering your ads, but to monitor for irrelevant traffic. I would also say that if you’re a nonprofit looking for monetary donations, you should also be including keywords looking for volunteers, making people aware of your services, and asking for non-monetary donations as well. While I understand the purpose and point of a campaign to be collecting monetary donations, you are going to need to find more keywords to get more traffic and find ways to spend the money. Since you aren’t measuring your ROI as strictly, you can do this. Remember, this is free ad spend!</p>
+<h3>Keyword Selection</h3>
+<p>In terms of keywords selection, be sure to pick relevant terms and match types (we’ll get into in a little bit). I know you are going to be anxious to not only spend the money, but make sure you stay competitive. While it is hard to compete using a keyword that is usually a $6 CPC when you can only have a $2 Max CPC, this means you’re going to have to get creative, using <a href="/blog/ws/2012/11/07/how-to-find-long-tail-keywords">longer tail keywords</a> and going a little outside of the box to find searchers. Again, even go for other keywords associated with your business to help bring in more traffic. (Think about the example above, instead of just monetary donations talk about volunteer opportunities as well.)</p>
+<h3>Keyword Match Types</h3>
+<p>Be sure you don’t restrict your match types too much. Again, you need to spend this budget, and in a way that is going to benefit your organization. Broad match types are going to bring you a lot of impressions and potential clicks. This will also allow for you to be open to more searches. If for instance you’re a nonprofit looking to only receive donations though your paid search efforts you might find that you are receiving traffic of people who are looking for assistance from your nonprofit. Is this a bad thing? No, it might not be exactly who you are marketing to, but it is also spreading awareness of the organization. You are still going to find keywords that you’re going to want to be on phrase and exact match on, use them, but make sure they are keywords that can handle the max CPC of $2 limit and still be competitive.</p>
+<h3>Don’t Abandon Best Practices</h3>
+<p>Working with clients who are using Google Grants is interesting because you need to take a pretty different approach to managing the account compared to one with actual marketing dollars. I know I spoke a lot about making sure you are <a href="/blog/ws/2013/08/29/ppc-budget-guide">spending the budget</a>, but I have seen clients who need to cut back, so please remember that you still want to be smart and have a solid account structure. As always, keep PPC best practices in mind when structuring your ad groups and ads.</p>
+<p>Good luck getting your Google Grant!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits">Quick Guide to Google Grants: Google Ads for Nonprofits</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/12/18/google-grants-adwords-for-nonprofits/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

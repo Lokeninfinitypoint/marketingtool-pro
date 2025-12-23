@@ -1,0 +1,5 @@
+body{font-family:system-ui,Arial,Helvetica,sans-serif;margin:0;padding:0}
+.site-header,.site-footer{padding:12px 16px;background:#111;color:#fff}
+.site-main{max-width:960px;margin:24px auto;padding:0 16px}
+.entry{padding:12px 0;border-bottom:1px solid #eee}
+.entry-title a{text-decoration:none}

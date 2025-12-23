@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ben Cohen, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/ben-cohen/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sat, 12 Nov 2022 04:29:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Ben Cohen, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Create Landing Pages for Your Google Ads Account</title>
+		<link>https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages#respond</comments>
+		
+		<dc:creator><![CDATA[Ben Cohen]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Landing Pages]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/04/17/best-landing-pages/</guid>
+
+					<description><![CDATA[<p>Learn nine guidelines for creating high-quality PPC landing pages that will drive more conversions through your AdWords account.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages">How to Create Landing Pages for Your Google Ads Account</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2><strong>Creating Quality PPC Landing Pages</strong></h2>
+<p>You can have an SEM account with hundreds of thousands of keywords that each have fantastic click-through rates (CTR) but without <a href="https://www.wordstream.com/blog/ws/2019/08/23/cool-landing-pages">quality landing pages</a>, you will never fully optimize your CPA and never reach your true money-making potential.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c176f2ac-cdf6-49a1-9baf-5d723ccd1b83" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-landing-page-example-1.png" alt="Great Landing Page Example" width="279" height="344" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Landing Page Layout via <a href="http://unbounce.com/landing-page-examples/big-brand-landing-page-critiques/">Unbounce</a></em></p>
+<p>I have put together some guidelines to help you create the best <a href="/blog/ws/2017/01/04/ppc-landing-page-tips">PPC landing pages</a> for your Google Ads (AdWords) account.</p>
+<h2>1. Establish your goals.</h2>
+<p>The first step in creating quality landing pages is to establish your marketing goals to decide what you are trying to accomplish. Do you want sales, form fills, <a href="/blog/ws/2013/09/16/squeeze-page">mailing list registrations</a>, sign ups, etc.?</p>
+<p>Once you have established what you are trying to accomplish with your campaigns and ad-groups, do some competitive research. Check out your competitors’ landing pages and look up some templates to see how you can design your pages.</p>
+<h2>2. Consider your target market …</h2>
+<p>Think about who is coming to your landing page. Consider their demographics, location, interests, etc.</p>
+<h2>3. … And how they got there.</h2>
+<p>You should not use the same message to target viewers from PPC that you would use if they came from social media or email nurturing campaigns. Considering how your viewers got to your page should influence and change the messaging you use to close them.</p>
+<h2>4. Create dedicated landing pages for each ad group (if possible).</h2>
+<p>In a perfect world each ad group would have its own dedicated landing page. However not all of us have the time or resources to do this. My advice is to do your best.</p>
+<p>Start with one landing page per campaign. As you have the time to build a new page, add it in and slowly convert your ad groups to all have specific targeted landing pages.</p>
+<h2>5. Don’t lead traffic to your home page.</h2>
+<p>People are inherently lazy. The more hoops you force them to jump through the less likely they will convert. That means less leads, less sign-ups, less sales, less $$$$. Instead of leading people to your homepage, test out driving traffic to a more targeted, conversion-optimized landing page (see below).</p>
+<h2>6. Optimize your landing pages for conversions.</h2>
+<p>Here’s how:</p>
+<ul>
+<li><a href="/blog/ws/2013/02/07/clean-simple-landing-page-tips">Keep the page clean and easy to read</a>. Don’t overload your visitors with all the information in the world. Keep it short and sweet and give them exactly what they are looking for.</li>
+<li>Make it easy for your traffic to convert and give them multiple ways to do it. The goal of a landing page is to build trust and have your traffic convert.</li>
+<li>You don’t need your visitors’ entire biography. Instead try asking only for the information you need most. This will appear as less risk to your visitors and will lead to higher conversion rates.</li>
+<li>Use clear calls to action along with arrows and catchy text while avoiding a  “scammy” look. Depending on your marketing goals you should consider putting your phone number at the top of the page, adding a form directly to the page, or allowing a purchase to be made directly from that page.</li>
+<li>Use <a href="/blog/ws/2015/04/08/persuasive-landing-pages">persuasive copywriting techniques</a> and &#8220;power words&#8221; that inspire visitors to take action.</li>
+</ul>
+<h2>7. Always Be Testing – “Coffee is for closers”</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e62a930f-909c-440a-8c1a-8a8c602d4a0a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/always-be-closing-best-landing-pages-1.jpg" alt="Best Landing Pages" width="600" height="600" /></div>
+</article>
+</div>
+<p>If you have ever been in sales or seen the movie <em>Glen Gary Glen Ross </em>you will surely remember the acronym “A.B.C. – Always-Be-Closing” and the Alec Baldwin quote, “Coffee is for closers.”</p>
+<p>Take these two sales terms to heart. Your landing page is your last chance to close the sale. But unlike traditional sales you do not have the flexibility to try different angles like any good salesman would.</p>
+<p>Your solution: “A.B.T. – Always-Be-Testing”. In the same fashion you would test out ad text, <a href="/blog/ws/2012/09/25/a-b-testing">A/B test</a> landing pages using Google Experiments (the tool formally known as Website Optimizer). This will allow you to change and test single variables such as headlines, imagery, body text, and calls to action evenly over time.</p>
+<h2>8. Avoid Common mistakes during testing.</h2>
+<p>The biggest mistakes I see made in regards to testing are not allowing your tests to run for significant amounts of time and stopping after one test.</p>
+<p>Stay patient and pull in as much data as possible before declaring a winner, then use that data to set up ongoing tests against the winner to find and display the best possible advertisements and <a href="/effective-landing-pages">effective landing pages</a> you can.</p>
+<h2>9. Allow visitors to share.</h2>
+<p>Finally, you are not in this alone. The strongest messages will not come from you; they will come from your customers. Make it easy for them to brag about their purchase and share their experiences by adding links to all types of social media. The most successful companies in the world do it, why shouldn’t you?</p>
+<p>Creating excellent PPC landing pages can be tough. If you follow my best practices above you will lower your CPA and increase your cash flow.</p>
+<p>Every industry is different which makes it difficult to put together the perfect guide. So I ask you, what is the best landing page you have seen? What has worked for you? Join the conversation by sharing your experiences below!</p>
+<p><em><a href="https://plus.google.com/u/1/101407500549188544263?rel=author">Ben Cohen</a> is a Customer Success Specialist at WordStream and supports WordStream’s managed services team on numerous accounts. That means his days are full of training and consulting clients on their PPC accounts. Born and raised in Boston, Ben has not wandered far from home, having studied Marketing and Management at the University of Maine, Orono. Ben is also a diehard Boston sports fan. When he is not out hiking New England, you can find him at America’s most beloved Fenway Park. Go Sox!</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages">How to Create Landing Pages for Your Google Ads Account</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why Your Click-Through Rates Suck</title>
+		<link>https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck#respond</comments>
+		
+		<dc:creator><![CDATA[Ben Cohen]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck/</guid>
+
+					<description><![CDATA[<p>Do your click-through rates in AdWords suck? Learn why your CTR is so low and how to fix it.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck">Why Your Click-Through Rates Suck</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>“Awesome! I have 300,000 impressions …. why is my CTR so low?”</em></p>
+<p>OK, the title of this post is a little harsh, but the importance of click-through rates to CPC campaigns has been well documented. So take a second and look at your account. Do you see that you have thousands of impressions and a few clicks with great conversion rates? I can assure you that you are not alone. There are a few things you can do that can help you turn that frown upside down. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>Separate Search vs. Display</h2>
+<p>The first thing I always look for when diagnosing why a campaign has a low CTR is network targeting. It is always a best practice to separate your campaigns by network. That means having one campaign set to search (and search partners) while having another set to target only display. I won’t go into detail on the benefits of using the <a href="/blog/ws/2012/05/15/ipo-facebook-vs-google-display-advertising">Google Display Network</a> (GDN), but what I will tell you is that it doesn’t behave the same way your search campaigns do. You will see much lower click-through rates on any campaign targeting display. That is simply because CTR just doesn’t matter as much when using some of the more advanced targeting methods that the GDN allows for. So let’s cut the dead weight in your search campaign and scrap the GDN from network settings or simply split it out into its own campaign.</p>
+<h2>Relevant Ad Text</h2>
+<p>I can’t stress enough how important it is to be very specific with your <a href="/text-ads">ad text</a>. That means that every ad group you have should have its own unique ads including specific keywords from the ad group in which they are housed. To go even further (and to also create more work for you), you may find that having unique landing pages for each ad group provides higher conversion rates.</p>
+<h2>Ad Extensions</h2>
+<p><a href="/blog/ws/2011/09/15/adwords-ad-extensions-guide">Ad extensions</a> are also a best practice. <a href="/blog/ws/2013/06/18/google-sitelinks">Sitelink</a>, <a href="/blog/ws/2011/10/06/google-adwords-call-extensions">Call</a>, <a href="/blog/ws/2011/09/19/adwords-location-extensions-guide">Location</a>, and <a href="/blog/ws/2013/06/06/adwords-image-extensions">Image extensions</a> are all natural CTR boosters because they allow you to take up more real estate on the SERP and draw more attention to your ad. They are a feature Google allows if you rank at a “top of page” position, and the best news is that they are free! Use them.</p>
+<h2>Zzzzzzz….</h2>
+<p>Alright now, so all of you seasoned pros out there are probably snoozing off and saying to yourself, “Been there, done that.” Well wake up and let’s talk about bidding strategies.</p>
+<h2>Bidding Strategies</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="63f1efee-438e-4cf4-afcb-2624cc8f6013" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/your-ctr-sucks-1.png" alt="Stan Musial" width="193" height="273" /></div>
+</article>
+</div>
+<p>Like the late Stan “The Man” is to baseball (obscure reference for my fellow baseball nerds), the average position metric is one of the most underrated players in PPC. Stan Musial is a hall of famer who should be grouped with the likes of Babe Ruth, Ted Williams, Lou Gehrig, and Willy Mays but is often overlooked though his career numbers make a strong point for him to be grouped among the all-time greats. Average position is the Stan Musial of PPC. Not always ranked up with the <a href="/blog/ws/2011/09/20/ppc-metrics-ultimate-guide">big metrics</a> like CTR and conversion rate, but it does provide advertisers with equally valuable information.</p>
+<p>To me, average position paints a clearer picture of what is going on. Having an impression doesn’t necessarily mean that someone has actually seen your ad. And if you aren’t following where I am going, I will spell it out for you. <em>You will not receive clicks 100% of the time if someone does not see your ad.</em></p>
+<p>My personal strategy is to, on average, place just above the third position, in the “sweet spot” if you will. I do this for two reasons.</p>
+<ol>
+<li>Your ad will actually be seen.</li>
+<li>You will get more relevant clicks.</li>
+</ol>
+<p>To elaborate, I prefer the third position because you are getting the <a href="/expected-ctr">expected CTR</a> benefits of ad extensions, but you are not paying the premium to get in the top spot, which often leads to unwanted, accidental clicks.</p>
+<p>Furthermore, your ads are actually getting seen. Recent <a href="http://www.youtube.com/watch?v=4Rtca0rQFCQ">eye tracking studies</a> have been conducted on Google SERPs and not so surprisingly, almost every participant’s eyes went directly to the top of the page.  That means that if you rank on the side of the page or even scarier, if you are ranking on the lower two-thirds of the side of the page, you will see much lower CTRs. Check out the study. Data doesn’t lie … well not usually.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="57cbcee6-8641-4d63-8ed8-f2f88a43675c" data-langcode="und">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe src="https://www.youtube.com/embed/4Rtca0rQFCQ?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>“Do or do not, there is no try”</h2>
+<p>I’ll admit, I am no Jedi, but Yoda does have a point. No two accounts are the same and results are never immediate. Try mixing and matching strategies while monitoring the results. If one doesn’t work, don’t give up. Try another. My personal Jedi words of advice: Always be patient and always stay calm. Eventually you will find the solution that is right for you.</p>
+<p><em><a href="https://plus.google.com/u/1/101407500549188544263?rel=author">Ben Cohen</a> is a Customer Success Specialist at WordStream and supports WordStream’s managed services team on numerous accounts. That means his days are full of training and consulting clients on their PPC accounts. Born and raised in Boston, Ben has not wandered far from home, having studied Marketing and Management at the University of Maine, Orono. Ben is also a diehard Boston sports fan. When he is not out hiking New England, you can find him at America’s most beloved Fenway Park. Go Sox!</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck">Why Your Click-Through Rates Suck</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/03/13/why-your-click-through-rates-suck/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+.ct-cart-totals-modules,
+.ct-cart-totals-modules > *:not(:last-child) {
+	margin-bottom: 1.5em;
+	padding-bottom: 1.5em;
+	border-bottom: 1px dashed var(--theme-border-color);
+}
+
+.woocommerce-cart-form {
+
+	.ct-suggested-products--cart {
+		padding-top: 20px;
+		border-top: 1px dashed var(--theme-border-color);
+	}	
+}
+
+.ct-woocommerce-cart-form {
+
+	~ .ct-suggested-products--cart {
+		margin-top: 50px;
+	}
+}

@@ -1,0 +1,56 @@
+.blocksy-waitlist-form {
+
+	.search-box {
+		margin: 0;
+		column-gap: 6px;
+
+		input[type="search"] {
+			margin: 0;
+		}
+	}
+
+	.ct-waitlist-export {
+		height: 32px;
+		line-height: 30px;
+	}
+
+	// table
+	.product_page_blocksy-waitlist-page {
+		margin-top: 10px;
+
+		.column-price,
+		.column-is_in_stock {
+			width: 20ch;
+		}
+
+		// variations
+		.product-variations {
+			margin-top: 5px;
+			margin-bottom: 3px;
+
+			:is(th, td) {
+				color: #888;
+				font-size: 12px;
+				padding: 0 4px 2px 0;
+			}
+
+			th {
+				font-weight: 600;
+			}
+		}
+
+		// actions
+		.column-action {
+			text-align: end;
+			vertical-align: middle;
+
+			.button {
+				margin-inline-end: 4px;
+			}
+		}
+
+		.failed {
+			color: #a44;
+		}
+	}
+}

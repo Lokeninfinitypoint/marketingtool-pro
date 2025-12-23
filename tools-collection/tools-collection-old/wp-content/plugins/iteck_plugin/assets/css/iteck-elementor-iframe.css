@@ -1,0 +1,102 @@
+
+.elementor-html .single-elementor_library .lqd-single-post-content > .container {
+	padding: 0;
+	width: 100%;
+}
+.elementor-html .single-elementor_library .main-header,
+.elementor-html .single-elementor_library .titlebar,
+.elementor-html .single-elementor_library .main-footer,
+.elementor-html .single-elementor_library .lqd-post-cover,
+.elementor-html .single-elementor_library .blog-post-footer,
+.elementor-html .single-smartinnovtes-mega-menu .main-header,
+.elementor-html .single-smartinnovtes-mega-menu .titlebar,
+.elementor-html .single-smartinnovtes-mega-menu .main-footer,
+.elementor-html .single-smartinnovtes-mega-menu .lqd-post-cover,
+.elementor-html .single-smartinnovtes-mega-menu .blog-post-footer {
+	display: none !important;
+}
+.elementor-html .single-smartinnovtes-header {
+	min-height: 100vh;
+	background-image: none !important;
+}
+.elementor-html .single-smartinnovtes-header #elementor-add-new-section {
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.elementor-editor-active.single-smartinnovtes-header .main-header {
+	pointer-events: auto;
+}
+.lqd-stickybar-wrap.elementor-element-edit-mode {
+	pointer-events: auto;
+}
+
+.lqd-stickybar-wrap .elementor-editor-widget-settings .elementor-editor-element-setting,
+.lqd-stickybar-wrap .elementor-editor-column-settings .elementor-editor-element-setting {
+	height: 100%;
+}
+.lqd-stickybar-wrap > .elementor-element-overlay .elementor-editor-section-settings {
+	transform: translate(-50%, 0px) rotate(180deg);
+}
+
+.is-stuck .lqd-stickybar-wrap.lqd-hide-onstuck,
+[data-sticky-header]:not(.is-stuck) .lqd-stickybar-wrap.lqd-show-onstuck {
+	transform: translateX(0);
+}
+
+.is-stuck #elementor-add-new-section {
+	display: none;
+}
+
+.lqd-search-style-slide-top:before {
+	content: none !important;
+}
+
+.elementor-editor-active.single-smartinnovtes-footer.header-style-side #wrap {
+	padding: 0;
+}
+
+body:not(.elementor-editor-preview) .main-header>.elementor>.elementor-section-wrap>.elementor-section>.elementor-container,
+body:not(.elementor-editor-preview) .main-header>.elementor>.elementor-section-wrap>.elementor-section>.elementor-container>.elementor-column,
+body:not(.elementor-editor-preview) .main-header>.elementor>.elementor-section-wrap>.elementor-section>.elementor-container>.elementor-column>.elementor-widget-wrap,
+body:not(.elementor-editor-preview) .main-header>.elementor>.elementor-section-wrap>.elementor-section>.elementor-container>.elementor-column>.elementor-widget-wrap>.elementor-widget {
+	position: relative;
+}
+
+.elementor-widget-ld_header_separator.elementor-widget-empty {
+	background: none;
+}
+.elementor-widget-ld_header_separator .elementor-widget-empty-icon {
+	display: none !important;
+}
+
+.elementor-add-new-section .elementor-add-section-area-button.iteck-add-template-button {
+	background-color: #fff;
+	box-shadow: 0 5px 15px rgb(0 0 0 / 15%);
+}
+
+#lqd-site-content {
+	z-index: unset;
+}
+
+[data-sticky-footer] {
+	z-index: -1;
+}
+
+@media screen and (min-width: 1200px) {
+	
+	.is-stuck .lqd-show-onstuck {
+		display: block;
+	}
+	.is-stuck .lqd-show-onstuck.lqd-stickybar-wrap {
+		display: flex;
+	}
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+	.header-side {
+			width: 350px !important;
+	}
+}

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eduard Klein, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/eduard-klein/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 08 Jan 2024 15:23:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Eduard Klein, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Growth Marketing Really Means (+22 Strategies to Do It Right)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing#respond</comments>
+		
+		<dc:creator><![CDATA[Eduard Klein]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing</guid>
+
+					<description><![CDATA[<p>To many business owners and marketers, the term &#8220;growth marketing&#8221; may seem redundant. Marketing is what you do to grow a business, so isn&#8217;t all marketing growth marketing? Too many professionals get this definition wrong and end up missing out on major opportunities for growth. So what exactly is it? In this complete guide to growth marketing, we’re [&#8230;]</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing">What Growth Marketing Really Means (+22 Strategies to Do It Right)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>To many business owners and marketers, the term &#8220;growth marketing&#8221; may seem redundant. Marketing is what you do to grow a business, so isn&#8217;t <em>all</em> marketing growth marketing?<br />
+<img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-not-even-close-meme.png" width="393" height="217" alt="not even close meme" class="aligncenter skip-lazy" /><br />
+Too many professionals get this definition wrong and end up missing out on major opportunities for growth. So what exactly is it? In this complete guide to growth marketing, we’re going to cover:</p>
+<ul>
+<li>The <strong>true</strong> definition of growth marketing and its benefits.</li>
+<li>Growth marketing vs traditional marketing and growth hacking.</li>
+<li>How to do it using the five stages of the AARRR framework.</li>
+<li>Growth marketing strategies and important metrics for each stage.</li>
+</ul>
+<p>Let&#8217;s get started.</p>
+<h2>What is growth marketing?</h2>
+<p>To understand growth marketing, let’s take a look at it in comparison to traditional marketing.</p>
+<p>Traditional marketing focuses on campaign-oriented short-term goals. It’s typically company-centric, largely focused on acquisition, and most of the planning is opinion-based and evaluated annually.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-vs-traditional-marketing.png" width="720" height="488" alt="growth marketing vs traditional marketing" typeof="foaf:Image" /></div>
+<p class="text-align-center"><a href="https://www.amuratech.com/blog/growth-marketing-vs-traditional-marketing"><em>Image source</em></a></p>
+<p>Growth marketing, on the other hand, is strategy-based with long-term goals in mind. Planning is evidence-based and it focuses on acquisition, retention, and <a href="/blog/ws/2018/05/30/cross-selling-upselling">cross-selling and upselling</a>,</p>
+<h3><span lang="EN" xml_lang="EN">Simple example of growth marketing</span></h3>
+<p><span lang="EN" xml_lang="EN">Let&#8217;s say your <a href="/blog/ws/2019/12/18/ecommerce-marketing-strategies">ecommerce business</a> is not making enough money because customers only buy one or two products. The order value is low and the profit doesn’t cover the acquisition costs.</span></p>
+<p>In this case, you might use cross and upselling to get the customer to buy more products the first time, and engagement strategies to get them to buy more often, because with the second or third sale you won&#8217;t have any acquisition costs to cover—especially if you use <a href="https://eduardklein.com/email-marketing-services/">email marketing</a> to communicate with your customers.</p>
+<h2><span lang="EN" xml_lang="EN">Growth marketing vs growth hacking</span></h2>
+<p><a href="/blog/ws/2015/06/02/growth-hacking">Growth hacking</a> is not the same as growth marketing. Growth hacking focuses on short-term results while growth marketing focuses on the bigger picture. Here&#8217;s a deeper dive into the differences between the two:</p>
+<ul>
+<li>Growth hacking looks to achieve rapid growth, usually with acquisition, while growth marketing seeks to achieve long-term growth with a set of <a href="/blog/ws/2019/02/21/facebook-funnel">full-funnel strategies</a>.</li>
+<li>Growth hacking looks at data to experiment and refine an outcome, while growth marketing looks at data to identify patterns and refine a strategy.</li>
+<li>Growth hacking involves hands-on tactics with testing and tweaking, while growth marketing involves automated and algorithmic processes with periodic adjustments.</li>
+<li>Growth hacking is centered around business pain points and goals, while growth marketing is centered around customer <a href="/blog/ws/2018/02/28/pain-points">pain points</a>.</li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-hacking-vs-growth-marketing-chart.png" width="720" height="397" alt="growth hacking vs growth marketing T chart" typeof="foaf:Image" /></div>
+<h2>An example of growth hacking in action (Dropbox)</h2>
+<p>What&#8217;s great about growth hacking is that through experimentation and iteration, growth hackers can often develop something unique in a short time—like the Dropbox Referral Program.</p>
+<p>The company was having difficulties acquiring new users, and paid ads were not doing the trick. Their growth hack, a double-sided referral program, resulted in a <a href="https://bettermarketing.pub/7-growth-hacking-techniques-that-will-skyrocket-your-growth-c562b4a0dc63" target="_blank" rel="noopener">60% increase in signups.</a></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-example-dropbox.png" width="720" height="390" alt="growth marketing vs growth hacking example: dropbox" typeof="foaf:Image" /></div>
+<h2>An example of growth hacking turned growth marketing (Slack)</h2>
+<p><span lang="EN" xml_lang="EN">Slack is the fastest-growing B2B SaaS company <strong>in history.</strong></span></p>
+<p>While this freemium communication tool was still in beta, founder Stewart Butterfield used widespread media coverage to invite organizations to request access to the platform and try it out—landing them <a href="https://blog.lemonadestand.org/an-in-depth-history-of-slack-and-its-overnight-success/" target="_blank" rel="noopener">8,000 signups in 24 hours</a> and reaching 15,000 signups in two weeks. Now that&#8217;s a growth hack.</p>
+<p>Over the next six months, Slack gathered feedback from these users to refine the product. Once the tool was launched and Slack established its brand and upward growth curve, it could then focus on more consistent and sustainable strategies for acquiring new users and <span lang="EN" xml_lang="EN">enhancing the platform&#8217;s experience to retain them. And that&#8217;s growth marketing.</span></p>
+<p><span lang="EN" xml_lang="EN">Slack now has over<a href="https://techjury.net/blog/slack-statistics/#gref" target="_blank" rel="noopener"> three million</a> paid users today. </span></p>
+<h2><strong>Benefits of a growth marketing strategy</strong></h2>
+<p>Here are some of the many benefits you stand to gain through a growth marketing mindset:</p>
+<ul>
+<li><strong><span lang="EN" xml_lang="EN">Better decisions</span></strong><span lang="EN" xml_lang="EN">: Growth marketing eliminates the idea of a <em>gut feeling (as with traditional marketing)</em>. This <a href="/blog/ws/2016/08/25/data-driven-marketing">data-packed approach to marketing </a>shows what works and what doesn’t to help you make better decisions.  </span></li>
+<li><strong><span lang="EN" xml_lang="EN">Enhanced brand perception: </span></strong><span lang="EN" xml_lang="EN">This ideology focuses on understanding the customer journey, delivering better experiences, and <a href="/blog/ws/2021/06/21/build-client-relationships">establishing personal relationships with the customer</a>—ultimately enhancing your reputation. </span></li>
+<li><strong><span lang="EN" xml_lang="EN">Elasticity</span></strong><span lang="EN" xml_lang="EN">: Growth marketing is a scalable strategy. You can scale up or scale back your marketing efforts according to your cash flow instead of blindly spending money on big campaigns.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Unification: </span></strong><span lang="EN" xml_lang="EN">Growth marketing necessitates <a href="/blog/ws/2021/08/12/cross-functional-collaboration">cross-functional collaboration</a>. The marketing team is as involved as the product and sales team, customer support, and analytics team.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Achieve revenue targets</span></strong><span lang="EN" xml_lang="EN">: With the goal of sustainable progress, growth marketing focuses on agile goals to drive revenue. Rather than shooting in the dark, growth marketing seeks promising targets and works toward achieving them strategically.</span></li>
+</ul>
+<p>Now let&#8217;s walk through every stage of the growth marketing funnel and its key metrics.</p>
+<h2><strong>What is the AARRR framework?</strong></h2>
+<p><span lang="EN" xml_lang="EN">AARRR is one of the most popular frameworks for growth marketing. Also known as <em>the Pirate Funnel</em>, this framework divides your <a href="https://localiq.com/blog/small-business-growth-strategy/" target="_blank" rel="noopener">growth strategies</a> into five stages and assigns metrics to map this journey.</span></p>
+<ol>
+<li><strong>Acquisition: </strong>Turn viewers into leads and customers.</li>
+<li><strong>Activation:</strong> Create the aha moment where customers realize the true value of your business.</li>
+<li><strong>Retention:</strong> Keep customers coming back to purchase or staying subscribed.</li>
+<li><strong>Referral: </strong>Turn customers into brand advocates.</li>
+<li><strong>Revenue: </strong>Enhance customer lifetime value.</li>
+</ol>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-pirate-funnel.png" width="720" height="364" alt="the AARRR framework for growth marketing" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em><a href="https://www.slidesalad.com/product/aarrr-framework-pirate-metrics-powerpoint-template/" target="_blank" rel="noopener">Image source</a></em></p>
+<p>Let’s use this framework here to understand the best strategies and metrics for growth marketing.</p>
+<h2>Growth marketing strategy: AARRR acquisition stage</h2>
+<p>Your goal with the acquisition stage of growth marketing is to find the right leads and turn them into customers. It&#8217;s the process encompassed in the traditional AIDA model where you take people on the path from awareness to purchase.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-AARRR-framework-AIDA.jpeg" width="451" height="295" alt="AIDA model in growth marketing AARRR acquisition stage" typeof="foaf:Image" /></div>
+<p><a href="/blog/ws/2021/08/09/lower-customer-acquisition-cost">Customer acquisition costs</a> are constantly on the rise. If you want to scale your (bootstrapped) business, you have to build a cost-efficient acquisition strategy. Define your budget for this stage and explore multiple channels to create a set stage for acquiring customers. <a href="https://guruscoach.com/multichannel-marketing-statistics/" target="_blank" rel="noopener">51% of companies </a>use at least eight channels to interact with their customers.</p>
+<h3>Growth marketing strategies for acquisition</h3>
+<p>This aspect of growth marketing encompasses a number of marketing strategies and channels, but here are a few examples.</p>
+<p><strong>1. Content marketing</strong></p>
+<p>Create a <a href="/blog/ws/2021/07/13/content-marketing-strategy">lead-generating content marketing strategy</a> through blog posts, ebooks, online courses, videos, and more that inform, educate, and interest your audience. This demonstrates your expertise, authenticates your business, builds trust with your audience, and drives traffic to your website where you can convert them into leads and customers.</p>
+<p><strong>2. Create a community around your brand</strong></p>
+<p>Add value for your target audience by building a community around your specialty. For example, CRM brand <a href="https://www.pipedrive.com/">Pipedrive</a> has a<span lang="EN" xml_lang="EN"> knowledge hub dedicated to sales professionals with useful content and the means to share knowledge with their peers<span lang="EN" xml_lang="EN">.</span></span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-community-example.png" width="720" height="332" alt="pipedrive's community as an example of growth marketing acquisition strategy" typeof="foaf:Image" /></div>
+<p><strong>3. Create a free tool</strong></p>
+<p>Always address your target audience’s pain points. Offering them something they <em>need</em> will naturally increase their interest in your product or service. Build something useful—like Hubspot’s set of free tools ideal for different segments of its user base, or WordStream&#8217;s free Google Ads Performance Grader.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/post-pandemic-digital-marketing-stats-2021-google-ads-grader.png" width="720" height="372" alt="google ads grader" typeof="foaf:Image" /></div>
+<p class="text-align-center">(<a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AdWordsGrader_AWGrader"><em>Get your grade!</em></a>)</p>
+<p><strong>4. List your products on Product Hunt</strong><br />
+List your product on <a href="https://www.producthunt.com/">Product Hunt</a> to boost your visibility. <span lang="EN" xml_lang="EN">Optimize your listing with keywords, attractive and visual content, well-timed launches, and upvote invitations</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-product-hunt.png" width="720" height="322" alt="growth marketing strategy example with product hunt" typeof="foaf:Image" /></div>
+<p><strong>5. Build an automated LinkedIn lead generation machine</strong></p>
+<p><span lang="EN" xml_lang="EN">As a B2B brand, you can make <a href="/blog/ws/2019/10/07/linkedin-lead-generation">turn LinkedIn into a </a><a href="/blog/ws/2019/10/07/linkedin-lead-generation">lead generation machine </a>by <a href="/blog/ws/2021/08/19/linkedin-company-page-features-examples"><span lang="EN" xml_lang="EN">optimizing your company page</span></a>, <span lang="EN" xml_lang="EN">building a hyper-engaged network, c<span lang="EN" xml_lang="EN">reating value-packed content, and through targeted outreach. You can even build a <a href="https://www.sotrender.com/blog/2020/05/sales-pipeline-video-marketing/">sales pipeline through video nurture campaigns</a>.</span></span></span></p>
+<p><strong>6. Leverage YouTube ads</strong></p>
+<p><a href="/blog/ws/2012/11/27/youtube-advertising">Running ads on YouTube</a> is both affordable and effective. A top-notch promotional or <a href="/blog/ws/2014/03/13/explainer-videos">explainer </a><a href="/blog/ws/2014/03/13/explainer-videos">video</a> can reach a large audience and generate interest—like this one by <a href="https://www.youtube.com/watch?v=VRyi0_hDrxs" target="_blank" rel="noopener">Hello Fresh.</a></p>
+<p><strong>7. Exit-intent popups</strong></p>
+<p>Use <a href="https://www.poptin.com/blog/exit-intent-technology-can-grow-business/">exit intent popups</a> to elicit some action from the users.</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4d7.png" alt="📗" class="wp-smiley" style="height: 1em; max-height: 1em;" /><strong> Free Guide<a href="https://marketing.wordstream.com/WSLIQContentDLWebsite30BestWaysToPromote.html?cid=Web_Any_InContentTextLink_Marketing_The30BestWaysToPromoteYourBusiness_Download"> &gt;&gt; The 30 Best Ways to Promote Your Business</a></strong></div></div></span></p>
+<h3>AARRR metrics for acquisition stage</h3>
+<p><span lang="EN" xml_lang="EN">Since there are so many different strategies involved in acquisition, your metrics will depend on the platforms you use. </span></p>
+<ul>
+<li><span lang="EN" xml_lang="EN"><strong>Channel-specific metrics: </strong><a href="/blog/ws/2011/09/20/ppc-metrics-ultimate-guide">PPC metrics,</a> <a href="/blog/ws/2021/07/27/seo-metrics">SEO metrics</a>, social media metrics, email metrics, and more. An important metric is cost per acquisition (CPA) also known as cost per action or cost per conversion, which is how much it costs to acquire a lead. </span></li>
+<li><strong><span lang="EN" xml_lang="EN">Conversion rate: </span></strong><span lang="EN" xml_lang="EN">Test the conversion rate for different channels, including your website, landing page, social media, and emails. This metric compares the total number of conversions within a bigger pool of interactions.</span></li>
+<li><strong>Customer acquisition cost (CAC)</strong>: This metric measures the cost to acquire a customer. While CPA is a campaign-level metric, CAC is more of an overarching business-level metric that divides the total cost of all your marketing efforts (online and offline) by the total number of paying customers generated in a given time period.</li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/how-to-lower-customer-acquisition-cost-cac-vs-cpa_0-1.png" width="716" height="412" alt="customer acquisition cost vs cost per acquisition formulas" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em>Don&#8217;t confuse CAC with CPA!</em></p>
+<h2>Growth marketing strategy: AARRR activation stage</h2>
+<p>The activation stage is when customers using your product or service realize the true and unique <a href="https://localiq.com/blog/how-to-demonstrate-value-to-your-customers/" target="_blank" rel="noopener">value your business offers</a>. So it’s all about providing the best customer experience and integretating that “aha moment” into your customer’s journey.</p>
+<p>The fact that a customer is <a href="https://experiencematters.blog/category/roi-of-customer-experience/" target="_blank" rel="noopener">five times</a> more likely to purchase again from you has motivated companies to invest in customer experiences, ultimately fuelling the popularity of growth marketing.</p>
+<ul></ul>
+<h3>Growth marketing strategies for activation</h3>
+<p>What makes for the best customer experience? Personalization. <a href="https://us.epsilon.com/pressroom/new-epsilon-research-indicates-80-of-consumers-are-more-likely-to-make-a-purchase-when-brands-offer-personalized-experiences" target="_blank" rel="noopener">80%</a> of customers shop from brands that create personalized experiences for them.</p>
+<p><strong>8. Use personalization technology </strong></p>
+<p><a href="https://www.yieldify.com/free-guides/personalization-technology/">Personalization technology </a>enhances the customer experience, building loyalty, multiplying conversion rates, decreasing cart abandonment, and increasing average order value. Ecommerce brands can create a <a href="/blog/ws/2021/04/22/how-to-personalize-ecommerce-customer-journey">customized shopping experience </a>to suit the shoppers’ preferences, while <span lang="EN" xml_lang="EN">B2B brands can personalize their website based on behaviors and context with tools like <a href="https://hyperise.com/blog/website-personalization-your-guide-to-getting-started">Hyperise</a>.</span></p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-hyperise.png" width="650" height="431" alt="growth marketing examples: hyperpersonalized homepage" typeof="foaf:Image" /></div>
+<p>Another example of personalization technology is <a href="https://expandi.io/blog/advanced-linkedin-dynamic-personalization/">dynamic LinkedIn outreach personalization</a>, where you can send personalized messages and images to contact prospects and drive conversion rates.</p>
+<p><a href="/blog/ws/2021/08/05/b2b-marketing-automation-tactics">Head here for more ways to gain and retain clients through B2B marketing automation</a>.</p>
+<p><strong>9. Create hyper-personalized email campaigns</strong></p>
+<p>Along with your website and videos, you can also hyper-personalize your email campaigns to create more meaningful communication with your customers—from onboarding and <a href="/blog/ws/2017/08/18/welcome-email">welcome emails</a> to feature announcement and feedback emails.</p>
+<p><strong>10. Use chatbots and video chats</strong></p>
+<p>Customer support is one of the most important aspects of user experience. Automating the sales and support process allows you to optimize communication with your leads and customers. <a href="https://www.tidio.com/blog/how-to-create-a-chatbot-for-a-website/">Chatbots</a> and <a href="https://crisp.chat/en/livechat/video-chat/">video chat tools</a> are great options for doing so.</p>
+<p><strong>11. Conversion rate optimization</strong></p>
+<p><span lang="EN" xml_lang="EN">For both the acquisition and activation phases, <a href="/conversion-rate-optimization">conversion rate optimization</a> is key. By creating a conversion funnel based on the actions you want your website visitors to take, you can find dropoff points and identify ways to patch them up through segmentation and <a href="/blog/ws/2012/09/25/a-b-testing">A/B testing.</a> </span></p>
+<p><span lang="EN" xml_lang="EN">Using a data-driven approach, you can remove the guesswork about what your leads and customers like and create the best experience on your website, social media profiles, emails, landing pages, and more. </span></p>
+<h3>AARRR metrics for activation</h3>
+<p>Here are some metrics to help you formulate your &#8220;aha moment.&#8221;</p>
+<ul>
+<li><strong><span lang="EN" xml_lang="EN">Active users: </span></strong><span lang="EN" xml_lang="EN">The daily active user (DAU) count is crucial to determine user engagement. This metric allows you to see if users find utility in your product or service.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Abandonment rate: </span></strong><span lang="EN" xml_lang="EN">This metric looks at the percentage of users leaving before they complete the desired action. It gives you an insight into the stage where the users are leaving and helps you take the right mitigation measures.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Activation rate: </span></strong><span lang="EN" xml_lang="EN">This metric measures the pace at which new customers find the optimum value in your product or service. You have to define a particular action to deem a user &#8220;activated&#8221; when performing this action. The activation rate then calculates the number of users who performed this action against the total number of users who signed up.</span></li>
+</ul>
+<p><span lang="EN" xml_lang="EN">Your customers will become loyal customers only when they <a href="/blog/ws/2016/04/27/value-proposition-examples">find value in your product or service.</a> Keep an eye on whether they feel satisfied with your brand through these metrics. Evaluating this data will allow you to take timely action and reduce churn.</span></p>
+<h2>Growth marketing strategy: AARRR retention stage</h2>
+<p>The retention stage, as the name suggests, aims to <a href="/blog/ws/2016/01/04/client-retention-tips">retain your existing customers</a> by providing consistent value that in turn further strengthens customer loyalty and <a href="/blog/ws/2014/05/12/customer-churn">reduces churn rates.</a> It&#8217;s about proactively managing the customer experience.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-acquisition-vs-retention.jpg" width="636" height="302" alt="growth marketing strategy: acquisition vs retention" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em><a href="https://www.shopify.com/blog/customer-retention-strategies" target="_blank" rel="noopener">Image source</a></em></p>
+<h3>Growth marketing strategies for retention</h3>
+<p>The best way to retain customers is to engage with them consistently. From the moment they sign up to the moment they buy a product or take a premium subscription, send them helpful content, offers, and support to keep them engaged and taking action. Here are some of the <a href="https://www.wordstream.com/blog/ws/2022/03/09/customer-retention-strategies">best customer retention strategies</a> out there.</p>
+<p><strong>12. Send personalized email perks</strong></p>
+<p>Make the most of marketing automation with <a href="/blog/ws/2020/09/01/automated-email-marketing">email automation tools</a> like MailChimp to communicate with your customers and keep them returning to your website. Use these <a href="https://localiq.com/blog/small-business-email-examples-and-templates/" target="_blank" rel="noopener">free small business email templates</a> for help!</p>
+<div>style=&#8221;display: flex; justify-content: center;&#8221;<img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/email-marketing-tips-birthday-email-example.png" width="400" height="701" alt="birthday marketing email example by nike" typeof="foaf:Image" /></div>
+<p><strong>13. Run reenagement campaigns</strong></p>
+<p>According to <a href="https://blog.rjmetrics.com/2013/08/16/top-tips-to-decrease-your-churn-rate/" target="_blank" rel="noopener">RJMetrics</a>, a company with a 2.5% churn rate can become 50% larger in five years than a company with a 5% churn rate. That’s how big difference churn rates can make!</p>
+<p>Devise methods to reduce churn rates using targeted reengagenemt emails. Use behavioral segmentation to identify people who have gone dormant and send targeted emails to identify and solve their pain points. <a href="https://www.groovehq.com/" target="_blank" rel="noopener">Groove</a> did this and reduced their churn rate to 1.6%.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-reengagement-email.png" width="720" height="392" alt="growth marketing examples: reengagement emails" typeof="foaf:Image" /></div>
+<p class="text-align-center"><a href="https://cxl.com/blog/email-segmentation-examples/" target="_blank" rel="noopener">Image source</a></p>
+<p>Find these patterns for your business—understand user behavior at different points on your website or product using data. Evaluate this data to identify patterns of this behavior and arrive at reasons for your churn rate.</p>
+<p><strong>14. Run rewards promos and programs</strong></p>
+<p>A big part of customer retention is making them feel special. Reward your loyal customers and express gratitude by sending special discounts and offers, early access to sales, a freebie, thank you notes, or new products tailored to them. Give them reasons to feel special and feel closer to your brand.</p>
+<p>VIP and <a href="https://localiq.com/blog/how-to-run-customer-loyalty-programs/" target="_blank" rel="noopener">loyalty programs</a> incentivize users&#8217; loyalty and create exclusivity to build a stronger connection. <a href="https://www.sephora.com/profile/BeautyInsider">Sephora&#8217;s Beauty Insider</a> program is a perfect example of how brands retain customers through appreciation.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-vip-program-example.png" width="720" height="365" alt="growth marketing strategies: loyalty program example" typeof="foaf:Image" /></div>
+<p><strong>15. Build strong employee loyalty</strong></p>
+<p>Your customers can only be as happy as your employees. <a href="/blog/ws/2021/06/09/company-core-values">Create core company values</a> and cultivate a culture of freedom and happiness for your employees to strengthen their loyalty towards your company. Their feelings will naturally reflect in how they talk to your customers and ultimately drive retention rates.</p>
+<p><strong>16. Create a customer support knowledge base</strong></p>
+<p>In addition to providing blog articles and social media content that educate your audience and bring in leads, consider creating a learning hub for your product specifically, like Asana.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-asana-resources-example.png" width="700" height="575" alt="growth marketing examples: resource page to reduce churn" typeof="foaf:Image" /></div>
+<p><span lang="EN" xml_lang="EN">Building a knowledge base and <a href="https://eduardklein.com/best-online-course-platforms/" target="_blank" rel="noopener">hosting online courses</a> will allow you to:</span></p>
+<ul>
+<li><span lang="EN" xml_lang="EN">Establish credibility as a brand</span></li>
+<li><span lang="EN" xml_lang="EN">Onboard new customers with ease</span></li>
+<li><span lang="EN" xml_lang="EN">Troubleshoot any problems</span></li>
+<li><span lang="EN" xml_lang="EN">Enhance customer engagement and satisfaction</span></li>
+</ul>
+<h3>AARRR metrics for retention</h3>
+<p>By analyzing these metrics, you’ll be able to revise your retention strategies for better results and build a solid recurring client base for your business.</p>
+<ul>
+<li><strong><span lang="EN" xml_lang="EN">Customer retention rate (CRR): </span></strong><span lang="EN" xml_lang="EN">This metric shows how many customers actively use your product or service. It looks at the number of customers who remained with you by deducting the new acquisition in the concerned period.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Churn rate (for SaaS or app): </span></strong><span lang="EN" xml_lang="EN">The churn rate measures how many users have stopped using the product. Also known as the attrition rate, it measures the number of customers who have left the app in a given period.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Increased average order value: </span></strong><span lang="EN" xml_lang="EN">This metric allows you to measure how much customers buy more from you compared to baseline. An increase in the average order value means the customers are happy with your product and eager to buy more.  </span></li>
+<li><strong><span lang="EN" xml_lang="EN">Average customer lifespan: </span></strong><span lang="EN" xml_lang="EN">An average customer lifespan is the number of days between the customer’s first order date and last order date.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Reactivation rate: </span></strong><span lang="EN" xml_lang="EN">Reactivation is when you’re converting a churned client into an active one. This metric finds the number of churned customers who came back.</span></li>
+</ul>
+<p>Remember, retention is always cheaper than acquisition!</p>
+<h2><strong>Growth marketing strategy: Referral stage</strong></h2>
+<p>The referral stage is when you leverage your customers&#8217; loyalty for marketing your brand. It&#8217;s when customers love your product or service so much that they willingly recommend it to others.</p>
+<h3>Growth marketing strategies for the referral stage</h3>
+<p>Referral marketing is one of the best approaches out there, and there are different types of referral incentives:</p>
+<ul>
+<li>Referrer saves money</li>
+<li>Referrer helps a friend</li>
+<li>Referrer and friend both get something of value</li>
+<li>Referrer contributes to a social cause</li>
+</ul>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-referral-incentives.png" width="716" height="352" alt="growth marketing strategy: referral incentives" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em><a href="https://referralrock.com/hub/growth-marketing/viral-loop/" target="_blank" rel="noopener">Image source</a></em></p>
+<p>Here are some <a href="/blog/ws/2019/05/06/referral-marketing">referral marketing strategies</a> to try.</p>
+<p><strong>17. Create a referral program</strong></p>
+<p>The first step to make the most of the referral stage is to create your loyal customer base. When you have this loyal base ready, strategize a <a href="/blog/ws/2021/04/14/referral-program-ideas">referral program</a> to promote your products. <a href="https://italic.com/refer-a-friend" target="_blank" rel="noopener">Italic’s refer a friend program</a> of $30 credit helps to drive signups on their members-only shopping platform.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-referral-program-example.png" width="720" height="306" alt="growth marketing example: referral program" typeof="foaf:Image" /></div>
+<p>&nbsp;</p>
+<p><strong>18. Leverage early adopters as marketers</strong></p>
+<p>Some of your earliest users can act as the best marketers for your product or service. Your early adopters are the risk-takers who align themselves with your brand for its core values. Use their belief in your product or service to market the brand effectively and create awareness.</p>
+<p><strong>19. Leverage influencers</strong></p>
+<p><a href="/blog/ws/2015/02/26/influencer-marketing">Influencer marketing</a> is another great strategy for the referral stage. Connect with popular <a href="/blog/ws/2021/03/23/how-to-become-a-social-media-influencer">social media influencers</a> in your industry for collaboration and drive sign-ups and conversions through their audience.</p>
+<h3>AARRR metrics for referral stage</h3>
+<p><span lang="EN" xml_lang="EN">Referrals can be a game-changer for driving your business growth. Analyze these metrics consistently and build on the tactics detailed above to secure the profits of referral marketing. </span></p>
+<ul>
+<li><strong><span lang="EN" xml_lang="EN">Customer referrals: </span></strong><span lang="EN" xml_lang="EN">This metric measures how many clients are willingly referring your brand to others. It gives you insight into your customers’ satisfaction levels.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Customer reviews:</span></strong><span lang="EN" xml_lang="EN"> Social proof is the key to driving referrals and conversions. <a href="/blog/ws/2020/07/16/how-to-ask-for-reviews">Ask for reviews,</a> follow these tips to <a href="/blog/ws/2020/09/16/get-more-google-reviews">get more Google reviews,</a> and then analyze them to gauge your customer satisfaction.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Influencer recommendations: </span></strong><span lang="EN" xml_lang="EN">Measure how many influencers are open to recommending your brand or are organically recommending it on social media.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Net promoter score (NPS): </span></strong><span lang="EN" xml_lang="EN">This score measures customer satisfaction based on an array of factors like customer support, pricing, usability, performance, and overall experience</span></li>
+</ul>
+<p><span lang="EN" xml_lang="EN">Turn your loyal customers into brand ambassadors and position influencers to <a href="/blog/ws/2020/07/29/how-to-promote-a-product">promote your product or service</a>. </span></p>
+<h2>Growth marketing strategy: AARRR revenue stage</h2>
+<p>The last stage is about the revenue you can generate from all your marketing efforts. It seeks to enhance <a href="/blog/ws/2019/01/10/cac-vs-clv">customer lifetime value</a> by delivering better experiences, increasing average order value, and enhancing retention rates.</p>
+<p>The rule of thumb for boosting revenue is to triple your customer lifetime value against the acquisition costs.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/growth-marketing-strategies-customer-lifetime-value.png" width="720" height="354" alt="growth marketing metrics: customer lifetime value" typeof="foaf:Image" /></div>
+<p class="text-align-center"><em><a href="https://www.qualtrics.com/au/experience-management/customer/customer-lifetime-value/?rid=ip&amp;prevsite=en&amp;newsite=au&amp;geo=IN&amp;geomatch=au" target="_blank" rel="noopener">Image source</a></em></p>
+<h3>Growth marketing strategies for revenue</h3>
+<p>A lot of the strategies for enhancing customer lifetime value are built into the previous stages of the growth marketing framework. But here are some:</p>
+<p><strong>20. Focus on repeat customers</strong></p>
+<p>Look at your analytics and identify the repeat customers to improve their experience. The better brand loyalty you establish, the more revenue you can generate.</p>
+<p><strong>21. Promote “eyecatcher” products</strong></p>
+<p>Promote entry-level products that work well with additional products. In doing so, you can <a href="/blog/ws/2021/02/11/call-to-action-examples-for-email-newsletter-signups">increase signups</a> and sell more products later, ultimately increasing the customer revenue.</p>
+<p><strong>22. Hone your pricing strategy</strong></p>
+<p>You might try a <a href="/blog/ws/2021/08/03/price-increase-letter-examples">price increase</a>. If you have strong customer loyalty towards your product, they are likely willing to pay a substantial price for the same.</p>
+<h3>AARRR metrics for revenue</h3>
+<p>Your business growth ultimately lies in the revenue you secure. So, measure these metrics to check the revenue you earn and lose with every customer. These metrics are particularly crucial for subscription-based business models.</p>
+<ul>
+<li><strong><span lang="EN" xml_lang="EN">Customer lifetime value (<a href="/blog/ws/2019/01/10/cac-vs-clv">CLV</a>): </span></strong><span lang="EN" xml_lang="EN">This metric is crucial to determine the overall customer experience. It measures the value of a customer for your company over the period of their relationship (see average customer lifespan).</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Average revenue per user (ARPU): </span></strong><span lang="EN" xml_lang="EN">This metric gives you an idea of the revenue you’re generating from each user in a specific duration. It divides revenue generated in a period by the number of average users in that period.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Annual recurring revenue (ARR): </span></strong><span lang="EN" xml_lang="EN">This metric is for subscription products or services. It evaluates the revenue generated every year for a subscription.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Monthly recurring revenue (MRR): </span></strong><span lang="EN" xml_lang="EN">This metric measures the predicted income from subscriptions sold in a month.</span></li>
+<li><strong><span lang="EN" xml_lang="EN">Revenue churn: </span></strong><span lang="EN" xml_lang="EN">This metric looks at the revenue lost in a given period. It calculates the MRR lost in a month and deducts the total price of upgrades or additional services bought in the month.  </span></li>
+</ul>
+<p>Keep a check on these numbers to fuel revenue-driven growth for your business.</p>
+<h2>The real definition of growth marketing (recap)</h2>
+<p><span lang="EN" xml_lang="EN">Growth marketing is more than just a buzzword for growing businesses. It&#8217;s a well-devised plan for sustainable progress and taking your business to greater heights. We&#8217;ve covered a lot, so let&#8217;s recap:</span></p>
+<ul>
+<li>Growth marketing is a strategy-based, data-driven approach to achieving sustainable success and improving revenue.</li>
+<li>Growth hacking seeks to reach short-term goals or solve a business problem, with rapid experimentation and iteration to produce a solution or product.</li>
+<li>Growth marketing seeks to achieve dominance in the market over time, with a framework of carefully devised strategies that use automation to tailor to customers&#8217; needs and scale.</li>
+<li>Benefits of growth marketing include better decisions through data, improved brand perception, scalability, cross-functional collaboration, and higher revenue.</li>
+<li><span lang="EN" xml_lang="EN">AARRR is one of the most popular frameworks for growth marketing and includes acquisition, activation, retention, referral, and revenue.</span></li>
+<li><span lang="EN" xml_lang="EN">Growth marketing strategies and metrics span across the entire lifetime of the customer, not just the campaigns used to acquire them.</span></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing">What Growth Marketing Really Means (+22 Strategies to Do It Right)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="35px" viewBox="0 0 36 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Agency-V3" transform="translate(-1093, -8694)" stroke-width="2.13333333">
+            <g id="Regular" transform="translate(1095, 8696)">
+                <rect id="Rectangle-path" stroke="#3A56BC" x="0" y="6.2" width="32" height="24.8" rx="4.26666667"></rect>
+                <path d="M21.3333333,5.16666667 C21.3333333,2.31319546 18.9455187,0 16,0 C13.0544813,0 10.6666667,2.31319546 10.6666667,5.16666667 L10.6666667,6.2 L21.3333333,6.2 L21.3333333,5.16666667 Z" id="Shape" stroke="#3A56BC"></path>
+                <ellipse id="Oval" stroke="#FFAF24" cx="10.6666667" cy="18.6" rx="4.26666667" ry="4.13333333"></ellipse>
+                <polyline id="Shape" stroke="#FFAF24" points="14.9333333 18.6 25.6 18.6 25.6 21.7"></polyline>
+                <line x1="21.3333333" y1="18.6" x2="21.3333333" y2="20.6666667" id="Shape" stroke="#FFAF24"></line>
+                <line x1="8.53333333" y1="6.2" x2="8.53333333" y2="10.3333333" id="Shape" stroke="#3A56BC"></line>
+                <line x1="8.53333333" y1="31" x2="8.53333333" y2="26.8666667" id="Shape" stroke="#3A56BC"></line>
+                <line x1="23.4666667" y1="6.2" x2="23.4666667" y2="12.4" id="Shape" stroke="#3A56BC"></line>
+                <line x1="23.4666667" y1="31" x2="23.4666667" y2="26.8666667" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

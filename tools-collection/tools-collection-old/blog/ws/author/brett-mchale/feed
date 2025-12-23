@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brett McHale, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/brett-mchale/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 15 Oct 2025 18:55:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Brett McHale, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>11 Tips to Lower Your Customer Acquisition Cost (CAC)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost#respond</comments>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost</guid>
+
+					<description><![CDATA[<p>Try these 11 tips to improve conversions throughout your funnel, get the most out of your spend, and lower customer acquisition costs.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost">11 Tips to Lower Your Customer Acquisition Cost (CAC)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It is quite clear, regardless of network, that the digital space has become a competitive one for businesses. Every company on the internet is vying for the attention of the same users (in one way or another), making effective marketing to your target customer more and more difficult. On top of that, the average costs of pay per click ads are increasing.</p>
+<p>It’s important to make sure your systems and processes for acquiring new customers via these spaces are cost-effective. Aside from running or maintaining perfectly crafted paid media campaigns, there are a variety of methods you can use to lower your customer acquisition costs, or at least make that figure maintainable and scalable over time.</p>
+<p>So in this post, I’m going to cover what you need to know about customer acquisition cost and 11 ways to lower it.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#customer-acquisition-definition">What is customer acquisition?</a></li>
+<li><a href="#cac-vs-cpa">Customer acquisition cost vs. cost per acquisition</a></li>
+<li><a href="#lower-customer-acquisition-cost">How to lower your customer acquisition costs</a></li>
+</ul>
+<div id="customer-acquisition-definition"></div>
+<h2>What is customer acquisition?</h2>
+<p>Just as it sounds, it means the acquisition of paying customers to your business. However, it does not refer just to that one action of clicking “purchase” or signing a contract. It encompasses the full path from <a href="/blog/ws/2017/04/04/nurture-marketing">prospect to paying customer</a>.</p>
+<p>For some businesses (ecommerce in particular), that path may be short in duration with few stops along the way. For others with a <a href="/blog/ws/2015/01/26/sales-cycle">longer sales cycle</a>, it could be weeks, months, or even years.</p>
+<p>Regardless, a customer acquisition strategy aims to ensure that every step in the journey to becoming a customer is as seamless as it can be, allowing you the highest possible conversion rates.</p>
+<p>Building out and understanding your business’s funnel is one of the most difficult things for any marketer to undertake, particularly when you don’t have the data to support your decisions. We&#8217;ll get into that later, but I&#8217;d like to also review the difference between CAC and CPA.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Looking for ways to get more leads for your business (for free)?</strong> We&#8217;ve got you covered &gt;&gt; <a href="https://www.wordstream.com/resources/free-leads?cid=Web_WS_InContent_Guide_howtogetfreeleads_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">14 Fast &amp; Easy Ways to Get Free Leads (+Examples You Can Copy)</a></p>
+<div id="cac-vs-cpa"></div>
+<h2>Customer acquisition cost vs. cost per acquisition</h2>
+<p>One thing we need to make clear is that customer acquisition cost (CAC) is not the same as cost per acquisition (CPA).</p>
+<h3>What is customer acquisition cost (CAC)?</h3>
+<p>You <a href="/blog/ws/2019/01/10/cac-vs-clv">calculate your customer acquisition cost </a>by dividing your overall advertising spend by the number of new customers you received as a result. CAC is the most important metric when running direct-response advertising campaigns, but in many cases, it is used for measuring the success of your marketing at a business level, as opposed to a campaign level.</p>
+<div style="text-align: center;"><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-formula.png" width="720" height="432" alt="how to lower your customer acquisition cost—CAC formula" typeof="foaf:Image" class="aligncenter" /></div>
+<p class="text-align-center" style="text-align: center;"><a href="https://clevertap.com/blog/customer-acquisition-cost/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h3>What is cost per acquisition (CPA)?</h3>
+<p>Cost per acquisition, on the other hand, is more of a campaign-level metric. CPA is simply the cost to acquire a lead (so, anyone <strong><em>but</em></strong> a paying customer), whether through a content download, free trial, demo request, or any other submission of contact information with intent.</p>
+<p>In the grand scheme of things, CPA is important but the conversion rate throughout the funnel is more so. Let’s say for example, you are driving leads for a sales demo or consultation. Although this lead type may be considered very low-funnel, there may be a large discrepancy between how many leads convert on this action and how many of them become paying customers.</p>
+<p>Depending on the nature of your business and sales operations, you may be able to sacrifice a higher CPA if the conversion to customer and return on ad spend is high. This becomes a crucial factor when competing with other businesses for valuable ad real estate.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/08/customer-acquisition-cost-vs-cost-per-acquisition.webp" alt="customer acquisition cost vs cost per acquisition" width="900" height="598" class="aligncenter size-full wp-image-94968" srcset="https://www.wordstream.com/wp-content/uploads/2021/08/customer-acquisition-cost-vs-cost-per-acquisition.webp 900w, https://www.wordstream.com/wp-content/uploads/2021/08/customer-acquisition-cost-vs-cost-per-acquisition-480x319.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></div>
+<p>As stated previously, if you are <a href="/blog/ws/2019/12/18/ecommerce-marketing-strategies">running ads for ecommerce</a> then the difference between CAC and CPA may be minimal as you can <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">instantaneously see whether your ads are making you money</a>.</p>
+<p>The first action a user takes could very well be to go to your online store and make a purchase.</p>
+<div id="lower-customer-acquisition-cost"></div>
+<h2>How to lower your customer acquisition costs</h2>
+<p>In this section, I will run through 11 tips and tactics to help you lower your customer acquisition costs, or at the very least, begin to think about how to improve the overall efficiency of your marketing funnel.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Speaking of lowering costs&#8230;</strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">use our Free (and instant!) Google Ads Performance Grader</a> to find out how you can do this with your search and display ads.</p>
+<h3>1. Have tracking in place</h3>
+<p>I cannot stress enough how absolutely critical it is to have accurate tracking in place. From ad click to website visit, to lead, to customer, you need to know which traffic is coming from which channel and ideally, which campaign.</p>
+<p>Don’t just send users aimlessly to a landing page without setting up <a href="https://www.wordstream.com/blog/ws/2021/05/24/google-ads-conversion-tracking">conversion tracking</a> within each platform first. That&#8217;s where you will be able to get the baseline CPAs and <a href="/blog/ws/2020/08/24/google-ads-optimization">make optimizations within the campaigns themselves. </a></p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-CAC-conversion-tracking.jpeg" width="720" height="226" alt="how to lower your customer acquisition cost—conversion tracking setup screen" typeof="foaf:Image" class="aligncenter" /></div>
+<p>Whether you use individual landing pages or forms specific to the channel you are advertising on, or create UTM parameters, it is essential to be able to tie performance to specific campaigns. And be sure to <a href="https://www.wordstream.com/blog/ws/2019/09/25/conversion-value">set up conversion values</a> so you can connect paid advertising spend directly to leads within your pipeline.</p>
+<h3>2. Set a baseline</h3>
+<p>Given the vast differences between businesses and sales cycles, it may take some time to arrive at your CAC. If leads come into your pipeline but take months to convert to customers, it may look like you are in the red for some time.</p>
+<p>This is why determining the baseline conversion rates for your promotions, channels, and platforms is crucial. Once you understand the <a href="/blog/ws/2019/08/19/conversion-rate-benchmarks">average conversion rates </a>throughout your funnel you can begin to accurately predict the CAC.</p>
+<h3>3. Align your ads accordingly</h3>
+<p>Yes, leads acquired through a demo request are much more likely to convert into a paying customers than those acquired through a content download. But an ad promoting a free trial for a project management platform is not going to perform well for users simply looking for project management tips or templates. In this instance, it would make more sense to promote a free guide or template. You can then create retargeting ads for incrementally lower-funnel offers based on who’s engaging with each preceding ad.</p>
+<p>The point is, some businesses think they can target prospects with <a href="/blog/ws/2021/06/15/lead-magnet-ideas">bottom-funnel promotions</a> entirely and drive scalable, profitable returns. Although this can work for some, most will find their conversion rates plummet and customer acquisition cost (CAC) skyrocket. Keep your customer acquisition cost low by spending on offers most likely to convert at each stage of the funnel.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/how-to-lower-customer-acquisition-cost-offers-for-each-stage-of-funnel.png" width="720" height="410" alt="how to lower customer acquisition cost—offers at each stage of funnel" typeof="foaf:Image" class="aligncenter" /></div>
+<p class="text-align-center" style="text-align: center;"><a href="https://www.poweredbysearch.com/blog/connecting-content-marketing-to-buying-process/" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<p>For tips on doing this through Facebook ads, check out these <a href="https://www.wordstream.com/blog/ws/2019/07/22/facebook-sales-funnel">5 Steps to a Conversion-Driven Facebook Ads Sales Funnel</a>.</p>
+<h3>4. Have a clear path to conversion</h3>
+<p>I could have named this section “optimize your funnel” but doing so would oversimplify the point I am trying to make. The greater framework of the marketing funnel comprises the minor components of<a href="/blog/ws/2020/10/13/sales-promotion-examples"> promotions or offers</a>.</p>
+<p>In addition to making sure your offers align with your users&#8217; stage in the funnel, you should also make sure your subsequent offers align with the path they&#8217;re most likely to take. For example, the top of your funnel may contain content downloads, however, you may have several different pieces of content. It’s important to strategize that content and align it with the target audience, their needs, and ensure there is a direct path to sales from that conversion.</p>
+<p>And then, be sure to strategize your subsequent offers. Leads that download guide A might be interested in  a different retargeted ad offer than leads that downloaded guide B, or who used your free tool.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-incremental-offers.png" width="720" height="461" alt="how to lower customer acquisition cost—top of funnel vs middle of funnel ad" typeof="foaf:Image" class="aligncenter" /></div>
+<p>Create somewhat gradual, but clear, paths to conversion based on your sales cycle and the offer that acquired the lead. This way, you can avoid drop-offs in conversion rate from lead to sales. For example, a content download loosely associated with your product or service will need several more mini conversions before they convert to a customer. You want to strategize every layer of your marketing funnel to align perfectly with directing the prospect towards sales, at the right pace.</p>
+<h3>5. Use landing pages</h3>
+<p>Now, there are ways to<a href="https://www.wordstream.com/blog/ws/2015/08/10/increase-conversion-rates"> increase conversion rates without touching a single landing page</a>, but this is not supposed to be your entire strategy.</p>
+<p>I still see many folks not using them. In other words, they create ad campaigns that send individuals directly to their website in hopes that prospects will convert there. Even if you have a <a href="https://www.wordstream.com/blog/ws/2016/10/20/site-conversions-problems">conversion-optimized website</a>, I advise against this because there are too many options on your website that can (and will) distract the user from converting on the action you are targeting with your ad.</p>
+<p>Create landing pages specific to the offers in your ads so that the only CTA on that landing page is the action you want them to take. And here you can include important details in your <a href="https://www.wordstream.com/blog/ws/2016/08/02/landing-page-copywriting">landing page copy</a> to address any hesitations, convey your value proposition, and get more conversions.</p>
+<h3>6. Optimize your website and landing page experience</h3>
+<p>One of the most common discussions for decades at this point is the website experience. Books, articles, videos, and webinars have all discussed the important roles your website plays in the grand scheme of converting prospects into customers.</p>
+<p>First, there needs to be complete continuity between your ad and landing page (learn more in our <a href="/blog/ws/2015/09/02/landing-page-tips-and-tricks">landing page tips</a>). The copy and imagery should look and feel the same and communicate the exact same message.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/how-to-lower-customer-acquisition-cost-ad-landing-page-continuity.png" width="720" height="318" alt="example of continuity between ad and landing page" typeof="foaf:Image" class="aligncenter" /></div>
+<p>There should be no dissonance between these two components. The ad should align perfectly with the page that users are being directed to. This is one of the easiest ways to <a href="/blog/ws/2018/09/11/get-more-conversions">increase conversion rates </a>and lower your customer acquisition cost.</p>
+<p>As far as web speed goes, you should ensure your website does not take too long to load and is easily navigable. Regardless of whether you are using a landing page that is hosted on something like HubSpot or Unbounce, many individuals will want to browse your primary site before <a href="/blog/ws/2021/04/23/influence-buyers-marketing-psychology">making any purchasing decision</a>. You can<a href="/blog/ws/2019/10/22/google-page-speed"> learn how to optimize your page speed here</a>.</p>
+<h3>7. Get into the weeds of conversion data</h3>
+<p>Whether it&#8217;s through looking at Google Analytics data or the conversion information provided within the advertising platforms, it is important to understand as much as you can about the conversions taking place, such as:</p>
+<ul>
+<li>What time of day</li>
+<li>Which day of the week</li>
+<li>Which devices</li>
+</ul>
+<p>If you find that most of your leads convert through the time window of 9AM to 5PM Monday through Friday, <a href="/blog/ws/2021/05/13/how-to-set-up-ad-scheduling">schedule your ads</a> to only run at those times to get the most out of your ad spend and lower your CAC.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/how-to-lower-customer-acquistion-cost-conversion-action-data.png" width="720" height="286" alt="how to lower customer acquisition cost—conversion action data view" typeof="foaf:Image" class="aligncenter" /></div>
+<p>If you see that desktop users are costlier to acquire but are much higher in quality, then you should allow yourself to spend more to acquire these users and eliminate or separate mobile users entirely.</p>
+<p>Get into the weeds on your conversion data so you can spend more only where and when you need to instead of increasing costs overall and wasting spend.</p>
+<h3>8. Check your placement settings</h3>
+<p>There are multiple layers to an<a href="https://www.wordstream.com/blog/ws/2018/04/18/underused-ppc-strategies"> effective paid ad strategy</a> that could warrant several blog posts, but a lot can be achieved just by paying attention to the details of how your campaigns are set up. The first detaili to check is, on the Facebook or YouTube side of things, the placements you are targeting. For example, many businesses will run <a href="/blog/ws/2018/03/14/direct-response-marketing">direct response campaigns</a> while having the setting for “automatic placements” enabled at the ad set level:</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-placement-settings.png" width="600" height="440" alt="how to lower customer acquisition cost—check placement settings" typeof="foaf:Image" class="aligncenter" /></div>
+<p>This will automatically include the “Audience Network” which will serve your Facebook ads across various app properties.</p>
+<p>In my experience, the Audience Network has historically driven very low-quality clicks and few, if not any, conversions. Although Facebook’s algorithm is engineered to deliver the most results for a chosen goal as possible, oftentimes there will be a good amount of wasted spend on the Audience Network placement.</p>
+<p>You can check to see if you&#8217;re wasting spend with our <strong><a href="/facebook-advertising">free Facebook Ads Performance Grader</a></strong>.</p>
+<h3>9. Check your location settings</h3>
+<p>Another good example of campaign settings that can influence CAC is the <a href="/blog/ws/2021/07/07/google-ads-geotargeting">location targeting in Google Ads</a>. When going through your search campaign’s setting you will notice a section for locations:</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-location-settings.png" width="720" height="401" alt="how to lower CAC—location targeting view in Google Ads" typeof="foaf:Image" class="aligncenter" /></div>
+<p>If your business needs to serve ads to individuals within a specific location, expand the locations tab and select “people in or regularly in” your target area, and make exclusions as needed.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-costs-location-options.png" width="720" height="383" alt="how to lower CAC—geotargeting settings in google ads" typeof="foaf:Image" class="aligncenter" /></div>
+<p>Many times, some of the smallest details within the <a href="/blog/ws/2013/08/07/how-to-set-up-google-adwords-account">setup of a paid advertising campaign</a> can have the biggest impact on the <a href="/blog/ws/2019/04/08/lead-quality">quality of leads</a> that you drive through it—and ultimately, your CAC.</p>
+<h3>10. Use bidding strategies</h3>
+<p>The last component of paid advertising that can impact your customer acquisition cost is your bid strategy. Leveraging <a href="https://www.wordstream.com/blog/google-ads-automated-bidding">bid strategies</a> (within Google and Bing at least) can greatly improve your base CPA and subsequently your CAC. With campaigns that have had enough conversion data, I have found Target CPA bidding as an effective strategy for maintaining average costs for paid search campaigns.</p>
+<div style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/lower-customer-acquisition-cost-bid-strategies.png" width="500" height="202" alt="how to lower CAC—bid settings in google ads" typeof="foaf:Image" class="aligncenter" /></div>
+<p>Of course, there are many factors and layers to the funnel deeper than the costs at the top but you should take advantage of any way you can improve these metrics. Take into consideration the audience (or keyword) and funnel/promotion when making decisions on how competitive you should be.</p>
+<h3>11. Create great content</h3>
+<p>You can’t escape it. Marketing success always comes down to content. The guides and collateral you produce, their landing page copy, the <a href="https://www.wordstream.com/blog/ws/2016/03/14/ppc-ad-copywriting">ad copy </a>that promotes them (and other non-content offers). If you want to lower your customer acquisition costs, you’ve got to <a href="/blog/ws/2021/07/06/how-to-write-copy-that-sells">write copy that sells</a>.</p>
+<h2>How to lower your customer acquisition cost [recap]</h2>
+<p>As you can see, for businesses with a longer sales cycle, lowering customer acquisition cost (CAC) requires <a href="https://www.wordstream.com/blog/ws/2019/01/22/conversion-rate-optimizations">i</a>ncreasing conversions and lowering the cost of those conversions (CPA) throughout your entire funnel. In this post, we&#8217;ve provided 11 ways to do that:</p>
+<ol>
+<li>Have tracking in place</li>
+<li>Set a baseline</li>
+<li>Align your ads accordingly</li>
+<li>Have a clear path to conversion</li>
+<li>Use landing pages</li>
+<li>Optimize your website and landing page experience</li>
+<li>Get into the weeds of conversion data</li>
+<li>Check your placement settings</li>
+<li>Check your geotargeting settings</li>
+<li>Use bidding strategies</li>
+<li>Write great content</li>
+</ol>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost">11 Tips to Lower Your Customer Acquisition Cost (CAC)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/08/09/lower-customer-acquisition-cost/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 AI Marketing Trends to Watch in 2025 (+How They&#8217;ll Impact You)</title>
+		<link>https://www.wordstream.com/blog/ai-marketing-trends-2025</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 12:30:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=88572</guid>
+
+					<description><![CDATA[<p>What's going to be big in the world of AI this year? One expert breaks down the trends you need to know.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ai-marketing-trends-2025">5 AI Marketing Trends to Watch in 2025 (+How They&#8217;ll Impact You)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It’s become increasingly difficult to traverse any digital landscape without being inundated with either the topic of AI or an image, video, or content created with its assistance. As expected, AI has ingratiated itself within the fabric of life and business with nearly every tech company imaginable releasing an AI tool, feature, or product.</p>
+<p>2024 was a big year for the mass adoption and integration of artificial intelligence for marketing professionals. Within the major ad platforms themselves we saw AI become readily available in nearly every aspect of campaign creation with AI: targeting, recommended ad copy variations, optimizations, and more. So where do we go from here? What direction can we expect AI marketing to take in 2025?</p>
+<p>In this article, I will walk through my top five AI marketing trends for the new year and a few others I&#8217;m tracking.</p>
+<h3>Contents</h3>
+<ol>
+<li><a href="#ai-hyper-personalization">Hyper-personalization will happen at scale</a></li>
+<li><a href="#ai-powered-content-creation">AI-powered content creation will mature</a></li>
+<li><a href="#predictive-analytics">Predictive analytics will become non-negotiable</a></li>
+<li><a href="#ai-optimized-campaigns">AI-optimized ad campaigns will become the norm</a></li>
+<li><a href="#cookieless-targeting-ai-segmentation">Cookieless targeting and AI-driven audience segmentation will grow</a></li>
+<li><a href="#more-ai-marketing-trends">More AI marketing trends to keep an eye on</a></li>
+</ol>
+<h2>The top 5 AI marketing trends for 2025</h2>
+<p>Let’s dive deeper into each one and what it means for your business.</p>
+<div id="ai-hyper-personalization"></div>
+<h3>1. Hyper-personalization will happen at scale</h3>
+<p>AI models are becoming more powerful by the day, processing vast amounts of data (for a multitude of reasons), particularly <a href="https://www.wordstream.com/blog/ws/2017/08/28/behavioral-segmentation">consumer behavior patterns</a>. Tools like Dynamic Yield and Adobe Target are enabling marketers to make real-time adjustments to their customers&#8217; (and potential customers&#8217;) experiences.</p>
+<p>Tools like Dynamic Yield allow you to learn about your visitors, what they like, what they click on, and how they behave. They can then customize the customer experience in real-time.</p>
+<p>For example, imagine you’re running an online clothing store. Dynamic Yield notices one visitor has been browsing jackets. The next time they visit, the homepage automatically shows them the newest jackets on sale. For someone else who loves shoes, the homepage highlights shoes instead. This technology has been used on platforms like <a href="https://www.wordstream.com/blog/ws/2023/08/15/meta-ads-vs-google-ads">Meta Ads</a> for a long time now and is incredibly effective, applying this same logic to a website or <a href="https://www.wordstream.com/blog/ws/great-landing-pages">landing pages</a> while utilizing AI is a game changer for businesses.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/01/ai-marketing-trends-hyperpersonalization-example-jcrew.webp" alt="example of hyper-personalized website using ai marketing trend from jcrew" width="501" height="597" class="aligncenter size-full wp-image-88580" srcset="https://www.wordstream.com/wp-content/uploads/2025/01/ai-marketing-trends-hyperpersonalization-example-jcrew.webp 501w, https://www.wordstream.com/wp-content/uploads/2025/01/ai-marketing-trends-hyperpersonalization-example-jcrew-480x572.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 501px, 100vw" /></p>
+<p>Tools and apps like Adobe Target are like digital experiment labs for marketers. They help you <a href="https://www.wordstream.com/blog/ab-testing-examples">A/B test</a> and determine what works best on your website or app for different types of users.</p>
+<p>For example, you want to decide which headline for your website is better: “Shop Our Latest Winter Collection” or “Get Cozy: Winter Styles are Here!” Adobe Target lets you show different headlines to different groups of people and tells you which one gets more clicks or sales. Again, this technology has existed for some time, however, with the usage of AI much of the manual labor is removed from the process (see more <a href="https://www.wordstream.com/blog/facebook-ad-trends-2025">social media trends</a> here).</p>
+<h4>The bottom line</h4>
+<p>Both of these technologies have been made available on platforms like Meta and <a href="https://www.wordstream.com/blog/google-ads-trends-2025">Google Ads</a> enabling <a href="https://www.wordstream.com/blog/ws/2023/07/10/dynamic-search-ads">dynamic headlines</a> and creative, AI-generated suggestions, dynamic remarketing, etc.</p>
+<p>All of these advancements in testing and <a href="https://www.wordstream.com/blog/personalized-marketing">personalization</a> have had massive impacts on performance and success of digital marketing campaigns. Applying that logic to your business website and you can have an entirely personalized experience for users from start to finish. AI can and is <a href="https://www.wordstream.com/blog/conversion-rate-optimization-marketing">improving conversion rates</a> throughout the marketing funnel.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to learn how AI can supercharge your ads strategy?</strong> Free guide &gt;&gt; <a href="https://www.wordstream.com/resources/ai-advertising?cid=Web_WS_InContent_Guide_AIAdvertising_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links">9 Powerful Ways to Use AI in Google &amp; Facebook Ads</a></p>
+<div id="ai-powered-content-creation"></div>
+<h3>2. AI-powered content creation will mature</h3>
+<p>This one is a little bit more controversial, but I do believe it will persist, evolve, and be the inevitable future of how we distribute and consume <a href="https://www.wordstream.com/blog/content-marketing-trends-2025">marketing content</a>. When I say “AI-powered content creation,” that involves using <a href="https://www.wordstream.com/blog/ai-copywriting-tools">artificial intelligence tools</a> to generate written, visual, and even audio content for marketing campaigns.</p>
+<p>Over the past couple of years, my stance has been that AI-powered content creation is ideally used as an assistant to what you’re trying to accomplish rather than something you can rely on to do all of the work for you. Although I do still feel this way, I will admit that AI tools like <a href="https://www.wordstream.com/blog/ws/2023/06/21/chatgpt-impact-on-marketing">ChatGPT</a>, Jasper, Canva AI, and Runway ML have become smarter, faster, and increasingly indistinguishable from human-made work.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/01/AI-in-marketing-wordstream-semrush-common-adjectives-1-1024x660.webp" alt="AI in marketing - list of weird analogies." /></p>
+<p style="text-align: center;"><em>Our senior copywriter Rob Glover <a href="https://www.wordstream.com/blog/ai-uses-in-marketing">tested</a> AI tool Claude to generate analogies he could incorporate into content.</em></p>
+<p>Generative AI is expanding beyond test, enabling marketers to <a href="https://www.wordstream.com/blog/best-ai-photo-generators">create videos, music, 3D visuals, and interactive content effortlessly</a>. This is huge for creating new assets (no matter what the medium) because of how time-consuming and difficult these processes can be. With AI tools, marketers can create marketing materials much faster and launch new campaigns with ease.</p>
+<h4>The bottom line</h4>
+<p>I still believe that there should be considerable human oversight on what is produced and what the finished product looks like. I believe AI can do much of the heavy lifting but a talented marketer with great judgement can fine-tune the <a href="https://www.wordstream.com/blog/ws/2023/09/05/chatgpt-seo">AI generated content</a> to ensure that it is of great quality and fits the business aesthetic, tone, and desired perception.</p>
+<div id="predictive-analytics"></div>
+<h3>3. Predictive analytics will become non-negotiable</h3>
+<p>Predictive analytics uses AI and machine learning to analyze historical data and make predictions about future outcomes. This ability helps marketers anticipate customer behavior and <a href="https://localiq.com/why-localiq/" target="_blank" rel="noopener">allocate budgets effectively</a>. This has been increasingly used on paid media platforms like Meta Ads and Google Ads to “maximize” the results that you are looking for.</p>
+<p>In Meta Ads for example, if you have a campaign looking to <a href="https://www.wordstream.com/blog/ai-lead-generation">maximize leads</a> for the highest volume and lowest cost possible, that campaign will scour your target audience identifying users within it that are “likely” to complete the action. It is scary how effective this technology has become.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-lookalike-audience.webp" alt="facebook ad targeting - custom audience size" width="707" height="614" class="aligncenter size-full wp-image-87474" srcset="https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-lookalike-audience.webp 707w, https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-lookalike-audience-480x417.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 707px, 100vw" /></p>
+<p>The same can be applied to nearly every business and marketing operation: predicting customer behavior, improved campaign targeting, churn prevention, dynamic pricing models, optimizing media spend, and so on.</p>
+<h4>The bottom line</h4>
+<p>Predictive analytics has become less of a “trend” and way more of a necessity to remain competitive. I believe this type of AI application will permeate nearly every aspect of business. It is the logical evolution of the “big data” craze that overtook the 2010’s.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f916.png" alt="🤖" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to use AI the right way?</strong> Free download &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteAIinMarketingGuide.html?cid=Web_Any_BlogInContent_PPC_AIMarketing_Download">Emergency Guide to AI in Marketing</a></p>
+<div id="ai-optimized-campaigns"></div>
+<h3>4. AI-optimized ad campaigns will become the norm</h3>
+<p>I can’t emphasize enough how automated paid marketing has become. Platforms like Meta and Google (and everyone else) have been applying AI to the PPC management for years now. With massive strides in bidding and conversion optimization to start, paid platforms have introduce far more AI into nearly every component of managing an account.</p>
+<p>Campaign types like <a href="https://www.wordstream.com/blog/google-ads-performance-max-pre-launch-optimizations">Performance Max</a> and <a href="https://www.wordstream.com/blog/meta-advantage-vs-manual-settings">Advantage+</a> have simplified the process of creating and launching campaigns for users of varying knowledge and expertise. Targeting, and creative elements now are increasingly supported by AI to help you build a campaign and get it off the ground in less time than ever, allowing for continuous testing along the way to further optimize and refine your efforts.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-meta-advantage-plus-sources.webp" alt="facebook ad targeting - meta advantage plus audience" width="732" height="469" class="aligncenter size-full wp-image-87463" srcset="https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-meta-advantage-plus-sources.webp 732w, https://www.wordstream.com/wp-content/uploads/2024/11/facebook-ad-targeting-meta-advantage-plus-sources-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 732px, 100vw" /></p>
+<h4>The bottom line</h4>
+<p>I have been very vocal about the drawbacks of this level of AI incursion into paid media. My general feelings are although it can be extremely beneficial in some areas and reduce the time required to perform many tasks, it also removes much of the autonomy and transparency into how your campaigns are serving and how certain optimization decisions are being made.</p>
+<p>With the obvious elephant in the room being that these companies take your money to run ads on their platforms, it’s no wonder why I have my reservations about their motivations for removing clarity into the system. I believe this trend will persist and paid marketing professionals will lose the ability to fine-tune things over the next year.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Are your Google Ads campaigns missing the mark?</strong> Find out with a free, instant audit &gt;&gt; <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a></p>
+<div id="cookieless-targeting-ai-segmentation"></div>
+<h3>5. Cookieless targeting and AI-driven audience segmentation will grow in importance</h3>
+<p>With privacy regulations tightening on major browsers like Chrome phasing out cookies, marketers are turning to <a href="https://www.wordstream.com/blog/ws/2021/04/12/first-party-data">first-party data</a> and AI-powered <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models">audience segmentation</a> to effectively reach their target audience. If you’ve had to deal with things like the historic iOS14 update years ago, you’re well aware that the cookies have gone stale for a while now.</p>
+<p>Laws like GDPR, CCPA, and new global privacy initiative have made third-party data collection more difficult. Add consumers desiring more transparency and control over how their data is used and you have the inevitable death of third-party cookies. In its place, you have first-party and AI-driven data collection with tools like HubSpot, Segment, and Klaviyo to help manage the data effectively.</p>
+<p>Marketers can then use platforms like Meta or Google Ads to either remarket to or generate <a href="https://www.wordstream.com/facebook-lookalike-audiences">lookalike audiences</a> based on first-party data. AI analyzes patterns like shopping habits, preferred communication channels, and engagement trends without using cookies. It does this by combining first-party data with other data sources such as demographic or geographic information and has the ability to adjust audiences on the fly based on new data or changes in customer behavior.</p>
+<h4>The bottom line</h4>
+<p>I believe this transition was always inevitable as the next evolution of acquiring and utilizing user data. First-party data and AI enrichment and application of that data can help balance the legal and social issues that cookies endured throughout their time in our digital lives. 2025 will see more of this transition with new tools to help businesses understand more about their customers behavior.</p>
+<div id="more-ai-marketing-trends"></div>
+<h2>More AI marketing trends to keep an eye on in 2025</h2>
+<p>Here are a few more AI marketing trends I think should be on your radar this year.</p>
+<ul>
+<li><strong>Voice search and conversational AI will be on the rise: </strong>Voice search is becoming more integrated into daily life, optimizing for voice-driven queries will become crucial.</li>
+<li><strong>People will talk about ethical AI transparency in marketing:</strong> Consumers are becoming more aware of how their data is being used. <a href="https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai" target="_blank" rel="noopener">Ethical AI practices</a> will become an increasingly larger topic over the next 12 months.</li>
+<li><strong>AI-driven visual search will gain traction:</strong> Visual search is gaining traction, allowing consumers to find products by uploading or taking photos.
+<ul>
+<li>Retailers are using AI-powered visual search to improve product discoverability.</li>
+<li>Google Lens and Pinterest Lens are becoming integral to shopping experiences.</li>
+</ul>
+</li>
+<li><strong>AI will be used for influencer marketing:</strong> AI is now helping brands identify the perfect influencers for their campaigns.
+<ul>
+<li>Businesses are analyzing audience overlap and engagement metrics to find influencers with maximum ROI.</li>
+<li><a href="https://www.wordstream.com/blog/ai-tools-for-marketing-agency">AI tools</a> can help predict campaign outcomes with specific influencers.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul></ul>
+</li>
+</ul>
+<h2>What do these AI marketing trends mean for 2025?</h2>
+<p>I believe the integration of <a href="https://www.wordstream.com/blog/ai-uses-in-marketing">AI into marketing</a> has reached a critical tipping point. What was once considered “cutting-edge” is now becoming necessary for staying competitive. The AI marketing trends that I have outlined are not just innovations, they are shaping the very foundation of how businesses connect with their target audiences.</p>
+<p>As we move through 2025, marketers must embrace AI as an essential tool, not just for efficiency but for delivering meaningful, personalized experiences at scale. However, it’s important to retain as much oversight over whichever AI you use or plan on using.</p>
+<p><strong>Although 2025 will be a year of increased AI, it has never been more important for each of us to ensure that marketing doesn’t lose it’s human-touch.</strong> There is a balance between automation and human creativity. If we forfeit the latter than what does that say about all of us?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ai-marketing-trends-2025">5 AI Marketing Trends to Watch in 2025 (+How They&#8217;ll Impact You)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meta Advantage+ vs. Manual Setup: Which Is Better?</title>
+		<link>https://www.wordstream.com/blog/meta-advantage-vs-manual-settings</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2024 14:15:32 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=87418</guid>
+
+					<description><![CDATA[<p>Should you take advantage of Meta Advantage+ and let AI rule your campaigns or stick with manual set up? Find out which is best for your business.</p>
+<p>The post <a href="https://www.wordstream.com/blog/meta-advantage-vs-manual-settings">Meta Advantage+ vs. Manual Setup: Which Is Better?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When it comes to Facebook advertising, AI is nothing new. Meta has been using AI for some time now. But with Meta Advantage+, it’s putting more focus on AI-driven campaigns. Meta has been not only encouraging users to adopt these AI features into their advertising strategies but also making it extremely difficult not to use these features and to set up campaigns and ad sets the old-fashioned way.</p>
+<p>So the question is, do Advantage+ settings work better than a manually created campaign by a marketing expert? What exactly is this “AI” that we’re being told is the next big thing? In this article, I will answer these questions and more.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-meta-advantage">What is Meta Advantage+?</a></li>
+<li><a href="#how-to-use-meta-advantage">Using Meta Advantage+: A case study</a></li>
+<li><a href="#meta-advantage">Meta Advantage+ vs. manual setup: Which is better?</a></li>
+<li><a href="#meta-advantage-tips">Final thoughts: The current state of Meta Advantage+</a></li>
+</ul>
+<div id="what-is-meta-advantage"></div>
+<h2>What is Meta Advantage+?</h2>
+<p>The Meta Advantage+ suite is the core of all<a href="https://www.wordstream.com/blog/ws/2022/05/03/how-to-advertise-on-facebook" target="_blank" rel="noopener"> Facebook ads</a> AI capabilities. Meta Advantage+ tools and features are AI-powered solutions designed to execute specific Facebook ad campaign strategies and tactics more efficiently. I wrote about the <a href="https://www.wordstream.com/blog/meta-advantage-plus" target="_blank" rel="noopener">pros and cons of using Meta Advantage+ here</a>.</p>
+<p>The largest takeaway, from my perspective, is that you are handing over the keys to your paid advertising to a machine-learning tool with limited visibility into how that thing really works. The results my clients have experienced from these new AI-driven tools have been less than stellar. Allow me to elaborate in the next section.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Could using Meta Advantage+ help or hurt your business&#8217;s Facebook ad account?</strong> Find out, and see how your current strategy is working with our free <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader" target="_blank" rel="noopener">Facebook Ads Grader</a>!</p>
+<div id="how-to-use-meta-advantage"></div>
+<h2>Using Meta Advantage+: A case study</h2>
+<p>I have a client who drives a lot of business through <a href="https://www.wordstream.com/blog/ws/2023/08/15/meta-ads-vs-google-ads" target="_blank" rel="noopener">Meta Ads</a> and is always looking for ways in which we can expand and continue to scale. The option to begin incorporating Advantage+ campaign settings was an obvious next step as the entire platform is actively encouraging you to use these features.</p>
+<p>Instead of using the typical <a href="https://www.wordstream.com/blog/facebook-ad-targeting" target="_blank" rel="noopener">Facebook ad targeting options</a> such as lookalike audiences or manually targeted interests and behaviors, we figured perhaps AI could identify users that were just like our customers better than we (or these antiquated methods) could.</p>
+<p>First of all, if you are creating a new campaign in Meta Ads and you select this option, you will not be able to edit specific placements.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-campaign-settings.webp" alt="meta advantage+ - meta advantage recommended campaign settings screenshot" width="900" height="615" class="aligncenter wp-image-87649 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-campaign-settings.webp 900w, https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-campaign-settings-480x328.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p>However, if you do choose this option for a new campaign, you are saddled with all of the shiny Advantage+ features Meta has to offer. My client and I chose this option for the sake of experimentation and to determine if Advantage+ features were responsible for higher unqualified rates. The results? 130 unqualified leads within less than a week.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-cost-example.webp" alt="meta advantage+ - example of cost per result for facebook ads" width="900" height="232" class="aligncenter wp-image-87648 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-cost-example.webp 900w, https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-cost-example-480x124.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<p style="text-align: center;"><em>But, hey, $8.48 per junk lead is not bad in this economy!</em></p>
+<p>In all seriousness, let’s break down this test. We launched this campaign under “recommended” settings and defined our general targeting parameters like we always do: age, gender, location, etc. Now with Advantage+ audiences, you provide inputs to the system that essentially gives the <a href="https://www.wordstream.com/blog/ws/2023/06/28/ai-for-marketing" target="_blank" rel="noopener">AI (machine learning)</a> guidance on who to target. If you are familiar with <a href="https://www.wordstream.com/blog/ws/2022/07/05/performance-max-tips" target="_blank" rel="noopener">Google’s Performance Max campaign type</a> this works in a very similar way.</p>
+<p>We did this test with one audience that contained interest and behavioral audience inputs:</p>
+<p>This is the audience that we were able to acquire 130 unqualified leads from. Now we also tried one with custom audience inputs of a customer list. This resulted in another two leads which were unqualified and thrown out. For context, both of these Advantage+ audiences we constructed had a plethora of exclusions to assist the machine learning in identifying who we wanted to go after.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-parameters.webp" alt="meta advantage+ - example advantage audience settings" width="655" height="600" class="aligncenter wp-image-87647 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-parameters.webp 655w, https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-parameters-480x440.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 655px, 100vw" /></p>
+<p>After these initial results, I decided that perhaps the inclusion of the audience network led to the influx of unqualified leads coming through. For the second attempt, I recreated the campaign and made the settings “manual” to remove that placement. From there, I attempted to construct the Advantage+ audience again. We ran this campaign for the remainder of the month, and it drove another 12 leads, two of which had been qualified as sales opportunities. This seemed like progress at first, until we discovered through conversations with the sales team that neither of the two leads showed up to the scheduled demo. Plus, another lead reached out directly saying that he was getting the client’s ads all throughout Facebook and Instagram but that he accidentally submitted and he was not their target audience.</p>
+<p>So we gave Meta’s AI several inputs that should have allowed it to find the correct people that are a good fit for the product and services that we are selling. But it didn’t. Not only did it fail to construct an audience comparable to that of just a basic <a href="https://www.wordstream.com/facebook-lookalike-audiences">lookalike audience</a>, it wasn’t even close. For whatever reason the “AI” seems to flood our system with fake and junk leads every time we attempt to use Advantage+ settings. But why?</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2753.png" alt="❓" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Not sure how to gauge your manual or Meta Advantage+ campaign performance?</strong> Compare your current metrics, like cost per lead, cost per click, and more to averages in your industry using our latest <a href="https://www.wordstream.com/resources/facebook-benchmarks?cid=Web_WS_InContent_Guide_FBAdsBenchmarks2024_Download" target="_blank" rel="noopener">Facebook Ads Benchmarks report</a>!</p>
+<div id="meta-advantage"></div>
+<h2>Meta Advantage+ vs. manual setup: Which is better?</h2>
+<p>Meta’s Advantage+ is essentially a black box. We don’t know how or why it is making decisions, but we do know that it has the goal of <a href="https://www.wordstream.com/blog/lead-generation-ideas">driving leads</a> (or clicks, whichever your intended goal is) at the highest volume for the lowest cost.</p>
+<p>Now this isn’t entirely different than how automated bidding works in both Google and Meta, however, the difference is that you specified that audience and then the machine learning works within the audience that you created or specified managing the bidding aspect and which people in the audience to serve ads to and when.</p>
+<h3>When manual setup is better</h3>
+<p>With something like Advantage+, the machine learning is making the decision on <strong>who</strong> to target in all of Meta’s database of users and is using your suggestions to guide it but it doesn’t understand (the way a human would) the subtle nuances that define an audience and make them a qualified lead or customer.</p>
+<p>My takeaway is that, on their own, the current state of these Meta Advantage+ products is not ready to be serviceable to businesses with complex marketing and <a href="https://localiq.com/blog/sales-funnel-template/" target="_blank" rel="noopener">sales funnels</a>—unless the user can directly interact with it and give it more prompts like “these leads are unqualified, this is what would make them better, etc.”</p>
+<p>As of right now, there is just too much complexity to businesses who have<a href="https://www.wordstream.com/blog/marketing-funnel" target="_blank" rel="noopener"> marketing funnels</a> or nuanced products and services for Advantage+ to work as effectively as other methods.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-options.webp" alt="meta advantage+ - example of opting in or out of advantage audiences" width="900" height="396" class="aligncenter wp-image-87646 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-options.webp 900w, https://www.wordstream.com/wp-content/uploads/2024/12/meta-advantage-audience-options-480x211.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h3>When Meta Advantage+ might be better</h3>
+<p>What I have found Advantage+ to be very good at is targeting options for ecommerce businesses. This makes a lot of sense though—sales-oriented businesses are looking for people within a demographic that have particular buying behaviors. The AI can predict this much better than someone who is going to talk to sales after submitting a form. The buying process is much simpler and straightforward.</p>
+<div id="meta-advantage-tips"></div>
+<h2>Final thoughts: The current state of Meta Advantage+</h2>
+<p>I do believe that AI products in marketing will reach a point where they will be the better alternative but it’s just not there yet. This is why it concerns me that companies like Meta and Google are essentially forcing you to use them by making it increasingly difficult to <strong>not</strong> use them. This could be to allow these systems to learn and improve, or it could be due to overconfidence in their effectiveness for everyone.</p>
+<p>If their marketing product is the easiest to use and you can just let an AI take over, perhaps they believe more people will advertise.</p>
+<p>One thing is for certain though, there is much less visibility into how everything is working even for the most experienced marketer using the platform. This means that Google and Meta (and others) can spend your advertising dollars for you and not really own up to how that is being spent. My advice, for now, is that if you’re a business with any complexity at all to how your marketing or sales funnel is built, switch back to the original audience options and thank me later.</p>
+<p>You don&#8217;t have to navigate platform developments like Meta Advantage+ all alone! See how <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">our solutions</a> <span data-teams="true"> can help you use AI the right way to reach your marketing goals.</span></p>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/meta-advantage-vs-manual-settings">Meta Advantage+ vs. Manual Setup: Which Is Better?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Pros &#038; Cons of Meta Advantage+</title>
+		<link>https://www.wordstream.com/blog/meta-advantage-plus</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2024 12:30:58 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=84696</guid>
+
+					<description><![CDATA[<p>Is Meta Advantage+ right for your Facebook ad campaigns? This expert weighs the pros and cons.</p>
+<p>The post <a href="https://www.wordstream.com/blog/meta-advantage-plus">The Pros &#038; Cons of Meta Advantage+</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Over the past few years, machine learning has overtaken the largest digital paid advertising platforms including Google, Meta, and LinkedIn. These tools and settings promise to give advertisers the cutting edge in <a href="https://www.wordstream.com/blog/meta-advantage-plusundefined">targeting</a> and optimization capabilities.</p>
+<p>Meta’s recent response in the AI battlefield has been to roll out a variety of campaign and ad set settings under the name Advantage+. If you have been managing ads within Meta Ads over the past year, it is a guarantee that you have been pushed heavily towards adopting these settings. What is Advantage+? Will you get better results from it? Or is all of this an elaborate way to bloat performance? In this article, I’ll answer all of these questions and more.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#meta-advantage-plus">What is Meta Advantage+?</a></li>
+<li><a href="#meta-advantage-plus-benefits">Pros of using Advantage+</a></li>
+<li><a href="#meta-advantage-plus-cons">Cons of using Advantage+</a></li>
+<li><a href="#what-does-meta-advantage-plus-mean">What does Meta Advantage+ mean for the future of Facebook Ads?</a></li>
+</ul>
+<div id="meta-advantage-plus"></div>
+<h2>What is Meta Advantage+?</h2>
+<p>In 2022, Meta announced their “Advantage Suite,” as a response to the impact of <a href="https://www.wordstream.com/blog/ws/2021/01/20/ios-14-update-facebook-ads" target="_blank" rel="noopener">Apple’s iOS 14 privacy update</a>. Originally, Meta Advantage+ was focused on shopping campaigns, using machine learning to help ecommerce advertisers streamline campaign construction and performance optimization. Over time, “Advantage+” settings have been rolled out across all campaign types.</p>
+<p>This is similar to Google&#8217;s Performance Max (PMAX) campaign type they rolled out in November 2021. <a href="https://www.wordstream.com/blog/ws/2023/01/23/optimize-performance-max-campaigns" target="_blank" rel="noopener">Performance Max (PMAX)</a> allows advertisers to access all of Google Ads inventory from a single campaign and drive more conversions using AI across “bidding, budget optimization, audiences, creatives, amongst others.&#8221; The language used by Meta shows a clear intention of using AI to streamline campaign management in a nearly identical manner to Performance Max, making it seem less of a response to IOS 14 and more of a response to the market.</p>
+<p>Here is a list provided by Meta of all places where Advantage+ tools can be applied:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/07/meta-advantage-plus-screenshot.webp" alt="meta advantage+ - where you can use advantage plus in meta and facebook ads" width="391" height="600" class="aligncenter wp-image-84702 size-full" /></p>
+<p>There is a very clear motive here to make advertising with Meta as hands-off as possible.<a href="https://www.wordstream.com/blog/ws/2023/06/28/ai-for-marketing" target="_blank" rel="noopener"> Relying on AI</a> to carry a large portion of the workload around campaign creation and optimization. For novice advertisers, this seems like a pretty good selling point for trying out the platform. For more seasoned professionals, the economic incentive of the platform is a little bit murky.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Uncover ways to grow your business on the Meta platform</strong>, regardless of your niche market, with our free guide to the <a href="https://marketing.localiq.com/WSLIQContentDLWebsite16FBAdsStrategies.html?cid=Web_WS_InContent_Guide_16FacebookStrategies_Download" target="_blank" rel="noopener">16 Most Effective Strategies for Facebook Ads</a>!</p>
+<div id="meta-advantage-plus-benefits"></div>
+<h2>Pros of using Meta Advantage+</h2>
+<p>Here are some of the benefits of Meta Advantage+.</p>
+<h3>1. Ease of use</h3>
+<p>Advantage+ campaigns and settings can be very useful for a number of reasons, but most importantly it simplifies the process of getting started quickly on the platform. Very much like PMax within Google, Advantage+ takes a lot of the detailed work out of constructing campaigns and <a href="https://www.wordstream.com/blog/meta-advantage-vs-manual-settings">crafting audiences manually</a> to match your target persona. If you decide to try Advatage+ campaign settings, you will essentially be tasked with providing Meta with audience inputs. So for example, you can construct an ad set that tells Meta “find me similar users to those within these audiences,” as you can see below.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/07/meta-advantage-audience.webp" alt="meta advantage+ - audience targeting screenshot" width="726" height="587" class="aligncenter wp-image-84700 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/07/meta-advantage-audience.webp 726w, https://www.wordstream.com/wp-content/uploads/2024/07/meta-advantage-audience-480x388.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 726px, 100vw" /></p>
+<p>The simplicity here is the selling point, as you will be handing the heavy lifting over to the AI side of Meta’s advertising platform. This can allow a novice user to get started and live with ads within a day or so given that they have something to promote with creative and copy assets ready to go.</p>
+<h3>2. For ecommerce businesses, Advantage+ has shown promising results</h3>
+<p>Through my experience, I have found these campaign types to be more successful with ecommerce businesses as I believe the AI is more adept at identifying <a href="https://www.wordstream.com/blog/ws/2023/07/25/buyer-persona-examples">user buying behavior</a> (or propensity to purchase) over something like their likelihood of submitting a form to schedule a sales call. This also aligns with my experience using Performance Max with Google where the current state of <a href="https://www.wordstream.com/blog/ai-copywriting-tools">AI tools</a> within advertising appear to have direct purchases more ironed out than that of a longer more complex marketing funnel.</p>
+<h3>3. Advantage+ simplifies your account structure</h3>
+<p>Along with the simplicity aspect, having everything in one centralized ad set eliminates the cumbersome exercise of having a complex <a href="https://www.wordstream.com/blog/ws/2017/08/30/facebook-ads-account-structure">account structure</a>. You could have a few campaigns with different goals and only have to manage one ad set within each. This would allow novice advertisers to have budgets optimized at the campaign level. Everything would be very straightforward and predictable from a <a href="https://www.wordstream.com/blog/facebook-ads-benchmarks-2024" target="_blank" rel="noopener">Facebook ad cost perspective</a>.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2753.png" alt="❓" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Would Meta Advantage+ give your campaigns the boost they need</strong>, or are your Facebook ads already outperforming the competition? Find out with our free <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader" target="_blank" rel="noopener">Facebook Ads Grader</a>!</p>
+<div id="meta-advantage-plus-cons"></div>
+<h2>Cons of using Advantage+</h2>
+<p>Wondering why a business wouldn&#8217;t want to try Meta Advantage+? Here are a few drawbacks.</p>
+<h3>1. You could accidentally opt into Advantage+</h3>
+<p>As an experienced user of the platform, I have found many issues with Advantage+ that tend to align with the direction of paid media as a whole. The biggest issue is that with any new products released by major advertising platforms, you go from being politely recommended adoption to being essentially forced to use them.</p>
+<p>Over the past year and change, we have gone from having Advantage+ as a “neat” little option to try out, to being forced to work overtime removing it from all new campaigns created to ensure that it is not enabled in any way. This is a huge issue considering I don’t believe the product is as air-tight as they market it to be. As mentioned above, I have seen it work relatively well for ecommerce businesses, but for everyone else, it has been far from an efficient alternative to what was already there.</p>
+<p>Even if you choose to create your campaign the traditional way, Meta tries very hard at every step to force you to adopt Advantage+ settings. For example, here is the flow for creating a new campaign:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/07/how-to-set-up-facebook-ads-advantage-campaign.webp" alt="how to set up meta ads advantage+ campaign screenshot" width="782" height="600" class="aligncenter wp-image-84703 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/07/how-to-set-up-facebook-ads-advantage-campaign.webp 782w, https://www.wordstream.com/wp-content/uploads/2024/07/how-to-set-up-facebook-ads-advantage-campaign-480x368.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 782px, 100vw" /></p>
+<p>Let&#8217;s say that you select a manual leads campaign and then go forward with creating that. Meta will automatically encourage you to use Advantage+ by default:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/07/meta-advantage-plus-audience-and-placements.webp" alt="meta ads advantage+ - advantage plus audience and placements in facebook ads" width="866" height="600" class="aligncenter wp-image-84704 size-full" /></p>
+<p>To create a campaign the traditional way you have to revert these settings. Something as simple as removing the Audience network (something I have done for a number of years) takes extra effort. Additionally, there is an audience expansion setting that is automatically selected every time you create a new Ad Set:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/07/facebook-ads-advantage-lookalike-audience-screenshot.webp" alt="meta advantage+ - automatic facebook ads advantage plus audience selection" width="900" height="171" class="aligncenter wp-image-84701 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/07/facebook-ads-advantage-lookalike-audience-screenshot.webp 900w, https://www.wordstream.com/wp-content/uploads/2024/07/facebook-ads-advantage-lookalike-audience-screenshot-480x91.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h3>2. Lead quality can be questionable</h3>
+<p>The checkbox in the above image can be easy to miss, and I have had it cause problems for larger clients of mine. For example, I have a client who runs sales demo ads for B2B, and this setting was enabled on a new ad set. With a high level of spend, within the next week or so the database was flooded with junk leads, most of which appeared to be bots. When this setting was removed, the quality returned to normal. Meta had no explanation for this, and the client was given an ad credit.</p>
+<p>This leads me to the greatest con of Advantage+, the <strong>quality</strong>. My experience outside of ecommerce clients has been nothing but low-quality results that look good on the surface, but when those leads are looked at more closely there is an overwhelming amount of junk.</p>
+<h3>3. Lack of visibility and manual control</h3>
+<p>The other con I have found is the <strong>lack of visibility</strong>, as an experienced user. For those just getting started, it may be alluring to allow the platform to decide who to show ads to. However, for someone like myself who has been working professionally in the space for a long time, I know better than to trust these platforms to target with the precision that I know is best for the client. Many of these Advantage+ audiences likely have an excess of bloat (with questionable bot activity) to potentially pad the statistics being reported.</p>
+<p>Coming from a background of direct results and a strict focus on <a href="https://www.wordstream.com/blog/lead-quality">lead quality</a>, these campaign settings are the opposite of what I’m looking for. It’s a general trend on all platforms to remove this visibility and direct control from the advertiser and replace it with their own “just trust us” attitude while each of the conglomerates&#8217; primary goal is increased revenue.</p>
+<div id="what-does-meta-advantage-plus-mean"></div>
+<h2>What Meta Advantage+ means for the future of Meta Ads</h2>
+<p>If my clients can drive an abundance of sales and<a href="https://www.wordstream.com/blog/lead-generation-ideas" target="_blank" rel="noopener"> all of the qualified leads they can</a> for a reasonable advertising cost, I truly don’t mind if Meta&#8217;s Advantage+ AI is figuring everything out in the shadows.</p>
+<p>Meta’s Advantage+ is yet another step in the direction of automation and simplification, catering primarily to newer advertisers who might benefit from a more hands-off approach. However, the drawbacks for seasoned professionals are hard to ignore.</p>
+<p>The promise of AI-driven optimization is alluring, but as with any tool, it’s crucial to weigh the pros and cons based on your specific needs and expertise. For those who value precision, control, and quality, the current state of Advantage+ leaves much to be desired. Ultimately, it’s up to each advertiser to decide whether these new tools serve their objectives or if they’re just another step toward relinquishing too much control to the platforms themselves.</p>
+<p>One very important point that I would like to make clear is that <strong>machine learning takes time</strong>. That’s the point of this type of technology—it “learns” over time. Many Advantage+ campaigns may improve over time and, eventually, outperform standard campaign settings.</p>
+<p>If you&#8217;re looking for more support with navigating AI in Facebook ads and beyond, see how <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">our solutions</a> can help you maximize your campaign success and stay ahead of major platform changes!</p>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/meta-advantage-plus">The Pros &#038; Cons of Meta Advantage+</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The 5 Biggest Google Ads Trends for 2024 (+6 Predictions)</title>
+		<link>https://www.wordstream.com/blog/google-ads-trends-2024</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Tue, 02 Jan 2024 12:30:44 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=79044</guid>
+
+					<description><![CDATA[<p>What's going to be big in Google Ads this year? One PPC expert shares his biggest predictions...</p>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-trends-2024">The 5 Biggest Google Ads Trends for 2024 (+6 Predictions)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google Ads is constantly evolving. Over the last year, advertisers have gotten access to more AI tools, lost some attribution models, and seen countless updates across the platform.</p>
+<p>As we enter a new year, I’ve put together some Google Ads trends and predictions I think advertisers need to know to continue seeing success and keeping up with the constant changes.</p>
+<p>Here are the top Google Ads trends I predict will be big in 2024:</p>
+<ol>
+<li><a href="#google-ads-ai-powered-features">Google Ads will release more AI-powered features</a></li>
+<li><a href="#automation-smart-bidding-more-popular">Automation and smart bidding will become more popular</a></li>
+<li><a href="#more-emphasis-on-broad-match">More emphasis on broad match</a></li>
+<li><a href="#video-advertising-increase">Video advertising will grow</a></li>
+<li><a href="#search-will-be-more-visual">Search will take on a more visual experience</a></li>
+</ol>
+<p>Plus, I’m sharing <a href="#more-google-ads-trends">six more Google Ads and PPC predictions</a> to watch for.</p>
+<h2>5 biggest Google Ads trends for 2024</h2>
+<p>Here are what I predict will be the biggest Google Ads trends you need to know this year.</p>
+<div id="google-ads-ai-powered-features"></div>
+<h3>1. Google Ads will release more AI-powered features</h3>
+<p>AI and machine learning tools have already started redefining the way we run paid search campaigns. This year promises even more sophisticated automated bid strategies, advanced audience targeting, and semi-autonomous ad creation. Additionally, with <a href="https://cloud.google.com/learn/what-is-predictive-analytics#:~:text=Predictive%20analytics%20is%20the%20process,that%20might%20predict%20future%20behavior." target="_blank" rel="noopener">predictive analytics</a>, advertisers can foresee consumer behavior, optimizing campaigns for “better results.&#8221;</p>
+<p>Advanced automated bid strategies have already been a massive change to Google’s formerly very manual process of adjusting bids and fine-tuning results. I expect that to continue to evolve now with Google Analytics 4 (GA4) and Google’s focus on the <a href="https://www.wordstream.com/blog/ws/2023/11/06/google-ads-attribution-models">data-driven attribution model</a>.</p>
+<p>With that, we can also expect the following <a href="https://www.wordstream.com/blog/ws/2023/12/04/google-ads-ai">AI-powered features in Google Ads</a>:</p>
+<h4>Semi-autonomous ad creation</h4>
+<p>Google is very keen on encouraging advertisers to use their <a href="https://www.wordstream.com/blog/ws/2022/04/20/performance-max-pros-cons">Performance Max</a> (PMAX) campaign type. If you are unfamiliar, Performance Aax allows advertisers to access all of Google’s ad inventory (YouTube, Search, Discover, Gmail, and Maps) from a single campaign.</p>
+<p>In PMAX, ads are created through inputs. Text assets can currently be created through advertiser inputs with the quick development of AI-generated imagery I would expect to see that become a feature in the not-so-distant future. For years marketers had to manually test everything associated with a campaign. AI removes that heavy lifting by being able to test multiple <a href="https://www.wordstream.com/blog/ws/2022/04/05/responsive-search-ad-copy">ad copy</a> variations, suggest keyword inclusions based on search trends, and even optimize visual elements in an ad for maximum engagement.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-performance-max-assets.jpg" alt="google marketing live - 2023 performance max asset creation" width="850" height="489" class="aligncenter size-full wp-image-72223" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-performance-max-assets.jpg 850w, https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-performance-max-assets-480x276.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Worried you&#8217;re wasting spend in Google Ads? Find out with a free, instant audit &gt;&gt; <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a></p>
+<h4>Enhanced audience targeting</h4>
+<p>Advertising platforms have already begun to incorporate AI into the process of <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models">audience segmentation</a>. Facebook in particular has rolled out its “Advantage+” audience, essentially handing the keys to <a href="https://www.wordstream.com/blog/ai-copywriting-tools">artificial intelligence</a> to find the right segmentation for you.</p>
+<p>I anticipate Google will be doubling down on this as well with Performance Max and the broadening of <a href="https://www.wordstream.com/keyword-match-types">keyword match types</a>. By analyzing users&#8217; search histories, site interactions, and even social media behaviors, AI-driven platforms can predict user intent with impressive accuracy. This means ads can be displayed to users who are <a href="https://www.wordstream.com/blog/ws/2023/09/11/increase-conversion-rates">more likely to convert</a>, similar to how the automated bid strategies work now, just taking that concept to the next technological level.</p>
+<h4>Predictive analytics in campaign optimization</h4>
+<p>Rather than merely reacting to past data, AI could enable proactive <a href="https://www.wordstream.com/adwords-management">campaign management</a> using predictive analytics. By evaluating past campaign performances and current market trends, AI could forecast potential pitfalls or opportunities in future campaigns.</p>
+<p>This means marketers can <a href="https://www.wordstream.com/blog/ws/2023/07/20/google-ads-for-lead-generation">adjust their strategies</a> in anticipation, rather than in reaction. There are elements of this already present in current advertising platforms, but not to the extent that I believe it will be. I anticipate that we will be hearing more buzz around the concept of predictive analytics than we already currently are shortly.</p>
+<h4>Continuous learning and improvement</h4>
+<p>The true power of AI lies in its ability to learn continuously. Machine learning models refine themselves with every piece of data they encounter. In the context of paid search, this means that AI-powered tools become more attuned to an advertiser&#8217;s goals and the target audience&#8217;s nuances over time. We already have seen this trajectory with PMAX and smart bidding. I would expect advertisers to experience more advancements and promotions on the Google side regarding this feature.</p>
+<p>The blend of AI and paid search heralds a future where campaigns are smarter, more responsive, and, importantly, more effective. While AI will handle much of the heavy analytical lifting, the role of the marketer will shift to more strategic decision-making, creative endeavors, and leveraging AI&#8217;s insights for maximum impact.</p>
+<div style="display: flex; flex-direction: column; align-items: center; align-content: space-evenly; border-top: 1px solid #000; border-bottom: 1px solid #000; flex-wrap: wrap; justify-content: space-evenly; padding-top: 50px; padding-bottom: 50px;">
+<div style="margin: auto; display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start;">
+<p style="font-size: 14px !important; padding-right: 10px;">Brought to you by</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/WS-Logo-2023.webp" alt="wordstream logo" width="130" height="auto" class="aligncenter" /></p>
+</div>
+<h2 style="font-size: 30px !important; text-align: center; margin-top: 5px;">Ready to grow your business?</h2>
+<div style="margin: auto; width: 70%; padding-bottom: 25px;">
+<p style="font-size: 18px; text-align: center;">Unlock the results you’re looking for with technology-backed solutions designed for small businesses and agencies.</p>
+</div>
+<div style="margin: auto;"><a style="padding: 10px 50px; border-radius: 24px; background-color: #0047ff; color: #f9f5ea; font-size: 18px; font-weight: bold;" onmouseover="this.style.background='#0097ff'" onmouseout="this.style.background='#0047ff'" href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links&amp;itm_content=incontent_links_htmldesign">Get your free demo</a></div>
+</div>
+<div id="automation-smart-bidding-more-popular"></div>
+<h3>2. Automation and smart bidding will become more popular</h3>
+<p>Along the same lines as the AI-powered features we covered above, automation in ad creation and audience targeting will become more prevalent across the board regardless of campaign. Smart bidding strategies like Target CPA and ROAS will continue to be popular, leveraging AI for efficient campaign optimization.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/01/google-ads-bidding-strategies-smart.webp" alt="google ads trends - smart bidding strategies" width="936" height="600" class="aligncenter size-full wp-image-79063" srcset="https://www.wordstream.com/wp-content/uploads/2024/01/google-ads-bidding-strategies-smart.webp 936w, https://www.wordstream.com/wp-content/uploads/2024/01/google-ads-bidding-strategies-smart-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Smart bidding has already proven itself to be effective, in my opinion. When first launched, I had a fair amount of skepticism around the concept, primarily because AI as a technology wasn’t particularly where it is nowadays. However, max conversions, tCPA, and tROAS have all been extremely useful to advertisers once they gather enough learning data. Over time, these bidding strategies typically do improve a well-structured campaign.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Is your Google Ads account set up for success? Download now &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLAccountStructure.html?cid=Web_Any_InContentTextLink_PPC_LastAccountStructureGuide_Download">The Last Guide to Google Ads Account Structure You&#8217;ll Ever Need</a></p>
+<div id="more-emphasis-on-broad-match"></div>
+<h3>3. More emphasis on broad match</h3>
+<p>Google has been encouraging advertisers to use <a href="https://www.wordstream.com/blog/ws/2022/06/06/broad-match-smart-bidding">broad match</a> more now than they ever have. The reason behind this is their confidence in smart bidding and AI’s ability to learn and optimize for results over time. So in essence, the more data you give the machine, the more it will be able to adapt to the goal that you have specified.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/01/keyword-match-types-broad-match.webp" alt="keyword match types with broad match highlighted" width="936" height="600" class="aligncenter size-full wp-image-79053" srcset="https://www.wordstream.com/wp-content/uploads/2024/01/keyword-match-types-broad-match.webp 936w, https://www.wordstream.com/wp-content/uploads/2024/01/keyword-match-types-broad-match-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>This is something that I’m still somewhat skeptical about to a degree as someone who, for many years, really liked to refine campaigns with match types and <a href="https://www.wordstream.com/adwords-negative-keywords">negative keywords</a> to hone in on the specific queries that the business was interested in. I enjoyed the process of having a lot of fine-tuning control over my paid marketing efforts. With the way the industry is trending now, that level of transparency is very quickly evaporating.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f50e.png" alt="🔎" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Need help finding the right keywords? Try our <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">Free Keyword Tool</a>!</p>
+<div id="video-advertising-increase"></div>
+<h3>4.  Video advertising will grow</h3>
+<p>I expect <a href="https://www.wordstream.com/blog/ws/2020/08/17/youtube-ad-placement-targeting">video advertising</a> to grow, not completely in the sense of the general YouTube Ads you’re currently experiencing, but in the realm of short-form video ads. <a href="https://localiq.com/blog/how-to-make-youtube-shorts/" target="_blank" rel="noopener">YouTube Shorts</a> are Google’s answer to TikTok and Meta’s Reels. Now, you can run ads targeting Shorts as a placement, however, I believe with the increased advertising competition on both <a href="https://www.wordstream.com/blog/ws/2023/11/08/tiktok-vs-youtube">TikTok</a> and Instagram, there will be a lot more attention going towards Shorts in trying to encourage advertisers to utilize them as a placement. They may do this by simplifying the setup and using AI to help advertisers create ads.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/12/tiktok-trend-discovery-youtube-shorts.jpg" alt="tiktok trend discovery - youtube shorts home page example" width="601" height="522" class="aligncenter size-full wp-image-78532" srcset="https://www.wordstream.com/wp-content/uploads/2023/12/tiktok-trend-discovery-youtube-shorts.jpg 601w, https://www.wordstream.com/wp-content/uploads/2023/12/tiktok-trend-discovery-youtube-shorts-480x417.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 601px, 100vw" /></p>
+<div id="search-will-be-more-visual"></div>
+<h3>5. Search will take on a more visual experience</h3>
+<p>Search has been trending towards a more visual experience for a while now. Advertisers can already include images with their search ads but I expect this to advance quite a bit more in 2024.</p>
+<div id="more-google-ads-trends"></div>
+<h2>More Google Ads and PPC predictions to watch for</h2>
+<p>Here are six examples of advancements that may not release in 2024, but may begin to trend in that direction:</p>
+<h3>1. Augmented reality integration</h3>
+<p>2024 could see the beginning of Augmented Reality (AR) in search ads. Imagine pointing your phone at a product and instantly seeing how it looks in your space or how it works. AR ads could allow users to interact with products in a virtual environment directly from the search results, offering an experience beyond static images.</p>
+<h3>2. Dynamic image ads</h3>
+<p>Based on where PMAX and <a href="https://www.wordstream.com/blog/ws/2021/03/11/responsive-search-ads-new-default-google-ads">responsive ad formats</a> are currently, I could imagine Google taking these a bit further. Instead of static images, we might see the rise of dynamic image ads. These ads would change based on user behavior or preferences. For instance, showing different product colors or styles based on the user&#8217;s past browsing history.</p>
+<h3>3. 360-degree product previews</h3>
+<p>In 2024, search ads could offer 360-degree views of products, allowing users to explore every angle before making a decision. This feature would be particularly beneficial for high-value items like electronics, vehicles, or furniture, where detail and perspective are crucial. Meta already has a 360-degree creative feature, I would expect Google to work towards something similar.</p>
+<h3>4. Video integration in search ads</h3>
+<p>The integration of short, auto-playing videos within search ads could become more prevalent. These videos would offer quick glimpses or demonstrations of products, providing a richer understanding than images alone.</p>
+<h3>5. Interactive ads</h3>
+<p>Interactive ads that allow users to engage directly from the search results could be a game-changer. From simple games to quizzes that lead to personalized product recommendations, these ads could increase user engagement significantly.</p>
+<h3>6. Voice-activated ads</h3>
+<p>With the rise of <a href="https://www.wordstream.com/blog/ws/2018/04/10/voice-search-statistics-2018">voice search</a>, voice-activated ads could become a reality. Users could interact with ads using voice commands, making the search experience more accessible and hands-free.</p>
+<p>These are all hypothetically possible, of course, there is no guarantee any of these are within the pipeline. I could see them becoming a reality down the line as search begins to evolve and incorporate more AI into the user experience.</p>
+<h2>Stay on top of the latest Google Ads trends</h2>
+<p>The landscape of paid search is undoubtedly shifting towards a future where AI and automation play dominant roles. As we&#8217;ve explored, the rise of PMAX campaigns, an emphasis on smart bidding, broad match strategies, and the growth of video advertising are all indicators of a more <a href="https://www.wordstream.com/blog/ws/2023/12/04/google-ads-ai">AI-integrated approach</a>. While some advertisers may lament the loss of granular control and transparency, there&#8217;s no denying the efficiency and effectiveness these advancements bring.</p>
+<p>The dual perspectives on these changes—technological advancement versus a push for increased advertising revenue—highlight the complex nature of the industry&#8217;s evolution. It&#8217;s a balancing act between enhancing user and advertiser experiences and the commercial imperatives of major platforms like Google and Meta. For those of us navigating these changes, it’s important to stay up to date on how the decisions Google makes impact our advertising strategies.</p>
+<p><strong>Need more 2024 marketing trends? We&#8217;ve got you covered:</strong></p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/2024-digital-marketing-trends">7 Must-Know Digital Marketing Trends for 2024</a></li>
+<li><a href="https://www.wordstream.com/blog/content-marketing-trends-2024" rel="noopener">7 Content Marketing Trends You Need to Know in 2024 (+Tips to Prepare)</a></li>
+<li><a href="https://www.wordstream.com/blog/ai-marketing-trends-2024" rel="noopener">AI Marketing Trends for 2024 &amp; What They Mean for You</a></li>
+<li><a href="https://www.wordstream.com/blog/2024-seo-trends" rel="noopener">12 Biggest SEO Trends to Watch in 2024</a></li>
+<li><a href="https://www.wordstream.com/blog/2024-video-marketing-trends" rel="noopener">9 Video Marketing Trends to Watch in 2024</a></li>
+<li><a href="https://localiq.com/blog/social-media-marketing-trends/" target="_blank" rel="noopener">The Top 2024 Social Media Marketing Trends</a></li>
+<li><a href="https://localiq.com/blog/mobile-marketing-trends/" target="_blank" rel="noopener">8 Important Mobile Marketing Trends to Know for 2024</a></li>
+<li><a href="https://localiq.com/blog/2024-email-marketing-trends/" target="_blank" rel="noopener">9 Email Marketing Trends That Will Deliver Growth in 2024</a></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-trends-2024">The 5 Biggest Google Ads Trends for 2024 (+6 Predictions)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google Streamlines Attribution Models: What Advertisers Need to Know</title>
+		<link>https://www.wordstream.com/blog/ws/2023/11/06/google-ads-attribution-models</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Mon, 06 Nov 2023 12:30:45 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[Reporting & Analysis]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=77058</guid>
+
+					<description><![CDATA[<p>Google is saying goodbye to traditional attribution models and hello to last-click and data-driven attribution. Here's everything you need to know.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/11/06/google-ads-attribution-models">Google Streamlines Attribution Models: What Advertisers Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google is constantly pushing toward more automation and less advertiser autonomy on its platform. Many times, this push for the adoption of newer, more “simplified” features means the discontinuation of older ones that everyone is used to.</p>
+<p>One of the most recent victims of this is the discontinuation of first-click, linear, time decay, and position-based attribution models.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/traditional-attribution-models-google.webp" alt="traditional google ads attribution models" width="936" height="600" class="aligncenter size-full wp-image-77115" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/traditional-attribution-models-google.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/11/traditional-attribution-models-google-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p><a href="https://support.google.com/google-ads/answer/13427716?hl=en" target="_blank" rel="noopener">Google announced</a> the phase-out earlier this year, and we’re at the point where you’re no longer able to use these attribution models. If you have pre-existing conversions that you were using any of them, they will be switched to the data-driven attribution model.</p>
+<p>So what does this mean for advertisers going forward? In this article, I’ll run through the changes and how they can affect your strategy in Google Ads.</p>
+<h3>Table of contents</h3>
+<ul>
+<li><a href="#traditional-attribution-models">Traditional attribution models</a></li>
+<li><a href="#what-is-data-driven-attribution">What is data-driven attribution?</a></li>
+<li><a href="#what-is-last-click-attribution">What is last-click attribution?</a></li>
+<li><a href="#future-of-google-ads-attribution-models">What’s the future of Google Ads attribution models?</a></li>
+</ul>
+<div id="traditional-attribution-models"></div>
+<h2>Traditional attribution models</h2>
+<p>Before we delve into future implications, let’s start by taking a look at how traditional attribution models tracked conversions and what the difference is between these and the data-driven and last-click models that remain available:</p>
+<ul>
+<li><strong>Last click (still available)</strong>: This model attributes all the credit to the final interaction a user has with an ad before converting.</li>
+<li><strong>First click: </strong>First-click attribution gives all the credit to the first interaction in the customer journey, regardless of subsequent interactions.</li>
+<li><strong>Linear: </strong>The linear model evenly distributes credit across all touchpoints throughout the customer journey.</li>
+<li><strong>Time decay: </strong>Time decay attribution assigns more credit to interactions closer to the <a href="https://www.wordstream.com/blog/conversion-rate-optimization-statistics">conversion</a> and less to earlier interactions.</li>
+<li><strong>Position-based:</strong> This model gives more credit to the first and last interactions, while the middle interactions receive less credit.</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Worried you&#8217;re wasting spend in Google Ads? Find out with a free, instant audit &gt;&gt; <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a></p>
+<div id="what-is-data-driven-attribution"></div>
+<h2>What is data-driven attribution?</h2>
+<p>To understand why Google would discontinue <a href="https://www.wordstream.com/blog/ws/2018/05/08/attribution-models">traditional attribution models</a>, let’s take a deeper look at the data-driven attribution model.<strong> </strong></p>
+<p><strong>Data-driven conversion tracking</strong> in Google Ads is an advanced method of tracking and attributing conversions to specific keywords, ads, and campaigns based on historical data and machine learning algorithms. This tracking system aims to provide advertisers with more accurate insights into the effectiveness of their advertising efforts.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/data-driven-attribution-model.webp" alt="data-driven attribution model in google ads" width="936" height="600" class="aligncenter size-full wp-image-77113" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/data-driven-attribution-model.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/11/data-driven-attribution-model-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>How data-driven attribution works</h3>
+<p>Here’s how <a href="https://www.wordstream.com/blog/ws/2021/09/30/data-driven-attribution-default-update">data-driven attribution</a> works:</p>
+<ol>
+<li><strong>Data collection:</strong> Google Ads collects a wealth of data related to user interactions with your ads and website. This includes click data, user behavior on your website, and conversion data (e.g., purchases, form submissions, phone calls).</li>
+<li><strong>Machine learning algorithms:</strong> Google uses machine learning algorithms to analyze this data and identify patterns and trends. It looks at various factors, such as the time of day, device type, location, and more, to understand what drives conversions.</li>
+<li><strong>Attribution modeling:</strong> Data-driven conversion tracking employs advanced attribution modeling techniques to assign value to different touchpoints in the customer journey. It considers the entire conversion path, including multiple interactions with your ads before a conversion occurs.</li>
+<li><strong>Conversion prediction:</strong> Based on historical data and machine learning insights, Google Ads predicts the <a href="https://www.wordstream.com/blog/ws/2023/09/11/increase-conversion-rates">probability of a conversion</a> happening for each click on your ad. This prediction helps determine which ad clicks are more likely to lead to a conversion.</li>
+<li><strong>Optimization:</strong> Google Ads uses this predictive data to optimize your <a href="https://www.wordstream.com/blog/ws/2023/01/17/google-ads-bid-management">bidding strategy</a>. It may adjust bids in real-time, allocating more budget to <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">keywords</a> and ads that are more likely to result in conversions. This can help you maximize the return on investment (ROI) of your advertising spend.</li>
+<li><strong>Performance reporting:</strong> You can view <a href="https://www.wordstream.com/blog/ws/2023/02/08/google-ads-conversion-tracking-mistakes">detailed performance reports in Google Ads</a> that show how different keywords, ads, and campaigns are contributing to conversions. This information helps you make informed decisions about your advertising strategy.</li>
+</ol>
+<p>Overall, and on paper, at least, data-driven attribution is the future of conversion tracking. And while I’m not in favor of fewer options for conversion tracking, I am in favor of data-driven attribution as a way to track your results.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Is your Google Ads account set up for success? Find out &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLAccountStructure.html?cid=Web_Any_InContentTextLink_PPC_LastAccountStructureGuide_Download">The Last Guide to Google Ads Account Structure You&#8217;ll Ever Need</a></p>
+<div id="what-is-last-click-attribution"></div>
+<h2>What is last-click attribution?</h2>
+<p>A silver lining for traditional attribution advertisers is that last-click hasn’t gotten the axe…yet. For those less familiar with it, <a href="https://support.google.com/searchads/answer/6268786?hl=en" target="_blank" rel="noopener">last-click conversion tracking</a> in Google Ads is a simplified attribution model that assigns all the credit for a conversion to the last ad click a user made before converting. This means that if a user clicks on multiple ads from different campaigns or keywords during their <a href="https://www.wordstream.com/blog/ws/2022/09/19/customer-journey-map-templates">customer journey</a>, only the final click is considered responsible for the conversion.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/last-click-attribution-model.webp" alt="last-click attribution in google ads" width="936" height="600" class="aligncenter size-full wp-image-77114" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/last-click-attribution-model.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/11/last-click-attribution-model-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>How last-click attribution works</h3>
+<p>Here&#8217;s how last-click attribution works and why it is still used despite the removal of traditional attribution models:</p>
+<ol>
+<li><strong>User interaction:</strong> A user interacts with <a href="https://www.wordstream.com/blog/ws/2021/11/15/multi-touch-attribution">multiple touchpoints</a> related to your ads. For example, they might click on an ad in a search result, then see a display ad, and finally, return to your website directly through a bookmark.</li>
+<li><strong>Conversion event:</strong> The user ultimately converts, such as making a purchase, signing up for a newsletter, or completing a form on your website.</li>
+<li><strong>Credit assignment:</strong> In last-click attribution, all the credit for the conversion is assigned to the very last click that brought the user to your website. In the example above, the direct visit would receive 100% of the credit for the conversion.</li>
+</ol>
+<h3>Pros and cons of last-click attribution</h3>
+<p>Here are some pros and cons of using last-click attribution to track conversions.</p>
+<h4>Pros</h4>
+<ul>
+<li><strong>Simplicity:</strong> Last-click attribution is straightforward and easy to understand. It provides a clear and simple view of which ads or keywords are driving immediate conversions.</li>
+<li><strong>Historical use:</strong> Last-click attribution has been the default and most commonly used attribution model for a long time. Many advertisers are familiar with it, and it&#8217;s the default setting in many reporting platforms.</li>
+<li><strong>Data availability:</strong> In some cases, especially for smaller advertisers or those with limited tracking capabilities, last-click attribution may be the only practical option due to data limitations.</li>
+<li><strong>Alignment with direct response goals:</strong> For businesses focused on direct response advertising and immediate conversions, last-click attribution may align well with their goals.</li>
+</ul>
+<h4>Cons</h4>
+<ul>
+<li><strong>Inadequate for complex journeys:</strong> In the modern digital landscape, customer journeys are often complex, involving multiple touchpoints <a href="https://www.wordstream.com/blog/ws/2022/06/22/cross-channel-marketing">across various channels and devices</a>. Last-click attribution ignores the influence of all but the last click, providing an incomplete picture of user behavior.</li>
+<li><strong>Unfair distribution of credit:</strong> It can unfairly reward the last-clicked ad, even if earlier clicks played a crucial role in the user&#8217;s decision-making process.</li>
+<li><strong>Misallocation of budget:</strong> Relying solely on last-click attribution can lead to misallocation of ad spend, as you may overinvest in keywords or campaigns that only appear to perform well due to being last in the click path.</li>
+</ul>
+<p>Despite these limitations, last-click attribution is still used because it&#8217;s familiar and easy to implement.</p>
+<div id="future-of-google-ads-attribution-models"></div>
+<h2>What’s the future of Google Ads attribution models?</h2>
+<p>For the time being, you have the option to use Google’s data-driven or last-click attribution models. It may come down to personal preference, or how you wish to view the performance information.</p>
+<p>My personal opinion that may clash with other experts in the space is that I love and generally prefer last-click. The reason I love it is for its simplicity and straightforwardness for <a href="https://www.wordstream.com/blog/ws/2023/07/20/google-ads-for-lead-generation">lead generation</a>. We can tie exactly which keyword and ad drove which lead. For me, the scattered attribution and fractions of conversion attribution is generally confusing to many clients. Click, lead, opportunity, sale.</p>
+<p>However, I have been using data-driven attribution for some time now. I feel as though it will become the permanent option at some point here, but I also take into consideration that the data-driven model may fuel more intelligent bidding on the machine-learning side. In some respects, you have to embrace these steps forward in artificial intelligence and digital advertising, however forced and unnecessary they may seem.</p>
+<p>At the end of the day, you need to choose the available attribution model that works best to help you measure and track your performance so you can <a href="https://www.wordstream.com/marketing-services">reach your marketing goals</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/11/06/google-ads-attribution-models">Google Streamlines Attribution Models: What Advertisers Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The 5 Personality Traits that Will Change How You Target Customers</title>
+		<link>https://www.wordstream.com/blog/ws/2023/09/29/big-5-personality-traits</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2023 13:30:36 +0000</pubDate>
+				<category><![CDATA[Marketing Psychology]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=76272</guid>
+
+					<description><![CDATA[<p>Understanding and leveraging these personality traits can transform the impact of your marketing efforts.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/09/29/big-5-personality-traits">The 5 Personality Traits that Will Change How You Target Customers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Throughout my journey in the marketing realm, I&#8217;ve encountered a diverse range of professionals, each with their own unique strengths and weaknesses. Among them, I&#8217;ve noticed a particular group that possesses an uncanny intuition when it comes to understanding human behavior and effectively connecting with target markets. Interestingly enough, many of these individuals have a genuine interest in psychology, and it became evident that their deep understanding of human nature helped them to succeed in their marketing roles.</p>
+<p>Now, let me be clear—I don&#8217;t hold a formal degree in psychology. However, I&#8217;ve developed a fascination with the subject, treating it as a personal hobby. Over time, I&#8217;ve discovered the immense relevance of psychology to my marketing career.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/benefits-of-using-psychology-in-marketing.jpg" alt="benefits of using psychology in marketing" width="936" height="600" class="aligncenter size-full wp-image-76296" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/benefits-of-using-psychology-in-marketing.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/09/benefits-of-using-psychology-in-marketing-480x308.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Becoming truly proficient in this field entails more than just crunching numbers and crafting catchy headlines. It demands a fundamental intuition nurtured by a deep comprehension of human behavior and the significant role that individual personalities play in shaping it.</p>
+<p>In this article, I&#8217;ll delve into the world of psychology&#8217;s big five personality traits and explore how this knowledge can be effectively applied to your paid marketing endeavors.</p>
+<h3>Table of contents</h3>
+<ul>
+<li><a href="#what">What are the big five personality traits?</a></li>
+<li><a href="#traits">How to use each model of personality to tailor your marketing strategy</a></li>
+<li><a href="#identify">How to identify which personality traits to appeal to in your marketing</a></li>
+<li><a href="#when">When (and when not) to use personality types in your campaign targeting</a></li>
+</ul>
+<div id="what"></div>
+<h2>What are the big five personality traits?</h2>
+<p>The <a href="https://www.thomas.co/resources/type/hr-guides/what-are-big-5-personality-traits" target="_blank" rel="noopener">big five personality traits</a>, also known as the five-factor model (FFM), are a widely accepted framework used in psychology to describe and <a href="https://www.psychologytoday.com/us/basics/big-5-personality-traits" target="_blank" rel="noopener">categorize human personality</a>. These traits are considered the fundamental dimensions of personality that capture the most significant individual differences.</p>
+<p>The five traits are:</p>
+<ol>
+<li>Openness to experience</li>
+<li>Conscientiousness</li>
+<li>Extraversion</li>
+<li>Agreeableness</li>
+<li>Neuroticism</li>
+</ol>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/big-five-personality-traits.jpg" alt="big five personality traits" width="936" height="600" class="aligncenter size-full wp-image-76277" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/big-five-personality-traits.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/09/big-five-personality-traits-480x308.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>We’ll break each trait down individually in the next section.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6d1.png" alt="🛑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Interested in more marketing psychology? Download the free guide &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsite26BrilliantWaysToUsePsychology.html?cid=Web_WS_InContent_TextLink_guide_26waysPsychGuide_Download">26 Ways to Use Psychology in Marketing</a></div></div>
+<div id="traits"></div>
+<h2>How to use the five basic personality traits in your marketing</h2>
+<p>How can marketers leverage their understanding of the big five personality traits to craft more effective marketing campaigns that truly resonate with their audiences? Let’s dive into each of those personality traits and how to use them in your campaigns.</p>
+<h3>Openness to experience</h3>
+<p>This personality trait refers to the degree of a person&#8217;s intellectual curiosity, creativity, and preference for novelty and variety. Individuals high in openness tend to be imaginative, adventurous, and open-minded.</p>
+<p>They are often willing to try new things, appreciate art and beauty, and enjoy intellectual pursuits. Those low in openness are more traditional, practical, and prefer familiarity over novelty.</p>
+<h4>How to appeal to this personality type in your marketing</h4>
+<p>Capturing the attention of individuals high in openness to experience requires embracing innovation, <a href="https://www.wordstream.com/blog/ws/2022/07/27/blog-post-ideas">creativity</a>, and a sense of adventure. Here are some ways to leverage it in your marketing:</p>
+<ul>
+<li>Craft campaigns that spark curiosity, ignite imagination, and challenge the status quo.</li>
+<li>Showcase how your product or service brings new perspectives, fosters self-discovery, or offers unique experiences.</li>
+<li>Leverage <a href="https://www.wordstream.com/blog/ws/2023/01/20/digital-marketing-trends">emerging trends</a>, cutting-edge technologies, and out-of-the-box concepts to appeal to their appetite for novelty and unconventional thinking.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-openness-to-experience-example.jpg" alt="personality marketing - openness to experience example from hotel for adventures" width="406" height="598" class="aligncenter size-full wp-image-76298" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-openness-to-experience-example.jpg 406w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-openness-to-experience-example-204x300.jpg 204w" sizes="(max-width: 406px) 100vw, 406px" /></p>
+<h3>Conscientiousness</h3>
+<p>Conscientiousness describes the degree to which a person is organized, responsible, reliable, and self-disciplined. Individuals high in conscientiousness are generally goal-oriented, diligent, and dependable. They are often well-organized, pay attention to details, and are committed to achieving their goals.</p>
+<p>Conversely, individuals low in conscientiousness tend to be more spontaneous, flexible, and less focused on structure and organization.</p>
+<h4>How to appeal to this personality type in your marketing</h4>
+<p>The conscientiousness factor is all about reliability, organization, and attention to detail. Tailoring your paid media campaigns to appeal to this trait can go a long way. Here are some ways to do this:</p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/ws/2023/06/20/product-positioning">Highlight features</a> such as efficiency, precision, and adherence to high standards.</li>
+<li>Showcase how your product or service streamlines processes, saves time, or ensures meticulous quality.</li>
+<li>Provide clear instructions, guarantees, and <a href="https://www.wordstream.com/blog/ws/2022/03/03/testimonial-advertising">testimonials</a> to instill confidence in conscientious individuals who appreciate thoroughness and reliability.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-conscientiousness-example.jpg" alt="big five personality traits in marketing - example of facebook ad using conscientiousness" width="506" height="598" class="aligncenter size-full wp-image-76282" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-conscientiousness-example.jpg 506w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-conscientiousness-example-480x567.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 506px, 100vw" /></p>
+<h3>Extraversion</h3>
+<p>Extraversion refers to the extent to which a person seeks social interaction, excitement, and stimulation from the external environment.</p>
+<p>Extraverts are outgoing, assertive, and energetic. They enjoy being around people, are often talkative and sociable, and gain energy from social interactions.</p>
+<p>Introverts, on the other hand, prefer quieter, less stimulating environments, and tend to be more reserved and reflective.</p>
+<h4>How to appeal to this personality type in your marketing</h4>
+<p>Understanding the spectrum of extraversion within your<a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience"> target audience</a> can be a game-changer. Are they outgoing and sociable individuals who thrive in social settings? Or do they lean towards introversion, preferring quieter, more introspective experiences? By <a href="https://www.wordstream.com/blog/ws/2022/06/21/emotional-ad-copy-examples">tailoring your messaging</a> and ad formats to align with their preferences, you can strike a chord with each segment.</p>
+<p>For extraverts, consider:</p>
+<ul>
+<li>Highlighting the social aspects of your product or service.</li>
+<li>Showcasing vibrant gatherings and interactions.</li>
+</ul>
+<p>For introverts, consider:</p>
+<ul>
+<li>Emphasizing the personal benefits.</li>
+<li>Highlighting the value of self-reflection that your offering can provide.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-extraversion-example.jpg" alt="personality marketing - low levels of extraversion example in instagram ad from bombas" width="292" height="600" class="aligncenter size-full wp-image-76297" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-extraversion-example.jpg 292w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-extraversion-example-146x300.jpg 146w" sizes="(max-width: 292px) 100vw, 292px" /></p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /><strong> Get the guide &gt;&gt;</strong> <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite120WordsforMarketingWithEmotion.html?cid=Web_Any_BlogInContent_PPC_120WordsPhrases_Download">135 of the Best Words &amp; Phrases for Marketing with Emotion</a></div></div>
+<h3>Agreeableness</h3>
+<p>Agreeableness represents the degree to which a person is warm, compassionate, cooperative, and considerate of others. Individuals high in agreeableness are typically empathetic, kind, and value social harmony. They are inclined to be helpful, trustful, and forgiving. People low in agreeableness may be more competitive, skeptical, and less concerned about others&#8217; feelings and needs.</p>
+<h4>How to appeal to this personality type in your marketing</h4>
+<p>Acknowledging the level of agreeableness within your audience helps you shape your messaging to foster a sense of trust, harmony, and cooperation.</p>
+<p>Is your target audience composed of individuals who highly value collaboration and teamwork? If so, emphasize how your product or service promotes unity and creates positive relationships.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-agreeableness-example.jpg" alt="personality traits in marketing - example of high agreeableness in ppc copy" width="936" height="298" class="aligncenter size-full wp-image-76279" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-agreeableness-example.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-agreeableness-example-480x153.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>For audiences with lower agreeableness, focus on <a href="https://www.wordstream.com/blog/ws/2014/04/07/unique-selling-proposition">unique selling points</a>, individuality, and empowerment to resonate with their desire for independence and self-expression.</p>
+<h3>Neuroticism</h3>
+<p>Neuroticism, sometimes called emotional instability, refers to the extent to which a person experiences negative emotions such as anxiety, depression, and moodiness. Individuals high in neuroticism are more prone to worry, experience frequent mood swings, and may have a heightened sensitivity to stress. Those low in neuroticism tend to be more emotionally stable, resilient, and less affected by negative emotions.</p>
+<h4>How to appeal to this personality type in your marketing</h4>
+<p>Understanding the emotional landscape of your audience is vital for creating impactful paid media campaigns. Consider the range of neuroticism within your target market—are they prone to anxiety and stress or more emotionally stable?</p>
+<p>For those with higher neuroticism, focus on alleviating their concerns and <a href="https://localiq.com/blog/customer-pain-points/">addressing pain points</a>. Highlight the security, peace of mind, and stress relief your offering can provide.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-neuroticism-ppc-ad-example.jpg" alt="personality trait marketing - example appealing to neuroticism in paid search ad copy" width="936" height="328" class="aligncenter size-full wp-image-76278" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-neuroticism-ppc-ad-example.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-marketing-neuroticism-ppc-ad-example-480x168.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>For emotionally stable individuals, emphasize the positive aspects, such as joy, serenity, and emotional well-being, that come from engaging with your product or service.</p>
+<div id="identify"></div>
+<h2>How to identify which personality traits to appeal to in your marketing</h2>
+<p>The big five personality traits are just that, a combination of individual personality factors that comprise a whole. So how do you go about learning where your ideal customer lands on this spectrum of personality? There are a couple of ways you could collect data.</p>
+<h3>Distribute a personality test to your customers</h3>
+<p>One way to identify the right personality trait (or traits) to target is by simply selecting a sample size of your best customers and incentivizing them to partake in a personality test. From these results, you can have a general outline of commonalities among what you consider to be your target audience.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-test-example.jpg" alt="big five personality traits test example from truity" width="936" height="460" class="aligncenter size-full wp-image-76284" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-test-example.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-test-example-480x236.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://www.truity.com/test/big-five-personality-test" target="_blank" rel="noopener">Source</a></em></p>
+<h3>Conduct testing through your marketing channels</h3>
+<p>This option will be more time-consuming and will require you to be very scientific in your approach.</p>
+<p>You will want to map out each personality trait and through ad copy, imagery, tone, etc., really hone in on how each trait is represented in a marketing format.</p>
+<p>You will then want to run the variations against each other <a href="https://www.wordstream.com/blog/customer-data">gathering as much data</a> as possible for each. From there you will be able to map a general outline of your target audience’s personality. Now, to be clear, personality is an individual set of traits. However, that doesn’t mean you won’t find commonalities amongst larger data sets of individuals&#8211;particularly within certain industries.</p>
+<p>Let’s say, for example, your target audience was comprised of sales professionals. Although the individuals within that profession may vary greatly on a personal level, there are most likely common personality traits among them that directed them to and helped them succeed in their chosen profession. A sales professional may be high in extroversion, moderate to low in agreeableness, moderate in conscientiousness, low in neuroticism, and across the board in openness to experience. This information is highly valuable when considering<a href="https://www.wordstream.com/blog/ws/2021/12/29/best-marketing-tips"> how you market to these people</a>.</p>
+<div id="when"></div>
+<h2>When (and when not) to use the big five personality traits in your targeting</h2>
+<p>You can use personality traits to target your marketing when you have a clear understanding of who your target audience is and whether or not they fall into any of these traits.</p>
+<p>However, It’s important to keep in mind that the less <a href="https://localiq.com/blog/niche-markets/" target="_blank" rel="noopener">niche</a> your target audience and more importantly your brand is, the less effective optimizing for personality becomes.</p>
+<p>Let’s say for example that you sell pencils. Everyone can need and use pencils across a broad spectrum of personality traits. If your company is just plain old pencils, you may be able to sell to everyone, but your product isn’t going to necessarily stand out to anyone in particular. The marketing may be more focused on the quality or cost of the product versus anything else.</p>
+<p>This is where the importance of <a href="https://localiq.com/blog/how-to-create-a-brand-identity/" target="_blank" rel="noopener">brand identity</a> comes into play. Take beer for example. Beer is beer, everyone over the legal age can purchase and drink beer, however, many beer companies tailor their marketing to accentuate certain lifestyles.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/09/personality-traits-marketing-example-heineken.jpg" alt="personality traits marketing - example of heineken ad" width="916" height="600" class="aligncenter size-full wp-image-76286" srcset="https://www.wordstream.com/wp-content/uploads/2023/09/personality-traits-marketing-example-heineken.jpg 916w, https://www.wordstream.com/wp-content/uploads/2023/09/personality-traits-marketing-example-heineken-480x314.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 916px, 100vw" /></p>
+<p style="text-align: center;"><em>This Heineken ad for sports fans may also be targeting openness to experiences with it&#8217;s &#8220;all fans&#8221; messaging.</em></p>
+<p>So the personality traits that your brand conveys, attracts, or attempts to be attractive to fall within a particular demographic and therefore a particular set of personality traits.</p>
+<h2>Applying the big 5 personality traits for better marketing</h2>
+<p>Marketing is, for the most part, the <a href="https://www.wordstream.com/blog/ws/2021/04/23/influence-buyers-marketing-psychology">art of persuasion</a>. The term persuasion or persuasiveness often resonates in a manipulative, Machiavellian way for a lot of people. Instead, I encourage you to view persuasion through the lens of commonality. What I mean by that is we are most easily persuaded by those we perceive to be most like us or those we share common values or interests with. There is a fine line between trust and persuasion in the business of selling goods and services. But, let’s bring this all back to paid marketing.</p>
+<p>By tailoring our messaging, imagery, and tone to align with the unique traits of our audience, we can strike a chord that resonates deeply. Whether it&#8217;s appealing to the extraversion of social butterflies, fostering trust and cooperation for agreeable individuals, showcasing reliability and attention to detail for the conscientious, alleviating concerns for those prone to neuroticism, or sparking curiosity and embracing novelty for the open-minded, understanding and leveraging these personality traits can transform the impact of our marketing efforts.</p>
+<p>Gathering insights on your target audience&#8217;s personality traits may involve conducting personality tests, collecting data from your best customers, or conducting scientific testing through our marketing channels. While personality remains an individual set of traits, we can uncover commonalities among larger data sets, particularly within certain industries, to inform our marketing strategies effectively.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/09/29/big-5-personality-traits">The 5 Personality Traits that Will Change How You Target Customers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3 Time-Saving Facebook Automated Rules to Try (+1 to Avoid!)</title>
+		<link>https://www.wordstream.com/blog/ws/2023/07/27/facebook-automated-rules</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 12:30:00 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=74592</guid>
+
+					<description><![CDATA[<p>Facebook automated rules can save you precious time, streamline your processes, and set the stage for advertising success.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/07/27/facebook-automated-rules">3 Time-Saving Facebook Automated Rules to Try (+1 to Avoid!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In the ever-evolving landscape of digital advertising, staying on top of your game requires embracing automation and utilizing the tools at your disposal. One such tool that deserves your attention is the automated rules feature within Facebook (Meta) Ads.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules.webp" alt="facebook ads automated rules options" width="805" height="598" class="aligncenter size-full wp-image-74606" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules.webp 805w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-480x357.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 805px, 100vw" /></p>
+<p>These rules are like your personal assistant, diligently monitoring your campaigns and making adjustments based on the predefined conditions you set.</p>
+<p>In this article, we&#8217;ll explore:</p>
+<ul>
+<li>What Facebook&#8217;s automated rules are</li>
+<li>Types of automated rules for Facebook ads</li>
+<li>How to apply Facebook automated rules (and 3 to try!)</li>
+</ul>
+<p>Let&#8217;s dive in.</p>
+<h2>What are Facebook ads automated rules?</h2>
+<p>Facebook automated rules empower advertisers to automate routine campaign management tasks, saving time and enabling a proactive approach to optimization.</p>
+<p>Advertisers can elect to use <a href="https://www.facebook.com/business/help/1694779440789213?id=295312871325091" target="_blank" rel="noopener">automated rules</a> for a variety of reasons, whether it be for tighter budget control, <a href="https://www.wordstream.com/blog/ws/2022/09/26/how-to-optimize-facebook-ads">ad optimization</a>, or ensuring audience saturation is reduced. Implementing automated rules can have a profound impact on the efficiency of your Meta Ads account and its ability to deliver quality results for your business.</p>
+<h2>Types of Facebook automated rules</h2>
+<p>As you get started with automated rules, you are presented with these options:</p>
+<ul>
+<li>Custom rules</li>
+<li>Reduce auction overlap</li>
+<li>Optimize ad creative</li>
+<li>Reduce audience fragmentation</li>
+</ul>
+<p>Let&#8217;s go over these quickly so we know what we’re working with:</p>
+<h3>Custom rules</h3>
+<p>This allows you to create your own rules, selecting the parameters, the triggers, and the action that you wish to be taken. Custom rules are really what comes to mind when Facebook automated rules get brought into the conversation. The reason is, this is where a skilled account manager can make tweaks that make managing accounts (either for clients or your own) much easier.</p>
+<p>For example, you can create <a href="https://www.wordstream.com/cost-per-action">cost-per-action</a> (CPA) caps for conversions and lead generation campaigns by specifying the maximum cost per result you’re willing to obtain.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-custom-rules.webp" alt="facebook automated rules - custom rules in facebook ads" width="839" height="600" class="aligncenter size-full wp-image-74608" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-custom-rules.webp 839w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-custom-rules-480x343.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 839px, 100vw" /></p>
+<p>This is a simple example, but it is a way to automatically optimize ad sets according to your own standards. There are many other examples of these that I will dive into later.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Want to make your Facebook ads more effective? Download the guide &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsite16FBAdsStrategies.html?cid=Web_WS_InContent_Guide_16FacebookStrategies_Download">16 Most Effective Strategies for Facebook Ads Success</a></div></div>
+<h3>Reduce auction overlap</h3>
+<p>When running multiple ad sets within Facebook ads, there is a likelihood (particularly if you have a <a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience">clearly defined target audience</a>) that there is going to be some audiences that overlap. Reducing audience overlap improves the efficiency and delivery of your ad sets because it reduces the instances where you are essentially competing against yourself within the ads auction.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-reduce-auction-overlap.webp" alt="facebook automated rules - reduce auction overlay automated rule in meta ads manager" width="936" height="586" class="aligncenter size-full wp-image-74609" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-reduce-auction-overlap.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-reduce-auction-overlap-480x301.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>Optimize ad creative</h3>
+<p>One may think, “Isn’t Facebook supposed to do this anyway?” The answer is yes&#8230;and no. Facebook optimizes ad delivery, but for them to make changes to your <a href="https://www.wordstream.com/blog/ws/2016/05/23/facebook-ad-examples">creative elements</a> specifically, you need to tell them to. When you’re creating your ads you have the option to select “<a href="https://www.wordstream.com/blog/meta-advantage-plus">Advantage+</a> creative.”</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-advantage-plus-creative.webp" alt="facebook ads automated rules - advantage+ creative" width="843" height="598" class="aligncenter size-full wp-image-74612" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-advantage-plus-creative.webp 843w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-advantage-plus-creative-480x340.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 843px, 100vw" /></p>
+<p>This is the same as if you selected “turn on standard enhancements” when creating your automated rules for ad creative.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-optimize-ad-creative.webp" alt="facebook automated rules - optimize ad creative option" width="936" height="520" class="aligncenter size-full wp-image-74617" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-optimize-ad-creative.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-ads-automated-rules-optimize-ad-creative-480x267.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Standard enhancements in Meta&#8217;s <a href="https://www.facebook.com/business/help/1720288338140238" target="_blank" rel="noopener">Advantage+ creative</a>, previously known as dynamic experiences, allow advertisers to create ads with a single image or video that automatically generates personalized variations based on viewer preferences. Media enhancements such as adjusting image brightness, applying filters, and varying aspect ratios, along with compositional changes like adding labels or displaying relevant Facebook comments, optimize the creative elements to improve performance.</p>
+<p>By including a variety of text options, advertisers can <a href="https://localiq.com/local-marketing-lab/facebook-ads/facebook-ads-best-practices/" target="_blank" rel="noopener">maximize the effectiveness of their ads</a>. With Meta Advantage+ creative, ads are tailored to each viewer, which may result in <a href="https://localiq.com/blog/how-to-check-social-media-engagement/" target="_blank" rel="noopener">enhanced engagement</a> and better outcomes.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Do your Facebook ads make the grade? Find out with our FREE <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader">Facebook Ads Performance Grader</a>!</div></div>
+<h3>Reduce audience fragmentation</h3>
+<p>Audience fragmentation is a fancy way of Facebook essentially saying “Hey, let’s combine those smaller audiences into bigger audiences so that we can serve ads easier and hopefully drive more results with a lower frequency”</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-reduce-audience-fragmentation.webp" alt="facebook ads automated rules - reduce audience fragmentation" width="936" height="539" class="aligncenter size-full wp-image-74689" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-reduce-audience-fragmentation.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-reduce-audience-fragmentation-480x276.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Now this is the one automated rule here that <em><strong>I am actually going to advise against using</strong></em>. Some advertisers may look at this option and decide that they want to do this to streamline everything in the account&#8211;make the largest possible target audiences and make budgeting easier.</p>
+<p>The reason I do not recommend this is that it will completely take away your ability to control individual audience segments and report on the quality of those segments down-funnel.</p>
+<p>For example, let’s say you are a business that targets restaurants. You have multiple lookalike and manual audience segments that provide leads of varying quality to you. If you combine them all, you may start getting leads for a lower cost but have no control over the quality that is coming in, subsequently driving up your total costs and ruining the efficiency of your advertising efforts.</p>
+<h2>3 custom Facebook automated rules to add to your strategy</h2>
+<p>Now that we’ve covered what each category is for automated rules, let’s go back to the custom rules option. Custom rules are really where you can apply your individual strategy in a way that can take care of monotonous tasks and keep certain <a href="https://localiq.com/blog/marketing-metrics/" target="_blank" rel="noopener">metrics</a> in line with what you want in a more effective manner than having to do it manually.</p>
+<p>When creating custom rules, you have the option to apply the rule to either campaigns, ad sets, or ads. Then you determine the action that you want to take and the conditions that need to be met for the rule to be applied.</p>
+<p>At all levels (campaigns, ad sets, ads) the same actions can be applied:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-settings.webp" alt="facebook automated rules settings in meta ads manager" width="936" height="436" class="aligncenter size-full wp-image-74691" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-settings.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-settings-480x224.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>After choosing to either turn on/off the campaign, ad set, or ad or increase/decrease the budgets you then choose a condition.</p>
+<p>This is where Facebook automated rules can get complex and without going through every single option or combination, I will leave it up to you to decide which applies to your objectives best. Instead, I will go through a couple of very common examples.</p>
+<h3>Budget</h3>
+<p>You can specify when to turn your campaigns off according to your <a href="https://www.wordstream.com/blog/ws/2021/08/17/lower-cost-per-click">budget</a>. You would be able to specify a timeframe in which to assess the spend and have Facebook automatically turn things off when your target budget is hit so that you don’t overspend.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-budget.webp" alt="facebook automated rules - budget" width="936" height="559" class="aligncenter size-full wp-image-74692" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-budget.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-budget-480x287.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>Frequency</h3>
+<p>A similar strategy can be done for frequency on the ad set and ad levels of campaigns. If a particular audience or ad reaches a high frequency within a specific period of time because the audience is small or spend is high, you can have those ad sets and ads turned off automatically.</p>
+<h3>Cost per result</h3>
+<p>This example is my favorite to use as my strategies mostly involve <a href="https://www.wordstream.com/blog/ws/2023/01/12/how-to-generate-leads">driving leads</a> and sales for clients. Businesses that place themselves above the rest from a paid marketing perspective have a very clear idea of where they are allowed to let costs rise. Those with very good funnel analytics or that are in particular verticals with direct sales (such as ecommerce), will know what the ceiling is for a cost per result in order to maintain <a href="https://www.wordstream.com/blog/ws/2023/02/24/digital-advertising">profitability from advertising</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-cost-per-result.webp" alt="facebook automated rules - cost per result" width="936" height="334" class="aligncenter size-full wp-image-74693" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-cost-per-result.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/07/facebook-automated-rules-cost-per-result-480x171.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Having a cost-per-result rule in place allows advertisers to ensure that they get profitability from their Facebook ads when operating at scale. This allows them to launch many audiences and ads and let the automated rules do their job.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3af.png" alt="🎯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you targeting the right audience? Get the guide &gt;&gt; <a href="https://marketing.wordstream.com/WSLIQContentDLWebsiteFBAdTargeting.html?cid=Web_Any_InContentTextLink_FacebookAdTargetingStrategiesForPrivacy_Download">10 Privacy-First Facebook Ad Targeting Strategies That Work</a></div></div>
+<h2>Take control of your Facebook ads with automated rules</h2>
+<p>Automated rules are the secret sauce for advertisers looking to level up their <a href="https://localiq.com/products/social-ads/" target="_blank" rel="noopener">Facebook ads</a> game. These rules give you tighter control over your budget and unleash the potential of your ad creative. Your Facebook ad account can become a well-oiled machine, churning out improved results for your business.</p>
+<p>From crafting custom rules to minimizing auction overlap and embracing Meta Advantage+ creative, automated rules offer a proactive approach to campaign management. The best part? Automation saves you precious time, streamlines your processes, and sets the stage for advertising success. Regardless of your <a href="https://localiq.com/blog/marketing-plan-goals-objectives-for-small-businesses/" target="_blank" rel="noopener">business goals</a>, automated rules can be defined in a way that can help you achieve them efficiently.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/07/27/facebook-automated-rules">3 Time-Saving Facebook Automated Rules to Try (+1 to Avoid!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Will ChatGPT &#038; AI Impact PPC? 6 Expert Predictions</title>
+		<link>https://www.wordstream.com/blog/ws/2023/05/30/ai-impact-on-ppc</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Tue, 30 May 2023 17:01:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence (AI)]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=72338</guid>
+
+					<description><![CDATA[<p>This expert shares the ways he thinks AI will impact PPC--plus what that means for your business.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/05/30/ai-impact-on-ppc">How Will ChatGPT &#038; AI Impact PPC? 6 Expert Predictions</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After decades of science fiction novels, films, and serialized Twilight Zone derivatives, the rapid onset and development of artificial intelligence has finally come to fruition.</p>
+<p>No matter where you go on the internet these days, you will quickly become bombarded by the reality that not only has AI already become a valuable tool for mankind, but its long-term implications and rapid trajectory leave a multitude of concerns on our horizon.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/ai-marketing-predictions-concerns-meme-e1685463364718.jpg" alt="meme - ai concerns over the horizon" width="936" height="552" class="aligncenter size-full wp-image-72343" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/ai-marketing-predictions-concerns-meme-e1685463364718.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/05/ai-marketing-predictions-concerns-meme-e1685463364718-480x270.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>There are technophiles who champion the advancement of artificial intelligence and its alarming ascension towards singularity, while understandably, many others are more than terrified of its risks.</p>
+<p>Regardless of where you stand on the topic, one thing is clear for now: AI tools like ChatGPT are available, being heavily used, and will continue to evolve over future updates.</p>
+<p>With these points in mind, it is clear that AI is going to have a significant impact on digital marketing (as well as almost every other industry and profession) in the coming months and years.</p>
+<p><strong>Here, I will highlight six predictions for ChatGPT, AI, and the future of PPC marketing:</strong></p>
+<ol>
+<li><a href="#competition">Increased competition (and higher costs)</a></li>
+<li><a href="#targeting">Improved targeting</a></li>
+<li><a href="#copy">Enhanced ad copy</a></li>
+<li><a href="#campaigns">More efficient ad campaigns</a></li>
+<li><a href="#machinelearning">Greater reliance on machine learning</a></li>
+<li><a href="#innovation">Continued innovation</a></li>
+</ol>
+<p>Let&#8217;s get started.</p>
+<div id="competition"></div>
+<h2>1. Increased competition (and higher costs)</h2>
+<p>Due to AI tools like ChatGPT’s potential to provide advertisers with more powerful tools for targeting and optimizing their <a href="https://www.wordstream.com/ppc">PPC</a> campaigns, increased competition for an already saturated ad space may ensue. If advertisers who are leveraging ChatGPT are able to achieve better results and generate more revenue from their campaigns, then it may lead to higher prices for <a href="https://www.wordstream.com/keywords">keywords</a> and make it even more difficult for smaller advertisers to compete.</p>
+<p>ChatGPT could be particularly beneficial for larger advertisers who have the resources to invest in machine learning algorithms and other advanced technologies. These advertisers may be able to use ChatGPT to gain a competitive advantage and outbid smaller advertisers for ad space. It is a possibility that increased <a href="https://www.wordstream.com/blog/ws/2023/03/06/how-to-use-chatgpt-for-small-business-marketing">usage of ChatGPT</a> and other AI tools may improve blind spots that the account managers, agencies, and practitioners who are working for larger businesses otherwise would have missed.</p>
+<p>It&#8217;s important to note that this prediction is not certain, and there are many factors that could influence the competitiveness of the paid media space for years to come. One thing is fairly certain though, and that is <a href="https://www.wordstream.com/blog/ws/2023/05/15/google-ads-benchmarks">search advertising is not getting any cheaper</a>.</p>
+<p>Another issue that has been discussed is the reduction in the usage of Google Search because of ChatGPT.</p>
+<p>The AI tool is very capable of answering nearly any question that you would search for on Google in addition to curating lists of recommendations for you for travel or entertainment. (The only caveat is that ChatGPT, in particular, is unable to source information <a href="https://www.searchenginejournal.com/openai-chatgpt-update/476116/" target="_blank" rel="noopener">beyond 2021</a> at this time.)</p>
+<p>Google recently announced its own AI search experience, <a href="https://www.wordstream.com/blog/ws/2023/05/19/google-search-generative-experience">Google Search Generative Experience (SGE)</a>, which integrates AI into the SERP. This experience pushes organic search results even further down the page and may impact non-paid search traffic and click-through rates, leading to increased competition to show in Google Ads above SGE results.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/google-search-generative-experience-snapshot.jpg" alt="google search generative experience snapshot example" width="799" height="600" class="aligncenter size-full wp-image-72152" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/google-search-generative-experience-snapshot.jpg 799w, https://www.wordstream.com/wp-content/uploads/2023/05/google-search-generative-experience-snapshot-480x360.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 799px, 100vw" /></p>
+<p><strong>The bottom line:</strong> Even with ChatGPT and Google SGE, I don’t believe that AI tools are going to be the end of search ads or search as a whole, but I do believe it is part of an evolution or transition to a more efficient model.</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&lt;div class=&#039;et-box et-shadow&#039;&gt;
+					&lt;div class=&#039;et-box-content&#039;&gt;\nAre you missing out on opportunities to optimize your Google Ads account?\nFind out instantly the Free Google Ads Performance Grader.\n&lt;/div&gt;&lt;/div&gt;&quot;}" data-sheets-userformat="{&quot;2&quot;:1053313,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;15&quot;:&quot;Arial&quot;,&quot;23&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0}{&quot;1&quot;:103,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;9&quot;:1}}{&quot;1&quot;:137}" data-sheets-hyperlinkruns="{&quot;1&quot;:103,&quot;2&quot;:&quot;https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader&quot;}{&quot;1&quot;:137}"><div class='et-box et-shadow'>
+					<div class='et-box-content'>Are you missing out on opportunities to optimize your Google Ads account?
+Find out instantly the <a class="in-cell-link" target="_blank" href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" rel="noopener">Free Google Ads Performance Grader</a>.</div></div></span></p>
+<div id="targeting"></div>
+<h2>2. Improved targeting</h2>
+<p>ChatGPT (and AI in general) has the ability to analyze large amounts of data and generate insights about audience behavior. We already see this to a degree with <a href="https://www.wordstream.com/blog/ws/2022/06/06/broad-match-smart-bidding">smart bidding strategies within Google Ads</a>.</p>
+<p>Given that the target keywords and <a href="https://www.wordstream.com/blog/ws/2022/06/21/emotional-ad-copy-examples">ad copy</a> you have created are aligned, Google’s automated bidding can “learn” over time how to produce more of the desired results that you want, such as conversions, clicks, and more.</p>
+<p>AI tools, however, have the capability of analyzing data through text, CSV, or JSON files. This means that it can analyze user behavior on websites and other <a href="https://www.wordstream.com/blog/ws/2021/08/24/cross-channel-marketing-mistakes">digital channels</a> to identify patterns and trends. It can track which pages users visit, how long they stay on each page, and which actions they take (such as clicking on links or filling out forms).</p>
+<p>ChatGPT can also be a valuable tool for <a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a>&#8211;curating lists and structures for ad groups for you to target. (Although <a href="https://www.wordstream.com/blog/ws/2023/03/06/how-to-use-chatgpt-for-small-business-marketing">we don’t recommend</a> using it as your primary keyword research tool.)</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-keyword-research.jpg" alt="chatgpt keyword research prompt" width="771" height="598" class="aligncenter size-full wp-image-71559" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-keyword-research.jpg 771w, https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-keyword-research-480x372.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 771px, 100vw" /></p>
+<p>With this information, ChatGPT could help advertisers develop more effective <a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">targeting strategies for their PPC campaigns</a>. For example, it could help them identify the keywords and phrases that are most likely to be searched by their target audience and then use this information to create ads that are more relevant and engaging.</p>
+<p>ChatGPT could also help advertisers segment their audience based on factors like demographics, interests, and behavior.</p>
+<p><strong>The bottom line:</strong> Although AI isn’t currently taking away jobs from PPC professionals, those who decide to leverage the tool will have a competitive advantage over those who choose not to. As one Google exec said at Google Marketing Live 2023, “You’re not competing against AI. You’re competing against other marketers using AI.”</p>
+<div id="copy"></div>
+<h2>3. Enhanced ad copy</h2>
+<p>One of ChatGPT’s obvious strengths is its natural language processing capabilities. By giving the AI enough information about the type of ad copy you are looking to generate, ChatGPT is able to produce persuasive (and sometimes surprisingly creative) suggestions. Whether you wish to use ChatGPT as a starting point to brainstorm <a href="https://www.wordstream.com/blog/ws/2015/02/02/ppc-ad-headlines">headlines</a> or to have it generate the ad copy word-for-word for you, it is an extremely powerful tool for PPC.</p>
+<p>ChatGPT has been trained on vast amounts of text data and has the ability to generate natural-sounding language. This means that it could help advertisers create more engaging ad copy that resonates with their target audience.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-sense-of-urgency.jpg" alt="chatgpt prompt to add urgency to ad copy" width="936" height="329" class="aligncenter size-full wp-image-71566" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-sense-of-urgency.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-sense-of-urgency-480x169.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Even the best marketers have periods of writer’s block or feel the copy that they have produced could be better or hit on the desired pain points in a more concise manner. ChatGPT is extremely helpful in these situations as it can also provide additional feedback on your <a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience">target audience</a> in addition to taking the copy you wrote and editing it to be more readable.</p>
+<p>Google is also using AI to help advertisers create and enhance ad copy. They announced <a href="https://www.wordstream.com/blog/ws/2023/05/23/google-marketing-live#:~:text=7.-,Automatically%20created%20Performance%20Max%20assets%20using%20generative%20AI,-This%20Google%20Marketing">asset creation within Performance Max</a> which will <a href="https://www.wordstream.com/blog/ws/2023/06/05/generative-ai-in-digital-marketing">use generative AI</a> to generate ad headlines that more closely match search queries.</p>
+<p><strong>The bottom line:</strong> AI tools like ChatGPT can provide a helpful jumping-off point, but these tools still lack the ability to humanize or infuse personality into ad copy. However, ad copy is such a critical aspect of marketing that any small improvement could have massive returns in regards to CTR and overall ad performance. (Use these <a href="https://www.wordstream.com/blog/ws/2023/05/08/chatgpt-prompts">ChatGPT prompts</a> as a jumping-off point to help enhance your ad copy.)</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;&lt;div class=&#039;et-box et-shadow&#039;&gt;
+					&lt;div class=&#039;et-box-content&#039;&gt;&#x1f4b0; Ready to hit the jackpot of ad copywriting tips?\nFree guide: 10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy (with Examples!)\n&lt;/div&gt;&lt;/div&gt;&quot;}" data-sheets-userformat="{&quot;2&quot;:1049089,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;23&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0}{&quot;1&quot;:69,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;9&quot;:1}}{&quot;1&quot;:150}" data-sheets-hyperlinkruns="{&quot;1&quot;:69,&quot;2&quot;:&quot;https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download&quot;}{&quot;1&quot;:150}"><div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ready to hit the jackpot of ad copywriting tips?
+Free guide: <a class="in-cell-link" target="_blank" href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" rel="noopener">10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy (with Examples!)</a></div></div></span></p>
+<div id="campaigns"></div>
+<h2>4. More efficient ad campaigns</h2>
+<p>With improvements to both targeting and ad copy, ChatGPT and other AI tools have the ability to help advertisers create more efficient ad campaigns overall.</p>
+<p>By making certain aspects of the process such as keyword research and ad copy less tasking, AI could help advertisers save a considerable amount of time and reduce costs. ChatGPT, for example, has the ability to analyze user behavior and preferences to understand what types of ads are most likely to be relevant and engaging to each individual user. It could analyze data such as search history, browsing behavior, and social media activity to determine what topics and products users are interested in.</p>
+<p>With this information, ChatGPT could make more accurate and personalized ad recommendations for each user. Instead of showing generic ads that may not be relevant to the user&#8217;s interests, ChatGPT could suggest ads that are more likely to resonate with each user based on their individual preferences. The result of these more personalized ad recommendations could be a better user experience and higher engagement and <a href="https://www.wordstream.com/blog/ws/2022/08/03/improve-conversion-rates">conversion rates</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-subject-line-personalization.jpg" alt="chatgpt prompt subject line personalization" width="936" height="329" class="aligncenter size-full wp-image-71554" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-subject-line-personalization.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/05/chatgpt-prompt-subject-line-personalization-480x169.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Additionally, ChatGPT could help advertisers optimize their ad campaigns based on user feedback.</p>
+<p><strong>The bottom line:</strong> By analyzing user behavior and preferences, AI could provide insights into what types of ads are most effective and which ones are not performing as well. Advertisers could use this information to adjust their targeting and ad creative to improve the overall effectiveness of their campaigns.</p>
+<div id="machinelearning"></div>
+<h2>5. Greater reliance on machine learning</h2>
+<p>I’ve touched on the increasing <a href="https://www.wordstream.com/blog/ws/2023/01/04/google-ads-automation">use of machine learning in the paid media space</a> over the last six years in <a href="https://www.wordstream.com/blog/ws/author/brett-mchale">numerous posts</a>. My position on the topic has remained consistent, although slightly altered, over this span of time. To summarize my views: machine learning has greatly improved the ease of setting up and running campaigns, and with particular goals set within the platform, great improvements to performance can be experienced.</p>
+<p>However, the increased usage and forfeiture of control from advertisers to the “algorithm” that is run by the entity designed to take your advertising budget isn’t always a good thing. These platforms can add unnecessary bloat to campaigns and limit your ability to make very refined adjustments that you used to be able to make. They are essentially trying to make PPC a one-size-fits-all robot that will run your ads for you.</p>
+<p>As AI tools continue to evolve and improve, advertisers may become more reliant on machine learning algorithms to manage their PPC campaigns. As stated above, this could lead to greater efficiency and better results. However, it may also lead to a lack of insight into how money is being spent and a general lack of genuine nuance that a human can apply to a marketing campaign.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-improved-search-term-insights.jpg" alt="" width="936" height="555" class="aligncenter size-full wp-image-72208" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-improved-search-term-insights.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/05/google-marketing-live-2023-improved-search-term-insights-480x285.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p style="text-align: center;"><em>Google is trying to provide greater transparency into how Performance Max campaigns are being optimized through its<a href="https://www.wordstream.com/blog/ws/2023/05/23/google-marketing-live#:~:text=11.-,Performance%20Max%20improved%20search%20term%20insights,-Advertisers%20have%20requested" target="_blank" rel="noopener"> improved search term insights report</a>. </em></p>
+<p><strong>The bottom line:</strong> This prediction is my most concerning on the list for a couple of different reasons. The first is that an AI can absolutely run PPC campaigns for you. Whether at this stage or in future iterations, the technology is clearly capable of building and running PPC campaigns. This has the potential to eliminate jobs.</p>
+<p>But it shouldn’t. And here’s why: Many search advertising professionals have found that the “best practices” AI implements aren’t always the best practice for a specific advertiser. The AI used to set up, create, and run PPC campaigns will be applying whatever best practices its creator designs it to have, many of which may be in the best interest of the company and not the advertiser from a cost-efficiency standpoint. This is why it’s going to be so important to incorporate that human touch and oversight into AI-enabled PPC campaigns.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Want to learn how to use AI the right way for your marketing?
+Free download &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteAIinMarketingGuide.html?cid=Web_Any_BlogInContent_PPC_AIMarketing_Download">Emergency Guide to AI in Marketing</a></div></div>
+<div id="innovation"></div>
+<h2>6. Continued innovation</h2>
+<p>As ChatGPT and AI continue to evolve and improve, we can expect to see ongoing innovation in the PPC industry. This could lead to new ad formats, targeting techniques, and measurement tools that help advertisers get even better results from their campaigns (which we’ve already seen a glimpse of from <a href="https://www.wordstream.com/blog/ws/2023/05/23/google-marketing-live">Google Marketing Live 2023</a>).</p>
+<p>The rate at which we will see these changes is still up in the air. As mentioned, AI is progressing at a somewhat alarming speed. With any new technology, there is typically an adoption period that spans months and years that allows industries to catch up.</p>
+<p>For example, it took years for businesses to master the process of selling online to the point where it is the primary place of commerce. The internet itself took decades to evolve. This gave everyone enough time to adjust to the changes and slowly evolve their businesses over time. With AI and ChatGPT, we could experience change at a rapid and disruptive rate that hasn’t necessarily been experienced since the industrial revolution.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/05/time-taken-to-1-million-users-chatgpt.jpg" alt="chart that shows time taken to reach 1 million users - chatgpt has taken the shortest amount of time" width="776" height="600" class="aligncenter size-full wp-image-72342" srcset="https://www.wordstream.com/wp-content/uploads/2023/05/time-taken-to-1-million-users-chatgpt.jpg 776w, https://www.wordstream.com/wp-content/uploads/2023/05/time-taken-to-1-million-users-chatgpt-480x371.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 776px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://explodingtopics.com/blog/chatgpt-users" target="_blank" rel="noopener">Source</a></em></p>
+<p>Here are some of the top places I expect we&#8217;ll see continued innovation.</p>
+<h3>Ad targeting and performance</h3>
+<p>ChatGPT is just one example of this innovation, but there are likely to be many more developments in the years to come. One area where we can expect to see continued innovation in PPC is the use of artificial intelligence and machine learning to improve ad targeting and performance. As AI and machine learning technologies continue to improve, advertisers will have access to more advanced tools and algorithms for analyzing user behavior and preferences, identifying trends, and <a href="https://www.wordstream.com/blog/ws/2023/01/23/optimize-performance-max-campaigns">optimizing ad campaigns</a>.</p>
+<h3>New ad formats and channels</h3>
+<p>Another area where we can expect to see innovation is in the use of new ad formats and channels. For example, as voice assistants and smart speakers become more prevalent, advertisers may start exploring ways to deliver ads through these devices. Similarly, we may see new types of ads that are more interactive, personalized, or immersive, such as augmented reality (AR) ads or virtual reality (VR) ads.</p>
+<h3>Measurement and attribution of ad performance</h3>
+<p>Finally, we can expect to see continued innovation in the measurement and <a href="https://www.wordstream.com/blog/ws/2021/10/19/ppc-metrics">attribution of ad performance</a>. As more and more users interact with ads across multiple devices and channels, advertisers will need better ways to track and analyze these interactions to understand the impact of their ad campaigns.</p>
+<p><strong>The bottom line:</strong> The result of this continued innovation in the PPC advertising industry could be a more effective and efficient advertising ecosystem, with advertisers able to reach their target audience more accurately and users experiencing more relevant and engaging ads. It also means that advertisers need to be tuned in to the updates happening in the PPC landscape and be ready to make changes and <a href="https://www.wordstream.com/blog/ws/2023/03/20/ppc-campaign-testing-tips">experiment</a> to continue seeing good results.</p>
+<h2>The bottom line: AI’s impact on PPC marketing</h2>
+<p>Overall, the future of PPC advertising looks bright, with plenty of opportunities for advertisers to achieve their <a href="https://localiq.com/blog/marketing-plan-goals-objectives-for-small-businesses/" target="_blank" rel="noopener">marketing goals</a>, especially when using AI capabilities to enhance campaigns rather than relying on it fully.</p>
+<p>As AI continues to evolve, it will be more important than ever to stay on top of the curve and keep an eye on the latest updates and innovations.</p>
+<p><strong>Here are the six ways AI will impact PPC:</strong></p>
+<ol>
+<li>Increased competition (and higher costs)</li>
+<li>Improved targeting</li>
+<li>Enhanced ad copy</li>
+<li>More efficient ad campaigns</li>
+<li>Greater reliance on machine learning</li>
+<li>Continued innovation</li>
+</ol>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/05/30/ai-impact-on-ppc">How Will ChatGPT &#038; AI Impact PPC? 6 Expert Predictions</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Experimentation vs. Testing in PPC Campaigns: Dos, Don&#8217;ts &#038; Key Differences</title>
+		<link>https://www.wordstream.com/blog/ws/2023/03/20/ppc-campaign-testing-tips</link>
+		
+		<dc:creator><![CDATA[Brett McHale]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 12:28:03 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=70831</guid>
+
+					<description><![CDATA[<p>Tips to apply and mistakes to avoid so you can take your paid media campaigns to new levels of success!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/03/20/ppc-campaign-testing-tips">Experimentation vs. Testing in PPC Campaigns: Dos, Don&#8217;ts &#038; Key Differences</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There are certain facets of marketing that have always seemed to capture more attention than others in regards to growing your business online. One of these is <strong>testing</strong>.</p>
+<p>This adherence (and some might conclude, obsession) with data is not confined solely to the marketing world, as it seems most aspects of society have transformed into “data-driven” models.</p>
+<p>Data-driven decision-making in marketing is incredibly valuable, but there is a time and place for everything, and marketing itself is a lot more than just numbers.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/data-driven-meme.png" alt="data driven meme by workchronicles.com" width="600" height="625" class="aligncenter size-full wp-image-70866" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/data-driven-meme.png 600w, https://www.wordstream.com/wp-content/uploads/2023/03/data-driven-meme-480x500.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://workchronicles.com/" target="_blank" rel="noopener">Image source</a></em></p>
+<p>The data that drives successful marketing campaigns can’t materialize prior to creating said campaigns. The chicken that lays the egg that makes testing possible is the creativity that drives results fuels the data that informs decisions.</p>
+<p>In this post I’ll walk you through what A/B testing is from a paid media perspective, when it’s necessary, and when human abilities like creativity, intuition, and common sense lay the groundwork.</p>
+<h2>What exactly do we mean by “testing”?</h2>
+<p>There are many forms of testing within marketing including multivariate testing, usability testing, and content testing, but for the sake of simplicity within paid advertising we will mostly be referring to <a href="https://www.wordstream.com/blog/ws/2018/05/11/copywriting-ab-tests">A/B testing</a>.</p>
+<p>With an A/B test, you create two variants of an ad or landing page, and everything is identical except for one element so you can see which variation leads to more conversions. You can test <a href="https://www.wordstream.com/blog/ws/2022/06/21/emotional-ad-copy-examples">ad copy</a>, button colors, creative elements, the length of the landing page, and more.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-ab-test-example.png" alt="example of a google ads a/b test" width="720" height="409" class="aligncenter size-full wp-image-70859" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-ab-test-example.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-ab-test-example-480x273.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>The variant that performs better needs to reach statistical significance, which <a href="https://www.investopedia.com/terms/s/statistical-significance.asp">Investopedia</a> defines as “the claim that a result from data generated by testing or experimentation is likely to be attributable to a specific cause. A high degree of statistical significance indicates that an observed relationship is unlikely to be due to chance.”</p>
+<p><a href="https://www.optimizely.com/no/optimization-glossary/ab-testing/"><em></em></a></p>
+<p>You generally want a confidence of 95% to consider that a change or variant is statistically significant.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/statistical-significance.jpeg" alt="statistical significance definition" width="498" height="329" class="aligncenter wp-image-70857" /></p>
+<p style="text-align: center;"><a href="https://phys.org/news/2019-04-statistical-significance-science-uncertain.html"><em>Image source</em></a></p>
+<h2>When is it appropriate to begin testing?</h2>
+<p>Many folks take an extremely “scientific” approach right out of the gate, analyzing every impression and click with a magnifying glass and conducting micro experiment upon micro experiment with slight alterations in ad copy and creative.</p>
+<p>The problem with this is that they are limiting themselves by hyper-focusing on small details too early on. <a href="https://www.wordstream.com/blog/ws/2022/02/10/paid-media-strategy">Successful paid media</a> is not always an immediate victory in regards to the quality of feedback or results that you may experience when you get started.</p>
+<p>With a channel like Google Ads, for example, patience and observation is key to learning which levers to pull and where to make strategic adjustments. You may create an ad or make and adjustment and wait a week or two to observe the impact. Plus, there&#8217;s the <a href="https://www.wordstream.com/blog/ws/2018/09/13/learning-period">algorithmic learning period</a> to consider.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-learning-period.png" alt="" width="237" height="130" class="aligncenter size-full wp-image-9269" srcset="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-learning-period.png 237w, https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-learning-period-100x55.png 100w" sizes="(max-width: 237px) 100vw, 237px" /></p>
+<p>So the question is, when should you begin testing?</p>
+<p>Every business is different—their<a href="https://www.wordstream.com/blog/ws/2021/10/12/growth-marketing"> stage of growth</a>, the number of creative resources available, and the industry they are competing in. When it comes to <a href="https://www.wordstream.com/blog/ws/2022/06/29/ad-channels">paid media channels</a>, everyone starts with a blank slate at some point. The promotions and strategy that you choose from the start often influence the evolution of your paid advertising accounts for better or worse.</p>
+<p>From my experience, testing should begin after you start to get some traction with the results you are looking for. So for example, if you are looking to <a href="https://www.wordstream.com/blog/ws/2022/08/03/improve-conversion-rates">generate conversions</a> from a lead form submit, then you should begin testing after you begin to see some results. So you might now be thinking, “What if I’m not driving any results and therefore need to test in order to do so?” My answer to that question is to separate testing from <strong>experimentation</strong>.</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2734.png" alt="✴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Speaking of getting the result you want&#8230;free guide!</span></p>
+<p><span> Download now &gt;&gt; </span><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkAllStarPlaybook.html?cid=Web_Blog_InContent_TextLink_AllStarPlaybook_Download" class="waffle-rich-text-link">The All-Star Online Advertising Playbook</a></strong><span></div></div></span></p>
+<h2>Testing vs experimentation</h2>
+<p>From a paid marketing perspective, <strong>testing</strong> is comparing a control to an alteration. You are “testing” a new variant against a pre-existing one to see if the changes you have made are statistically significant or not.</p>
+<p><strong>Experimentation</strong>, on the other hand, is pushing your creative juices to produce a variety of different ads or <a href="https://www.wordstream.com/blog/ws/2020/10/13/sales-promotion-examples">promotions</a> against your target audience to see what appears to gain the most traction.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-experiments.png" alt="google ads experiments" width="720" height="394" class="aligncenter size-full wp-image-70858" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-experiments.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-experiments-480x263.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em>Experimentation is not to be confused with Google Ads experiments, a feature within the platform.</em></p>
+<p>Some may call this testing but in my opinion, it is less scientific and restrictive. Once you begin to accumulate meaningful data and feedback you can then identify and zero in on what works and test within that framework.</p>
+<h3>How to do experimentation the right way</h3>
+<p>When you are in the experimentation and exploration phase, there is a strategy to apply as well. On <a href="https://www.wordstream.com/blog/ws/2022/07/18/social-media-advertising">paid social</a> networks, I like to create the target persona as best as I can manually, then create 3-4 ads targeting that persona.</p>
+<p>Given the objective of the client, these ads will be in alignment from a conversion or web traffic perspective. I will also typically create a retargeting audience to test against visitors who are already familiar with the brand. From there, we may incorporate more variations of ads, play around with copy or creative, and allow the campaign to run and collect data.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/ad-testing-variations.png" alt="examples of ad variants" width="720" height="409" class="aligncenter size-full wp-image-70861" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/ad-testing-variations.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/ad-testing-variations-480x273.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /><a href="https://adespresso.com/guides/facebook-ads-optimization/ab-testing/"><em></em></a></p>
+<p>This stage allows us to gauge the audience’s receptiveness to different messages and ultimately the data will inform us on a direction to explore further. For one client of mine, we were able to increase lead-to-sales opportunity ratios by over 15% by simply identifying that certain language and creative elements resonated much better with our audiences than others. We arrived at that conclusion, however by not being too stringent on testing early on, rather, letting the ads play out then assessing the findings.</p>
+<p>Bottom line? The purpose of the experimentation or exploration phase is to create baselines—which allow you to set expectations as well as goals for improvement. This will move you beyond the experimental phase into the testing phase. From there on you can create a model for testing that allows marginal improvements to performance without all the risk of trying an entirely new promotional set.</p>
+<h3>How (and when) to move from experimentation to testing</h3>
+<p>To simplify my process for experimentation and testing I will outline from my experience, the stages of growth within a paid advertising account and what you should be doing:</p>
+<h4>Early stage: Experimentation only</h4>
+<p>If you’re <a href="https://www.wordstream.com/blog/ws/2022/03/21/how-to-run-google-ads">starting your Google Ads campaign or account from scratch</a>, you should be focused primarily on setting up proper tracking, pixel implementation, etc. first. The most important part of this early phase is that you know your general goal for advertising and ensuring your website and <a href="https://www.wordstream.com/blog/ws/2020/11/09/crm-for-small-business">CRM</a> are <a href="https://www.wordstream.com/blog/ws/2023/02/08/google-ads-conversion-tracking-mistakes">tracking these results properly</a>, whether they are website visits or conversions.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-enhanced-conversions-conversion-tracking-tag.png" alt="google ads enhanced conversions setup - google ads conversion tracking tag" width="720" height="557" class="aligncenter size-full wp-image-70803" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-enhanced-conversions-conversion-tracking-tag.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-enhanced-conversions-conversion-tracking-tag-480x371.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>From there you should take that overall goal and begin to construct campaigns in which to enter the experimentation phase.</p>
+<p>If it is paid search, create campaigns for your <a href="https://www.wordstream.com/blog/ws/2013/03/19/why-bid-on-branded-terms-ppc">branded search terms</a> and through <a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide">keyword research</a>, some of your most relevant terms. Try to start with something that has the highest probability of producing the result that you want, then expand from there once baselines are established. You can <a href="https://www.wordstream.com/blog/ws/2022/08/30/google-ads-conversion-tracking">learn how to set up conversion tracking in Google Ads here</a>.</p>
+<p>In paid social, you should do the same but with website remarketing and a carefully constructed target persona. In paid social you should establish the goal you are looking for and try numerous promotions that align with that goal.</p>
+<p><a href="https://www.wordstream.com/blog/ws/2022/05/03/how-to-advertise-on-facebook">You can learn how to set up your Facebook Pixel here</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/facebook-pixel-setup-meta-pixel-only.png" alt="facebook pixel setup - meta pixel only option" width="600" height="572" class="aligncenter size-full wp-image-64359" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/facebook-pixel-setup-meta-pixel-only.png 600w, https://www.wordstream.com/wp-content/uploads/2022/09/facebook-pixel-setup-meta-pixel-only-480x458.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p style="text-align: center;"><em>You may also want to set up the <a href="https://www.wordstream.com/blog/ws/2021/10/06/facebook-conversions-api">Facebook Conversions API</a> for the most complete tracking.</em></p>
+<h4>Middle stage: Start testing</h4>
+<p>What I refer to as the middle stage is where you have experimented with different offers and have figured out what appears to work. You have baseline costs for these promotions and are ready to start testing variations of this offer in a more scientific way. This is where you can begin to A/B test.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/facebook-ab-testing-off-on.png" alt="facebook ab testing toggled on" width="720" height="356" class="aligncenter size-full wp-image-70863" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/facebook-ab-testing-off-on.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/facebook-ab-testing-off-on-480x237.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h4>Growth stage: Refine your testing</h4>
+<p>This is where you are certain of what drives business within the account. When an account is in this stage you want to find ways to grow but do so within the <a href="https://www.wordstream.com/blog/ws/2022/06/13/facebook-advertising-tips">framework that has proven to be successful</a>. At this stage in the game, you want to test very stringently with fairly smaller changes to variations to mitigate risk of decreasing performance. Larger riskier experiments should be isolated to their own testing campaigns, separate from the ones that are currently driving business for you.</p>
+<h2>Patience is key with campaign testing</h2>
+<p>The main takeaways you should have from this advice is to treat new and early paid advertising much looser than what some others might tell you. Although everyone wants to score a touchdown right out of the gate, it is much more beneficial to your paid accounts and development as a marketer to be patient.</p>
+<p>Not relying too heavily on data to make decisions early on allows you to be more creative and push the envelope with your marketing abilities. If you are more open to new ideas early on, it will inevitably reduce the amount of time you otherwise would have been testing micro changes to one idea. For long-term success in advertising, you need to take some risks to set a better baseline for the future.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/03/20/ppc-campaign-testing-tips">Experimentation vs. Testing in PPC Campaigns: Dos, Don&#8217;ts &#038; Key Differences</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

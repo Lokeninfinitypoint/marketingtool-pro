@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mikayla Wyman, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/mikayla-wyman/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 16 Aug 2024 14:29:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Mikayla Wyman, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Goal Talk Podcast Episode 16: SEO Tips for Small Businesses</title>
+		<link>https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode-16/</guid>
+
+					<description><![CDATA[<p>On this episode of the Goal Talk podcast, host Mikayla Wyman talks with SEO Special Gordon Donnelly about optimizing your site, keyword research tools, and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode">Goal Talk Podcast Episode 16: SEO Tips for Small Businesses</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<p>On each episode of this season of the <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=">Goal Talk podcast,</a> I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>So far on the podcast, we’ve talked through many <a href="https://www.wordstream.com/blog/ws/2020/01/07/best-marketing-strategies">marketing tactics</a> with our in-house experts, ranging from <a href="https://www.wordstream.com/blog/ws/2020/02/18/goal-talk-podcast">creating your website</a> and getting your <a href="https://www.wordstream.com/blog/ws/2020/03/03/goal-talk-episode-4">personas created</a> to specifics in <a href="https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode-7">paid ad auctions</a> and <a href="https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode-12">ad copywriting</a>, and many more in-between. So far, the majority of our conversations about search engine marketing have been about paid advertising tactics. And while <a href="https://www.wordstream.com/ppc">paid search marketing</a> is an extremely important part of a business’s marketing mix, we would be remiss if we didn’t spend some time discussing the organic side with search engine optimization.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.embed_image_narrow" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=SEO" data-entity-type="media" data-entity-uuid="6852ba1b-e04d-4d8b-8db5-89c5aa6f2b74" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-EpSEO-Square20SMALL_1.png" alt="Goal talk podcast episode 16 cover artwork - SEO for small businesses." width="800" height="800" /></div>
+</article>
+</div>
+<p>Search engine optimization helps pages on your website rank well on search engines like Google and Bing so you can increase both the quality and quantity of your website traffic. SEO is a largely free tactic that will allow Google’s algorithm to intake your website content and rank it for a search query, based on the information on your website and the search itself. While in PPC you pay to have your link and headline show up at the top of the first page of the SERP, SEO is what powers the organic listings below the ads at the top of the page. So how do you <a href="https://www.wordstream.com/blog/ws/2015/04/30/seo-basics">get started</a> in optimizing your website for SEO?</p>
+<p>In this episode, WordStream&#8217;s in-house SEO manager <a href="https://www.wordstream.com/gordon-donnelly-2472">Gordon Donnelly</a> breaks down:</p>
+<ul>
+<li>The essential elements of <a href="https://www.wordstream.com/blog/ws/2018/05/23/seo-for-startups">starting out in SEO</a>.</li>
+<li>Tips for optimizing your site.</li>
+<li><a href="https://www.wordstream.com/seo-software">Tools</a> for keyword research.</li>
+<li>Resources to help keep you up to date with changes.</li>
+</ul>
+<p>And more! You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, and follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="69ba4d0b-2279-4eb0-9aeb-a857c02e8222" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/i1z2wMFOSUc?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h3>About the podcast:</h3>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode">Goal Talk Podcast Episode 16: SEO Tips for Small Businesses</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/06/16/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 15: Updates on Marketing During COVID-19-Data, Reactivation, &#038; More</title>
+		<link>https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 26 May 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode-15/</guid>
+
+					<description><![CDATA[<p>On this week's episode of the Goal Talk podcast, host Mikayla Wyman talks about updates on marketing during COVID-19, industry performance data, and more with #1 PPC Expert Mark Irvine.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode">Goal Talk Podcast Episode 15: Updates on Marketing During COVID-19-Data, Reactivation, &amp; More</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Goal Talk Podcast Episode 15: Updates on Marketing During COVID-19—Data, Reactivation, &amp; More</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+May 26, 2020</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">WordStream</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>On each episode of this season of the <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=">Goal Talk podcast</a>, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>It’s been two full weeks since we’ve had an episode of the <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=">Goal Talk podcast</a>, and while we’re embracing our updated bi-weekly episode release schedule, we missed releasing an episode last week! So it only felt right to bring a guest <a href="https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode-11">back onto the podcast</a> this week to bring an update on the state of digital marketing during COVID-19 for advertisers.</p>
+<h2>This week: Current updates on COVID-19 marketing tips, performance data, and account reactivation</h2>
+<p>Last time we had <a href="https://www.wordstream.com/mark-irvine-42">Mark</a> on the podcast, we discussed the preliminary data around how the social effects of social distancing and mandatory business practice modifications have impacted digital marketing for advertisers. That <a href="https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode-11">episode</a> was released about a month ago as we were navigating the first few weeks of the majority of the effects of the pandemic worldwide. In the episode, we discussed how search trends and patterns are shifting, some options for small business assistance from the government, and the data around how the mandated changes have impacted the <a href="https://www.wordstream.com/blog/ws/2020/03/18/covid-19-google-ads-data">PPC results</a> for multiple industries.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.embed_image_narrow" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=" data-entity-type="media" data-entity-uuid="4f42fa09-67da-41f4-8cfe-497e6122101b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Ep14-Square_0.png" alt="Goal Talk podcast episode 15 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>This week, we have more information—including more data—about how the long-term effects of COVID-19 are playing out for a variety of advertisers. With strong signals of a <a href="https://www.wordstream.com/blog/ws/2020/05/04/ppc-rebound-covid-19-data">rebound</a> in the PPC results for advertisers in many industries, this episode discusses the options advertisers have for reading their own data and working towards <a href="https://www.wordstream.com/blog/ws/2020/05/06/google-ads-account-recovery">reactivating their accounts</a> for continued success.</p>
+<p>In today’s <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=">episode</a>, we discuss:</p>
+<ul>
+<li>Updates on the current state of search.</li>
+<li>How search marketing has changed in the past month and new results for advertisers.</li>
+<li>Tips for marketers during their reactivation efforts.</li>
+<li>Signals for advertisers to look for in their accounts.</li>
+<li>How advertisers can fuel their reopening plans with their cross-channel marketing efforts.</li>
+</ul>
+<p>And more!</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, and follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases to ask the hosts questions and to join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-embed-display-settings="https://www.youtube.com/watch?v=OdCXqPYcUb8&amp;feature=youtu.be" data-entity-type="media" data-entity-uuid="14f329d9-cd24-4a75-b7ab-0e4fb0abc8b0" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/OdCXqPYcUb8?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The<a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content="> Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=">Listen here.</a></p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode">Goal Talk Podcast Episode 15: Updates on Marketing During COVID-19-Data, Reactivation, &amp; More</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/05/26/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 14: The True Meaning of a Work-Life Balance</title>
+		<link>https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode-14/</guid>
+
+					<description><![CDATA[<p>On this episode of the Goal Talk podcast, host Mikayla Wyman talks to Greg Herman about creating and sticking to a work-life balance!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode">Goal Talk Podcast Episode 14: The True Meaning of a Work-Life Balance</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Goal Talk Podcast Episode 14: The True Meaning of a Work-Life Balance</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+May 26, 2020</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">WordStream</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>On each episode of this season of the <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a>, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, we dove deep into another highly visible and incredibly important aspect of your digital marketing campaigns—landing pages. For last week’s episode, I interviewed a long-tenured WordStream marketing expert who currently runs our in-house agency team, Zina Kayyali, to discuss the essential elements of effective landing pages for advertisers across industries. Among other things, we walked through the importance of having highly relevant and specific landing pages for your offers. If you haven’t heard that episode yet you can<a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative="> find it here.</a></p>
+<h2>This week’s topic: Finding a work-life balance in a small business</h2>
+<p>Though we’ve discussed many aspects of both digital marketing and small business management, we’ve devoted the last few episodes on advertising topics that are essential to master. This week, I interview another tenured WordStream marketer, Greg Herrmann, our in-house learning and development program manager, to discuss the importance of creating a culture that promotes a healthy balance between work and personal life.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=" data-entity-type="media" data-entity-uuid="d8cac551-0b6b-47a7-b11b-98d986a40122" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/goal-talk-Ep13-square.png" alt="Goal Talk podcast, season 1 episode 14 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>Throughout this episode, we discuss why providing an environment of trust and balance is important, as well as some examples we have both experienced in our time in the workforce. We provide examples of companies doing this really well, as well as some ways to provide a great and manageable balance to employees.</p>
+<p>In this week’s episode, we discuss:</p>
+<ul>
+<li>What a work-life balance is and why it’s so important for employees.</li>
+<li>Examples of ways to better your culture to promote a work-life balance.</li>
+<li>Examples of companies doing it really well.</li>
+<li>How companies that are just starting out can prioritize balance while maintaining high growth goals.</li>
+</ul>
+<p>And more!</p>
+<p><strong>An important note about the episode:</strong> This interview with Greg was recorded before we’ve felt the majority of the effects of the coronavirus pandemic. These insights are mainly focused on examples and tactics available within the traditional business environment where employees come into the office but can also be useful for companies during the pandemic.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-embed-display-settings="https://www.youtube.com/watch?v=Bet6EY7dJwE&amp;feature=youtu.be" data-entity-type="media" data-entity-uuid="8c28a5c2-3cef-4447-b468-872b076bd4a3" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/Bet6EY7dJwE?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2><strong>About the podcast:</strong></h2>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode">Goal Talk Podcast Episode 14: The True Meaning of a Work-Life Balance</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/05/12/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 13: The Anatomy of a Money-Making Landing Page</title>
+		<link>https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 05 May 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Landing Pages]]></category>
+		<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode-13/</guid>
+
+					<description><![CDATA[<p>On this episode of the Goal Talk podcast, host Mikayla Wyman talks to WordStream Director of Managed Services Zina Kayyali all about landing pages.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode">Goal Talk Podcast Episode 13: The Anatomy of a Money-Making Landing Page</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow </a>their businesses.</p>
+<p>Last week, we dove deep into one of the most visible aspects of your digital marketing campaigns—your ad copy! I sat down with our paid marketing program manager Jeff Stevens to get his insights into how advertisers can be most impactful with their ad copy regardless of their industry. If you haven’t heard that episode yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can find it here</a>.</p>
+<h2>This week’s topic: Landing pages that convert</h2>
+<p>We’ve discussed so many essential aspects of marketing and management for small businesses in this season of the Goal Talk podcast, starting from making a website and identifying your value proposition to managing high potential employees and running digital ad campaigns. This week, I interview Zina Kayyali, the director of our in-house agency, to learn all about another vital aspect of your digital marketing campaigns and the place that the conversions happen: your landing pages.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk" data-entity-type="media" data-entity-uuid="73be3eae-a7f0-4141-9b8f-99ec6013eb2b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Ep12-Square2028129.png" alt="Goal Talk podcast season 1 episode 13 episode artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>In the episode, you’ll get the <a href="https://www.wordstream.com/blog/ws/2015/09/02/landing-page-tips-and-tricks">tips and information</a> you need to set up landing pages that not only help with Quality Score but are pretty much guaranteed to <a href="https://www.wordstream.com/blog/ws/2016/08/02/landing-page-copywriting">inspire </a>the traffic you brought to the page to convert.</p>
+<p>Throughout the episode, we discuss:</p>
+<ul>
+<li><a href="https://www.wordstream.com/effective-landing-pages">Essential aspects</a> of a landing page all advertisers need to include.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2020/01/15/landing-page-best-practices">Best practices</a> for effective landing pages.</li>
+<li>How landing pages should be structured.</li>
+<li>How to <a href="https://www.wordstream.com/blog/ws/2013/04/16/best-landing-pages">create a landing page</a> without a developer.</li>
+<li>How to approach testing your landing pages for increased performance.</li>
+<li>Different ways to use landing pages for each advertising platform.</li>
+</ul>
+<p>And more!</p>
+<p>An important note about the episode: This interview with Zina was recorded before we’ve felt the majority of the effects of the coronavirus pandemic. These insights are mainly focused on examples and tactics available within the traditional marketing landscape but can be useful for all campaigns.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-embed-display-settings="https://www.youtube.com/watch?v=ZB32-YqBPAo&amp;feature=youtu.be" data-entity-type="media" data-entity-uuid="c0deffba-4b6b-48bb-bc79-ddc429666d27" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/ZB32-YqBPAo?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights.<a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative="> Listen here.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode">Goal Talk Podcast Episode 13: The Anatomy of a Money-Making Landing Page</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/05/05/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 12: The Dos &#038; Don&#8217;ts of Effective Ad Copy</title>
+		<link>https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Copywriting]]></category>
+		<category><![CDATA[WordStream]]></category>
+		<category><![CDATA[Ad copywriting]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode-12/</guid>
+
+					<description><![CDATA[<p>This week on the Goal Talk podcast, host Mikayla Wyman talks with Jeff Stevens all about ad copy!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode">Goal Talk Podcast Episode 12: The Dos &amp; Don&#8217;ts of Effective Ad Copy</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, Mark Irvine and I sat down for a very special episode of the Goal Talk Podcast, where we dove into marketing during COVID-19. From search trend changes to specific data we’re seeing in multiple industries in response to social distancing effects of the coronavirus pandemic, we break down the essential information marketers should know, as well as resources marketers can use to make effective decisions for their businesses. If you haven’t heard that episode, we definitely recommend giving it a listen! <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Find it here.</a></p>
+<h2>This week’s topic: The ins and outs of ad copy</h2>
+<p>Let’s get right to it: Ad copy is arguably the most important aspect of your search marketing campaigns. Often the most visible component of an ad, the copy is the hook, line, and sinker to reel in your target audience. While many other aspects we discuss are also very important in the success of your campaigns, ad copy is how people will experience your company and how you will encourage those clicks.</p>
+<p><img decoding="async" class="align-center" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Ep11-Square_0.png" alt="Goal Talk podcast season 1 episode 12 artwork." data-entity-type="file" data-entity-uuid="49d32ff6-2d0a-4fb2-9170-1e8b804b1598" /></p>
+<p>&nbsp;</p>
+<p>In this episode, I interview Customer Success Program Manager Jeff Stevens on how to effectively write ad copy that inspires clicks for any industry.</p>
+<p>Throughout the episode, we discuss:</p>
+<ul>
+<li>How to approach writing compelling ad copy.</li>
+<li>How to meet Google’s set of conditions for a high quality score.</li>
+<li>How to organize your headlines and descriptions.</li>
+<li>Different formats and extensions to utilize.</li>
+<li>How to use keywords for relevancy and extensions.</li>
+<li>And more!</li>
+</ul>
+<p><strong>An important note about the episode: </strong>This interview with Jeff was recorded before we’ve felt the majority of the effects of the coronavirus pandemic. These insights are mainly focused on tactics available within the traditional marketing landscape, so some options will not be available to you or your business at the moment. Regardless, these insights to writing ad copy will benefit you in adjusting existing copy and for writing new ads.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="eac411df-963e-432f-9aaa-4851916079f6" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/gpPdGH2zz18?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p><a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">The Goal Talk podcast </a>is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode">Goal Talk Podcast Episode 12: The Dos &amp; Don&#8217;ts of Effective Ad Copy</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/04/28/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 11: Small Business Marketing During COVID-19</title>
+		<link>https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode-11/</guid>
+
+					<description><![CDATA[<p>On this week's episode of the Goal Talk podcast, host Mikayla Wyman  talks to Director of Strategic Partnerships Mark Irvine about marketing during COVID-19, including impacts on Google Ads, tips for reaching customers, and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode">Goal Talk Podcast Episode 11: Small Business Marketing During COVID-19</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On each episode of this season of the<a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative="> Goal Talk podcast</a>, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, I spoke with our customer marketing expert Kim Castings about all of the ways companies can create customer marketing programs to help them retain, get feedback, and connect with customers. This episode was packed with insights and examples of companies we see doing great customer marketing, and ways for marketers to adjust their current marketing campaigns to include customer marketing tactics. If you haven’t heard last week’s episode with Kim yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can listen here</a>.</p>
+<h2>This week’s topic: Marketing and managing a small business during the COVID-19 pandemic</h2>
+<p>The COVID-19 pandemic has caused so much uncertainty, and the digital marketing landscape is no different. As search and buying behavior changes in the wake of public health concerns, our <a href="https://www.wordstream.com/covid-19-marketing-resources">marketing tactics must follow</a>. And in this week’s episode, I have a very special guest to the podcast!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=episode12" data-entity-type="media" data-entity-uuid="3a45dcf5-f19d-4500-a706-02ff4a82bbeb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Covid-Square20SMALL2028129.png" alt="Goal Talk podcast season 1 episode 11 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>Drumroll, please … Welcome to the podcast, <a href="https://www.wordstream.com/mark-irvine-42">Mark Irvine</a>! WordStream’s Director of Strategic Partnerships Mark Irvine was voted #1 most influential PPC expert by <a href="https://www.ppchero.com/the-top-25-most-influential-experts-of-2019/">PPC Hero</a> and Microsoft Advertising. He has been with WordStream for over 7 years and travels across the globe to speak and engage with marketers about PPC.</p>
+<p>One of Mark’s responsibilities at WordStream is to analyze and help produce our industry research, data trends, and <a href="https://www.wordstream.com/blog/ws/2020/04/06/google-ads-benchmarks-during-covid-19">benchmarks</a> for the search marketing industry. In this very special episode, Mark and I discuss the current digital marketing landscape, and how it has changed in response to social distancing and government mandates around the COVID-19 pandemic. Throughout the episode, you’ll get:</p>
+<ul>
+<li>How COVID-19 has changed the <a href="https://www.wordstream.com/blog/ws/2020/03/23/covid-19-business-trends">state</a> of digital marketing.</li>
+<li>How COVID-19 has shifted the way that people are <a href="https://www.wordstream.com/blog/ws/2020/03/30/covid-19-google-search-trends">searching online</a>.</li>
+<li>Some of the most notable changes to the <a href="https://www.wordstream.com/blog/ws/2020/04/06/google-ads-benchmarks-during-covid-19">2020 PPC benchmarks</a>.</li>
+<li>What marketers should focus on updating within their accounts.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2020/03/18/covid-19-google-ads-data">Industry winners and losers</a> in response to the changes.</li>
+<li>Updates businesses should make to their <a href="https://localiq.com/blog/listings-management/what-are-local-listings-and-why-do-you-need-listings-management">local listings</a>.</li>
+</ul>
+<p>We’ll cover all this and more. Make sure to check out this episode to get important industry updates in response to the COVID-19 pandemic.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-embed-display-settings="https://www.youtube.com/watch?v=QJH7h4SxLwA&amp;feature=youtu.be" data-entity-type="media" data-entity-uuid="5689b898-76ad-4f3f-a68f-bb64abfffaae" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/QJH7h4SxLwA?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h3>About the podcast</h3>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode">Goal Talk Podcast Episode 11: Small Business Marketing During COVID-19</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 10: Keeping Your Customers as Happy as Can Be</title>
+		<link>https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode-10/</guid>
+
+					<description><![CDATA[<p>In this week's episode of the Goal Talk podcast, host Mikayla Wyman talks to Kim Castings about customer marketing essentials, including what it means, how to keep your company customer-led, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode">Goal Talk Podcast Episode 10: Keeping Your Customers as Happy as Can Be</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, I interviewed <a href="https://www.wordstream.com/scott-mesite-3692">Scott Mesite</a>, one of WordStream’s resident digital marketing experts to discuss everything Facebook Ads. Just like our episode about the Google Ads auction with <a href="https://www.wordstream.com/kristina-simonson-3721">Kirstina Simonson</a>, this episode was centered around how Facebook chooses each ad and how advertisers can target their audience in the most effective way. We also tackle the high-level differences between the advertising on social media versus advertising on search, as well as the changes that need to be made within an account to optimize for both. If you haven’t heard last week’s episode with Scott yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can listen here</a>.</p>
+<h2><strong>This week’s topic: Keeping your customers happy with customer marketing</strong></h2>
+<p>One of the biggest mistakes we see made by companies, both B2B and B2C, is stopping their marketing efforts after the sale. While of course marketing is pivotal to earn customers for your business and get the word out about your offer, it’s equally as important to continue to <a href="https://www.wordstream.com/blog/ws/2016/04/19/customer-marketing-strategies">build a relationship with customers </a>after you have completed the sale. Whether your product is something that can be repeatedly purchased by your customer or is a one-time buy, these insights are valuable for all marketers as they help with improving retention, bettering your product to fit more customers’ <a href="https://www.wordstream.com/blog/ws/2018/02/28/pain-points">needs</a>, and helping your business earn <a href="https://www.wordstream.com/blog/ws/2019/05/06/referral-marketing">referrals</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=episode10" data-entity-type="media" data-entity-uuid="c1979f1b-832f-4b5f-94d3-44e06ba675ef" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/SM.png" alt="Goal talk podcast, season 1 episode 10 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>This week, I sat down with WordStream’s resident customer marketing champion <a href="https://www.wordstream.com/kim-castings-3985">Kim Castings</a> to discuss exactly what customer marketing means and how you can build a truly customer-first business. Throughout the episode, you’ll learn:</p>
+<ul>
+<li>What customer marketing means, and how a company can truly be customer-led.</li>
+<li>Some examples of companies that do customer marketing really well, plus what we can learn from them.</li>
+<li>Differences between how B2B and B2C companies can approach <a href="https://www.wordstream.com/blog/ws/2016/04/19/customer-marketing-strategies">being customer-led.</a></li>
+<li>The most effective ways of staying in touch with a customer after a sale.</li>
+<li>Types of data companies should be collecting to be successful in customer marketing.</li>
+</ul>
+<p>We’ll cover all this and more.</p>
+<p><strong>An important note about the episode:</strong> This interview with Kim was recorded before we’ve felt the majority of the effects of the coronavirus pandemic. These insights are mainly focused on tactics available within the traditional marketing landscape, so some options will not be available to you or your business at the moment. Regardless, customer marketing is a really important aspect of making a successful business any time, and it will make all of the difference in retention and gaining new customers.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube</a> channel, follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions, and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="0af35a20-e4aa-4c24-a8f9-a1a83dcaa8b7" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe src="https://www.youtube.com/embed/Yrz1t43k7HE?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode">Goal Talk Podcast Episode 10: Keeping Your Customers as Happy as Can Be</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/04/14/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 9: Everything You Need to Know About the Facebook Ads Auction</title>
+		<link>https://www.wordstream.com/blog/ws/2020/04/07/goal-talk-episode-9</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/04/07/goal-talk-episode-9#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/04/08/goal-talk-episode-9/</guid>
+
+					<description><![CDATA[<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully grow their businesses.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/07/goal-talk-episode-9">Goal Talk Podcast Episode 9: Everything You Need to Know About the Facebook Ads Auction</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, I sat down with one of WordStream’s executives to discuss employee potential, specifically how to identify and foster high-potential employees on your team. In the episode, WordStream’s Vice President of People Success Lucy Lemons team talked me through tips for empowering those employees as a manager as well as how to manage up as a high potential employee hungry for more. There are a lot of great management insights in this episode that are applicable to most! If you haven’t heard that episode yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can listen here</a>.</p>
+<h2 dir="ltr"><strong>This week’s topic: The Facebooks ads auction</strong></h2>
+<p dir="ltr">A couple of weeks ago, we broke down how the Google Ads auction works, including how Google’s algorithm chooses which ad to show, how to best optimize, how budgets are spent, and which metrics are the most vital to track. This week, we tackle another extremely popular social media platform for advertisers, Facebook and Instagram.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=" data-entity-type="media" data-entity-uuid="2686f115-3e8e-4bc4-a086-25995c44142d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/goal-talk-Ep09-square20small_0.png" alt="Goal Talk podcast season 1 episode 9 art work." width="800" height="800" /></div>
+</article>
+</div>
+<p>For this episode, WordStream’s Manager of Paid Search <a href="https://www.wordstream.com/scott-mesite-3692">Scott Mesite</a> and I talk through how the Facebook ad auction works to better understand how best to set up campaigns, structure accounts, set budgets, and optimize your ads to be successful on the platform.</p>
+<p>Throughout the episode, you’ll learn:</p>
+<ul>
+<li>Which factors determine whether your ads show for a user.</li>
+<li>Some of the targeting options available for advertisers.</li>
+<li>Which metrics are most important to track.</li>
+<li>How Facebook determines how much money you’ll spend on a campaign.</li>
+<li>The major <a href="https://www.wordstream.com/facebook-vs-google">differences</a> between advertising on search versus <a href="https://www.wordstream.com/blog/ws/2018/08/20/facebook-ad-guidelines">advertising on social media</a>.</li>
+</ul>
+<p>We’ll cover all this and more. With this episode, we’re back into discussing more in-depth marketing tactics with this episode, so make sure to let us know if you have any follow-up questions or suggestions for more topics!</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, and follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="974d675d-b6a6-4373-ac78-61fa8b2c164a" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/UULjACraqLs?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/04/07/goal-talk-episode-9">Goal Talk Podcast Episode 9: Everything You Need to Know About the Facebook Ads Auction</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/04/07/goal-talk-episode-9/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 8: Unlocking Your Employee&#8217;s True Potential</title>
+		<link>https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode-8/</guid>
+
+					<description><![CDATA[<p>In this week's episode of the Goal Talk podcast, host Mikayla Wyman talks with VP of People Success Lucy Lemons about high-potential employees, including how to identify these individuals, tips for managing up, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode">Goal Talk Podcast Episode 8: Unlocking Your Employee&#8217;s True Potential</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Goal Talk Podcast Episode 8: Unlocking Your Employee’s True Potential</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+March 31, 2020</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">WordStream</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, we started in on our digital marketing deep-dive by getting into detail about how the Google Ads auction works. And who better to take me through it than WordStream’s in-house Google Ads account manager, Kristina Simonson. Throughout the episode, we went through everything from how Google determines which ad to show, how Google determines how much you’re going to spend, which metrics are the most important to track, and more. If you’re just venturing into the world of advertising online, this preliminary Google Ads episode is a great one to listen to. If you haven’t heard that episode yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can listen here</a>.</p>
+<h2>This week’s topic: How to identify and foster high-potential employees</h2>
+<p>As a manager or a business owner, you likely have a team of individuals reporting to you. Sometimes, you’re able to identify those who are highly engaged, high producing, and express the drive to do more than what their job currently entails. Those individuals can be <a href="https://www.pmg.com/blog/strategies-for-managing-high-potential-employees/">classified as high-potential</a>, and require a specific type of guidance for the relationship to work for both them and your business. So how do you identify and empower your employees that may be high potential?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=" data-entity-type="media" data-entity-uuid="1e5f904b-ab10-409e-938a-088247b82077" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Ep08-800SQ2028129.png" alt="Goal Talk Podcast Episode 8 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>In this next management focused episode of the Goal Talk podcast, we dive more deeply into the specifics around being an effective manager for your employees, and how you can realistically approach fostering a high potential employee to be as successful as possible.</p>
+<p>In this week’s episode, I sit down with Lucy Lemons, WordStream’s VP of People Success to discuss:</p>
+<ul>
+<li>What it means to be a high potential employee.</li>
+<li>How to identify a high-potential employee on your team.</li>
+<li>Tips for employees to “manage up” if they’re not feeling supported.</li>
+<li>How managers can find a balance between challenging and supporting employees.</li>
+<li>How WordStream approaches high potential employees.</li>
+</ul>
+<p>Throughout the episode, Lucy and I talk through all of the above topics as well as give specific examples and tools to use to be an effective manager when working with high potential individuals.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts</a> and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, and follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="247e1cc0-f637-4bba-bf2b-2ce7917b3018" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/mV2ZXOPqDDw?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The Goal Talk podcast is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. Listen <a href="https://www.wordstream.com/goal-talk" target="_blank" rel="noopener">here</a>.</p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode">Goal Talk Podcast Episode 8: Unlocking Your Employee&#8217;s True Potential</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/03/31/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Goal Talk Podcast Episode 7: The Basics of the Google Ads Auction</title>
+		<link>https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode#respond</comments>
+		
+		<dc:creator><![CDATA[Mikayla Wyman]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[WordStream]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode-7/</guid>
+
+					<description><![CDATA[<p>On this week's episode of the Goal Talk podcast, host Mikayla Wyman talks Google Ads strategies with PPC expert Kristina Simonson!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode">Goal Talk Podcast Episode 7: The Basics of the Google Ads Auction</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Goal Talk Podcast Episode 7: The Basics of the Google Ads Auction</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+March 24, 2020</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">WordStream</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<p>On each episode of this season of the Goal Talk podcast, I interview a marketing or management expert to bring small business owners and marketers the information they need to successfully <a href="https://www.wordstream.com/growth-academy">grow</a> their businesses.</p>
+<p>Last week, I sat down with WordStream’s Talent Acquisition Manager Nicole DeSisto to discuss the best processes to follow when getting ready to build out your team. She broke down everything from understanding when you should add on to your team to finding applicants and offering competitive compensation. Whether you’re just starting to build out your team or continuing to expand, it’s sure to help you navigate the process. If you haven’t heard that episode yet, <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">you can listen here.</a></p>
+<h2>This week’s topic: The basics of the Google Ads auction</h2>
+<p>In our last marketing episode, we discussed digital advertising at a high level across many platforms such as Google, Facebook, Instagram, and Bing. This week, we’re diving into one of the biggest ad platforms to discuss how the <a href="https://www.wordstream.com/articles/what-is-google-adwords">Google ad auction</a> actually works so you can better position your campaigns for success.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-embed-display-settings="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=" data-entity-type="media" data-entity-uuid="9609c2b8-9534-4d80-8909-ecc973646308" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/Goal-Talk-Ep07-Square20copy2028129.png" alt="Goal Talk podcast season 1 episode 7 artwork." width="800" height="800" /></div>
+</article>
+</div>
+<p>Advertising on Google encompasses quite a few of their owned platforms, including search, display, Gmail, and <a href="https://www.wordstream.com/blog/ws/2017/02/23/youtube-advertising-tips">YouTube</a>. In this episode, we’re specifically breaking down how the <a href="https://www.wordstream.com/articles/what-is-google-adwords">Google Ads auction works for search</a>, and what specifically Google takes into account when determining which ad to show for a related search query.</p>
+<p>For this episode, I sit down with WordStream’s own PPC account manager and in-house expert <a href="https://www.wordstream.com/kristina-simonson-3721">Kristina Simonson</a> to discuss:</p>
+<ul>
+<li>Which factors determine your ad showing over a competitor.</li>
+<li>How Google determines how much you’re going to spend on a placement.</li>
+<li>How bidding methods work.</li>
+<li>Which key metrics you need to track.</li>
+<li>How Google adjusts to changes within an account.</li>
+</ul>
+<p>Throughout this episode, Kristina and I cover all this and more to give you an in-depth understanding of how Google prioritizes advertisements and matches relevant ads with a user. Fair warning! This episode is a little more technical than our previous episodes, as we’re moving further along our marketing journey.</p>
+<p>You can find this week’s episode on <a href="https://podcasts.apple.com/us/podcast/goal-talk-podcast/id1497955409">Apple Podcasts </a>and <a href="https://open.spotify.com/show/7BnP53IsIOkydFl1qPKD7E">Spotify</a>, as well as your favorite podcast app. Also, don’t forget to watch new episodes on our <a href="https://www.youtube.com/channel/UCrvBaHMLtSQ55IWAZiRQuQQ">YouTube channel</a>, and follow the podcast’s <a href="https://twitter.com/goaltalkpodcast">Twitter</a> account for episode releases, ask the hosts questions and join in on the conversation.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="fc9cfd83-1c61-4139-a212-a81d406f46b2" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/ciVm41gnvO0?autoplay=0&amp;start=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<h2>About the podcast</h2>
+<p>The <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Goal Talk podcast</a> is all about giving small business owners and marketers the information they need to succeed. From advertising tactics that help you personalize your message for your customers to management styles that will help your employees perform at their full potential and feel satisfied in their role, we’re sharing valuable takeaways to help you and your business flourish by interviewing the experts and sharing their insights. <a href="https://www.wordstream.com/goal-talk?utm_source=blog&amp;utm_medium=organic&amp;utm_content=&amp;utm_creative=">Listen here.</a></p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode">Goal Talk Podcast Episode 7: The Basics of the Google Ads Auction</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/03/24/goal-talk-episode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

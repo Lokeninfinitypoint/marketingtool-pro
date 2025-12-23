@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu" transform="translate(-397, -179)" stroke-width="1.5">
+            <g id="monitor-graph-line" transform="translate(398, 180)">
+                <polygon id="Shape" stroke="#3A56BC" points="14.25 21.6 8.25 21.6 9 17.28 13.5 17.28"></polygon>
+                <line x1="6" y1="21.6" x2="16.5" y2="21.6" id="Shape" stroke="#3A56BC"></line>
+                <path d="M0,10.08 L3.97,6.26976 C4.11049529,6.13469229 4.30116802,6.05879586 4.5,6.05879586 C4.69883198,6.05879586 4.88950471,6.13469229 5.03,6.26976 L6.97,8.1312 C7.11049529,8.26626771 7.30116802,8.34216414 7.5,8.34216414 C7.69883198,8.34216414 7.88950471,8.26626771 8.03,8.1312 L12,4.32" id="Shape" stroke="#FFAF24"></path>
+                <rect id="Rectangle-path" stroke="#3A56BC" x="0" y="0" width="22.5" height="17.28" rx="3"></rect>
+                <path d="M18,4.31999912 L15.967,4.31999912 C15.3234033,4.31928331 14.769894,4.75730034 14.6478091,5.36393565 C14.5257241,5.97057096 14.8694422,6.57499802 15.467,6.80448 L17.531,7.59648 C18.1271734,7.82676079 18.4696241,8.43044706 18.3476786,9.03615486 C18.2257332,9.64186267 17.6736219,10.0795691 17.031,10.08 L15,10.08" id="Shape" stroke="#FFAF24"></path>
+                <line x1="16.5" y1="4.32" x2="16.5" y2="3.6" id="Shape" stroke="#FFAF24"></line>
+                <line x1="16.5" y1="10.8" x2="16.5" y2="10.08" id="Shape" stroke="#FFAF24"></line>
+                <line x1="0" y1="14.4" x2="22.5" y2="14.4" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

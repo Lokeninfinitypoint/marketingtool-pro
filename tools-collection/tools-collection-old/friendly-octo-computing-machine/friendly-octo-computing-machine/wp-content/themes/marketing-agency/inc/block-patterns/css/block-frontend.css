@@ -1,0 +1,99 @@
+.banner-section, .article-outer-box{
+  width: auto;
+  height: auto;
+}
+/*Banner section*/
+.banner-section {
+  clip-path: polygon(50% 0, 100% 0, 100% 85%, 50% 100%, 0% 85%, 0 0);
+}
+.banner-section .wp-block-column.is-vertically-aligned-center {
+  position: relative;
+  top: 50%;
+  left: 11%;
+}
+.banner-section h1 {
+  font-weight: bold;
+  font-size: 42px;
+  color: #fff !important;
+}
+.banner-section p {
+  color: #fff !important;
+}
+.banner-section .btn{
+  padding: 0;
+}
+.banner-section .btn a{
+  font-size: 12px;
+  font-weight: bold;
+  border-image: linear-gradient(to right, #5d17df , #0985f9) !important;
+}
+.banner-section .btn a:hover {
+  background: #fff !important;
+  color: #5d17df;
+  border: solid 2px;
+  border-radius: 30px;
+}
+.banner-section .banner-circle-img figure.aligncenter.size-large.is-resized{
+  border: none !important;
+}
+#content-vw img {
+  box-shadow: none !important;
+}
+/*Article section*/
+.article-outer-box{
+  margin-top: 20px;
+}
+.article-container {
+  margin: 0 auto !important;
+  max-width: 1100px !important;
+  margin-top: 2em !important;
+}
+.article-section{
+  border: 1px solid #dee2e6;
+  padding: 20px;
+}
+.article-section:hover {
+  background-image: linear-gradient(to right, #5d17df , #0985f9);
+}
+.article-section figure.aligncenter.size-large{
+  border: none !important;
+}
+.article-outer-box .article-section img{
+  filter: inherit;
+  -webkit-filter: inherit;
+}
+.article-outer-box .article-section:hover img {
+  filter: contrast(100%) brightness(300%);
+  -webkit-filter: contrast(10%) brightness(200%);
+}
+.article-section h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.article-section:hover h3, .article-section:hover p{
+  color: #fff !important;
+}
+@media screen and (max-width:720px) {
+  .banner-section h1 {
+    font-size: 25px;
+  }
+  .banner-section p{
+    display: none !important;
+  }
+}
+@media screen and (max-width:768px) and (min-width:426px){
+  .article-container{
+    flex-wrap: nowrap !important;
+  }
+}
+@media screen and (max-width:1024px) {
+  .alignwide.article-outer-box {
+    margin: 0;
+  }
+  .article-section{
+    margin-bottom: 20px;
+  }
+  .banner-section p{
+    margin-right: 40px !important;
+  }
+}

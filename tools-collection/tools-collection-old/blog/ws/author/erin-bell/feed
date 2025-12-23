@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Erin Bell, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/erin-bell/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 19 May 2025 18:55:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Erin Bell, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PPC Keyword Research Guide: How to Find the Words for Your Paid Search Campaigns</title>
+		<link>https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Bell]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide/</guid>
+
+					<description><![CDATA[<p>PPC search campaigns revolve around keywords, and you need to find the RIGHT keywords to succeed. Learn how to find, refine, and organize keywords for your PPC campaigns in this PPC keyword research guide. Beginner to intermediate level.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide">PPC Keyword Research Guide: How to Find the Words for Your Paid Search Campaigns</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The cornerstone of any successful PPC campaign is keyword research – choosing the best keywords to bid on that are most likely to result in clicks and conversions. <a href="/blog/ws/2017/08/09/easy-keyword-research-guide">Keyword research</a> is part science and part art. It&#8217;s about using the myriad tools at your disposal, but also understanding your customers and predicting which terms they&#8217;re actually typing into the search box. That’s the best way to ensure that your ads show up <strong>at the <a href="https://www.wordstream.com/blog/ws/2020/03/19/best-time-to-run-facebook-ads">right time</a> and in the right place</strong>: when they’re searching for the kinds of products or services you offer.</p>
+<p>In this guide, you’ll learn a set of methodologies to help you <strong>acquire</strong>, <strong>refine</strong>, and <strong>organize</strong> your PPC keywords, all in the service of better targeted and more effective pay-per-click campaigns.</p>
+<h2>Getting Started: Brainstorming a PPC Keyword List</h2>
+<p>The starting point for keyword research <a href="https://www.wordstream.com/keywords?cid=Web_Blog_InContentTextLink_FKT"><strong>(which you can use our Free Keyword Tool for!)</strong></a> should be the website landing page(s) that your ads will be linking to. Begin by scanning each page and harvesting relevant keywords from the text. Assuming you have a website with well-written and relevant copy, there should be enough material to put together a fairly comprehensive list of keywords that directly relate to your products or services.</p>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/x_mpi9jQ2tc?autoplay=0&amp;start=3&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<p>Keywords can be broadly organized into the following types:</p>
+<ul>
+<li><strong>Brand terms</strong> – any keywords containing your brand name and trademarked terms.</li>
+<li><strong>Generic terms</strong> – terms relating to products (<a href="/blog/ws/2016/01/21/e-commerce-keyword-research">e-commerce keywords</a>) or services offered.</li>
+<li><strong>Related terms</strong> – terms that don’t directly relate to what you’re selling, but that users who want your products or services may be searching for.</li>
+<li><strong>Competitor terms</strong> – the brand names of competitors who are offering similar products and services to yours (and try a <a href="https://www.wordstream.com/blog/ppc-keyword-gap-analysis">gap analysis</a>, too).</li>
+</ul>
+<p>For example, if I was researching a campaign to advertise Nike running shoes, my list might look like this:</p>
+<div style="display: flex; justify-content: center;"><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-keyword-research-keyword-types-1.png" alt="PPC keyword types" width="633" height="304" /></div>
+<p>Note: Bidding on a competitor&#8217;s <a href="/blog/ws/2013/03/19/why-bid-on-branded-terms-ppc">brand terms</a> is usually expensive, and can quickly chew through a modest budget, so unless you have a comfortable cushion of money to play with and/or you&#8217;re specifically running a &#8220;conquest&#8221; type of campaign, think carefully about whether the return on investment is worth it.</p>
+<p>Some more tips for the keyword brainstorming stage:</p>
+<p><strong>Put yourself into your customers&#8217; shoes.</strong> What kinds of words and queries would they need to type (or speak) into the search box to bring them to your website?</p>
+<p><strong>Start with broad keywords, and move to the specific.</strong> For example:</p>
+<p>Shirts -&gt; women’s shirts -&gt; women’s long-sleeve shirts -&gt; women’s black long-sleeve shirts</p>
+<p><strong>Include variations and synonyms in your keyword list.</strong> Search engines can sometimes make connections between related terms (such as realizing that &#8220;sneakers&#8221; and &#8220;running shoes&#8221; are the same product), but not always, so it&#8217;s best to include them – especially if you&#8217;re planning to set your match type to Exact. Ditto for short forms, abbreviations, and even plurals.</p>
+<p>Taking the keyword &#8220;womens long-sleeve shirts&#8221; from above, I&#8217;d probably jot down variations like:</p>
+<ul>
+<li>Women’s long-sleeve shirts</li>
+<li>Women’s long-sleeve tees</li>
+<li>Women’s long-sleeve Ts</li>
+<li>Women’s long-sleeve t-shirts</li>
+<li>Women&#8217;s long-sleeved shirt</li>
+<li>Ladies long-sleeve shirt</li>
+</ul>
+<p><strong>Consider specificity when selecting keywords.</strong> Sometimes it can be beneficial to include broad or &#8220;head&#8221; terms in a campaign (usually single words or short phrases) because they have higher search volume – however, a broad keyword like &#8220;shirts&#8221; could be used by people searching for women&#8217;s shirts, kid&#8217;s shirts, men&#8217;s shirts, and so on, so your product won&#8217;t always be relevant to them. On the other hand, a very specific, <a href="/blog/ws/2012/11/07/how-to-find-long-tail-keywords">long-tail keyword phrase</a> like &#8220;men&#8217;s black long-sleeve shirts&#8221; might only get a handful of searches per month, but the user will be much more likely to click your ad and follow through with a purchase, because it&#8217;s exactly what the person is looking for. As an added bonus, long-tail keywords are less competitive and therefore less costly.</p>
+<p><strong>Including keywords that are related to your product or service</strong> can be beneficial to attracting customers that will likely be interested in what you&#8217;re selling. For example, if you sell dog food you could include topics that dog owners would search for, such as dog grooming, dog breeds, dog health issues, dog sitters, dog accessories, and so on.</p>
+<p><strong>You can use a technique called &#8220;concatenation&#8221;</strong> to quickly expand keyword lists by merging columns of words together using online tools like <a href="http://mergewords.com/">mergewords</a> or <a href="http://www.found.co.uk/ppc-keyword-tool/">Found&#8217;s Ultimate PPC Keyword Concatenation Tool</a>, or the =CONCATENATE() command in Microsoft Excel. In the example below I&#8217;ve put the product in the third column, and two modifiers (type and color) in the left and middle columns, and the tool generates a list of all possible permutations of those nine terms.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-keyword-research-concatenate-1.png" alt="ppc-keyword-research-concatenate" width="800" height="508" /></div>
+<p><strong>Because people don&#8217;t always type in perfect English, keyword research can also include misspelled words</strong> (Christmas, Cristmas, Chrismas, Chritmas) as well as alternate spellings (Hannukah, Chanukah, Hanukah, Hannuka). A word of warning, though: don&#8217;t include misspelled keywords in an ad group if you&#8217;re using Dynamic Keyword Insertion (DKI) in your ad copy. This will pull the misspelled keyword into your ad and make it look unprofessional. Create a separate ad group for misspellings. Also, note that Google has gotten very good at recognizing misspellings, so this step is not altogether necessary.</p>
+<p><strong>Search engines are increasingly able to understand longer strings of words</strong>, in a nod to the growing number of voice-led queries from people speaking questions into their mobile phones to search for things on the go. Be sure to take this into account, and include not only search terms that might come from a keyboard, but terms that reflect how people actually speak – they aren&#8217;t one in the same. For example, a more traditional search query might be “Thai restaurants New York” but someone searching on a phone might say “what’s the best Thai restaurant in New York?” or “where can I get Thai food in New York?” Don&#8217;t be afraid to include variations such as &#8220;How can I…?&#8221; &#8220;How do you…?&#8221; &#8220;Where can I…?&#8221; and &#8220;What is…?&#8221;</p>
+<h2>Expand and Refine Your List with Keyword Research Tools</h2>
+<p>Armed with a decent list of terms to bid on, the next step is to use the <a href="https://www.wordstream.com/blog/ws/2020/02/20/cross-platform-keyword-research-tools">keyword research tools</a> at your disposal to determine which keywords to keep, and which to drop. It’s not enough to just go on your gut – keyword tools help you zero in on the terms that people are actually typing into search engines. There are dozens of tools to give you insights into how popular certain keywords are, from Google’s <a href="https://adwords.google.com/ko/KeywordPlanner/">Keyword Planner</a> (included inside Google Ads, formerly known as AdWords) to WordStream’s free <a href="/keywords">Keyword Suggestion Tool</a>.</p>
+<p>Each keyword tool is a little different, but the key stat you&#8217;re looking for is search volume. The higher the search volume, the more people are searching for that given term per month.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-keyword-research-keyword-ideas-1.png" alt="PPC Keyword Ideas" width="690" height="603" /></div>
+<p>The Google Ads Keyword Planner also assigns a &#8220;Competition&#8221; rank of high, medium, or low. A high competition rating means that more advertisers are bidding on these terms, which means you’ll have to pay more to get your ad to the top positions.</p>
+<p>In the example above, the search term &#8220;mens jogging shoes&#8221; at the bottom of the list has a low search volume – an average of just 10 searches per month. However, on the plus, side the competition index is lower.</p>
+<p><strong>High-volume, low-competition keywords are the sweet spot you should be looking for </strong>– keywords that will drive substantial traffic without costing you a fortune.</p>
+<p>Some, keyword tools, like the Keyword Planner, can also suggest additional keyword ideas that you missed in your initial list. Free online tools like <a href="http://ubersuggest.org/">Ubersuggest</a> and <a href="http://www.soovle.com/">Soovle</a> can help with this as well – just type in a keyword and the tools will spit out a list of variations.</p>
+<p><strong>MORE:</strong> <a href="/blog/ws/2013/09/18/best-keyword-research-tools">The 8 Best Keyword Research Tools for PPC &amp; SEO</a></p>
+<p>If keywords have little or no search volume, or the competition is so high that the cost of bidding on that keyword would eat up your budget too quickly, drop them from the list. Using the keyword tool you should be able to prune back certain keywords while discovering new terms that you hadn’t thought of.</p>
+<p><em><strong>It&#8217;s time to find out which keywords are burning your budget. <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AdWordsGrader_AWGrader" target="_blank" rel="noopener">Get a free account audit with our Google Ads Performance Grader today!</a></strong></em></p>
+<h2>Sorting and Organizing Your PPC Keywords</h2>
+<p>By now you should have a pretty impressive keyword list. It&#8217;s now time to sort your list into small, targeted groups of keywords that are closely related to each other. These groupings will correspond to your <a href="/ad-groups">ad groups</a> in Google Ads (or Bing Ads, etc.).</p>
+<p>If you&#8217;re selling a straightforward list of products or services, a good rule of thumb is for your ad groups to mimic the structure of your website. For example, if you&#8217;re selling dog food, your campaign might look something like this:</p>
+<p>Brand &#8211; Purina Dog Food</p>
+<p>Brand &#8211; IAMS Dog Food</p>
+<p>Brand &#8211; Royal Canin Dog Food</p>
+<p>Generic &#8211; Dog Food</p>
+<p>Generic &#8211; Dog Food &#8211; Chicken</p>
+<p>Generic &#8211; Dog Food &#8211; Beef</p>
+<p>Generic &#8211; Dog Food &#8211; Kibble</p>
+<p>Generic &#8211; Puppy Food</p>
+<p>The tighter and more focused your ad groups are, the easier it will be to:</p>
+<ul>
+<li><a href="/learn/adwords-reporting-tool">Measure the performance</a> of each keyword</li>
+<li>Prune or expand your lists if necessary</li>
+<li>Create highly specific and relevant ads</li>
+</ul>
+<p>This last point is especially crucial. Small, tightly organized ad groups have multiplying beneficial effects on your account. Well-organized campaigns have more relevance, and higher relevance leads to higher Quality Scores, which (as we’ve told you many times) simultaneously increase your ad rankings and reduce what you pay for each click and each conversion. Healthy PPC accounts always have healthy Quality Scores, and strong keyword organization can go a long way toward improving your scores.</p>
+<p><strong>MORE:</strong> <a href="http://marketing.wordstream.com/Keyword-Grouping-White-Paper.html">4 Steps to Better Keyword Grouping</a></p>
+<h2>Don’t Forget to Add Negative Keywords</h2>
+<p>As you create your keyword list, don&#8217;t forget about <strong>negative keywords</strong>. These are the search terms that you <em>don&#8217;t </em>want your ads to show up for, and they&#8217;re an important part of any campaign, because they help control costs and keep your ad targeting as relevant as possible.</p>
+<p>The main reason to include negative keywords is to prevent your ads – and, by extension, your brand – from showing up alongside search queries that are irrelevant or offensive. For example, a seller of high-end furniture would want to target affluent customers, and would add terms like &#8220;cheap&#8221; and &#8220;free&#8221; to the negatives list to prevent their ads for appearing alongside those terms. You’ll also want to rule out impressions on terms that are similar to but not really related to your business – such as “hair dryer” if you sell home appliances including washers and dryers.</p>
+<p>Here are some tips for finding negative keywords for your PPC campaigns:</p>
+<ol>
+<li><strong>Keep an eye on your search query reports.</strong> This is a great way to find out what searchers are looking for when Google serves your ad. If you see words in your search query report that you know are not a good fit for your account, set them as negatives before you run the risk of showing for them again.</li>
+<li><strong>Know your negative match types.</strong> The match type that you assign to a negative keyword has an enormous impact on what traffic it blocks. As a general rule of thumb, use <a href="/blog/ws/2013/11/04/negative-broad-match">broad match negatives</a> to disqualify <em>any</em> query that contains your negative term, such as “free.” Use phrase and exact match negatives to disqualify more specific queries that contain long-tail negative keywords.</li>
+<li><strong>Explore<a href="/negative-keywords"> negative keyword</a> options before your campaign goes live.</strong> The more negatives you set before a campaign goes live, the more cash you’ll save right off the bat. There are many tools out there to help you find potential negatives, based on your current keyword choices.</li>
+<li><strong>Remember that you can apply multi-level negatives.</strong> Chances are, you will identify some negatives that are good fits across multiple ad groups or campaigns.</li>
+<li><strong>Don’t go overboard!</strong> Negatives are an important aspect of any PPC campaign, but an improperly used negative can hurt your account and kill your impression volume. As you set each negative, be sure that, should a searcher use that term, it is highly unlikely that they would convert on your site.</li>
+</ol>
+<p>Finally, keep going! You’re not going to discover every keyword you should bid on (or exclude) in PPC on the first go, so iterate on keyword research regularly. We recommend spending about <a href="/blog/ws/2012/07/10/20-minute-ppc-work-week-checklist">15% of your PPC management time</a> to <a href="https://www.wordstream.com/ppc-keyword-research">PPC keyword research</a>. Ideally, you’ll do a little bit of keyword research (adding new keywords, setting new negatives, or experimenting with new match types) every week. Over time, your account will get stronger and more relevant because of it.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide">PPC Keyword Research Guide: How to Find the Words for Your Paid Search Campaigns</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/11/21/ppc-keyword-research-guide/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Complete Guide to Geotargeting &#038; Local PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Bell]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide/</guid>
+
+					<description><![CDATA[<p>Make your Google Ad budget go farther by focusing your ads where they count! Learn how to set up and manage a local PPC campaign in our complete guide to Google Ads geotargeting, including tips and best practices for more effective local PPC.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide">Complete Guide to Geotargeting &amp; Local PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Unless you have plans for world domination, your pay-per-click ads don&#8217;t need to be seen by everyone on the planet. It&#8217;s much more likely that the products and services you’re advertising will be limited to a handful of countries, cities, or even city blocks. This is where <a href="https://www.wordstream.com/blog/ws/2019/06/19/location-based-marketing">geotargeting</a> comes in.</p>
+<p>Geotargeting, or <a href="/blog/ws/2015/06/11/local-ppc-tips">local PPC</a>, is a feature that lets you target your search ads to only appear to customers in a certain location, or set of locations, that you specify. For businesses that rely on foot traffic (like restaurants), proximity (like used car dealerships by city), and deliveries (like an e-store that ships to certain countries but not others), geotargeting is an absolute no-brainer.</p>
+<p>With geotargeting, you won’t squander your ad budget on <a href="/blog/ws/2013/10/23/five-ppc-account-leakages">wasted clicks</a> from people who are outside your target area, and you’ll increase the chances that the people clicking on your ads are actually eligible to receive your products and services. In other words, <strong>geotargeting is essential if you want to make the most efficient use of your limited advertising spend</strong>.</p>
+<p>In this guide, we’ll:</p>
+<ul>
+<li>Review the setup process for geotargeting (in Google Ads in particular)</li>
+<li>Explain how to manage a geotargeted campaign</li>
+<li>Share some tips and best practices for <a href="//www.wordstream.com/blog/ws/2019/03/21/local-business-advertising">maximizing local PPC</a></li>
+</ul>
+<p>Let’s get started!</p>
+<p><em><strong>Ready to find out what&#8217;s draining your PPC budget? <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Get a free Google Ads performance grade to learn where you&#8217;re struggling and how to fix it</a>!</strong></em></p>
+<h2>Geotargeting Setup</h2>
+<p>In Google Ads, select the campaign you wish to target, and click on the <strong>Settings</strong> tab. Scroll down to the <strong>Locations and Languages</strong> section, and click on <strong>edit</strong> under <strong>Locations</strong>.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geotargeting-guide-1-1.png" alt="AdWords Geotargeting Settings" width="711" height="525" /></div>
+<p><em>By Search</em></p>
+<p>Click the Search tab and start typing in your desired location, and select it when it appears on the drop-down menu of relevant matches. Options include country, region (such as state or province), city, postal code, and even certain airports.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geotargeting-guide-2-1.png" alt="Google AdWords Geotargeting Guide" width="702" height="688" /></div>
+<p><strong>Reach</strong> refers to how many people could potentially see your ads if you select that location.</p>
+<p>There are three choices you can click on for each location:</p>
+<p><strong>Add</strong> (adds that location to your list of targeted locations)</p>
+<p><strong>Exclude</strong> (prevent your ads from appearing to this location)</p>
+<p><strong>Nearby</strong> (generates a list of nearby regions that you might consider adding as well)</p>
+<p>When you select a region, Google Ads will display a map with the targeted area highlighted.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geotargeting-in-adwords-3-1.png" alt="Local PPC Guide" width="754" height="559" /></div>
+<p>If you have multiple regions selected, they&#8217;ll all appear on a list. Under the <strong>Selected locations</strong> tab, click on <strong>Show locations</strong> to see a larger map with all of your regions highlighted.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-geotargeting-4-1.png" alt="AdWords Local PPC" width="824" height="554" /></div>
+<p><strong>Advanced Options</strong></p>
+<p><em>By Radius</em></p>
+<p>Click the <strong>Radius</strong> tab. This allows you to select a distance radius around a location of your choice, which is also called proximity targeting. Enter a location into the box, and that becomes the center of the radius. Specify the distance around the location that you wish to target by typing a number into the next box. The drop-down to the right of the number lets you specify whether the distance is measured in miles (mi) or kilometers (km). For example, you could specify 10 miles around the radius of a restaurant to target ads to customers who are searching within that area. (Combining this geotargeting functionality with your <a href="/blog/ws/2013/09/04/mobile-advertising">mobile-optimized ads</a> could be powerful, since mobile searchers, especially in your area, tend to be ready to convert.)</p>
+<p>In the example below, the ads will target a radius of 20 miles around Boston.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geotargeting-local-ppc-5-1.png" alt="Geotargeting Radius" width="1108" height="549" /></div>
+<p>You can also create a custom radius by clicking the blue map marker icon to the left to select it, then clicking on any spot on the map to create the center of the radius.</p>
+<p><em>Bulk Editing</em></p>
+<p>Click the <strong>Bulk locations</strong> tab and you can either type or paste in up to 1000 locations at a time to add, exclude, or remove them in bulk. NOTE: Each batch of locations must be in the same country, and you can select the country code from the drop-down menu on the right.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/complete-geotargeting-guide-6-1.png" alt="Geotargeting Bulk Editing" width="558" height="431" /></div>
+<p>For your reference, here is Google&#8217;s <a href="https://developers.google.com/adwords/api/docs/appendix/geotargeting">official list of targetable locations</a>.</p>
+<h2>Managing Your Geotargeted Campaign</h2>
+<p>See which locations are generating the most traffic by clicking on the Locations tab under Settings. Here you can view standard information such as clicks, impressions, average cost-per-click (CPC), and average position, as it applies to each of your specified locations.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/local-adwords-geotargeting6-2-1.png" alt="Geotargeted AdWords Campaign" width="1096" height="585" /></div>
+<p>The <strong>Total &#8211; other locations row</strong> indicates all traffic from everywhere other than the locations you&#8217;ve specified. Unfortunately, Google Ads doesn&#8217;t get any more specific about where exactly they&#8217;re coming from, but if this number is very high you&#8217;ll want to add or exclude more locations, and follow the best practices listed below to create a more tightly targeted campaign.</p>
+<p>Use the <a href="/blog/ws/2011/11/17/adwords-search-term-report">Search Terms Report</a> to see which keyword searches triggered your ads. If you notice keywords from outside your target locations are triggering your ads, exclude these keywords by clicking the check box next to them, then selecting <strong>Add as a negative keyword</strong>. For example, if you run a car dealership in Chicago but your ads are being triggered by searches for “new cars Boston,” add the word “Boston” to your <a href="/blog/ws/2013/11/08/removing-negatives">negative keyword list</a> to avoid your ads being triggered by further searches for Boston. To bring up the Search Terms Report, go to the Campaigns tab, click <strong>Keywords</strong>, then <strong>Details</strong>, and select <strong>All</strong> from the drop-down menu to bring up the report for all keywords in the campaign.</p>
+<h2>Geotargeting Tips &amp; Best Practices</h2>
+<p><strong>Target the locations where your customers are.</strong> If you&#8217;re an online retailer who only ships within your country, target the whole country. If you&#8217;re a retail chain located in a specific region, like New England, target those states only, and exclude others. If you&#8217;re an e-store that ships internationally, target the countries that you ship to with your <a href="https://localiq.com/local-marketing-lab/ppc/">local PPC campaigns</a>. This will ensure that you’re not wasting budget on searchers in areas that your business doesn’t serve.</p>
+<p><strong>Excluding certain locations can be just as important as targeting them.</strong> For example, if your company only ships products to destinations in the mainland United States, you could set your geotargeting to include the U.S., then exclude Hawaii and Alaska.</p>
+<p><strong>Gain regional insights about your customers</strong> <strong>by using tools like <a href="https://www.wordstream.com/google-trends">Google Trends</a></strong> to research which areas are most interested in your products or services. Google Trends can show you who&#8217;s searching for a given keyword by country, subregion (such as state or province), metro, or city. The example below illustrates the top U.S. states that are searching for the term &#8220;snow blower.&#8221; Not surprisingly, they&#8217;re all states that receive a large amount of snow.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geotargeting-in-google-adwords-7-1.png" alt="Local PPC Tips" width="819" height="388" /></div>
+<p><strong>It&#8217;s still a good idea to include regional terms in your keyword lists.</strong> For example, an insurance company in Boston should include terms like &#8220;boston insurance companies&#8221; and &#8220;car insurance boston&#8221; – but thanks to geotargeting, you could also include more generic terms like &#8220;car insurance,&#8221; since geotargeting to Boston will ensure that the generic terms are only being seen by local searchers. Here is a fantastic free tool for <a href="http://www.5minutesite.com/local_keywords.php">quickly generating local keyword lists</a>. (Unfortunately, it’s limited to U.S. locations.)</p>
+<p><strong>Where possible, try to include the name of your target location in your ad, preferably in the title.</strong> If the ad text matches the user&#8217;s search query, the relevant ad text will appear in bold, which helps the ad stand out on the page.</p>
+<p><strong>Enable location extensions and call extensions in your local ads so that customers will be able to find and contact you more easily.</strong> (Location extensions let you display your business&#8217;s address with the ad, and call extensions display a phone number.)</p>
+<p><strong>And finally, there&#8217;s an important setting in Google Ads that you should change to avoid getting ad impressions from outside your target location.</strong> By default, Google targets your ads not only to people within your specified target location, but also to people who are searching <em>about </em>your target location. To change this setting, go to Campaign Settings and click on Location options (advanced). Under the Target section, click &#8220;Edit&#8221; to open the drop-down menu, and select the second option (&#8220;People in my targeted location.&#8221;)</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-use-geotargeting-8-1.png" alt="How to Use Geotargeting" width="734" height="329" /></div>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide">Complete Guide to Geotargeting &amp; Local PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Complete Guide to Google Ads Conversion Tracking</title>
+		<link>https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide#respond</comments>
+		
+		<dc:creator><![CDATA[Erin Bell]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Conversion Rates]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide/</guid>
+
+					<description><![CDATA[<p>Unless you've got conversion tracking set up properly in your Google Ads account, you won't be able to see how many of your clicks are actually resulting in conversions and sales. Check out our all-in-one guide to conversion tracking in Google Ads.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide">The Complete Guide to Google Ads Conversion Tracking</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>So you&#8217;ve got your Google Ads campaign up and running, and your ads and keywords are starting to generate an impressive number of clicks. Great! But unless you&#8217;ve got <a href="https://www.wordstream.com/blog/ws/2019/07/15/campaign-level-conversions">conversion tracking</a> installed, you won&#8217;t be able to see how many of those clicks are actually resulting in sales.</p>
+<p><a href="http://marketing.wordstream.com/WSContentDLConversionTrackingGuide.html?camplink=InContentCTA">Conversion tracking</a> is a powerful tool in Google Ads that lets you identify how well your ad campaign is generating leads, sales, downloads, <a href="/blog/ws/2014/08/05/increase-email-signups">email sign-ups</a>, and other key actions for your business. The data recorded by conversion tracking allows you to identify which areas of your campaign are working and not working, so you can optimize your bids, ad text, and keywords accordingly.</p>
+<p>Depending on your business, a conversion could be counted when a customer makes a purchase through your website, signs up for a newsletter, fills out an online survey or contact form, downloads an app or whitepaper, calls a phone number from a mobile phone, and so on. After you&#8217;ve identified what customer actions you want to <a href="/blog/ws/2014/02/13/tracking-conversions-in-adwords">track as conversions</a>, it takes just a few simple and free steps to get conversion tracking up and running for your campaign.</p>
+<p><strong>RELATED:</strong> <a href="/blog/ws/2014/03/17/what-is-a-good-conversion-rate">What Is a Good Conversion Rate?</a></p>
+<h2><strong>Google Ads Conversion Tracking: The Basic Setup</strong></h2>
+<p>Setting up conversion tracking involves generating a bit of HTML code in Google Ads that you paste into the webpage on your site that customers visit immediately after completing the conversion (such as an &#8220;Order Confirmation&#8221; or &#8220;Thanks for Your Email&#8221; page).</p>
+<p>To get started, click on the <strong>Tools and Analysis tab in Google Ads</strong>, and select <strong>Conversions </strong>from the drop-down menu, which brings up the <strong>All conversions </strong>page. Click on the <strong>Conversions </strong>tab, then click the <strong>+Conversion</strong> button to create your first conversion.</p>
+<p>You&#8217;ll be prompted to fill out a form that will help Google Ads generate the appropriate HTML code for you to paste into your webpage.</p>
+<p>Give the conversion a name, such as &#8220;Contact Form submissions&#8221; if you want to track how many times visitors fill out your site&#8217;s Contact Us form.</p>
+<p>Next, select the source of the conversion. Your choices are:</p>
+<p>1) <strong>Webpage</strong>. (If you want customers to complete an action on your webpage, such as an online purchase, contact form submission, or page visit.)</p>
+<p>2) <strong>Call on-site</strong>. (If you want customers to call the phone number on your site from a mobile device.)</p>
+<p>3) <strong>App download</strong>. (If you want customers to <a href="/blog/ws/2013/03/01/mobile-app-advertising">download your app</a>.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c5c8f1d4-9a5e-4891-baa9-c6ca48039cb6" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/new-adwords-conversion-tracking-type-1.jpg" alt="New AdWords Conversion" width="418" height="248" /></div>
+</article>
+</div>
+<p>Here&#8217;s a more detailed walkthrough of each of the three conversion sources:</p>
+<h3><strong>1) Webpage Conversions</strong></h3>
+<p>Choose the most accurate conversion category from the drop-down menu: Purchase/Sale, Signup, Lead, View of a key page (i.e. the Contact Us page), or Other. (Click image to enlarge.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="69c50b7a-a392-4ee7-8ae9-46b5336402b4" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-conversion-tracking-settings-1.jpg" alt="conversion tracking settings guide" width="1052" height="588" /></div>
+</article>
+</div>
+<p>Select the Markup language. HTML is the standard choice, but check with your web developer if one of the other alternatives (CHTML, XHTML, WML) would be more appropriate – especially if you&#8217;re running a mobile site.</p>
+<p>Next, enter a value for the conversion. You can assign an amount manually, such as 10 if you&#8217;re selling e-books for $10 each. If you&#8217;re selling a lot of different products, you can also set up the conversion tracker to record shopping cart values that change dynamically on the site. (This feature is explained in more detail in the Advanced section below.)</p>
+<p><em>Tracking indicator</em></p>
+<p>Enabling the tracking indicator causes an unobtrusive message to appear on your site letting visitors know that their visits to your site are being tracked by Google. Displaying it is optional, and you can opt out of showing the message by selecting the &#8220;Don&#8217;t add a notification to the code generated for my page&#8221; option. If you do select it (by default, the selection is &#8220;yes&#8221;) you can replace the standard message with your own, and customize the message&#8217;s appearance by changing the size (single line of text vs. two lines), page background color, and language.</p>
+<h2><a href="http://marketing.wordstream.com/WSContentDLConversionTrackingGuide.html?camplink=InContentCTA">No time to read this? Take it to-go! Download the pdf here. </a></h2>
+<p>On the next page, you&#8217;ll receive an HTML code that you&#8217;ll need to paste into the page on your site that you want to <a href="http://marketing.wordstream.com/WSContentDLConversionTrackingGuide.html?camplink=InContentCTA">track the conversion</a> for, such as the &#8220;Thanks for Visiting&#8221; page. If someone else is responsible for making changes to your website, you can email them the code along with personalized instructions.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3472e3d1-5e04-4d11-b1b4-46eac47ea525" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-conversion-tracking-html-code-1.jpg" alt="conversion tracking code" width="842" height="704" /></div>
+</article>
+</div>
+<h3><strong>2) Call On-Site Conversions</strong></h3>
+<p>If your website allows customers to call your business phone number directly from their smartphones, you can use conversion tracking to track the number of times a call is made. Go through similar steps above to generate your code, and then you&#8217;ll have to manually insert <a href="https://support.google.com/adwords/answer/1722054?hl=en">&#8220;onclick&#8221; HTML tags</a> into the code provided by Google.</p>
+<p>An onclick tag for a simple text phone number looks like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="edb9b31b-4cfb-4017-94c1-7543f230507a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-tracking-onclick-tag-phone-number-1.png" alt="Google onclick tags" width="675" height="43" /></div>
+</article>
+</div>
+<p>Replace the phone number with your company&#8217;s phone number, and the Call Now text with whatever text you&#8217;d like to use.</p>
+<p>Onclick tags can also be used with buttons (again, replace the sample phone numbers with your own):</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e173f53a-aa03-4afb-a4d9-59386321893c" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-tracking-onclick-tag-button-1.png" alt="conversion tracking tags" width="748" height="35" /></div>
+</article>
+</div>
+<p>And when your Call Now link is a custom GIF image (replaced &#8220;call_now_button.gif&#8221; with the name of your gif file, and replace the example phone numbers with your own):</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d78439b2-165c-44f4-bd2e-04a00bd28f2f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-tracking-onclick-tag-gif-1.png" alt="onclick tag for gifs" width="684" height="41" /></div>
+</article>
+</div>
+<p>3) App Conversions</p>
+<p>Google Ads is able to track downloads of Android app through the Google Play store, and, to a limited degree, iOS apps through the Apple App Store. (Click to enlarge.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8869cc01-4b31-44c9-86aa-7d0b32b00de5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/mobile-app-download-conversion-tracking-guide-1.jpg" alt="Conversion Tracking Mobile Apps" width="1086" height="436" /></div>
+</article>
+</div>
+<p>NOTE: iOS app tracking is not available for Google Search or Google Display Network campaigns &#8212; only for the ads that are served in mobile apps through the Display Network.</p>
+<p>To set up conversion tracking for an Android app, you will be asked for the app&#8217;s &#8220;Package Name.&#8221; To find it, go to the app&#8217;s page in the Google Play store. Copy the URL. The package number is the information after the <em>details?id=</em> string, and before the <em>&amp;feature= </em>string. For example, the text highlighted in yellow in the example URL below is the Package Name:</p>
+<p>play.google.com/store/apps/details?id=com.manodio.android.dartsworldcup.free&amp;feature=more_from_developer</p>
+<p>Cut and paste that text into the Package Name box. To test that it&#8217;s working correctly, click on the &#8220;View in Android Market&#8221; link, and you should link through to the app&#8217;s page on Google Play. If you get an error or page not found, you&#8217;ve entered it wrong.</p>
+<p>There is no further code to copy or paste for this one.  Android app conversions should start tracking in about 24 hours.</p>
+<h2><strong>Analyzing Your Google Ads Conversion Data</strong></h2>
+<p>You can see information about your conversions from the Campaigns tab at the ad group, ads, and keywords levels. Click the <strong>Columns</strong> tab, then <strong>Conversions</strong>, to customize which columns appear. (Click image to enlarge.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5c5a5e7a-b9f8-4c0c-a3eb-257f5ec29956" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/customize-conversion-columns-1.jpg" alt="conversion tracking in adwords" width="944" height="635" /></div>
+</article>
+</div>
+<p>Some of the basic columns include:</p>
+<p><strong>Conv. (1-per-click): </strong>Counts each time you receive one or more <a href="https://www.wordstream.com/blog/ws/2018/05/18/residensportalen-customer-spotlight">conversions</a> from a single ad-click. You can use this number to approximate the number of new customers you&#8217;re getting.</p>
+<p><strong>Cost / conv. (1-per-click): </strong>Displays your cost (how much you spent on clicks) divided by your total conversions. This helps you measure your return on investment (ROI). Ideally, you should be spending less on clicks than you&#8217;re earning on conversions.</p>
+<p><strong>Conv. rate (1-per-click): </strong>Shows the percentage of clicks that resulted in conversions. The higher the percentage, the more effectively the ads or keywords are performing.</p>
+<p><strong>View-through conv.: </strong>Measures the number of times a customer viewed, but did not click on, your ad and later went through with a conversion.</p>
+<h2><strong>Google Ads Conversion Tracking: Advanced Options</strong></h2>
+<h3><strong>Tracking Conversions from website shopping cart</strong></h3>
+<p>Tracking purchases whose values you don&#8217;t set yourself manually involves taking the basic tracking code provided by Google Ads and modifying it with additional code unique to your particular e-commerce platform, such as eBay or PayPal. Each site does things a little differently, so it&#8217;s best to read specific help files for your e-commerce site. It&#8217;s best not to attempt this unless you have a working knowledge of web programming and HTML.</p>
+<p>When this is set up properly, any conversion value statistic, such as total <a href="https://www.wordstream.com/blog/ws/2019/09/25/conversion-value">conversion value</a> and <a href="/blog/ws/2013/07/18/adwords-cpc-down">cost per click</a>, will reflect the actual revenue of the products you&#8217;ve sold, as opposed to a static value.</p>
+<h3><strong>Advanced Conversion Settings: View-Through Conversions &amp; Search De-Duplication</strong></h3>
+<p>Available through the Advanced Settings when you&#8217;re setting up Website or Call On-Site conversions, the <strong><a href="https://www.wordstream.com/view-through-conversion">View-through conversion</a> window</strong> option tracks when a person sees your ad but doesn&#8217;t click it, then visits your site at a later time and completes a conversion – in other words, they might have been influenced by your ad to return and convert at a later time. You can set this to track for a specific amount of time in between the view and the conversion, from 1 to 30 days, or a custom amount.</p>
+<p>Enabling <strong>Search de-duplication </strong>means that a single conversion won&#8217;t be counted twice, both as a <a href="https://www.wordstream.com/blog/ws/2021/10/14/view-through-conversions">view-through conversion</a> and a click-through conversion if, for example, a customer first sees a Display Network ad then clicks on a text ad before making the conversion. When this is enabled, the conversion will only be counted as a click-through conversion.</p>
+<h3><strong>Setting Up the Conversion Optimizer</strong></h3>
+<p>By default, your <a href="/blog/ws/2010/03/15/rotate-versus-optimize">ad rotation</a> setting is set to optimize for clicks, meaning that Google Ads will serve the ads it feels are most likely to result in a click-through. If you&#8217;re tracking conversions, you can change this setting to optimize for conversions, meaning that the ads deemed most likely to result in conversions will be served in the <a href="/articles/what-is-google-adwords">auction</a> more frequently.</p>
+<p>To change the setting, go to the <strong>Settings </strong>tab and scroll down to the <strong>Advanced settings </strong>section. Open the <strong><a href="https://www.wordstream.com/blog/ws/2019/08/21/google-sunsets-accelerated-delivery">Ad delivery</a>: Ad rotation, frequency capping </strong>drop-down menu, click <strong>Optimize for conversions</strong>, and click <strong>Save</strong>.</p>
+<p>Back in the <strong>Conversions </strong>tab, you can click <strong>Settings </strong>and then <strong>Edit Settings</strong> to change the conversion bid metric, which tells the Conversion Optimizer whether to focus on 1-per-click conversions or many-per-click conversions.</p>
+<h3><strong>Analyzing Conversion Data with Search Funnels</strong></h3>
+<p>Once conversion tracking has been up and running for a couple of weeks, you can use the <a href="https://www.wordstream.com/blog/ws/2010/03/30/google-search-funnels">Search Funnels</a> analytics to track detailed data about your conversions such as how much time elapsed between when customers clicked on your ad for the first time to when they completed the conversion, and how many times they saw your ad before converting.</p>
+<p>Access Search Funnels by clicking Tools and Analysis, then <strong>Conversions</strong>, then clicking the <strong>Search Funnels </strong>link at the lower left of the Conversions window.</p>
+<p><a href="https://www.wordstream.com/blog/ws/2012/01/24/analyzing-google-adwords-ads">Analyzing this data</a> can help you gain insights about how customers behave on your website, such as how much time elapsed between when they clicked on your ad for the first time to when they completed the conversion, and how many times they saw your ads before converting. (Click to enlarge.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0a6715d6-8408-4c74-b05f-ba9ac989aadb" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-tracking-guide-search-funnels-1.jpg" alt="AdWords Search Funnels" width="1290" height="704" /></div>
+</article>
+</div>
+<h2><strong>Google Ads Conversion Tracking Troubleshooting</strong></h2>
+<h3><strong>Conversion columns aren&#8217;t showing any data</strong></h3>
+<p>It can take up to 24 hours for conversion data to start appearing in Google Ads. If after 24 hours conversions still aren&#8217;t showing up, it&#8217;s possible that no customers have converted yet. One way to test this is by going through the motions of a conversion yourself by clicking on your ad when it appears, and doing whatever action is required to trigger the conversion on your site. If after another 24 hours your conversion isn&#8217;t registering, double-check that the HTML code was installed correctly. You might have to install additional plug-ins or move the code to a different part of the page.</p>
+<h3><strong>Data Isn&#8217;t 100% Accurate</strong></h3>
+<p>If customers don&#8217;t have cookies enabled in their browser when they click on your ad and complete the conversion, Conversion Tracking won&#8217;t work. Most people browse the web with cookies turned on, but if you choose to display the Tracking Indicator link on your website, visitors can opt out of conversion tracking by disabling the conversion tracker cookie.</p>
+<p>NOTE: If you change any of a conversion&#8217;s settings in Google Ads, this alters its code and you&#8217;ll have to paste the new code into the webpage.</p>
+<p>ANOTHER NOTE: There are changes coming to cookies! <a href="/blog/ws/2021/04/12/first-party-data">Learn more about first-party data here</a>.</p>
+<h3><strong>Campaign Receives Many Clicks, But Few Conversions</strong></h3>
+<p>Campaigns receiving many clicks and few conversions might represent a weak <a href="/blog/ws/2013/07/30/ppc-guide-for-beginners-1">return on investment</a> (ROI) if the ads cost more to run than the business is earning back through conversions. Examining Search Funnels data and reviewing ad text and keywords might help you understand why customers are failing to convert once they reach your website.</p>
+<p>Is the <a href="/blog/ws/2013/07/11/landing-page-conversion-rate-guide">landing page</a> unappealing? Does the website make it difficult for customers to navigate through to the conversion page? Do the ads and keywords set up expectations about a product that the website does not deliver (for example, do your ads appear when a customer searches for &#8220;cheap handbags&#8221; but take them to a website that sells expensive designer handbags?). Try to put yourself in the customer&#8217;s shoes to figure out why customers who click on your ads aren&#8217;t going all the way.</p>
+<p>Got more questions about <a href="/blog/ws/2017/10/30/adwords-conversion-rates">Google Ads conversion</a> tracking? Leave them in the comments!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide">The Complete Guide to Google Ads Conversion Tracking</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/08/13/adwords-conversion-tracking-guide/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

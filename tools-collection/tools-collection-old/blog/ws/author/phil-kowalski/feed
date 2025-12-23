@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Phil Kowalski, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/phil-kowalski/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 19 Nov 2021 05:26:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Phil Kowalski, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Clearing Up Negative Broad Match in Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match#respond</comments>
+		
+		<dc:creator><![CDATA[Phil Kowalski]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match/</guid>
+
+					<description><![CDATA[<p>Learn how negative broad match keywords work in AdWords, and why it's better to set negative keyword as single words rather than phrases.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match">Clearing Up Negative Broad Match in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If there’s one topic in Google Ads (AdWords) that seems to confuse all sorts of folks, it’s <a href="/blog/ws/2014/03/04/negative-keyword-list">negative keyword</a> match types, especially <strong>negative keywords on broad match</strong>.</p>
+<p>Since regular keywords on broad match can cast a fairly wide net, people are worried about using that match type on their negative keywords. People are scared to use broad match on their negative keywords because they’re worried about potentially filtering out traffic they’d want.</p>
+<p>The main thing to remember is that <strong>negative keywords set to broad match behave much more like modified broad keywords</strong>. Every word that you have in the negative keyword will need to appear in the query for the negative keyword to filter it out.</p>
+<p>For example, if we used the negative keyword <strong><em>–nike basketball shoes</em></strong>, our keywords could still trigger on queries like:</p>
+<ul>
+<li><em>adidas basketball shoes</em></li>
+<li><em>basketball hoops</em></li>
+<li><em>tennis shoes nike</em></li>
+</ul>
+<p>The negative keyword would filter out queries like:</p>
+<ul>
+<li><em>nike jordan basketball shoes</em></li>
+<li><em>boston basketball shoes store nike</em></li>
+</ul>
+<p>Other points to remember about negative keywords:</p>
+<ul>
+<li>Negative broad keywords won’t match on synonyms or similar words like they can for regular keywords.</li>
+<li>Negative keywords, even on broad match, won’t match on close variations or plurals.</li>
+<li>For single-word negative keywords, there is no difference between broad and phrase match.</li>
+</ul>
+<p>If you think a bit about it, you can understand one of the reasons why Google would not want broad matched negative keywords to behave like regular keywords on broad match – to prevent Google Ads users from accidently killing their account performance when they’re looking through their search queries and adding some queries in as negatives. Google doesn’t want you to kill your traffic (especially your ad spend!) accidently.</p>
+<p>Armed with this information that negative keywords on broad match don’t cast as wide of a net as you may have thought – should you start setting a bunch of negative keywords as multi-word broad match? I still wouldn’t recommend it as the primary way to set negative keywords, but for other reasons: When possible, <strong>you can usually be more effective adding negative keywords in as single words</strong>. With most queries you see in your search query report or QueryStream that you’d want to avoid in the future, you can usually find just one of the words that doesn’t fit your business offering. Plucking out that single word as a negative is usually the best way to eliminate future unwanted queries surrounding that theme.</p>
+<p>Using our previous example, if I didn’t sell Nike shoes at all, I’d be better off just setting <em>–nike </em>as the negative keyword than coming up with several multi-word combinations.</p>
+<p>If you have more questions about negative broad match, let me know in the comments!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match">Clearing Up Negative Broad Match in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/11/04/negative-broad-match/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bid Adjustments: How Do They Work? The Math Behind Combined Bid Adjustments</title>
+		<link>https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments#respond</comments>
+		
+		<dc:creator><![CDATA[Phil Kowalski]]></dc:creator>
+		<pubDate>Tue, 09 Apr 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments/</guid>
+
+					<description><![CDATA[<p>Learn how bid adjustments in Google AdWords Enhanced Campaigns work when using multiple adjustments for time, location and device.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments">Bid Adjustments: How Do They Work? The Math Behind Combined Bid Adjustments</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="237c3884-6c0f-43f5-ac10-08941a4867fb" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/enhanced-campaign-bid-adjustments-1.png" alt="How do bid adjustments work?" width="560" height="295" /></div>
+</article>
+</div>
+<p>Google’s <a href="/blog/ws/2013/02/06/google-adwords-enhanced-campaigns">Enhanced Campaigns</a> are here, and with them came new bid adjustments. While they may seem straightforward at first, bid adjustments can get a bit tricky when they are applied together. For example let’s say you have three bid adjustments set at -60%, +20%, +30%. Google combines those to reach an overall adjustment of -38%. What’s the math behind how Google comes up with that final adjustment? <a href="http://en.wikipedia.org/wiki/Miracles_(Insane_Clown_Posse_song">Is it a miracle</a>?</p>
+<p>Google does provide a calculator that allows you to select your adjustments from a drop-down menu to see how they are applied together, as shown below (click the image to enlarge):</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bdc251f0-3bf4-4643-9036-607febc3743f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/find-bid-adjustment-calculator-1.png" alt="Find AdWords Bid Adjustment Calculator" width="941" height="115" /></div>
+</article>
+</div>
+<p>But being a PPC nerd, I wanted to understand the math myself. Let’s break it down.</p>
+<h2>One Bid Adjustment</h2>
+<p>When one bid adjustment is set, that’s the amount the bid will be adjusted when the condition applies. For example, let’s say you know your ads don’t do as well on the weekends, but you do still want to get some clicks. You can decide to apply an ad scheduling adjustment of -60% on Saturdays and Sundays, and on those days your bids will be <strong>reduced by 60%</strong> – for example a $1 bid would become a $0.40 bid. Seems simple, right? It gets a little bit trickier once we add in a second and third adjustment.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3eeea81f-6c62-44dc-b77f-f1fa73404e00" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-bid-adjustment-calculator-1.png" alt="Bid Adjustment Calculator" width="618" height="303" /></div>
+</article>
+</div>
+<h2>Two Bid Adjustments</h2>
+<p>When more than one <a href="/blog/ws/2017/11/20/device-bid-adjustment-alert">bid adjustment</a> affects a keyword, they are applied together and you effectively end up with a “final” bid adjustment from the combination that gets applied to your bid. Continuing with our previous example, let’s say <a href="/blog/ws/2013/02/26/google-mobile-ads">mobile advertising</a> has been doing well for us, so we want to be more aggressive with it. We’ll set the mobile bid adjustment to +20%.</p>
+<p>On weekdays, where we only have one bid adjustment, your bids on mobile will simply be 20% higher on mobile devices versus their normal amount. On weekends however, we also have the scheduling bid adjustment to take into account. If someone searches on a Saturday from their iPhone, <strong>your bid adjustment will be -52%</strong>.</p>
+<p><strong>How did we get to that value?</strong> To do the math to find my total adjustment, I find it easiest to convert the percentages to decimals, make them all positive numbers, and find out how they would affect a $1 bid.</p>
+<ol>
+<li>Our -60% scheduling adjustment really means that the bid will be at 40% of its value, so it becomes 0.4</li>
+<li>Our +20% mobile adjustment really means that the bid will be at 120% of its value, so it becomes 1.2</li>
+<li>Let’s multiply that out with a one dollar starting bid. $1 x .4 x 1.2 = $0.48</li>
+<li>That’s $0.52 less than our original bid of $1, so if we flip that back to percentages, we have an overall adjustment of -52%.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="484af403-a0ce-4bfe-ba27-60c5e60d2e20" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-bid-adjustment-calcultator-1.png" alt="Google AdWords Bid Adjustments" width="625" height="308" /></div>
+</article>
+</div>
+<h2>Three Bid Adjustments</h2>
+<p>Let’s get wild and put in a third bid adjustment. Adding on to our example, let’s say our ads perform better in the city where we’re based, so we’ll set a location bid adjustment of +30% for searches in the city of Boston.</p>
+<p>The +30% would become a 1.3 in our formula, so let’s plug that into our equation to see what happens when all our adjustments apply:</p>
+<p>$1 x .4 x 1.2 x 1.3 = $0.62</p>
+<p>That’s $0.38 less than our original $1 bid, so as a percentage, that would end up as -38% if someone in our city searched for us on a Saturday from their iPhone.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7a12d6ce-3ba4-4d0f-bc35-7742937b7a1a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bid-adjustment-calculator-3-1.png" alt="AdWords Bid Adjustment Math" width="625" height="310" /></div>
+</article>
+</div>
+<h2>Special Case: -100%</h2>
+<p>Let’s say you want to <strong>completely turn off your keyword bid</strong> for a certain device, location, or time – there’s a special case for this. If you use a bid adjustment of -100% on any of the three possible adjustments, your adjustments <strong>won’t</strong> be averaged together when this case is met and your keyword will turn off. It&#8217;s like throwing in a multiplier of 0.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6be595a8-1546-49b4-9605-367d36d750e9" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-google-adwords-bid-adjustments-work-1.png" alt="-100% bid adjustment" width="627" height="310" /></div>
+</article>
+</div>
+<p>Still confused about how the bid adjustments in Enhanced Campaigns work? Leave your questions in the comments and I’ll do my best to answer them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments">Bid Adjustments: How Do They Work? The Math Behind Combined Bid Adjustments</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/04/09/combined-bid-adjustments/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

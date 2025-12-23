@@ -1,0 +1,14 @@
+table.wp-list-table {
+	.column-taxonomy-product_brands {
+		width: 10% !important;
+	}
+}
+
+.taxonomy-product_brand {
+	form[name*='edittag']:has([name*='blocksy_taxonomy_meta_options']),
+	.form-wrap:has([name*='blocksy_taxonomy_meta_options']) {
+		.form-field:has([id='product_cat_thumbnail']) {
+			display: none;
+		}
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Time-Clock-Hand-1--Streamline-Ultimate</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Automation" transform="translate(-541, -707)" stroke-width="2.13">
+            <g id="Time-Clock-Hand-1--Streamline-Ultimate" transform="translate(542, 709)">
+                <line x1="0.5" y1="17.998314" x2="0.5" y2="29.998314" id="Path" stroke="#3A56BC"></line>
+                <path d="M0.5,27.998314 L20.5,27.998314 C20.5,25.789175 18.709139,23.998314 16.5,23.998314 L11.5,23.998314 C11.5,21.789175 9.709139,19.998314 7.5,19.998314 L0.5,19.998314" id="Path" stroke="#3A56BC"></path>
+                <line x1="7.5" y1="23.998314" x2="11.5" y2="23.998314" id="Path" stroke="#3A56BC"></line>
+                <path d="M9.74533333,16.086314 C7.57991875,11.9335338 8.28142673,6.86503676 11.4933676,3.45651223 C14.7053086,0.0479876975 19.7232523,-0.953020224 23.9971994,0.962176825 C28.2711465,2.87737387 30.863752,7.28874247 30.4575155,11.9545303 C30.0512789,16.6203181 26.7352946,20.517243 22.1946667,21.6649807" id="Path" stroke="#FFAF24"></path>
+                <polyline id="Path" stroke="#FFAF24" points="18.5 3.99831404 18.5 11.998314 23.5 11.998314"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Christine Laubenstein, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/christine-laubenstein/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 18 Dec 2023 19:56:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Christine Laubenstein, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>High-volume keywords vs. low-volume keywords</title>
+		<link>https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords/</guid>
+
+					<description><![CDATA[<p>Learn the difference between high-volume and low-volume keywords and the pros and cons of each.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords">High-volume keywords vs. low-volume keywords</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This article provides a refresher on the difference between high-volume and low-volume keywords, the pros and cons of each, and the factors that can help determine whether or not a low- or high-volume keyword phrase should be bid on in your <a href="/keyword-advertising">keyword advertising</a> campaign.</p>
+<p><strong>High-volume keywords</strong></p>
+<p>These keywords are search terms that have a large search volume. In other words, many people are querying these terms on Google, Yahoo and Bing. One example is the keyword phrase “computer repair.” Google Ads (formerly known as AdWords) shows that worldwide there are 823,000 Google searches for this phrase each month.</p>
+<div style=text-align:center;><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/high-volume-keywords-versus-low-volume-keywords-1.png" width="869" height="85" /></div>
+<p>The pros of buying high-volume keywords include:</p>
+<ul type="disc">
+<li>More people will probably see your ad.</li>
+<li>More people will probably click on your ad.</li>
+<li>More people may buy your product or service.</li>
+</ul>
+<p>These are some of the cons of buying high-volume keywords:</p>
+<ul type="disc">
+<li>Your costs per click will probably be greater.</li>
+<li>More clicks mean even higher costs.</li>
+<li>Your clicks will likely be less qualified.</li>
+</ul>
+<p><strong>Low-volume keywords</strong></p>
+<p>These keywords are search terms that have a small search volume. An example is “hot pink headbands,” which Google Ads shows has 210 Google.com queries per month.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/high-volume-keywords-versus-low-volume-keywords-2.png" width="876" height="88" /></div>
+<p>Another <a href="https://www.wordstream.com/blog/ws/2019/09/26/low-volume-keywords">low-volume keyword</a> phrase is “stylish crocs,” with just 20 monthly queries.</p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/high-volume-keywords-versus-low-volume-keywords-3.png" width="873" height="89" /></div>
+<p>These are the pros of buying low-volume keywords:</p>
+<ul type="disc">
+<li>Your costs per click will probably be lower.</li>
+<li>Fewer clicks mean even lower costs.</li>
+<li>Your clicks will likely be more qualified.</li>
+</ul>
+<p>These are the cons of buying low-volume keywords:</p>
+<ul type="disc">
+<li>Fewer people will probably see your ad.</li>
+<li>Fewer people will probably click on your ad.</li>
+<li>Fewer people will probably buy your product or service.</li>
+</ul>
+<p>So knowing these pros and cons, how do you determine which high-volume keyword phrases are OK to bid on, and which low-volume keyword phrases are OK to bid on? The answer is, it depends on a number of factors. Those include:</p>
+<ul type="disc">
+<li><strong>The keyword phrase’s actual cost per click</strong></li>
+</ul>
+<p>It might be a high-volume phrase, but maybe people still aren’t bidding on it. That is why I wrote that high-volume keywords <em>probably</em> have higher costs per click. If a high-volume phrase has a low CPC, jump in there and bid on this golden opportunity. Also know that just because a phrase is low-volume doesn’t mean it has a low CPC.</p>
+<ul type="disc">
+<li><strong>Your target market</strong></li>
+</ul>
+<p>If your industry sells a very specialized product for a narrow market, you probably don’t want a high-volume keyword phrase. Only people who really know your product are looking for you, so use a low-volume, long-tail keyword that more accurately describes your product or service.</p>
+<p>If you’re selling something anyone could use, however, consider going with a higher-volume keyword phrase.</p>
+<ul type="disc">
+<li><strong>The cost of your offering</strong></li>
+</ul>
+<p>It might not be worth having high-volume keywords if your product is pretty inexpensive. Any revenue you earn will likely be offset by your click costs. But if you are selling something pricy, you’re more justified in purchasing a costly, high-volume phrase. Provided those clicking are converting, you are probably making a profit.</p>
+<ul type="disc">
+<li><strong>The purpose of your ads</strong></li>
+</ul>
+<p>If the main goal of your ad is to get your company’s name out there, then it doesn’t matter if you lose money with AdWords. The hope is that the exposure will lead to more sales down the line. More exposure is achieved by purchasing high-volume keyword phrases. If your goal is to make a profit now, then low-volume phrases might be your better bet.</p>
+<ul type="disc">
+<li><strong>Your keywords’ performance</strong></li>
+</ul>
+<p>If particular low-volume and/or high-volume keywords are bringing you unqualified clicks or no clicks at all, consider changing up your strategy. Instead of relying on just low-volume keywords, for instance, bid on a few higher-volume keywords. They don’t have to be super expensive— just more than what you are currently paying. See if those work better for you.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords">High-volume keywords vs. low-volume keywords</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Is Modified Broad Match? Using the Broad Match Modifier in PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match/</guid>
+
+					<description><![CDATA[<p>What is the new modified broad match option in Google AdWords? Learn the basics of this keyword type, plus when and how to use the broad match modifier in your AdWords PPC campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match">What Is Modified Broad Match? Using the Broad Match Modifier in PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Important: <strong>Modified broad match is no longer as of </strong>February 18, 2021. So sad! But here&#8217;s what we can offer:</p>
+<ul>
+<li>Understand the <a href="/blog/ws/2021/02/10/modified-broad-match-going-away">announcement about modified broad match going away.</a></li>
+<li>Try these <a href="https://www.wordstream.com/blog/ws/2021/03/08/how-to-win-google-ads-broad-match">tips for using broad match in response to the change</a>.</li>
+<li>Learn how to use<a href="/blog/ws/2021/06/08/broad-match-audience-targeting-google-ads"> broad match + audience targeting</a> as a solid workaround.</li>
+</ul>
+<p>Google Ads (formerly known as Google AdWords) recently <a href="http://adwords.blogspot.com/2010/07/new-keyword-targeting-feature-rolling.html">introduced a new feature</a> that lets you create keywords that are more targeted than <a href="/broad-match">broad match</a>, yet have a greater reach than phrase or exact match.</p>
+<p>With modified broad match, you put a plus sign (+) in front of one or more words in a broad match keyword. The words that are preceded by a (+) sign must appear in the user’s keyword phrase exactly or as a close variation.</p>
+<p>The words that are not following a (+) sign will trigger ads on more significant query variations.</p>
+<p>This feature can drive more traffic than phrase or exact match, and attract more qualified traffic than broad match.</p>
+<p><strong>What are examples of modified broad match phrases?</strong></p>
+<p>Say your broad match phrase was “red purses.” That phrase could prompt ads on relevant query variations like “red bags,” “colorful purses,” “women’s clutches,” etc.</p>
+<p>But if your modified broad match was “+red purses,” the word red or some close variant would have to appear in the keyword phrase.</p>
+<p>Close variants include misspellings, singular/plural forms, abbreviations and acronyms and stemming.</p>
+<p>So the query “redd purses” or “reddish bags,” for example, could trigger your ad.</p>
+<p>If you made your modified broad match “red +purses,” the word purse or some close variant would have to appear in the keyword phrase. Examples include “colorful purses,” “colorful purse,” or “women’s purses.”</p>
+<p><strong>Hasn’t Google Ads had a feature like this before?</strong></p>
+<p>Google Ads hasn’t had a feature quite like this one, though <a href="http://searchenginewatch.com/3641178" target="_blank" rel="noopener">years ago Google’s broad match was more targeted</a> than its current broad match.</p>
+<p>Broad match meant that words in a keyphrase could appear in any order in a query. Eventually Google switched over to its current version of broad match, and many people complained (<a href="http://www.highrankings.com/forum/index.php?showtopic=32626/index.php?showtopic=32626&amp;hl=expanded+match" target="_blank" rel="noopener">including people in this High Rankings forum</a>).</p>
+<p>They felt that Google prompted ads for terms that weren’t necessarily relevant, requiring them to draw up long negative keyword lists.</p>
+<p>One WebmasterWorld forum user complained, for example, <a href="http://www.webmasterworld.com/google_adwords/4130982.htm" target="_blank" rel="noopener">that he saw queries as exotic as “zebras near chicago”</a> for “widgets near chicago.”</p>
+<p><strong>How do I enable modified broad match?</strong></p>
+<p>Go into your Google Ads account, click on the Keywords tab, and select the keyword phrase you want to edit. Click on the current match type in the Type column and choose modified broad match from the drop-down menu. Add the necessary (+) signs to the keyword phrase.</p>
+<p><strong>How do I know if modified broad match is a good idea for my campaign?</strong></p>
+<p>If you decide to give it a try, make sure you track how your campaign performance evolves. See, for example, how your clicks, CPCs, conversions, return on investment, and so on change. Google notes in its broad match modifier overview that <a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=175280" target="_blank" rel="noopener">you can produce a performance report that just details information</a> about modified broad match keywords.</p>
+<p>If modified broad match keywords seem to be improving your ROI, then stick with them. If not, stay with broad match, phrase match, or exact match.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match">What Is Modified Broad Match? Using the Broad Match Modifier in PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/08/18/modified-broad-match/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Find Your Quality Score on Google and Yahoo</title>
+		<link>https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Tue, 01 Jun 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score/</guid>
+
+					<description><![CDATA[<p>Learn how to find your Quality Score in Google AdWords and your quality index score in Yahoo Search Marketing.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score">How to Find Your Quality Score on Google and Yahoo</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Quality Score of your pay-per-click ads is a key determinant in the amount you need to bid on keywords to secure a strong position in search engine results. The higher your <a href="/blog/ws/2013/03/26/google-quality-score">Google Quality Score</a>, the less you have to pay for your ad to appear in your desired position.<br />
+For this reason, it&#8217;s important to track your Quality Scores so you know how your ad campaigns are performing. Low Quality Scores should prompt you to better organize your keywords, get rid of specific keywords, modify your ad text, or improve your landing pages (among other possible solutions).</p>
+<p>But first you need to find out what your Quality Scores are. Unfortunately, Bing doesn’t provide this information, but Google and Yahoo do. Here&#8217;s how to find your Quality Score in Google Ads (formerly known as AdWords) and Yahoo Search Marketing.</p>
+<h2>Finding Your Google Ads Quality Score</h2>
+<p><strong> </strong>There are three ways to determine your Google Ads Quality Score:</p>
+<ul type="disc">
+<li>By using the <strong>Customize columns</strong> command in your AdWords account</li>
+<li>By clicking the <strong>Status</strong> command next to keywords in your account</li>
+<li>By creating a keyword performance report within your account</li>
+</ul>
+<p>The <strong>Customize columns</strong> command tells you whether each keyword’s Quality Score is “Poor,” “OK,” or “Great.” Here’s how you enable the command:</p>
+<ol start="1" type="1">
+<li>Sign in to your <a href="https://adwords.google.com/" target="_blank" rel="noopener">Google Ads account</a>.</li>
+<li>Select the relevant campaign and ad group.</li>
+<li>Select the <strong>Keywords</strong> tab.</li>
+<li>Click <strong>Customize columns</strong> at the top of the ad group table.</li>
+<li>Choose <strong> Show Quality Score</strong> from the drop-down menu.</li>
+<li>Click <strong>Done</strong>. Each keyword’s Quality Score is defined.</li>
+</ol>
+<p>The <strong>Status</strong> command tells you the actual number value of the Quality Scores. Each keyword has a value between 1 and 10, with 1 being the worst score and 10 being the best. You can access these values by following these steps:</p>
+<ol start="1" type="1">
+<li>Sign in to your Google Ads account.</li>
+<li>Select the relevant campaign and ad group.</li>
+<li>Select the <strong>Keywords</strong> tab.</li>
+<li>Click the icon in the <strong>Status</strong> column next to a keyword. The Keyword Analysis field appears. The second section of this field indicates the keyword’s Quality Score.</li>
+</ol>
+<p>You can also see your keywords’ Quality Scores by running a keyword performance report. Here’s how you do this:</p>
+<ol start="1" type="1">
+<li>Sign in to your Google Ads account.</li>
+<li>Select the <strong>Reporting</strong> tab at the top of the page.</li>
+<li>Click <strong>Reports</strong>.</li>
+<li>Select <strong>Create a New Report</strong>.</li>
+<li>In the “Report Type” section choose “Placement/Keyword Performance.”</li>
+<li>In the “Advanced Settings” section, click <strong>Add or Remove Columns</strong>.</li>
+<li>Select the <strong>Keyword Quality Score Detail</strong> checkbox.</li>
+<li>Once you’ve chosen your other report settings, in the “Templates, Scheduling and Email” section click <strong>Create Report</strong>. A report including your keywords’ Quality Scores will be produced.</li>
+</ol>
+<h2>Finding Your Quality Index in Yahoo</h2>
+<p><strong> </strong>Yahoo’s version of Quality Score is called Quality Index. Each ad in your account gets a Quality Index of 1, 2, 3, 4 or 5, with 5 being the best. Here’s how to view your ads’ Quality Indexes.</p>
+<ol start="1" type="1">
+<li>Sign in to your <a href="http://www.marketingsolutions.yahoo.com">Yahoo Search Marketing account</a>.</li>
+<li>Click on the <strong>Campaigns</strong> tab.</li>
+<li>Select <strong>Ad Groups</strong> just below the <strong>Campaigns</strong> tab.</li>
+<li>Click the link for the appropriate ad group.</li>
+<li>Click the calendar icon. The “Select Date” dialog box opens.</li>
+<li>Select a date range for your Quality Index information.</li>
+<li>Click <strong>Apply</strong>.</li>
+<li>Click the “Performance” row to expand its section. The Quality Indexes appear a few columns to the right of the ads’ names.</li>
+</ol>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score">How to Find Your Quality Score on Google and Yahoo</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/06/01/how-to-find-your-quality-score/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What&#8217;s a Good Click-Through Rate (CTR) for Google Ads?</title>
+		<link>https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<category><![CDATA[CTR]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate/</guid>
+
+					<description><![CDATA[<p>What's a good click-through rate (CTR) for Google Ads? Find out! We offer the data and free tools you need to show how you compare to the average CTR for Google Ads in your industry.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate">What&#8217;s a Good Click-Through Rate (CTR) for Google Ads?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Click-through rate, or CTR, is hugely important for advertisers. In most PPC platforms, including Google Ads (formerly known as Google AdWords) and Bing Ads, your CTR helps determine both your ad rank and your cost per click. The higher your CTR in Google Ads, the better your ranking and the lower your costs.</p>
+<p>Click-through rate is the percentage of total ad views that result in clicks, and it is one of the key factors in Google’s Quality Score formula. Google uses Quality Score to determine both your ad position and actual cost per click.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/good-click-through-rate-cheat-sheet.png" alt="what's a good click through rate in adwords" width="394" height="463" /></div>
+<h2>So, what’s a good click-through rate then?</h2>
+<p>What’s a good click-through rate for Google Ads? It depends on your industry, your business type, your goals and other factors.</p>
+<p>But as a starting point, you can use our <a href="https://www.wordstream.com/google-adwords-benchmark-tools">free benchmarking tools</a> to see if your current Google Ads click-through rate is higher or lower than average in your industry.</p>
+<h2>Average Click-Through Rates in Google Ads by Industry</h2>
+<p>Your ideal <a href="/blog/ws/2015/08/12/ad-ctr">ad click-through rate</a> takes time to determine. It’s not the same for everyone, and <a href="/average-ctr">average CTR</a> depends on such factors as your industry and keywords, and how competitive they are.</p>
+<p>Still, it’s very helpful to have some general guidelines for starting your Google Ads campaign.</p>
+<p>Based on our huge stores of client data, we’ve determined that <a href="/blog/ws/2016/02/29/google-adwords-industry-benchmarks">the average CTR across all industries in Google Ads</a> is 1.91% on the search network and 0.35% on the display network. The graphic below shows the variation in average click-through rate for twenty different industries.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-industry-benchmarks-average-ctr-2.png" alt="average ctr in adwords" width="800" height="912" /></div>
+<p>A good ctr for Google Ads, of course, is <em>better</em> than average, so you should be looking to beat these CTR benchmarks! We’ve found that high click-through rates not only lead to high Quality Scores – <a href="/blog/ws/2016/09/26/high-ctr-benefits">they also correlate with higher conversion rates</a>.</p>
+<p>If you&#8217;re curious about your own CTR in Google Ads, you can use the free <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a> to measure your click-through rate and compare your CTR and other KPI’s to your competitors.</p>
+<h2>I know my CTR – now what?</h2>
+<p>Say you start with these benchmarks and decide to target a 3% click-through rate for your real estate business. You determine your target keywords, bid on these keywords, and set up your ads and landing pages with these keywords.</p>
+<p>What’s next?</p>
+<p>First, after a few weeks look at your ads’ click-through rates. This information can be found within the dashboard of your Google Ads account. (Or, you can run the <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a> for a free CTR health check.) See how close your click-through rates are to your goal.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/whats-a-good-ctr-for-adwords-2017-compressor.png" alt="What's a Good CTR Google Ads" width="922" height="630" /></div>
+<p><a href="https://www.wordstream.com/blog/ws/2018/06/26/html5-ads">If your CTR’s are below your goal</a>, consider the text of your ads. Are your ads <a href="/blog/ws/2015/11/09/emotional-ads">enticing and emotional</a>? Is your <a href="/blog/ws/2016/04/27/value-proposition-examples">value prop</a> clear? Are you including your keywords? If you don’t make your product or service appealing or easy to understand, customers won’t click on your ads.</p>
+<p>Make sure you’re using <a href="/blog/ws/2013/06/03/adwords-ad-extensions-cheat-sheet">ad extensions</a>. They increase the size of your ad as well as increasing click-through rates.</p>
+<p>Remember that it’s possible to have <em>too</em> high a click-through rate. If your CTR’s are strong but your conversion rate is low, you’re probably not going to achieve return on your advertising investment. You’ll be paying for clicks that don’t turn into customers. Make sure that your offer is really something that people want, and that your <a href="/blog/ws/2016/06/10/high-converting-landing-pages">landing pages are optimized</a> for conversion on all devices.</p>
+<p>Monitor your click-through rates and conversions following any changes to your ads. If your income is greater than your click spend, consider shooting for a higher click-through rate. You can do this by improving your ad text, choosing better keywords, and incorporating negative keywords into your Google Ads campaigns. These actions should increase your number of qualified ad impressions, click-through rates and conversions.</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="63e60e22-90a0-460b-819d-16b31fdb5a79" data-langcode="und">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video">
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2734.png" alt="✴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Improve your CTR with the free guide <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2935.png" alt="⤵" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" class="waffle-rich-text-link">&gt;&gt; 10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy</a></strong></p></div></div></p>
+</div>
+</div>
+</article>
+</div>
+<h2>More click-through rate tips</h2>
+<p>Here are a couple of additional things to consider when determining your ideal click-through rate for paid search:</p>
+<ul>
+<li>Typically click-through rates for search ads are higher than click-through rates for ads on the <a href="/blog/ws/2014/11/18/google-display-network-tips">display network</a>. That’s because display ads aren’t so closely match to intent, and are often more about generating brand awareness than immediate conversions.</li>
+<li>Ads tied to “softer” conversions, like a free quote, tend to generate higher click-through rates than ads for high-ticket items like enterprise software.</li>
+<li>Ads for brand keywords drive some of the highest CTR’s of all and can raise your overall account Quality Score.</li>
+</ul>
+<p>What did you learn? Is your click-through rate for Google Ads good enough?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate">What&#8217;s a Good Click-Through Rate (CTR) for Google Ads?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Determine Your Maximum CPC in Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Mon, 19 Apr 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords/</guid>
+
+					<description><![CDATA[<p>This blog post discusses steps for determining your maximum cost per click amounts for your AdWords campaigns.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords">How to Determine Your Maximum CPC in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you are a savvy Google Ads advertiser, or at least someone who wants more control over your Google Ads account, you may want to consider setting maximum <a href="/cost-per-click">cost per click</a> (<a href="/cpc">CPC</a>) for your keywords and keyword groups.</p>
+<p>Google Ads <a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=113234">offers automatic bidding</a> for those who aren’t interested in setting their cost per click amounts manually. But for those of you who are, you can follow these 8 steps to formulate your maximum cost per click:</p>
+<ol>
+<li>Determine your profit margins</li>
+<li>Set a CPA( cost per acquisition) goal</li>
+<li>Set your prices accordingly</li>
+<li>Determine your conversion rate</li>
+<li>Calculate your maximum CPC (cost per click)</li>
+<li>Estimate your traffic</li>
+<li>Consult first page bid estimates</li>
+<li>Modify your maximum CPC accordingly</li>
+</ol>
+<p><strong>Our Eight Steps to Optimizing AdWords Maximum CPC:</strong></p>
+<p>1. For each keyword or keyword group, <strong>d<a>etermine your desired profit margin for each corresponding sale or sales lead</a></strong><a>. So, if you are selling oil paintings on your website, figure out how much you want to make on each one. Maybe that figure is $20, for example.</a></p>
+<p><a> </a></p>
+<p><a>2. </a><a><strong>Determine the amount you are willing to spend for each conversion</strong> tied to a particular keyword or keyword group. A good rule of thumb is setting this figure equal to your desired profit margin. So, in the case of the oil paintings, you’d agree to spend up to $20 per conversion.</a></p>
+<p><a> </a></p>
+<p><a>3. </a><a><strong>Set your prices accordingly</strong>. Use your desired profit margin, maximum cost per conversion, and any other cost figures to come up with your product prices. Maybe you did the oil paintings yourself, and only had to pay $20 per painting for materials. Electricity for your studio cost about $10 per paining, you determined. Factor in the $20 profit margin and $20 maximum cost per conversion, and you sell your paintings for $70 apiece.</a></p>
+<p><a> </a></p>
+<p><a>4.</a><a> <strong>Determine your conversion rate</strong> for the appropriate keyword or keyword group. If you’ve been selling products or services for a while now, this may be an easy figure to determine. Just look at your historical metrics. If you see that on average 2% of clicks have resulted in conversions, then 2% is the figure you’re looking for. If you haven’t been selling for very long, you could use a 1% conversion rate as a benchmark.</a></p>
+<p><a> </a></p>
+<p><a>5. </a><a><strong>Multiply your maximum cost per conversion</strong> by your conversion rate to determine your maximum cost per click. So, if your past paid search marketing efforts have yielded a 3% conversion rate, multiply that by your $20 maximum cost per conversion. That gives you a figure of 60 cents for your maximum cost per click.</a></p>
+<p><a> </a></p>
+<p><a>6. </a><a><strong>Look at </strong></a><strong><a href="/adwords-traffic-estimator">Google’s Traffic Estimator</a> for the going maximum CPC rates for your different keywords</strong><strong>. </strong>For example, type “flower oil paintings” into the keywords field. You will see that the estimated <a href="/blog/ws/2015/07/06/average-cost-per-click">average cost per click</a> for the top three ad positions is $.62, and the maximum cost per click for the top three ad positions is $1. This may prompt you to up your 60 cent cost per click amount.</p>
+<p>&nbsp;</p>
+<p>7. <a><strong>You can also use Google’s first page bid estimates</strong> to fine-tune your maximum cost per click amounts. This information, which gauges the cost-per-click bid required for your ad to appear on the first page of search results for a particular keyword or keyword phrase, is located on the Keyword Analysis tab of your AdWords account. </a></p>
+<p><a> </a></p>
+<p><a>8. </a><a><strong>Modify your maximum cost per click amounts based on your ads’ performance</strong>. If you end up having high conversion rates for certain ads, and low conversion rates for other ads, adjust your maximum cost per click amounts accordingly. That might mean, for example, raising your maximum cost per click amounts for the high-converting ads so they get even more qualified traffic and bring you even more profit.</a></p>
+<p><a>When deciding on your maximum </a><a href="/blog/ws/2011/07/18/most-expensive-google-adwords-keywords">Google CPC</a> in AdWords, it’s important to remember that bids aren’t the only determinant of your ad’s placement. You must also strive to <a href="http://adwords.google.com/support/aw/bin/answer.py?hl=en&amp;answer=10215">improve your ad’s Quality Score</a>. You can do that by improving your landing page’s quality, making your ad and keywords more relevant to one another, and bettering your click-through rate (and you can <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">get your campaigns evaluated</a> on those criteria with the AdWords Grader).</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords">How to Determine Your Maximum CPC in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/04/19/maximum-cpc-adwords/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pros &#038; Cons of View-Through Conversion Tracking</title>
+		<link>https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Thu, 25 Mar 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Conversion Rates]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking/</guid>
+
+					<description><![CDATA[<p>Learn the pros and cons of view-through conversion tracking, a type of tracking that measures conversions that don’t result from clicks on a PPC ad.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking">Pros &#038; Cons of View-Through Conversion Tracking</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/view-through-conversions.jpg" width="347" height="346" /></div>
+<p>A good way to evaluate the effectiveness of your display ads is to look at conversion statistics.</p>
+<p>Generally these stats focus on how many users performed a desired action, like a purchase, and what percentage of conversions followed a user clicking on the advertisement.</p>
+<p>But <a href="/online-advertising" data-cke-saved-href="/online-advertising">online advertising</a> platforms are starting to offer an additional measure of conversion performance: <strong>view-through conversion rate</strong>.</p>
+<h2>What Is view-through conversion rate?</h2>
+<p>View-through conversion rate is the percentage of users who view an ad and neglect to click on it, but within a certain period of time go to the ad’s associated conversion page and undertake the desired action.</p>
+<p>Unlike click conversion rates, this statistic measures conversions that don’t result from clicks on the advertisement. Instead, the conversions often result from a user seeing an ad, taking some time to think about the product or service, and then finding the conversion page via an Internet search or webpage link. A conversion then follows.</p>
+<p>In September, <a href="http://adwords.blogspot.com/2009/09/announcing-view-through-conversion.html" data-cke-saved-href="http://adwords.blogspot.com/2009/09/announcing-view-through-conversion.html">Google started tracking view-through conversion statistics</a> for display ads on its content network. And earlier this year Facebook <a href="http://ads.ak.facebook.com/ads/FacebookAds/ConversionTrackingGuide.pdf" data-cke-saved-href="http://ads.ak.facebook.com/ads/FacebookAds/ConversionTrackingGuide.pdf">began beta testing a conversion tracking service</a> that includes view-through conversion, or “post-impression” conversion figures.</p>
+<p>You may or may not decide to rely upon <a href="https://www.wordstream.com/view-through-conversion">view-through conversion</a> figures. But regardless of your decision, know the pros and cons of this type of conversion tracking.</p>
+<h2>What are the pros of tracking view-through conversions?</h2>
+<h3>1. <strong>You have another tool for evaluating your display advertisement campaigns</strong></h3>
+<p>If you just focus on the percentage of users who click on your ad and then perform the desired action, you may be unnecessarily disappointed. People tend to click less on display ads on content sites than text ads in the SERPs and Google’s search network. That’s because they are generally on a content site to read about a particular topic, not to search for and buy a particular product. But that doesn’t mean the ad won’t prompt them to undertake the desired action at a later date. By not discounting this type of conversion, you have a fuller picture of your ad campaigns’ performance.</p>
+<h3>2. <strong>View-through conversion data can help you optimize your ads</strong></h3>
+<p>By tracking <a href="https://www.wordstream.com/blog/ws/2021/10/14/view-through-conversions">view-through conversion data</a> for all of the sites and pages you’re advertising on, you can see which ad placements are resulting in the most view-through conversions and highest view-through conversion rates. With this information, you can improve your underperforming ads by incorporating design and content techniques that worked for the successful ads. Or you can shift underperforming ads to sites and pages that worked for the successful ads. Make sure, however, that the changes you implement don’t compromise your click conversion rates.</p>
+<h3>3. <strong>A view-through conversion focus can save you money</strong></h3>
+<p>By using view-through conversion data to improve your ads, your potential for conversions and revenue increases. You can also save money by focusing on view-through conversion data. The more people who see your pay-per-click ad, don’t click on it, and later purchase your product or service, the less money you must pay out for clicks. You are also building your brand for a smaller charge. Still, this doesn’t mean you want to neglect optimizing your ads for click conversions. If your click conversion rate is pretty high, then those conversions are likely generating enough revenue to outweigh the click charges.</p>
+<h2>What are the cons of tracking view-through conversion rate?</h2>
+<h3>1. <strong>You don’t really know if the ad generated the conversion</strong></h3>
+<p>With click conversions, the user frequently clicks the ad immediately after viewing the ad. But with view-through conversions the user tends to arrive at the conversion page a significant amount of time (often days or weeks) after viewing the ad. This increases the chances that the ad itself did not prompt the conversion, but an alternative factor like an Internet search or website link. It’s also possible that “view-through” customers actually didn’t even see the ad. It may have been on the site they were perusing, but for whatever reason they missed it. A Facebook user, for example, may have been too busy looking at his friends’ status updates. Thus, view-through conversion data is generally less sound than click conversion data.</p>
+<h3>2. <strong>View-through conversions are not counted after a certain period of time</strong></h3>
+<p>Currently, Google only counts view-through conversions that take place within 30 days of the ad impression. In other words, if a user sees the ad on Oct. 1, but signs up for the associated newsletter on Nov. 1 via an Internet search, that conversion won’t be considered a view-through conversion (It also won’t be considered a click conversion). It appears that Facebook’s beta conversion tracking service only counts view-though conversions <a href="http://ads.ak.facebook.com/ads/FacebookAds/ConversionTrackingGuide.pdf" data-cke-saved-href="http://ads.ak.facebook.com/ads/FacebookAds/ConversionTrackingGuide.pdf">that take place within 28 days</a> of the ad impression. Whiles these limits may hinder Google and Facebook’s ability to provide a detailed portrait of its conversions, they’re similar to time constraints in place for click conversion reporting.</p>
+<h3>3. <strong>Other factors can also limit accuracy of view-through conversion reporting</strong></h3>
+<p>Companies partaking in view-through conversion tracking are able to identify “post-impression” customers by locating a particular cookie on their browser. The cookie was added to the browser when the user saw the advertisement. The problem with this tracking method is that some people may delete their cookies before the completion of the tracking period (Google’s is 30 days). Also, companies won’t know you’re a view-through customer if you purchase the product or service from a computer different from the one you viewed the ad with. While both of these factors can also apply to click conversion tracking, they are still worth noting.</p>
+<p><em>Photo credit: <a href="http://www.flickr.com/photos/31796655@N07/2974942783/" data-cke-saved-href="http://www.flickr.com/photos/31796655@N07/2974942783/">http://www.flickr.com/photos/31796655@N07/2974942783/</a></em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking">Pros &#038; Cons of View-Through Conversion Tracking</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/03/25/view-through-conversion-tracking/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Is Cost Per Action Advertising?</title>
+		<link>https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising/</guid>
+
+					<description><![CDATA[<p>Cost per action advertising is a form of online advertising that generally involves little risk for the advertiser.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising">What Is Cost Per Action Advertising?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/cost-per-action-graphic.gif" width="490" height="285" /></div>
+<p>There are several ways to conduct online advertising campaigns. You can pay search engines or other Internet publishers hosting your ads each time one of your ads is clicked, every 1,000 times the ad is seen, or every time the ad prompts a more sales-related action.</p>
+<p>The third option entails a user clicking on your ad and signing up for a free trial of a product, registering for a free download, or buying your product. Signups and registrations generate company leads, while sales generate immediate cash in your pocket.</p>
+<p>&nbsp;</p>
+<p>With this type of advertising you pay the host an agreed-upon fee for each specified type of action. For leads that can mean a set amount, while for sales that can mean a set percentage of the sale amount.</p>
+<p>&nbsp;</p>
+<p>This method of <a href="/online-advertising">online advertising</a> is called “<strong>cost per action</strong>” (<a href="/cost-per-action">CPA</a>). It can also be referred to as <a href="/cost-per-acquisition">cost per acquisition</a>, “pay per action” (PPA) or performance-based advertising.</p>
+<p><strong> </strong></p>
+<p><strong>How can cost per action advertising benefit advertisers?</strong></p>
+<p>&nbsp;</p>
+<p>Cost per action advertising generally involves less risk for advertisers than other advertising techniques. Since you only pay when you get a lead or a sale, you are protecting yourself from potential eyeballs that won’t convert, as well as <a href="https://www.wordstream.com/blog/ws/2015/08/17/click-fraud">click fraud</a>. Those possibilities can put a dent in your pocketbook fast.</p>
+<p>&nbsp;</p>
+<p>At the same time, you are ensuring that you only pay when you have money coming in, or when the prospect for money coming in is relatively great.</p>
+<p><strong> </strong></p>
+<p><strong>How can cost per action hurt advertisers?</strong></p>
+<p>&nbsp;</p>
+<p>You can actually lose money from a cost per action campaign if you have a low leads to sales ratio. This is because you may be paying publishers more for leads than you are generating from sales revenue.</p>
+<p>&nbsp;</p>
+<p>That may be worth your while if you have a plan for converting more leads to sales or believe that the advertising exposure outweighs any current loss in revenue.</p>
+<p>&nbsp;</p>
+<p>If you are losing money, you can try negotiating a lower cost per action fee from the publishers hosting your ads. Or you can switch over to a CPA campaign based on sales. Either way, know that your success at conversions can impact your ability to find a publisher willing to run your ad on a cost per action basis.</p>
+<p>&nbsp;</p>
+<p><strong>Why might publishers not want to run my ad on a cost per action basis?</strong></p>
+<p><strong> </strong></p>
+<p>If you don’t have a strong track record for the specified type of action, publishers may determine they’re better off hosting ads with more potential for bringing them revenue.</p>
+<p>&nbsp;</p>
+<p>Google offers a cost per action advertising program where ads are placed on Google’s affiliate websites. But to qualify for the program, advertisers must prove they manage a site that attracts a desirable audience, has enough conversions, and makes enough money. The exact criteria may differ from advertiser to advertiser.</p>
+<p>&nbsp;</p>
+<p>Other affiliate networks may also pass you by due to your track record or finances. Affiliate networks like <a href="http://www.linkshare.com/">LinkShare</a>, <a href="http://peerfly.com/">PeerFly</a>, and <a href="http://affiliate.com/">Affiliate.com</a> ask about such topics as online revenues, monthly marketing budgets, and cost per action offers in their online advertising applications.</p>
+<p>&nbsp;</p>
+<p>You may find that individual companies have more lenient criteria for doing business.</p>
+<p>&nbsp;</p>
+<p>You can also build your own affiliate network by handpicking company websites you are interested in advertising on, and reaching out to the sites about potential cost per action opportunities.</p>
+<p>&nbsp;</p>
+<p><strong>How much should I pay per action?</strong></p>
+<p>&nbsp;</p>
+<p>While it is ultimately up to a publisher to accept or reject your offer, you should go into cost per action negotiations with a figure in mind. It&#8217;s important to do some homework when determining how much you are willing to spend per action.</p>
+<p>&nbsp;</p>
+<p>For example, if you are already involved with a <a href="/cost-per-click">cost per click</a> or cost per impression campaign, you should figure out how much you are paying for each conversion, whether it is a lead or sale. You can determine this amount by using an online cost per action calculator, <a href="http://www.clickz.com/cpa_calculator">like the one offered by ClickZ</a>.</p>
+<p>&nbsp;</p>
+<p>To get your cost per action you must enter either your cost per 1,000 impressions or cost per click, your conversion rate, and, if it’s a cost per impression campaign, your click through rate. You can get this information from within your pay per click account or a web analytics tool.</p>
+<p>&nbsp;</p>
+<p>Once you have your current cost per action, you should try using a lower cost per action for a cost per action campaign.</p>
+<p>&nbsp;</p>
+<p><strong>Then what should I do?</strong></p>
+<p>&nbsp;</p>
+<p>Over time, evaluate how return on investment (ROI) from your CPA campaign compares with the ROI on your cost per impression or cost per click campaigns. If you have a much better return on investment for the cost per action campaign, you should consider scrapping the cost per impression or CPC campaign.</p>
+<p>&nbsp;</p>
+<p>But if you have a much better return on investment for the cost per impression or cost per click campaign, you should probably negotiate a different cost per action amount or reconsider the CPA campaign.</p>
+<p>&nbsp;</p>
+<p>If some of your products or services do better with one campaign type and others with another type, you can diversify your advertising methods.</p>
+<p><em>Photo credit: </em><a href="http://www.flickr.com/photos/sepblog/3570992970/"><em>http://www.flickr.com/photos/sepblog/3570992970/</em></a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising">What Is Cost Per Action Advertising?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/03/17/cost-per-action-advertising/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ten Ways to Improve Your AdWords Click-Through Rate (CTR)</title>
+		<link>https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate#respond</comments>
+		
+		<dc:creator><![CDATA[Christine Laubenstein]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate/</guid>
+
+					<description><![CDATA[<p>Ten steps you can take to improve your AdWords click-through rate (CTR), such as simplifying your ad and getting rid of abbreviations.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate">Ten Ways to Improve Your AdWords Click-Through Rate (CTR)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="18304a7b-cf9a-4865-83fc-1d60d2ba9cef" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/improve-your-click-through-rate.jpg" width="500" height="333" /></div>
+</article>
+</div>
+<p>One of the best ways to save money on your <a href="/google-adwords">AdWords</a> campaign is by improving your <a href="/click-through-rate">click-through rate</a> (CTR), or the percentage of viewers who actually click on your ad.</p>
+<p>A higher click-through rate leads to a higher Quality Score &#8212; a grade Google applies to your AdWords keywords and ad groups. When you have a high Quality Score, you pay less for better ad spots. Here are 10 steps you can take to improve your AdWords click-through rate:</p>
+<ol type="1">
+<li><strong>Include promotional offers, attractive adjectives, and calls to action in your ads</strong>. People are more likely to click on your ad if you tout a special promotion, like free shipping. Also, words like “save,” “easy,” and “new,” and calls to action like “buy now,” “reserve today” and “call now,” can prompt a click.</li>
+</ol>
+<ol start="2" type="1">
+<li><strong>Put your keywords into the body and title of your ad</strong>. The keywords people type into Google appear in bold when found in search results. People are more likely to click on ads that contain the keywords they have just typed than ads without them.</li>
+</ol>
+<ol start="3" type="1">
+<li><strong>Include your price in your ad</strong> if you are selling a product or service for a good value. Not only may it incite more people to click on the ad for more information, but it also could lead to more conversions down the line.</li>
+</ol>
+<ol start="4" type="1">
+<li><strong>Make sure your keywords are highly relevant</strong> to your product or service. If they aren’t, people won’t click on your ad. For example, if you sell red wine vinegar but your keywords are just “buy” “red” and “wine,” don’t expect many landing page hits. People searching for “buy,” “red” and “wine” are more focused on finding that perfect bottle than your vinegar.</li>
+</ol>
+<ol start="5" type="1">
+<li><strong>Use negative keywords to limit untargeted impressions</strong>. Say you sell brand new cell phones. You don’t want your ad to appear when people search for refurbished cell phones. Thus, by setting “refurbished” as a negative keyword you can keep that from happening.</li>
+</ol>
+<ol start="6" type="1">
+<li><strong>Simplify your ad</strong>. If your ad is too wordy people won’t want to read it. Try to pare down the copy in a way that doesn’t compromise a sufficient description of your product. Get rid of words like “Click Here” and “See (a specific link).”</li>
+</ol>
+<ol start="7" type="1">
+<li><strong>Capitalize the words in your display URL</strong>to make them more readable. If you are a distributor of Swiss chocolate, for example, and your website is wesellswisschocolate.com, write the <a href="/display-url">display URL</a> as WeSellSwissChocolate.com. People are more likely to click on your ad if they immediately know what you’re selling.</li>
+</ol>
+<ol start="8" type="1">
+<li><strong>Test out different types of ads</strong> (text, banner, local business), different keywords, and different layouts, to see which features generate the highest click-through rates. Once you have this information you can focus on using those ad characteristics.</li>
+</ol>
+<ol start="9" type="1">
+<li><strong>Get rid of abbreviations</strong>, unless they are obvious. Advertisers may shorten words so they can fit more of them into an ad. But in doing so they compromise users’ ability to easily understand the ad, and their desire to click on it.</li>
+</ol>
+<ol start="10" type="1">
+<li><strong>Try using a seasonal headline in your ad</strong>, even if you offer your product or service year-round. That may give customers a sense of urgency and newness, prompting them to click the ad. If your company sells wrought iron furniture, for example, your headline could be “Thanksgiving Wrought Iron Furniture Sale.”</li>
+</ol>
+<p><em>Photo credit: </em><a href="http://www.flickr.com/photos/amagill/3366720659/"><em>http://www.flickr.com/photos/amagill/3366720659/</em></a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate">Ten Ways to Improve Your AdWords Click-Through Rate (CTR)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/02/02/how-to-improve-adwords-click-through-rate/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,168 @@
+name: WordPress CI-CD Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+
+  schedule:
+    - cron: "0 3 * * *"   # Daily backup at 03:00 UTC
+
+permissions:
+  contents: read
+
+jobs:
+
+  # -------------------------------------------------
+  # BUILD + DEPLOY (runs on push)
+  # -------------------------------------------------
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      # -----------------------------------
+      # PHP + Composer
+      # -----------------------------------
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.2"
+          tools: composer
+          coverage: none
+
+      - name: Cache Composer dependencies
+        uses: actions/cache@v3
+        with:
+          path: vendor
+          key: composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: composer-
+
+      - name: Install Composer dependencies
+        run: composer install --prefer-dist --no-progress --no-suggest
+
+      # -----------------------------------
+      # Node.js + Frontend build
+      # -----------------------------------
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install NPM dependencies
+        run: npm ci
+
+      - name: Build frontend
+        run: npm run build --if-present
+
+      # -----------------------------------
+      # Package deployment files
+      # -----------------------------------
+      - name: Prepare deployment package
+        run: |
+          mkdir deploy
+          cp -R . deploy/
+          rm -rf deploy/node_modules
+          rm -rf deploy/.git
+          rm -rf deploy/.github
+
+      - name: Upload deployment artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: deployment-package
+          path: deploy
+          retention-days: 7
+
+      # -----------------------------------
+      # Deploy to Hostinger via SSH
+      # -----------------------------------
+      - name: Deploy to Hostinger
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          source: "deploy/*"
+          target: "public_html"
+          overwrite: true
+
+      - name: Restart PHP
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: "killall -9 php || true"
+
+      # -----------------------------------
+      # NEW — WP-CLI TASKS
+      # -----------------------------------
+      - name: Run WP-CLI commands after deploy
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            cd public_html
+            wp plugin list --allow-root
+            wp cache flush --allow-root
+            wp rewrite flush --hard --allow-root
+            echo "WP-CLI operations completed."
+
+      # -----------------------------------
+      # NEW — LiteSpeed Cache Purge
+      # -----------------------------------
+      - name: Purge LiteSpeed Cache
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            cd public_html
+            curl -X GET "https://YOUR_DOMAIN.com/?LSCWP_CTRL=purge_all&LSCWP_NONCE=$(wp nonce create lscwp_purge_all --allow-root)"
+            echo "LiteSpeed cache purge requested."
+
+  # -------------------------------------------------
+  # DAILY BACKUP JOB
+  # -------------------------------------------------
+  daily-backup:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+
+    steps:
+      - name: Create backup on Hostinger
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            cd public_html
+            zip -r backup_$(date +%F).zip .
+
+      - name: Download backup to GitHub
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          port: 65002
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          source: "public_html/backup_*.zip"
+          target: "./"
+
+      - name: Upload backup artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: wordpress-backup
+          path: "*.zip"
+          retention-days: 30

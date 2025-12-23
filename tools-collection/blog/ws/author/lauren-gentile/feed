@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lauren Gentile, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/lauren-gentile/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Wed, 24 Nov 2021 15:31:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Lauren Gentile, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Beat PPC Seasonality with MSAN &#038; Google Display Network</title>
+		<link>https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality#respond</comments>
+		
+		<dc:creator><![CDATA[Lauren Gentile]]></dc:creator>
+		<pubDate>Thu, 15 Aug 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality/</guid>
+
+					<description><![CDATA[<p>PPC seasonality impacts most businesses—but there are ways to beat the slump. In this guide, you'll learn how to identify seasonal patterns, how cross-platform display advertising can help during impression dips, and how to make the most appealing display ads possible!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality">How to Beat PPC Seasonality with MSAN &amp; Google Display Network</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When I’m sweating bullets in the oppressive August heat, I want nothing more than to dive into an ice bath fit for a polar bear. But when it’s snowing boatloads, I dream of lounging like the inner feline goddess I am, sprawled out in front of every sunbeam in my reach. I like to think I’m always ahead of the seasonality curve—ready for the change in weather, in activities, in clothing.</p>
+<p>And, most importantly for marketers like us, the seasonal changes that impact advertising.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="83bbe62b-03f1-45d1-b103-154a84702f40" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-seasonal-slumps.jpg" alt="Coke knows no seasons ad" width="799" height="376" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Not the case for every business … </em></p>
+<p>Some cases of seasonality can be expected: A local florist can assure their paid search accounts soar near our loving predictable Valentine’s Day and Mother’s Day holidays (even if she would rather have jewelry—sorry, Mom!). A costume shop can expect to see wigs and accessories flying off their virtual shelves come October; lawn care companies to surge in spring; ecommerce to boom for our now week-long Black Friday celebrations.</p>
+<p>But other seasonal changes are less predictable, and we need to be ready. Every single advertiser experiences some kind of seasonality. How do we identify our lull periods and more importantly how do we optimize for success in our lull periods? Well, my dear Watson, I’m glad you asked!</p>
+<p>In this guide to planning for PPC seasonality, you’ll learn how to:</p>
+<ul>
+<li>Identify seasonal patterns</li>
+<li>Make a seasonal dip in search volume work for you</li>
+<li>Use GDN and MSAN to beat seasonal slumps</li>
+<li>Create effective display ads for both networks</li>
+</ul>
+<h2>Identifying seasonal patterns</h2>
+<p><em>“So, Lauren, how do I know when I’m experiencing seasonality if it isn&#8217;t as obvious as it is for a florist?” </em></p>
+<p>The first step I recommend is to <strong>pull up some year-over-year comparison reports</strong> to look at fluctuations in impressions served between years. Take the example below. This client, who is a chiropractor, surprisingly sees a consistent dip in the middle of the year around June and then again when the <a href="https://www.wordstream.com/blog/ws/2019/08/08/holiday-marketing-tips">holiday season</a> starts to ramp up.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="237563eb-41a0-4a05-ae23-4244f36a0018" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-seasonality-chart.jpg" alt="PPC seasonality impressions chart" width="738" height="317" /></div>
+</article>
+</div>
+<p>Although my client below had a pretty prevalent dip at the same time every year, this data can fluctuate and change a bit from year to year depending on culture changes and adaptation—I mean, how many articles this week have you seen titled “10 Things Millennials Ruined This Year”? (Sorry, everyone.)</p>
+<p>Things are going to change, but you can use these “seasonal” bumps and fluctuations to revisit and tap into your creative prospecting instincts to come up with new ways for people to be intrigued by your brand with <a href="https://www.wordstream.com/blog/ws/2018/01/29/contextual-display-advertising">display advertising</a>. Even if it is only one month every year, use that month as the catalyst that builds your pipeline to thrive through the quarter that follows it and drives sales and success throughout the rest of the year—here’s how.</p>
+<h2>Making the most of your seasonal slump</h2>
+<p>When search volume is low for a season, most advertisers&#8217; initial instinct is to shut down all of their paid search efforts until they think they have picked back up again. I want to challenge you to think of this time instead as <strong>an opportunity to “build the pipeline”</strong> using other tools to raise brand awareness and really pump up your <a href="https://www.wordstream.com/blog/ws/2015/03/12/remarketing-lists-for-search-ads">remarketing lists</a>.</p>
+<p>The next step is to think of creative ways to capture an audience within that slower search period. For this particular client, we thought about how the summer can be stressful: the kids are out of school and the parents turn into a chef, nurse, playmate, and chauffeur. All of those activities put a lot of stress on the body where it isn&#8217;t usually. So now would be the perfect time for parents to come see a chiropractor to assist with any summer aches and pains.</p>
+<p>For the holiday ramp-up we went along the same train of thought. The holidays are a stressful time and self-care is important in the midst of constantly thinking of others—also, we wanted to stress that people had the potential to lose their unused insurance benefits.</p>
+<h2>Using Google Display &amp; MSAN to beat seasonal slumps</h2>
+<p>So what do we do with these creative advertising ideas? Use them with the power of display on both the Google Display Network (GDN) and Microsoft Audience Network (MSAN). I know immediately the mind probably went straight to the ole Googs. But MSAN puts your business right in front of <a href="https://about.ads.microsoft.com/en-us/solutions/microsoft-audience-network/microsoft-audience-ads">millions of users daily</a>. And the best part? The network is growing so rapidly. Bing, Amazon, Forbes, Yahoo, AOL, and CBS are all a part of the Microsoft Audience Network—so these are all platforms where you can get in front of your own audience.</p>
+<p>So when you see these dips in search impressions, I recommend that you invest in <strong>both </strong>GDN and MSAN.</p>
+<h3>Why advertising on both networks is crucial</h3>
+<p>Why both? Because they work together like peanut butter and jelly. Advertising on both platforms actually boosts your branded search impression share on Google: Cross-platform advertising increases your branded impression share on Google search by a <a href="https://www.wordstream.com/blog/ws/2017/03/13/cross-network-advertising-brand-search-lift">minimum of 26%</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="309b3b43-6d75-4899-851f-d37d17c3c1e8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/cross-network-ads-effect-on-google-brand-searches1-1.png" alt="cross networks ads branding" width="762" height="585" /></div>
+</article>
+</div>
+<h2>How to create effective display ads to combat seasonality</h2>
+<p>So what are the best strategies for display ads?</p>
+<ol>
+<li><strong>Get ahead of your competition</strong>. <a href="https://www.wordstream.com/blog/ws/2014/04/09/adwords-tips-for-seasonal-businesses">Data shows</a> that people start searching for the keyword &#8220;swimsuit&#8221; as soon as January 1. Some of these people might be getting ready for a beach vacation, but I’d bet other searcher have New Year&#8217;s resolutions to get fit and this aspirational garment will keep them motivated until the season when they can wear it finally comes! (Not speaking from experience here at all.)</li>
+<li><strong>Appeal to prospects with emotive language</strong>. Purchases can and will be extremely <a href="https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads">driven by emotions</a>. Use words that trigger emotions that would connect well with your products or services.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2861d9f6-6931-47d8-b163-b01c28b4d889" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-seasonality-emotional-language.jpg" alt="display ad with emotional language" width="443" height="626" /></div>
+</article>
+</div>
+<ol start="3">
+<li><strong>Appeal to people’s curiosity. </strong>Why do people click on an ad? Often, because it sparked more questions they wanted answered. Use this to your advantage by creating a <a href="https://www.wordstream.com/blog/ws/2017/04/10/curiosity-gap">curiosity gap</a> in your copy.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f9ac5752-952f-4d55-b415-a208b7bf9078" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-seasonality-curiosity-gap.jpg" alt="curiosity gap display ad" width="597" height="229" /></div>
+</article>
+</div>
+<ol start="4">
+<li><strong>Show your brand’s personality.</strong> A display ad is your opportunity to capture the attention of someone who (most likely) doesn&#8217;t know who you are. First impressions are everything. Make a great first impression by showing an ad that is very clearly true to your brand and your <a href="https://www.wordstream.com/blog/ws/2014/07/31/brand-voice">brand voice</a>.</li>
+<li><strong>Make sure that your content matches your audience. </strong>Don’t show people with an affinity for cats a dog-driven ad … unless it&#8217;s me. If it’s me, bring me all the furry four-legged animals. The idea with display advertising is to resonate with your audience as much as possible so that users can relate to your ad. But on the other hand (no pun intended) &#8230;you can never go wrong with an ice cream ad.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6900a3e8-dae4-46d7-b033-b6b77e1023f7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-seasonality-ben-and-jerrys.jpg" alt="Ben and Jerry's display ad" width="230" height="315" /></div>
+</article>
+</div>
+<ol start="6">
+<li><strong>Test, test, test everything.</strong> There is no perfect science to display, which is what I find to be the most riveting part of being in marketing.</li>
+</ol>
+<h2>Let’s get seasonal, seasonal</h2>
+<p>Seasonality hits everyone in one way or another, it can be a season of influx or a season of minimal traffic. It’s important to identify when it&#8217;s happening, why it&#8217;s happening, and how we can take advantage of that time to take a softer approach or a more aggressive approach in some instances. Either way, display is an effective way to combat seasonality to assure you are maintaining brand awareness and foster product/service adoption for your audience.</p>
+<p>&nbsp;</p>
+<p>For more seasonal marketing ideas, check out these posts (with more to come!):</p>
+<ul>
+<li><a href="/blog/ws/2020/09/10/september-marketing-ideas">17+ Free and Creative September Marketing Ideas</a></li>
+<li><a href="/blog/ws/2020/09/21/october-marketing-ideas">21+ Free and Effective October Marketing Ideas</a></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality">How to Beat PPC Seasonality with MSAN &amp; Google Display Network</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/08/15/ppc-seasonality/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

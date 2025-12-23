@@ -1,0 +1,10 @@
+wp-content/cache/
+wp-config.php
+.DS_Store
+*.log
+wp-content/uploads/
+wp-content/cache/
+wp-content/ai1wm-backups/
+wp-config.php
+*.log
+.DS_Store

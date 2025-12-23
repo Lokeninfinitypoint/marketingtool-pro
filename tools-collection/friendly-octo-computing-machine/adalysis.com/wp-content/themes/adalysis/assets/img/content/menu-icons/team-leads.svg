@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Regular</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Solutions-dropdown" transform="translate(-279, -132)" stroke-width="1.5">
+            <g id="Regular" transform="translate(280, 133)">
+                <path d="M21,7.5 L12.75,7.5 L11.25,8.999 L9.75,7.499 L1.5,7.499 C0.671572875,7.499 0,6.82742712 0,5.999 L0,1.5 C0,0.671572875 0.671572875,0 1.5,0 L21,0 C21.8284271,0 22.5,0.671572875 22.5,1.5 L22.5,6 C22.5,6.82842712 21.8284271,7.5 21,7.5 Z" id="Shape" stroke="#3A56BC"></path>
+                <circle id="Oval" stroke="#3A56BC" cx="2.625" cy="16.125" r="2.625"></circle>
+                <path d="M6.764,22.233 C6.22684318,20.977946 5.14899027,20.0345938 3.83382772,19.6684715 C2.51866518,19.3023492 1.10840599,19.5530469 0,20.35" id="Shape" stroke="#3A56BC"></path>
+                <circle id="Oval" stroke="#3A56BC" cx="19.875" cy="16.125" r="2.625"></circle>
+                <path d="M15.736,22.233 C16.2731568,20.977946 17.3510097,20.0345938 18.6661723,19.6684715 C19.9813348,19.3023492 21.391594,19.5530469 22.5,20.35" id="Shape" stroke="#3A56BC"></path>
+                <circle id="Oval" stroke="#FFAF24" cx="11.25" cy="15.375" r="3.375"></circle>
+                <path d="M15.964,22.499 C14.8122708,21.0764795 13.0798128,20.2500467 11.2495,20.2500467 C9.41918725,20.2500467 7.6867292,21.0764795 6.535,22.499" id="Shape" stroke="#FFAF24"></path>
+            </g>
+        </g>
+    </g>
+</svg>

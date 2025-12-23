@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chad Summerhill, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/chad-summerhill/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 19 Nov 2021 03:03:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Chad Summerhill, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PPC Storytelling: How to Make an Excel Bubble Chart for PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial#respond</comments>
+		
+		<dc:creator><![CDATA[Chad Summerhill]]></dc:creator>
+		<pubDate>Tue, 17 Sep 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial/</guid>
+
+					<description><![CDATA[<p>As PPC managers, we understand our campaigns, but it can be difficult to quickly and effectively describe our campaigns to our clients or supervisors in order to set the proper context for further exploration.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial">PPC Storytelling: How to Make an Excel Bubble Chart for PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <strong>Excel bubble chart</strong> is often overlooked by PPC advertisers, because it can be tricky to set up. However, when used properly, a bubble chart lets you clearly present and compare <strong>categorical data</strong> (e.g. campaign, ad groups, device, etc.) – represented by the number of bubbles – as well as <strong>quantitative data</strong> (e.g. cost, conversions, CTR, etc.) – represented by the size of the bubble and its location on the XY axis.</p>
+<p>In this article, I will show you step-by-step how to create the powerful Excel bubble chart for use with PPC data.</p>
+<h2>Why Bubble Charts Are Useful for PPC</h2>
+<p>As PPC managers, we understand our campaigns, but it can be difficult to quickly and effectively describe our campaigns to our clients or supervisors in order to set the proper context for further exploration. Which campaigns are important? Which contribute the most conversions? Which receives the most investment? Which perform the best? One way to add clarity at the beginning of our PPC conversation is to use a bubble chart to show our campaigns by CPA (ROI if you can) by conversion and by cost. This high-level introduction of our campaigns can set the stage for a deeper dive into our PPC program.</p>
+<p>Here’s what the completed bubble chart looks like:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="60df1ddd-0e55-4e3c-8b2d-f2b43c4351ac" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_1_completed_chart-1.png" alt="Excel Bubble Chart" width="1331" height="950" /></div>
+</article>
+</div>
+<p>Checkout Campaign #3. It’s contributing 11% of the overall conversions at 3% of the overall cost. Maybe we should reallocate some budget from Campaign #8, which has 38% of the overall cost and only 31% of the overall conversions.</p>
+<p>Let’s jump into the steps needed to create this chart. We will start with getting the data we need, then I’ll show you how to prepare your data for the chart, and finally I’ll walk you through the various steps used to create the chart.</p>
+<h2>Step 1: Get The Data</h2>
+<p>There’s more than one way to get at this data. I use Gazel, an <a href="http://gazel.ws/">Excel Add-in for AdWords</a> (disclaimer: I’m the co-founder of Gazel) to pull the data directly into the Bubble Chart Excel Template with one click of the “Refresh” button. For those of you who don’t have this tool, you will need to take a few minutes to log into AdWords, run a <a href="/blog/ws/2011/04/18/adwords-dashboard-excel">Campaign Performance Report</a> in AdWords, download the report, and open it up in Excel. We will only need three columns in the report: Campaign, Cost, and Conversions. The timeframe is up to you, but I recommend at least 30 days.</p>
+<h2>Step 2: Prepare Your Data</h2>
+<p>I did most of the work for you with the Bubble Chart Template, so this won’t be too hard. If you used Gazel, then you’re already finished and can enjoy the chart. If not, then you may have extra columns in your report, so delete all the columns you don’t need and make sure you are left with: Campaign, Cost, Conv. (1-per-click). Now copy your data and paste it into the template as show below.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="53701251-a8e2-4db1-8f45-05767ba07fda" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_2_paste_here-1.png" alt="Bubble Chart Tutorial" width="449" height="539" /></div>
+</article>
+</div>
+<p>Depending on how many campaigns you have, you may need to do a little more work. I’ve built the example template to handle up to 15 campaigns. Later in this post, I will show you what to do to add a more campaigns. Once you have you data prepared with the three needed columns, paste (values only) into the table as show above.</p>
+<p>The bubble chart is linked to the blue transformation table located on the “chart_data” worksheet. I created this transformation table to add a little more context when you roll over a bubble in the chart. After pasting in your AdWords data you will need to copy the formulas in the transformation table down for as many rows as you need for your campaigns.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4342d771-0038-4512-adee-454fc3f99bdc" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_3_blue_table-1.png" alt="Bubble Chart Tips" width="621" height="214" /></div>
+</article>
+</div>
+<p>There are calculations for % of total cost and for % of total conversions. Then I created a surrogate campaign name with this information concatenated together using this formula:</p>
+<p><strong>=CONCATENATE(A15,&#8221; ,%Cost:&#8221;,TEXT([@[%Cost]],&#8221; ##%&#8221;),&#8221; ,%Conv:&#8221;,TEXT([@[%Conv.]],&#8221; ##%&#8221;))</strong></p>
+<p>Now when you rollover a bubble you see this information:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a5e01235-27fb-41f6-8746-afc2c300affa" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_4_rollover-1.png" alt="Bubble Chart Rollover" width="418" height="150" /></div>
+</article>
+</div>
+<h2>Step 3: Building the Bubble Chart</h2>
+<p>In order to get your bubble chart to display your labels (surrogate campaign name) correctly you must start your chart from scratch and create a separate chart series for each row of data. So, in Excel:</p>
+<p><strong>1. Insert &gt; Other Charts &gt; Bubble</strong> (don’t have your cursor in the data tables). This will give you a blank Bubble Chart to work with. Now, click on the chart and:</p>
+<p><strong>2. Select Data</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fac3dafd-785b-455a-8fcc-0387ea442aee" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_5_select_data-1.png" alt="How to Make a Bubble Chart" width="597" height="326" /></div>
+</article>
+</div>
+<p><strong>3. Add</strong> a series</p>
+<p>4. Using data from the blue table, use the <strong>surrogate name for the Series name, Conversions for the X values, CPA as the Y value, and Cost for the Size</strong> as shown below.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8abd5afc-1740-42c6-8a49-efd52dcd23a2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_6_edit_series-1.png" alt="Bubble Charts in Excel" width="344" height="235" /></div>
+</article>
+</div>
+<p>5. Repeat this process for each of your campaign rows of data. Like I mentioned earlier, I did this for 15 campaigns, but you can add as many more as you need.</p>
+<p>You should now have a chart that looks something like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e6f9ea76-8f3f-4d9a-954a-a1ffac80cdb8" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_7_chart-1.png" alt="PPC Bubble Chart" width="857" height="615" /></div>
+</article>
+</div>
+<p>In order to get your surrogate name to show up as a label, simply add a data label to your series and format it so the series name is used for the label as shown below.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1939f49f-850c-4728-88f0-de8c251455d6" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bubble_chart_img_8_label-1.png" alt="Bubble Chart Labels" width="498" height="550" /></div>
+</article>
+</div>
+<p>That’s it. Flawless Excel buble chart data labels. It may take a few minutes, but with this knowledge you can create awesome bubble charts for your PPC <a href="/blog/ws/2014/09/03/storytelling-in-content-marketing">storytelling</a>. Of course, you can customize this chart like any other Excel chart. One idea would be to make one of the bubbles a different color for emphasis. Another good use of the bubble chart would be to compare performance by <a href="/blog/ws/2013/03/06/google-for-mobile">device type</a>, Search Network vs. Google Search, Geography, etc. Good luck!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial">PPC Storytelling: How to Make an Excel Bubble Chart for PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/09/17/excel-bubble-chart-tutorial/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Advanced Search Query Mining Part 1: The Power of Search Queries</title>
+		<link>https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining#respond</comments>
+		
+		<dc:creator><![CDATA[Chad Summerhill]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining/</guid>
+
+					<description><![CDATA[<p>If you are bidding on broad match keywords and ignoring your search queries, you are definitely wasting money. Learn how search query mining can maximize ROI.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining">Advanced Search Query Mining Part 1: The Power of Search Queries</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you are bidding on broad match keywords and ignoring your <a title="search queries" href="http://www.ppcbouncer.com/search-queries/search-queries-keywords-important-distinction/#content" target="_blank" rel="noopener">search queries</a>, you are definitely wasting money, by not managing your negative keywords, missing out on profitable long-tail keyword opportunities, and possibly missing new emerging search trends in your market.</p>
+<h2>Keywords are not search queries</h2>
+<p>Keywords are not search queries, although search queries can be keywords. <strong>Keywords are assumptions</strong> about the words we think our customer will use when using a search engine, while <strong>search queries are the reality</strong>.</p>
+<p>If you are only using <a href="/blog/ws/2010/10/26/complete-guide-adwords-matching-options-2">exact match keywords</a> in your PPC campaigns, then your keywords will match your customers&#8217; search queries exactly every time a search is matched to your ad.</p>
+<p>However, if you are taking advantage of broad and phrase match, oftentimes one keyword can generate hundreds or even thousands of search queries. It is our responsibility to <strong>take control of these search queries</strong>.</p>
+<p>Keep this in mind when thinking about keywords and search queries:</p>
+<ul>
+<li>Keywords are <strong>advertiser-centric assumptions</strong>—a targeting method to attract search queries.</li>
+<li>Search queries are <strong>customer-centric realities</strong>—your customers&#8217; voice and, most importantly, clues to your customers&#8217; intent</li>
+</ul>
+<h2>You can’t find new search queries without using broad match</h2>
+<p>Some may argue that using broad match is a technique to increase traffic to your PPC campaigns. Unfortunately, this is the misguided goal of many broad match campaigns. Using broad match with a focus on just increasing your exposure without paying attention to your search queries will definitely open your account up to waste and risk.</p>
+<p>The real goal of using broad match keywords should be to <strong>find the profitable user search queries</strong>your customers are using that triggered an ad. The advertiser can take action on these search queries by including them as exact match keywords in their PPC campaigns.</p>
+<p>This allows the advertiser to create an appropriate customer experience tied more directly to their intent. This, in turn, should create better and more profitable outcomes for the advertiser.</p>
+<p>Using broad match keywords is the <strong>best keyword expansion method available </strong>to find out what words your potential customers are using when searching for products, services, or information. And the way you find these wonderful words is by mining your search query data.</p>
+<h2>The Goal of Search Query Mining</h2>
+<p>Through search query mining, you want to find:</p>
+<ul>
+<li><strong>Keyword candidates</strong>: Good performers that you might have otherwise missed and that need to be promoted to keywords.</li>
+<li><strong>Negative keyword candidates</strong>: Poor performers that need to be added as negative keywords, both as ad group negatives and <a href="http://www.chadsummerhill.com/search-query-mining-campaign-negatives/" target="_blank" rel="noopener">campaign negative keywords</a>.</li>
+</ul>
+<p>Here is a visualization of search query mining, showing the ad group structure and the workflow.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="305384c8-1563-4d68-8744-99d3ed6eafb0" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/search-query-flow-chart.png" alt="Search Query Mining" width="480" height="365" /></div>
+</article>
+</div>
+<p>As your query mining efforts mature you will find less and less irrelevant search queries and more new profitable long-tail keywords or even new high-volume search queries reflecting changes in your customers&#8217; search behavior.</p>
+<p>Now that we agree on the power of search queries, we will jump right into the world of search query mining. In my future posts, I will detail:</p>
+<ul>
+<li><a href="/blog/ws/2010/11/17/search-query-mining-data">Part 2: Getting the Right Data</a></li>
+<li><a href="/blog/ws/2010/11/24/search-query-mining-preparing-data">Part 3: Preparing Your Data for Analysis</a></li>
+<li><a href="/blog/ws/2010/12/01/advanced-query-mining-data-analysis">Part 4: Mining Your Data for Insights</a></li>
+<li><a href="/blog/ws/2010/12/08/advanced-query-mining-acting-on-insights">Part 5: Acting on Your Insights</a></li>
+</ul>
+<p>I look forward to sharing my search query mining techniques over the next few weeks. I will be getting very detailed, so don’t hesitate to ask questions in the comments if you need further explanations.</p>
+<p>Advanced search query mining is about going beyond the tools provided to you by the search engines and taking control of your search queries, which are arguably the most valuable search assets you have.</p>
+<p><em>Chad Summerhill is author of the blog PPC Prospector, provider of </em><em>PPC AdWords advice</em><em>, and in-house </em><em>PPC specialist</em><em> at Moving Solutions, Inc.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining">Advanced Search Query Mining Part 1: The Power of Search Queries</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/11/10/advanced-search-query-mining/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s Broad Match Modifier: Who Should Use It, Why, and How</title>
+		<link>https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier#respond</comments>
+		
+		<dc:creator><![CDATA[Chad Summerhill]]></dc:creator>
+		<pubDate>Wed, 27 Oct 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier/</guid>
+
+					<description><![CDATA[<p>Modified broad match is a way to refine your standard broad match keywords for tighter targeting and control over your ad spend. Learn who should be using Google's new broad match modifier feature in AdWords and how to employ it.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier">Google&#8217;s Broad Match Modifier: Who Should Use It, Why, and How</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Important: <strong>Modified broad match is no longer </strong>as of February 18, 2021. So sad! Here&#8217;s what you can do:</p>
+<ul>
+<li>Understand the <a href="/blog/ws/2021/02/10/modified-broad-match-going-away">announcement about modified broad match going away.</a></li>
+<li>Try these <a href="https://www.wordstream.com/blog/ws/2021/03/08/how-to-win-google-ads-broad-match">tips for using broad match in response to the change</a>.</li>
+<li>Learn how to use<a href="/blog/ws/2021/06/08/broad-match-audience-targeting-google-ads"> broad match + audience targeting</a> as a solid workaround.</li>
+</ul>
+<p>I’m sure by now that most of you have heard of Google Ads’ new <a href="http://www.google.com/ads/innovations/bmm.html" target="_blank" rel="noopener">feature</a>, Broad Match Modifiers (BMM). In short, by adding a simple “+” before a word in your broad match keyword, Google requires that word (or a close variation) to appear in the user’s search query.</p>
+<p>If you’re not excited, you should be. This is exactly the type of feature that we advertisers have been asking for and can benefit greatly from. BMM gives us more visibility and control over how we spend our money. (Check out Alan Mitchell’s blog post on using <a href="http://www.calculatemarketing.com/blog/techniques/modified-broad-match-adwords-analysis/" target="_blank" rel="noopener">Modified Broad Match</a> and its effect on CTR and CPC if you still need to get pumped up about trying out this new feature.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="782f075a-0b78-4c28-bbbd-1660146fbbee" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/modified_broad_match_diagram-4.jpg" alt="Broad Match Modifier Explained" width="975" height="655" /></div>
+</article>
+</div>
+<h2>So who should use this exciting new feature?</h2>
+<ol>
+<li>Anyone who has been afraid to use Enhanced Broad Match (EBM) in the past because it’s too broad.</li>
+<li>Anyone who is using Enhanced Broad Match today.</li>
+</ol>
+<p><strong>If you are an exact match and phrase match purist …</strong></p>
+<p>By requiring the actual word to appear in the user search query, BMM is a much safer option for those who have been worried about the pitfalls of using Enhanced Broad Match. BMM is still a wider net than phrase match, but not nearly has wide as EBM, which requires diligent <a href="http://www.chadsummerhill.com/search-query-mining-campaign-negatives/" target="_blank" rel="noopener">search query mining</a> to minimize the risks.</p>
+<p>If you’ve been looking for a way to increase your qualified traffic, BMM is a great new opportunity for hardcore exact and phrase match advertisers.</p>
+<p>Start experimenting by:</p>
+<ul>
+<li>Creating new ad groups for keywords that you want more exposure on using the “+” modifier</li>
+<li>You will want to set a lower CPC for the BMM version of your keyword to minimize ad-poaching</li>
+<li>Take advantage of the new <a href="https://www.wordstream.com/blog/ws/2015/08/13/adwords-report" target="_blank" rel="noopener">Google Analytics AdWords reports</a> and watch your search queries closely for negatives</li>
+</ul>
+<p>By creating new BMM ad groups, the results will be easier to compare to those of your existing ad groups. You will also get the added benefit of having your user search queries segregated from your existing ad groups, making it easier to mine for <a href="/negative-keyword-tool">negative keywords</a> (which will still be necessary).</p>
+<p><strong>If you are already using Enhanced Broad Match …</strong></p>
+<p>For those of us who are already widely using EBM, we could always use a little more control and visibility. EBM gives Google lots of latitude to spend your money—BMM takes that control and puts it back in the hands of the advertisers (where it should be).</p>
+<p>So&#8211;</p>
+<ul>
+<li>For every existing EBM keyword create a fully modified BMM (a “+” for every word in the keyword) version</li>
+<li>For your head terms, experiment with using all of the different permutations of BMM</li>
+<li>Gather some data</li>
+<li>Continue your query mining as always</li>
+<li>Take advantage of your new control by bidding on your BMM keywords appropriately and capture some more qualified traffic</li>
+</ul>
+<p>This doesn’t mean that you would stop using EBM; it simply gives you more control to raise bids on what should be more qualified traffic. Keep using EBM where it works; after all “20% of the queries Google receives each day are ones we haven’t seen in at least 90 days, if at all” (<a href="http://adwords.blogspot.com/2008/11/reach-more-customers-with-broad-match.html" target="_blank" rel="noopener">according to Google).</a></p>
+<p>For those of you who are not looking forward to creating all of the new BMM versions of your keywords, please take advantage of this free Excel <a href="http://www.chadsummerhill.com/google-adwords-modified-broad-match-builder-free-download/" target="_blank" rel="noopener">Modified Broad Match Tool</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="13792256-e344-4f8e-9a26-362201d14dc5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bmm_tool_2.png" width="800" height="600" /></div>
+</article>
+</div>
+<p>And here is a simple <a href="http://nationalsearchmarketing.com/106-simple-formula-to-change-your-broad-match-to-modified-broad-match.html" target="_blank" rel="noopener">Excel formula for a fully modified BMM keyword</a>:</p>
+<p>=CONCATENATE(&#8220;+&#8221;,SUBSTITUTE(A3,&#8221; &#8220;,&#8221; +&#8221;))</p>
+<p>Using Broad Match Modifiers is about control. It’s our responsibility as advertisers to take advantage of this added control and use it to its fullest potential where it makes sense, and in so doing encourage Google to continue to add features like Broad Match Modifiers.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier">Google&#8217;s Broad Match Modifier: Who Should Use It, Why, and How</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/10/27/using-broad-match-modifier/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

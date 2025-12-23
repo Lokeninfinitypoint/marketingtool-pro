@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Adalysis Help Icon</title>
+  <desc id="desc">Rounded square icon with a stylized letter A for the Adalysis help center.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#bg)" />
+  <path fill="#fff" d="M32 14l14 36h-8.2l-2.7-7.6H28.9L26.2 50H18l14-36Zm0 14.4L28.1 33h7.8L32 28.4Z" />
+</svg>

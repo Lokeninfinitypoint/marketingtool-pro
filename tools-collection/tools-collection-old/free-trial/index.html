@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Adalysis</title>
+
+    <link rel="shortcut icon" href="https://app.adalysis.com/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://app.adalysis.com/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="180x180" href="https://app.adalysis.com/img/favicon-180x180.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://app.adalysis.com/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://app.adalysis.com/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://app.adalysis.com/img/favicon-16x16.png">
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+    <link rel="stylesheet" href="https://app.adalysis.com/css/style.css?2021-0101">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-54SCKSR');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+
+
+<body class="--white">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54SCKSR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header header--hide-right">
+    <a href="../blog/easily-analyze-ad-extension-usage/feed/index.html" class="header__logo">
+        <img src="https://app.adalysis.com/img/logo.svg" alt="">
+    </a>
+</header>
+
+
+<main class="main main--columns">
+    <div class="main__col">
+        <section class="create-account">
+            <header class="create-account__top">
+                <h2 class="create-account__capt">Start your 30-Day free trial</h2>
+                <p class="create-account__desc">Try Adalysis for free. Discover how you can save time and scale your campaigns.</p>
+            </header>
+
+            <form class="create-account__form" action="https://app.adalysis.com/account/create" method="post">
+                <div class="create-account__fieldset">
+                    <div class="input">
+                        <label class="input__label">First name</label>
+                        <div class="__group">
+                            <input id="firstName" type="text" name="firstName" class="input__field" placeholder="Enter first name" maxlength="50">
+                            <mark class="input__msg">The field is not filled</mark>
+                        </div>
+                    </div>
+
+                    <div class="input">
+                        <label class="input__label">Last name</label>
+                        <div class="__group">
+                            <input id="lastName" type="text" name="lastName" class="input__field" placeholder="Enter last name" maxlength="50">
+                            <mark class="input__msg">The field is not filled</mark>
+                        </div>
+                    </div>
+
+                    <div class="input">
+                        <label class="input__label">Contact email</label>
+
+                        <div class="__group">
+                            <input id="contactEmail" type="text" name="contactEmail" class="input__field" placeholder="example@example.cpm" maxlength="100">
+                            <mark id="emailError" class="input__msg">Wrong email address or not filled</mark>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="create-account__fieldset create-account__fieldset--gap-small" name="using-adalysis">
+                    <div class="create-account__fieldset-label">You're using Adalysis as:</div>
+
+                    <div class="radio-horizontal-fields">
+                        <div class="radio">
+                            <input class="radio__input" name="businessType" value="Agency" type="radio" checked>
+                            <mark class="radio__mark"></mark>
+                            <label class="radio__label">Agency</label>
+                        </div>
+
+                        <div class="radio">
+                            <input class="radio__input" name="businessType" value="In-house marketer" type="radio">
+                            <mark class="radio__mark"></mark>
+                            <label class="radio__label">Brand marketer</label>
+                        </div>
+
+                    </div>
+
+                    <div class="checkbox gm-mt-14">
+                        <input id="agreeBox" class="checkbox__input" type="checkbox">
+                        <mark id="agreeBoxMark"  class="checkbox__mark"></mark>
+                        <label class="checkbox__label">
+                            By signing in, you agree to our
+                            <a href="../index.html%3Fp=300.html" target="_blank">terms and conditions</a>
+                            and our
+                            <a href="../index.html%3Fp=3.html" target="_blank">privacy policy</a>
+                        </label>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="g-recaptcha" data-sitekey="6LfrTqoZAAAAAGKrpzIZ7nFQAfDBSkRFNOwaCb6g" data-callback="passVerification"></div>
+                </div>
+
+                <button id="submitBtn" disabled class="button" type="submit">Create my free account</button>
+
+            </form>
+            <div class="create-account__bottom">
+                <div class="create-account__bottom-item">
+                    No credit card required.
+                </div>
+
+                <div class="create-account__bottom-item">
+                    Cancel anytime.
+                </div>
+            </div>
+            <div class="secure-panel">
+                <h3>Privacy Guarantee</h3>
+                <p>Adalysis won't make any changes to your PPC account without your explicit permission.
+                    It also won't appear as a 'User' or 'Manager' of your PPC account.
+                    Only you will know that Adalysis has been connected.</p>
+            </div>
+        </section>
+    </div>
+
+    <div class="main__col main__col--blue">
+        <section class="right-sections">
+            <article class="reviews">
+                <div class="reviews__slider">
+                    <!-- Slider main container -->
+                    <div class="swiper-container">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item ">
+                                    <div class="testimonial-item__info"
+                                         data-swiper-parallax="-200"
+                                         data-swiper-parallax-duration="600"
+                                         data-swiper-parallax-opacity="0">
+                                        <p class="testimonial-item__text"
+                                           data-swiper-parallax="-300"
+                                           data-swiper-parallax-duration="700">
+                                            This system is insane. I've been testing other similar services all month,
+                                            and you guys are leagues ahead. This will change everything and make life so
+                                            much easier. Thank you! It really is the best overview and simple management
+                                            of multiple accounts, and the updates keep coming... Don't stop!
+                                        </p>
+
+                                        <div class="testimonial-item__name"
+                                             data-swiper-parallax="-300"
+                                             data-swiper-parallax-duration="600">
+                                            David Own, Funeral Fusion
+                                        </div>
+                                    </div>
+
+                                    <div class="testimonial-item__group"
+                                         data-swiper-parallax-opacity="0"
+                                         data-swiper-parallax="-100"
+                                         data-swiper-parallax-duration="700">
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--small">
+                                                    <img src="https://app.adalysis.com/img/avatar-1.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--large">
+                                                    <img src="https://app.adalysis.com/img/avatar-2.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar ">
+                                                    <img src="https://app.adalysis.com/img/avatar-3.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item testimonial-item--custom-avatar-spacer-first">
+                                    <div class="testimonial-item__info"
+                                         data-swiper-parallax="-200"
+                                         data-swiper-parallax-duration="600"
+                                         data-swiper-parallax-opacity="0">
+                                        <p class="testimonial-item__text"
+                                           data-swiper-parallax="-300"
+                                           data-swiper-parallax-duration="700">
+                                            Adalysis core features help our teams to automate and control ad testing
+                                            beyond what we can get with other tools or in the channel interfaces
+                                            themselves. The performance dashboard helps streamline QA and improve alerts
+                                            systems beyond what we'd be able to accomplish with scripts alone. As an
+                                            agency, Adalysis pays for itself several times over in hourly savings alone;
+                                            the account performance improvements are icing on the cake.
+                                        </p>
+
+                                        <div class="testimonial-item__name"
+                                             data-swiper-parallax="-300"
+                                             data-swiper-parallax-duration="600">
+                                            Aaron Levy, Elite SEM
+                                        </div>
+                                    </div>
+
+                                    <div class="testimonial-item__group"
+                                         data-swiper-parallax-opacity="0"
+                                         data-swiper-parallax="-100"
+                                         data-swiper-parallax-duration="700">
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--small">
+                                                    <img src="https://app.adalysis.com/img/avatar-1.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--large">
+                                                    <img src="https://app.adalysis.com/img/avatar-2.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar ">
+                                                    <img src="https://app.adalysis.com/img/avatar-3.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item testimonial-item--custom-avatar-spacer-last">
+                                    <div class="testimonial-item__info"
+                                         data-swiper-parallax="-200"
+                                         data-swiper-parallax-duration="600"
+                                         data-swiper-parallax-opacity="0">
+                                        <p class="testimonial-item__text"
+                                           data-swiper-parallax="-300"
+                                           data-swiper-parallax-duration="700">
+                                            Thanks for the great ongoing support. I recommend your system to all my
+                                            peers because you're really top-notch for deep analysis and intelligent
+                                            business decisions.
+                                        </p>
+
+                                        <div class="testimonial-item__name"
+                                             data-swiper-parallax="-300"
+                                             data-swiper-parallax-duration="600">
+                                            Chris Larkin, Arcalea
+                                        </div>
+                                    </div>
+
+                                    <div class="testimonial-item__group"
+                                         data-swiper-parallax-opacity="0"
+                                         data-swiper-parallax="-100"
+                                         data-swiper-parallax-duration="700">
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--small">
+                                                    <img src="https://app.adalysis.com/img/avatar-1.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar avatar--large">
+                                                    <img src="https://app.adalysis.com/img/avatar-2.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+
+                                        <article class="testimonial-item__group-item" data-swiper-parallax-scale="0.95">
+                                            <div>
+                                                <figure class="avatar ">
+                                                    <img src="https://app.adalysis.com/img/avatar-3.png" alt="">
+                                                </figure>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <nav class="swiper-pagination"></nav>
+                    </div>
+                </div>
+            </article>
+
+            <article class="bottom-cards">
+                <div class="bottom-cards__wrap">
+                    <article class="winners-card">
+                        <mark class="winners-card__capt">Best Search Technology of the Year</mark>
+
+                        <img class="winners-card__img" src="https://app.adalysis.com/img/winners-1.png" alt="">
+                    </article>
+
+
+                    <article class="winners-card">
+                        <mark class="winners-card__capt">Best Specialized SEA Tool</mark>
+
+                        <img class="winners-card__img" src="https://app.adalysis.com/img/winners-2.png" alt="">
+                    </article>
+
+
+                    <article class="winners-card">
+                        <mark class="winners-card__capt">Best PPC Management Software Suite</mark>
+
+                        <img class="winners-card__img" src="https://app.adalysis.com/img/winners-3.png" alt="">
+                    </article>
+
+
+                    <article class="winners-card">
+                        <mark class="winners-card__capt">Best PPC Management Software Suite</mark>
+
+                        <img class="winners-card__img" src="https://app.adalysis.com/img/winners-4.png" alt="">
+                    </article>
+
+
+                </div>
+            </article>
+        </section>
+    </div>
+</main>
+
+<script>
+    $(document).ready(function() {
+        function isEmpty(field) {
+            return field.val().trim().length === 0;
+        }
+        function isEmail(field) {
+            var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            return regex.test(field.val());
+        }
+        var validateRequired = function() {
+            var empty = isEmpty($(this));
+            $(this).attr('required', empty);
+            return !empty;
+        };
+        var validateEmail = function() {
+            var invalidEmail = !isEmail($(this));
+            if (invalidEmail) {
+                $('#emailError').css('display', 'block');
+                $(this).css('border-color', 'var(--cl-red)');
+            }
+            return !invalidEmail;
+        };
+        var reset = function() {
+            $(this).attr('required', false);
+        };
+
+        $("#firstName").focusin(reset);
+        $("#firstName").focusout(validateRequired);
+
+        $("#lastName").focusin(reset);
+        $("#lastName").focusout(validateRequired);
+
+        $("#contactEmail").focusin(function() {
+            $('#emailError').css('display', 'none');
+            $(this).css('border-color', '');
+
+        });
+        $("#contactEmail").focusout(validateEmail);
+
+        $("#agreeBox").change(function() {
+            if(this.checked) {
+                $("#agreeBoxMark").css('border-color', '');
+            }
+        });
+
+        $('.create-account__form').submit(function() {
+
+            var valid = validateRequired.call($('#firstName'));
+            valid = validateRequired.call($('#lastName')) && valid;
+            valid = validateEmail.call($('#contactEmail')) && valid;
+
+            if ($("#agreeBox").prop('checked')) {
+                $("#agreeBoxMark").css('border-color', '');
+            } else {
+                $("#agreeBoxMark").css('border-color', 'var(--cl-red)');
+                valid = false;
+            }
+            return valid;
+        })
+    });
+
+    function passVerification(){
+        $('#submitBtn').prop('disabled', false);
+    }
+</script>
+
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="https://app.adalysis.com/js/main.js"></script>
+
+
+</body>
+</html>
+

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zina Kayyali, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/zina-kayyali/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 22 Nov 2021 04:49:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Zina Kayyali, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>In-Market Audiences: Target Prospects Who Are Ready to Buy</title>
+		<link>https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences#respond</comments>
+		
+		<dc:creator><![CDATA[Zina Kayyali]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences/</guid>
+
+					<description><![CDATA[<p>Learn how you can use Google's new In-Market Audiences to create and target segments of visitors who are most ready to buy what you offer.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences">In-Market Audiences: Target Prospects Who Are Ready to Buy</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>At the core of every online advertiser’s mission is delivering a perfectly tailored message to a prospect at the moment they are ready to take action. With in-market audiences, released in beta last November, Google claims it can get advertisers closer than ever to this goal.</p>
+<p><a href="http://www.thinkwithgoogle.com/products/in-market-audiences-gdn.html">In-market audiences</a> allow advertisers to set up their Display campaigns to reach people who are further down the funnel and ready to make a purchase. How? By connecting ads to consumers who are actively researching or comparing products and services across the Google Display Network.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="de144920-4b31-48c4-91ed-5a04c9093c42" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-in-market-audiences-1.jpg" alt="in-market audiences" width="378" height="254" /></div>
+</article>
+</div>
+<p><em>In-market segments allow you to reach customers when they’re ready to buy</em></p>
+<h2>How In-Market Audiences Work</h2>
+<p>So what distinguishes in-market audiences from other interest categories? Google says that they can distinguish interest from purchaser’s intent by using real-time data to categorize a potential customer with intent to buy. Google will factor in metrics like:</p>
+<ul>
+<li>the content of sites browsed</li>
+<li>the proximity and frequency of visits</li>
+<li>account clicks on related ads and</li>
+<li>subsequent conversions</li>
+</ul>
+<p>to determine a purchaser’s intent. In this manner, Google is able to classify users, targeting those most interested in an advertiser’s offering.</p>
+<p>Here’s an example: say you’re a car dealership looking to target searchers who are ready to buy a car. Google will look to find people who are clicking on ads related to cars, exploring relevant searches, looking at consumer reviews, car reviews, car comparison sites, etc. and predict whether these consumers are ready to buy. <strong>Advertisers can then tailor the messaging of their ads to make them highly relevant to this subset of purchase-ready buyers</strong>.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8d8727b7-a121-43e1-b184-40c109b24ae9" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/in-market-audiences-shopping-1.jpg" alt="in-market segments" width="849" height="565" /></div>
+</article>
+</div>
+<p><em>Make it easy for the consumer; deliver the right message at the right moment!</em></p>
+<p>So what does Google say you’ll get by using in-market segments? For starters, advertisers will be able to expand reach in new ways to specifically include people engaged in comparison shopping and actively researching with intent to buy. <strong>Instead of reaching only the “hand raisers” (people who have expressed interest in certain categories), advertisers will be reaching “signalers” (people who are giving off signals that they are truly ready to buy).</strong> In addition, reaching consumers further along down the conversion funnel should intuitively mean <a href="/conversion-rate-optimization">more conversions</a> and better ROI.</p>
+<h2>Do In-Market Audiences Really Work?</h2>
+<p>How has this panned out in practice for advertisers? Well, for our some of our clients at WordStream, it seems to be a mixed bag. General trends across accounts point to increased traffic to site but inconclusive changes to the volume of conversions.</p>
+<p>I know what you’re thinking—all traffic, no conversions? I thought this was all designed to be a direct response effort! Well, if you factor in the impact that in-market segments have on <a href="/blog/ws/2013/12/04/adwords-remarketing-best-practices-guide">remarketing campaigns</a>, you may see a different picture. <strong>Google suggests that the real impact on conversions comes when using in-market segments in conjunction with remarketing.</strong> Advertisers can<a href="https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords"> layer the in-market on top of their remarketing lists </a>to increase reach while maintaining relevancy. The hope is that this effort will then bolster the volume of conversions coming in through remarketing.</p>
+<h2>In-Market Audiences: Setup &amp; Best Practices</h2>
+<p>If you’re sold and ready to give these in-market audiences a try, you can find and set them up in your Display targeting under “Interests”:</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eccf02f6-652a-4828-bc08-b70578d42915" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/set-up-in-market-audiences-1.png" alt="google adwords in market audiences" width="977" height="552" /></div>
+</article>
+</div>
+<p>Once you’ve added the appropriate categories, you can try implementing some of Google’s preliminary best practices:</p>
+<ul>
+<li>Google recommends that advertisers avoid using other targeting methods with in-market audiences in the same ad group/campaign.</li>
+<li>Google also recommends that advertisers focused on direct response use CPA bidding to monitor and control ROI effectively.</li>
+<li>Advertisers may also use CPC bidding but Google strongly discourages the use of CPM bidding with in-market audiences.</li>
+</ul>
+<p>Currently in-market audiences are only available in English, German, Spanish, Portuguese, French and Japanese. What do you all think? Have any of you seen success with in-market audiences?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences">In-Market Audiences: Target Prospects Who Are Ready to Buy</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/06/17/in-market-audiences/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bid Optimization: Getting Started with Bid Optimization in Google Ads</title>
+		<link>https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization#respond</comments>
+		
+		<dc:creator><![CDATA[Zina Kayyali]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization/</guid>
+
+					<description><![CDATA[<p>Learn how to get started with PPC bid optimization in Google AdWords. Learn a bid optimization workflow, bid optimization strategies to try and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization">Bid Optimization: Getting Started with Bid Optimization in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bid optimization can require quite a bit of time and attention, but it is a critical part of the process of <a href="https://www.wordstream.com/adwords-optimization">optimizing a Google Ads account</a>. In terms of how to start monitoring performance and analyzing data to manage your bids in Google Ads (formerly AdWords), it’s tough to know where to begin.</p>
+<p>Have no fear! In this post, I’ll break down the essentials of PPC bid optimization into digestible little pieces for you. We’re here to help you start taking the baby steps that are key to managing your bids easily and effectively!</p>
+<h2>Getting Started: PPC Budgeting and First-Time Bids</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eb8ad623-73d9-444e-80ad-d0448270890d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-bid-optimization-getting-started-1.png" alt="PPC Bid Optimization" width="459" height="275" /></div>
+</article>
+</div>
+<h3>Breaking it Down: Identifying Budget and Scale</h3>
+<p>Before you even think about bidding, you’ll want to figure out how much money you’d like to spend. Your daily/monthly/annual budget is a critical part of your PPC strategy so take the time to start on the right foot.</p>
+<p>When you’re first getting started, you’ll want to come up with a test budget that falls within what you are able to afford. This test budget will help you gain market insights, find out what’s working and what’s not, and allow you to make the appropriate adjustments. When you create your test budget, don’t panic if your campaign isn’t profitable at first, consider it an investment in market research!</p>
+<p>If you’re looking for some help determining test budget, here’s a quick formula to keep in mind:</p>
+<p>Desired Clicks per Day x Avg. CPC.</p>
+<p>To help figure out your desired number of clicks, you’ll want to identify the minimum threshold of clicks you’d like to pull in per day/month/year to gauge how your account is performing. For our purposes let’s say you are aiming for 500 clicks a day and your average CPC is at $1/click. Your daily budget should fall at around $500/day. Once you’ve set your preliminary budget you can trim down, identify the ad groups, ads, keywords etc. that are working and converting and modify or scrap those that are underperforming.</p>
+<p>Once you have a well-structured, profitable Google Ads campaign, you will be better equipped to make the determination to increase or decrease your budget. How? <strong>Always focus on your ROI</strong> (return on investment). If you have a high return and opportunity to pull in more traffic, you may want to increase your daily budget incrementally. Google can also help you out in this regard. If you see the status “<a href="/blog/ws/2013/06/19/google-adwords-limited-by-budget">Limited by budget</a>” next to your campaign, Google Ads is letting you know you’re your budget is limiting your campaign’s traffic. Conversely, if you have low return, you may want to lower your budget or reallocate some of your budget to a better performing campaign.</p>
+<h3>Onto the Solids: Setting Up First Time Bids</h3>
+<p>Setting up your budget will help inform where to set your bid management settings. Google Ads offers a few different setting options for bids. The two basic bid settings are manual bidding and automatic bidding. With automatic bidding, you are essentially letting Google run the show. AdWords will adjust your CPCs up or down based on where you will likely receive the most possible clicks. If you don’t want to spend a lot of your time optimizing bids, automatic bidding may be the right choice for you.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fae54d5b-78f6-45ce-a2d9-5868af4a01a3" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-bid-optimization-options-1.png" alt="AdWords Bid Optimization" width="623" height="283" /></div>
+</article>
+</div>
+<p>If you do opt into automatic bidding, you have three main selections to choose from:</p>
+<ul>
+<li>Focus on clicks</li>
+<li>Focus on conversions</li>
+<li>Focus on impressions</li>
+</ul>
+<p>If you are focusing on conversions, you will have to set up a maximum cost per acquisition (CPA) at the ad group level. In order to use this setting you must meet the minimum threshold of 15 conversions in 30 days. If you have racked up enough historical performance, this may seem like a good option but there are some important items to keep in mind when using the <a href="/blog/ws/2012/02/27/cpa-bidding-conversion-optimizer">conversion optimizer</a>. First, the conversion optimizer adjusts your bids based on historical performance. This means adding in new keywords without any history can doom them for failure from the start. Second, as with any change to your account, adjusting your settings may take some time to catch up. This may result in a slight decrease in conversions as Google Ads tries to catch up.</p>
+<p>If you focus on impressions, you will have to set up a maximum cost-per-thousand impression (CPM) bid. Essentially you set your bid to what you are willing to pay for each set of thousand impressions. This will shift the focus away from clicks and conversions and focus your budget on maximizing impressions.</p>
+<p>If you’re leery of letting your campaigns run on autopilot and would like to optimize your bids based on performance, manual bidding is the setting for you. With manual bidding, you will have control over the maximum amount you would like to pay per keyword depending on their profitability. Additionally, if you are working off a tighter budget, bid automation may not be the right setting for you. With automated bidding, Google Ads can deplete your budget too quickly without identifying the most profitable areas to set your bids.</p>
+<h2>Google Ads Bid Optimization: Next Steps</h2>
+<p>Now that you’ve got your <a href="https://www.wordstream.com/blog/ws/2020/02/27/facebook-campaign-budget-optimization">bid optimization</a> settings in order, it’s time to set your preliminary bids! Depending on <a href="https://www.wordstream.com/blog/ws/2018/11/19/bids-versus-budget">your goals and budget</a>, you can either set these bids to your first page bid estimate (the minimum needed to get you on the first page results) or your top of page bid estimate (the minimum needed to get you onto the first three positions of the page results). Remember, your budget should be based off the number of clicks you are hoping to pull in. If you have a limited budget and set your bids too high may deplete your budget too quickly, while setting your bids too low may not place you high enough on the page.</p>
+<h3>Bid Optimization Strategies to Try</h3>
+<p>Get creative and see how you can improve ROI by trying:</p>
+<ul>
+<li><a href="/blog/ws/2013/08/27/adwords-bid-stacking">Bid stacking</a></li>
+<li>Automated Bidding Rules</li>
+<li><a href="/blog/ws/2014/04/16/flexible-bid-strategies">Flexible Bid Strategies</a></li>
+<li>Spreadsheets</li>
+<li>Third-party tools (WordStream, duh!)</li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization">Bid Optimization: Getting Started with Bid Optimization in Google Ads</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/01/08/bid-optimization/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Should I Delete My Low Quality Score Keywords?</title>
+		<link>https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords#respond</comments>
+		
+		<dc:creator><![CDATA[Zina Kayyali]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords/</guid>
+
+					<description><![CDATA[<p>Should you delete your keywords with low Quality Scores in AdWords? Not necessarily! Learn when to delete and how to go to the source of the problem.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords">Should I Delete My Low Quality Score Keywords?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When trying to improve Quality Score across the board, it would seem intuitive that eliminating keywords with low Quality Scores would be a step in the right direction. However, blindly deleting all low-quality keywords in your account is not always the best solution.</p>
+<p>Think about improving Quality Score the way you would think about eliminating a pest infestation. If you’ve ever had any problem with pest control, you know that killing off your unwelcome visitors is not enough. In order to implement an effective pest control program, you need to identify the variable sources of the problem and find ways to combat/change them. Why are the pests there in the first place? Is it climate-related? Is it material-related? Do they have a readily available food source? Is there a nest somewhere in your home? These are all important questions to examine when identifying a long-term solution to control an infestation. Let’s take that same principle and apply it to combatting/changing our keyword Quality Scores.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fa09838e-06e8-403e-a589-c45e709e34d3" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/should-i-delete-low-quality-score-keywords-1.png" alt="Deleting Low Quality Score Keywords" width="400" height="301" /></div>
+</article>
+</div>
+<p><em>Find the source! </em></p>
+<p>Here are four questions to ask when determining what to do with your low Quality Score keywords.</p>
+<h2>Is the Problem Really Your Keyword?</h2>
+<p>Google’s algorithm for Quality Score factors in everything from your keyword’s relevance to your keyword’s past click-through rate, your display URL’s past click-through rate, your account history, the quality of your landing page, your ad relevance, your geographic performance, and your <a href="/blog/ws/2013/02/26/google-mobile-ads">targeted devices</a>. Two very important parts of that algorithm that are easy to start with are landing page quality and ad relevance. If you need some help checking to make sure your landing pages are optimized, check out Ben’s blog post detailing <a href="/blog/ws/2013/04/16/best-landing-pages">landing page best practices</a>.</p>
+<p>Once you’ve checked for landing page quality and relevancy, check your ad text. Are you leading your searchers to the most relevant pages? Are you using <a href="/blog/ws/2010/10/04/high-volume-keywords-vs-low-volume-keywords">high-volume keywords</a> in your ad text? Make sure you are writing compelling ads that connect to your keywords and most importantly, test your ads against each other to continuously <a href="/blog/ws/2012/09/06/10-tips-writing-better-ppc-text-ads">improve your ad copy</a>.</p>
+<h2>Is Your Keyword Performing Well Despite its Low Quality Score?</h2>
+<p>It is very easy to get hung up on Quality Score and ignore <a href="/blog/ws/2011/09/20/ppc-metrics-ultimate-guide">other important metrics</a>. Alongside monitoring Quality Score, you should be monitoring CTR, conversions, and cost per conversion. There are times when keywords with low Quality Scores will still have <a href="/blog/ws/2010/11/22/what-is-a-good-click-through-rate-for">good click-through rates</a> and convert well within their target CPA. In these cases, though your keyword has a low Quality Score it is still performing well! If your keyword has a Quality Score higher than 2 and meets these conditions, you should keep it around. Ultimately, a good return on investment should always trump a low Quality Score.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e3bb0022-0584-405e-8690-10f319b3b8f8" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/PPCReportingBanner-Frame-1.png" alt="ppc reports" width="646" height="245" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<h2>Are You Using the Right Match Type?</h2>
+<p>If you notice your keyword has a low Quality Score and a low click-through rate, you could be using the wrong match type. In general, less restrictive match types like broad match will pull in a lot more irrelevant traffic than more restrictive match types like phrase or exact. Make sure to test different match types before making any decisions about deleting a keyword. To find out which match type is the optimal choice for you, check out our <a href="http://marketing.wordstream.com/adwordsmatchtypeguide.html">match type guide</a>.</p>
+<h2>How Long Have You Let the Keyword Run?</h2>
+<p>If you’ve just added a new keyword to your account, it will take some time before for your keyword has racked up enough data to support a meaningful Quality Score. I’ve seen many cases where a brand new keyword with a Quality Score of 4 or 5 will induce panic within its first week running. Before getting flustered, take a breath and remember to give your keyword some time to run.</p>
+<p>If you’re looking for a general rule of thumb, try waiting until your keyword has generated around 30 clicks before taking any action.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b6ef3004-b77a-4050-9358-d25b222032a3" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/low-quality-score-control-1.png" alt="low quality score keywords" width="582" height="276" /></div>
+</article>
+</div>
+<p>Unfortunately, deleting low Quality Score keywords is not a miraculous quick fix for improving overall Quality Score. Remember, even if you do decide to delete all your low quality keywords, the historical performance of your deleted keywords will continue to affect your account history and its impact will only be diminished with time.</p>
+<p>Now that you know when to do a little more research to find the true source and long-term solutions for your problems with low Quality Score, you are ready to take on those pesky low quality keywords like a true pest control expert. To help with your research efforts check out Drew’s post on reasons <a href="/blog/ws/2013/03/05/why-your-keyword-quality-score-is-low">why your keyword quality score is low</a>.</p>
+<p><em>Zina Kayyali works as a Customer Success Specialist at WordStream, conducting software training and consulting with clients on Google AdWords and Bing AdCenter. Originally from Belmont, Massachusetts, Zina returned to the Boston Area after graduating from Kenyon College, a small liberal arts college in Ohio. Zina is a big fan of good cheeses and the state of Vermont. When she’s able to take a break from PPC, you’ll probably find her planning her next visit to the Von Trapp Lodge in Stowe or munching on her favorite, the Vermont Creamery’s Bonne Bouche.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords">Should I Delete My Low Quality Score Keywords?</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/06/11/delete-low-quality-score-keywords/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

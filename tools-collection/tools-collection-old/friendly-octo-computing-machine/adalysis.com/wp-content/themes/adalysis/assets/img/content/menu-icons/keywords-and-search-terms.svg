@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu-V1" transform="translate(-1006, -227)" stroke-width="1.5">
+            <g id="Regular" transform="translate(1007, 228)">
+                <rect id="Rectangle-path" stroke="#3A56BC" x="0" y="4.4" width="22" height="17.6" rx="2.98666667"></rect>
+                <path d="M14.6666667,3.66666667 C14.6666667,1.64162258 13.0250441,0 11,0 C8.97495592,0 7.33333333,1.64162258 7.33333333,3.66666667 L7.33333333,4.4 L14.6666667,4.4 L14.6666667,3.66666667 Z" id="Shape" stroke="#3A56BC"></path>
+                <circle id="Oval" stroke="#FFAF24" cx="7.33333333" cy="13.2" r="2.93333333"></circle>
+                <polyline id="Shape" stroke="#FFAF24" points="10.2666667 13.2 17.6 13.2 17.6 15.4"></polyline>
+                <line x1="14.6666667" y1="13.2" x2="14.6666667" y2="14.6666667" id="Shape" stroke="#FFAF24"></line>
+                <line x1="5.86666667" y1="4.4" x2="5.86666667" y2="7.33333333" id="Shape" stroke="#3A56BC"></line>
+                <line x1="5.86666667" y1="22" x2="5.86666667" y2="19.0666667" id="Shape" stroke="#3A56BC"></line>
+                <line x1="16.1333333" y1="4.4" x2="16.1333333" y2="8.8" id="Shape" stroke="#3A56BC"></line>
+                <line x1="16.1333333" y1="22" x2="16.1333333" y2="19.0666667" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "id": "recurring_card",
+  "title": "Card (recurring)",
+  "longTitle": "Credit Card (recurring)",
+  "countries": [],
+  "currencies": [],
+  "version": "1.0.0",
+  "description": "Recurring credit card payments",
+  "icon": "",
+  "author": "dennis",
+  "recurring": true,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "external_docs": "https://stripe.com/payments/payment-methods-guide#cards",
+  "internal_docs": "https://docs.themeisle.com/category/2087-creating-forms",
+  "enabled": false
+}

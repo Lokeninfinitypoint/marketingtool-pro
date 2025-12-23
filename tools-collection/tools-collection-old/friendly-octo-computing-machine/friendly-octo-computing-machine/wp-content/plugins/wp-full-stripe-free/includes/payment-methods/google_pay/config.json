@@ -1,0 +1,18 @@
+{
+  "id": "google_pay",
+  "title": "Google Pay",
+  "longTitle": "Google Pay",
+  "countries": [],
+  "currencies": [],
+  "version": "1.0.0",
+  "description": "Google Pay allows customers to make payments in your app or website using any credit or debit card saved to their Google Account, including those from Google Play, YouTube, Chrome, or an Android device.",
+  "icon": "google_pay.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "wallet": true,
+  "external_docs": "https://docs.stripe.com/payments/apple-pay",
+  "internal_docs": "https://docs.stripe.com/payments/apple-pay",
+  "enabled": false
+}

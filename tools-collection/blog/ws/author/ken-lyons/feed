@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ken Lyons, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/ken-lyons/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 24 Jul 2025 21:05:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Ken Lyons, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Link Building Magic: How to Turn Citations into Links</title>
+		<link>https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 09 Sep 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links/</guid>
+
+					<description><![CDATA[<p>One of the ways I snag some easy link wins is by turning citations into links. Of all the daily link building tactics I engage in, this is probably one of the best ROI producers. You see, at WordStream, we get cited dozens of times each day across the Web.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links">Link Building Magic: How to Turn Citations into Links</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2acdbf1c-ee24-40aa-9714-eb9c5fd35c06" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-building-magic.jpg" alt="Turn editorial citations into links back to your website" width="280" height="330" /></div>
+</article>
+</div>
+<p>As any link wonk will tell you, link building is hard work. So for efficiency&#8217;s sake, I’m a big fan of harvesting the <a href="/blog/ws/2010/07/15/how-to-find-and-drain-link-juice">low hanging fruit in link building</a>. Why kill yourself trying to acquire links from super domains, like <a href="/blog/ws/2010/08/25/infographic-case-study">CNN.com</a> or <a href="/blog/ws/2010/02/18/link-bait-case-study">The New York Times</a>, when you can grab some quick wins just by tending your own garden?</p>
+<p>One of the ways I snag some easy link wins is by turning <a href="https://www.wordstream.com/blog/ws/2023/04/12/local-citations">citations</a> into links. Of all the daily link building tactics I engage in, this is probably one of the best ROI producers. You see, at WordStream, we get cited dozens of times each day across the Web. Most of these mentions (I&#8217;d say about 70%) contain links back to our site. But roughly 30% are linkless. And therein lies the opportunity to build a link.</p>
+<p>Now when it comes to local SEO, I know that <a href="http://www.davidmihm.com/blog/general-marketing/local-seo-citation-is-new-link/" target="_blank" rel="noopener">citations are like links</a>. In addition, it&#8217;s likely that search algos are using <a href="http://www.seomoz.org/blog/the-death-and-rebirth-of-editorial-citation-on-the-web" target="_blank" rel="noopener">citations and endorsements as ranking signals</a>. That&#8217;s all well and good. But for my money, I’d rather have a link because:</p>
+<ul>
+<li>A link is twice as a good as a citation (a link is both a citation/endorsement AND a conduit that sends traffic and <a href="/blog/ws/2010/07/15/how-to-find-and-drain-link-juice">link juice</a> back to your site)</li>
+<li>Citations don’t send measurable traffic; links do</li>
+<li>Nobody gets paid for acquiring citations across the Web (correction&#8230;maybe PR brand evangelists do, but &#8220;citation building&#8221; is not part of my KPI bonus structure)</li>
+<li>Even if endorsements are used as a ranking signal (which I think they are), I doubt they carry as much weight in the algos as a link (today, at least IMO, but that could easily change with future algo updates)</li>
+</ul>
+<p>Bottom line, if you&#8217;re not tracking brand mentions to build links, you&#8217;re squandering a golden opportunity. My success rate for turning citations into links is roughly 75%. How do I do it? Well, it&#8217;s not technically &#8220;magic&#8221; (as the title says), but the results are pretty darn magical. Anyway, read on and find out&#8230;</p>
+<h2>Step One: Find the Citations</h2>
+<p>In order to turn citations into links, first you gotta&#8217; find the citations. Now, there are a number of listening tools on the market that allow you to monitor your brand mentions and sentiment. The ones I use every day are <a href="/blog/ws/2012/04/10/google-alerts">Google Alerts</a>, Buzzstream and Backtype Alerts. Let&#8217;s take a quick look at what each does and how they differ.</p>
+<p><strong><a href="http://www.google.com/alerts" target="_blank" rel="noopener">Google Alerts</a>: </strong>Google allows you to set up alerts for as many <a href="/keyword">keywords</a> as you like and track editorial citations across blogs, forums, news sites, video, social media, etc. Google Alerts is also a fantastic brand monitoring tool. I set up the alerts feature to ping me each time a brand mention occurs.</p>
+<p>Doing this is simple. Here’s a quick screenshot.</p>
+<p><img decoding="async" src="../../../../../../images/screenshots/google-alerts.jpg" alt="Use Google Alerts to locate citations for your brand, product or service" /></p>
+<p><strong><a href="http://www.buzzstream.com/" target="_blank" rel="noopener">Buzzstream</a>: </strong>Now, Google Alerts is a great listening tool. But Buzzstream is better. Many search marketers may know of Buzzstream as one Hell of a link management tool (see my review on <a href="/blog/ws/2010/01/14/buzzstream-review">Buzzstream for link management</a>). But Buzzstream also has a powerful set of brand and keyword monitoring tools as well, which let you take the pulse of virtually every conversation about your brand across the Web.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="13825a50-e231-4c63-a50f-f896e57f2c88" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/buzzstream-social.jpg" alt="Use Buzzstream to monitor for social media mentions" width="580" height="568" /></div>
+</article>
+</div>
+<p><strong><a href="http://www.backtype.com/alerts" target="_blank" rel="noopener">Backtype Alerts</a>: </strong>The Backtype Alerts tool is unique in that it&#8217;s designed to track brand mentions (or keyword mentions) that occur only in the comments sections of blogs and comments. And like Google Alerts, when branded keywords are discovered in comments, you receive comment alerts via email.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6d8d77fe-e7c6-47f3-8042-d031dd8ff5b2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/backtype-alerts.jpg" alt="Use Backtype Alerts to &quot;listen&quot; for company brand and/or keyword mentions" width="580" height="567" /></div>
+</article>
+</div>
+<p>Now, these listening tools really weren&#8217;t designed for link building. They&#8217;re fundamental value prop is serving as an online reputation management system, allowing companies to track conversations around the Web for their brand or target keywords. But, like I said, I use them primarily for link building and to alert me to link building opportunities that I may otherwise miss.</p>
+<h2>Step Two: Ask for a Link</h2>
+<p>Okay, so I&#8217;ve got these listening tools that notify me of brand mentions, now what? The next step is to visit the site and see whether or not the editorial citation is hyperlinked. As an aside, it would be great if one of the listening tools I&#8217;ve mentioned in the article <em>(hint, hint: Buzzstream) </em>would tell me whether or not the brand mention it has discovered contains a link. This would eliminate the effort of having to leave my brand monitoring dashboard and manually inspect each site, which would save me (and others) a lot of time. Anyway, just a thought&#8230;</p>
+<p>So as I said, 70% of our mentions are linked (or contain a link somewhere on the page), but the other 30% of the time I visit a site that&#8217;s mentioned us only to find a sad little linkless editorial citation. The next step is to ask for a link. There are two ways to do this:</p>
+<ul>
+<li>Reach out to the site owner/article author (via email) to request a link</li>
+<li>Drop in a nice comment requesting a link</li>
+</ul>
+<p>For your typical link building, content marketing or <a href="/blog/ws/2010/08/25/infographic-case-study">infographic outreach campaign</a>, I strongly advocate <a href="/blog/ws/2009/09/23/find-anyones-personal-email">conducting personalized outreach via email</a> to ensure your link requests have the greatest chance of success. However, to turn citations into links, I&#8217;ve had fantastic results just by dropping a simple, courteous note into the comment section of the blog post or article. Which is great because when it comes to efficiency, commenting is far more economical.</p>
+<p>Here&#8217;s an example of a typical comment/link request I&#8217;ve dropped into a post before, to give you an idea of what I&#8217;ve had success with.</p>
+<table>
+<tbody>
+<tr>
+<td>Hi, (<em>blogger’s name</em>).</p>
+<p>Thanks for including our free keyword tool (<em>or your brand, or your software product, whatever it is they’ve mentioned</em>) in your list of the Top Free Tools for Search Marketers (<em>whatever the topic of the post is</em>). We really appreciate the exposure.</p>
+<p>By the way, it would be awesome if you could add a link to the tool, so that anyone in your audience who&#8217;d like to try it for themselves is able to access it directly, without having to search for it in Google.</p>
+<p>Thanks again,<br />
+Ken Lyons<br />
+WordStream</td>
+</tr>
+</tbody>
+</table>
+<p>So the key points when fishing for a citation link with a blog comment are to:</p>
+<ul>
+<li><strong>Use the author’s name: </strong>As I always stress, “personalize” all requests. Personalization also serves to distinguish you from spammers.</li>
+<li><strong>Show your appreciation: </strong>Sure you haven’t gotten your link yet, but you did get a mention. So it’s worth being courteous and saying thanks.</li>
+<li><strong>Note what the author said about your company:</strong> This helps jar the author&#8217;s memory and makes it easier for them to pinpoint in the post. For example, if they&#8217;ve mentioned you in a long list of 100 Web resources, referencing the citation is helpful.</li>
+<li><strong>Mention the topic of the post: </strong>Shows you’ve actually taken the time to read the post, which, again, distinguishes you from spammers.</li>
+<li><strong>Make it about helping the reader, not helping you: </strong>Phrase your request as an easier way for readers to access your site directly (which it is), and not as a way for you to build links and &#8220;dominate the SERPs,&#8221; which is obnoxious.</li>
+<li><strong>Add your name and the name of your company in the comment:</strong> Again, it’s about personalization. Don’t hide behind an anonymous note. It doesn&#8217;t look professional. Also, view this as a networking and relationship building opportunity.</li>
+</ul>
+<h2>What NOT to do when asking for a link</h2>
+<p><strong>WARNING: Do NOT Add a Link in Your Comment!!! </strong>Adding a link in the body of your comment or hyperlinking your name may undermine your efforts to snag a link. How, you ask? Well, simply put, it gives the author an out, a reason not to drop a link in the article. This is unfortunate because:</p>
+<ul>
+<li>Comment links are quite often tagged &#8220;nofollow&#8221;</li>
+<li>Comment links are likely devalued by the engines, via <a href="http://www.huomah.com/Internet-Marketing/Link-Building/Page-segmentation-and-link-building.html" target="_blank" rel="noopener">page segmentation</a></li>
+</ul>
+<p><em>Case in point: </em>I found an unlinked citation once, and asked for a link in the comments. Without thinking, I dropped in an active link to our site with my note, saying, &#8220;It would be great if you added a link to our site so people could find us: http://www.wordstream.com .&#8221; The blogger responded, “Looks like you’ve already added a link to your site yourself. Great!” Now, since my entire goal was to get a link in the body of the article, adding a link in the comments myself sabotaged my mission. Plus, the link was nofollow <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Moral of the story, when asking for a link in this manner, <strong>don’t add a link</strong>. I know it goes against your very nature as a link builder, but try and show some restraint and let the author do it. Trust me on this one.</p>
+<h2>Why is This Method of Link Building so Darn Effective?</h2>
+<p>Good question. As I mentioned before, my success rate is very high (roughly 75% by my records) and far more effective than the typical cold link outreach or link marketing campaign. The reason the success rate is so high is that you&#8217;ve already earned a mention, so you&#8217;ve got one foot in the door. It&#8217;s very likely that the author has mentioned you in their article/post because they&#8217;re fans of your company, your product or you&#8217;ve done something noteworthy to warrant a mention in their eyes. So you&#8217;ve already earned a level of trust.</p>
+<p>Now, obviously, this approach doesn&#8217;t work for affiliate scraper sites or article marketing or article spinning sites (we get mentioned a lot by the article spinners). So don&#8217;t even waste your time trying to get a scraper site to link to you. It&#8217;s not going to happen.</p>
+<p>One final note that you may find interesting: many times when I&#8217;ve asked for links to unlinked citations, the blogger/author has been very appreciative because the omission of the link was not intentional. They tell me they simply just forgot or didn&#8217;t even think to add one. So there have been a number of times where I&#8217;ve even been thanked for the reminder, like I&#8217;m some sort of a link building Good Samaritan.</p>
+<p>Who&#8217;da thunk, right?</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links">Link Building Magic: How to Turn Citations into Links</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/09/09/turn-citations-into-links/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How We Got a Link from CNN and Drove Loads of Traffic with Infographics</title>
+		<link>https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study-2/</guid>
+
+					<description><![CDATA[<p>Unless you've been living in a cave, you know the flavor of the month for link baiting is INFOGRAPHICS!!! They're everywhere, and many major online publications (Huff Post, Fast Company, BoingBoing, Mashable, etc) make it a habit of running cool infographics each day.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study">How We Got a Link from CNN and Drove Loads of Traffic with Infographics</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2a2ff5c6-2a58-43d0-9740-2b3336651a1c" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/viral-marketing-2.jpg" alt="Viral marketing with infographics" width="266" height="191" /></div>
+</article>
+</div>
+<p>Unless you&#8217;ve been living in a cave, you know the flavor of the month for link baiting is INFOGRAPHICS!!! They&#8217;re everywhere, and many major online publications (Huff Post, Fast Company, BoingBoing, Mashable, etc) make it a habit of running cool infographics each day. What&#8217;s more, infographics hit the front pages of social giants like Digg, Reddit, StumbleUpon on a regular basis.</p>
+<p>Now even though we may be a bit late to the infographic link bait and social traffic bonanza party, we still wanted an invite. So we decided it was time to roll out our own infographics link bait campaign. After sitting on the sidelines and seeing what works (and what doesn’t), we felt we had a pretty good idea how to create something that would go viral. So we launched two graphics that were wildly successful and completely shattered our expectations for links, traffic, leads and brand exposure.</p>
+<p>As we&#8217;ve done in the past&#8211;like when we <a href="/blog/ws/2010/02/18/link-bait-case-study">got a link from the New York Times</a>&#8211;we enjoy sharing the process with our readers though a comprehensive case study. These marketing wins always provide valuable insight and lessons for us, and hopefully provide some useful takeaways for others as well.</p>
+<h2>Step One: Create the Bait</h2>
+<p>The first step in launching an infographic campaign (with the potential to go viral) is to select a great concept or topic. Successful infographics topics can run the gamut, from political, to financial, to offbeat, etc. But whatever the topic, it must be compelling, informative and even provocative. And like really great link bait, infographics that go viral seem to evoke some sort of emotion, be it humor, fear, lust, shock, empathy, etc.</p>
+<p><strong>Infographic Topic Selection</strong></p>
+<p>For our two infographics, we began by brainstorming a list of potential topics and we narrowed it down to a select few that we felt had the best chance to be killer link bait and really strike a chord with people. The final topics we selected for our infographics were &#8220;Internet privacy&#8221; and “Google flops.” We saw these as the strong ideas for a few reasons.</p>
+<p>Internet Privacy Topic</p>
+<ul>
+<li><strong>People love to spy: </strong>Being an <a href="/">Internet marketing software</a> provider, we&#8217;ve learned that people love spying (especially on their competitors)</li>
+<li><strong>People don&#8217;t like being spied on: </strong>On the flipside, as much as people love to spy, they hate being spied on and having their privacy violated</li>
+</ul>
+<p>Google Flops Topic</p>
+<ul>
+<li><strong>People hate Google</strong>: Success breeds hatred and jealously and Google stirs up a lot of <a href="http://www.seobook.com/eric-schmidt-quotes" target="_blank" rel="noopener">vitriol around the Web</a></li>
+<li><strong>People secretly enjoy &#8220;schadenfreude&#8221;:</strong> The concept of schadenfreude is German and means “pleasure derived from the misfortunes of others,” and the bigger the success the more pleasure taken in the failure, so Google is a great candidate</li>
+</ul>
+<p>In addition, both concepts are germane to our niche. So any links we&#8217;d acquire from the infographics would have some degree of relevancy for SEO/link building purposes.</p>
+<p>To create our infographics, we used two separate design resources. One was Warlock Media. Chris Angus runs <a href="http://www.warlockmedia.com/" target="_blank" rel="noopener">an SEO company called Warlock Media</a> &#8211; we found Chris by asking for recommendations from the <a href="http://www.seobook.com">SEO Book SEO training community</a> (NOTE: if you don&#8217;t have a trusted colleague with a good reference for a vendor, leveraging a respected community like the one at SEO Book or the <a href="http://www.huomah.com/dojo/">SEO Dojo SEO training community</a> are great ways to identify quality resources). Given Chris’s extensive experience with link baiting, viral marketing, <a href="http://1smallbusinessmarketing.com/">small business marketing</a> and running successful infographics campaigns, we wanted to pick his brain on those subjects for this case study. So throughout this article, Chris has provided some expert commentary.</p>
+<p>Here&#8217;s what Chris Angus had to say about infographic topic selection.</p>
+<p><em>&#8220;When choosing a concept, we pick ideas that are topical while being able to illustrate large numbers, comparisons and disparities. The essence of an infographic is to show numbers in a visual way which would otherwise be hard to really understand, as they are usually off the scale of what we can comprehend. Of course, the concept needs to be interesting and entertaining, while the data creates the story and path which visitors will follow from start to end; hopefully enjoying themselves along the way!&#8221;</em></p>
+<p><em>&#8220;Try to get an interesting/shocking/quirky angle to the piece. There&#8217;s no point drafting an infographic on, say, how many people in the US own cats &#8211; nobody cares and it certainly isn&#8217;t groundbreaking. Instead, how many cats in the US have feline AIDS? What implications does this have? How many get put down and what happens to all the corpses?&#8221; </em></p>
+<p>In short, selecting a great topic was a critical first step in creating a great infographic, link bait piece that ended up getting shared thousands upon thousands of times across the Web. Because no matter how slick the graphics were, without an interesting topic, we knew our infographics would wither and die on the link bait vine.</p>
+<p><strong>Infographic Concept Research</strong></p>
+<p>Obviously, the research phase of your infographic design is key, since you want the data to be factually accurate.</p>
+<ul>
+<li><strong>Google Flops Infographic:</strong> We did all of our own research. Most of the data we gathered was readily available since Google’s failures are well documented (and celebrated) across the Web.</li>
+<li><strong>Internet Privacy Infographic: </strong>Warlock Media did all the leg work and topic research, which was fantastic. All we had to do was vet the data that Warlock gathered to ensure it was accurate, compelling and met our quality standards. As a side note, we were really impressed by the level of detail and quality of the research and data Warlock collected and how they kept us in the loop every step of the way.</li>
+</ul>
+<p>For more insight on data collection, I&#8217;ll let Chris from Warlock talk about how they conduct research for infographics.</p>
+<p><em>&#8220;The research element of any given project is a massive task, but there are numerous things which are taken into consideration while carrying it out. It&#8217;s not just a case of gathering as much information as possible on a given subject. There&#8217;s much more to it. For example, while exploring the data available you have to nurture the narrative of the finished product as it emerges and keep an eye out for what will work visually (and equally, what won&#8217;t!). It&#8217;s not uncommon for the infographic to suddenly go in a completely different direction halfway through the research process. *ahem* Don&#8217;t be afraid to scrap an idea. While in the initial research phase, your topic might seem like the most marvelous piece ever conceived by a human mind, but you have to recognize when you&#8217;re flogging a dead horse even if that point comes two days into researching. Usually, with a good eye you can spot this a mile off, but sometimes it&#8217;s inevitable.&#8221;</em></p>
+<p><em>&#8220;In terms of getting the information itself, it&#8217;s no good just copying and pasting from Wikipedia. When you&#8217;re working at this kind of accuracy level, it is scary how inaccurate Wikipedia can be. I&#8217;m not slamming Wikipedia. It&#8217;s great. But I don&#8217;t understand why some people in the field rely on flaky sources when it&#8217;s so easy to call a University or news source and say, &#8220;Hi, can I just verify something?&#8221;It&#8217;s astounding how much extra info you can dig up once you go beyond Google et al&#8221;.&#8221;</em></p>
+<p><strong>Infographic Design Strategy</strong></p>
+<p>Along with topic selection and research, the design stage of creating an infographic is a critical juncture. Great infographics keep the user engaged from start to finish. So the concept must not only serve as a visual journey, but one that&#8217;s informative and entertaining as well. Once again, I’ll let infographic expert Chris Angus give his thoughts on what it takes to design a successful infographic.</p>
+<p><em>&#8220;A strong title, illustrative header section and recognizable theme are very important when trying to grab a user&#8217;s attention. With the privacy infographic for WordStream, we went for the classic Orwellian propaganda poster vibe as it not only provided us with an opportunity for an attention grabbing &#8220;Big Brother&#8221; header graphic (nothing attracts a person&#8217;s attention like a human face or eye), but also a great color scheme to use throughout.&#8221;</em></p>
+<p><em>&#8220;The eye itself also references the All Seeing Eye (or Eye of Providence), on the American Dollar bill which has a long history of being interpreted of representing the omnipotent eye of God watching over mankind and is also related to the fabled Free Masons, a great subject for conspiracy theorists who would already have an interest in Internet Privacy issues. The subtle old poster texture and small additions like the CCTV cameras and the American Eagle (freedom) add further relevant substance to the artwork.&#8221;</em></p>
+<p><em>&#8220;Wherever possible we communicated the statistics in as simple and visual way as possible. It has to be easy to scan down the infographic and get the basic idea with as little effort as possible. If then the viewer is still interested there needs to be enough textual information for them to learn more about the subject.&#8221;</em></p>
+<p><em>&#8220;We placed Facebook at the top as it&#8217;s clearly the most popular social network and conveniently has made drastic changes to its default privacy settings over the past few years, and quickly followed with another huge and recognizable brand: Google.&#8221;</em></p>
+<p><em>&#8220;The final section makes the reader aware of how these privacy issues online are merely a reflection of more intrusive policies in the real world. Therefore it ends on a dramatic note and color-wise is designed in such a way to reference the illustration top of the infographic, offering sufficient closure to the reader’s journey through the statistics.&#8221;</em></p>
+<p>So by now, I&#8217;m sure you&#8217;re dying to see the infographics we came up with. Well, here they are:</p>
+<ul>
+<li><a href="/articles/google-privacy-internet-privacy">Internet Privacy Infographic: Google Privacy and Your Privacy on Facebook</a></li>
+<li><a href="/articles/google-failures-google-flops">Google Flops and Failures: The Failed Google Graveyard</a></li>
+</ul>
+<p>If you want to get started producing your own infographics without having to hire a graphic designer, check out these five free <a href="/blog/ws/2015/01/13/infographic-templates">infographic templates</a> from WordStream and HubSpot.</p>
+<h2>Step Two: Promoting the Infographic</h2>
+<p>One we created our infographic link bait, it was time to get to work promoting it. It would be wonderful if we lived in a world where great content just bubbled to the top by sheer virtue of being &#8220;great.&#8221; But we don&#8217;t and it doesn’t. So to get some major league visibility, we knew we&#8217;d have to knuckle down and &#8220;spread the word&#8221; aggressively.</p>
+<p><strong>Prospecting for Outreach Candidates</strong></p>
+<p>A big part of our infographics promotional strategy was mining for and reaching out to prospects. Crafting a targeted outreach strategy is a necessary component of any online marketing campaign, be it link bait, content placement, social baiting, etc. When compiling our &#8220;pitch lists,&#8221; typically we&#8217;re looking for websites, bloggers, media types that are:</p>
+<ul>
+<li><strong>Highly relevant </strong>&#8211; to our viral marketing concept (NOTE: like all facets of SEM, from link building to landing page content development, being highly relevant leads to greater success)</li>
+<li><strong>Highly influential</strong> &#8211; and run prominent, authoritative, heavily trafficked websites, news outlets or blogs.</li>
+</ul>
+<p>One of the most effective methods for finding outreach prospects is to run queries in Google and Google blog search for sites and blogs that are relevant to your viral marketing/promotional concept.</p>
+<p>Using the &#8220;Internet privacy&#8221; topic from our infographic as an example, we discovered new prospects by running a series of queries such as:</p>
+<ul>
+<li>[Internet privacy]</li>
+<li>[online privacy]</li>
+<li>Internet privacy] blog</li>
+<li>[online privacy] blog</li>
+<li>[Internet privacy] article</li>
+<li>[online privacy] article</li>
+<li>[Internet privacy] protection</li>
+<li>[online privacy] protection</li>
+</ul>
+<p>By the way, if you&#8217;re ever at a loss for keywords to plug in alongside your concept seed terms, I&#8217;d recommend you use our <a href="/keywords/">keyword tool</a> to get ideas. You can also use the <a href="http://ontolo.com/link-building-tools/LinkBuildingQueryGenerator" target="_blank" rel="noopener">Link Building Query Generator</a> created by Garrett French and Ben Willis over at Ontolo, which works great for infographic promotional queries as well.</p>
+<p><strong>Reaching Out to Prospects</strong></p>
+<p>To connect with influencers, it&#8217;s important to obtain their personal email address and not ping them through some info@ black hole. Bloggers and influencers get tons email requests and link begs each day, so to stand out and make an impact you MUST distinguish yourself from the pack. I can&#8217;t stress this enough. And emailing them directly with personalized notes is a very effective approach.</p>
+<p>To find the personal contact info of thought leaders, check out this post I wrote on <a href="/blog/ws/2009/09/23/find-anyones-personal-email">How to Find Anybody&#8217;s Email Address</a>.</p>
+<p><strong>Promoting Your Content/Infographic on Social Media</strong></p>
+<p>Fortunately, our infographics went &#8220;front page&#8221; on Digg, Reddit and Stumbleupon, which helped drive a boatload of traffic and contributed to the viral &#8220;chain reaction&#8221; effect we experienced, as front page visibility on these social bookmarking sites exposed us to even more potential bloggers and site owners. We did a lot of outreach for social, plugged away aggressively on Twitter and Facebook as well, and leaned on our friends and connections we&#8217;ve made in our space to help with the social pimping.</p>
+<p>For the Internet Privacy Infographic, Chris and Warlock Media did a ton of the promotion, which they offer as part of their infographics design package. Here&#8217;s Chris commenting on promoting infographics and what steps they take to try and catapult something to viral status.</p>
+<p><em>&#8220;The first step of the promotion is submitting the infographic to Digg. Popular social networks are a fantastic tool to get some traction on an infographic and getting like minded people talking about what you&#8217;ve created. We&#8217;ve been using Digg for many years, and needless to say, have a fair chance at cracking the front page. Once something hits the front page of Digg it should propagate around the other networks naturally as other regular people will take the story from Digg and submit it to most of the other social networks for you. If the content is excellent, there is a fair chance it&#8217;ll become popular content naturally at some of the other places it finds itself. At the moment, we focus on just a few of the biggest networks which include: Digg, Facebook, Twitter and sometimes some of the slightly smaller networks like: Reddit, Delicious and StumbleUpon depending on how things are shaping up in terms of exposure.&#8221; </em></p>
+<p><em>&#8220;Social traffic is fairly low quality, but if you get enough traffic, a bunch of people should link to whatever they have seen. However, we&#8217;re seeing a sharp downward trend in the amount of traffic and links we&#8217;re getting from the traditional sites; especially Digg. It wasn&#8217;t unusual to get high 5 figures or low 6 figures in terms of visits if the content went popular as well as a few dozen bloggers linking to your content, nowadays it&#8217;s far, far less and you&#8217;re only getting a handful of links from the blogosphere.&#8221;</em></p>
+<p><em>&#8220;The absolute best way to get your infographic flying is to get an authority blogger in your niche to feature it or talk about it. Once a person of authority gives it his or her blessing, people will naturally accept it and it will spread like wildfire. While everyone would love a mention by a superstar (like Seth Godin), it’s probably not going to happen. I would advise talking to a few slightly less famous people whom are likely to help out if they find what you’ve done interesting.&#8221;</em></p>
+<p><em>&#8220;Viral marketing is a strange beast and the best analogy I have is to compare it riding a bicycle. It needs to have enough energy to keep moving forward and keep going, if there isn&#8217;t enough initial energy it’s not going to go anywhere and you’ll fall off your proverbial bicycle. What I’m trying to explain, is you need to get to “critical mass”, once you’ve got there, things should run pretty smoothly, however, if you don’t quite get enough people visiting your infographic or content initially, it’s likely that it’s not going to work. Ever.&#8221;</em></p>
+<h2>Step Three: Evaluate the Infographics ROI</h2>
+<p>We&#8217;re a pretty &#8220;metrics driven&#8221; marketing department, so before launching any sort of marketing campaign, we always establish some success metrics, or KPIs (key performance indicators). By establishing these types of measurable objectives, we can easily determine whether or not:</p>
+<ul>
+<li>The campaign was a success or a failure (money and time spent vs ROI&#8230;has this been a smart use of our resources?)</li>
+<li>The campaign is worth pursuing again (or should we move on to find another &#8220;big idea&#8221; with greater potential?)</li>
+</ul>
+<p><strong>Our Infographics Campaign KPIs</strong></p>
+<p>Our goals from the outset (per infographic) were to:</p>
+<ul>
+<li>Get on the front page of at least one major social bookmarking sites</li>
+<li>Amass at least 20 quality links from NEW, authoritative domains (PR4 or higher)</li>
+<li>Drive at least 75 new leads</li>
+</ul>
+<p>In sum, both infographics campaigns were huge successes. We completely crushed our goals and far exceeded even our wildest expectations. To you a better idea what kind of success we enjoyed, let&#8217;s take a look at the highlights.</p>
+<p><strong>Infographic Metrics: Social Media Activity</strong></p>
+<p>Despite all the hits we got from blogs and media websites, social media sites sent the vast majority of traffic.</p>
+<p>Half of the top ten referrers for the infographics campaign came from big social media websites Stumbleupon, Digg, Reddit, Facebook and Twitter. And overall, social media sites drove roughly 75% of all the traffic, which is pretty astounding. This data should be a wake-up call to marketer or site owner out there who has YET to integrate a social media strategy into their marketing efforts.</p>
+<p>Once it hit the front page of Digg, Reddit and Stumbleupon, that exposure set off a chain reaction and spurred a spike in activity on Facebook and Twitter. As of writing this case study, social mention totals for both infographics were almost 2K &#8220;likes&#8221; on Facebook and 1200 Tweets.</p>
+<p>Also, Chris mentioned it earlier, but it&#8217;s worth noting again that most of the traffic you get from the social sites (particularly the bookmarking/voting sites like Digg, Reddit and Stumbleupon) is of low value because:</p>
+<ul>
+<li>Bounce rates are high</li>
+<li>Additional page views are anemic</li>
+<li>Conversion rates are notoriously poor or nonexistent</li>
+<li>Traffic dies almost immediately once you move off the front page</li>
+</ul>
+<p>That being said, that&#8217;s not the objective in my opinion, at least directly anyway. Going &#8220;front page&#8221; on social voting sites is meant to generate exposure on a mass scale to a large audience of people who are prone to sharing. Any sales you get from social exposure are likely indirect and tied more to the links, citations and brand signals you earn, which improve your organic search presence and overall brand recognition.</p>
+<p><strong>Infographic Metrics: Traffic, Links and Conversions Data</strong></p>
+<p><strong>Traffic Data: </strong>The referred traffic we received from Digg and other sites was swift and sudden. Check out this spike, which catapulted our visits by 2455.556 % in one day from landing on the front page of Digg:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c1b1c5f3-9d18-4bf8-83c0-adb64a1dfd68" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/digg-traffic-spike.jpg" alt="Spike in traffic from landing on the front page of Digg" width="580" height="198" /></div>
+</article>
+</div>
+<p>Given the residual traffic we&#8217;re still seeing from the all the sites that have embedded/linked to the graphics coupled with a 15% bump in organic traffic (the flood of links, citations and brand signals has contributed to a temporal rankings boost, part of which will be permanent, I suspect). After the dust settles, I expect we&#8217;ll level off to a new normal somewhere in the middle. So we can attribute about a 25% overall increase in traffic from the infographics.</p>
+<p>By the way, here&#8217;s a chart of how our overall traffic is trending since launching the infographics:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="48e05f41-3eea-480d-816a-0420949a706e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/total-traffic.jpg" alt="Total traffic numbers during the infographics link bait campaign" width="449" height="191" /></div>
+</article>
+</div>
+<p><strong>Link Totals: </strong>The infographics earned close to 3500 links, with 79 of those links coming from authoritative sites of PR4 or higher (with more still rolling in every day). BTW, yes, I&#8217;m using Toolbar PageRank as a KPI. Yes, I know it&#8217;s for &#8220;entertainment purposes only.&#8221; So prepare to be &#8220;entertained.&#8221; Here’s the breakdown of link data:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="46f873d0-b979-4ac6-9015-9375ed7558b5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/infographic-link-data.jpg" alt="Link data for our infographic case study" width="381" height="320" /></div>
+</article>
+</div>
+<p>When you compare the quantity and quality of links we earned, the infographics campaign vastly outperformed all of our previous link bait campaigns.</p>
+<p><strong>Placement highlights include: </strong></p>
+<ul>
+<li>CNN.com</li>
+<li>Fortune.com</li>
+<li>Techcrunch (US and Japan)</li>
+<li>Wikipedia</li>
+<li>Blogoscoped</li>
+<li>Huffington Post</li>
+<li>Epic.org</li>
+<li>Privacy.org</li>
+</ul>
+<p>and many, many more&#8230;</p>
+<p>One of the key benefits of these infographics links is they compelled sites to link to us who would never have under normal circumstances. For example, CNN.com isn&#8217;t going to link to us because we just created a new keyword tool, and there&#8217;s nothing newsworthy enough about our company that warrants a story on the home page of Fortune.com. However, by creating two compelling infographics, we were able to attract unique links from some of the most prominent and trusted news resources on the Web.</p>
+<p><strong>Leads and Conversions: </strong>So far, we&#8217;ve attributed roughly hundreds of leads to the infographics, which have converted into actual sales.</p>
+<h2>Take Aways: What We Learned During This Infographics Marketing Campaign</h2>
+<p><strong>More on Topic Selection and Relevancy</strong></p>
+<p>Now, even though we wanted the concepts for our infographics to have some degree of relevancy, we didn’t want them to be too narrowly focused. We knew making them too &#8220;niche specific&#8221; would mean that they&#8217;d only appeal to a very narrow group of people, which would make it far more difficult for the bait to go viral. Let’s face it, an infographic on something as esoteric as &#8220;link building&#8221; isn’t going to get us in CNN.com.</p>
+<p>So when designing your own infographic, you definitely want relevancy, but you also want it to have universal appeal (if possible), so that it engages a broad audience and earns wider distribution. The more people that share it, the more coverage, links and citations you&#8217;ll earn</p>
+<p><strong>Topic is Key, But so is &#8220;Theme&#8221;</strong></p>
+<p>A big part of the design stage is adopting a cool &#8220;theme.&#8221; In my mind, the theme of your infographic is different than the concept/topic, and theme as well as concept are both important to success. As Chris said, the theme he chose for the Internet Privacy Infographic was one of Big Brother and Communist propaganda. And for the Google Flops Infographic, our designer Carmine Zinni came up with the spooky graveyard theme to celebrate Google&#8217;s list of failures. Had we just published a list of Google’s failures in pictorial, it wouldn’t have had the same impact and gone viral. But the graveyard theme was really clever, which played a major role in helping it go viral.</p>
+<p><strong>On the Ripple Effect of Going Viral</strong></p>
+<p>What’s interesting to note is how these social voting sites like Stumbleupon, Digg and Redditt feed off one another. For example, the Google Flops Infographic was sort of a late bloomer and met with lukewarm response when initially launched. Following outreach, it did get a few blog mentions, but no major play on the big social bookmarking sites. As a result, it seemed to be dying a slow death.</p>
+<p>Then, we did a second round of outreach and suddenly it went hot on Stumbleupon, which set off a chain reaction and it got hot on Reddit. Landing on the front page of both sites breathed new life into a campaign that had one foot in the grave. You see, social platforms like Digg, Reddit and Stumbleupon serve as a &#8220;showroom window,&#8221; and hitting the front page will expose your content to so many fresh eyes, including an audience of Web mavens (ie webmasters, bloggers, journalists), which leads to even more coverage and additional salvos of activity.</p>
+<p>So after going hot on Reddit, we started seeing referred traffic from all over the world and subsequently landed on the home page of a big French news site. This prompted the infographic to get featured in a host of additional French blogs. Then it was published on CNN.com, which prompted Techcrunch to blog about it and to feature it in Techcrunch Japan too, which then exposed it to numerous Japanese news sites, which lead to an explosion of mentions and links on Japanese blogs.</p>
+<p>The whole thing was like a big game of telephone. Hence, a viral marketing campaign was born.</p>
+<p>And the most satisfying part of all, for me anyway, was watching as both infographics went viral in front of our eyes, and we were smack in the middle of all the action.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study">How We Got a Link from CNN and Drove Loads of Traffic with Infographics</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/08/25/infographic-case-study/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Want More Link Juice? Here&#8217;s an Easy Way to Get It</title>
+		<link>https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice/</guid>
+
+					<description><![CDATA[<p>What is link juice? Why is it important to your SEO strategy? Learn how to find and drain link juice to maximize SEO in this thorough post.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice">Want More Link Juice? Here&#8217;s an Easy Way to Get It</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="593e0275-332d-4b5b-be53-98e6e410a0d5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sucking-link-juice-2.jpg" alt="Make sure you drain link equity from link rich pages" width="290" height="322" /></div>
+</article>
+</div>
+<p><strong>Link Juice Guide:</strong></p>
+<ul>
+<li><a href="#process">Link Juice Draining Process</a></li>
+<li><a href="#prospects">Find Internal Prospects</a></li>
+<li><a href="#keyword-links">Add Keyword Links</a></li>
+<li><a href="#record">Record Results</a></li>
+<li><a href="#case-study">Case Study</a></li>
+<li><a href="#link-juice-pages">Bonus Link Juice Pages</a></li>
+</ul>
+<p>One of the biggest, missed opportunities I see in SEO is wasted link juice. SEOs and <a href="/blog/ws/2017/08/25/twitter-link-building">link builders</a> alike are in relentless pursuit of high value links and the equity and semantic relevance that those coveted links carry. However, the irony is they often overlook vast, untapped reservoirs of concentrated link juice on the very Web properties these SEO link builders control: their own or their client&#8217;s sites. So when I visit a site and see page after page of equity-rich pages that haven&#8217;t been &#8220;milked&#8221; of their juice properly, I get a little glum :(.</p>
+<p>So if you are sitting on lagoons of link juice, how do you drain these equity reservoirs? That&#8217;s pretty easy&#8230;with internal anchor links. But you shouldn&#8217;t just haplessly go on a link dumping spree. You need to be more strategic about it than that. That&#8217;s why I&#8217;m sharing my process for draining link equity from existing content. Juice tapping should be part of your internal link strategy (which is critical for ranking, IMO, and waaaaay under-utilized), even more so after the <a href="/blog/ws/2010/06/21/google-mayday-update">Mayday Update</a>. Anyway, let&#8217;s dive in.</p>
+<h2><a id="process"></a>Process for Draining Link Juice from Existing Content</h2>
+<p>Now, I&#8217;m a big proponent of grabbing the low hanging fruit in SEO, with some <a href="/blog/ws/2009/10/22/clone-successful-link-profiles">easy link building strategies</a>, before you get all creative and adventurous with high octane inbound link building campaigns and content marketing programs. So when I first start working with a client who has an existing site I&#8217;m always looking for <a href="http://www.searchenginejournal.com/seo-priorities-%E2%80%93-task-roi/18196/" target="_blank" rel="noopener">high task ROI</a>. One of my first orders of business is to do some content analysis to uncover pools of link equity, which consists of:</p>
+<ul>
+<li><strong>Create a Keyword List: </strong>If you&#8217;ve done your <a href="/keyword-research">keyword research</a>, you already have your list of target <a href="/keyword-expansion">keywords list</a> handy. For this exercise, I&#8217;d recommend expanding your core list for this exercise by including variations of your seed terms, so you can vary your anchor text too (BTW, this is something you should be doing regardless, as part of your <a href="/blog/ws/2010/07/01/rework-your-content-for-more-long-tail-keyword-opportunities">content optimization</a>&#8230;but anyway&#8230;).</li>
+<li><strong><a id="prospects"></a>Find Internal Link Juice Prospects: </strong>I then run a Google site search [site:www.mysite.com intext:&#8221;my target keyword&#8221;] to uncover pages that contain the keywords I intend to build internal text links for.</li>
+<li><strong>Prioritize Internal Link Juice Prospects: </strong>Once I&#8217;ve gathered my list of pages, I use the fabulous and free SEO for Firefox <a href="http://tools.seobook.com/firefox/seo-for-firefox.html" target="_blank" rel="noopener">Toolbar</a> to collect, organize and sort page data, which includes a column for my target page, # of inbound links and even a column for <a href="/blog/ws/2010/04/03/google-pagerank-update-april-3-2010">Toolbar PageRank</a> (I know&#8230;green pixel fairie dust, entertainment purposes only, etc).</li>
+</ul>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7a7aef56-9785-41ba-bbdc-507dd59c5d5e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-juice-finder.jpg" alt="Use SEO for Firefox Toolbar to find link juice" width="580" height="148" /></div>
+</article>
+</div>
+<p>(<em>NOTE:</em> there are other fantastic link analysis tools that I use regularly, including <a href="http://www.seomoz.org/linkscape" target="_blank" rel="noopener">Linkscape</a> and <a href="http://www.link-assistant.com/seo-spyglass/" target="_blank" rel="noopener">SEO SpyGlass</a> (read my <a href="/blog/ws/2010/05/26/seo-spyglass-review">review</a>), but those tools cost money and this is more of a low budget SEO post for the masses who may be on a shoestring budget)</p>
+<ul>
+<li><strong><a id="keyword-links"></a>Add Keyword Links to Drain the Equity: </strong>After analyzing my list of pages to drain, I visit each page and hyperlink the target <a href="/keyword">keywords</a>, which accomplishes four things:
+<ul>
+<li>Siphons the link juice that&#8217;s been wasting away on a page and feeds it to an internal destination page</li>
+<li>Creates a relevance signal (by associating the linked text to a destination page)</li>
+<li>Establishes additional pathways to deeper pages on my site</li>
+<li>Tells Google that I value the page I&#8217;m linking to (even though this isn&#8217;t the primary goal of this exercise, many SEOs fail to realize that how you link internally (ie: internal link structure, IA) tells Google a lot about which pieces of content you value on your site)</li>
+</ul>
+</li>
+<li><strong><a id="record"></a>Record Actions/Results: </strong>As with everything I do, I try to document all my &#8220;SEO actions&#8221; in an <a href="/blog/ws/2009/06/22/confessions-seo-logger">SEO Log</a> (a journal of my optimization/tinkering efforts). That way I&#8217;m informed and I&#8217;m better able to evaluate the success/failure of a project. Point being, algos change every day. What worked today, may not work tomorrow. So if there comes a time when this technique stops working (highly unlikely since I feel internal link structure was a major ingredient in the MayDay Update&#8230;but that&#8217;s me&#8230;), I want to be prepared. In any case, a simple dashboard to document all this internal linking/equity draining activity would look like this:</li>
+</ul>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0289a827-e831-462a-93aa-85ca0a5dd56c" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/internal-link-dashboard.jpg" alt="Internal link dashboard to document instances where you drain equity from existing content pages on your website" width="579" height="203" /></div>
+</article>
+</div>
+<p>You may also want to tally the frequency of text links for terms and note SERP activity (initial ranking and post-link rank flux, etc) and monitor changes to determine how much of an impact link frequency may or may not have in your rank flux.</p>
+<p>Finally, it&#8217;s worth mentioning that just because your target keywords aren&#8217;t cited on a particular &#8220;link rich&#8221; page doesn&#8217;t mean you can&#8217;t tactfully &#8220;insert&#8221; those terms in the content. Now, I&#8217;m not advocating you crowbar keywords in like a spammy teamster. But I am saying that, more often than not, you can find homes for all your target keywords on link rich pages and still keep the content coherent and natural sounding. But keep in mind, that the more internal text links you add to a page, the more the link equity you&#8217;re draining gets diluted.</p>
+<h2><a id="case-study"></a>Link Juice Drainage in Action</h2>
+<p>Okay, so enough blah, blah, blahing. Let&#8217;s move away from the rhetoric and into concrete examples, ie equity tapping in action. Here&#8217;s the site of a prospective client who called me a few months back about <a href="https://www.wordstream.com/blog/ws/2020/09/21/small-business-seo-services">SEO services</a>, but decided not to hire me. Why didn&#8217;t she hire me? Well, could be my rates are too high, or it could be she&#8217;s really not that interested in dominating the SERPs after all. Probably the later. Some folks just don&#8217;t like the spotlight. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Anyway, the woman&#8217;s site is beantownbride.com. She is a local Boston wedding planner, a wedding photographer and an active blogger, who wanted to rank on a bunch of keywords, one being &#8220;Boston wedding.&#8221; Because she blogs regularly, her site attracts links and link equity (a good thing for SEO). Now, when I was drafting my proposal, I conducted a site analysis to see if opportunities existed to drain equity from existing pages. A Google site search for <a href="http://www.google.com/search?q=site%3Abeantownbride.com+intext%3A%22boston+wedding%22&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a" target="_blank" rel="nofollow noopener">site:beantownbride.com intext:&#8221;boston wedding&#8221;</a> turned up 134 results.</p>
+<p>This particular page (beantownbride.com/2010/01/capturing-the-proposal.html), for example, was intriguing because it:</p>
+<ul>
+<li>Had acquired 11 inbound links</li>
+<li>Had achieved some TBPR (loosely indicating healthy link juice flow)</li>
+<li>Contained the clients target term &#8220;Boston wedding&#8221;</li>
+</ul>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6e310e3e-5728-4bcb-8c90-b448f7d758f5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-link-hunt.jpg" alt="Look at your exisiting content to find anchor text and link juice opportunities" width="567" height="465" /></div>
+</article>
+</div>
+<p>So, had she hired me, one of my first orders of business would have been to establish relevance for this term with internal linking across her site and more importantly drain pools of link juice from her most linked pages.</p>
+<p>She also has an &#8220;About Us&#8221; page (an often underused link juice resource&#8230;more on that in the next section) which has 12 inbound links and a TBPR 2. Trouble is, it&#8217;s littered with a list of contributing writers, their bios and more than 50 outbound links, all stealing valuable equity that she could be pushing to internal pages on her website. If hired, I probably would&#8217;ve created a sub page for all the writers, moved off all their bios and links and then dropped in internal links to pages I want to rank to harness the existing equity.</p>
+<p>Anyway, these are just a few examples on one small site, but hopefully you get the picture.</p>
+<h2><a id="link-juice-pages"></a>&#8220;Not so Obvious&#8221; Pages that May Contain Fountains of Link Juice</h2>
+<p>Blog posts, informational articles, promotional Web copy, etc are the most obvious places to hunt for pools of untapped link equity, but there are some fantastic opportunities on almost every website that go completely unnoticed and untapped. What kind of pages am I talking about?</p>
+<p>Administrative pages are typically a gold mine of link equity because they:</p>
+<ul>
+<li>Live only one or two clicks away from the home page (which, given the natural linking order of the Web, is generally the page that attracts the <a href="/blog/ws/2015/05/15/most-links">most links</a> and collects the most equity)</li>
+<li>Are virtually untapped and brimming with link juice</li>
+</ul>
+<p>Those administrative pages can consist of:</p>
+<ul>
+<li><strong>Contact Us: </strong>May seem like an odd place to add links, but you can add a list of bulleted links &#8220;below the fold&#8221; (think site map formatting here) so it doesn&#8217;t interfer with users filling out forms, <a href="/contact-us#for-example" target="_blank" rel="noopener">for example</a>.</li>
+<li><strong>Terms of Service/Privacy Policies: </strong>Sure, these pages may contain sensitive material, but they shouldn&#8217;t be &#8220;off limits.&#8221; Again, steer clear of the body copy here and move down below the fold and add a list of bulleted links</li>
+<li><strong>About the Company: </strong>Easy pickens&#8217; here. This page should contain your target keywords or/if not, you should be able to insert them editorially.</li>
+<li><strong>News/Press:</strong> These pages often contain company press releases that you can &#8220;link up&#8221; like nobody&#8217;s biz, <a href="/press/announcing-free-negative-keyword-tool" target="_blank" rel="noopener">for example</a>. I wouldn&#8217;t worry about hampering the &#8220;readability&#8221; of past press releases because nobody actually <em>reads</em> them, but, hey, that&#8217;s your call&#8230;</li>
+<li><strong>Meet the Team/Team Bios: </strong>Most sites have a splash page like this that acquires equity from the home page, which you can tap. In addition, the page likely links out to individually team member bios, and you can add trailing &#8220;About the Company&#8221; boilerplates with links, <a href="/constance-stack" target="_blank" rel="noopener">like so</a>.</li>
+</ul>
+<p>Even more examples of places to tap for link juice:</p>
+<ul>
+<li><strong>Footer Links: </strong>Despite popular beliefs, footer links still work to pass value and relevance internally. How much is debatable and difficult to test, but I’m sure not as much value is passed here as with body copy/editorial links (see: <a href="http://www.huomah.com/Internet-Marketing/Link-Building/Page-segmentation-and-link-building.html" target="_blank" rel="noopener">page segmentation</a> and <a href="http://www.seobythesea.com/?p=3806" target="_blank" rel="noopener">reasonable surfer</a>). Also, site trust could be a factor in how effective these links are. Finally, note that I’m arguing here for value being passed “internally,” not “externally,” which may or may not work.</li>
+<li><strong>Sitemap: </strong>Sitemaps are always underused for some reason, which is odd because they&#8217;re virtual link dumping grounds where anything goes and you can be as spammy as you like. For sites with lots of content, I&#8217;d advocate implementing <a href="http://www.blogstorm.co.uk/using-multiple-sitemaps-to-analyse-indexation-on-large-sites/" target="_blank" rel="noopener">multiple sites maps</a>, not only for better crawling/indexing, but also to better organize, segment and &#8220;juice up&#8221; your internal linking strategy.</li>
+</ul>
+<p>And now for the most obvious, plain as day, right under your nose, no-duh, highest ROI page on your website to find (and drain) link juice from:</p>
+<ul>
+<li><strong>Home Page: </strong>Seriously, this is likely THE page that has THE most links on a site, which stands to reason it&#8217;s the page with the most juice. Yet many SEOs totally overlook or ignore it. When I take on a new client, I immediately add links to the home page for some of the most competitive terms my client is trying to rank for. If you&#8217;re not exposing <a href="https://www.wordstream.com/blog/ws/2023/08/21/deep-linking">deep links</a> on your home page, do so NOW. I can pretty much guarantee that any deep pages you expose on your home page will automatically rise in the SERPs.</li>
+</ul>
+<p>Okay, so there you have it. Heed my advice and don&#8217;t let your hard won link equity waste away. Seriously, by not draining pages that are brimming with link juice on your site and leaking it to pages you want to rank, you&#8217;re just making your job as an SEO harder. To me, this is a no brainer and something every SEO should make a priority.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice">Want More Link Juice? Here&#8217;s an Easy Way to Get It</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/07/15/how-to-find-and-drain-link-juice/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keyword Optimization: Why Optimizing for the Right Keywords is &#8216;Do or Die&#8217;</title>
+		<link>https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization/</guid>
+
+					<description><![CDATA[<p>Keyword optimization (also known as keyword research) is the act of researching, analyzing and selecting the best keywords to target to drive qualified traffic from search engines to your website. Check out this post to learn how to get the most out of your keyword optimization efforts.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization">Keyword Optimization: Why Optimizing for the Right Keywords is &#8216;Do or Die&#8217;</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>Keyword optimization</strong> (also known as <a href="/keyword-research">keyword research</a>) is the act of researching, analyzing and selecting the best keywords to target to drive qualified traffic from search engines to your website.</p>
+<p>Keyword search optimization is a critical step in initial stages of search engine marketing, for both paid and organic search. If you do a bad job at selecting your <a href="/keyword">target keywords</a>, all your subsequent efforts will be in vain. So it’s vital to get keyword optimization right.</p>
+<p>But optimizing keywords isn&#8217;t something you do ONLY at the outset of a search marketing campaign. Ongoing keyword optimization is necessary to keep uncovering new keyword opportunities and to expand your reach into various keyword verticals. So keyword optimization isn&#8217;t a set it and forget it process. By continuously performing keyword analysis and expanding your database of keywords, your site traffic, leads and sales will continue to grow.</p>
+<h2>Benefits of Keyword Optimization</h2>
+<p>In a recent survey, participants listed keyword optimization as <a href="/blog/ws/2010/04/06/most-annoying-search-marketing-task">one of the hardest tasks in search engine marketing</a>. Because of its difficult nature, most site owners, marketers and bloggers don&#8217;t spend enough time optimizing keywords. This is ironic since optimizing keywords is the most important aspect of SEO and PPC. If you don&#8217;t choose and use keywords your customers are searching for, you won&#8217;t get found. That means no traffic, no sales, no money.</p>
+<p>So to look at the big picture, you must practice search engine keyword optimization to:</p>
+<ul>
+<li><strong>Drive qualified traffic to your website:</strong> To drive searchers to your site, you must optimize for the keywords they&#8217;re searching for</li>
+<li><strong>Measure traffic potential: </strong>Analyzing the popularity of keywords helps you gauge the size of a potential online market.</li>
+<li><strong>Write effective content: </strong>By incorporating optimized keywords into your website content, you can connect instantly with potential customers and address their needs.</li>
+<li><strong>Understand user behavior: </strong>By analyzing the words that your customers use, you get an idea of their needs and how to service those needs.</li>
+</ul>
+<h2>Where Keyword Search Optimization Comes into Play</h2>
+<p>Keyword optimization plays a major role in every aspect of <a href="/">Internet marketing</a> from <a href="/blog/ws/2012/11/28/content-strategy">content strategy</a>, to <a href="/category/wordstream-blog-tags/link-building">link building</a>, to how you <a href="/ad-group-keyword-grouping">group your keywords in your AdWords ad groups</a>, to how your site content is organized, a.k.a your <a href="/information-architecture">information architecture</a>.</p>
+<p><strong>SEO Keyword Optimization</strong></p>
+<p>When it comes to SEO, the success of your organic search efforts rests largely on how effective you are at discovering, researching, analyzing and selecting the right <a href="/search-engine-keywords">search engine keywords</a> for your website. All other aspects of SEO rely on successful keyword optimization. What&#8217;s more, optimizing keywords touches every aspect of your SEO marketing efforts.</p>
+<ul>
+<li><a href="/blog/ws/2009/08/05/seo-title-tag-formulas"><strong>Title Tag:</strong></a> Your target keywords must be included in the title tag (and front loaded). This is the most important piece of content on your website, both on and off-page.</li>
+<li><strong>Links: </strong>Keyword optimization should be integrated into your link building strategy. Internal links, inbound links, breadcrumb links, navigational links should all have your top optimized keywords. It&#8217;s also important to <a href="http://www.huomah.com/Search-Engines/Learn-SEO/Using-Link-Text-Management-to-Go-Vertical.html">track and manage your link text efforts</a></li>
+<li><strong>Content strategy: </strong>If you want to rank well and connect with searchers, you need to use your target keywords in your content. <a href="/seo-free-trial">WordStream for SEO</a> helps combine keyword research with content authoring (just saying&#8230;).</li>
+<li><strong>Images:</strong> Don&#8217;t forget to optimize keywords in the pictures on your website. <a href="http://www.allbusiness.com/technology/software-services-applications-search-engines/14067282-1.html">Target keywords should be used in your image alt attribute and file names</a>, to name a few.</li>
+<li><a href="/meta-description"><strong>Meta Description:</strong></a> There&#8217;s some debate over whether or not including target keywords in your text snippets helps rankings. But there&#8217;s little doubt that having optimized keywords in your <a href="https://www.wordstream.com/meta-tags">meta tags</a> produces more clicks in searches, which is optimal.</li>
+<li><strong>URL: </strong>Be sure to include <a href="/seo-keyword">keywords for SEO</a> in file name slugs, like I&#8217;ve done with this page&#8217;s URL. The page is about keyword optimization, so the slug name is /keyword-optimization.</li>
+<li><strong>Site Structure: </strong>Keyword optimization is also critical to how you structure and organize your site content. Not only do you need to select the right keywords, but you need to group them hierarchically and order the corresponding pages on your website accordingly.</li>
+</ul>
+<p><strong>PPC Keyword Optimization</strong></p>
+<p>But optimized keywords aren&#8217;t just for organic search marketing. There&#8217;s tremendous value in optimizing your <a href="/ppc-keyword">PPC keywords</a>. To be effective with your <strong><a href="/pay-per-click-campaign">pay-per-click campaigns</a></strong>, you must speak the searcher&#8217;s language. The more keywords you select that your customers are searching for, the more traffic you&#8217;ll drive to your website, the more consumers you&#8217;ll convert to customers.</p>
+<ul>
+<li><strong>Creating a keyword list: </strong>Determining which keywords to target and bid on is the linchpin for all your <a href="/pay-per-click">PPC marketing strategies</a>. Different keywords have different demand and traffic potential.</li>
+<li><strong>Grouping and segmenting:</strong> Keyword optimization helps organize your keywords into tight groups that are semantically related.</li>
+<li><strong>Improved relevancy: </strong>The key to a higher <a href="/click-through-rate">click-through rate</a> is being relevant to the searcher&#8217;s query. Higher CTR leads to better <a href="/quality-score">Quality Score</a>. Optimized keywords are instrumental in being relevant.</li>
+<li><strong>Crafting ad text: </strong>To coax searchers into clicking on your ads, you need to integrate your keywords into your <a href="/ad-text">PPC ad text</a>.</li>
+<li><strong><a href="/landing-page-optimization">Landing page optimization</a>: </strong>Once a user lands on your page, your message must match the offer. So the optimized keywords that were present in your ad text, must be present on your landing pages.</li>
+</ul>
+<p>You can take your PPC optimization further by evaluating your AdWords account with the <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a>, which grades your campaigns on important factors like ad text and long-tail keyword optimization.</p>
+<p><strong>Social Media Keyword Optimization</strong></p>
+<p>Determining which keywords to target and how to incorporate them into your messaging is also a big factor in social media marketing. This guide to <a href="/articles/keyword-research-for-social-media-guide"><strong>Keyword Research for Social Media</strong></a> is a good resource for determining which keywords your audience is using and covers everything from how to conduct <a href="/articles/keyword-research-for-social-media-guide#Keyword-Research-for-YouTube">keyword research for YouTube</a> to <a href="/articles/keyword-research-for-social-media-guide#Keyword-Research-for-Facebook">researching keywords for Facebook</a>.</p>
+<h2>What to Evaluate When Optimizing Keywords</h2>
+<p>When determining which keywords to choose for your optimizations efforts, there are a number of factors you should evaluate.</p>
+<p><strong>Keyword Popularity</strong> – The more popular a keyword is (meaning the more that people search for it), the more traffic it will drive to your website, should you rank highly for it, that is. When it comes to choosing keywords based on popularity, there are two lines of thinking.</p>
+<ul>
+<li><strong>Target the </strong><a href="/popular-keywords"><strong>most popular keywords</strong></a><strong>.</strong> This seems pretty straightforward. If you want to attract the most visitors to your website, you should optimize for the most searched for keywords. Right? But the more popular a keyword is, the harder it is to rank for.</li>
+<li><strong>Target less <a href="/articles/ultimate-guide-to-keyword-competition">competitive keywords</a>.</strong> It may seem counterintuitive to go after keywords that aren’t as popular, but for a new website, this is often the best approach. It’s very difficult to compete with mature websites that have achieved trust and authority for the most popular keywords in competitive ranking verticals. So sites that are young typically have more success optimizing for keywords that aren’t that popular or competitive or optimizing your keywords by <a href="http://www.searchenginejournal.com/how-to-organize-your-keyword-modifiers-to-create-long-tail-strategy/6526/">integrating modifiers</a> (thematic modifiers or geo-targeted modifiers) and creating mid to <a href="/long-tail-keywords">long tail keywords</a>.</li>
+</ul>
+<p><strong>Keyword Relevance</strong> – It’s critical to choose keywords to optimize for based on how relevant they are to your products or services. If your keywords are not intrinsically relevant to what you&#8217;re offering on your website, the traffic the search engines feed your website will not be delivered a relevant message. Thus, they will be unable to complete the “search and reward cycle.” You see, searchers seek relevance and without it you&#8217;re unlikely to convert them into customers.</p>
+<p><strong><a href="/keyword-intent">Keyword Intent</a> </strong>– To determine the value of your keywords, you need to identify the intent of the searchers. Which stage are they at in the search cycle? Are they browsing? Are they ready to buy? Or are they simply looking for solutions or pursuing information?</p>
+<p>The intent behind keywords or more specifically &#8220;search queries&#8221; can be broken down into three categories.</p>
+<ul>
+<li><strong>Navigational: </strong>company or brand queries, domain queries</li>
+<li><strong>Informational: </strong>curiosity, question-oriented, solution-seeking queries</li>
+<li><strong>Transactional: </strong>looking to purchase queries</li>
+</ul>
+<p>It&#8217;s important to optimize for the high intent keywords rather than keywords of low intent. By identifying, classifying and segmenting your high intent keyword groups into separate baskets of intent and eliminating the low-value keywords, you’ll see your search relevance rise and you’ll generate more, qualified traffic.</p>
+<h2>Keyword Optimization Tools and Resources</h2>
+<p>Finally, since it&#8217;s so important to choose the right keyword for blogging, Web copy and landing page creation, let&#8217;s wrap this up with some of the best tools on the Web for researching, analyzing, discovering and optimizing keywords. I&#8217;ve also included some of my favorite articles on keyword optimization, analysis and research so you can learn more about optimizing keywords.</p>
+<h2>Tools for Keyword Suggestion</h2>
+<p>If you’re starting a site from scratch, it can be difficult to know which keywords to target. The good news is there are a number of free <a href="/blog/ws/2016/04/11/keyword-search-tools">keyword search tools</a> to help you <a href="/keyword-discovery">discover keywords</a>. One of our favorites is&#8230;</p>
+<ul>
+<li><a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">The Free Keyword Tool</a>: discover thousands of profitable keyword opportunities and <a href="https://www.wordstream.com/keyword-niche-finder">keyword niches</a>.</li>
+</ul>
+<p><strong>Great Keyword Optimization Resources</strong></p>
+<ul>
+<li><a href="http://www.searchenginejournal.com/free-keyword-research-tools/8153/" target="_blank" rel="noopener">Free Keyword Research Tools – the Ultimate Guide</a> &#8211; A nice list of the <a href="/keyword-research-tool">keyword research tools</a> and optimization resources that isn&#8217;t the same old same old</li>
+<li><a href="/keyword-research-guide">Keyword Research Guide</a> &#8211; Practical guide to researching keywords from, well, us</li>
+<li><a href="http://seo.site-reference.com/keyword-research-master-class/" target="_blank" rel="noopener">Keyword Research Master Class</a> &#8211; Angie Nikoleychuk schools us on how to perform solid keyword research</li>
+<li><a href="http://www.copyblogger.com/keyword-research/">Keyword Research for Bloggers: 5 Part Guide</a> &#8211; Optimized keywords aren&#8217;t just for SEO, PPC and social media&#8230;if you want your blog to rank well in the SERPs, read this guide</li>
+<li><a href="http://www.searchengineguide.com/stoney-degeyter/comprehensive-guide-to-keyword-research.php" target="_blank" rel="noopener">Comprehensive Guide to Keyword Research, Selection and Organization</a> &#8211; Stoney DeGeyter takes you start to finish on how to find, analyze, prioritize and organize your keywords</li>
+<li><a href="http://www.dirjournal.com/articles/tools-local-keyword-research/" target="_blank" rel="noopener">Tools for Local Keyword Research</a> &#8211; Big list of tools for finding keywords to target locally from <a href="/articles/ultimate-guide-to-keyword-competition#Michael-Gray">Michael Gray</a></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization">Keyword Optimization: Why Optimizing for the Right Keywords is &#8216;Do or Die&#8217;</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/04/14/keyword-optimization/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Steps to Get Quality Backlinks for Free</title>
+		<link>https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks/</guid>
+
+					<description><![CDATA[<p>There are no magic shortcuts, no highly classified insider hacks to getting quality links for your website. Building amazing backlinks takes work.But that's the last thing the forum vagrants want to hear.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks">5 Steps to Get Quality Backlinks for Free</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Go to any SEO forum and you’ll find the obligatory post from a confused, <a href="/category/wordstream-blog-tags/link-building">link building</a> noob wondering, <strong>&#8220;How do I create amazing backlinks?&#8221;</strong></p>
+<p>In the post, the frustrated linker claims they’ve tried everything to build quality backlinks: free directories, profile links, article submissions, comment spamming, etc. But nothing works. Despite all their <em>low-value</em> efforts, they can&#8217;t leapfrog their competitors in the <a href="/serp">SERPs</a>, so they&#8217;re pleading with others to share their secrets to building amazing, stupendous, superfantastic backlinks.</p>
+<p>Trouble is, those secrets don&#8217;t exist.</p>
+<p>There are no magic shortcuts, no highly classified insider hacks to getting quality links for your website. <strong>Building amazing backlinks takes work</strong>.But that&#8217;s the last thing the forum vagrants want to hear. They want a quick fix, and creating something of value is a whole lot harder than slapping a forum signature on a discussion thread post. So that message often falls on deaf ears.</p>
+<p>However, if you&#8217;re willing to bust your ass, then I&#8217;ll share my process for building amazing backlinks. It&#8217;s not simple. It&#8217;s not easy. In fact, it requires creativity, tenacity, dedication and hard work. But unlike low-value link spamming, if you follow these steps, you can build some amazing backlinks.</p>
+<p><strong>5 Steps to Creating Amazing Backlinks</strong></p>
+<ol>
+<li><a href="#find-links">Finding links</a></li>
+<li><a href="#link-prospecting">Link prospecting</a></li>
+<li><a href="#content-linkworthiness">Content linkworthiness</a></li>
+<li><a href="#linkbait">Linkbait</a></li>
+<li><a href="#link-outreach">Link outreach</a></li>
+</ol>
+<div></div>
+<h2><a id="find-links"></a>Step One: Find What People are Linking to</h2>
+<p>The first step in getting amazing backlinks is to ferret out the sites that already have fantastic backlinks and scrutinize their link profiles. The logic being that good content attracts links, as site owners feel compelled to share it with their audience. So in this first step, you’re looking for pages with ‘<a href="/blog/ws/2020/12/10/link-building-secrets">lotsa links’</a> because they’ve already proven to have link-worthy content.</p>
+<p>To find out which blog posts have attracted the most inbound links, follow this process. Note: for this entire blog post, we&#8217;ll use a hypothetical example of Jim&#8217;s Pet Shop, an online pet store looking to attract links, traffic and attention for its line of dog toys.</p>
+<ol>
+<li>Install the SEO for Firefox <a href="http://tools.seobook.com/firefox/seo-for-firefox.html" target="_blank" rel="noopener">Toolbar</a> (it’s free!)</li>
+<li>Run a search in Google (for this example, I’m running a query for “dog toys”), select &#8220;show options&#8221; button (below the search box, left) and click “blogs” from the categories</li>
+<li>Click the “100” option (just below the search box, right), which will give you the Top 100 search results</li>
+<li>Once that’s resolved, click the &#8220;CSV&#8221; link (just below the search box, right) and export the results fileFirefox for SEO gives you a lot of great information, but for this exercise, we just want the data for the column “Y! Page Links,” so you can delete the rest.</li>
+<li>Sort the list by “Y! Page Links” from “largest to smallest.” Your CSV results should look like this:</li>
+</ol>
+<p>We now have a collection of all the blog posts about &#8220;dog toys&#8221; that have attracted the <a href="/blog/ws/2015/05/15/most-links">most links</a>. The next step in the process of building quality backlinks is to see which sites are linking to these posts.</p>
+<h2><a id="link-prospecting"></a>Step Two: Find Out Who&#8217;s Linking</h2>
+<p>Now that we know which content pieces are the link magnets, let&#8217;s figure out who&#8217;s doing the linking. Why is the &#8220;who&#8221; important? It&#8217;s because these website owners have already pre-qualified themselves as link prospects by demonstrating their willingness to link out to a particular type of content, which in this example is content about &#8220;dog toys.&#8221; So chances are good that they might link to our dog toy content.</p>
+<p>So to find out the &#8220;who,&#8221; pull up the CSV dashboard we created above, select each of the top linking posts and drill down into their link profiles. This can be done using the &#8220;Yahoo Page Links&#8221; button on the SEO for Firefox <a href="http://tools.seobook.com/firefox/seo-for-firefox.html" target="_blank" rel="noopener">Toolbar</a> or you can use the Yahoo link command: link:http://www.pawnation.com/2010/03/16/wacky-pet-product-squeaky-squigglers-dog-toys/ -site:pawnation.com</p>
+<p>This produces a SERP list of all links pointing to this page, minus any internal site links from the root domain, which looks like this:</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/quality-backlink-analysis.gif" alt="quality backlink data" width="600" height="532" /></div>
+<p>After running this analysis for link prospects, there are two sites that keep popping up in the link profiles of these top dog toy posts: Doggies.com and Funstufffordogs.wordpress.com. Given their willingness to link out to dog toy related content, they are great candidates for outreach campaign (covered in step five).</p>
+<p>Now, if it&#8217;s not clear yet, the objective of this step is to assemble a list of qualified prospects for outreach. This can be done in a simple spreadsheet with multiple data columns. For my own outreach lists, I like to collect data on :</p>
+<ul>
+<li><strong>Target website URL: </strong>note the name of the website as well as the <a href="https://www.wordstream.com/blog/ws/2023/08/21/deep-linking">deep page I&#8217;ve found that&#8217;s linking out</a></li>
+<li><a href="/blog/ws/2010/04/03/google-pagerank-update-april-3-2010"><strong>Toolbar PageRank</strong></a><strong>: </strong>here I use TBPR to sort by relative value (loosely)</li>
+<li><strong>Contact name: </strong>personalizing your outreach letter is key; addressing an email &#8220;To Whom It May Concern&#8221; is lazy and for losers</li>
+<li><strong>Personal email</strong>: don&#8217;t send emails to info@ black holes or contact us forms, unless you like having your emails ignored or deleted. I give detailed information on obtaining hard to find personal emails, in this article about 12 advanced tactics on <a href="/blog/ws/2009/09/23/find-anyones-personal-email">how to find someone&#8217;s email address</a>.</li>
+<li><strong>Social media profile(s): </strong>what&#8217;s their <a href="/blog/ws/2017/08/25/twitter-link-building">Twitter</a> or LinkedIn handle? don&#8217;t know? figure it out.</li>
+<li><strong>Notes: </strong>additional information about the blogger or website to help personalize my outreach letters even more</li>
+</ul>
+<p>Also, remember that many blogs have a stable of bloggers on staff. So I recommend you dig around and find out which ones link out to your type of content more frequently and cite that in your notes section as well.</p>
+<h2><a id="content-linkworthiness"></a>Step Three: Find Out Why People are Linking</h2>
+<p>To create linkable content, you must determine why certain pieces of content attract links. Let&#8217;s examine the blog posts in the example above and see if we can discern why these five blog posts about dog toys have attracted more than 11K total links. Is there some shared element, some common thread that makes them so link worthy?</p>
+<p>It just so happens that in this case the clues are pretty clear: the top link performers are all articles about weird, odd, whacky or silly dog toys.</p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/quality-backlinks-analysis-3.gif" alt="build backlinks seo" width="600" height="111" /></div>
+<p>It&#8217;s really not surprising because life can be pretty mundane, so people love anything that&#8217;s out of the ordinary. That&#8217;s why <a href="http://www.stayonsearch.com/effective-link-bait-examples-and-techniques" target="_blank" rel="noopener">creating odd or funny posts or videos is often a sure fire way to attract links</a>.</p>
+<p><strong>Dog Mustache Toy</strong></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dog-mustache-toy-backlinks.jpg" alt="Backlinks for the dog mustache" width="480" height="237" /></div>
+<p><strong>Michael Vick Dog Chew Toy</strong></p>
+<div style="text-align:center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/michael-vick-dog-toy-backlinks.jpg" alt="Backlinks for the Michael Vick dog chew toy" width="477" height="327" /></div>
+<p>I mean, how can you not share or link to that Michael Vick dog chew toy photo, right?</p>
+<p>So if you&#8217;re the owner of our hypothetical Jim&#8217;s Pet Shop and you&#8217;re hunting for content ideas that will attract links, writing a post about weird dog toys looks like a fantastic strategy.Which brings us to our next step.</p>
+<h2><a id="linkbait"></a>Step Four: Create the Bait</h2>
+<p>To attract links like <a href="/blog/ws/2010/02/18/link-bait-case-study">the top link worthy posts</a>, you need to create something of similar value. Now, I’m not saying outright copy it, and I’m also not saying you need to reinvent the wheel. You can absolutely do something similar, but make it your own. If it’s a handy widget, create a widget. If it’s a whacky list, create a whacky list. Point is, the content that you create needs to be valuable and interesting to your target market.</p>
+<p>For example, take the premise above that people love content about weird dog toys. Now, there are many different ways you can turn that intelligence into an effective content strategy. I&#8217;ve thrown together a few ideas for articles that I&#8217;m grading by degree of effort and difficulty:</p>
+<ul>
+<li><strong>Easy:</strong> Create a blog post about a whacky dog toy: It&#8217;s not entirely original, but I bet it attracts a stray link or two.</li>
+<li><strong>Harder: </strong>Create an article about &#8220;10 Weird Dog Toys Your Dog is Gonna&#8217; Love.&#8221; This involves more work, but there&#8217;s more opportunity for links.</li>
+<li><strong>Wicked Hard!!:</strong> Fire up your big brain, get super creative and start a contest on your pet shop website where people submit and vote for pictures of their dogs with bizarre dog toys, with the top pics all win a prize. You create a contest page (with contest details, photo galleries and voting component), write a blog post announcing the contest and one announcing the winners, with the winning pictures, names of the dogs and their owners.</li>
+</ul>
+<p>Now which of these ideas is most intriguing? Which do you think will attract the most links? Point here is that the effort matches the results, which is why I listed each idea by level of labor involved. In my experience, the harder I work on a piece of content, the more links it attracts. This isn&#8217;t rocket science, but it bears mentioning.</p>
+<h2><a id="link-outreach"></a>Step Five: Pimp Your Content</h2>
+<p>Okay, so it&#8217;s time to market your content via <a href="http://1blogmarketing.com">blog marketing</a>. After all, <a href="https://www.authorityhacker.com/link-building-survey/" target="_blank" rel="noopener">Authority Hacker</a> found that content creation is the top link-building tactic.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2010/04/effective-link-building-tactics.png" alt="effective link-building tactics" width="680" height="433" class="alignnone size-full wp-image-67422" srcset="https://www.wordstream.com/wp-content/uploads/2010/04/effective-link-building-tactics.png 680w, https://www.wordstream.com/wp-content/uploads/2010/04/effective-link-building-tactics-480x306.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 680px, 100vw" /></p>
+<p>&nbsp;</p>
+<p>You&#8217;re going to get to work reaching out to the site owners, key influencers and bloggers for the sites in backlink profiles that you&#8217;ve gathered in your pitch list from step two. Now, you&#8217;re not going to boldly ask them to link to your page about X in your request. That&#8217;s way too obvious and heavy-handed. Instead, you&#8217;re going use a more subtle approach, by writing to make them aware of your content and asking if they&#8217;d be willing to &#8220;share it&#8221; with their audience, as they&#8217;ve done with similar types of content.</p>
+<p>To give you a better idea of what I&#8217;m talking about, here&#8217;s what a sample letter might look like using the &#8220;Whacky Dog Toy Photo Contest&#8221; idea for Jim&#8217;s Pet Store.<em> Note: this email template is based on successful outreach letters I&#8217;ve used in the past.</em></p>
+<table>
+<tbody>
+<tr>
+<td>Dear <em>(name of blogger or site owner)</em>:</p>
+<p>I read your recent article on the Top 10 Weirdest Dog Toys on the Planet <em>(note: add a link to that story here to add further legitimacy and to remind the blogger of the article) </em>and it was very funny. I liked it so much that I shared it with my friends on Facebook and on Twitter <em>(actually tweet the article and drop link it that tweet here for proof)</em>.</p>
+<p>Seeing that you&#8217;re a fan of weird dog toys (and who isn&#8217;t right?), I wanted to let you know about a contest I&#8217;m running over at Jim&#8217;s Pet Shop<em> (link to your website), </em>called the &#8220;Weird and Whacky Dog Toy Photo Contest&#8221;.</p>
+<p><em>(Include details about the contest)</em></p>
+<p>If you think the contest is noteworthy, it would be great if you could share it with your audience. Here&#8217;s a link to the contest page and a link to the blog announcement <em>(note: I like to add a lot of links in an outreach email; that gives the blogger more options; and quite often most of the links I send get included in the article)</em>.</p>
+<p>If you need any other information, just let me know.</p>
+<p>Thanks for your time.</p>
+<p>Sincerely,</p>
+<p>Jim Yastremski<br />
+Jim&#8217;s Pet Shop<br />
+555-555-5555</td>
+</tr>
+</tbody>
+</table>
+<p>Now, anyone who&#8217;s ever engaged in the sort of coordinated, targeted, personalized and aggressive link outreach that I&#8217;ve outlined above understands its value. But you&#8217;ll get the naysayers who say &#8220;link outreach doesn&#8217;t work&#8221; and that&#8217;s primarily because:</p>
+<ul>
+<li>They don&#8217;t create anything of value</li>
+<li>They&#8217;re unable to dedicate themselves to marketing content effectively</li>
+<li>They&#8217;ve never even tried it, yet slam it because they&#8217;re lazy</li>
+</ul>
+<p>Whatever the case, I&#8217;m here to say that I follow the same process I&#8217;ve laid out in this article and it works for me.</p>
+<p>Also, don&#8217;t fall for the old adage that all you need to do to attract links is create great content. Just because you write good content doesn’t mean the Web will automatically notice. You have to hit them over the head with it. It&#8217;s okay to be self promotional, in fact, it&#8217;s vital. Nobody else is going to pimp your content, so it’s up to you.</p>
+<p>One last note on link outreach is that once you get all the steps in place and have an outreach list and an email template, you can have just about anyone help with sending out the emails. I usually enlist interns to send out the emails and tell them to customize and personalize each email in the various fields, using the data I&#8217;ve collected in my outreach spreadsheets.</p>
+<h2>Conclusion</h2>
+<p>So as I said at the beginning of this post, everything I&#8217;ve discussed here takes work. Like anything worth doing, it’s worth doing well. Now if this isn’t for you and your heart just isn’t in it, then that’s fine. There’s no shame in admitting this is more work than you signed up for. But don’t go back to bitching in the forums in a few more months about how you’ve created 300 social bookmarking links and you can’t get on page one of Google, so you need a magical way to build amazing backlinks that doesn’t involve thought or effort.</p>
+<p>Point is, the top ranking sites work their tails off to acquire quality links. To keep pace with them, you need to devote the same level of effort to content strategy and link marketing. If your goal is to outrank them, then you&#8217;ll need to do something even more exceptional. And dumping a dozen comment spam links on some poor guy&#8217;s &#8220;do follow&#8221; blog isn&#8217;t going to get it done.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks">5 Steps to Get Quality Backlinks for Free</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How We Got a Link from The New York Times</title>
+		<link>https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study</link>
+					<comments>https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study/</guid>
+
+					<description><![CDATA[<p>Link Bait Case Study - Learn how we got a link from the New York Times! Link bait strategies and techniques to make your link bait campaign a success.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study">How We Got a Link from The New York Times</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="92c2cad7-aebb-48e0-801c-11a5abfbc4cd" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-baiting-case-study.jpg" alt="Link baiting case study, linkbait campaign example, best linkbait companies, case study social linkbait" width="360" height="271" /></div>
+</article>
+</div>
+<p>Recently at WordStream, we launched our first link bait campaign. By our standards, the campaign was successful, and we thought we&#8217;d share the details on <strong>how to build a linkbait campaign</strong>.</p>
+<h2>How to Get Links from New York Times: A Case Study</h2>
+<p>In a nutshell, we attribute the campaign&#8217;s success to setting clear objectives, creating killer content and aggressive marketing. What resulted from our hard work, planning and execution was a link from one of the most trusted sources on the planet: <em><strong>The New York Times.</strong></em></p>
+<p><strong>Case Study Contents:</strong></p>
+<ul>
+<li><a href="#planning">Planning Phase</a></li>
+<li><a href="#goals">Goal Setting</a></li>
+<li><a href="#creation">Link Bait Creation</a></li>
+<li><a href="#promotion">Link Bait Promotion</a></li>
+<li><a href="#results">Campaign Results</a></li>
+</ul>
+<p>How did we do it? Read on and find out how to get a link from the New York Times.</p>
+<h2>Link Bait Campaign Intro: Before You Start, Have a Plan!</h2>
+<p>You may be wondering <strong>how to start link baiting</strong>, and in ultimately, great linkbaiting is all about planning. In my mind, much of link baiting fails because it lacks planning. Bloggers and <a href="/blog/ws/2017/08/25/twitter-link-building">link builders</a> think that if they throw up a piece of content it will magically go viral&#8230;on its own&#8230;eventually&#8230;because it’s just &#8220;so damn good&#8221; that people will be compelled to share it with others. This rarely happens. <strong>To succeed at link baiting, like any other marketing activity, you must follow a plan.</strong></p>
+<p>Before embarking on our link bait campaign, we developed a detailed plan, which included:</p>
+<ul>
+<li><strong>Establish goals: </strong>What are our objectives? How do we define success?</li>
+<li><strong>Create content: </strong>Pick a hook and create a killer piece of content</li>
+<li><strong>Promote aggressively: </strong>Pick targets and conduct an all-out media and social networking blitz</li>
+<li><strong>Track progress: </strong>Use tools to measure external coverage, link acquisition, traffic, leads, all Web activity tied directly to the campaign</li>
+<li><strong>Evaluate results: </strong>Did we achieve our goals? If not, then why?</li>
+</ul>
+<p>Link bait planning is key to having a winning link-bait campaign, so be sure to spend a solid chunk of time on brainstorming and planning. All link bait strategies need a good plan.</p>
+<h2>Setting Goals for a Linkbait: Goals of Our Link Bait Campaign</h2>
+<p>So like I said, it’s critical to create a plan ahead of time, which includes clearly defined goals. By establishing your goals, you give your link-bait campaign structure and direction. Also, having goals helps determine which type of link bait &#8220;hook&#8221; to create, be it content, a puzzle, contests, widgets, humor or news, etc.</p>
+<p>Now, the obvious goal of link baiting is to get links&#8230;copious amounts of links with a few gems (high trust, high authority links). But, in my opinion, your goal targeting shouldn&#8217;t end there. The perfect linkbait campaigns result in a trifecta of increased:</p>
+<ol>
+<li>Links</li>
+<li>Traffic</li>
+<li>Leads/Sales</li>
+</ol>
+<p>Now, you don&#8217;t need to hit all three targets for your campaign to succeed. In fact, if your goal is simply to get one high value link, that&#8217;s fine. But what IS important is that you establish this ahead of time, so you can judge success, evaluate your efforts to measure ROI and to inform future efforts.</p>
+<p>We spent some time assessing the goals of our link bait campaign. For our campaign, the <strong>primary success metric was links</strong>, with the prize being <strong>one link from a national publication</strong>. We also hoped to <strong>drive traffic</strong>, more referred and organic. The traffic is essential to producing the links. If nobody sees your bait, nobody shares it. With regard to <strong>leads and sales</strong>, our link bait wasn&#8217;t relevant to our products, so we doubted we&#8217;d generate many sales from the traffic. But our objectives were links and traffic. So if we produced leads, that would be a nice bonus.</p>
+<h2>Creating the Link Bait</h2>
+<p>Okay, so let&#8217;s establish another point: the content is the most important element of link baiting. It&#8217;s the &#8220;bait&#8221; in the link bait. Don&#8217;t waste time trying to figure out what the latest new type of linkbait is or use cheap tricks &#8211; it&#8217;s all about content. Poor content does not get shared, does not go viral, does not attract links. So given how important content is to your campaign&#8217;s success, <strong>it&#8217;s critical you devote the bulk of your time, energy and resources to developing your &#8220;bait.&#8221;</strong></p>
+<p>Great link bait can come in many different forms, but here are some link bait ideas to get you started:</p>
+<ul>
+<li>Infographic</li>
+<li>News Piece</li>
+<li>Video</li>
+<li>Controversial Topic</li>
+<li>Quiz</li>
+<li>Poll</li>
+<li>Interview</li>
+</ul>
+<p>While these are some great link bait examples, feel free to think outside the box.</p>
+<p>Since our primary goal was to earn a link from a national publication, we created link bait with a “news hook,” i.e. content that would leverage hot and trending topics and tap into public passion. Larry Kim created an article that claimed <a href="/blog/ws/2010/01/14/ma-senate-race-poll-scott-brown-trounces-martha-coakley">Scott Brown would win the Senate race based on social media popularity metrics</a>. This was a stroke of genius because the nation was buzzing about the upcoming Senate race and we felt we could ride that wave of media frenzy. In addition, Larry leveraged &#8220;social media,&#8221; another trendy topic, perfect for link baiting social news. This combination of two hot topics was the perfect storm, as it appealed to both fans of the impending Senate race and social media enthusiasts too.</p>
+<h2>Link Bait Promotion</h2>
+<p>For your link baiting to be effective, you must be willing to promote the living crap out of it. Even great content and the best link bait doesn&#8217;t go viral on its own. It often needs help. For our <a href="http://1businessmarketing.com/">marketing campaign</a>, we knew we&#8217;d have to employ a super-aggressive promotional strategy to propel our content to viral status, so we devoted three hours to an all out media blitz that included:</p>
+<p><strong>Press Release for Linkbait: </strong>$140 through <a href="http://www.marketwire.com/" target="_blank" rel="noopener">Marketwire</a></p>
+<ul>
+<li>Within minutes of launching the press release, it ranked #1 for the query “Scott Brown” and an array of other Brown-related queries in the Universal Search Engine Results (SERP). Even better, the press release remained #1 in the Universal SERPs for eight hours.</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0abd7c94-6cb3-420a-b7f9-1fb9adb91793" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-bait-press-release.jpg" alt="Link bait press release, how to comment on the new york times with your web link" width="525" height="280" /></div>
+</article>
+</div>
+<p><strong>Organic Ranking:</strong> With little effort, the link bait blog post itself ranked first page for numerous &#8220;Scott Brown,&#8221; &#8220;Massachusetts Senate Race,&#8221; and &#8220;Martha Coakley&#8221; related queries, driving a bunch of organic traffic, which helped drive awareness and additional coverage</p>
+<p><strong>Real Time Search: </strong>Google&#8217;s Real Time Search generates fresh and continuous feeds from video, news, blogs, forums and Twitter, making it a great &#8220;live listening tool.&#8221; I can&#8217;t stress how beneficial real time feeds were to our campaign strategy. Because of the Massachusetts Senate Race &#8220;hotness of topic,&#8221; the real time search results were buzzing with activity. This gave us the ability to monitor a live feed for Scott Brown news and discussion, which was key to discovering fresh content to target for outreach and &#8220;strategic commenting&#8221; (discussed next).</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3e3b46ed-425f-4cf0-aa1e-be12da723c37" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/real-time-linkbait.gif" alt="Using Google real time search for link baiting, how to track link baits, link bait hypothetical case study, linkbait stats roi" width="560" height="187" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p><strong>Strategic Seeding: </strong>So I mentioned how Google&#8217;s Real Time Search was integral to our promotion. That&#8217;s because it fed us a constant stream of new content for strategic seeding opportunities. We used Real Time to target popular, heavily trafficked, online publications, where we dropped in compelling comments with a link back to our &#8220;bait.&#8221; To ensure our comments wouldn&#8217;t get buried/paginated, we had to comment within minutes of the target content being published. That&#8217;s why real time search was key to our efforts. In the first few hours of our campaign, these strategic comment links drove thousands of visits and created more awareness for our link bait.</p>
+<p><strong>Social Media:</strong> <strong>How to Gain Strong Referral Traffic from Social Websites &#8211; a Simple Linkbait Tactic</strong></p>
+<p>Twitter was also instrumental for us, allowing our content to reach people instantly and increase share-ability. Our strategies for Twitter included:</p>
+<ul>
+<li><strong>Target key players: </strong>We tweeted @ the Scott Brown campaign, his daughter’s, and other rabid supporters found using Twitter Search.</li>
+<li><strong>Reach out to media:</strong> We tweeted @ influential journalists from this list: <a href="http://twitteringjournalists.pbworks.com/" target="_blank" rel="noopener">Tweeting Journalists</a>. In hindsight, this &#8220;spray and pray&#8221; approach may have been too spammy. It could have been more effective if we’d made the extra effort to reach out to journalists individually, with personal tweets. But this was an experiment, so it’s good intelligence for our next campaign.</li>
+<li><strong>Hashtags: </strong>We incorporated the trending Senate Race hashtags (like #41st and #masen) in our Tweets for additional awareness.</li>
+<li><strong>Twitter bots:</strong> These profiles scraped and tweeted the press release and our link bait tweets, producing a flood of Twitter activity and traffic to our website.</li>
+<li><strong>Retweets multiplier effect: </strong>A lot of ardent Brown fans retweeted our bait to support their paradigm that Brown would win, while Coakley supporters retweeted criticisms of the post. Either way, bad or good, it contributed to the viral component.</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a9f83bcf-75fb-4707-8c47-fe38fdb029e8" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-baiting-twitter.gif" alt="Using Twitter to promote link bait, new york times case study strategy, success examples of link baiting" width="500" height="240" /></div>
+</article>
+</div>
+<p>In addition to link baiting social news with Twitter, we hit other popular social media platforms, including:</p>
+<ul>
+<li><strong>Facebook</strong></li>
+<li><strong>YouTube: </strong>Dropping comments in new Scott Brown and Martha Coakley videos</li>
+<li><strong>Digg</strong></li>
+<li><strong>StumbleUpon</strong></li>
+<li><strong>Reddit</strong></li>
+<li><strong>Ping.fm: </strong>Simultaneouslyblasting additional social sites</li>
+</ul>
+<p><strong>Rippling Coverage:</strong> The combination of blog comment dropping, social media buzz and media activity produced a ripple effect of coverage from others in the blogosphere we hadn&#8217;t targeted directly, who referenced our social media poll (polls as link bait work great) in their articles, leading to even more interest, traffic and links.</p>
+<p><strong>Follow Ups:</strong> We reached out to journalists and bloggers who covered our article and thanked them. Now, this wasn&#8217;t part of the campaign, per say, but more of a courtesy and common sense, as it aids in future outreach and relationship building with these influencers.</p>
+<p>While promoting your link bait campaign may seem like a lot of work, it&#8217;s absolutely essential. Even the best linkbait articles of all time used heavy promotion to make their link bait campaign a success.</p>
+<h2>Link Bait Campaign Results</h2>
+<p>So our link bait campaign was a success. We achieved our goal and got an editorial link in the <em><strong>New York Times.</strong></em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c8384502-844e-4aec-9abf-9f44352eb65d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/nytimes-link.jpg" alt="New York Times link bait, how to get a link from nytimes, link bait generator" width="506" height="452" /></div>
+</article>
+</div>
+<p>We also scored a bonus editorial link from <strong><em>Politico. </em></strong>So that&#8217;s two links from major online news publications, doubling our goal expectations for the link bait. The full-on media blitz we embarked on also spawned mentions and links from across the Web and world, like <a href="http://blogg.svd.se/usabloggen?id=17780" target="_blank" rel="noopener">here in Sweden</a>. In addition, people dropped unsolicited comments and links to our social media poll in message boards, forums and media posts as the viral nature of our campaign caught fire. The link bait also sparked a number of copycat Senate Race social polls too, which was flattering.</p>
+<p><strong>Goal Breakdown</strong></p>
+<ul>
+<li><strong>Links: </strong>236 total links, including references in high profile, major trust sites New York Times and Politico</li>
+<li><strong>Referral traffic: </strong>Referred traffic quadrupled on our site, with thousands of pageviews in hours</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8871873a-c18a-403e-9cee-0ba70caae4b1" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/link-bait-traffic-spike-1.gif" alt="Link bait traffic spike" width="400" height="173" /></div>
+</article>
+</div>
+<ul>
+<li><strong>Leads/Sales: </strong>3 leads</li>
+</ul>
+<p>Now, the traffic the link bait drove wasn&#8217;t relevant to our core product (we&#8217;re a search marketing software provider), so we only converted a handful of people. However, we did achieve our primary objective by getting a link from a highly trusted media outlet. In the future, we’ll use the same approach but try to tailor our &#8220;hook&#8221; to a more relevant audience.</p>
+<h2>So Why Was Our Campaign a Success?</h2>
+<p>Establishing a clear and detailed plan from the outset and executing it effectively was critical to success. Marketing our content aggressively was also paramount. But without the linkability of the content, our campaign would&#8217;ve fallen flat on its face.</p>
+<p><strong>So what was it about our content that made it so darn linkable?</strong></p>
+<ul>
+<li><strong>Playing on emotion:</strong> Our social media survey caught fire because people nationwide had strong opinions about the Massachusetts Senate Race. This was a high-stakes event that meant a great deal to both parties. GOPs loved it because it reinforced their position. Dems panned it as utter nonsense. Either way, it was a winner for us.</li>
+<li><strong>Timing: </strong>The national spotlight on the <a href="http://malocalguide.com/">Massachusetts</a> Senate Race (and Scott Brown) peaked around the time of link bait piece, so timing was everything. The bait wouldn&#8217;t have gotten nearly the amount of coverage had we released it any earlier. We hit the sweet spot, which was huge.</li>
+<li><strong>Hot and trendy: </strong>Scott Brown emerged into a political phenomenon leading up to election. The media was looking for anything they could get their hands on about Brown, so our link bait enjoyed the benefits of a hungry audience.</li>
+<li><strong>Creative thinking: </strong>This post would never have gone viral were it not for the unique angle of the link bait. Had Larry written an article about how Scott Brown should win because Dems are destroying the country with their Socialist agenda, etc, it wouldn&#8217;t have had the same appeal. But by combining two hot topics: social media and Scott Brown, we struck gold. So creativity and originality were key as well.</li>
+</ul>
+<p>Keep this in mind for future link bait ideas. Controversy that plays on emotion, a well-timed piece, trendy news, and a creative piece are all perfect linkbait examples. Even better if you can combine all of them.</p>
+<p>Congratulations! You now know how to create a linkbait campaign &#8211; and an awesome one at that! As newly inducted linkbait campaign experts, we wish you the best of luck. Now go forth and linkbait &#8211; we got a link from New York Times and you can too.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study">How We Got a Link from The New York Times</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2010/02/18/link-bait-case-study/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Keyword Ranking Tools for SEO</title>
+		<link>https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools</link>
+					<comments>https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2009 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools/</guid>
+
+					<description><![CDATA[<p>Keyword Ranking Tools quickly track your rankings in the SERPs for target keywords Find out which are the paid and free Best Keyword Ranking Tools for SEO.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools">Best Keyword Ranking Tools for SEO</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Most SEOs use <strong>keyword ranking tools</strong> to track where their pages are ranking in the SERPs for target keywords. It gives them an idea how well their optimization efforts are faring against the competition as well as how well those rankings are progressing over time. Now even though rankings without traffic and conversions are meaningless, it all starts with rankings. If your pages don’t rank, nobody finds them. And the higher you rank, the more potential traffic you can grab.</p>
+<p>Now, there are a lot of a lot of paid and free tools out there that help SEOs track keyword rankings. Some are paid and some are free. In writing this post, I did a lot of research to bring you the best keyword ranking tools for SEO.</p>
+<p>Free Keyword Ranking Tools</p>
+<ul>
+<li><a href="#rank-checker">Rank Checker</a></li>
+<li><a href="#web-ceo">Web CEO</a></li>
+<li><a href="#ventio">Ventio</a></li>
+</ul>
+<p>Paid Keyword Ranking Tools</p>
+<ul>
+<li><a href="#advanced-web-rankings">Advanced Web Rankings</a></li>
+<li><a href="#rank-tracker">Rank Checker</a></li>
+<li><a href="#accurate-monitor">Accurate Monitors for Search Engines</a></li>
+</ul>
+<h2>Free Keyword Ranking Tools</h2>
+<p>If you’re on a budget and money is tight (or even if you&#8217;re not on a budget, but you&#8217;re fiscally conservative), there are host of fantastic, FREE keyword rank checking tools available on the Web. Here are three of my favorites.</p>
+<p><strong>Rank Checker</strong> is one of the <a href="/blog/ws/2009/08/26/10-free-seo-tools-we-use-every-day" target="_blank" rel="noopener">free seo tools we use every day</a> and should have a place in every search marketers toolchest. With this simple, easy-to-use Firefox extension, you can check your website&#8217;s rankings in Google, Yahoo and Bing simultaneously.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="936c4fdd-24ca-425d-a0b4-3df85a780be5" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-rank-checker-seo-book.gif" alt="Free keyword rank checker by SEO Book" width="602" height="172" /></div>
+</article>
+</div>
+<p>After running a rank check, you then have the option of exporting the results to a .CSV file. My two favorite features of Rank Checker are the ability to add multiple keywords at once (up to 100) and the convenience of being able to save big keyword lists as presets, so you don&#8217;t have to re-paste in your keywords each time.</p>
+<p><strong>Web CEO</strong> is a slick keyword rank checker that allows to not only check your own site&#8217;s <a href="/keyword-ranking">keyword rankings</a> but to also run a side-by-side comparison of your rankings versus your competitors. The free ranking software offers a lot of nice reporting features, which among other things allows users to track your site&#8217;s historical rankings in the SERPs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="74378e98-0a13-4b51-8317-6af0d50c69f8" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-keyword-ranking-tool-web-ceo.gif" alt="One best keyword ranking tools is WebCEO" width="602" height="200" /></div>
+</article>
+</div>
+<p>If you&#8217;re worried about getting your IP banned for flooding the engines with queries, Web CEO has taken precautions and says that their keyword ranking tool &#8220;completely emulates browser activity as if a human were sitting in front of a computer querying search engines. So, it is impossible to tell our ranking checker from a usual user and you do not risk your rankings and IP address.&#8221; You&#8217;ll need to download their software and go through a brief set up, but once you’re up and running this is a great rank tracking tool.</p>
+<p><strong>Ventio Google Position Tool</strong> is the most basic of the keyword ranking tools I&#8217;ve tested. However, it&#8217;s still fast and pretty powerful, and a nice alternative to the other rank tracking tools if all you want to do is run a quick check of keywords without downloading any add-ons or software.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eca24d27-7cd1-4af7-b8ad-99c431db162f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-ranking-tool-ventio.gif" alt="Ventio Google keyword position tool" width="552" height="304" /></div>
+</article>
+</div>
+<p>The keyword checker&#8217;s results return a snapshot of your SERP listing, including snippets, which is handy for immediate evaluation. Ventio Google Position Tool is a blue collar, no frills tool for anyone who wants to monitor their position in the Google SERPS on the fly.</p>
+<h2>Paid Keyword Ranking Tools</h2>
+<p>If you’ve got money to burn and you want more out of your keyword rank checker, than it may be worth it to pony up the cash for a software platform that offers more advanced features and functionality than free keyword ranking tools.</p>
+<p><strong>Advanced Web Ranking</strong>&#8216;s strong suit is the range of advanced reporting features it offers. Users can track and report on their own keyword rank evolution and visibility in the search results as well as chart the evolution of your competitor sites in the SERPs. And, to me, having historical, competitive ranking intelligence for specific keywords is a huge advantage.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9fabd03d-f6f0-48e7-aaf5-4da42058d667" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-keyword-ranking-tools-advanced-web.gif" alt="Keyword ranking tools like Advanced Web Rankings are a great paid rank checker" width="552" height="299" /></div>
+</article>
+</div>
+<p>In addition, Advanced Web Rankings providers users with a wealth of features for customizable, granular reports, which can be branded and personalized with company logo for internal or external distribution. I also love the ability to set the scheduling feature and have my custom reports emailed to me weekly.</p>
+<p><strong>PRICE:</strong> $199 for the professional version</p>
+<p><strong>Rank Tracker</strong> has one of the nicest user interfaces of all the paid keyword rank checking tools I&#8217;ve tried. Every time you check your SERP rankings, Rank Tracker displays changes in rank, so you can easily see if your site has moved up, or if it has slipped down the SERPs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cb75dc65-4fdb-4bda-b0c1-ba3b6e8cf2ae" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/keyword-rank-tracking-tool.gif" alt="Rank tracking software from Rank Tracker" width="552" height="313" /></div>
+</article>
+</div>
+<p>Like some other keyword rank checkers, Rank Tracker integrates a <a href="/keyword-suggestion-tool">keyword suggestion tool</a> so you can discover profitable keywords using Overture, Google Suggest or your competitor&#8217;s websites.</p>
+<p><strong>PRICE: </strong>$99 for the professional version</p>
+<p><strong>Accurate Monitor for Search Engines</strong> is unique in that it tracks both organic keyword rankings as well as paid rankings too. This rank checker also supports Unicode, so you can check the results in 30+ different languages, so you can see how well you&#8217;re ranking internationally in foreign data centers.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="33ba51a9-8a69-4f44-b2c5-c7c21d82625b" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-keyword-ranking-tools-accurate-monitor.gif" alt="Paid keyword ranking tool Accurate Monitor" width="552" height="313" /></div>
+</article>
+</div>
+<p>Like other tools you can receive <a href="/keyword-suggestion">keyword suggestions</a> based on relevancy to the current keywords you&#8217;re tracking and it has scheduling, reporting and exporting features, so users get comprehensive, one-stop shopping for complete keyword ranking and tracking analysis.</p>
+<p><strong>PRICE:</strong> $99 for the personal use version</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools">Best Keyword Ranking Tools for SEO</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2009/11/12/best-keyword-ranking-tools/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top SEO Candy Websites</title>
+		<link>https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites</link>
+					<comments>https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2009 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites/</guid>
+
+					<description><![CDATA[<p>Candy companies may be able to create tasty treats, but how good are they at SEO? Find out who the Top SEO Candy are in our Top SEO Websites Series.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites">Top SEO Candy Websites</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="43eea215-2ad7-4bd4-98a4-c1d466e28b36" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/top-seo-candy-websites-2.jpg" alt="Top SEO Candy Websites" width="327" height="269" /></div>
+</article>
+</div>
+<p>It&#8217;s Halloween time again. Time for fright flick gore-arathons, Trick-or-Treaters, and&#8230;um&#8230;oh yah, bucket loads of Halloween CANDY! I&#8217;m sure many of you are stocking up on jumbo bags of fruity, chocolately or gummy candy treats for the roving bands of costumed kids that will soon descend upon your doorstep, that is unless you&#8217;re one of those people who give out bags of chips or boxes of raisins as &#8220;treats,&#8221; which BTW is a great way to get your house egged.</p>
+<p>And with Halloween only days away, what better time to roll out some SERP analysis and crown the <strong>Top SEO Candy Websites</strong>. Let&#8217;s find out who&#8217;s doing a killer job at optimizing their on and off page elements for the Web&#8217;s top candy queries.</p>
+<p>So sit back, relax and enjoy, &#8217;cause this edition of our &#8220;Top SEO Websites Series&#8221; is gonna&#8217; be SWEET!</p>
+<h2>Top SEO Candy Company Websites: SERP Analysis Process</h2>
+<p>My process for determining which candy websites are doing the best job at SEO involves three steps:</p>
+<p><strong>1) Identify Top 20 Searched Keywords</strong> &#8211; I use the <a href="/keyword-tool-google">Google Keyword Tool</a> and our <a href="/keywords/">Free Keyword Tool</a> to get search volume estimates. I omitted certain results, like &#8220;lollipop&#8221; (singular) because that vertical was littered with Lil&#8217; Wayne lyrics and Lollipop magazine results. I did leave &#8220;lollipops&#8221; on the list because that vertical was much cleaner and relevant. I also scrubbed the list of branded queries, like Starburst, Lifesavers and Smarties.</p>
+<p>Here&#8217;s the final compilation of the 20 most searched candy-related keywords:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="39705832-ef27-4b6b-b21b-304851ccf871" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/top-seo-candy-keywords.gif" alt="Top candy keywords for SEO" width="382" height="229" /></div>
+</article>
+</div>
+<p><strong>2) Run Individual Queries for Top 20 Keywords</strong> &#8211; Once I&#8217;ve determined the 20 most searched keywords, I run those queries in Google and save the first 100 results in a CSV file. To do this yourself, you&#8217;ll need to install the <a href="http://tools.seobook.com/firefox/seo-for-firefox.html">SEO for Firefox plugin</a>. Then run your query, hit the &#8220;100&#8221; button and click &#8220;CSV.&#8221;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="09908f73-378e-4e53-aa7a-b52c0a008133" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/top-candy-keyword-query.gif" alt="Top candy keyword query" width="555" height="73" /></div>
+</article>
+</div>
+<p><strong>3) Determine Domain Frequency</strong> &#8211; Finally, it&#8217;s impossible to evaluate every candy company website on the Internet by doing a deep analytical dive and trying to compare and contrast important SEO factors. So an effective and streamlined method to measure SEO supremacy is through ranking frequency, ie how often a site displays in the SERPs for top keywords. The premise being that the more frequently your site displays for popular queries, the better job you&#8217;re doing at SEO. To determine domain frequency in the SERPs, I use a great tool developed by our friends over at Ontolo, the <a href="http://link-building-tools.ontolo.com/URLAndHostnameCounter.php" target="_blank" rel="noopener">Hosthame Occurance Counter</a>.</p>
+<h2>Top SEO Candy Websites: The Definitive Rankings</h2>
+<p>The goal of this post is to first identify the top searched and competitive keywords that a candy maker or distributor should be targeting in the search engines, and through query analysis, identify the candy companies that are excelling at <a href="/seo">SEO</a>, ranking well and outranking competitors in the SERPs. So without further ado, here are the Top SEO Candy Websites.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4b88a98e-668d-438a-ab83-4a0326eb77ee" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-candy-seo-1.gif" alt="Best SEO Candy Websites top 100 results" width="405" height="271" /></div>
+</article>
+</div>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e2e738a9-e249-4cb9-959a-f104413d4a72" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-candy-seo-2.gif" alt="Best SEO Candy Websites top 20 results" width="405" height="271" /></div>
+</article>
+</div>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a840b84b-1ad7-4b56-8c21-2742ef8cf2ff" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/best-candy-seo-3.gif" alt="Best SEO Candy Websites top 10 results" width="405" height="271" /></div>
+</article>
+</div>
+<h2>Top SEO Candy Websites: The Big Winners</h2>
+<p>So who are the big winners when it comes to ranking for the top candy keywords? Well, any site that frequents the Top 10 results clearly is doing a great job at optimization. But the really big winners would have to be four sites that showed up consistently on each one of the Top 10, Top 20 and Top 100 lists, which were:</p>
+<ul>
+<li><a href="http://www.candywarehouse.com/" target="_blank" rel="noopener">CandyWarehouse</a></li>
+<li><a href="http://www.hersheys.com/" target="_blank" rel="noopener">Hershey&#8217;s</a></li>
+<li><a href="http://www.chocolate.com/" target="_blank" rel="noopener">Chocolate.com</a></li>
+<li><a href="http://www.sees.com/" target="_blank" rel="noopener">Sees</a></li>
+</ul>
+<p>Upon closer look, it&#8217;s pretty impressive what CandyWarehouse is doing in the SERPs, considering this in a vertical dominated by big brands, like Hershey&#8217;s, Sees and Godiva. So the fact that a candy distributor can slug it out with the Kings of Candy is worth noting. They don&#8217;t have nearly as many links (20K compared to Hershey.com&#8217;s 40K) nor the brand equity, but they outrank their competitors consistently. A true David among Goliaths.</p>
+<p>With Chocolate.com, you&#8217;re seeing a website that reaps the rewards of <a href="/blog/ws/2009/08/19/google-loves-exact-match-domains">Google&#8217;s love affair with exact match domains</a>, and more power to them. They also do a fantastic job structuring their information architecture (IA), and letting target candy keywords dictate their category and page titles. And all their critical pages live high in the IA, directly off the root, so link equity flows like water. It&#8217;s clear that this is a site built for maximum SEO performance. Nice work, guys.</p>
+<h2>Interesting Side Notes and Honorable Mentions</h2>
+<p>As for honorable mentions column, I was surprised that Jellybelly.com made it in the Top 10 three times, which is pretty impressive given this is a pretty chocolate heavy keyword study. Sure, they rank #1 for &#8220;jelly beans,&#8221; which you&#8217;d expect, but they also rank #9 for &#8220;candy&#8221; and #2 for &#8220;candy company,&#8221; so they&#8217;re excelling at site optimization in highly competitive verticals. Smartly, they offer lots of games, flavor guides, wallpaper and a <a href="http://www.jellybelly.com/visit_jelly_belly/index.aspx" target="_blank" rel="noopener">vitrual tours of their jelly bean factories</a> on their site, which are pretty linkable. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Also worth mentioning are two companies I&#8217;d never heard of, <a href="http://www.lakechamplainchocolates.com/" target="_blank" rel="noopener">Lake Champlain Chocolates</a> (four instances in the Top 10) and <a href="http://www.vosgeschocolate.com/" target="_blank" rel="noopener">Vosges Haut-Chocolat</a> (eight instances in the Top 20) who make <a href="http://www.vosgeschocolate.com/category/bacon_and_chocolate" target="_blank" rel="noopener">bacon and chocolate bars</a>, which could be great or gross. Either way, kudos are in order for the SEO efforts.</p>
+<p>Finally, a website that&#8217;s killing it in the SERPs is <a href="http://candyaddict.com/blog/" target="_blank" rel="noopener">Candyaddict.com</a>. This site is not a retailer. It&#8217;s a blog about candy. Yet they have four occurrences in the Top 10 and six in Top 20 for popular candy keywords, and are blowing away companies that should be able to outrank them, like, oh, Ghirardelli (more on them in the next section).</p>
+<h2>So Whose Candy Keyword Rankings are More Sour than Sweet?</h2>
+<p>Sadly Hebertcandies.com, a local New England favorite and a staple of my youth, only has one occurrence in the Top 10 and one in the Top 20. Heck even Starbucks is able to squeeze in one listing in the Top 20. C&#8217;mon, Hebert Candies. You can do better than that. Here&#8217;s a quick tip: stop using the same <a href="/blog/ws/2009/08/05/seo-title-tag-formulas">SEO title tag</a> on every page. And here&#8217;s a nice juicy text link because I like you: <a href="http://www.hebertcandies.com/" target="_blank" rel="noopener"><strong>Chocolate Gifts</strong></a>. Hope it helps.</p>
+<p>But the worst SERP performance goes to Ghirardelli.com, with only three Top 20 listings and a paltry two occurrences in the Top 10. I mean, this is a pretty authoritative brand with nearly 29K links. Yet the best they can muster for one of their core product pages, &#8220;chocolate bars,&#8221; is #82. And because of this ineptitude, they&#8217;re forced to use <a href="/ppc">PPC</a> to drive traffic.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9d7f4b5a-c6f3-4aaf-a5d3-18867cd8e71b" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/bad-seo-candy-site.jpg" alt="Bad SEO candy websites" width="602" height="235" /></div>
+</article>
+</div>
+<p>Maybe if Ghirardelli acquired more than 10 measly inbound links to their chocolate bars page it would grab some traction in the SERPs rather than ranking on page nine of Google&#8217;s dead zone. Note the candy bar page for Vosges Haut-Chocolat, which has 4,090 external links. No wonder it ranks page one, #6 in Google.</p>
+<p><img decoding="async" src="../../../../../../images/screenshots/candy-keywords-seo-2.gif" /></p>
+<p><img decoding="async" src="../../../../../../images/screenshots/candy-keywords-seo-1.gif" alt="Candy keywords like chocolate bars are popular in the SERPs" /></p>
+<p>If the marketing folks at Ghirardelli were savvy, they&#8217;d bolt on a blog and start creating content around the top chocolate-related <a href="/seo-keyword">SEO keywords</a> on the above list, as well as for sugary <a href="/long-tail-keywords" target="_blank" rel="noopener">long tail keywords</a> (see what Candyaddict.com is doing). Then, at the very least, they&#8217;d have a chance of ranking for keywords they should be targeting and should be ranking for given the strength of their website.</p>
+<p>They should also get to work building some quality deep links to their link poor pages because a paltry 10 inbound links just isn&#8217;t going to cut it in the dog-eat-bacon chocolate truffles world of the hard candy vertical.<em><strong><br />
+</strong></em></p>
+<h2>Attention: Top SEO Candy Websites Winners</h2>
+<p>Were you named as one of the Top SEO Candy Websites on our lists? Why not show off your SEO prowess and display one of our <a href="/badges" target="_blank" rel="noopener"><strong>Top SEO Candy Websites Winner Badges</strong></a> on your website.</p>
+<p>&nbsp;</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="353ee462-fa24-4651-8731-a3d5bc246910" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/candy-badge-180x150-1.jpg" alt="WordStream Top SEO Candy Websites Winner" width="180" height="150" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites">Top SEO Candy Websites</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2009/10/29/top-seo-candy-websites/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>12 Ways to Find Someone&#8217;s Personal Email Address</title>
+		<link>https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email</link>
+					<comments>https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2009 05:00:00 +0000</pubDate>
+				<category><![CDATA[Marketing Ideas]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email/</guid>
+
+					<description><![CDATA[<p>If you have someone's name, you can find their personal email address. Sure, it may take some extensive digging and sleuthing, but if it's that important to, it can be had with some good old fashioned organic searching, scanning, and scouring the Internet. Today we'll show you 12 ways to find anyone's personal email.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email">12 Ways to Find Someone&#8217;s Personal Email Address</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Give me someone&#8217;s name, and I&#8217;ll find their personal email address. Sure, it may take some extensive digging and sleuthing, but I&#8217;ll find you eventually. And I&#8217;m not paying to root you out or buying your private info from a lead gen company (though sometimes that would be easier). This is just good old fashioned, organic searching, scanning and scouring the Internet like a Web gumshoe. And not stopping until I ferret out that personal email.</p>
+<h3>How to find someone&#8217;s email address:</h3>
+<ol>
+<li>Google Name + &#8220;Email&#8221;</li>
+<li>Google Name + Place of Work</li>
+<li>Search LinkedIn</li>
+<li>Search their company website</li>
+<li>Use Google&#8217;s site search operator</li>
+<li>Use advanced Google search operators</li>
+<li>Try some &#8220;kitchen sink&#8221; queries</li>
+<li>Check social media profiles</li>
+<li>Check their personal blog</li>
+<li>Check Whois</li>
+<li>Check people search sites</li>
+<li>Message via Twitter or LinkedIn</li>
+</ol>
+<p>We&#8217;ll look at each of these methods in a little more detail, but first:</p>
+<h2>Why is it important to use someone&#8217;s personal email address?</h2>
+<p>If you&#8217;re sending out an important email that you really want to be taken seriously and improve your chances of getting an actual response, you need to go directly to the source. Sending an important, personal email to the <em>info[at]companyX.com</em>, or dumping it into a &#8220;Contact Us&#8221; form is a virtual black hole.</p>
+<p>This is especially true if you&#8217;re trying to get in touch with someone you don&#8217;t know or you&#8217;ve never contacted before. Primary examples of this include:</p>
+<ul>
+<li>Applying for a job</li>
+<li>Any form of outreach, like a link request, interview request for your blog, if you&#8217;re seeking media coverage for a story, etc.</li>
+</ul>
+<p>What&#8217;s more, by taking this extra step and getting directly to the source, you show real initiative and will distinguish yourself from the candidates applying for that same job or requesting that same link.</p>
+<h2>12 Tips and Tricks to Find Anyone&#8217;s Email Address</h2>
+<p>Now, when I say &#8220;personal&#8221; email address, I&#8217;m not talking about a Gmail, Hotmail or AOL account exclusively. I&#8217;m also referring to their personal company email address, Web hosting domain email, blogger mail account, or any Web property email address I can find. Because of the depth and breadth and ubiquity of content sources on the Web, you can find contact information for pretty much anyone who has an email address, even if they don&#8217;t actively promote it on their website. All you have to do is search and keep refining your searches until you strike pay dirt.</p>
+<h2>Let the Hunt Begin</h2>
+<p><strong>1) Basic Name Queries by Googling Emails</strong></p>
+<p>You can start your sleuthing by running a generic search query for someone&#8217;s name. But understand that this approach probably won&#8217;t get you very far, unless the person you&#8217;re seeking has a unique name, like say Jets WR Jerricho Cotchery. However, if that person&#8217;s name is at all common, you&#8217;ll need to add some distinguishing modifiers. Think of it as engaging in the <a href="/long-tail">long tail</a> of name searching.</p>
+<p>Some initial modifiers you should incorporate to narrow and refine your search are:</p>
+<ul>
+<li>[name] + email (or) email address</li>
+<li>[name] + contact (or) contact information (or) contact me</li>
+</ul>
+<p><strong>2) Name Queries with Personal Modifiers</strong></p>
+<p>Now, if that doesn&#8217;t work, get even more granular and add any personal information you may have already or uncovered about this person in your initial search, such as:</p>
+<ul>
+<li>[name] + &#8220;home town&#8221;</li>
+<li>[name] + &#8220;company they work for&#8221;</li>
+</ul>
+<p>You can even mix and match all the above modifiers. If you succeed here, terrific. Mission accomplished. But all too often, this is only the initial stage of your research, as this method yields results less than 10 % of the time. To really find who you&#8217;re looking for, you&#8217;ll need to go corporate.</p>
+<h2>Hunting for Company Email Addresses</h2>
+<p><strong>3) Business Networking Search Queries</strong></p>
+<p>One of the best resources for finding direct contact information is through a company email network. Anyone working for an organization has an in-house email. Now, typically if you&#8217;re searching for someone&#8217;s direct email for a job interview, link outreach or media coverage, you likely know where they work or conduct business already. But if you&#8217;re still in the dark, ZoomInfo and LinkedIn are pretty fertile grounds for harvesting personal information.</p>
+<p>You can either search the websites internal engine or run queries in Google, like so:</p>
+<ul>
+<li>[name] + LinkedIn</li>
+<li>[name] + ZoomInfo</li>
+</ul>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/zoom-info-email-address.gif" width="402" height="376" /></div>
+<p>Notice the quick success I had with a probe of ZoomInfo.</p>
+<p><strong>4) Basic Company Name Queries</strong></p>
+<p>Now, once you get a place of business from their profile, you should visit the company website and start running queries, using the person&#8217;s name in the hope that you&#8217;ll find any indexed document with their email address. Most times, generic name searches yield citations (like so-and-so pitched a gem for the company softball team), not actual email addresses. So again, get more specific with modifiers.</p>
+<ul>
+<li>[name] + email</li>
+<li>[name] + contact</li>
+</ul>
+<p>Adding these modifiers will really boost your chances of finding your target.</p>
+<p><strong>5) Basic Company </strong><strong>Search Operators</strong></p>
+<p>However, if you&#8217;re still coming up short, you&#8217;ll need to roll up your sleeves. This is when I break out my super-sleuth hat and get creative with Google search operators. In the majority of cases, Google information retrieval yields more results than a company&#8217;s internal search. If you&#8217;re not familiar with search operators, read <a href="http://www.google.com/support/websearch/bin/answer.py?hl=en&amp;answer=136861" target="_blank" rel="noopener">this</a>.</p>
+<p>So what you&#8217;ll do now is search Google, using the Google Search Operator Query &#8220;site:companywebsite.com&#8221; as your root and sprinkle in modifiers, like so:</p>
+<ul>
+<li>site:companywebsite.com + [name] + email</li>
+<li>site:companywebsite.com + [name] + contact</li>
+</ul>
+<p><strong>6) Advanced </strong><strong>Company </strong><strong>Search Operators</strong></p>
+<p>Pretty much every organization has a unique, yet uniform company email addresses structure, which you can leverage in your search efforts, using advanced search operators. For example, at WordStream our email structure is “first initial + lastname@wordstream.com.&#8221; But since each company has their own format, you&#8217;ll need to play around with a host of possible email address structures using the root search operator.</p>
+<p><em><strong>Note: </strong>Use the standard format here &#8220;@,&#8221; I&#8217;m using [at] so as not to activate hyperlinks.</em></p>
+<ul>
+<li>site:companywebsite.com + ken.lyons [at] companyname.com</li>
+<li>site:companywebsite.com + kenlyons [at] companyname.com</li>
+<li>site:companywebsite.com + klyons [at] companyname.com</li>
+<li>site:companywebsite.com + ken [at] companyname.com</li>
+<li>site:companywebsite.com + ken_lyons [at] companyname.com</li>
+</ul>
+<p>It&#8217;s important to mention here that the information you&#8217;re seeking with these queries will be bolded in the <a href="/meta-tags">meta tags</a> text snippets, like so:</p>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/find-anyones-email-site-search-operators.png" alt="Find anyone's email site search operators" width="804" height="477" /></div>
+<p><em>An example search engine results page (SERP) with results displayed</em><br />
+<em>for site-search operation results</em></p>
+<p>I&#8217;d say this method yeilds results 80% of the time for me.</p>
+<p><strong>7) Random Kitchen Sink Queries</strong></p>
+<p>However, if you&#8217;re still coming up short, you can drop the company search operator root and pound away with random combinations of the above suggestions. 99% of the time, this is very effective. For example, here&#8217;s a random query I ran for a faculty member at Boston University (note: name is blurred for privacy):</p>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/find-anyones-email-search-operators.png" alt="Find anyone's email search by email domain" width="796" height="472" /></div>
+<p>Notice my query: &#8220;BU [person&#8217;s name] @bu.edu.&#8221; It&#8217;s kind of nonsensical, but nevertheless this query combination succeeded where the other techniques failed, yielding this person&#8217;s email address. Point being, at this stage, I throw everything at the wall to see what sticks.</p>
+<h2>Even More Options to Find an Email Address</h2>
+<p><strong>8) Social Networking Profile Queries</strong></p>
+<p>Another avenue you can explore for personal information are social media profiles. I&#8217;ve had the most success with social sites like Twitter. And chances are that employing the original basic queries that I mentioned above will display if this person has a Twitter profile.</p>
+<ul>
+<li>[name] + Twitter</li>
+</ul>
+<p><strong>9) Personal Website or Blog Search Operators</strong></p>
+<p>Very often, my Web sleuthing reveals a personal website that I didn&#8217;t know existed. Also, people include their personal websites or their blogs on their <a href="/blog/ws/2010/05/03/twitter-marketing-beginner-guide">Twitter</a> or LinkedIn profiles. This provides you a whole new channel to explore to find contact info for them. If you do find a personal site or blog, there&#8217;s often have a contact page or even their email address listed right on the site somewhere. Even still, I prefer a direct line to that person. So if you&#8217;ve explored the site and come up short, navigate back out to Google and run some advanced search operators.</p>
+<ul>
+<li>site:personalblog.com + [name] + email</li>
+<li>site:personalblog.com + [name] + contact</li>
+<li>site:personalblog.com + ken.lyons [at] personalblog.com</li>
+<li>site:personalblog.com + kenlyons [at] personalblog.com</li>
+<li>site:personalblog.com + klyons [at] personalblog.com</li>
+<li>site:personalblog.com + ken [at] personalblog.com</li>
+<li>site:personalblog.com + ken_lyons [at] personalblog.com</li>
+</ul>
+<p><strong>10) Whois Search</strong></p>
+<p>If you&#8217;re still coming up empty after a deep dive of their personal website or blog, go to Network Solutions and run a Whois search for their domain registration data for an email address. 60% of the time, you&#8217;ll find a personal email address here.</p>
+<p>Tools like <a href="https://recordsfinder.com/" target="_blank" rel="noopener">RecordsFinder</a> could also help.</p>
+<p><strong>11) People Search Sites</strong></p>
+<p>Another resource for finding personal contact information are websites such as 123PeopleSearch, Intelius, and PeopleSmart. I&#8217;ve had great luck in the past using this type of free people search to locate the hard-to-find, and some sites allow you to search across multiple countries for personal contact info.</p>
+<p>However, your mileage may vary from one search provider to another, and these days, it&#8217;s getting harder and harder to find reliable, up-to-date information on these sites. As the Web has matured, many of these sites have either gone out of business or offer sub-par results. Sure, you might luck out, but be prepared for a mixed bag in terms of results.</p>
+<p>It&#8217;s always worth checking free people search sites as part of your research, but relying solely on sites like this is a mistake.</p>
+<p><strong>12) If All Else Fails</strong></p>
+<p>Okay, if all else fails, you may have to resort to alternative, less &#8220;direct&#8221; methods like emailing your target through LinkedIn, or @-ting them on Twitter and asking them to follow you back so you can DM them and ask for contact information (if they&#8217;re willing). For me, these are usually last-ditch efforts, which I&#8217;ve resorted to only a handful of times after if I&#8217;ve exhausted all of the other options I detailed in this post. But even though I prefer to send an email to someone&#8217;s personal account, shooting them an unsolicited LinkedIn message to me is still far better than an <em>info[at]companyX.com</em> black hole.</p>
+<p>Point being, 99% of the time if you&#8217;re dogged, persistent, relentless and love the thrill of the chase like me, then ain&#8217;t nothing gonna&#8217; stop you from finding the personal contact information you seek.</p>
+<p>Happy email hunting!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email">12 Ways to Find Someone&#8217;s Personal Email Address</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2009/09/23/find-anyones-personal-email/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SEO Guide for College Websites, Part One</title>
+		<link>https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one</link>
+					<comments>https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one#respond</comments>
+		
+		<dc:creator><![CDATA[Ken Lyons]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2009 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one/</guid>
+
+					<description><![CDATA[<p>The SEO Guide for College Websites explains how to perform effective SEO for college websites and degree pages in order to rank higher in search engines.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one">SEO Guide for College Websites, Part One</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5463fad7-4036-4a12-9fe7-c6ace2adc4bf" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/college-seo-guide.jpg" alt="SEO Guide for College Websites" width="500" height="333" /></div>
+</article>
+</div>
+<p>On the heels of my popular yet somewhat contentious post last week on the <a href="/blog/ws/2009/09/01/top-seo-college-websites-2009">Top College Websites for SEO</a>, I thought I&#8217;d do a follow up to give advice to those colleges that are struggling with <a href="/seo">search engine optimization (SEO)</a>. This <a href="/google-seo-guide">Google SEO guide</a> should give colleges some insight into how best to optimize their websites to rank well in <a href="https://localiq.com/industries/education/" target="_blank" rel="noopener">higher education search verticals</a> and attract more students though search engine marketing.</p>
+<p><strong>NOTE: </strong>This <strong>SEO for College Websites</strong> is the first in a two-part series.</p>
+<h2>SEO University: Best practices for optimizing college degree pages</h2>
+<p>Most college websites publish a bunch of content under a variety of topics: from administrative pages, to course catalogs, to campus news, to research lab micro sites, and so on. But the real bread and butter for universities are their degree and certificate programs. Universities are in the business of selling education and degrees are their product offerings.</p>
+<p>Now, whether you&#8217;re trying to rank your personal blog or the Organic Baby Onesie page for your local children&#8217;s clothing store, the fundamentals of SEO are virtually the same. Put simply, you need content and links. The same holds true for college degree Web pages. So here&#8217;s a detailed guide to help college&#8217;s better optimize their existing degree pages for SEO.</p>
+<h2>Step One: Do Your Keyword Research Homework</h2>
+<p>It&#8217;s been said before, but it bears repeating: keywords are the foundation of all your search marketing efforts. Do a bad job here selecting your keywords and everything else will fail, from your title tag strategy, to content creation, to your <a href="/category/wordstream-blog-tags/Link-Building-Tips-and-Info">link building</a> efforts.</p>
+<p>Now, there are few different approaches you can take to performing effective keyword research:</p>
+<ul>
+<li><strong>Keyword suggestion tools</strong><strong> (good): </strong>Using third party <a href="/keyword-generator">keyword generator tools</a> to suggest keyword ideas</li>
+<li><strong>Competitor site analysis (better):</strong> Finding which keywords work for your competitors is another tactic, is another common approach, but it&#8217;s somewhat flawed. Just because keywords are working for your competitors, doesn&#8217;t mean they&#8217;ll also work for you.</li>
+<li><strong>Actual keyword or query data (best!): </strong>Mining your <a href="/keyword-analytics">keyword analytics</a> or your server log files for proven results</li>
+</ul>
+<p>Now, the reason I advocate using keywords from your actual data is because we at WordStream believe that <a href="/blog/ws/2009/04/07/how-to-ppc-seo#keyword_data">&#8220;keyword research should be personalized and based on real data.&#8221;</a> Rather than guesstimating which searches may or may not drive prospective students to your website, your private search data gives you the actual searches that brought users to your site. That way you can optimize your existing college degree pages to better reflect the traffic driving keywords. Or you can use it to prompt the creation of additional, topically relevant content.</p>
+<p>Now, to back up for a second, I&#8217;m not totally disparaging keyword suggestion tools. They do have their place, including helping with:</p>
+<ul>
+<li><strong>Initial <a href="/keyword-research">keyword research</a></strong> &#8211; for a new site with no search history</li>
+<li><a href="/keyword-discovery"><strong>Keyword discovery</strong></a> &#8211; for keyword stemming or keyword modifiers for content creation, title tags or link building, all of which I&#8217;ll cover in the following sections.</li>
+</ul>
+<p>With that in mind, we&#8217;ve created <a href="/keywords/"><strong>The FREE Keyword Tool</strong></a>, so feel free to bang on it for some new keyword ideas for your own keyword research.</p>
+<p>Step Two: Set Up Your Title Tags</p>
+<p>Title tags are a critical component of <a href="https://www.wordstream.com/blog/ws/2018/07/26/international-seo">good, effective SEO</a>. Having your keywords positioned in your degree page HTML title tags without a doubt will give your pages a huge boost in the search engine results pages (SERPs).</p>
+<p>One example of a college using title tags for SEO pretty effectively is the program page for the Stanford University MBA program page. Let&#8217;s take a look at how they&#8217;re structuring their title tags.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7d9117ba-d8c1-4ab0-9d08-492597aefebb" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/title-tag-college-seo.gif" alt="College html title tag for SEO" width="530" height="115" /></div>
+</article>
+</div>
+<p>Now, the reason I say &#8220;pretty effectively&#8221; is because Stanford&#8217;s approach is good, not great. There&#8217;s certainly some wasted real estate here and missed opportunity. For example, repeating &#8220;MBA Program&#8221; twice is pointless. Duplicating <a href="/keyword">keywords</a> offers no ranking benefit. In fact, keyword duplication hogs up valuable space that could be used for additional keywords prospective students may be searching on.</p>
+<p>My title tag suggestion for Stanford&#8217;s MBA degree page would look something like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eb9c5321-8546-4645-a3c8-420b5b858f59" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/college-seo-title-tag-stanford.gif" alt="College SEO title tag suggestion for Stanford MBA" width="409" height="39" /></div>
+</article>
+</div>
+<p>So why is this title tag better than Stanford&#8217;s current tag? Because this title tag format (which removes duplicates and adds two new related terms) creates more ranking opportunities for additional MBA program-related querieswhile still being able to rank for the primary query &#8220;Stanford MBA Program,&#8221; including:</p>
+<ul>
+<li><strong>Two-word queries: </strong>MBA degree, business degree, graduate degree</li>
+<li><strong>Three-word queries: </strong>MBA degree program, MBA program Stanford, MBA graduate program, MBA graduate degree, graduate business degree</li>
+</ul>
+<p>In short, my recommendation for universities is to develop and test a variety of SEO title tag formulas, choose a winner (one that boosts rankings and traffic on a variety of queries) and apply it to all site-wide degree pages. For more on this approach, read my blog post on <a href="/blog/ws/2009/08/05/seo-title-tag-formulas">HTML title tag formulas for SEO</a>.</p>
+<p>Obviously, each page should have it&#8217;s own unique title tag that reflects the page content theme/topic, be it a Ph.D. degree or associates program. For colleges specifically, my SEO title tag formula suggestion would be:</p>
+<p><strong>[Degree]: [Secondary keywords, keyword variations] | [University name]</strong></p>
+<p>Now, many in academia will disagree with back loading the brand here (ie, the school&#8217;s name). But I contend if your goal is to rank well in the SERPs, it&#8217;s much more effective to lead with your primary keywords. Also, if your school name is too long to fit within Google&#8217;s 70 character limit, I&#8217;d suggest front loading it in the meta description (like Stanford does in the example below), so you still get that element of branding, which can be of particular importance for popular universities.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="961f821a-3cf2-40bf-973d-b0975df21c36" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/college-seo-mba-description.gif" alt="College SEO meta description" width="540" height="101" /></div>
+</article>
+</div>
+<p>And though Google truncates title tags after 70 characters with an ellipses, up to 95 characters will get indexed for searching. So even if it gets clipped, your brand will still get factored into the ranking signals and subsequent query algorithm.</p>
+<p>But again, the best advice I can give is to experiment and test. If you&#8217;re adamant about keeping your school name first (like Stanford), don&#8217;t just do it because you&#8217;re self important. Have some evidence to back up your stance. Try testing pages with brand in front and brand in back. See if it changes your ranking and/or <a href="/click-through-rate">click through rate</a>. That&#8217;s the only way to be certain which formula works for your particular degree pages.</p>
+<p><strong>Final Tip: Add Geo Modifiers to Degree Page Title Tags</strong></p>
+<p>If you&#8217;re a state school, a community college or local commuter school, be sure to use geo-targeted keyword modifiers in your titles to capture local queries. For example, I&#8217;ve added the geo modifier &#8220;Boston&#8221; to this Regis College listing:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a3578f7f-afc2-43ad-a4d9-b0ac36972e54" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/college-seo-title-tag-regis.gif" alt="College SEO title tag suggestion for Regis nursing degree" width="436" height="40" /></div>
+</article>
+</div>
+<p>Now, that&#8217;s not the current title tag for the Regis College undergraduate nursing program page. It&#8217;s this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bac5fecb-97d5-452d-94ba-58fed890d8ee" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/seo-college-title-tag.gif" alt="College SEO title tag example" width="561" height="89" /></div>
+</article>
+</div>
+<p>So rather than using a more useful and frequently searched geo modifier like &#8220;Boston,&#8221; Regis mistakenly opts to include the college&#8217;s physical location &#8220;Weston, MA&#8221; in the title tag, which nobody is searching on and is a waste of real estate. &#8220;Boston nursing degree&#8221; is a much more popular query, as evidenced by the fact that Regis is willing to pay to rank for it:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8b6d1420-5599-40ef-bcf8-cbc05ee13f48" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/college-seo-local-search-results.jpg" alt="SEO for college mistakes" width="582" height="288" /></div>
+</article>
+</div>
+<p><strong>Note to Regis: </strong>It would be a whole lot cheaper to just include &#8220;Boston&#8221; in your title tag, sprinkle mentions of &#8220;Boston&#8221; in your page content, build some links to your page with &#8220;Boston nursing degree&#8221; as the anchor text (which I discuss in detail in part two), so that way you can stop paying for clicks. Whether or not you&#8217;re physically located in Boston is irrelevant because geographically you&#8217;re close enough.</p>
+<p>And besides, this isn&#8217;t about where you&#8217;re located on a map, it&#8217;s about where you&#8217;re located in the search results.</p>
+<p><strong><a href="/blog/ws/2009/09/28/seo-guide-for-college-websites-part-two">SEO Guide for College Websites, Part Two:</a> </strong>Get the lowdown on optimizing your college degree page content for search and learn more about the importance of inbound links and where to get them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one">SEO Guide for College Websites, Part One</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2009/09/15/seo-guide-for-college-websites-part-one/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

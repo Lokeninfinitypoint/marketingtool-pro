@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jyll Saskin Gales, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jsaskin/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 29 Sep 2025 16:45:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jyll Saskin Gales, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Run Gmail Ads in 2025</title>
+		<link>https://www.wordstream.com/blog/gmail-ads</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2025 16:36:37 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=93811</guid>
+
+					<description><![CDATA[<p>Understand how Google Gmail Ads work and how you can set them up for your business. </p>
+<p>The post <a href="https://www.wordstream.com/blog/gmail-ads">How to Run Gmail Ads in 2025</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you, like me, have been running Google Ads for quite some time, you may remember something called Gmail Sponsored Promotions (GSP). This was a short-lived option as part of a Display campaign where you could show ads to people within Gmail. And get this: you could target those ads based on the content of people’s emails! As you can imagine, this was highly effective for advertisers but also a serious privacy concern for users. Google nixed that many years ago, and the Gmail placement was eventually folded into Demand Gen and PMax campaigns. Standalone Gmail Ads died&#8230;or so we thought.</p>
+<p>Recently, Google introduced a new option in Demand Gen campaigns that allows you to pick your channels. Demand Gen campaigns can place ads on YouTube, Discover, Gmail, and the Display Network. Now, if you only select the “Gmail” option, you can run ads exclusively on Gmail. This presents a unique opportunity for email marketers, Google Ads practitioners, small business owners, and more.</p>
+<p>In this guide, I&#8217;m going to share everything you need to know about Gmail Ads in 2025 so you can decide if this is the right next step for your marketing strategy.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#gmail-ads">What are Gmail Ads?</a></li>
+<li><a href="#types-of-gmail-ads">What are the different types of Gmail Ads you can run?</a></li>
+<li><a href="#targeting-gmail-ads">How to target users with Gmail Ads</a></li>
+<li><a href="#gmail-bidding">How does bidding work with Gmail Ads?</a></li>
+<li><a href="#create-gmail-campaign">How to create a Gmail-only Google Ads campaign</a></li>
+<li><a href="#gmail-ads-examples">Examples of Gmail Ads</a></li>
+<li><a href="#measuring-gmail-ads">How to know if your Gmail Ads are working</a></li>
+</ul>
+<div id="gmail-ads"></div>
+<h2>What are Gmail Ads?</h2>
+<p>Gmail Ads are ads that show directly in users&#8217; inboxes. When users are on their Promotions or Social tabs in Gmail, the ad will look like they have an email from your business. It will say &#8220;Sponsored&#8221; next to your business name and then display one of your headline options and one of your description options. This is called the “teaser ad.”</p>
+<p>Sometimes, your image, video, or products may be shown, too, before the user even clicks on the ad.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-example.jpg" alt="example Gmail ad" width="309" height="594" class="aligncenter wp-image-93817 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-example.jpg 309w, https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-example-156x300.jpg 156w" sizes="(max-width: 309px) 100vw, 309px" /></p>
+<p style="text-align: center;"><em>An example of Gmail Ads in the &#8220;promotions&#8221; tab of a Gmail inbox. The ad from Google Ads includes an image as part of the teaser ad, while the ad from Wealthsimple is a plain-text teaser ad.</em></p>
+<div id="types-of-gmail-ads"></div>
+<h2>Types of Gmail Ads</h2>
+<p>Since a Gmail Ad is part of a Demand Gen campaign, you can create a <strong>single image ad</strong>, a <strong>carousel image ad</strong>, or a <strong>video ad</strong>. Here is a breakdown of all these different types of Gmail Ads:</p>
+<ul>
+<li><strong>Single image and video ads</strong>: You can have up to five headlines and five descriptions per ad. With an image ad, you can add up to 20 images per ad, and with a video ad, you can add up to five videos per ad. Note that, currently, the Google Ads Help Center says that video ads are not compatible with Gmail, but this is outdated information! Video ads can run in Gmail, though for now, they only serve on mobile devices.</li>
+<li><strong>Carousel image ads</strong>: These ads only get one overall headline and one overall description. This is because when a user clicks on your ad, it will open an email that has multiple “cards” forming your carousel. Each card then has its own image, headline, description, and final URL. Think of this as similar to a Carousel ad you might run on Meta. (This is actually the only place in Google Ads where carousel ads are supported.)</li>
+<li><strong>Product Ads</strong>: If you have a product feed from Google Merchant Center connected to your Google Ads account, you can also choose to include this as part of your ad. You can select this in your Campaign settings.</li>
+</ul>
+<p><strong><span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun SCXW91369322 BCX0"><span class="NormalTextRun SCXW91369322 BCX0"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span></span>Could silly mistakes be hindering your Gmail Ads campaigns?</strong> Find out with our free guide to<a href="https://www.wordstream.com/resources/google-ads-mistakes?cid=Web_WS_InContent_Guide_googleadsmistakes_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener"> six common (but costly) Google Ads mistakes and how to fix them</a>!</p>
+<div id="targeting-gmail-ads"></div>
+<h2>How to target users with Gmail Ads</h2>
+<p>Because Gmail ads are part of a <a href="https://www.wordstream.com/blog/ws/2023/08/22/demand-gen-campaigns" target="_blank" rel="noopener">Demand Gen campaign</a>, you have a variety of <a href="https://www.wordstream.com/blog/google-ads-audience-targeting" target="_blank" rel="noopener">audience targeting options</a> available to you.</p>
+<ul>
+<li><strong>Google&#8217;s audiences</strong>: You can target using detailed demographics, in-market segments, life event segments, and affinity segments.</li>
+<li><strong>Custom segments</strong>: You can target based on the things people search for, the types of websites they visit, and/or the types of apps they use.</li>
+<li><strong>Your data segments</strong>: You can<a href="https://www.wordstream.com/blog/retargeting-ad-ideas" target="_blank" rel="noopener"> reach people who have visited your website</a>, used your app, interacted with your YouTube content, or are on a customer list you’ve uploaded. You can also target a Google Engaged audience, which is made up of users who have visited your website from Google or YouTube search results.</li>
+<li><strong>Lookalike segments</strong>: You can build a lookalike segment of people who are similar to any of your data segments.</li>
+<li><strong>Basic demographics</strong>: You can narrow your audience further using basic demographics such as age, gender, and parental status.</li>
+<li><strong>Location targeting</strong>: As with any other type of Google Ads campaign, you can use location targeting.</li>
+<li><strong>Optimized targeting:</strong> This option turns your audience <em>targeting</em> into audience <em>signals</em>, giving Google permission to show your Gmail Ads to people who might not match the audiences you&#8217;ve chosen, but who it thinks are likely to convert. Proceed with caution because optimized targeting can quickly consume your budget, leaving little room for the specific audiences you&#8217;ve selected.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet.webp" alt="google ads audience targeting chart" width="929" height="358" class="aligncenter wp-image-91285 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet.webp 929w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet-480x185.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 929px, 100vw" /></p>
+<p>You should note that <strong>content targeting</strong> options are not available to you with Gmail Ads or any Demand Gen campaign. This means:</p>
+<ul>
+<li>No keyword targeting</li>
+<li>No placement targeting (because the placement is Gmail)</li>
+<li>No topics targeting (because, again, you are only targeting the Gmail placement)</li>
+</ul>
+<p>One more tip: If you regularly send out promotional emails, and you have a list of people who have unsubscribed from your emails, I recommend uploading that list to Google Ads and excluding it from your Gmail campaigns. Otherwise, you may end up showing ads in Gmail to people who have unsubscribed from your emails, which creates a poor user experience.</p>
+<p><strong><span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun SCXW91369322 BCX0"><span class="NormalTextRun SCXW91369322 BCX0"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4e7.png" alt="📧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span></span>Be sure your Gmail Ads are hitting the right inboxes</strong> with our free guide to <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteTargetAudience.html?cid=Web_WS_InContent_Guide_TargetAudineceGuide_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener">redefining your target audience</a>!</p>
+<div id="gmail-bidding"></div>
+<h2>How bidding works with Gmail Ads</h2>
+<p>When you set up your Demand Gen campaign, you can choose to optimize for clicks or conversions. If you have enough data in your account, you may also have the option to optimize for conversion value.</p>
+<ul>
+<li>If you are running your Gmail Ads to a <strong>warm audience</strong> that is already familiar with your business, then you should optimize for conversions, either through the Maximize Conversions or Target CPA <a href="https://www.wordstream.com/blog/google-ads-smart-bidding" target="_blank" rel="noopener">bid strategy</a>.</li>
+<li>If you are targeting your ads to a <strong>cold audience</strong> that is not yet familiar with your business, I recommend using the Maximize Clicks or Target CPC bid strategy. Yes, Target CPC! That&#8217;s the newest bid strategy in Google Ads, and it is only available in Demand Gen campaigns.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/02/google-ads-bidding-strategies-smart.jpg" alt="google ads bidding strategies" width="936" height="600" class="aligncenter wp-image-91784 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2022/02/google-ads-bidding-strategies-smart.jpg 936w, https://www.wordstream.com/wp-content/uploads/2022/02/google-ads-bidding-strategies-smart-480x308.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p style="text-align: center;"><em>Gmail Ads only use a few of the fully automated Smart Bidding strategies, shown on the right here.</em></p>
+<p><strong><span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun SCXW27046542 BCX0"><span class="NormalTextRun SCXW27046542 BCX0"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2753.png" alt="❓" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></span><span class="EOP SCXW27046542 BCX0" data-ccp-props="{}"> </span>Wondering which bid strategy might work best for your Google Ads campaigns?</strong> Download our free, <a href="https://www.wordstream.com/resources/smart-bidding?cid=Web_WS_InContent_Guide_SmartBidding_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener">fool-proof guide to Smart Bidding</a>!</p>
+<div id="create-gmail-campaign"></div>
+<h2>How to create a Gmail-only campaign in Google Ads</h2>
+<p>Now that you understand all the basics of Gmail Ads, it&#8217;s time to get started. The process for creating a Gmail-only campaign is simple. Here are the steps you need to follow:</p>
+<ol>
+<li>In Google Ads, <strong>create a new campaign</strong></li>
+<li>Choose the objective &#8220;<strong>create a campaign without guidance</strong>.&#8221;</li>
+<li>Select the <strong>Demand Gen</strong> campaign type. Confirm your conversion goals and proceed to the next step.</li>
+<li>After you enter the various campaign settings like budget, bid strategy, etc., you will be taken to your <strong>ad group settings</strong>.</li>
+<li>One of the options under ad group settings is<strong> channels</strong>. By default, your Demand Gen campaign will be opted into all channels. You’ll want to uncheck the boxes for the Google Display Network, YouTube, and Discover, so that your ads will now only be shown in users&#8217; Gmail inboxes.</li>
+</ol>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/09/gmail-ads-selections.png" alt="gmail ads - channel selection for demand gen" width="895" height="508" class="aligncenter wp-image-93839 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/09/gmail-ads-selections.png 895w, https://www.wordstream.com/wp-content/uploads/2025/09/gmail-ads-selections-480x272.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 895px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://support.google.com/google-ads/answer/15890515?hl=en" target="_blank" rel="noopener">An example</a> of the Demand Gen channel selections. You&#8217;ll want to uncheck everything except Gmail here.</em></p>
+<div id="gmail-ads-examples"></div>
+<h2>Examples of Gmail Ads in the wild</h2>
+<p>Want to see some examples of effective Gmail Ads? Here are a few we ran across!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-teaser.webp" alt="gmail ads - example gmail ad with image" width="294" height="600" class="aligncenter wp-image-93818 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-teaser.webp 294w, https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-teaser-147x300.webp 147w" sizes="(max-width: 294px) 100vw, 294px" /></p>
+<p style="text-align: center;"><em>An example of Gmail ads within the standard inbox. Our Generation is showing a plain text teaser ad, and you can see that organic emails, like the one from PC Express Rapid Delivery, are also eligible to show images as part of their teaser.</em></p>
+<p>If the user clicks to open your ad, to “view the email,” this is called the “expanded ad.” This is where they’ll see your full image(s) and/or video(s) and call-to-action button.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-expanded.webp" alt="google gmail ads - example" width="276" height="564" class="aligncenter wp-image-93820 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-expanded.webp 276w, https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-expanded-147x300.webp 147w" sizes="(max-width: 276px) 100vw, 276px" /></p>
+<p style="text-align: center;"><em>When expanded, the ad from Google Ads is a single-image ad with a “Visit Site” call to action.</em></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-shopping.webp" alt="gmail ads - gmail shopping ads example" width="296" height="600" class="aligncenter wp-image-93819 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-shopping.webp 296w, https://www.wordstream.com/wp-content/uploads/2025/08/gmail-ads-shopping-148x300.webp 148w" sizes="(max-width: 296px) 100vw, 296px" /></p>
+<p style="text-align: center;"><em>When expanded, the ad from Our Generation is a product feed ad, showing 23 different products with a “browse more” option at the bottom of the email. The ads show images, titles, and pricing from the Google Merchant Center feed, as well as certain annotations like “Free Shipping.”</em></p>
+<div id="measuring-gmail-ads"></div>
+<h2>How to know if your Gmail Ads are working</h2>
+<p>To determine whether your Gmail Ads campaign is working, you&#8217;ll want to add a few columns to your report that you may not typically use: <strong>engagements</strong>, <strong>engagement rate</strong>, and <strong>average cost per engagement</strong>.</p>
+<p>Why? When your Gmail ad appears in someone&#8217;s inbox, that counts as an <strong>impression</strong>. If they click to open the ad, that does not actually count as a click; that counts as an <strong>engagement</strong>. Once someone opens the ad and sees the full details, they then have the option to <strong>click</strong> and be taken to your website.</p>
+<ul>
+<li>If your goal is <strong>engagement</strong>, then you should measure the success of your campaign based on its <strong>engagement rate</strong> and <strong>cost per engagement</strong>. A low engagement rate suggests that your headlines and descriptions may need improvement. And because we know that sometimes images can show in the teaser ad, you might also want to try using more engaging imagery. The more engaging your ad is, the more Google will want to show it to people, so focus on <em>increasing</em> engagement rate in order to <em>decrease</em> cost per engagement.</li>
+<li>If your goal is <strong>website visits (clicks)</strong>, then you should measure the success of your campaign based on its <strong>click-through rate</strong> and <strong>cost per click</strong>. A <a href="https://www.wordstream.com/blog/ws/2022/09/14/improve-google-ads-click-through-rate" target="_blank" rel="noopener">low click-through rate</a> suggests that people who were interested enough to expand your ad didn’t find it compelling enough to follow through to your website. Experiment with different calls-to-action and different image and/or video assets to improve this metric. The more people who click on your ad, the more Google will want to show it to people, so focus on <em>increasing</em> click-through rate in order to <em>decrease</em> cost per click.</li>
+<li>If your goal is <strong>conversions</strong>, then you&#8217;ll want to measure success based on <strong>conversion rate</strong> and <strong>cost per conversion</strong>. Remember that Gmail Ads are meant to complement Search or Shopping campaigns. Your conversion metrics will also look very different if you’re targeting a warm audience, like previous website visitors, vs. a cold audience, like an affinity segment. With those caveats in mind, if your campaign has been running for at least four weeks and you have no conversions, you can try changing your bid strategy, optimizing for a micro-conversion that occurs earlier in the customer journey, or testing different audiences.</li>
+</ul>
+<p>Remember, if people don&#8217;t engage, they can&#8217;t click. And if they don&#8217;t click, they definitely can&#8217;t convert. The key takeaway here is to focus on <strong>engagement first</strong>, then focus on <strong>clicks</strong>, and then, if you&#8217;re trying to get conversions, focus on your <strong>conversion metrics</strong>.</p>
+<h2>Try Google Gmail Ads today</h2>
+<p>And there you have it: your ultimate guide to Gmail Ads in 2025. Now the question is: Will you add this to your advertising strategy this year? Results of the improved versions of Gmail Ads within Demand Gen campaigns indicate that you should! Just be sure to set your goals and solidify your tracking and creative assets ahead of time, and you&#8217;ll be set up for success in your customers&#8217; inboxes. For more help with Gmail Ads, see how <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">our solutions</a> can maximize your campaigns no matter the placement or channel.</p>
+<p>The post <a href="https://www.wordstream.com/blog/gmail-ads">How to Run Gmail Ads in 2025</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google Ads Audience Targeting: 14 Powerful &#038; Underused Strategies</title>
+		<link>https://www.wordstream.com/blog/google-ads-audience-targeting</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Mon, 12 May 2025 12:30:43 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=64658</guid>
+
+					<description><![CDATA[<p>Take your campaigns beyond keyword targeting—yes, even with search ads.</p>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-audience-targeting">Google Ads Audience Targeting: 14 Powerful &#038; Underused Strategies</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When you think of Google Ads targeting, you probably think of keywords. What you probably don’t think of right away is audiences: showing ads to people based on <em>who they are</em> rather than <em>what they’re searching for</em>.</p>
+<p>Audiences are one of the most powerful and underutilized targeting strategies in Google Ads, and you can target audiences in Search, Display, Demand Gen, Video, and Shopping campaigns. <em>(Performance Max campaigns use “audience signals,” which is for <a href="https://www.wordstream.com/blog/google-ads-performance-max-pre-launch-optimizations#:~:text=be%20shy%20with-,audience%20signals,-In%20the%20same">another post</a>!)</em></p>
+<p>In this post, I’m going to cover all of the Google Ads audience targeting options you have so you can determine which is right for your next campaign.</p>
+<h2>Contents</h2>
+<p>The easiest way to understand Google’s audience targeting capabilities is to divide them into four categories:</p>
+<ol>
+<li><a href="#google"><strong>Google’s audience segments</strong></a><br />
+<em>Detailed demographics, in-market, affinity, life events</em></li>
+<li><a href="#yourdata"><strong>Your data segments</strong></a><br />
+<em>Remarketing audiences</em></li>
+<li><a href="#custom"><strong>Custom segments</strong></a><br />
+<em>Search term-based, website-based, app-based</em></li>
+<li><a href="#other"><strong>Other segments</strong></a><br />
+<em><em>Combined segments, optimized targeting, and audience expansion</em></em></li>
+</ol>
+<p>Let’s explore each one in more detail.</p>
+<div id="google"></div>
+<h2>1. Google’s audience segments</h2>
+<p>Google has four categories of “pre-packaged” audiences, which all advertisers have access to. This is the fastest, easiest way to get your feet wet with audiences.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Not sure which audience type you should prioritize?</strong> Download our free guide on <a href="https://marketing.localiq.com/WSLIQContentDLWebsiteTargetAudience.html?cid=Web_WS_InContent_Guide_TargetAudineceGuide_Download&amp;itm_source=wordstream&amp;itm_medium=blog&amp;itm_campaign=incontent_links" target="_blank" rel="noopener">how to find your target audience</a>!</p>
+<h3>Detailed demographic targeting</h3>
+<p><strong></strong>This type of audience targeting goes beyond the basic age/gender/parental status information to provide deeper targeting options based on life and career stages.</p>
+<p><strong>Examples</strong>:</p>
+<ul>
+<li>Marital status: Married</li>
+<li>Homeownership status: Renters</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-detailed-demographics.png" alt="google ads targeting - detailed demographics" width="600" height="473" class="size-full wp-image-64670 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-detailed-demographics.png 600w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-detailed-demographics-480x378.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<h3>Affinity segment targeting</h3>
+<p>This refers to reaching people who have similar interests, hobbies, and habits. Generally, these are stable over time and great for awareness marketing.</p>
+<p><strong>Examples</strong>:</p>
+<ul>
+<li>Beauty mavens</li>
+<li>Luxury travelers</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-affinity-segments.png" alt="google ads targeting - affinity segments" width="600" height="465" class="size-full wp-image-64672 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-affinity-segments.png 600w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-affinity-segments-480x372.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<div id="in-market"></div>
+<h3>In-market segment targeting</h3>
+<p>In-market segments are people who are getting ready to purchase specific products or services. People are moved into and out of these categories based on their current shopping behavior, making them great for high-intent prospecting campaigns.</p>
+<p><strong>Examples</strong>:</p>
+<ul>
+<li>SEO &amp; SEM services</li>
+<li>Trips to Singapore</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-in-market-segments.png" alt="google ads targeting - in-market segments" width="600" height="466" class="size-full wp-image-64671 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-in-market-segments.png 600w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-targeting-in-market-segments-480x373.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" /></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you taking advantage of all that Google Ads has to offer? </strong>Find opportunities to optimize your account with the <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader"><strong>Free Google Ads Performance Grader.</strong></a></p>
+<h3>Life event targeting</h3>
+<p>As you can expect, this is to target people who are currently going through a significant life transition, such as graduating, getting married, or moving.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li>Getting married soon</li>
+<li>Recently added a dog to a household</li>
+</ul>
+<div id="yourdata"></div>
+<h2>2. Your data segments</h2>
+<p>Google has moved away from using the term “remarketing&#8221; and <a href="https://support.google.com/google-ads/answer/2453998?sjid=17941223970705146471-NA" target="_blank" rel="noopener">renamed this section</a> “your data.” The euphemism is still accurate. <a href="https://www.wordstream.com/google-remarketing">Google remarketing </a>(also known as retargeting) is when you show your Google ads to people who already have a relationship with your business.</p>
+<p>This is one of the most common and generally most profitable paid ads tactics.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-custom-segment-targeting.png" alt="google ads targeting - your data segment targeting" width="720" height="318" class="size-full wp-image-64677 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-custom-segment-targeting.png 720w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-custom-segment-targeting-480x212.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em><a href="https://support.google.com/google-ads/answer/6168766?hl=en#zippy=" target="_blank" rel="noopener">Source</a></em></p>
+<h3>Data segment audiences</h3>
+<p><strong> </strong>There are four types of <a href="https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences">remarketing audiences</a> available in Google Ads:</p>
+<ol>
+<li><strong>Website</strong>: A list of users who’ve interacted with your website</li>
+<li><strong>App</strong>: A list of users who’ve interacted with your app</li>
+<li><strong>YouTube</strong>: A list of users who’ve interacted with your YouTube channel/content</li>
+<li><strong>Customer Match</strong>: A list of users who have given you their personal data (email, phone number, etc.), which you upload into Google Ads</li>
+</ol>
+<p>For more help in this realm, Navah Hopkins provides some <a href="https://www.wordstream.com/blog/ws/2022/03/17/retargeting-campaign-tips">great remarketing campaign tips here</a>.</p>
+<div id="custom"></div>
+<h2>3. Google Ads custom segments</h2>
+<p>Google offers a third kind of unique audience targeting called <a href="https://www.wordstream.com/blog/ws/2022/10/18/google-ads-custom-segments">custom segments</a>. This is a really fascinating intersection between Google&#8217;s data and your business that most people don&#8217;t think about. It lets you take other pieces of information that Google knows about people, but slices and dices it in a way that&#8217;s unique to your business.</p>
+<p>Within <a href="https://www.wordstream.com/blog/ws/2021/04/19/google-custom-audiences">Google Ads custom audience targeting</a>, you have three different options for audience creation:</p>
+<ul>
+<li>The interests and products/services people are <strong>searching</strong> for</li>
+<li>The types of <strong>websites</strong> people browse</li>
+<li>The types of <strong>apps</strong> people use</li>
+</ul>
+<p>For instance, they are a great audience targeting option for <a href="https://www.wordstream.com/blog/ws/2019/05/23/google-display-ads">Display</a>, Demand Gen, and Video campaigns.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-custom-segment-1024x608.webp" alt="google ads audience targeting - custom interest audience" width="1024" height="608" class="aligncenter wp-image-91286 size-large" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-custom-segment-980x581.webp 980w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-custom-segment-480x285.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></p>
+<p>For example, when I launched my Google Ads course, I created a custom segment of people who have searched for queries like <em>google ads course</em>, <em>learn google ads</em>, and <em>google ads certification</em>.</p>
+<p>Then, I created a second custom segment of people who have apps like <em>Google Ads</em> or <em>Meta Ads</em> on their phones. I added both custom segments to a Video campaign to reach new audiences who are likely to be interested in Google Ads training.</p>
+<div id="other"></div>
+<h2>4. More Google Ads audience targeting</h2>
+<p>But wait, there’s more!</p>
+<p>In addition to Google’s audience segments, your data segments, and custom segments, you have even more audience targeting capabilities in Google Ads.</p>
+<h3>Combined segment targeting</h3>
+<p>Google Ads <a href="https://www.wordstream.com/blog/google-ads-audit-pmax-display-video#:~:text=Your%20data%20segments-,Combined%20segments,-Custom%20segments">combined segments</a> lets you put together an audience of people who match multiple audience targeting requirements. Plus, a combined segment can contain a custom segment. The possibilities are endless!</p>
+<p>For example, you can create a combined segment of people who are:</p>
+<ul>
+<li>In-market for athletic shoes OR in-market for activewear</li>
+<li>AND luxury shoppers</li>
+<li>but NOT on my customer list OR website remarketing list</li>
+</ul>
+<h3>Optimized targeting</h3>
+<p>Finally, <a href="https://www.wordstream.com/blog/ws/2021/07/22/google-ads-optimized-targeting">optimized targeting </a>is how you can leverage Google’s machine learning to find new audiences who are likely to help you meet your business goals.</p>
+<p>When you create a Display or YouTube campaign, you will automatically be opted into optimized targeting at the ad group level. The purpose of optimized targeting is to let the algorithms do what they do best, and find pockets of opportunity to get you a better CPA, ROAS, or whatever metric your <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">bid strategy</a> is optimized for (ergo, optimized targeting).</p>
+<h2>Google Ads audience targeting cheat sheet</h2>
+<p>And that&#8217;s it! Here is a summary of all of the Google Ads audience targeting options we covered in this post.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet.webp" alt="google ads audience targeting chart" width="929" height="358" class="aligncenter wp-image-91285 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet.webp 929w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheatsheet-480x185.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 929px, 100vw" /></p>
+<p><strong>Google’s audience segments</strong></p>
+<ol>
+<li>Detailed demographics</li>
+<li>Affinity segments</li>
+<li>In-market segments</li>
+<li>Life events</li>
+</ol>
+<p><strong>Your data segments</strong></p>
+<ol>
+<li>Website remarketing</li>
+<li>App remarketing</li>
+<li>YouTube remarketing</li>
+<li>Customer Match</li>
+</ol>
+<p><strong>Custom segments</strong></p>
+<ol>
+<li>Search term-based</li>
+<li>Website-based</li>
+<li>App-based</li>
+</ol>
+<p><strong>Other</strong></p>
+<ol>
+<li>Combined segments</li>
+<li>Optimized targeting</li>
+<li>Audience expansion</li>
+</ol>
+<p>Use these <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models">customer segmentation models</a> to help improve your audience targeting! And take a look at this guide to learn how <a href="https://www.wordstream.com/blog/google-ads-shared-budgets">shared budgets</a> can help improve your results. Plus, for more help navigating your Google Ads targeting, see how<a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener"> our solutions</a> can maximize your audience optimization strategies!</p>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-audience-targeting">Google Ads Audience Targeting: 14 Powerful &#038; Underused Strategies</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6 Things You Need to Know About Keywords In 2025 (Expert Insights!)</title>
+		<link>https://www.wordstream.com/blog/2025-google-ads-keywords</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 20:44:33 +0000</pubDate>
+				<category><![CDATA[Keyword Research & Tools]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=87064</guid>
+
+					<description><![CDATA[<p>Get ahead of the game with these expert tips and predictions for your Google Ads keywords strategy in 2025.</p>
+<p>The post <a href="https://www.wordstream.com/blog/2025-google-ads-keywords">6 Things You Need to Know About Keywords In 2025 (Expert Insights!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In recent years, we certainly haven&#8217;t seen a shortage of major changes to keywords and matching behavior from Google Ads. From the introduction of close variants to the deprecation of modified broad match, updates to query matching logic, and more, the future of keywords in Google Ads will likely continue to ebb and flow. Today, I&#8217;m going to help you navigate these types of updates and share expert advice on how to prepare for the future of Google Ads keywords.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#google-ads-keyword-trends">6 things to know about Google Ads keywords in 2025</a></li>
+</ul>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><a href="#exact-match">Exact match is the new broad match</a></li>
+<li><a href="#negative-keywords">Negative keywords don&#8217;t work how you think they do</a></li>
+<li><a href="#pmax">You can (finally) exclude your brand from Performance Max</a></li>
+<li><a href="#brand-campaigns">You can use broad match keywords for your brand campaigns</a></li>
+<li><a href="#broad-match">Google wants you to use broad match keywords&#8230;for everything</a></li>
+<li><a href="#search-themes">You can use search themes (instead of keywords) to guide your Performance Max campaigns</a></li>
+</ol>
+</li>
+</ol>
+<ul>
+<li><a href="#future-of-google-ads-keywords">The future of Google Ads keywords beyond 2025 (according to the experts)</a></li>
+<li><a href="#what-to-expect-for-google-ads-keywords">What to expect for Google Ads keywords in 2025</a></li>
+</ul>
+<div id="google-ads-keyword-trends"></div>
+<h2>6 things to know about Google Ads keywords in 2025</h2>
+<p>Here are the six most important things to know about Google Ads keywords in 2025 and beyond.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Get ahead of the latest Google Ads changes</strong> and optimize your account accordingly using our free <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Google Ads Grader</a>!</p>
+<div id="exact-match"></div>
+<h3>1. Exact match is the new broad match</h3>
+<p><strong>What changed</strong>: The way that keyword match types work in Google Ads has changed.</p>
+<p>The definition of exact match used to be &#8220;Ads may show on searches <em>that match the exact term</em> or are close variations of that exact term.&#8221; That’s why it’s called exact match.</p>
+<p>Since 2021, <a href="https://support.google.com/google-ads/answer/7478529?hl=en" target="_blank" rel="noopener">the definition of exact match</a> has been: &#8220;Ads may show on searches<em> that are the same meaning or same intent</em> as the keyword.&#8221; Same name, very different meaning.</p>
+<p>Although this definition switch happened a few years ago, we’ve only been seeing changes in our Google Ads accounts for the last year or so. And it’s pretty shocking!</p>
+<p><strong>What you need to know</strong>: Here is how all three keyword match types work today. Let’s use the keyword <em>digital marketing services</em> for our example.</p>
+<ul>
+<li><strong>Exact match:</strong> Ads will show for searches that <strong>share the same</strong> <strong>meaning</strong> as your keyword. For instance, &#8220;digital marketing services&#8221; could match to a query for <em>google ads agency.</em></li>
+<li><strong>Phrase match:</strong> Ads will show for searches that <strong>include the meaning</strong> of your keyword, where “digital marketing services” could match to a query for <em>who is the best facebook ads freelancer.</em></li>
+<li><strong>Broad match:</strong> Ads will show for searches that <strong>are related to</strong> <strong>the meaning</strong> of your keyword, as in &#8220;digital marketing services&#8221; on broad match could serve to a query for <em>branding agencies in new york.</em></li>
+</ul>
+<p><strong>Watch out!</strong> Even if you’re using exact match keywords, you could end up serving ads on searches you never intended to. For example, one of my clients uses exact match keywords in her<a href="https://www.wordstream.com/blog/ws/2023/11/02/brand-keywords" target="_blank" rel="noopener"> brand search campaign</a>, and a year ago, out of the blue, she started seeing <em>her competitors</em> show up in her search terms report.</p>
+<p>Check your <a href="https://www.wordstream.com/blog/ws/2021/09/16/google-ads-search-terms-report-changes" target="_blank" rel="noopener">search terms report</a> regularly, and add negatives as needed. There are also <a href="https://www.wordstream.com/blog/n-gram-google-ads-script" target="_blank" rel="noopener">Google Ads scripts</a> you can add to automatically negate “close variant” matches if it really bothers you.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/keyword-match-type-chart.webp" alt="keyword match types in google ads" width="722" height="477" class="aligncenter wp-image-87112 size-full" /></p>
+<div id="negative-keywords"></div>
+<h3>2. Negative keywords don’t work how you think they do</h3>
+<p><strong>What changed</strong>: <a href="https://support.google.com/google-ads/answer/15070437">Google announced</a> in June 2024 that <a href="https://localiq.com/blog/negative-keywords/" target="_blank" rel="noopener">negative keywords</a> will now block misspellings. Note that as of publishing this article, the “<a href="https://support.google.com/google-ads/answer/2453972/" target="_blank" rel="noopener">About negative keywords</a>” Help Center article has not yet been updated to reflect this change.</p>
+<p><strong>What you need to know</strong>: Until now, if you wanted to block a certain query or a competitor name, you would need to also block every conceivable misspelling to ensure you don’t serve an ad where you don’t want to.</p>
+<p>For example, if you sell Google Ads services and want to ensure you don’t advertise when people are searching for Google Analytics services, you would have had to block not only “analytics” but also “analytic,” “anlytics,” “analitics,” etc. It was like playing a game of whack-a-mole with your search terms report.</p>
+<p>With this new misspellings update, Google is saying that the negative keyword “analytics” will also block all misspelled searches, due to improved semantic understanding.</p>
+<p><strong>Watch out!</strong> It is too soon to know if this feature is working as intended for advertisers. While it’s <a href="https://www.wordstream.com/blog/ws/2023/12/04/google-ads-ai" target="_blank" rel="noopener">powered by AI</a>, some concerns include how this will treat brand names that are intentional misspellings (like Krispy Kreme or Scribd) or words that are homographs (minute [time] / minute [small]) or homophones (ad / add, our / hour).</p>
+<p>If you haven’t reviewed your <a href="https://www.wordstream.com/blog/ws/2018/06/06/negative-keyword-guide" target="_blank" rel="noopener">negative keyword lists</a> in a while, now is the time to do so.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/google-ads-keywords-negative-list.jpg" alt="future of keywords - negative keyword list example" width="893" height="329" class="aligncenter wp-image-87103 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/11/google-ads-keywords-negative-list.jpg 893w, https://www.wordstream.com/wp-content/uploads/2024/11/google-ads-keywords-negative-list-480x177.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 893px, 100vw" /></p>
+<div id="pmax"></div>
+<h3>3. You can (finally) exclude your brand from Performance Max</h3>
+<p><strong>What changed</strong>: The <a href="https://support.google.com/google-ads/answer/14505308?sjid=7170002814080390323-NC" target="_blank" rel="noopener">brand exclusions</a> feature has expanded to include all search and <a href="https://www.wordstream.com/blog/ws/2022/07/05/performance-max-tips" target="_blank" rel="noopener">Performance Max campaigns</a>. If you don’t want to advertise on searches for your brand, a competitor brand, a partner’s brand, etc., Google says it’s now possible with brand exclusions.</p>
+<p><strong>What you need to know</strong>: In the campaign settings for your search or Performance Max campaign, you can create a “brand list” of brands you’d like to exclude. Using the branded terms you select as a guide, Google will exclude you from advertising on all searches related to that brand.</p>
+<p>For example, if you add “YouTube” to your brand list for exclusion, you would not show ads on searches for “youtube,” “yitibe,” or even “google music app.”</p>
+<p><strong>Watch out!</strong> Brand exclusions are helpful, but not foolproof. You’ll still want to check your<a href="https://www.wordstream.com/blog/google-ads-performance-max-updates-2024" target="_blank" rel="noopener"> search themes report</a> (PMax) and search terms report (search) regularly to ensure no brand variants are slipping through the cracks.</p>
+<p>We expect the feature to continue to improve over time.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-brand-exclusion-list.jpg" alt="google ads performance max campaigns - brand exclusions" width="924" height="199" class="aligncenter wp-image-80371 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-brand-exclusion-list.jpg 924w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-brand-exclusion-list-480x103.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 924px, 100vw" /></p>
+<div id="brand-campaigns"></div>
+<h3>4. You can use broad match keywords for your brand campaigns</h3>
+<p><strong>What changed</strong>: <a href="https://support.google.com/google-ads/answer/15070437" target="_blank" rel="noopener">Brand restrictions are now called brand inclusions</a>, and it’s the opposite of brand exclusions. (Huh?)</p>
+<p><strong>What you need to know</strong>: If you want to <em>only</em> advertise on searches that are related to a specific brand, you can <a href="https://support.google.com/google-ads/answer/14453047?sjid=7170002814080390323-NC" target="_blank" rel="noopener">apply brand inclusions</a> to your search campaign with broad match keywords by using a brand list.</p>
+<p>Since <a href="https://www.wordstream.com/keyword-match-types">keyword match types</a> have loosened up considerably, it’s an interesting new strategy to test to keep your brand search campaigns focused on your brand. Or your competitor search campaigns focused on your competitor if you’d like.</p>
+<p><strong>Watch out</strong>! It’s not enough to have a search campaign with broad match keywords; brand inclusions only work with the broad match setting turned on.</p>
+<p>If you accept Google’s recommendation to “add brand inclusions and turn on broad match,” it will change the broad match setting for your campaign.</p>
+<p>And what does that mean? This brings us to our next point: the push for broad match from Google Ads.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f50e.png" alt="🔎" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Need help finding the right keywords?</strong> Try our <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">Free Keyword Tool</a>!</p>
+<div id="broad-match"></div>
+<h3>5. Google wants you to use broad match keywords…for everything</h3>
+<p><strong>What changed</strong>: When you set up a new search campaign, there’s a section in the settings called &#8220;broad match keywords.&#8221; This section isn&#8217;t new, but the default setting is. Now, if you’ve chosen a Smart Bidding strategy, it&#8217;s automatically set to &#8220;on: use broad match keywords for your entire campaign.&#8221; Previously, it was &#8220;off: Use keyword match types.&#8221;</p>
+<p><strong>What you need to know: </strong>When you use the campaign-level broad match keywords setting, this seemingly small step makes two major changes to how your Search campaign runs.</p>
+<p>First, <a href="https://support.google.com/google-ads/answer/13389795?hl=en&amp;sjid=3167375269957238143-NA" target="_blank" rel="noopener">with this setting on</a>, all your keywords will be treated as broad match, regardless of whether you&#8217;ve added them as phrase or exact match. Even if you include match types when typing in your keywords, Google Ads will simply discard your match types when you hit “Save.”</p>
+<p>Second, keywords in campaigns with the broad match setting on will be prioritized as if they were exact match, meaning they&#8217;ll have the <a href="https://support.google.com/google-ads/answer/2756257?sjid=3167375269957238143-NA" target="_blank" rel="noopener">highest priority in the auction</a>.</p>
+<p><strong>Watch out!</strong> The broad match setting is now going to be one of those things you’re going to need to check in every campaign you take on, right up there with search partners and display network.</p>
+<p>The setting isn’t bad, but it will cause a lot of confusion for you if you’re not aware it’s on.</p>
+<div id="search-themes"></div>
+<h3>6. You can use search themes (instead of keywords) to guide your Performance Max campaigns</h3>
+<p><strong>What changed</strong>: Last year, Google launched the <a href="https://support.google.com/google-ads/answer/14767319?hl=en&amp;sjid=15739392587824482937-NC" target="_blank" rel="noopener">search themes beta for Performance Max</a>, giving advertisers the option to add up to 25 “words and phrases your customers use to find your offerings to help Performance Max campaigns reach the right audience.”</p>
+<p><strong>What you need to know</strong>: Performance Max campaigns have a search themes report that shows you the types of searches you’ve been advertising on. Now, you can use search themes as a campaign input, not just an output.</p>
+<p>However, just like an optional audience signal is meant to help guide the automation, ultimately Google will show your ads whenever, and wherever it wants to achieve your goals. Search themes are also optional, and don’t guarantee that you’ll serve ads on those specific searches.</p>
+<p><strong>Watch out!</strong> Adding search themes to Performance Max changes your <a href="https://support.google.com/google-ads/answer/2756257" target="_blank" rel="noopener">campaign prioritization</a>. When more than one campaign could serve an ad on a given query, exact match keywords in search campaigns still have priority #1, but phrase match keywords, broad match keywords, and PMax search themes all share priority #2.</p>
+<p>In a nutshell, search themes can make your PMax campaign as likely to serve as your search campaigns. Without search themes, search campaigns will always beat PMax.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-search-themes.jpg" alt="google ads performance max campaigns - search themes example" width="899" height="225" class="aligncenter wp-image-80373 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-search-themes.jpg 899w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-performance-max-campaigns-search-themes-480x120.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 899px, 100vw" /></p>
+<div id="future-of-google-ads-keywords"></div>
+<h2>Expert advice on the future of Google Ads keywords</h2>
+<p>Given how much has changed in this space over the last two years, I asked five Google Ads experts what this article would look like if I were writing it in another two years. How will keywords work? Will we still have keywords in Google Ads?</p>
+<p>The consensus seems to be that search themes and brand inclusions/exclusions are a harbinger of what’s to come, while match types and negative keywords are on the way out.</p>
+<p>Here is what industry experts are saying about the future of Google Ads keywords beyond 2025.</p>
+<h3>Google Ads keywords may evolve in favor of broad match types and search themes</h3>
+<h4>Menachem Ani, Founder at JXT Group</h4>
+<p>I think that Google will always stay with the intent of the keyword. However, we&#8217;ve seen Google working to go beyond intent for a while. First, with audiences (RLSA), then with algorithmic and predictive intent alongside the search term intent. I&#8217;d say that keywords will continue to be around in some form, but <strong>match types will evolve and likely be replaced with broad match keywords and some form of search themes</strong> as we&#8217;ve seen in Performance Max.</p>
+<h4>Meriem Nacer, Founder at 4M Digital Consulting</h4>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/meriem-4m-digital-consulting-headshot-150x150.webp" alt="google ads keywords - meriem " width="150" height="150" class="wp-image-87115 size-thumbnail alignright" /></p>
+<p>Currently, I&#8217;m seeing challenges with phrase match terms like “5-star hotels London” matching specific hotel names, and “Hotel Bedding” matching with mattress brands. <strong>I predict phrase match will be phased out, leaving only exact and broad matches. Ultimately, more dynamic campaigns like Performance Max will likely dominate. </strong>However, websites and systems are not yet strong enough across smaller accounts, leading to inefficiencies and wasted spend. Smaller businesses and B2B could suffer severely from this.</p>
+<h4>Anne Bui, Founder at Puffer Digital</h4>
+<p>In my opinion, <strong>keywords will become extinct and replaced with clusters of search themes/intent</strong>, rather than the keyword granularity we’re currently used to. That movement can already be seen with the evolution of match types and how keywords are reported in Performance Max campaigns—it’s only a matter of time before Google scales that out across all search targeting. With AI advancements there’s now more search context used via smart bidding in auctions, enabling the shift from looking at keywords at an individualistic level. Gone are the days of selecting every single keyword for our campaigns—and I’ll gladly take that time back!</p>
+<h3>Keywords are just a part of a larger targeting strategy</h3>
+<h4>Navah Hopkins, Brand Evangelist at Optmyzr</h4>
+<p>I&#8217;m a big believer in embracing close variants because they allow you to bid on profitable ideas, versus having to <a href="https://www.wordstream.com/blog/google-ads-cost" target="_blank" rel="noopener">budget for every single keyword</a>. With that said, I do believe<strong> targeting keywords will remain.<img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/11/navah-headshot-150x150.jpg" alt="" width="150" height="150" class="alignright wp-image-87118 size-thumbnail" /></strong></p>
+<p><strong></strong><strong>However, they&#8217;re going to fully morph into signals versus syntax. This means negative keywords, placement exclusions, and audience exclusions will be even more important. </strong>Keyword signals represent additional privacy protections for Google (and other keyword-based ad buys). While it&#8217;s frustrating to lose that lever, I&#8217;d count on negatives remaining the same so that Google can&#8217;t be held liable by mounting litigations.</p>
+<h4>Solange Abraham, Founder at House by Solange</h4>
+<p>In two years, <strong>keywords will likely evolve from direct targeting tools to contextual guides. This shift is evident in Google&#8217;s loosening of match types and focus on search themes. </strong>As AI advances, search engines will better understand user intent, reducing the importance of exact-match keywords. We&#8217;ll see a move towards topic-based content and semantic optimization. Google&#8217;s BERT update, improving natural language processing, supports this trend. Voice search growth necessitates a conversational approach. Keywords won&#8217;t vanish, but their role will diminish as algorithms interpret context more sophisticatedly. Marketers must adapt, prioritizing content strategies over individual keyword targeting.</p>
+<h4>Adrienne Shaver, Co-Founder at Second Banana Bunch</h4>
+<p>In the next two years, keywords will evolve towards a more audience-centric, intent-driven approach. This shift reflects consumers&#8217; desire to be understood, not just targeted. AI advancements will reduce reliance on exact matches, focusing on broader query intent and user context. Traditional keywords won&#8217;t vanish but will integrate with semantic search, creating more intuitive PPC campaigns. <strong>These will utilize broad match strategies and first-party data to align with user intent authentically. </strong>As search automates, PPC professionals must invest in analyzing audience behaviors to grasp the motivations behind searches. This approach will help brands build valued communities rather than mere target audiences, fostering genuine connections through more empathetic, context-aware keyword strategies.</p>
+<div id="what-to-expect-for-google-ads-keywords"></div>
+<h2>What to expect for Google Ads keywords in 2025</h2>
+<p>Needless to say, your traditional approach to<a href="https://www.wordstream.com/blog/ws/2017/08/09/easy-keyword-research-guide" target="_blank" rel="noopener"> keyword research</a> in the coming years will likely need to adapt to AI advancements and changes to the search advertising experience. Experts anticipate that a more holistic approach to keywords that focuses on a few core terms framed up with the right audience targeting is going to be the move in 2025 and beyond. For more help making the most of your search keywords, see how <a href="https://www.wordstream.com/marketing-services?cid=Web_WS_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">our solutions</a> can maximize your campaigns.</p>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/2025-google-ads-keywords">6 Things You Need to Know About Keywords In 2025 (Expert Insights!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Keyword Prioritization Works in Google Ads (+What It Means)</title>
+		<link>https://www.wordstream.com/blog/keyword-prioritization</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:48:44 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=86124</guid>
+
+					<description><![CDATA[<p>Find out the fundamentals behind Google Ads keyword prioritization and a breakdown of what Google's prioritization rules mean for small business advertisers. </p>
+<p>The post <a href="https://www.wordstream.com/blog/keyword-prioritization">How Keyword Prioritization Works in Google Ads (+What It Means)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Have you ever looked at your search terms report and thought, “What the heck is that search doing in that campaign?”</p>
+<p>Or have you seen a previously top-performing search campaign virtually stop spending when you launch Performance Max?</p>
+<p>Google recently updated and clarified what it calls <a href="https://support.google.com/google-ads/answer/2756257?hl=en">keyword and search theme prioritization</a> and if you haven’t yet seen the delightfully confusing chart we&#8217;ll cover below, don’t worry. I’m going to break it down for you right now, clear and simple, plus share what it means for your Google Ads account.</p>
+<h3>Contents</h3>
+<ul>
+<li><a href="#what-is-keyword-prioritization">What is keyword prioritization?</a></li>
+<li><a href="#keyword-matching">What&#8217;s the difference between keyword matching and keyword prioritization?</a></li>
+<li><a href="#google-ads-keyword-prioritization-rules">5 things to know about the Google Ads keyword prioritization rules</a></li>
+<li><a href="#what-keyword-prioritization-means">What keyword prioritization means for small business advertisers</a></li>
+</ul>
+<div id="what-is-keyword-prioritization"></div>
+<h2>What is Google Ads keyword prioritization?</h2>
+<p><a href="https://localiq.com/blog/keyword-research-for-ppc/" target="_blank" rel="noopener">Keyword</a> prioritization is how Google chooses which of your ads to show when a user searches for something that’s relevant to your business.</p>
+<p>Remember, there are a whole bunch of different ways that your search and<a href="https://www.wordstream.com/blog/ws/2022/07/05/performance-max-tips" target="_blank" rel="noopener"> Performance Max ads</a> can matched to user queries, including:</p>
+<ul>
+<li><strong>Keywords </strong>added to a search campaign in<a href="https://www.wordstream.com/blog/google-ads-query-matching-updates" target="_blank" rel="noopener"> broad, phrase, or exact match</a>.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2023/12/11/search-themes-for-performance-max-campaigns" target="_blank" rel="noopener"><strong>Search themes</strong></a> added to a Performance Max campaign.</li>
+<li><strong>Dynamic ad targets</strong> added to a dynamic ad group in a search campaign.</li>
+<li><strong>AI-matching</strong> for Performance Max campaigns without search themes.</li>
+</ul>
+<p>For simplicity’s sake, the rest of this article will simply say “keywords” to refer to any of the ways you become eligible to show ads on Google Search: keywords, search themes, dynamic ad targets, or AI-matching.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-report.webp" alt="google ads keyword prioritization chart" width="484" height="650" class="aligncenter wp-image-86158 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-report.webp 484w, https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-report-480x645.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 484px, 100vw" /></p>
+<div id="keyword-matching"></div>
+<h3>What’s the difference between keyword matching and keyword prioritization in Google Ads?</h3>
+<p>Keyword matching, using<a href="https://www.wordstream.com/blog/ws/2022/10/13/future-of-keyword-match-types" target="_blank" rel="noopener"> keyword match types</a>, is a system that figures out whether or not you’re eligible to show an ad on a user’s search.</p>
+<p>Because of <a href="https://support.google.com/google-ads/answer/7478529?hl=en" target="_blank" rel="noopener">how keyword matching works</a>, it’s common to have multiple keywords in your account that can match with the same query. However, you can only show one search ad at a time.</p>
+<p>For example, let’s say a user searches for “led lightbulbs.” That could match to:</p>
+<ul>
+<li>Your generic lightbulb search campaign, which has the keyword “lightbulb.”</li>
+<li>Your discount lightbulb search campaign, which has the keyword [led lightbulbs on sale].</li>
+<li>Your dynamic ad group in a search campaign, which has ad targets on all of your LED lightbulb product pages.</li>
+</ul>
+<p>How will Google determine which campaign “wins” and shows an ad?</p>
+<p>That’s where keyword prioritization comes in. When multiple ads are eligible to match to a user’s query, an elaborate AI-powered keyword prioritization occurs to determine which campaign, ad group, keyword, and ad are “put forward” into the auction, to compete for that user’s click.</p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f50d.png" alt="🔍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Optimize your keyword list to align with your business&#8217;s priorities using our <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool" target="_blank" rel="noopener">Free Keyword Tool</a>.</p>
+<div id="google-ads-keyword-prioritization-rules"></div>
+<h2>5 things to know about the Google Ads keyword prioritization rules</h2>
+<p>Here are the five pillars of Google Ads keyword prioritization.</p>
+<h3>1. Exact match keywords get top priority</h3>
+<p>If you have an eligible exact match keyword identical to the user’s query, it will be prioritized and enter the auction above any other keywords. Think of this like “old school” exact match still winning the day.</p>
+<p>Remember, the definition of exact match today is that the user’s query must match <em>the intent or meaning</em> of your keyword. For example, if you have the keyword [google ads tool], and the user searches for “AdWords tool,” that would be considered an exact match (close variant), since “<em>google ads</em>” and “<em>adwords</em>” are synonyms. According to keyword matching rules, you would be eligible to show an ad.</p>
+<p>But from a prioritization perspective, “<em>google ads</em>” and “<em>Adwords</em>” do not exactly match—they are not identical. So, your [google ads tool] keyword would not automatically move forward to the auction, especially if you have a keyword like “<em>adwords tool</em>” or even “<em>google ads tool</em>” elsewhere in your account.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-exact-match.webp" alt="keyword prioritization - exact match" width="664" height="243" class="aligncenter wp-image-86161 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-exact-match.webp 664w, https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-exact-match-480x176.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 664px, 100vw" /></p>
+<h3>2. The only time exact match means an<em> identical</em> match</h3>
+<p>It’s clear that “<em>google ads tool</em>” and “<em>adwords tool</em>” are not identical. But what about “<em>google ads tool</em>” and “<em>google ads tools</em>,” the singular versus plural? Or, “<em>google ads tool</em>” versus a 1-letter misspelling, such as “<em>gogle ads tool</em>.&#8221;</p>
+<p>While synonyms, misspellings, and plural iterations of keywords can all “match” to exact match keywords, they are treated differently when we’re talking about keyword prioritization.</p>
+<ul>
+<li><b>Synonyms (google ads versus adwords): Not an identical match, will not receive top priority if it matches an exact match keyword.</b></li>
+<li><strong>Misspellings</strong><strong> (google ads versus gogle ads):</strong> Considered an identical match, will receive top priority when it matches an exact match keyword.</li>
+<li><strong>Plurals</strong><strong> (google ads tool versus google ads tools):</strong> Not an identical match, will not receive top priority if it matches an exact match keyword.</li>
+</ul>
+<p>And what if we’re evaluating “<em>google ads</em>” versus “<em>google ad</em>,” which could be considered a synonym, misspelling, or plural? Who knows!</p>
+<p>I’m serious. The best piece of advice I can give you to wrap your head around keyword prioritization rules is to think of them as a helpful guide when <a href="https://www.wordstream.com/blog/ws/2022/05/10/google-ads-account-structure" target="_blank" rel="noopener">planning your campaign structure</a>, but acknowledge that no matter what, this will all be a bit fuzzy in practice.</p>
+<h3>3. Phrase match, broad match, and search themes share second place</h3>
+<p>Now that we understand that exact match keywords get top priority when the keyword is identical to the user’s search, what happens when you don’t have an identical exact match keyword?</p>
+<p><a href="https://www.wordstream.com/blog/ehanced-cpc-going-away">Google Ads</a> will look for a phrase match keyword, a <a href="https://www.wordstream.com/blog/ws/2015/04/03/broad-match-type" target="_blank" rel="noopener">broad match</a> keyword, or a Performance Max search theme that is identical to the user’s search.</p>
+<p>When we say “identical,” the same rules apply as above: the actual letters and words of your keyword/search themes exactly match what the user typed, including misspellings, not including synonyms or plurals.</p>
+<p>For example, if the user searches for “<em>google ads tool</em>,” and you have the keywords in your account [<em>google ads</em>] and “<em>google ads tol</em>,” and the Performance Max search theme “<em>google ads tool</em>,” the phrase match misspelled keyword “<em>google ads tol</em>” and the Performance Max search theme “<em>google ads tool</em>” would be prioritized. The exact match non-identical keyword [google ads] is not an option for this auction.</p>
+<p>In this example, which ad would move forward to the <a href="https://www.wordstream.com/blog/ws/2011/11/16/how-adwords-works" target="_blank" rel="noopener">Google Ads auction</a>: the search ad with the misspelled phrase match keyword, or the Performance Max ad with the identical search theme?</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-broad-match.webp" alt="google ads keyword prioritization - phrase and broad match" width="664" height="215" class="aligncenter wp-image-86162 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-broad-match.webp 664w, https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-broad-match-480x155.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 664px, 100vw" /></p>
+<h3>4. Ad rank still matters in Google Ads—a lot</h3>
+<p>When you have multiple keywords or search themes at the same prioritization level, the one with the highest ad rank will move forward to the auction.</p>
+<p><a href="https://support.google.com/google-ads/answer/1722122?hl=en" target="_blank" rel="noopener">What’s ad rank, again</a>? The simplified answer for our purposes right now is that ad rank is a calculation of your bids and your <a href="https://www.wordstream.com/blog/ws/2021/07/19/does-quality-score-still-matter" target="_blank" rel="noopener">Quality Score</a>. The higher your bids, the higher your ad rank, and the more likely you are to enter the auction (and, hopefully, win the auction). The higher the quality of your ads, the more likely you are to enter and win the auction as well.</p>
+<p>Therefore, when multiple campaigns in your account are eligible to show an ad and sit at the same prioritization level, the one with the higher ad rank will move forward to the auction and compete to show your ad.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-ad-rank.webp" alt="keyword prioritization - ad rank" width="664" height="197" class="aligncenter wp-image-86163 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-ad-rank.webp 664w, https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-keyword-prioritization-ad-rank-480x142.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 664px, 100vw" /></p>
+<h3>5. AI-powered keyword prioritization: the newest part</h3>
+<p>You can’t talk about new Google Ads features anymore without <a href="https://www.wordstream.com/blog/ai-in-marketing" target="_blank" rel="noopener">talking about AI</a>, so let’s dig into how artificial intelligence powers keyword prioritization today.</p>
+<p>Let’s be honest: although we’ve spent a lot of time discussing what happens with identical matches, the most likely scenario in your account is going to be that the user’s search is <em>not identical </em>to an existing keyword or search theme. This means it <em>could</em> match to many of your keywords, search themes, and dynamic ad targets.</p>
+<p>Enter AI. AI-based keyword prioritization will look at every eligible kind of targeting in your account, including:</p>
+<ul>
+<li>Keywords</li>
+<li>Dynamic ad targets</li>
+<li>Search themes</li>
+<li>Performance Max campaigns without search themes</li>
+</ul>
+<p>and choose the most relevant ones to be considered in the auction.</p>
+<p>“Relevant” doesn’t mean “how identical it is to the keyword.” Relevant also doesn’t mean <a href="https://support.google.com/google-ads/answer/6167118?hl=en" target="_blank" rel="noopener">ad relevance</a>, the component of Quality Score that looks at the relationship between the user’s search and your ad.</p>
+<p>For AI-based keyword prioritization, relevance looks at the <em>meaning</em> of the user’s search, all the keywords in an ad group, and the landing pages within the ad group. From there, machine learning would figure out which ad is most likely to entice that user’s click.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-ai.webp" alt="keyword prioritization - ai" width="664" height="349" class="aligncenter wp-image-86160 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-ai.webp 664w, https://www.wordstream.com/wp-content/uploads/2024/10/keyword-prioritization-ai-480x252.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 664px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f6a8.png" alt="🚨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Get ideas to optimize your account&#8217;s keyword lists and more with our free<a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener"> Google Ads Grader</a>!</p>
+<div id="what-keyword-prioritization-means"></div>
+<h2>What this means: 3 implications of the Google Ads keyword prioritization rules</h2>
+<p>Full disclosure: we are now shifting from Google Ads facts to Jyll Saskin Gales&#8217; opinions. There are many potential implications of Google’s keyword prioritization rules. Here are three I’d like you to consider:</p>
+<h3>1. Lack of control in keyword prioritization</h3>
+<p>First, <strong>you have less control than you think</strong> over what searches you advertise on. Those that embrace automation with a consolidated campaign structure, providing sufficient budget and data integration to power Google’s AI, will see better results over the long term than those that attempt to cling to control. Sure, you could respond to this news by adding thousands of exact match keywords to your account and manually bidding, but you will spend all your time battling negatives and fiddling with bid adjustments, fighting the machine rather than getting the machine working for you. That doesn’t sound like fun or success to me.</p>
+<h3>2. Dynamic Search Ads are less of a priority</h3>
+<p>Second, <strong>Dynamic Search Ads are shafted</strong> in prioritization. For the record, they are also shafted in the search campaign setup process. You can’t create a dynamic ad group in the current Search campaign setup process; you can only add one <em>after</em> the campaign has been created with a standard ad group. Given this and the fact that the search component of Performance Max is already powered by DSAs, I predict that dynamic ad groups will be “upgraded” to Performance Max soon. If you’re an advertiser who leverages a lot of DSAs, you may want to start testing alternate strategies, like broad-match keywords with<a href="https://www.wordstream.com/blog/ws/2022/04/05/responsive-search-ad-copy" target="_blank" rel="noopener"> responsive search ads</a>.</p>
+<h3>3. Ad rank still matters</h3>
+<p>Third, <strong>ad rank is still one of the most important factors </strong>in Google Ads success. While factors like auction competition, user context, and ad assets all matter too, it&#8217;s important to remember that you have the most control over are still your bids and your Quality Score to improve your ad rank regardless of the queries you match with. That’s the funny thing about Google Ads—as much as features and tools change over time, the fundamentals, like Quality Score and <a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding" target="_blank" rel="noopener">bid strategy</a>, still remain the same.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-ad-rank-formula.webp" alt="google ads ad rank formula" width="900" height="283" class="aligncenter wp-image-86159 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-ad-rank-formula.webp 900w, https://www.wordstream.com/wp-content/uploads/2024/10/google-ads-ad-rank-formula-480x151.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h2>When optimizing your keyword lists, consider Google Ads keyword prioritization</h2>
+<p>It can be easy to only focus on your keyword match type mix without considering how Google Ads keyword prioritization can also impact what queries your ads match with. Be sure to save the walkthrough above when you need to quickly predict how your core keywords could align with potential searches (and include it in your <a href="https://www.wordstream.com/blog/google-ads-audit">Google Ads audits</a>). For more help making the most out of your Google Ads keywords, see how <a href="https://localiq.com/demo?cid=Web_LiQ_Any_InContent_Demo_Blog_Demo" target="_blank" rel="noopener">our solutions</a> can maximize your Google Ads campaign success.</p>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/keyword-prioritization">How Keyword Prioritization Works in Google Ads (+What It Means)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Use the Google Ads Library to Spy on Competitors</title>
+		<link>https://www.wordstream.com/blog/google-ads-library</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2024 12:30:14 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=79826</guid>
+
+					<description><![CDATA[<p>Become a super spy and get sleuthing to improve your ads using the Google Ads library (AKA the Google Ads Transparency Center).</p>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-library">How to Use the Google Ads Library to Spy on Competitors</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Let’s go spy on some Google Ads!</p>
+<p><span>How? Google expanded the new Ads Transparency Center, colloquially known as the Google Ads Library.</span></p>
+<p><span>This means that Google now has a searchable ads library, just like Meta and TikTok! This is an exciting and long overdue development for Google Ads practitioners, as we can now quickly find text, image, and video ad inspiration for our campaigns.</span></p>
+<p><span>And spy on our competitors, of course.</span></p>
+<h3><strong>Table of contents</strong></h3>
+<ul>
+<li><a href="#how-to-use-the-google-ads-library">How to use the Google Ads library</a></li>
+<li><a href="#find-competitors-on-google-ads-library">How to use the Google Ads library to find your competitors&#8217; ads</a></li>
+<li><a href="#find-ad-information-on-google-ads-transparency-center">Another way to use the Google Ads Transparency Center to find ad information</a></li>
+<li><a href="#google-ads-library-verification">Google Ads library and advertiser verification: What you need to know</a></li>
+</ul>
+<div id="how-to-use-the-google-ads-library"></div>
+<h2>How to use the Google Ads library</h2>
+<p><span>The first thing to know about the Google Ads library is that it is not actually called the Google Ads library. Instead, you can find all active ads through the <a href="https://adstransparency.google.com/" target="_blank" rel="noopener">Google Ads Transparency Center</a>.</span></p>
+<h3>Search for ads using the Google Ads library</h3>
+<p><span>When searching for ads, you can search by advertiser name or by website URL. I find the website URL search to be much easier and more accurate than trying to weed through advertiser names, since many companies may be verified through a parent company or through their agency.</span></p>
+<p><span>For example, if you try to find ads for the clothing company Gap, you’ll find a whole range of companies with “Gap” in their name, but not <em>the</em> Gap.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-google-ads-transparency-center-home.jpg" alt="google ads library - google ads transparency center screenshot" width="864" height="454" class="aligncenter wp-image-79851 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-google-ads-transparency-center-home.jpg 864w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-google-ads-transparency-center-home-480x252.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 864px, 100vw" /></p>
+<p><span>Add “.com,” however, and it becomes quite clear which one is the Gap clothing company. As you can see, different domain suffixes, like .com vs. .co.uk vs. .ca, will come up separately when you use the website URL search.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-search.jpg" alt="google ads library - refined google ad transparency search example" width="847" height="412" class="aligncenter wp-image-79856 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-search.jpg 847w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-search-480x233.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 847px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Find more ways to get ahead of your competition with our free <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Google Ads Grader</a>!</p>
+<h3>Filter Google Ads library results</h3>
+<p><span>There are four filters you can use in the Google Ads library to help you find what you’re looking for: date range, geography, format, and all topics vs. political ads.</span></p>
+<p><span>I recommend using the date range filter to look at the last 30 days, rather than “Any time,” when looking for ad inspiration. The exception would be if you have a specific reason you want to look back further in time. Perhaps you’d like to get inspiration for your Valentine’s Day ads by looking at ads that ran during last Valentine’s Day. </span></p>
+<p><span>Next, there is a country filter. By default, the Google Ads Transparency Center will filter results to those ads that ran in your country, so be sure to adjust this if needed. For example, I&#8217;m in Canada and I often want to see what US-based advertisers are doing.</span></p>
+<p><span>The third filter lets you search by ad format, image, text, or video. I find this feature to be a bit buggy, so I recommend keeping it on the default, which is all formats.</span></p>
+<p><span>The final filter, all topics vs. political ads, works similarly to the <a href="https://www.wordstream.com/blog/ws/2023/06/06/facebook-ad-library" target="_blank" rel="noopener">Meta Ads library</a>. You’re probably going to want to keep that one on all topics unless you’re managing some kind of political or cause-based campaign.</span></p>
+<div id="find-competitors-on-google-ads-library"></div>
+<h2>How to use the Google Ads library to find your competitors&#8217; ads</h2>
+<p><span>To demonstrate how you can use the Google Ads library to find your competitors (and learn from their wins or mistakes!), let’s use the luxury athleisure company Lululemon as an example.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-example.jpg" alt="google ads library - example of searching lululemon in google ads transparency center" width="836" height="547" class="aligncenter wp-image-79855 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-example.jpg 836w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-example-480x314.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 836px, 100vw" /></p>
+<p><span>You’ll notice that if I type in Lululemon, a whole bunch of verified advertisers and domains show up. This reflects how the business verified itself with Google.</span></p>
+<p><span>I’m interested in <a href="https://www.wordstream.com/blog/ws/2022/04/19/digital-marketing-statistics" target="_blank" rel="noopener">ads for the US market</a>, so I’m going to select the Lululemon.com domain. I could have also used trial and error to determine that the Canada-based “Lululemon Athletica Canada Inc.” manages the US arm of the business.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-see-all-ads.jpg" alt="google ads library - see all ads screenshot" width="797" height="528" class="aligncenter wp-image-79854 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-see-all-ads.jpg 797w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-see-all-ads-480x318.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 797px, 100vw" /></p>
+<p><span>Initially, only a few ads show up when you select an advertiser, and already we can learn a lot about this Google Ads account. </span><span>For example, we now know that Lululemon is leveraging a variety of assets: sitelinks, logo, <a href="https://www.wordstream.com/blog/ws/2022/02/23/how-to-come-up-with-a-business-name" target="_blank" rel="noopener">business name</a>, image, and ratings.</span></p>
+<p><span>We can also see that they are<a href="https://www.wordstream.com/blog/ws/2020/07/29/how-to-promote-a-product" target="_blank" rel="noopener"> advertising a range of product lines</a> for both men and women.</span></p>
+<p><span>By clicking “See all ads” we can start to see thousands of examples of how Lululemon is advertising on Google right now.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-preview.jpg" alt="google ads library - preview by country" width="823" height="545" class="aligncenter wp-image-79853 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-preview.jpg 823w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-preview-480x318.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 823px, 100vw" /></p>
+<p><span>See that photo of a person stretching? That’s a <a href="https://www.wordstream.com/blog/ws/2023/08/22/demand-gen-campaigns" target="_blank" rel="noopener">Discovery ad</a>, so we now know Lululemon is running either <a href="https://www.wordstream.com/blog/ws/2023/05/01/is-performance-max-right-for-you" target="_blank" rel="noopener">Performance Max</a> or Demand Gen campaigns.</span></p>
+<p><span>Showing a human in the center of the picture using the product is an effective way to use imagery in Google Ads; this outperforms static “ecommerce-style” images in Discovery placements via Performance Max and Demand Gen, according to Google’s internal research.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-lululemon.jpg" alt="google ads library - google ad transparency center example search screenshot" width="804" height="536" class="aligncenter wp-image-79848 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-lululemon.jpg 804w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-lululemon-480x320.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 804px, 100vw" /></p>
+<p><span>Scrolling down through the active ads, we see more examples of Search and Discovery placements, including a promotion asset and a Discovery carousel. </span></p>
+<p><span>Next, I’m curious if Lululemon is leveraging video as part of their Google Ads strategy, so I turn on the video filter, and voila! Every video is there from their current brand campaigns, and I can click on any of them to watch for inspiration.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-display-and-discovery.jpg" alt="google ads library - screenshot of display and demand gen discovery ads in google ads transparency center" width="780" height="542" class="aligncenter wp-image-79852 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-display-and-discovery.jpg 780w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-display-and-discovery-480x334.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 780px, 100vw" /></p>
+<p><span>For example, this video ad below has four variations, in both</span> <a href="https://www.wordstream.com/blog/ws/2022/06/03/how-to-advertise-on-youtube" target="_blank" rel="noopener">Display and YouTube placements</a>, which suggests it’s likely being used as an asset in a Performance Max campaign.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-individual-ad.jpg" alt="google ad library - google transparency center individual ad details" width="788" height="535" class="aligncenter wp-image-79850 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-individual-ad.jpg 788w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-individual-ad-480x326.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 788px, 100vw" /></p>
+<p><span>By viewing a company’s active ads and combining it with our knowledge of how Google Ads works, we can learn a lot about any advertiser’s <a href="https://www.wordstream.com/blog/ws/2022/01/19/google-ads-for-small-businesses" target="_blank" rel="noopener">Google Ads strategy</a> from the Google Ads library.</span></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Accelerate your business&#8217;s growth and surpass your competitors with our free <a href="https://marketing.localiq.com/WSLIQContentDLWebsite7StepstoGrowthStrategy.html?cid=Web_WS_InContent_Guide_GrowthStrategy_Download" target="_blank" rel="noopener">Growth Strategy Guide</a>!</p>
+<div id="find-ad-information-on-google-ads-transparency-center"></div>
+<h2>Another way to find ad information on the Google Ads Transparency Center</h2>
+<p><span>While a searchable Google Ads library is a dream come true for PPC practitioners, you can find out even more about a company’s ads when you are served those ads as a user. This is my favorite way to sneak a peek not just at what ads are running, but how various businesses are targeting their ads.</span></p>
+<p><span>Whenever you see an ad on Google, whether it’s on Search, YouTube, Discovery, etc., tap the three dots in the top right-hand corner to pull up My Ad Center.</span></p>
+<p><span>Scroll down to “Why you’re seeing this ad” and take note of the targeting settings. Some options you may see include:</span></p>
+<ul>
+<li><span> </span><span>The time of day</span></li>
+<li><span> </span><span>Your age</span></li>
+<li><span> </span><span>Your current search terms</span></li>
+<li><span> </span><span>Your general location (like your country or city)</span></li>
+<li><span> </span><span>Google’s estimation of your approximate current location</span></li>
+<li><span> </span><span>Google’s estimation of your areas of interest, based on your activity</span></li>
+<li><span> </span><span>Information you gave to the advertiser, which the advertiser provided to Google</span></li>
+<li><span> </span><span>Your similarity to groups of people the advertiser is trying to reach, according to your activity while you were signed in to Google</span></li>
+</ul>
+<p><span>This is a great way to <a href="https://www.wordstream.com/blog/ws/2023/08/21/google-skillshop" target="_blank" rel="noopener">keep your Google Ads skills sharp</a>. As you’re passing time online, check out “why you’re seeing this ad” and try to deduce the advertiser’s targeting settings and, if you can, campaign strategy.</span></p>
+<p><span>For example, I was just served this Discovery ad on my phone from a company called Synthesis. I’d never heard of them before.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-search-ad-example.jpg" alt="google ads library - example my ad center search ad" width="553" height="503" class="aligncenter wp-image-79849 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-search-ad-example.jpg 553w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ad-library-search-ad-example-480x437.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 553px, 100vw" /></p>
+<p><span>My Ad Center tells me that Google thinks I’m interested in “tutoring services” (I’m not), and the “Why you’re seeing this ad” section says that my age, location, and areas of interest were used to target this ad.</span></p>
+<p><span>I’m a parent of a 5-year-old and a baby, and I was recently looking into swimming lessons, gymnastics lessons, and summer camps for my eldest. Yes, on Google Search. These activities likely flagged me as a prime candidate for online activities for my school-age child, though I think “tutoring services” is a stretch.</span></p>
+<p><span>Personally, I find the headline “your child’s superhuman tutor” off-putting rather than enticing, but hey—the algorithm will learn, since I didn’t engage with this ad.</span></p>
+<p><span>Scrolling a bit further, the next ad I see is for a special offer to subscribe to The Times of London newspaper.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-my-ad-center.jpg" alt="google ads library - my ad center" width="498" height="457" class="aligncenter wp-image-79862 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-my-ad-center.jpg 498w, https://www.wordstream.com/wp-content/uploads/2024/02/google-ads-library-my-ad-center-480x440.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 498px, 100vw" /></p>
+<p><span>My husband is British and subscribes to The Guardian, so I’m wondering if some signals got crossed in our household targeting. Let’s check out My Ad Center to see.</span></p>
+<p><span>Apparently, Google thinks I’m interested in Newspapers (correct) and a brand called News UK.</span></p>
+<p><span>I’m seeing this ad due to my location, areas of interest, and—aha!—my similarity to people the advertiser is trying to reach.</span></p>
+<p><span>Since we know that similar segments have been deprecated for a while, that means this advertiser is likely running this ad through a Demand Gen campaign, which offers a Lookalike targeting option. It would make sense for an English newspaper seeking new subscribers abroad to find people similar to existing international subscribers.</span></p>
+<p><span>I see the number 12 everywhere in this ad, so it’s clear they think that the <a href="https://www.wordstream.com/blog/ws/2023/10/27/brand-messaging" target="_blank" rel="noopener">“value” messaging</a> is enough to convert cold traffic. Time will tell if I end up subscribing! But I didn’t click on this ad, either.</span></p>
+<div id="google-ads-library-verification"></div>
+<h2>Advertiser verification and the Google Ads library: What you need to know</h2>
+<p><span>We can’t complete our discussion of the Google Ads library and Google Ads Transparency Center without a word about <a href="https://www.wordstream.com/blog/ws/2023/07/13/google-advertiser-verification" target="_blank" rel="noopener">Google Ads advertiser verification</a>.</span></p>
+<p><span>If you<a href="https://www.wordstream.com/blog/ws/2022/05/10/google-ads-account-structure" target="_blank" rel="noopener"> manage a Google Ads account</a>, then you’ll be familiar with the notification emails informing you that it’s time to verify your account. It’s usually a straightforward process, and you want to complete the steps promptly so that your account doesn’t get suspended.</span></p>
+<p><span>The Google Ads library shows ads from Google Ads accounts that have completed advertiser verification. This means that you may not be able to see certain ads, if the accounts running those ads have not yet gone through the verification process.</span></p>
+<h2>Gain insight (and a competitive edge) with the Google Ads library</h2>
+<p>Clearly, the Google Ads library is a treasure trove of information regarding ads in your industry. With this tool, you can predict what types of Google Ads your <a href="https://www.wordstream.com/blog/competitive-insights">competitors</a> are leveraging, and also get further insight from the My Ad Center. Learn even more tricks in this guide to <a href="https://www.wordstream.com/blog/competitors-ads">spying on your competitors</a>. And if you find that your ads don&#8217;t currently align with what&#8217;s hot in the Google Ads library, see how<a href="https://www.wordstream.com/marketing-services" target="_blank" rel="noopener"> our solutions</a> can help you maximize your business&#8217;s Google Ads strategy!</p>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/google-ads-library">How to Use the Google Ads Library to Spy on Competitors</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Are You Paying Too Much for Your Brand Keywords? 5 Ways to Find Out (&#038; Fix It!)</title>
+		<link>https://www.wordstream.com/blog/ws/2023/11/02/brand-keywords</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 18:48:50 +0000</pubDate>
+				<category><![CDATA[Keyword Research & Tools]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=77001</guid>
+
+					<description><![CDATA[<p>Find out why your brand keyword costs per click may be higher than normal, and learn how to fix it with these five optimization tips. </p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/11/02/brand-keywords">Are You Paying Too Much for Your Brand Keywords? 5 Ways to Find Out (&#038; Fix It!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span>As a Googler for six years and then a Google Ads coach for two years, I have seen thousands of Google Ads accounts. Virtually all of them run branded search campaigns (search campaigns that use variations of your business name as keywords), and about one in 10 complain that their brand keyword costs per click (CPCs) are too high.</span></p>
+<p>Now, that may sound on trend considering <a href="https://www.wordstream.com/blog/ws/2023/05/15/google-ads-benchmarks" target="_blank" rel="noopener">WordStream&#8217;s recent search benchmark data</a> shows that average cost per click has increased for 61% of industries and saw a general year-over-year increase of 5%.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-cost-per-click-chart.jpg" alt="brand keywords - google ads costs year over year" width="842" height="598" class="aligncenter wp-image-77057 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-cost-per-click-chart.jpg 842w, https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-cost-per-click-chart-480x341.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 842px, 100vw" /></p>
+<p style="text-align: center;"><em>Download the full<a href="https://marketing.localiq.com/WSLIQContentDLWebsiteGoogleAdsBenchmarks2023.html?cid=Web_WS_incontent_guide_2023benchmarks_Download&amp;utm_source=wordstream&amp;utm_medium=blog&amp;utm_campaign=incontent_links" target="_blank" rel="noopener"> 2023 Google Ads benchmark report</a> here.</em></p>
+<p>However, keep in mind that brand keywords historically have had a significantly cheaper cost per click than your typical non-branded keywords. That, coupled with the fact that branded keywords convert at a <a href="https://hawksem.com/blog/branded-vs-non-branded-keywords/">100%</a> higher rate than non-branded keywords, it&#8217;s no wonder that businesses want to make the most of these terms with the best bang for their buck.</p>
+<p>If you feel like you&#8217;re in the same boat where your branded keyword costs are high, but you don&#8217;t want to give up on them just yet, you&#8217;re in luck. <span>Here are five of the most common reasons why your branded keywords costs per click are high this year, and how to fix it.</span></p>
+<h2>5 issues causing high brand keyword costs (and how to fix them)</h2>
+<p>Use this guide to diagnose and treat your Google Ads branded keywords with unusually high costs:</p>
+<h3>1. You messed up your <span style="color: #333333; font-size: 22px;">match types</span></h3>
+<p><span>The most common culprit of high CPCs in a branded search campaign is…you’re not actually advertising for queries that align with your brand name.</span></p>
+<p><span>Let’s say you’ve entered your branded keywords into your search campaign like this:</span></p>
+<p><em><span>joe’s awesome business</span></em></p>
+<p><em><span>joe’s business</span></em></p>
+<p><span>That’s called <a href="https://www.wordstream.com/blog/ws/2021/03/29/succeed-with-google-ads-broad-match" target="_blank" rel="noopener">broad match</a>, and it tells Google that you want to advertise on user searches that <em>are related to the concept of </em>Joe’s Awesome Business. It does NOT tell Google that you want to advertise when people are specifically searching for your business; you would need to use phrase match or exact match for that.</span></p>
+<h4>How to know if you’ve messed up your match types</h4>
+<p><span>In <strong>Google Ads</strong>, go to<strong> Keywords</strong>, then click <strong>Search keywords</strong>. Then, look at the <a href="https://www.wordstream.com/blog/ws/2022/10/13/future-of-keyword-match-types" target="_blank" rel="noopener"><strong>Match Type</strong></a> column and ensure it says <strong>Phrase Match</strong> or<strong> Exact Match</strong> next to every keyword in your branded search campaign. Even if you think you used the right match type, it’s easy to accidentally leave off a quotation mark or bracket, leaving you with unintentional broad match keywords.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-keyword-match-type.jpg" alt="branded keywords - keyword match type column screenshot in Google Ads" width="641" height="600" class="aligncenter wp-image-77062 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-keyword-match-type.jpg 641w, https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-keyword-match-type-480x449.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 641px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Use this free guide to find more ways to <a href="https://marketing.wordstream.com/WSLIQContentDLWebsiteHackingGoogleAds.html?cid=Web_Any_BlogInContent_PPC_HackingGoogleAds_Download" target="_blank" rel="noopener">hack Google Ads for better performance</a>.</p>
+<h3>2. You’re not adding negatives</h3>
+<p><span>Unfortunately, just because you have the right match types, it doesn’t mean you’re only advertising on your branded queries.</span></p>
+<p><span>Over the last year, Google has gotten much more liberal with its definition of a “close variant” match—so liberal, in fact, that I’ve heard reports of Google Ads matching <em>competitor names</em> to brand names, even when using phrase or exact match.</span></p>
+<p><span>Let’s say that you’re using the keyword <em>“joe’s awesome business” </em>and Sara’s Fabulous Shop is down the street, selling similar products. Google might match a search for &#8220;<em>sara’s fabulous shop&#8221;</em> to your <em>“joe’s awesome business”</em> keyword, even though we can all agree that this would not fit our definition of a matching phrase. </span></p>
+<p><span>If Google’s algorithm understands the similarity between these two competitors, it will treat them as synonyms, turning your branded search campaign into a competitor search campaign! And, of course, CPCs on <a href="https://www.wordstream.com/blog/ws/2022/06/01/competitor-keyword-analysis" target="_blank" rel="noopener">competitor keywords</a> are always quite high due to low <a href="https://www.wordstream.com/blog/ws/2021/07/19/does-quality-score-still-matter" target="_blank" rel="noopener">Quality Score</a>, and potentially high competition.</span></p>
+<h4>How to know if you’re not adding negatives</h4>
+<p><span>In Google Ads, go to <strong>Keywords</strong>, then click on <strong>Negative keywords</strong> to see if any negatives have been added to your branded search campaign.</span></p>
+<p><span>Whether they have or not, you’ll want to go to <strong>Keywords</strong>, then <strong>Search terms</strong>, and sort descending by the Impressions column for the last 30 days (or 90 days, if your search volume is quite low). Spot anything surprising in there? Add it as a <a href="https://localiq.com/blog/negative-keywords/" target="_blank" rel="noopener">negative keyword</a>.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-negative-keywords-1.jpg" alt="branded keywords - negative keyword in search terms example" width="768" height="327" class="aligncenter wp-image-77064 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-negative-keywords-1.jpg 768w, https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-negative-keywords-1-480x204.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 768px, 100vw" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f50d.png" alt="🔍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> The <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool" target="_blank" rel="noopener">WordStream Free Keyword Tool</a> can help you find keywords and negative keywords for your brand search campaigns!</p>
+<h3>3. Your competitors are bidding on your brand</h3>
+<p><span>Let’s say you’ve got the right match types, you’re adding negatives as needed, your <a href="https://www.wordstream.com/blog/ws/2021/09/16/google-ads-search-terms-report-changes" target="_blank" rel="noopener">Search Terms Report</a> looks good and your <a href="https://www.wordstream.com/blog/ws/2011/07/18/adwords-cost-per-click-too-high" target="_blank" rel="noopener">CPCs are <em>still</em> high</a>.</span></p>
+<p><span>The next most common culprit is that your competitors are bidding on your brand, so there’s competition for your brand keywords. (Less common, but also possible, is that you have such a generic brand name that you’re bidding against other businesses for customers that may or may not even be looking for you.)</span></p>
+<p><span>While this is annoying, it’s perfectly legal as long as they aren’t using your trademarks in the text of the ad itself. The best way to get rid of them is to keep defending your brand—ensure you have over a 90% <a href="https://www.wordstream.com/blog/ws/2023/06/07/impression-share" target="_blank" rel="noopener">impression share</a> in your branded search campaign. By doing so, you’ll drive up <em>their</em> CPCs to the point that it won’t be profitable for them to bid on your brand anymore, and <em>your</em> CPCs will subside once they exit the auction.</span></p>
+<h4>How to know if your competitors are bidding on your brand</h4>
+<p><span>Don’t Google yourself! In Google Ads, go to <strong>Keywords</strong>, then <strong>Auction insights</strong>. If your competitors are bidding on your brand, you’ll see their domains show up here.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/06/google-ads-impression-share-auction-insights.png" alt="brand keywords - auction insights example" width="936" height="323" class="aligncenter wp-image-72497 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/06/google-ads-impression-share-auction-insights.png 936w, https://www.wordstream.com/wp-content/uploads/2023/06/google-ads-impression-share-auction-insights-480x166.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>4. You picked the wrong bid strategy</h3>
+<p><span>Keywords aren’t the only possible reason for high CPCs. Perhaps the reason you’re paying too much for your brand keywords is that you’ve picked the wrong<a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding" target="_blank" rel="noopener"> bid strategy</a>. </span></p>
+<p><span>Google Ads Recommendations will often suggest Target Impression Share, but in my experience, this is a surefire way to blow through lots of budget. I prefer to use Maximize Clicks or Maximize Conversions for branded search campaigns, but these solutions won’t work for every account and can sometimes lead to higher CPCs.</span></p>
+<p><span>If your CPCs are really out of control, switch to Manual CPC with enhanced CPC turned on, and start by setting a Max CPC that’s 25% lower than your actual CPCs. Monitor your Search <a href="https://www.wordstream.com/blog/ws/2023/06/07/impression-share">Impression Share</a> carefully (especially if there are competitors in your auctions), and gradually reduce your bids in 25% increments to bring your CPCs back down.</span></p>
+<h4>How to know if you picked the wrong bid strategy</h4>
+<p><span>In Google Ads, when you’re in a campaign (not an ad group), go to Settings on the left-hand side to see which bid strategy you’re using.</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-bid-strategy-screenshot.jpg" alt="brand keywords - bid strategy selection example" width="927" height="315" class="aligncenter wp-image-77065 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-bid-strategy-screenshot.jpg 927w, https://www.wordstream.com/wp-content/uploads/2023/11/brand-keywords-bid-strategy-screenshot-480x163.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 927px, 100vw" /></p>
+<h3>5. You have a Quality Score issue</h3>
+<p><span>The amount you pay per click is a function of both your bids and your <em>quality</em>. Though not as common in a branded search campaign, it’s worth checking to see if you have a Quality Score issue.</span></p>
+<p style="text-align: left;"><span>Perhaps you didn’t include your brand name in your <a href="https://www.wordstream.com/blog/ws/2022/10/03/how-to-write-exceptional-ppc-ad-copy" target="_blank" rel="noopener">ad copy</a>, so your <a href="https://www.wordstream.com/blog/ws/2022/09/14/improve-google-ads-click-through-rate" target="_blank" rel="noopener">click-through rate</a> is lower than it should be. Or perhaps your ads are fine, but your <a href="https://www.wordstream.com/blog/ws/2022/03/08/landing-page-examples" target="_blank" rel="noopener">landing page</a> is so poor that it’s hurting your Quality Score, and in turn, driving up the CPC Google will require from you for the privilege of showing an ad.</span></p>
+<p><span>In a branded search campaign, your Quality Score for every keyword (if reported) should be a 9 or 10.</span></p>
+<h4>How to know if you have a Quality Score issue</h4>
+<p><span>In Google Ads, go to<strong> Keywords</strong>, then <strong>Search keywords</strong>. Add the following 4 columns to your report: Quality Score, Expected CTR, Ad relevance, and Landing page experience. Quality Score (if reported) should be a 9 or 10 for each keyword; Expected CTR and Ad relevance should both show &#8220;above average,&#8221; and Landing page experience should be &#8220;average&#8221; or &#8220;above average.&#8221;</span></p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-quality-score.jpg" alt="branded keywords - quality score columns" width="900" height="227" class="aligncenter wp-image-77066 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-quality-score.jpg 900w, https://www.wordstream.com/wp-content/uploads/2023/11/branded-keywords-quality-score-480x121.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw" /></p>
+<h2>Consider all options for brand keyword optimization</h2>
+<p>Clearly, the factors at play when it comes to your brand keyword costs go beyond the typical keyword settings. Many factors within your account will impact your brand keyword CPC, so keep an open mind when you&#8217;re optimizing your branded keywords (and check these <a href="https://www.wordstream.com/blog/2025-google-ads-keywords">keyword tips</a>). And, if you&#8217;ve tried looking into all five of these possible culprits, see how <a href="https://www.wordstream.com/marketing-services">WordStream&#8217;s solutions</a> can help you maximize your brand keyword ROI.</p>
+<p>To recap, look at these five things when you find yourself dealing with high brand keyword CPCs:</p>
+<ol>
+<li>Match type</li>
+<li>Negative keywords</li>
+<li>Competition</li>
+<li>Bid strategy</li>
+<li>Quality Score</li>
+</ol>
+<p><input type="hidden" id="hippowiz-ass-injected" value="true" /><input type="hidden" id="hvmessage-toextension-listener" value="none" /></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/11/02/brand-keywords">Are You Paying Too Much for Your Brand Keywords? 5 Ways to Find Out (&#038; Fix It!)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meta Ads vs. Google Ads: 6 Key Differences (+Which Is Better?)</title>
+		<link>https://www.wordstream.com/blog/ws/2023/08/15/meta-ads-vs-google-ads</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2023 13:30:56 +0000</pubDate>
+				<category><![CDATA[Facebook Ads]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=75208</guid>
+
+					<description><![CDATA[<p>Meta Ads and Google Ads can both help you reach new audiences and connect with new customers on widely used platforms. But what are the major differences? We walk through what you need to know to decide which is best for your business. </p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/08/15/meta-ads-vs-google-ads">Meta Ads vs. Google Ads: 6 Key Differences (+Which Is Better?)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As a Google Ads coach, I’ve noticed an increase recently in Meta Ads practitioners looking to start offering Google Ads services to their clients. By launching PPC campaigns across platforms, businesses are finding more opportunity to scale and stronger results.</p>
+<p>While both Google and Meta’s ad platforms offer many of the same capabilities, there are fundamental differences that can trip you up when going from one to the other.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-vs-google-ads.jpg" alt="meta ads vs google ads logos" width="936" height="432" class="aligncenter size-full wp-image-75221" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-vs-google-ads.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-vs-google-ads-480x222.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Here are the top differences I’ve observed between Meta Ads vs. Google Ads in the campaign setup process broken down by:</p>
+<ul>
+<li><a href="#objective">Campaign objectives</a></li>
+<li><a href="#placements">Platforms and placements</a></li>
+<li><a href="#budgets">Budgets</a></li>
+<li><a href="#creative">Creative</a></li>
+<li><a href="#targeting">Targeting</a></li>
+<li><a href="#reporting">Reporting</a></li>
+</ul>
+<p>Let&#8217;s dive in started.</p>
+<div id="objective"></div>
+<h2>Meta Ads vs. Google Ads: Campaign objectives</h2>
+<p>In both ad platforms, when you create a new campaign, the first step is to pick your campaign objective.</p>
+<p>In Meta Ads Manager, the campaign objective <em>is</em> the campaign type. For example, a Traffic campaign or an App promotion campaign will lead to fundamentally different setup processes and campaign capabilities.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-campaign-objective.jpg" alt="meta ads campaign objective in set up" width="642" height="600" class="aligncenter size-full wp-image-75222" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-campaign-objective.jpg 642w, https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-campaign-objective-480x449.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 642px, 100vw" /></p>
+<p>In Google Ads, selecting a campaign objective is optional and, in my opinion, not recommended. This selection allows Google to narrow the options available to you later in the setup process. For example, if you choose “Brand awareness and reach” as an objective, Google Ads will only let you select a Display or Video campaign type at the next step.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-objective.jpg" alt="google ads campaign objective" width="936" height="525" class="aligncenter size-full wp-image-75223" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-objective.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-objective-480x269.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Once you select a campaign objective (or not), the second step is to select a campaign type. This is where you’ll choose between Search, Display, Performance Max, <a href="https://www.wordstream.com/blog/ws/2023/06/12/google-discovery-ads-vs-display">Discovery</a>, etc.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-type.jpg" alt="google ads campaign type in set up" width="936" height="487" class="aligncenter size-full wp-image-75224" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-type.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-campaign-type-480x250.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<div id="placements"></div>
+<h2>Meta Ads vs. Google Ads: Platforms and placements</h2>
+<p>As you probably know, Google Ads allows you to set up Search campaigns so that you can show ads to people based on what they’re searching for. Meta Ads does not have a Search equivalent across its platforms like Facebook, Instagram, and WhatsApp.</p>
+<p>However, it’s a common misconception that Google Ads only run on Google platforms like Search, <a href="https://www.wordstream.com/blog/ws/2020/08/17/youtube-ad-placement-targeting">YouTube</a>, Gmail, etc. Google Ads can also run on Search partner sites (non-Google websites that use Google’s technology to power their on-site search). Video Ads can also run on video partner sites (similar concept). And of course, there’s the <a href="https://www.wordstream.com/blog/ws/2020/03/16/google-display-network-mistakes">Google Display Network</a>, a collection of millions of websites that monetize using Google AdSense.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-placements.jpg" alt="a few key google ads placements across the google display network" width="936" height="503" class="aligncenter size-full wp-image-75215" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-placements.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-placements-480x258.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>Meta’s version of the Google Display Network is called the <a href="https://www.facebook.com/business/help/788333711222886" target="_blank" rel="noopener">Meta Audience Network</a>, and it works similarly. In a Meta Ads campaign, you can manually select your various platforms and networks, or just let Meta optimize this for you.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-placement.jpg" alt="a few key meta ads placement options" width="936" height="310" class="aligncenter size-full wp-image-75214" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-placement.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-placement-480x159.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p style="text-align: center;"><em>A few key Meta Ads placement options.</em></p>
+<p>While Google Ads usually lets you opt in or out of partner sites, more and more campaign types (like <a href="https://www.wordstream.com/blog/ws/2023/05/01/is-performance-max-right-for-you">Performance Max</a> and conversion-focused video campaigns) force you into all available placements.</p>
+<p>Another key difference here is that Meta Ads on Facebook and Instagram must be linked to a page or profile. This means that whenever your ad shows up, users can click on your <a href="https://www.wordstream.com/blog/ws/2015/02/20/call-to-action-buttons">call to action</a>, but they can also engage with the post or visit your social profile.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-engagement.jpg" alt="meta ads example with engagement" width="505" height="598" class="aligncenter size-full wp-image-75216" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-engagement.jpg 505w, https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-engagement-480x568.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 505px, 100vw" /></p>
+<p style="text-align: center;"><em>You can see nine people engaged with this ad by adding a reaction.</em></p>
+<p>Contrast this with Google Ads, where Google <a href="https://www.wordstream.com/blog/ws/2023/07/13/google-advertiser-verification">has only just started verifying advertisers</a> and displaying a business name alongside search ads. Given that this feature is still in beta, I recommend that at least one of your headline assets should always include your brand name, since the “call to action” in a search ad is simply clicking on the headline.</p>
+<p><img decoding="async" loading="lazy" src="https://www.wordstream.com/wp-content/uploads/2023/07/google-ads-account-verification-ad-example.jpg" alt="google advertiser verification badge" width="831" height="509" class="aligncenter wp-image-73704 size-full" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/google-ads-account-verification-ad-example.jpg 831w, https://www.wordstream.com/wp-content/uploads/2023/07/google-ads-account-verification-ad-example-480x294.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 831px, 100vw" /></p>
+<p style="text-align: center;"><em> </em><em>An <a href="https://www.seroundtable.com/google-ads-gold-verification-badge-35279.html" target="_blank" rel="noopener">example</a> of the Google Ads verification badge.</em></p>
+<div id="budgets"></div>
+<h2>Meta Ads vs. Google Ads: Budgets</h2>
+<p>There are several differences in the way budgets are set up and spent in Meta Ads vs. Google Ads.</p>
+<h3>Where do you set the budget?</h3>
+<p>In a Meta Ads campaign, your budget is set at the ad set level. You have the option to turn on <a href="https://www.wordstream.com/blog/meta-advantage-plus">Advantage</a> campaign budget, which lets all ad sets within a campaign share a single budget.</p>
+<p>In a Google Ads campaign, your budget is set at the <em>campaign</em> level; there is no option for ad group-level budgets.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-total-campaign-budget.jpg" alt="google ads campaign level budget" width="936" height="439" class="aligncenter size-full wp-image-75213" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-total-campaign-budget.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-total-campaign-budget-480x225.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>What kind of budget can I use?</h3>
+<p>Meta Ads lets you set daily budgets or lifetime budgets, whereas Google Ads campaigns only use daily budgets—except for video campaigns.</p>
+<p>The mentality here is that most Google Ads campaigns are designed to be “always on,” whereas Meta Ads campaigns are more frequently flighted. With either platform, in order to set a lifetime budget, your campaign will need to have an end date.</p>
+<h3>Why is it blowing my budget?!</h3>
+<p>Even if you do select a daily budget, don’t expect the same outcome on both platforms! Meta Ads and Google Ads both treat your daily budget as an <em>average</em> daily budget, not a <em>maximum</em> daily budget.</p>
+<p>Meta Ads may spend up to 25% more than your daily budget on a given day, but over the course of a week, won’t spend more than 7 times your daily budget. Effectively, your “daily budget” on Meta Ads is a <em>weekly</em> budget.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-budget-set.jpg" alt="where to set daily or weekly budget in meta ads" width="748" height="443" class="aligncenter size-full wp-image-75217" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-budget-set.jpg 748w, https://www.wordstream.com/wp-content/uploads/2023/08/meta-ads-budget-set-480x284.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 748px, 100vw" /></p>
+<p>Google Ads may spend up to 100% more than your daily budget on a given day, but over the course of a month, won’t spend more than 30.4 times your daily budget. Effectively, your “daily budget” on Google Ads is a <em>monthly</em> budget.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-daily-budget.jpg" alt="google ads set daily budget screen" width="936" height="364" class="aligncenter size-full wp-image-75212" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-daily-budget.jpg 936w, https://www.wordstream.com/wp-content/uploads/2023/08/google-ads-daily-budget-480x187.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you making the most of your Google Ads budget? Find out with our <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a>.</div></div>
+<div id="creative"></div>
+<h2>Meta Ads vs. Google Ads: Creative</h2>
+<p>In Meta Ads, your <a href="https://www.wordstream.com/blog/ws/2016/05/23/facebook-ad-examples">ad creative</a> consists of a headline, description, primary text, and then your images or video. While you can have multiple headlines, descriptions, etc. within one ad, it’s more common to do ad testing by creating multiple standalone ads.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/06/facebook-ads-not-converting-copy-example-1.jpg" alt="facebook ads not converting - facebook ads copy example" width="496" height="650" class="aligncenter size-full wp-image-73100" srcset="https://www.wordstream.com/wp-content/uploads/2023/06/facebook-ads-not-converting-copy-example-1.jpg 496w, https://www.wordstream.com/wp-content/uploads/2023/06/facebook-ads-not-converting-copy-example-1-480x629.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 496px, 100vw" /></p>
+<p>Contrast this with Google Ads, where responsive is the new normal. What does responsive mean? In Google’s world, a <a href="https://www.wordstream.com/blog/ws/2021/03/11/responsive-search-ads-new-default-google-ads">responsive ad</a> contains a wide variety of assets that Google can piece together to create thousands of different combinations. For example, a <a href="https://www.wordstream.com/blog/ws/2022/04/05/responsive-search-ad-copy">Responsive Search Ad</a> can have up to 15 different headlines and four different descriptions.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2018/07/responsive-search-ads-combinations-report.png" alt="responsive search ads combinations report" width="720" height="395" class="aligncenter size-full wp-image-65275" srcset="https://www.wordstream.com/wp-content/uploads/2018/07/responsive-search-ads-combinations-report.png 720w, https://www.wordstream.com/wp-content/uploads/2018/07/responsive-search-ads-combinations-report-480x263.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Speaking of descriptions, think of the primary text in a Meta Ad as equivalent to a description in a Google Ad. This is where you can actually use full sentences and provide more details about your products or services.</p>
+<div id="targeting"></div>
+<h2>Meta Ads vs. Google Ads: Targeting</h2>
+<p>Here are a few differences in the targeting options available in Meta Ads vs. Google Ads.</p>
+<h3>Lookalikes</h3>
+<p>You’re probably familiar with the concept of a <a href="https://www.wordstream.com/facebook-lookalike-audiences">lookalike audience</a> (Meta Ads verbiage) or a similar segment (Google Ads verbiage). By adding this targeting to your campaign, you can reach new users who exhibit similar online behavior to your existing users.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/lookalike-audience-meta-ads.jpg" alt="how to set up lookalike audience in meta ads" width="791" height="597" class="aligncenter size-full wp-image-75218" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/lookalike-audience-meta-ads.jpg 791w, https://www.wordstream.com/wp-content/uploads/2023/08/lookalike-audience-meta-ads-480x362.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 791px, 100vw" /></p>
+<p>Unfortunately, <a href="https://www.wordstream.com/blog/ws/2022/12/13/google-sunsetting-similar-audiences">Google Ads has said <em>Sayonara</em> to the similar segment</a>; you can no longer add them to campaigns, and as of August 2023, they will stop serving entirely. However, lookalikes are alive and well in Meta Ads, and a common prospecting tactic for those just getting started on the platform.</p>
+<h3>Audience expansion</h3>
+<p>If you’ve ever run paid ads, regardless of platform, you know that <a href="https://www.wordstream.com/blog/ws/2023/05/23/google-marketing-live">automation is taking over</a>. Both Google Ads and Meta Ads will push you hard to automate your audience targeting!</p>
+<p>Google Ads calls this <a href="https://www.wordstream.com/blog/ws/2021/07/22/google-ads-optimized-targeting">Optimized Targeting</a>, Meta Ads calls this <a href="https://www.facebook.com/business/help/128066880933676?id=176276233019487" target="_blank" rel="noopener">Advantage Detailed Targeting</a>. Both settings are often turned on by default and give the platform permission to show your ads to people beyond your audience selections who it thinks are likely to convert. I recommend testing it; sometimes it works well, sometimes it doesn’t but you never know until you try. (Learn more about <a href="https://www.wordstream.com/blog/meta-advantage-vs-manual-settings">Meta Advantage+</a>)</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'>How do your Facebook ads stack up against your competitors? Find out with our <a href="https://www.wordstream.com/facebook-advertising?cid=Web_Any_InContentTextLink_PPC_FBGrader_FBGrader">Free Facebook Ads Performance Grader</a>!</div></div>
+<div id="reporting"></div>
+<h2>Meta Ads vs. Google Ads: Reporting</h2>
+<p>If you are looking for reporting transparency, Google Ads definitely wins this showdown.</p>
+<h3>Transparency</h3>
+<p>In Meta Ads, reporting is provided at the campaign, ad set, or ad level. Practically, this means that if you add multiple audiences to the same ad set, you will not know how each of those audiences performs, just how the ad set performs overall. While you can create separate ad sets for each audience, this potentially brings other issues with budget, reach, etc.</p>
+<p>In Google Ads, reporting is provided at much more granular levels. If you add <a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">multiple keywords</a>, placements, audiences, etc. to the same ad group, you will still get detailed reporting on how each piece of your targeting puzzle performs. This is immensely helpful for <a href="https://www.wordstream.com/blog/ws/2020/08/24/google-ads-optimization">optimization</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-asset-report-associations-metrics.png" alt="google ads assets report - metrics available in the associations view" width="720" height="333" class="aligncenter size-full wp-image-64511" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-asset-report-associations-metrics.png 720w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-asset-report-associations-metrics-480x222.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>Default attribution windows</h3>
+<p>The default attribution setting when creating a campaign in Meta Ads is seven-day click or one-day view. This means that once someone clicks on your ad, if they convert within seven days, that campaign will take credit. Similarly, if someone views but does not click on your ad, then converts within one day, the campaign will also take credit. This is why your <a href="https://www.wordstream.com/blog/ws/2022/06/23/google-analytics-4-vs-universal-analytics">Google Analytics reporting</a> will never line up with your Meta Ads Manager reporting; Google Analytics can’t “see” those view-through conversions.</p>
+<p>Google Ads generally does not include view-through conversions by default. However, the default click conversion window in Google Ads Manager is 30 days. This is why your Google Analytics reporting will never line up with your Google Ads reporting, either; Google Ads will keep “adding” <a href="https://www.wordstream.com/blog/ws/2023/02/08/google-ads-conversion-tracking-mistakes">conversions</a> over the course of the month.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Find out how Meta Ads + Google Ads can make the most of your marketing in our free guide &gt;&gt; <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite4WaysToMakeGoogleFBWorkBetterTogether.html?cid=Web_Any_BlogInContent_PPC_4WaysBetterTogether_Download">4 Ways to Make Facebook &amp; Google the Perfect Pair</a></div></div>
+<h2>Key differences between Google Ads and Meta Ads</h2>
+<p>When evaluating the different capabilities of <a href="https://www.wordstream.com/facebook-vs-google">Google Ads and Meta Ads</a>, think of them as first cousins rather than distant relatives. They share similar DNA but have diverged over time due to different priorities. If you’re well versed in one platform and looking to get started in the other, this is a friendly reminder to do your due diligence (like reading this article!) so that you don’t get tripped up.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/08/15/meta-ads-vs-google-ads">Meta Ads vs. Google Ads: 6 Key Differences (+Which Is Better?)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google Discovery Ads vs. Display Ads: The Complete Guide + How to Choose</title>
+		<link>https://www.wordstream.com/blog/ws/2023/06/12/google-discovery-ads-vs-display</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2023 13:30:30 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=70527</guid>
+
+					<description><![CDATA[<p>Similarities and differences in formats, targeting, placements, metrics, costs, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/06/12/google-discovery-ads-vs-display">Google Discovery Ads vs. Display Ads: The Complete Guide + How to Choose</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Are you thinking of expanding your Google Ads strategy beyond search? One of the most common campaign types to explore next would be an image-based campaign: Google Discovery or Display.</p>
+<p>I’ve noticed a lot of confusion among business owners and practitioners alike around what’s the same and what’s different between Display and Discovery ads, and when it makes sense to use them. They are definitely not interchangeable!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-display-vs-discovery-campaigns.png" alt="google ads display vs discovery campaigns" width="720" height="390" class="aligncenter size-full wp-image-70535" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-display-vs-discovery-campaigns.png 720w, https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-display-vs-discovery-campaigns-480x260.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>In this ultimate guide to Google Discovery ads vs. Display, we’ll compare these two Google Ads campaign types with regard to:</p>
+<ul>
+<li><a href="#appearance">Appearance</a></li>
+<li><a href="#placement">Placements</a></li>
+<li><a href="#targeting">Targeting</a></li>
+<li><a href="#performance">Performance</a></li>
+<li><a href="#choose">When to use each</a></li>
+</ul>
+<p>Read on to get everything you need to know before adding these ad types to your paid media strategy.</p>
+<p><em><strong>Note:</strong> Google announced Discovery Ads will be upgraded to <a href="https://www.wordstream.com/blog/ws/2023/08/22/demand-gen-campaigns">Demand Gen campaigns</a> in early 2024. We cover what you need to know <a href="https://www.wordstream.com/blog/ws/2023/08/22/demand-gen-campaigns">here</a>.</em></p>
+<div id="appearance"></div>
+<h2>Google Discovery ads vs. Display: Appearance</h2>
+<p>Google Ads Display and <a href="https://www.wordstream.com/blog/ws/2019/05/17/discovery-ads">Discovery campaigns</a> are both image-based formats. To create a Responsive Display ad, a Discovery ad, or a Discovery carousel ad, you provide headlines, descriptions, and images, which Google then adapts to various ad placements—much like a <a href="https://www.wordstream.com/blog/ws/2022/04/05/responsive-search-ad-copy">Responsive Search Ad</a>.</p>
+<p>Here are five subtle ways that Discovery ads differ from Display ads in their appearance:</p>
+<ol>
+<li><strong>Text specs:</strong> Discovery ad headlines can have up to 40 characters whereas Display ad headlines can have up to 30 characters (like search ads). Why? Who knows! But Google’s own Discovery ad best practices suggest “medium length headlines” work best, so don’t feel like you have to use up all those extra characters.</li>
+<li><strong>Image specs:</strong> While Display and Discovery ads both accept square (1:1) and landscape (1.91:1) images, Discovery campaigns also accept portrait (4:5) images. This is because Discovery campaigns were designed to accommodate <a href="https://www.wordstream.com/blog/ws/2022/11/21/how-to-compete-in-facebook-ads">Meta Ads</a> assets. A common way for Google Ads advertisers to get started with Discovery campaigns is to take your existing ad creative from your <a href="https://www.wordstream.com/blog/ws/2022/06/13/facebook-advertising-tips">top-performing Facebook and Instagram ads</a>.</li>
+<li><strong>Video specs:</strong> You have the option to add<a href="https://www.wordstream.com/blog/ws/2022/06/13/video-ad-tools"> video assets</a> to your Display ads, and Google announced all the way back at <a href="https://www.wordstream.com/blog/ws/2022/05/24/google-marketing-live">Google Marketing Live 2022</a> that this feature is coming to Discovery, too—but as of this writing, video assets are not yet compatible with Discovery ads.</li>
+<li><strong>Shopping feed:</strong> One of the most common uses of Display campaigns is running <a href="https://www.wordstream.com/blog/ws/2023/05/17/dynamic-remarketing-for-retail">dynamic remarketing</a>; that is, connecting your Google Merchant Center feed to your Display campaign, and allowing the system to customize the ad creative based on previous user behavior on your website. Discovery campaigns recently launched a beta program that allows advertisers to connect a feed as well, though the campaign will work towards both <a href="https://www.wordstream.com/blog/ws/2019/03/26/prospecting-strategies-ppc-agencies">prospecting</a> and <a href="https://www.wordstream.com/blog/ws/2022/03/17/retargeting-campaign-tips">remarketing</a> using the feed data, not just dynamic remarketing.
+<p style="text-align: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing.png" alt="dynamic remarketing" width="720" height="259" class="aligncenter size-full wp-image-70532" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing.png 720w, https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing-480x173.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /><a href="https://faq.businesstech.fr/en/faq/225-whats-the-difference-between-classic-remarketing-and-dynamic-remarketing" target="_blank" rel="noopener"><em>Source</em></a></p>
+</li>
+<li><strong>Ad format:</strong> In another nod to Meta, Discovery campaigns give you the option of creating a Discovery carousel ad, featuring multiple images, headlines, and links within the same ad unit. Display campaigns do not offer Carousel ads.</li>
+</ol>
+<p><div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f914.png" alt="🤔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Are you taking advantage of all that Google Ads has to offer? <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f914.png" alt="🤔" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Find opportunities to optimize your account with the <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" class="waffle-rich-text-link">Free Google Ads Performance Grader</a><span>.</div></div></span></p>
+<div id="placement"></div>
+<h2>Display vs. Discovery ads: Placements</h2>
+<p>A key difference between <a href="https://www.wordstream.com/blog/ws/2019/05/23/google-display-ads">Google Ads Display campaigns</a> and Discovery campaigns is that Display campaigns show ads across the <a href="https://www.wordstream.com/blog/ws/2020/03/16/google-display-network-mistakes">Google Display Network</a>, whereas Discovery campaigns show ads on Google-owned properties.</p>
+<p>The Google Display Network is a collection of millions of websites and apps that monetize using Google AdSense. This is analogous to the Microsoft Audience Network, LinkedIn Audience Network, or Facebook Audience Network. Some examples of where your Display ads can show are websites like ebay.com, forbes.com, or tmz.com; apps like MyFitnessPal, TextNow, or Wordle; and YouTube. Yes, YouTube is part of the Google Display Network!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2011/11/how-to-use-google-ads-search-vs-display-network.png" alt="how to use google ads - search network vs display network" width="617" height="449" class="aligncenter wp-image-62316" srcset="https://www.wordstream.com/wp-content/uploads/2011/11/how-to-use-google-ads-search-vs-display-network-980x713.png 980w, https://www.wordstream.com/wp-content/uploads/2011/11/how-to-use-google-ads-search-vs-display-network-480x349.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, 100vw" /></p>
+<p>In contrast, Discovery campaigns can only show up in three places: YouTube, Gmail, and the Discover feed. Since these three places are all Google-owned and serve mostly signed-in users, I find <a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">audience targeting</a> to be more accurate in Discovery campaigns vs. Display and traffic quality to be higher.</p>
+<p>Note that there is no placement report in a Discovery campaign, so you won’t know exactly where your ads showed, whereas Display campaigns do provide a detailed “Where ads showed” report.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/display-placement-report.jpg" alt="google display ads report showing where ads showed" width="760" height="600" class="aligncenter size-full wp-image-72588" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/display-placement-report.jpg 760w, https://www.wordstream.com/wp-content/uploads/2023/02/display-placement-report-480x379.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 760px, 100vw" /></p>
+<div id="targeting"></div>
+<h2>Google Discovery ads vs. Display: Targeting</h2>
+<p>Google Display campaigns offer the full range of <a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">Google’s audience and content targeting solutions</a>. You can go as broad or as narrow as you like!</p>
+<p>Keep in mind that Google recently announced a change to how content targeting works; if you add Placements, Topics, and/or Keywords to your Display campaign content targeting, Google Ads will treat those as “OR” options rather than “AND.” For example, if you add five Topics and five Keywords to your ad group, your Display ad can now serve on any of those five topics OR any of those five keywords.</p>
+<p>Note that audience targeting has always had an “OR” relationship. If you add multiple audiences to your ad group targeting, Google Ads will show your ads to <em>any</em> of those audiences. To create an “AND” relationship between audiences, you must create a Combined segment.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet.png" alt="google ads audience targeting cheat sheet" width="720" height="538" class="aligncenter size-full wp-image-64681" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet.png 720w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet-480x359.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Google Discovery campaigns do not accept content targeting; only audience targeting. Your options are still quite vast: Demographics, affinity, in-market, life events, your data segments, custom segments, and combined segments.</p>
+<p>And of course, you will be opted into <a href="https://www.wordstream.com/blog/ws/2021/07/22/google-ads-optimized-targeting">optimized targeting</a> by default for both campaign types, which you can turn off in your audience settings if you’d like.</p>
+<div id="performance"></div>
+<h2>Display vs. Discovery ads: Performance</h2>
+<p>For those who are used to <a href="https://www.wordstream.com/blog/ws/2021/10/19/ppc-metrics">PPC metrics</a> for search and Shopping campaigns, navigating the performance of image-based formats can be a little tricky.</p>
+<p>You’re familiar with <a href="https://www.wordstream.com/blog/ws/2022/09/14/improve-google-ads-click-through-rate">click-through rate</a> (CTR) and <a href="https://www.wordstream.com/cpc">cost per click</a> (CPC) as key performance metrics, but are you familiar with interaction rate or cost per engagement?</p>
+<h4>Interactions</h4>
+<p>In Google Ads, a “click” is a paid click <em>to your website</em>. When someone clicks on a search ad or a Display ad, they land on your website and you pay Google for that click.</p>
+<p>An “interaction,” however, is <em>any paid click</em> in Google Ads, even if that click does <em>not</em> bring the user to your website. For example, if someone clicks on a Gmail ad, that “opens” the email— it does NOT bring the user to your website. The user would have to read the email and then, if they choose, click the call-to-action button to get to your website.</p>
+<p>Because of this, a Gmail open is an “interaction,” but not a “click.” Gmail is one of the three Discovery placements, so you’ll want to check your interactions, interaction rate, and cost per interaction as well as your clicks, click-through rate, and cost-per-click.</p>
+<h4>Engagements</h4>
+<p>And then there are “engagements” when the user completes a <em>valuable action</em> that is neither a click nor an interaction. For example, watching 10 seconds of your video counts as an engagement, but remember, you don’t pay until someone watches at least 30 seconds of your video, or to the end of the video, whichever comes first.</p>
+<p>Similarly, if someone forwards your Gmail ad to a friend, that’s an engagement. If they “like” your Discovery ad, that’s an engagement. While I don’t generally look at the engagement, engagement rate, and cost per engagement columns, they can be helpful to check for troubleshooting purposes.</p>
+<h3>How can I improve the performance of my Display and Discovery campaign?</h3>
+<p>While Display campaigns and Discovery campaigns both have the usual performance levers—<a href="https://www.wordstream.com/blog/ws/2023/01/17/google-ads-bid-management">bid strategy</a>, <a href="https://www.wordstream.com/blog/ws/2023/02/14/google-ads-budgeting-strategies">budget</a>, targeting, campaign settings, etc.—the most important indicator of success is your <em>ad creative</em>.</p>
+<p>This is a sentiment that will be very familiar to those who run <a href="https://www.wordstream.com/blog/ws/2023/02/07/facebook-vs-tiktok-ads">Meta ads or TikTok ads</a>, for example, but can be trickier for Google Ads practitioners—we’re used to text-based formats!</p>
+<p>Google conducted its own quantitative research on exactly what kind of text and image assets perform best in a Discovery campaign. Since Discovery is included as part of Performance Max, these best practices are also applicable to <a href="https://www.wordstream.com/blog/ws/2023/01/23/optimize-performance-max-campaigns">your Performance Max campaigns</a>.</p>
+<p>Five highlights of this research are:</p>
+<ol>
+<li>Images should focus on a single object, centrally framed.</li>
+<li>Images show real humans in real-life contexts using your products/services.</li>
+<li>No overlaid text on images, or keep overlaid text minimal.</li>
+<li>Headlines and descriptions should be “medium length,” be specific and include a call to action.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2022/01/03/ad-copy-examples">Ad copy</a> that highlights special offers works well, time pressure/FOMO does not.</li>
+</ol>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/tricks-click-ppc-ad-copy-tips-specific-cta-example.png" alt="ppc ad copy tips - example of google ad with specific CTA" width="720" height="360" class="aligncenter size-full wp-image-65059" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/tricks-click-ppc-ad-copy-tips-specific-cta-example.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/tricks-click-ppc-ad-copy-tips-specific-cta-example-480x240.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><strong></strong><em>You can view more great ad copy in these <a href="https://www.wordstream.com/blog/ws/2022/08/24/google-ads-examples">Google Ads examples</a>.</em></p>
+<p>If in doubt, test, test, test! You will get asset-level performance ratings in both Display and Discovery campaigns.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/270d.png" alt="✍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Want even more ad copywriting tips? Download our free guide!</strong></p>
+<p><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" class="waffle-rich-text-link">10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy (with Examples!)</a></strong></p></div></div>
+<p>As far as how to improve your Display campaigns, you can check out these resources:</p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/ws/2020/09/30/best-display-ad-examples">The 17 Best Display Ad Examples</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2019/10/02/display-ads-best-practices">5 Google Ads Display Best Practices That Always Work</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2019/07/09/ad-design">I&#8217;ve Designed 100+ Display Ads: Here&#8217;s What I&#8217;ve Learned</a></li>
+</ul>
+<div id="choose"></div>
+<h2>Display vs. Discovery ads: When to use which</h2>
+<p>Unsure when it would be best to use Discovery ads vs. Display ads? Let&#8217;s explore.</p>
+<h4>When should I use Discovery campaigns?</h4>
+<p>Google Ads Discovery campaigns can only be used with conversion-based Smart Bidding strategies: Maximize Conversions (with optional target CPA) or Maximize Conversion Value (with optional<a href="https://www.wordstream.com/blog/ws/2022/03/02/target-roas"> target ROAS</a>).</p>
+<p>Due to their “bottom of funnel” optimization capabilities, high-quality traffic, and high-quality audience matching, I usually recommend testing Discovery campaigns before Display campaigns. Anecdotally, I’ve noticed that <a href="https://www.wordstream.com/blog/ws/2022/11/07/how-to-lower-cost-per-lead-google-ads">cost per click tends to be higher</a> in Discovery vs. Display, but I’ve also observed <a href="https://www.wordstream.com/blog/ws/2022/08/03/improve-conversion-rates">higher conversion rates</a> and higher lead quality, so it’s worth it.</p>
+<p>If you’d like to use Discovery campaigns on an awareness objective, you can “cheat the system” by creating a conversion action based on page views. This will essentially turn your Maximize Conversions bid strategy into a Maximize Clicks bid strategy.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/12/automated-bidding-strategies-goals.png" alt="best automated bidding strategies for different goals" width="542" height="478" class="aligncenter wp-image-69299" srcset="https://www.wordstream.com/wp-content/uploads/2022/12/automated-bidding-strategies-goals.png 542w, https://www.wordstream.com/wp-content/uploads/2022/12/automated-bidding-strategies-goals-480x423.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 542px, 100vw" /></p>
+<h4>When should I use Display ads?</h4>
+<p>Google Ads Display campaigns have more broad applications, as they can be used with impression-, click- or conversion-based bid strategies. Because of this, Display campaigns can fit any campaign objective:</p>
+<ul>
+<li><strong>Top of funnel:</strong> Viewable CPM</li>
+<li><strong>Middle of funnel:</strong> Manual CPC (with optional enhanced CPC), Maximize Clicks</li>
+<li><strong>Bottom of funnel:</strong> Maximize Conversions (with optional target CPA) or Maximize Conversion Value (with optional target ROAS)</li>
+</ul>
+<p>Some people prefer to go with Display campaigns because they offer a unique feature: Pay per conversion bidding. While there are <a href="https://support.google.com/google-ads/answer/7528254?hl=en#:~:text=You%20can%20choose%20to%20pay,accounts%20that%20meet%20our%20requirements." target="_blank" rel="noopener">plenty of limitations and rules</a> around if and how you can use pay-per-conversion bidding, this is something that performance advertisers may want to experiment with if you’re skeptical about whether Display campaigns are the right fit for your conversion objectives.</p>
+<h2>Google Discovery ads vs. Display ads: Which will you start with?</h2>
+<p>So, there you have it! We&#8217;ve taken an in-depth look at the similarities, differences, and options for Discovery vs. Display campaigns. Hopefully, this shines some light on which campaign type is best for you&#8211;and when to use it.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/06/12/google-discovery-ads-vs-display">Google Discovery Ads vs. Display Ads: The Complete Guide + How to Choose</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Make Google Ads Automation Work for You (Dos &#038; Don&#8217;ts From a Pro)</title>
+		<link>https://www.wordstream.com/blog/ws/2023/03/02/guide-to-automation-in-google-ads</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2023 15:48:24 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=70601</guid>
+
+					<description><![CDATA[<p>The dos and don'ts of properly using automation for bidding, targeting, and ad creative.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/03/02/guide-to-automation-in-google-ads">How to Make Google Ads Automation Work for You (Dos &#038; Don&#8217;ts From a Pro)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>Automation in Google Ads has its pros and cons, depending on what feature you&#8217;re dealing with and which PPC practitioner you&#8217;re talking to. Empiric Marketing LLC founder <a href="https://www.wordstream.com/blog/ws/2023/01/04/google-ads-automation">Brett McHale shares his perspectives here on Google Ads automation</a>, and now, Jyll Saskin Gales shares hers!</em></p>
+<p>&#8212;&#8212;-</p>
+<p>Is Google Ads automation your friend or foe? Even as a self-proclaimed machine learning lover, I will admit that “just automate it” is not <em>always</em> the right answer. In this guide to automation in Google Ads, I&#8217;m going to cover these three areas so you can make the best choices for your ad account and your business:</p>
+<ul>
+<li><a href="#bidding">Automated bidding</a></li>
+<li><a href="#targeting">Automated targeting</a></li>
+<li><a href="#creative">Automated ad creative</a></li>
+</ul>
+<p>Let&#8217;s get started!</p>
+<h2>How to succeed with Google Ads automated bidding</h2>
+<p><a href="https://www.wordstream.com/blog/ws/2018/12/19/google-ads-automated-bidding">Automated bidding</a> is a great way to start trusting the “Google machines” to automate part of your ad buying process.</p>
+<p>Today, there are few use cases where manual bidding would make sense over automated bidding, or what Google Ads calls “Smart Bidding.” Why? Because the purpose of Google Ads isn’t to achieve a certain cost per click; it’s to achieve <em>business results</em>: revenue, profitability, return on investment.</p>
+<p>Because Google knows so much more about its users than you do, and can incorporate millions of signals into determining your bids for every single auction, let the machine do what it does best: Smart Bidding. There are four main metrics you can bid for in Google Ads, and two ways of leveraging Smart Bidding. Let’s break it down.</p>
+<ul>
+<li><strong>Clicks:</strong> Maximize clicks*</li>
+<li><strong>Conversions:</strong> Maximize conversions, Target CPA</li>
+<li><strong>Conversion value:</strong> Maximize conversion value, Target ROAS</li>
+<li><strong>Impressions / Impression Share:</strong> Target CPM*, Target Impression Share*</li>
+</ul>
+<p>In other words, when choosing an automated bid strategy for your Google Ads campaign, you need to let the system know what kind of results you’re looking to get: clicks, conversions, conversion value or impressions. Then, Google can do what it does best and set your individual bids for you to achieve that goal.</p>
+<p><em><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/03/google-ads-bidding-strategies-chart.png" alt="what is target roas - google ads bidding strategies chart" width="700" height="430" class="aligncenter size-full wp-image-58094" srcset="https://www.wordstream.com/wp-content/uploads/2022/03/google-ads-bidding-strategies-chart.png 700w, https://www.wordstream.com/wp-content/uploads/2022/03/google-ads-bidding-strategies-chart-480x295.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 700px, 100vw" /></em></p>
+<p><em>*Note that Google considers those that I’ve starred to be automated bidding strategies, not “Smart Bidding” strategies, because they “don’t include auction time bidding.” For simplicity’s sake, I’ve included all automated bid strategies together here, both “Smart” and “not Smart”</em></p>
+<h3>&#8220;Maximize&#8221; vs &#8220;Target&#8221; bid strategies</h3>
+<p>Once you decide what kind of results you’re looking for, then it’s time to determine how you want the automated bidding to perform. There are two main buckets of Smart Bidding strategies in Google Ads.</p>
+<ul>
+<li><strong>Maximize</strong>, as in “Maximize conversions” or “Maximize conversion value”<strong><br />
+</strong>Here, you have a <strong>fixed budget</strong> and want Google Ads to drive as many results (clicks, conversions, etc.) as possible within that budget, <em>regardless of efficiency.</em><strong><br />
+</strong></li>
+<li><strong>Target</strong>, as in “Target CPA” or “Target ROAS”<br />
+Here, you have a <strong>fixed efficiency</strong> level you must hit (CPA or ROAS), and want Google Ads to do whatever it can to achieve that efficiency, <strong><em>regardless of budget. </em></strong>Google Ads will still stay within <a href="https://www.wordstream.com/blog/ws/2023/02/14/google-ads-budgeting-strategies">your budget</a>, of course, but will prompt you to increase the budget if additional opportunity exists.</li>
+</ul>
+<p>When in doubt, I recommend using the <strong>Maximize conversions</strong> bid strategy. It’s hard to go wrong with that as your starting point.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/maximize-conversion-value-google-ads-bidding.png" alt="maximize conversion value bidding in google ads" width="601" height="392" class="aligncenter wp-image-65325" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/maximize-conversion-value-google-ads-bidding.png 601w, https://www.wordstream.com/wp-content/uploads/2022/10/maximize-conversion-value-google-ads-bidding-480x313.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 601px, 100vw" /></p>
+<p>Keep in mind that even with automated bidding, you still need to monitor and manage your bids! Here are our <a href="https://www.wordstream.com/blog/ws/2023/01/17/google-ads-bid-management">tips for effective bid management in a world of automated bidding</a>.</p>
+<h2>How to win with automated targeting in Search campaigns</h2>
+<p>Automated targeting is the next frontier in scaling your reach with Google Ads. No matter how talented you are at picking the perfect keywords, or leveraging the exact right audiences, you&#8217;re going to be missing opportunities if you go about targeting manually.</p>
+<p>Why? Because with all of its data and machine learning, Google knows so much more about its users (aka your potential customers) than you do. Here are two ways to use automation when targeting your Search campaigns:</p>
+<h3>Dynamic ad groups</h3>
+<p>Just like a Shopping campaign uses your Merchant Center feed instead of keywords to match the right queries to your ads, a Dynamic ad group uses your website instead of keywords to match the right queries to your ads. And just like a Shopping campaign, you can review your <a href="https://www.wordstream.com/blog/ws/2021/09/16/google-ads-search-terms-report-changes">Search terms report</a> to see which queries you’ve shown ads on, and<a href="https://www.wordstream.com/blog/ws/2018/06/06/negative-keyword-guide"> add negative keywords</a> as needed.</p>
+<p>When setting up a Dynamic ad group, you can use your entire website or specific pages as the “Dynamic ad target”</p>
+<p><strong>I’ve got a quick and easy trick to figure out whether Dynamic ad groups may work well for you: </strong></p>
+<p>Go to Keyword Planner &gt; Start with a website, and then type in the URL or URLs for which you&#8217;d like to use a Dynamic ad group.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/keyword-planner-enter-website.png" alt="google ads keyword planner enter website" width="720" height="367" class="size-full wp-image-70604 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/keyword-planner-enter-website.png 720w, https://www.wordstream.com/wp-content/uploads/2023/02/keyword-planner-enter-website-480x245.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>If the keyword recommendations that come back are highly relevant, then go ahead and automate your targeting with a Dynamic ad group.</p>
+<p>However, if the keyword suggestions that come back are not relevant, you probably aren’t ready to leverage a Dynamic ad group, yet, and you should also speak with an <a href="https://www.wordstream.com/blog/ws/2020/09/15/small-business-seo-services">SEO specialist</a> to fix that! You can also review our <a href="https://www.wordstream.com/seo">guide to SEO here</a>.</p>
+<h3>Broad match keywords</h3>
+<p>Another way to leverage automated targeting in Search campaigns is by using broad match keywords. I know, I know, Google wouldn’t classify their <a href="https://www.wordstream.com/blog/ws/2022/06/06/broad-match-smart-bidding">beloved broad match</a> this way, but effectively, this is what broad match does! You provide your keywords, and then Google finds hundreds of <em>other</em> queries that it deems relevant to your keywords.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-budget-strategies-keyword-match-types.png" alt="google ads budget strategies - keyword match types" width="720" height="443" class="aligncenter size-full wp-image-70241" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-budget-strategies-keyword-match-types.png 720w, https://www.wordstream.com/wp-content/uploads/2023/02/google-ads-budget-strategies-keyword-match-types-480x295.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Looking for keywords?</strong></p>
+<p>You can use our <strong><a href="https://www.wordstream.com/keywords?cid=Web_Any_InContentTextLink_Keywords_KWTool">Free Keyword Tool</a> </strong>to find keywords for your PPC campaigns!</p></div></div>
+<h2>How to hit the bullseye with automated targeting in audience-based campaigns</h2>
+<p>When setting up a <a href="https://www.wordstream.com/blog/ws/2023/06/12/google-discovery-ads-vs-display">Display, Discovery</a>, or Video campaign, you likely have your <a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">various audiences picked out</a>. However, Google can build on that for you to automate your targeting via <strong>Optimized targeting</strong> or <strong>Audience expansion</strong>.</p>
+<h3>Optimized targeting</h3>
+<p><a href="https://www.wordstream.com/blog/ws/2021/07/22/google-ads-optimized-targeting">Optimized targeting</a> analyzes your converters, and then finds new users who exhibit similar online behavior to those converters. Think of it like a Similar segment for your converters—and not a moment too soon, since <a href="https://www.wordstream.com/blog/ws/2022/12/13/google-sunsetting-similar-audiences">Similar segments are being deprecated</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/12/optimized-targeting-google-ads.png" alt="how optimized targeting works in google ads" width="720" height="405" class="aligncenter size-full wp-image-68683" srcset="https://www.wordstream.com/wp-content/uploads/2022/12/optimized-targeting-google-ads.png 720w, https://www.wordstream.com/wp-content/uploads/2022/12/optimized-targeting-google-ads-480x270.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>Audience expansion</h3>
+<p>Audience expansion is the equivalent feature for reach-focused Video campaigns. When turned on, it will find additional Google audience segments that are similar to those you’ve selected, and then target them as well.</p>
+<p>I like to start my audience campaigns with Optimized targeting turned on, and then see how it performs. If after a few weeks it outperforms my audience selections, great! And if not, it’s easy to turn off with one click.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/12/google-ads-audience-expansion.png" alt="google ads audience expansion" width="720" height="294" class="aligncenter size-full wp-image-68303" srcset="https://www.wordstream.com/wp-content/uploads/2022/12/google-ads-audience-expansion.png 720w, https://www.wordstream.com/wp-content/uploads/2022/12/google-ads-audience-expansion-480x196.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Of course, if you run an <strong>App campaign</strong>, you have no choice but to use fully automated targeting, as you don’t get to pick any keywords or audiences. And while <a href="https://www.wordstream.com/blog/ws/2022/07/05/performance-max-tips"><strong>Performance Max campaigns</strong></a> do let you pick an <strong>Audience signal</strong>, you’re essentially defaulted into Optimized targeting, but at least you can check the Insights tab to see which audiences Google Ads has found for you!</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/performance-max-audience-signals.png" alt="performance max audience signal setup" width="720" height="374" class="aligncenter size-full wp-image-62617" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/performance-max-audience-signals.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/performance-max-audience-signals-480x249.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h2>How to make the most of automated creative</h2>
+<p>Let’s say you’re leveraging automated bidding and automated targeting. That may be enough for you, and the general feeling I get from the industry these days is: Enough already!</p>
+<p>Well, for Google, there’s no such thing as enough automation.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/01/headlines-google-ads-automation.png" alt="headlines about google ads automation" width="720" height="472" class="aligncenter size-full wp-image-69380" srcset="https://www.wordstream.com/wp-content/uploads/2023/01/headlines-google-ads-automation.png 720w, https://www.wordstream.com/wp-content/uploads/2023/01/headlines-google-ads-automation-480x315.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>The final frontier is automated creative, an area that’s seen plenty of changes recently with <a href="https://www.wordstream.com/blog/ws/2021/09/02/google-sunsetting-expanded-text-ads">Responsive Search Ads instead of Expanded Text Ads</a>, <a href="https://www.wordstream.com/blog/ws/2022/09/16/google-ads-extensions-now-assets">“Assets” instead of Extensions</a>, and the Google Ads Video Creator launch.</p>
+<p>A good hint that Google Ads will be automating some ad creative for you is when you see the word “dynamic.” For example, in a <strong>Dynamic ad group</strong> (explained above), Google Ads will create the right headlines for each user’s query. In <strong>Dynamic remarketing</strong> (explained below), Google Ads will show the right products in the ad for each user.</p>
+<h3>Responsive ads</h3>
+<p>No matter what <a href="https://www.wordstream.com/blog/ws/2022/10/05/types-of-google-ads">type of Google ad</a> you&#8217;re running—be it a Search ad, Display ad, Discovery ad, Video ad, Performance Max ad, or App ad, they will all be r<strong>esponsive ads</strong>. This means that you provide Google Ads with the building blocks of your ad, which Google calls “Assets” (headlines, descriptions, images, feed, videos, logos), and then Google tests hundreds of combinations to achieve your goals.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/04/how-responsive-search-ads-work.png" alt="types of google ads - how responsive search ads work" width="720" height="481" class="aligncenter size-full wp-image-59791" srcset="https://www.wordstream.com/wp-content/uploads/2022/04/how-responsive-search-ads-work.png 720w, https://www.wordstream.com/wp-content/uploads/2022/04/how-responsive-search-ads-work-480x321.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>You cannot opt out of responsive ads, which means you are already leveraging automated creative at its most basic level if you’re <a href="https://www.wordstream.com/blog/ws/2022/03/21/how-to-run-google-ads">running Google Ads</a>.</p>
+<p>&nbsp;</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/270d.png" alt="✍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Need help writing headlines for your responsive ads? </strong></span></p>
+<p><span><strong>Free guide!</strong> &gt;&gt;</span> <strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" class="waffle-rich-text-link">10 Tricks to Get the Click: How to Write Exceptional PPC Ad Copy (with Examples!)</a></strong></p>
+<p><span></div></div></span></p>
+<h3>Dynamic assets (formerly known as extensions)</h3>
+<p>In addition to responsive ads, where you still pick your assets and then Google automates how they are shown to the end user, there are also plenty of auto-generated, or “dynamic” assets, to opt into.</p>
+<p>For example, <strong>Dynamic image assets</strong> (formerly Dynamic image extensions) give Google Ads permission to pull images from your website and insert them as add-ons to your ads.</p>
+<p>And you’ve probably heard of <strong>Dynamic remarketing</strong>, which is when Google Ads creates Display ads that show users products they’ve previously viewed on your website. This is also automated creative, since it is both responsive and dynamic, customizing the content and layout for each user based on your Merchant Center feed.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing.png" alt="dynamic remarketing" width="720" height="259" class="aligncenter size-full wp-image-70532" srcset="https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing.png 720w, https://www.wordstream.com/wp-content/uploads/2023/02/dynamic-remarketing-480x173.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><a href="https://faq.businesstech.fr/en/faq/225-whats-the-difference-between-classic-remarketing-and-dynamic-remarketing" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h3>Performance Max automated video creation</h3>
+<p>The final frontier in automated creative is not just going responsive or dynamic, but rather letting Google <em>create your assets for you</em>.</p>
+<p>I know. It feels uncomfortable. But we already have a sneak peek at what this looks like in a Performance Max campaign. If you do not provide any video assets in an Asset group, Google Ads will automatically create videos for you. And they’re pretty ugly! But remember, just because something looks good, it doesn&#8217;t mean it converts well. Ultimately, Google has the same desire as you: <em>achieve your business goals</em>.</p>
+<p>If you&#8217;re not ready to let Google create videos for you just yet, I recommend checking out the new video creator tool in Google Ads, so you can at least choose your own template, text, images, and music.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-video-creator.png" alt="google ads video creator" width="720" height="434" class="size-full wp-image-70656 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-video-creator.png 720w, https://www.wordstream.com/wp-content/uploads/2023/03/google-ads-video-creator-480x289.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>You can find more <a href="https://www.wordstream.com/blog/ws/2022/04/20/performance-max-pros-cons">pros and cons to Performance Max campaigns here</a>.</p>
+<h2>The number one factor in succeeding with automation in Google Ads</h2>
+<p>Whether you’re testing automated bidding, targeting or creative, the most important success factor is not how smart (or dumb) Google is, it’s your <a href="https://www.wordstream.com/blog/ws/2023/02/08/google-ads-conversion-tracking-mistakes">conversion tracking</a>.</p>
+<ul>
+<li>Automated bidding only works if Google has good conversion data to learn from.</li>
+<li>Automated targeting only works if Google knows who&#8217;s converting and who&#8217;s not.</li>
+<li>Automated creative only works if Google knows which assets result in conversions.</li>
+</ul>
+<p>The most important success factor to make sure that any kind of automation is going to drive good results for your business is having <a href="https://www.wordstream.com/blog/ws/2022/08/30/google-ads-conversion-tracking">solid, full-funnel conversion tracking in place</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/03/02/guide-to-automation-in-google-ads">How to Make Google Ads Automation Work for You (Dos &#038; Don&#8217;ts From a Pro)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Combat Costs With Google Ads Custom Segments</title>
+		<link>https://www.wordstream.com/blog/ws/2022/10/18/google-ads-custom-segments</link>
+		
+		<dc:creator><![CDATA[Jyll Saskin Gales]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 20:27:30 +0000</pubDate>
+				<category><![CDATA[Google Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=65508</guid>
+
+					<description><![CDATA[<p>Learn how to wield the power of this underused Google Ads feature.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/10/18/google-ads-custom-segments">How to Combat Costs With Google Ads Custom Segments</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>When it comes to <span><a href="https://www.wordstream.com/blog/ws/2022/09/21/google-ads-audience-targeting-cheat-sheet">Google Ads audience targeting</a>,</span> there are a number of different audiences you can use. They can be bucketed into three main types: Google’s audience segments, &#8220;your data&#8221; segments, and &#8220;custom&#8221; segments.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet.png" alt="google ads audience targeting cheat sheet" width="720" height="538" class="size-full wp-image-64681 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet.png 720w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-cheat-sheet-480x359.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Custom segments are what I want to dive into today, because in my opinion, they&#8217;re one of the most powerful and underutilized features in Google Ads. Read on to find out:</p>
+<ul>
+<li>What Google Ads custom segments are</li>
+<li>Why you should use them</li>
+<li>How to create custom segments in Google Ads</li>
+</ul>
+<h2>What are custom segments in Google Ads?</h2>
+<p>Google Ads custom segments let you leverage Google’s proprietary data about its users in ways that are unique to your business. You can create custom segments using up to three criteria:</p>
+<ol>
+<li>The interests and products/services people are <strong>searching</strong> for</li>
+<li>The types of <strong>websites</strong> people browse</li>
+<li>The types of <strong>apps</strong> people use</li>
+</ol>
+<p>By &#8220;up to&#8221; three criteria, this means that you can target just one of those criteria or any combination of two or three.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-custom-segments.png" alt="google ads targeting - custom segment example" width="720" height="551" class="size-full wp-image-64674 aligncenter" srcset="https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-custom-segments.png 720w, https://www.wordstream.com/wp-content/uploads/2022/09/google-ads-audience-targeting-custom-segments-480x367.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p style="text-align: center;"><em>This custom segment targets all three criteria: interests, types of websites, and apps.</em></p>
+<p>Once you create a custom segment, you can add it to your Display, Discovery, or Video campaigns. You can also add custom segments to your audience signals for <a href="https://www.wordstream.com/blog/ws/2022/07/05/performance-max-tips">Performance Max campaigns</a>, which Google considers a best practice (and I agree).</p>
+<h2>Why you should use custom segments in Google Ads</h2>
+<p>There are two main reasons why I believe custom segments are so darn useful.</p>
+<h3>Highly specific targeting</h3>
+<p>First, while there are thousands of <span>Google Ads audience targeting</span> choices, many advertisers are just not able to find the right ones for them. For example, what if <a href="https://www.wordstream.com/blog/ws/2022/05/11/target-audience">your target audience</a> is digital marketing professionals? Or doctors? Or people who are alums of Ivy League universities?</p>
+<p>Custom segments let you create the perfect audience for your needs by leveraging Google’s immense data about user behavior based on their searches, the websites they visit, and the apps they use.</p>
+<h3>Lower competition &amp; costs</h3>
+<p>Custom segments can <a href="https://www.wordstream.com/blog/ws/2022/02/21/how-to-save-money-google-ads">save you money on your Google Ads</a>. Since you’re the only one who will have this custom segment in your account (after all, it is custom!), competition may be lower, which means potentially <a href="https://www.wordstream.com/blog/why-google-ad-costs-are-rising-in-2025">lower ad costs</a>.</p>
+<p>Also, we know that Search CPCs are rising, and Search ads are getting more and more expensive each year (<a href="https://www.wordstream.com/online-advertising-benchmarks">check our benchmarks!</a>) In comparison, CPCs on Discovery are generally quite affordable.</p>
+<p>Custom segments allow you to reach people who have been searching for your keywords, just not in the moment they’re actually searching. Right people + different time = still powerful results. Create a Discovery campaign targeting a custom segment of your <a href="https://www.wordstream.com/blog/ws/2014/06/30/commercial-intent-keywords">top Search keywords</a>, and watch some magic happen!</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Find opportunities to save money in Google Ads with the</strong> <strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Free Google Ads Grader</a></strong>.</p></div></div>
+<h2>How to create a Custom segment in Google Ads</h2>
+<p>To create custom segments in Google Ads, go to Tools &amp; Settings, and then select Audience Manager.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-tools-settings.png" alt="google ads custom segments - audience manager" width="720" height="315" class="alignnone size-full wp-image-65513" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-tools-settings.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-tools-settings-480x210.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>Choose the Custom segments tab:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-creation.png" alt="google ads custom segments tab" width="720" height="329" class="alignnone size-full wp-image-65514" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-creation.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-creation-480x219.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p>You can then create a custom segment using one or any combination of these three criteria:</p>
+<h3>1. Interests or behaviors</h3>
+<p>You can create a custom segment to target people with specific interests or purchase intentions, or who have searched specific terms on Google.</p>
+<p>For example, I’ve run a YouTube campaign advertising my <span><a href="https://learn.jyll.ca/courses/insidegoogleads/" target="_blank" rel="noopener">Google Ads course</a></span> targeted to a Custom segment of people who have searched for “google ads course,” “adwords course,” “learn google ads,” “google ads training,” etc.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-search-terms.png" alt="google ads custom segment creation from search terms" width="720" height="558" class="alignnone size-full wp-image-65516" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-search-terms.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-search-terms-480x372.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<p><strong>Note! </strong>There’s one finicky little nuance to be aware of, though. If your custom segment includes a list of terms that people are searching for, this will only work as intended on Google-owned properties: Discovery and YouTube.</p>
+<p>On the Display network and Video partner sites, your search terms will be treated as general “interests” rather than specific things people have searched for. So keep that in mind when <a href="https://www.wordstream.com/blog/ws/2022/10/05/types-of-google-ads">picking your campaign type</a> and settings!</p>
+<h3>2. Types of websites</h3>
+<p>You can also create a custom segment based on the types of websites people browse.</p>
+<p>For example, a business I was advising was trying to reach dentists and people who work in dental offices, so they targeted a custom segment of industry news-type websites for dentists.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-sites.png" alt="google ads custom segments based on websites" width="720" height="553" class="alignnone size-full wp-image-65519" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-sites.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segments-sites-480x369.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>3. Types of apps</h3>
+<p>And finally, you can create a Custom segment based on the types of apps people use.</p>
+<p>For example, if you want to reach small business owners using Google Ads, you can target a custom segment of people who have apps like Shopify, Wix, Etsy Seller, Ecwid Ecommerce, etc.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-apps.png" alt="google ads custom segment creation from apps" width="720" height="554" class="alignnone size-full wp-image-65517" srcset="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-apps.png 720w, https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-custom-segment-apps-480x369.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h2>Start using Google Ads custom segments</h2>
+<p>Now can you see why I think Google Ads custom segments are underutilized? They&#8217;re a powerful way to target your prospects, reduce competition, and lower your costs. Use these tips and steps to start using them and getting more out of your budget!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2022/10/18/google-ads-custom-segments">How to Combat Costs With Google Ads Custom Segments</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

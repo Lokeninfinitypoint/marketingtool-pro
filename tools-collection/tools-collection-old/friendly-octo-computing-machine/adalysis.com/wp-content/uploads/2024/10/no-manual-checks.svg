@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Auditing" transform="translate(-542, -982)" stroke-width="2.13333333">
+            <g id="Group-31" transform="translate(399, 959)">
+                <g id="Group-26-Copy-3" transform="translate(123, 0)">
+                    <g id="graph-statistics-coffee" transform="translate(22, 25)">
+                        <path d="M21.3333333,32 C17.8716444,32 14.9333333,30.1283556 14.9333333,26.6666667 L14.9333333,21.3333333 L27.7333333,21.3333333 L27.7333333,26.6666667 C27.7333333,27.7873778 26.8700444,32 21.3333333,32 Z" id="Shape" stroke="#FFAF24"></path>
+                        <line x1="10.6666667" y1="17.0666667" x2="8.53333333" y2="21.3333333" id="Shape" stroke="#3A56BC"></line>
+                        <path d="M14.9333333,17.0666667 L2.13333333,17.0666667 C0.955125867,17.0666667 0,16.1115408 0,14.9333333 L0,2.13333333 C0,0.955125867 0.955125867,0 2.13333333,0 L24.5333333,0 C25.7115408,0 26.6666667,0.955125867 26.6666667,2.13333333 L26.6666667,8.53333333" id="Shape" stroke="#3A56BC"></path>
+                        <line x1="6.4" y1="21.3333333" x2="10.6666667" y2="21.3333333" id="Shape" stroke="#3A56BC"></line>
+                        <line x1="4.26666667" y1="12.8" x2="14.9333333" y2="12.8" id="Shape" stroke="#3A56BC"></line>
+                        <line x1="6.4" y1="12.8" x2="6.4" y2="9.6" id="Shape" stroke="#3A56BC"></line>
+                        <line x1="10.6666667" y1="12.8" x2="10.6666667" y2="7.46666667" id="Shape" stroke="#3A56BC"></line>
+                        <line x1="14.9333333" y1="12.8" x2="14.9333333" y2="4.26666667" id="Shape" stroke="#3A56BC"></line>
+                        <path d="M19.2384,13.4471111 C17.6739556,15.0115556 20.7872,15.5392 19.2597333,17.0666667" id="Shape" stroke="#FFAF24"></path>
+                        <path d="M23.7383111,10.7235556 C21.0190222,13.4414222 26.4405333,14.3658667 23.7752889,17.0268444" id="Shape" stroke="#FFAF24"></path>
+                        <path d="M27.7333333,22.4 L28.8,22.4 C30.5673112,22.4 32,23.8326888 32,25.6 C32,27.3673112 30.5673112,28.8 28.8,28.8 L27.1886222,28.8" id="Shape" stroke="#FFAF24"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

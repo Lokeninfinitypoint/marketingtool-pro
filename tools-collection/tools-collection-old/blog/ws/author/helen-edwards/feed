@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Helen Edwards, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/helen-edwards/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 27 Nov 2023 15:48:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Helen Edwards, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The 4 Emotions that Make the Best Emotional Ads [DATA]</title>
+		<link>https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads#respond</comments>
+		
+		<dc:creator><![CDATA[Helen Edwards]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads/</guid>
+
+					<description><![CDATA[<p>Emotional ads significantly out-perform bland, boring ads, but which emotions pack the biggest punch? Do happy, positive ads work better than ads that feed on negative emotions? Find out the top four click-driving emotions for ads in this data-backed post!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads">The 4 Emotions that Make the Best Emotional Ads [DATA]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After surveying a number of Paid Search Analysts here at WordStream, I was able to conclude the following: PPC can be really boring! I asked my peers to describe paid search in a few words. Their answers included: mundane, bland, dry, a numbers game, tedious, and mind-numbing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="21d91904-7722-4cef-98ef-6db277e3da85" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-header.png" alt="Emotional Ads" width="726" height="363" /></div>
+</article>
+</div>
+<p>It doesn’t have to be, though! Lots of experts love this field because actions drive results. It’s quantitative. As PPC specialists, we are often focused on the numbers – impressions, bids, conversions, bounce rates. We forget to tap into the right side of our brains – our intuition, emotion, and subjectivity. We find ourselves trapped in the left side of the brain with our logic, analytics, and objection. But the surprising truth is, our PPC campaigns can be wildly improved through the use of <em>emotional ads</em>.</p>
+<p><strong>What happens if we take an entirely different approach to PPC and find out how emotions trigger the searcher to react?</strong> Are we more likely to click on an ad that is comical or one that instills shock? How about one that is emotionally driven with anger?</p>
+<p>We dug into the data inside hundreds of client accounts to determine the <em>four key emotions</em> that are especially successful in leading to clicks and conversions. Over the past few months, I’ve tested ad copy that instilled each of these four emotional drivers across various sectors and industries – really running the gamut from medical practices to online clothing retailers to personal disability lawyers. My findings have been intriguing, and I was able to draw some very obvious trends from the testing.</p>
+<p>In this blog post, I’ll show you why these four emotions – <strong>anger, disgust, affirmation, and fear</strong> – work so well to drive PPC results, as well as how to put them to work in ads that get crazy-high engagement, with lots of real-life examples.</p>
+<p>Before we get into the fun stuff, let me tell you exactly why you need emotional ads.</p>
+<h2>Quality Score and the Power of High Click-Through Rates</h2>
+<p>Google has this crazy algorithm called <a href="https://www.wordstream.com/adwords-quality-score">Quality Score</a>. As you’ve heard, Quality Score is a secret concoction of past performance, ad copy relevance, overall account quality, landing page relevancy, keyword relevancy, and <a href="https://www.wordstream.com/blog/ws/2010/04/26/good-click-through-rate">click-through rate</a>. But here’s the hack – click-through rate is the <strong>single most powerful thing</strong> you can focus on when trying to improve your Quality Score.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="59af272f-7e79-4795-8ccb-0f731bc13bc8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-quality-score-1.png" alt="Emotional ads Quality Score" width="583" height="317" /></div>
+</article>
+</div>
+<p><a href="https://www.wordstream.com/blog/ws/2013/10/28/adwords-impression-share">Impression share</a> goes up or down 9% for every 1 point increase or decrease in Quality Score. So basically if you don’t have a good QS, your ads won’t show up on the SERP much. What’s the point in creating ads no one is going to see?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0570c831-9763-4460-9e71-60c6551333f1" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-impression-share.png" alt="Emotional ads Impression Share" width="464" height="310" /></div>
+</article>
+</div>
+<p>You also need a good Quality Score so you can get your clicks for as cheap as possible. Having a score of 10 discounts your cost per click by 50% on average. By having a lower Quality Score, you’re going to be majorly overpaying for your clicks – sometimes even 400% higher than face value.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="40553880-3270-4832-84e1-89bc88002606" data-langcode="en">
+<article><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2017/09/how-quality-score-impacts-cost-per-click-google-ads.png" alt="how quality score impacts cost per click" width="720" height="523" class="aligncenter size-full wp-image-61091" srcset="https://www.wordstream.com/wp-content/uploads/2017/09/how-quality-score-impacts-cost-per-click-google-ads.png 720w, https://www.wordstream.com/wp-content/uploads/2017/09/how-quality-score-impacts-cost-per-click-google-ads-480x357.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></article>
+</div>
+<p>Lots of people think that dynamic keyword insertion produces the best ads. This is an incorrect assumption. Dynamic keyword insertion <em>does</em> work…</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="48947a35-e983-404d-8c00-a9b4a3e9f3c3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-dynamic-keyword-insertion.png" alt="Emotional ads dynamic keyword insertion" width="401" height="304" /></div>
+</article>
+</div>
+<p>But dynamic keyword insertion doesn’t put your ad into the top 1% – the ads that <em>really</em> grab people’s attention and earn <a href="/blog/ws/2014/02/11/average-click-through-rate">super high CTRs</a>. Emotions do that!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="227f7425-f4ac-43a9-a21d-222667200191" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-dynamic-keyword-insertion-relative.png" alt="Emotional ads relative dynamic keyword insertion" width="392" height="310" /></div>
+</article>
+</div>
+<p>So to recap why we need good emotional ads…. Good ads lead to a higher click-through rates which earn you a higher Quality Score and thus… cheaper clicks.</p>
+<h2>Why Emotional Ads Perform So Well</h2>
+<p>Now let’s talk science for a hot second. There’s two main parts of the brain that drive our actions – the frontal lobe and the limbic system. The frontal lobe is pictured below in pink. This is the “logical brain,” and it is associated with our reasoning, planning, parts of speech, movement, and problem solving. The limbic system is the “emotional brain.” This is where our intuition, subjectivity, and emotions take the reins.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7c38bab9-46b5-4e12-93fc-e186b921a237" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-logic-vs-emotion-1.png" alt="Emotional ads logic vs emotion" width="532" height="345" /></div>
+</article>
+</div>
+<p>Think about any commercial that you deem entertaining. I have an obsession with pretty much any Budweiser Clydesdale or puppy commercial. Why? Because I love animals and they pull at my heart strings. They run viewers through the whole gamut of emotions from sadness to fear to happiness. Now I don’t even like Budweiser (we all know Bud makes less than subpar beer), but we feel a strong affiliation with the brand because they make these awesome, emotionally charged commercials. <strong>Budweiser isn’t selling the beer. They’re selling what connotations you have with the beer. </strong></p>
+<p>It’s not just TV commercials that make use of emotions. Emotionally driven ads are prominent in all other forms of advertising – from billboards to radio and even digital marketing – like <a href="/blog/ws/2015/11/05/content-marketing-for-ppc">content marketing</a> and social media. But somehow PPC missed the boat!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="32d599af-3946-4ee5-b975-6ec5ab5d02e6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-auto-insurance-serp.png" alt="Emotional ads auto insurance SERP" width="498" height="297" /></div>
+</article>
+</div>
+<p>I recently Googled “auto insurance” and came up with the above ads. These ads were AWFUL. They all said the same thing. Bad credit accepted. No money down. Call today. Google gives advertisers all the same old tips and best practices for ad copy creation: Include prices, offer a promotion, use a call to action… If we all do the same thing then our ads are all going to mirror one another. No one’s ad stands out!</p>
+<p>So forget the generic ads – let’s create some emotionally charged ads that will get your users clicking!</p>
+<h2>Helen’s Foolproof Process for Creating Emotional Ads</h2>
+<p>Here are the steps I follow to write high-performing emotional ads for my clients:</p>
+<p><strong>Step 1</strong> – Who is your customer? Is she a working mother? A hippie yoga kale eater? A high society trust fund baby?</p>
+<p><strong>Step 2</strong> – What persona do you want to take on in relation to your target market? Bearer of bad news? Hero/Villain dynamic? The comedian? The feel good friend?</p>
+<p><strong>Step 3</strong> – Write emotionally charged ads from the standpoint of the chosen persona.</p>
+<p>So without further ado – let’s dig into the top 4 emotions that make people click and convert like BONKERS!</p>
+<p><em><a href="/blog/ws/2021/05/03/emotional-marketing-copy">Need help with emotional marketing copy? We&#8217;ve got you covered.</a></em></p>
+<h2>Top Emotions for Ad Copy Domination #4 – ANGER</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b806b9d4-6e7c-4d72-a63a-22454c03fef1" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-anger.png" alt="Emotional ads anger" width="264" height="271" /></div>
+</article>
+</div>
+<p>Let’s write an ad from a divorce lawyer’s standpoint using my coveted process. Who’s the customer? A pissed off woman. What persona do we want to play on? The hero/villain dynamic. Here’s an ad that capitalizes on the searcher’s feelings:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="949edc64-9258-4a3b-bbfa-ddbd2212c650" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-divorce-lawyer-ad.png" alt="Emotional ads divorce lawyer ad" width="530" height="154" /></div>
+</article>
+</div>
+<p>Here’s a real-life example. We’ve all heard the commercials on daytime TV in between Jerry Springer and Judge Judy. I don’t think I’ll ever forget the JG Wentworth ad: IT’S MY MONEY AND I WANT IT NOW! 877-CASH NOW!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="31b9fde2-d815-45a5-91ac-eef137b5b75f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-veruca-salt-meme.png" alt="Emotional ads Veruca Salt meme" width="275" height="365" /></div>
+</article>
+</div>
+<p>I wanted to try out that same sort of language in a search ad for my disability claims lawyer client. Using my process (Who does the searcher love? Their family. Who do they hate? The government) for an ad on appeal disability denial, here’s the ad we created:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="26bdad1f-5db8-4584-8191-62d5c3e627d2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-disability-appeal-ad.png" alt="Emotional ads disability appeal ad" width="224" height="66" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>This ad had a killer CTR of <strong>28%</strong>!</em></p>
+<h2>Top Emotions for Ad Copy Domination #3 – DISGUST</h2>
+<p>Check out this emotional ad my coworker uses on the display network for a weight loss management client of hers. She wanted to convey the emotion of disgust, so she took on the persona of the comedian.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="30876aea-e87e-41bd-b8ff-5e84683a0e96" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-disgust-ad.png" alt="Emotional ads disgust ad" width="394" height="326" /></div>
+</article>
+</div>
+<p>This ad was definitely funny, but also somewhat controversial. This ad was served only to men, and it performed very well.</p>
+<p>Here’s another ad that she tests for that same client alongside the prior ad:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c2c53ec4-4255-4c0f-908e-efcd56a92740" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-disgust-ad-2.png" alt="Emotional ads disgust ad" width="433" height="362" /></div>
+</article>
+</div>
+<p>Click-through rate for the ad that provoked disgust was <strong>47% higher</strong> than the CTR for the above ad, which is boring and generic – not eye-catching. The first ad commands attention.</p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><p><strong>Free guide &gt;&gt;   <a href="https://marketing.wordstream.com/WSLIQContentDLWebsite120WordsforMarketingWithEmotion.html?cid=Web_Any_BlogInContent_PPC_120WordsPhrases_Download">The 120 Best Words &amp; Phrases for Marketing with Emotion </a><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f60c.png" alt="😌" class="wp-smiley" style="height: 1em; max-height: 1em;" />  </strong></p></div></div>
+<h2>Top Emotions for Ad Copy Domination #2 – AFFIRMATION</h2>
+<p>Going back to my process again. The client I wrote this next set of ads for is a plus-size fashion retailer, so the target market is plus-size women. The persona I wanted to take on here was the feel-good friend.</p>
+<p>Here was the ad that was originally running in the account, prior to testing. It was pretty generic. This ad always had a pretty good click-through rate, so we never really played around with it too much.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f459fd98-e691-4c1c-a458-24da7051447f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-affirmation-ad.png" alt="Emotional ads affirmation" width="411" height="154" /></div>
+</article>
+</div>
+<p>I decided to throw in two ads to run simultaneously with the original ad. One was an ad that focused on flattering the user.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e5395d7f-8634-4248-9a46-f29268df87a5" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-affirmation-ad-2.png" alt="Emotional ad affirmation " width="443" height="128" /></div>
+</article>
+</div>
+<p>I was biased towards this ad, and wanted it to do well, but it actually didn’t do so great, because it was a bit off-topic from the core product – clothing. Here was the other ad I put into the rotation:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a0e37625-6421-48c7-b450-5212e448a0af" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-affirmation-ad-3.png" alt="Emotional ad affirmation" width="398" height="125" /></div>
+</article>
+</div>
+<p>This ad was the clear winner of the three. <strong>Hitting users with the 1-2 punch of flattery <em>and</em> promotional details is key. </strong>We can still make the user feel good about themselves, while letting them know there’s a sale happening.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="65af8c55-8eeb-4112-acf6-600631bb2d11" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-ctr-by-ad-2.png" alt="Emotional ads CTR by ad type" width="560" height="379" /></div>
+</article>
+</div>
+<h2>Top Emotions for Ad Copy Domination #1 – FEAR</h2>
+<p>I have a client who specializes in breast cancer screening services. I wanted this client to succeed, not only for the sake of my bonus, but because it’s something I really care about. This is the ad they were running when they came onboard as a client:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6cbfaf5f-9b6c-4abb-891b-50cf861c77db" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-fear-ad.png" alt="Emotional ads fear" width="434" height="115" /></div>
+</article>
+</div>
+<p><strong> </strong>This ad isn’t compelling because we’ve all heard this saying (“early detection saves lives”) so many times. This saying doesn’t get a woman to take action anymore, because it’s become too much of a cliché. I paused this ad and replaced it with 2 new ones, shown below.</p>
+<p><strong>POSITIVITY</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6bbb8d90-25cb-4642-9c0e-1d025941921d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-positivity-ad.png" alt="Emotional ads positivity ad" width="437" height="160" /></div>
+</article>
+</div>
+<p><strong>NEGATIVITY </strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d0f18fd2-05b1-49da-b61c-30ec2955be73" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-negativity-ad-1.png" alt="Emotional ads negativity ad" width="407" height="142" /></div>
+</article>
+</div>
+<p>This first new ad had a positive twist in the language. It was stronger than the old ad, with more conviction, but still weak. For the next version of the ad, I thought about who my target customer was – likely a frightened woman, with kids, a husband, and responsibilities. She was searching something along the lines of “breast cancer symptoms,” so more likely than not she was thinking she might have breast cancer. This is where I knew we had to catch her.</p>
+<p>The persona we took on was the “bearer of bad news.” This second ad is by no means a feel-good ad. It’s definitely not conventional, but it is memorable and got women in to get screened. In telling a woman this fact, we purposefully meant to scare her – and the negative ad produced <strong>125% more appointments</strong> booked, compared to the <a href="/blog/ws/2017/08/08/positive-vs-negative-ads">positive ad</a>.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f9814808-3629-48d0-8d8e-4e0a53995ebf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-negative-vs-positive.png" alt="Emotional ads impact of negative vs positive" width="528" height="295" /></div>
+</article>
+</div>
+<p>Even more striking was that the negative ad produced <strong>170% more phone calls</strong>, compared to the positive ad. This makes a lot of sense. The woman is having an emergency – so she’s more likely to <a href="/blog/ws/2015/04/22/call-tracking-industries">take immediate action and to call</a> and book an appointment – rather than filling out a more passive call back form.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4eae98ad-1f14-464c-8b44-b48459fecf8a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-positive-vs-negative.png" alt="Emotional ads impact of positive vs negative" width="525" height="294" /></div>
+</article>
+</div>
+<p>So for the love of paid search – go write some creative new ads (with <a href="/blog/ws/2021/01/13/best-words-and-phrases-for-marketing">emotional words, phrases</a>, and imagery), and I guarantee you that in a couple of months you’ll see a dramatic change in your ad performance. Remember – small changes equate to small results and big changes equate to big results. Making a small change, like using dynamic keyword insertion, will give you a small increase in click through rate. Writing completely new emotional ads that make your searchers feel something will lead to big changes! Be the mad scientist and prey upon people’s emotions. Don’t be afraid to test big, crazy things. When you find something that works, it’s like finding gold!</p>
+<p>Larry Kim always uses this silly analogy – “Be the unicorn in a sea of donkeys.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1fc75c0a-b6ec-4a3d-a3e6-4a244750d4f0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-unicorn.png" alt="Emotional ads unicorns" width="546" height="348" /></div>
+</article>
+</div>
+<p>I created a far better analogy – “Be the Tom Brady in a sea of quarterbacks!”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="78b28ce9-99d4-4773-a5c1-2b9cb3cba44b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/emotional-ads-patriots-meme.png" alt="Emotional ads Patriots meme" width="420" height="278" /></div>
+</article>
+</div>
+<p><em>Sorry… I had to…</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads">The 4 Emotions that Make the Best Emotional Ads [DATA]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/11/09/emotional-ads/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Analyze &#038; Beat Your Google Ads Competitors With These 5 Powerful Tools</title>
+		<link>https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition</link>
+					<comments>https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition#respond</comments>
+		
+		<dc:creator><![CDATA[Helen Edwards]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2014 05:00:00 +0000</pubDate>
+				<category><![CDATA[Reporting & Analysis]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition/</guid>
+
+					<description><![CDATA[<p>Are you competitive in Google Ads? I bet you want to be! Here are four of our favorite tools, including Auction Insights and SEM Rush, for analyzing your Google Ads competition and using competitive data to beat them out.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition">Analyze &#038; Beat Your Google Ads Competitors With These 5 Powerful Tools</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>To be successful in any type of advertising, whether it be digital, radio, or out-of-home, you must keep tabs on your competitors and their tactics. If they are advertising on the subway, chances are you should be too. Likewise, if they are targeting a specific keyword in PPC, so should you.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/beat-the-competition-1.jpg" alt="adwords competition guide" width="640" height="310" /></div>
+<p class="text-align-center"><em>Via <a href="https://www.flickr.com/photos/vegaseddie/3910343289/in/photolist-6XxwPT-nXGE1S-cjtHYY-5qGh3k-8G8ic9-37tjnS-8Dsinw-Cjb4u-2y2joH-kEHPVw-a114Yq-9GsGd2-QP9da-4gBnjL-o9najp-b1h4zH-84BykQ-6sopNY-ovt7br-cjGs65-bmqLgz-63XkTQ-otqXht-dncth5-4gvCEF-f3cimk-4gtg8Q-9gsvi9-eadnzg-98RvWH-oHEJP4-8G8ibj-67Qu5Y-jZtp2M-4gvAGD-5YyyX4-2YEiXD-bEibke-afpkUT-i5xGUB-akyFeb-bzESNC-5sYHRR-7bCCg8-63uUCS-bEid7V-39ZxDv-63uSM5-63uTbj-71VWyT">Paul</a></em></p>
+<p>There are a lot of free benchmarks for data available to all Google Ads users. Here are five of my favorite tools for analyzing your Google Ads competition.</p>
+<h2>1. Auction Insights</h2>
+<p>The <a href="/blog/ws/2013/06/14/adwords-auction-insights">Auction Insights report</a> allows you to look at who else is bidding on your keywords. You can see impression shares, <a href="https://www.wordstream.com/blog/ws/2019/08/14/goodbye-average-position">average position</a>, overlap rate, position above rate, and top of page rate that each competitor has on a particular keyword. With this information, you can effectively better manage your own bids in comparison to whomever you deem your highest competition.  The below graphic shows which competitors are bidding on the keyword “foam mattress.”</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competition-auction-insights-1.png" alt="AdWords competition auction insights" width="1622" height="367" /></div>
+<h2>2. Google Ads Grader</h2>
+<p>What list of <a href="https://www.wordstream.com/blog/ws/2022/01/10/free-google-ads-tools">Google Ads tools</a> would be complete without our <strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Free Google Ads Performance Grader</a></strong>? This free tool performs an instant audit of your account and generates a report card on how you compare to industry benchmarks and best practices. You&#8217;ll get insights into your:</p>
+<ul>
+<li>Wasted spend</li>
+<li>Quality Score</li>
+<li>Impression share</li>
+<li>Account activity</li>
+<li>Click-through rate</li>
+<li>Best and worst text ad</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/10/google-ads-grader-score-report-laptop-dark-compressed.png" alt="google ads grader account audit report on a laptop" width="449" height="338" class="wp-image-65235 aligncenter" /></p>
+<p style="text-align: center;">Try the <strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Grader</a></strong> today and see how you score.</p>
+<h2>3. Keyword Planner</h2>
+<p>Typically, when people use the Google Ads <a href="/blog/ws/2014/04/24/keyword-planner-updates">Keyword Planner</a>, they think of using it to find <a href="/blog/ws/2014/08/06/keyword-research-tips">keyword ideas</a> from their own site and landing pages. Conversely, try plugging a few of your competitors URL’s into the search bar. The results may display keyword ideas you never thought of using. Because these keyword ideas came from the competitor’s site, they are likely already being utilized by your competitors.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competition-keyword-planner-1.png" alt="AdWords competition Keyword Planner" width="558" height="341" /></div>
+<p>There are also many tools that you can pay for if your budget allows for a little wiggle room. Here I’ll highlight one that I frequently use:</p>
+<h2>4. SEMrush</h2>
+<p>One great, affordable tool for paid search marketers to utilize is SEMrush.com. This is a platform that we utilize here at WordStream to help our clients gain a competitive edge in their Google Ads accounts. We are able to pull reasonably accurate data regarding <a href="/blog/ws/2017/11/09/competitor-keywords">what keywords a client’s competitors are bidding on</a>, how much they are spending, and a sample of what their ads look like.</p>
+<p>Let’s say we have a pet supplies business, and we’d like to see which competitors are bidding on the keyword <em>pet supplies</em>. Simply, all I must do is type “pet supplies” into the search tab and <em>voila</em>! The top 15 sites bidding on this particular keyword are:</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competition-guide-semrush-1.png" alt="AdWords competition SEMrush" width="176" height="442" /></div>
+<p>Another cool way to use SEMrush is to enter the URL of one of your competitors. Going back to the pet supplies business example, we can easily see how much PetSmart spends on their paid search initiative, how much traffic they see, which keywords they are bidding on, and what a sample of their ad text looks like.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competition-analysis-data-1.png" alt="AdWords competition analysis data" width="141" height="211" /></div>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competitive-analysis-keyword-research-1.png" alt="AdWords competition top keywords" width="547" height="321" /></div>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-adwords-competitors-ad-text-1.png" alt="AdWords competition PetSmart ad" width="461" height="102" /></div>
+<div><strong>RELATED:</strong> <a href="https://www.wordstream.com/blog/ws/2022/06/01/competitor-keyword-analysis">How to Do Competitor Keyword Analysis in 5 Steps (+Free Template!)</a></div>
+<h2>Competitive Campaigns</h2>
+<p>Once your Google Ads account is well structured, you can think about optimizing it further with direct <a href="/blog/ws/2016/05/16/competitive-advertising">competitive advertising</a>. How can you do this? I’ll use possibly the most competitive rivalry in the world as my high-level example. Let’s say we are Coca-Cola. We might consider bidding on the keyword <em>Pepsi</em>. We can gain more brand awareness and potentially convert a Pepsi drinker into a Coke drinker.</p>
+<p>In this next screenshot, we can see an example of a competitive campaign that was executed effectively.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-competitive-campaign-example-1.png" alt="AdWords competition campaign example" width="1489" height="108" /></div>
+<p>Best practice is to not utilize attack tactics. Coca-Cola would not want to launch an ad that directly puts down Pepsi. This could potentially cheapen the Coca-Cola brand. Also remember that businesses must keep in accordance with Google policies, meaning that in Coke’s competitive ad, they could not use the trademarked term <em>Pepsi</em> in their ad text.</p>
+<div style="display: flex; justify-content: center;"><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/competitive-adwords-campaigns-1.jpg" alt="AdWords competition Mac versus PC" width="500" height="339" /></div>
+<p>Another point is that Quality Score is going to be lower for competitive campaigns, and it is unlikely that your competitive campaign’s ads will show up in <a href="/blog/ws/2014/05/01/adwords-myths">the first position</a>. After all, Google’s main focus is to make sure the searcher finds what they are looking for. However, it is important to keep in mind that there is no solid data to prove that a higher position translates into a higher ROI.</p>
+<p>As a side note, beware that when a business launches a competitive campaign on another brand, it is only a matter of time until the competitor is likely to launch their own competitive campaigns in return.</p>
+<h2>Worth It?</h2>
+<p>My overall conclusion is that competitive campaigns are effective and worthwhile if your budget allows for it (if not, use our <a href="https://www.wordstream.com/blog/ws/2022/10/24/how-to-compete-in-google-ads">tips to compete in Google Ads without raising bids</a>). Obviously, it is most important to make sure all the bases are covered around all branded and non-branded terms. If after these campaigns are launched and optimized and there is still leftover paid search budget, then a competitive campaign might be the right direction to steer.</p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Speaking of budgets&#8230;</strong></p>
+<p><span><strong>Free download </strong>&gt;&gt; </span><strong><a href="https://marketing.localiq.com/WSLIQContentDLDigestibleAdBudgets.html?cid=Web_Any_InContentTextLink_PPC_GoogleAdsBudgetsGuide_Download" class="waffle-rich-text-link">The Easy Guide to Google Ads Budgets</a></strong><span> </span></p>
+<p><span></div></div></span></p>
+<p>If budget is tight and there is no extra money to fund a competitive PPC campaign, it is not the end of the world. However, it is important to at least make sure you are bidding on the same top non-branded keywords as the competition. You can use the tactics mentioned in this article to help you determine which keywords these are.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition">Analyze &#038; Beat Your Google Ads Competitors With These 5 Powerful Tools</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2014/10/23/adwords-competition/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

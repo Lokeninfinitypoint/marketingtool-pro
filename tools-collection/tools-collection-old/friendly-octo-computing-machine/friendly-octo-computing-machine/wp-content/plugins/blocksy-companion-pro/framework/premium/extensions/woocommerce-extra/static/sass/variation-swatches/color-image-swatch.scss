@@ -1,0 +1,18 @@
+:is(
+	[data-swatches-type='color'], 
+	[data-swatches-type='image'], 
+	[data-swatches-type='mixed']
+) {
+
+	.ct-swatch {
+		width: var(--swatch-size, 30px);
+		padding: 2px;
+		border: 2px solid var(--swatch-border-color, var(--theme-border-color));
+		transition: border-color 0.12s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+	}
+
+	.ct-swatch-content {
+		aspect-ratio: 1/1;
+		border-radius: inherit;
+	}
+}

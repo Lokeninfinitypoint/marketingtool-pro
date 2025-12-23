@@ -1,0 +1,30 @@
+.ct-cart-reserved-timer-message {
+	padding: 10px 10px 10px 15px;
+	border-radius: 5px;
+	color: var(--cart-reserved-timer-text-color, var(--theme-text-color));
+	background: var(--cart-reserved-timer-background-color);
+
+	p {
+		margin-bottom: 10px;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.ct-cart-reserved-timer-cart {
+	font-size: 15px;
+}
+
+.ct-cart-reserved-timer-mini-cart {
+	font-size: 14px;
+	padding-bottom: var(--mini-cart-items-spacing, 20px);
+	margin-bottom: var(--mini-cart-items-spacing, 20px);
+	border-bottom: 1px dashed
+		var(--mini-cart-divider-color, rgba(0, 0, 0, 0.07));
+}
+
+[class*='ct-cart-reserved-timer-placeholder'] {
+	display: none;
+}

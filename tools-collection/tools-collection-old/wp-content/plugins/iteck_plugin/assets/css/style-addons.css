@@ -1,0 +1,29 @@
+  /*! iteck-addons - v1.0.0 - 09-09-2019 */
+  /*! Core style*/
+
+  .iteck-button.iteck-size-sm {
+    font-size: 15px;
+    padding: 12px 24px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+  }
+  .iteck-button {
+    display: inline-block;
+    line-height: 1;
+    background-color: #818a91;
+    color: #fff;
+    text-align: center;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+.iteck-icon {
+    display: inline-block;
+    line-height: 1;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    color: #818a91;
+    font-size: 50px;
+    text-align: center;
+}

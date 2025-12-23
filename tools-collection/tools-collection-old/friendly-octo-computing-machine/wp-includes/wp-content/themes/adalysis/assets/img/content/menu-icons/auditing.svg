@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu" transform="translate(-398, -84)" stroke-width="1.5">
+            <g id="list-to-do" transform="translate(399, 85)">
+                <path d="M19.5,21 C19.5,21.8284271 18.8284271,22.5 18,22.5 L1.5,22.5 C0.671572875,22.5 0,21.8284271 0,21 L0,1.5 C0,0.671572875 0.671572875,0 1.5,0 L12.129,0 C12.5265472,0 12.9078016,0.157981752 13.189,0.439 L19.061,6.311 C19.3420182,6.59219839 19.5,6.97345279 19.5,7.371 L19.5,21 Z" id="Shape" stroke="#3A56BC"></path>
+                <path d="M19.5,7.5 L13.5,7.5 C12.6715729,7.5 12,6.82842712 12,6 L12,0" id="Shape" stroke="#3A56BC"></path>
+                <path d="M7.419,8.858 L5.287,11.7 C5.15649596,11.8737777 4.95702983,11.982403 4.74024781,11.9977504 C4.5234658,12.0130978 4.31068534,11.9336581 4.157,11.78 L3,10.624" id="Shape" stroke="#FFAF24"></path>
+                <path d="M7.419,15.608 L5.287,18.45 C5.15649596,18.6237777 4.95702983,18.732403 4.74024781,18.7477504 C4.5234658,18.7630978 4.31068534,18.6836581 4.157,18.53 L3,17.373" id="Shape" stroke="#FFAF24"></path>
+                <line x1="10.5" y1="12" x2="15" y2="12" id="Shape" stroke="#FFAF24"></line>
+                <line x1="10.5" y1="18" x2="15" y2="18" id="Shape" stroke="#FFAF24"></line>
+            </g>
+        </g>
+    </g>
+</svg>

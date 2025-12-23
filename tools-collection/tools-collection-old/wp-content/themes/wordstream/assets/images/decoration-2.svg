@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607" height="608" viewBox="0 0 607 608">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="607" height="608" transform="translate(3290 1162)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Mask" width="607" height="607" transform="translate(-647 -1)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-3290 -1162)" clip-path="url(#clip-path)">
+    <g id="Oval_Copy_4" data-name="Oval Copy 4" transform="translate(3937 1163.5)">
+      <rect id="Mask-2" data-name="Mask" width="626" height="559" transform="translate(-626)" fill="none"/>
+      <g id="Oval_Copy_4-2" data-name="Oval Copy 4" clip-path="url(#clip-path-2)">
+        <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="303.5" cy="303.5" r="303.5" transform="translate(-647 -1)" fill="#1b7695" opacity="0.153"/>
+      </g>
+    </g>
+  </g>
+</svg>

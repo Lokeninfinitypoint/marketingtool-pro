@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="26px" viewBox="0 0 21 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Resources" transform="translate(-54, -238)" stroke-width="1.5">
+            <g id="Group-5" transform="translate(22, 22)">
+                <g id="book-play" transform="translate(33, 217)">
+                    <path d="M19,24 L2.375,24 C1.06332372,24 0,22.9254834 0,21.6" id="Shape" stroke="#3A56BC"></path>
+                    <path d="M3.16666667,0 C1.41776496,0 0,1.4326888 0,3.2 L0,21.6 C0,20.2745166 1.06332372,19.2 2.375,19.2 L18.2083333,19.2 C18.6455588,19.2 19,18.8418278 19,18.4 L19,0.8 C19,0.3581722 18.6455588,0 18.2083333,0 L3.16666667,0 Z" id="Shape" stroke="#3A56BC"></path>
+                    <line x1="17.4166667" y1="24" x2="17.4166667" y2="19.2" id="Shape" stroke="#3A56BC"></line>
+                    <path d="M5.89500778,7.56000794 L5.89500778,12.3460201 C5.89484329,12.5564189 6.00262407,12.7518651 6.17977712,12.8624107 C6.35693016,12.9729563 6.57813007,12.9827978 6.76421185,12.8884132 L13.1049915,9.68505562 L6.72655971,6.9998049 C6.54121113,6.92146945 6.32936558,6.94207056 6.16220139,7.05468644 C5.9950372,7.16730232 5.89473981,7.35698696 5.89500778,7.56000794 Z" id="Shape" stroke="#FFAF24"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

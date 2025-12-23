@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 26</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Pricing---Anually-V2.3.3" transform="translate(-1298, -2683)" stroke-width="2.13333333">
+            <g id="Group-27" transform="translate(1276, 2659)">
+                <g id="app-window-search-text" transform="translate(24, 26)">
+                    <circle id="Oval" stroke="#FFAF24" cx="21.3333333" cy="21.3333333" r="7.46666667"></circle>
+                    <line x1="32" y1="32" x2="26.6126222" y2="26.6140444" id="Shape" stroke="#FFAF24"></line>
+                    <path d="M29.8666667,10.6666667 L29.8666667,2.13333333 C29.8666667,0.955125867 28.9115408,0 27.7333333,0 L2.13333333,0 C0.955125867,0 0,0.955125867 0,2.13333333 L0,25.6 C0,26.7782075 0.955125867,27.7333333 2.13333333,27.7333333 L12.8,27.7333333" id="Shape" stroke="#3A56BC"></path>
+                    <line x1="0" y1="6.4" x2="29.8666667" y2="6.4" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="4.26666667" y1="12.8" x2="12.8" y2="12.8" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="4.26666667" y1="17.0666667" x2="8.53333333" y2="17.0666667" id="Shape" stroke="#3A56BC"></line>
+                    <line x1="4.26666667" y1="21.3333333" x2="8.53333333" y2="21.3333333" id="Shape" stroke="#3A56BC"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

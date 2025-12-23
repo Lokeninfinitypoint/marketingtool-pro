@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <title>Waduit – PPC collaboration without the busywork</title>
+  <meta name="description" content="Waduit keeps every PPC stakeholder aligned with shared workspaces, collaborative briefs, and always-on monitoring.">
+  <link rel="canonical" href="https://waduit.sbs/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Waduit">
+  <meta property="og:title" content="Waduit – PPC collaboration without the busywork">
+  <meta property="og:description" content="Waduit keeps every PPC stakeholder aligned with shared workspaces, collaborative briefs, and always-on monitoring.">
+  <meta property="og:url" content="https://waduit.sbs/">
+  <meta property="og:image" content="https://waduit.sbs/wp-content/uploads/2025/10/waduit-home-hero.png">
+  <meta property="og:image:width" content="1280">
+  <meta property="og:image:height" content="720">
+  <meta property="og:image:alt" content="Specialists reviewing PPC metrics inside Waduit.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Waduit – PPC collaboration without the busywork">
+  <meta name="twitter:description" content="Waduit keeps every PPC stakeholder aligned with shared workspaces, collaborative briefs, and always-on monitoring.">
+  <meta name="twitter:image" content="https://waduit.sbs/wp-content/uploads/2025/10/waduit-home-hero.png">
+  <link rel="icon" href="/logo-waduit.jpeg" sizes="32x32" type="image/jpeg">
+  <link rel="icon" href="/logo-waduit.jpeg" sizes="192x192" type="image/jpeg">
+  <link rel="apple-touch-icon" href="/logo-waduit.jpeg">
+  <link rel="shortcut icon" href="/logo-waduit.jpeg" type="image/jpeg">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="stylesheet" href="help/help.css">
+  <style>
+    .home-hero {
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.97), rgba(37, 99, 235, 0.9));
+      color: #ffffff;
+      padding: 4rem 0 4.5rem;
+    }
+
+    .home-hero .container {
+      display: grid;
+      gap: 2rem;
+      align-items: center;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .home-hero h1 {
+      margin: 0 0 1rem;
+      font-size: 3rem;
+      letter-spacing: -0.025em;
+    }
+
+    .home-hero p {
+      margin: 0 0 1.5rem;
+      font-size: 1.1rem;
+      max-width: 52ch;
+      color: rgba(226, 232, 240, 0.9);
+    }
+
+    .hero-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.85rem;
+    }
+
+    .hero-cta a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.85rem 1.75rem;
+      border-radius: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .hero-cta .primary {
+      background: #ffffff;
+      color: var(--brand-dark);
+      box-shadow: 0 16px 36px rgba(15, 23, 42, 0.25);
+    }
+
+    .hero-cta .primary:hover,
+    .hero-cta .primary:focus-visible {
+      background: #e2e8f0;
+      text-decoration: none;
+    }
+
+    .hero-cta .secondary {
+      border: 1px solid rgba(226, 232, 240, 0.45);
+      color: #ffffff;
+    }
+
+    .hero-cta .secondary:hover,
+    .hero-cta .secondary:focus-visible {
+      border-color: #ffffff;
+      text-decoration: none;
+    }
+
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.75rem;
+    }
+
+    .feature-card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-lg);
+      padding: 1.9rem;
+      box-shadow: var(--shadow-card);
+    }
+
+    .feature-card h3 {
+      margin: 0 0 0.75rem;
+      font-size: 1.35rem;
+      color: var(--ink-700);
+    }
+
+    .feature-card p {
+      margin: 0;
+      color: var(--ink-500);
+      font-size: 0.98rem;
+    }
+
+    .section-intro {
+      margin: 0 auto 2rem;
+      max-width: 60ch;
+      text-align: center;
+      color: var(--ink-500);
+    }
+
+    .capability-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1rem;
+    }
+
+    .capability-list li {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius-md);
+      padding: 1.2rem 1.4rem;
+      color: var(--ink-500);
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    .stat-band {
+      background: #0f172a;
+      color: #ffffff;
+      padding: 3rem 0;
+      margin: 4rem 0;
+    }
+
+    .stat-band .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1.5rem;
+      text-align: center;
+    }
+
+    .stat h3 {
+      margin: 0;
+      font-size: 2.4rem;
+      letter-spacing: -0.015em;
+    }
+
+    .stat p {
+      margin: 0.35rem 0 0;
+      color: rgba(241, 245, 249, 0.82);
+      font-size: 0.95rem;
+    }
+
+    .cta-banner {
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.95), rgba(124, 58, 237, 0.92));
+      color: #ffffff;
+      border-radius: var(--radius-lg);
+      padding: 2.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.5rem;
+      align-items: center;
+      box-shadow: var(--shadow-card);
+    }
+
+    .cta-banner h2 {
+      margin: 0 0 0.75rem;
+      font-size: 2rem;
+      letter-spacing: -0.02em;
+    }
+
+    .cta-banner p {
+      margin: 0;
+      color: rgba(240, 249, 255, 0.92);
+    }
+
+    .cta-banner a {
+      justify-self: start;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.85rem 1.75rem;
+      border-radius: 12px;
+      font-weight: 600;
+      background: #ffffff;
+      color: var(--brand-dark);
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.25);
+    }
+
+    .cta-banner a:hover,
+    .cta-banner a:focus-visible {
+      background: #e2e8f0;
+      text-decoration: none;
+    }
+
+    .section-label {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--brand-accent);
+      display: inline-block;
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container">
+      <a class="site-logo" href="index.html"><span>W</span>Waduit</a>
+      <nav class="primary-nav" aria-label="Primary navigation">
+        <ul>
+          <li><a href="products/index.html">Products</a></li>
+          <li><a href="solutions/index.html">Solutions</a></li>
+          <li><a href="https://help.waduit.sbs">Help Center</a></li>
+          <li><a href="contact/index.html">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="nav-cta">
+        <a class="cta-outline" href="https://app.adalysis.com/">Login</a>
+        <a class="cta-primary" href="free-trial/index.html">Start free trial</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="home-hero">
+    <div class="container">
+      <div>
+        <span class="section-label">Collaborative PPC</span>
+        <h1>Keep your PPC team aligned on every optimization</h1>
+        <p>Waduit combines shared briefs, proactive alerts, and flexible reporting so campaign leads, analysts, and stakeholders respond to change together.</p>
+        <div class="hero-cta">
+          <a class="primary" href="contact/index.html">Request a walkthrough</a>
+          <a class="secondary" href="products/index.html">Explore the platform</a>
+        </div>
+      </div>
+      <div>
+        <strong>Built for distributed teams</strong>
+        <p>Campaigns, notes, and change history stay in sync even when your team spans timezones. Share context instantly and reduce the back-and-forth.</p>
+      </div>
+    </div>
+  </section>
+
+  <main id="main-content">
+    <div class="container">
+      <section class="product-section">
+        <div class="section-intro">
+          <span class="section-label">Why Waduit</span>
+          <h2>Orchestrate PPC work from a single workspace</h2>
+          <p>Give every teammate the tools they need—without overwhelming them with noise. Waduit surfaces priorities, tracks decisions, and automates the repetitive steps.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <h3>Shared campaign plans</h3>
+            <p>Briefs, assets, and approvals live alongside each campaign so nobody chases context in email threads.</p>
+          </article>
+          <article class="feature-card">
+            <h3>Always-on monitoring</h3>
+            <p>Budget and performance alerts trigger before KPI drift impacts your goals, with routing to the right owners.</p>
+          </article>
+          <article class="feature-card">
+            <h3>Insights for every audience</h3>
+            <p>Deliver instant views for executives, clients, and finance with curated dashboards and annotation support.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="product-section">
+        <div class="section-intro">
+          <span class="section-label">Work the way you prefer</span>
+          <h2>Flexible workflows, zero spreadsheet juggling</h2>
+          <p>Waduit adapts to your team’s structure. Assign permissions, automate the busywork, and focus on strategy.</p>
+        </div>
+        <ul class="capability-list">
+          <li>Centralize Google Ads and Microsoft Advertising in one automation-ready workspace.</li>
+          <li>Use reusable playbooks to standardize campaign launches and keep review cycles predictable.</li>
+          <li>Sync annotations with Looker Studio or Power BI so reports carry the story behind the numbers.</li>
+          <li>Manage change approval flows across agencies, in-house teams, and executive stakeholders.</li>
+          <li>Retain audit-grade history for every adjustment, from bid tweaks to negative keyword updates.</li>
+        </ul>
+      </section>
+    </div>
+
+    <section class="stat-band" aria-label="Waduit customer stats">
+      <div class="container">
+        <div class="stat">
+          <h3>2,000+</h3>
+          <p>marketers collaborate in Waduit workspaces.</p>
+        </div>
+        <div class="stat">
+          <h3>35%</h3>
+          <p>average reduction in time spent preparing recurring reports.</p>
+        </div>
+        <div class="stat">
+          <h3>24/7</h3>
+          <p>monitoring covers budgets, conversion trends, and anomalies.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <section class="product-section">
+        <div class="section-intro">
+          <span class="section-label">Get started</span>
+          <h2>Move fast with a team that understands performance marketing</h2>
+          <p>Our onboarding specialists configure automations, alerts, and reports based on your targets so you can focus on the work that matters.</p>
+        </div>
+        <section class="cta-banner" aria-labelledby="home-cta-title">
+          <div>
+            <h2 id="home-cta-title">Talk with Waduit</h2>
+            <p>Tell us about your current workflow and we’ll design a rollout plan that fits your stakeholders and reporting needs.</p>
+          </div>
+          <a href="contact/index.html">Contact our team</a>
+        </section>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>
+        <strong>Need more help?</strong>
+  <p>Visit the <a href="https://help.waduit.sbs">Help Center</a> or <a href="contact/index.html">contact the Waduit support team</a>.</p>
+      </div>
+      <div>
+        <strong>Support</strong>
+        <address>
+          Waduit.sbs<br>
+          F-12 Govindam Tower, 1st Floor<br>
+          Jaipur 302012, Rajasthan, India<br>
+          Phone: <a href="tel:+18555742506">+1-855-574-2506</a><br>
+          Email: <a href="mailto:Support@waduit.sbs">Support@waduit.sbs</a><br>
+          GST No: 08AAUFC7776R1Z2
+        </address>
+      </div>
+      <div class="footer-meta">
+        © 2025 Waduit. All rights reserved.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mike Griffith, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/mike-griffith/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sat, 24 Sep 2022 18:27:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Mike Griffith, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Get Your High-Quality Google Ads Report in 15 Minutes [Free Template]</title>
+		<link>https://www.wordstream.com/blog/ws/2015/08/13/adwords-report</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/08/13/adwords-report#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Griffith]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Reporting & Analysis]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/08/12/adwords-report/</guid>
+
+					<description><![CDATA[<p>Google Ads reporting can be tricky if you don’t have the right tools or you’re not a data expert. Learn how to create a fully customizable Google Ads report for your clients. Or just download our ready-made free Google Ads report template!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/08/13/adwords-report">Get Your High-Quality Google Ads Report in 15 Minutes [Free Template]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>For those of us who spend all day in the Google Ads (formerly known as Google AdWords) UI, there’s almost no report out there that can include every bit of information we use to optimize our accounts. But even for the most hardened veteran of that grey and white landscape, trends can be hard to see without quick visualization.</p>
+<p>At WordStream we love creating custom dashboards for our clients so they can easily communicate goals within their company and staff. We automate it whenever possible so we can spend more time optimizing your account!</p>
+<p>Below is an introduction to getting your way on making aesthetic and functional Google Ads reporting dashboards that you can white-label yourself. I highly recommend going through the steps yourself; however we have included a Google Ads report template at the bottom if you wish to go straight to the final product.</p>
+<p><em><strong><a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader" target="_blank" rel="noopener">Run our Google Ads Performance Grader today</a> and you&#8217;ll get a free, instantaneous audit of your Google Ads account!</strong></em></p>
+<h2>Downloading Your Google Ads Data</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eb1e4dde-6ca3-4428-8b60-88122c21334a" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-2-compressor.png" alt="Google Ads Report" width="717" height="350" /></div>
+</article>
+</div>
+<p>Select your date range – if creating a brand new report go back as far as you want! We’re doing 2014-Today.</p>
+<p>Make sure you have only the following columns: Impressions, clicks, cost, average position, converted clicks, total conversion value (you can substitute conversions for converted clicks if necessary).</p>
+<p>Click on the Download button and segment by “Day”. Add another and segment by week, then add another and segment by month. Then download and open it!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a480fa27-4775-4e0a-85b4-d9bebd6a91bf" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-date-range.png" alt="AdWords report date range" width="1337" height="215" /></div>
+</article>
+</div>
+<p>Your report should look like the one above.</p>
+<p>We want to delete a few columns now, so for campaign state click on the letter above it, in this example you will click on the “D” which selects the whole column. Rather than hitting “delete” and clearing the column we want to hit “Ctrl &amp; -“ to remove the row altogether. Do the same for the other highlighted columns.</p>
+<p>The remaining columns should be: Day, Week, Month, Campaign, Impressions, Clicks, Cost, Avg Position, Converted Clicks, Total Conv. Value.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="825723e6-2a0e-4904-9271-69d2a939c625" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-formula.png" alt="AdWords report formula" width="1129" height="140" /></div>
+</article>
+</div>
+<p>Now we will add a simple formula so that we can get an accurate read on average position. (Note, we will be using a Weighted Average Position).</p>
+<p>Title the column WAP and in the first cell use the formula =Impressions * Avg Pos (Displayed here as =E3*H3).</p>
+<p>Drag this formula down your data (or double click in the small black box of the selected cell for instant drop down!)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2f939418-e9e3-4e05-a608-bc3f0ebf149b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-menu.png" alt="AdWords report menu" width="1185" height="161" /></div>
+</article>
+</div>
+<p>Delete the first row of the sheet that contains the date range using “Ctrl –“ and go to the end and delete the 4 total rows as well. (Click on the number to the left of the row to select the entire row). Select cell A1, then in the toolbar go to “Insert”.</p>
+<h2>Now for the Pivot Table!</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="847950a3-435c-4479-b661-42314c972f17" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-pivot-table-compressor.png" alt="Google Ads Report Pivot" width="412" height="301" /></div>
+</article>
+</div>
+<p>The default settings for the pivot table are what we want to be using so just hit “OK”.</p>
+<p>We now have an empty pivot table, so grab your stress ball and squeeze it a few times, and get ready to wonder why you ever afraid of them to begin with!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c7b5b366-bab0-4e2a-afb5-c5a8a218fc7c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-pivot-table-fields-compressor.png" alt="Google Ads Report Pivot Table" width="733" height="699" /></div>
+</article>
+</div>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="bf0619aa-42a7-4a9b-8a7e-bb1d558bc3bd" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-pivot-table-values.png" alt="AdWords report pivot table values" width="933" height="701" /></div>
+</article>
+</div>
+<p>Here we have the initial metrics dragged in. These are the metrics that just get added together!</p>
+<p>For the metrics that require multiplication or division (CTR = Clicks / Impressions) we have to do one quick special step.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="97534cb7-0e5c-4324-ac62-a1238901852f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-calculated-fields.png" alt="AdWords report calculated fields" width="1134" height="154" /></div>
+</article>
+</div>
+<p>Go To “Formulas” and then “Calculated Field”:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c89a1de6-38a9-4c82-a465-edc8a3dd973b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-insert-calculated-field.png" alt="AdWords report insert calculated field" width="521" height="360" /></div>
+</article>
+</div>
+<p>Name and create the following metrics:</p>
+<ul>
+<li>CTR = Clicks / Impressions</li>
+<li>CPC = Cost / Clicks</li>
+<li>CPA = Cost / Converted Clicks</li>
+<li>ROI = Total Conversion Value / Cost</li>
+<li>CVR = Converted Clicks / Clicks</li>
+<li>Weighted Avg Pos = WAP / Impressions</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="88c86020-cfbb-41a1-9168-d64284d9f409" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-excel.png" alt="AdWords report data" width="1165" height="682" /></div>
+</article>
+</div>
+<p>All right, things are coming together! But it’s still pretty ugly. If you present this to your board or client you’ll get a face full of hot coffee or a pink slip so let’s put lipstick on this pig.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fb846a98-29e5-4b7d-b2dc-5292343cf9f2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-formatting.png" alt="AdWords report formatting" width="279" height="424" /></div>
+</article>
+</div>
+<p>Currently the columns are named “Sum Of XXXX” so let’s rename them and give them the proper units. In the values area click on the drop down for the first option, impressions, and go to value field settings:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e88473aa-3f0b-4686-95dd-2b50d45b465d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-impressions.png" alt="AdWords report impressions" width="373" height="338" /></div>
+</article>
+</div>
+<p>Rename it to just “Impressions “ (make sure to put a space at the end of the word{excel intricacies}).</p>
+<p>Then go to Number Format:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d7c6905b-d058-4d67-aefd-111e8735200e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-numbers.png" alt="AdWords report numbers" width="541" height="474" /></div>
+</article>
+</div>
+<p>For Impressions we want “Number” with 0 decimal places. Details for the rest are below:</p>
+<ul>
+<li>Clicks: Number, 0</li>
+<li>Cost: Currency, 2</li>
+<li>Converted Clicks: Number, 0</li>
+<li>CTR: Percentage, 1</li>
+<li>CPC: Currency, 2</li>
+<li>CPA: Currency, 2</li>
+<li>ROI: Currency, 2</li>
+<li>CVR: Percentage, 2</li>
+<li>Weighted Avg Pos: Number, 1</li>
+</ul>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f114420c-eaf7-42db-a072-211acfc66df2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report253Dnew-data.png" alt="AdWords report data" width="788" height="312" /></div>
+</article>
+</div>
+<p>Much better! Now let’s sort the data so the new data is on top!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ca8e66dc-29c1-4faf-9c4a-75efe31bd9c4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-pivot-table-field-list.png" alt="AdWords report pivot table field list" width="290" height="521" /></div>
+</article>
+</div>
+<p>On the right panel click on Month and sort “Newest to Oldest” and repeat for week and then day.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="42ac3d32-2da2-47b4-8635-256882f72596" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-trend-data.png" alt="AdWords report trend data" width="776" height="462" /></div>
+</article>
+</div>
+<p>Now we’re at a point where we can start to see some actual trends in the data.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="015c4a94-195f-44d2-bd42-821b6deda57d" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-excel-colors.png" alt="AdWords report Excel colors" width="998" height="133" /></div>
+</article>
+</div>
+<p>Add some color by going to the design tab and picking whatever is aesthetically pleasing to you.</p>
+<p>Add a few columns to the left of the pivot, and a few to the top. Then highlight a column at the top, click “Ctrl Shift Right arrow” and right click the header letters and click “Hide.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b872ba83-540c-42c9-b99c-cacaad7ff03e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-merge.png" alt="AdWords report Excel merge" width="1046" height="662" /></div>
+</article>
+</div>
+<p>Highlight the top few rows above the pivot and under “Home” click on “Merge &amp; Center.”</p>
+<p>I like to match this header to the color scheme of the pivot and then type in your client’s name.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a7ef6d10-31e6-41b3-aa17-4fe1df8ebaf6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-report-presentation.png" alt="AdWords report presentation" width="913" height="753" /></div>
+</article>
+</div>
+<p>And now in a mere 15 minutes we have a great-looking Google Ads report that can be sent to any client! <a href="/download/docs/SampleAdWordsReport.xlsx">Click here to download a free PPC report template.</a></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/08/13/adwords-report">Get Your High-Quality Google Ads Report in 15 Minutes [Free Template]</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/08/13/adwords-report/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

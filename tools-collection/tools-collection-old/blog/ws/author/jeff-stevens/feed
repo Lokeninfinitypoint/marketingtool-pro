@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jeff Stevens, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/jeff-stevens/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Sat, 12 Nov 2022 18:28:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Jeff Stevens, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>7 Ways to Spruce Up Your Landing Pages for the Holidays</title>
+		<link>https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages#respond</comments>
+		
+		<dc:creator><![CDATA[Jeff Stevens]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Landing Pages]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages/</guid>
+
+					<description><![CDATA[<p>Make sure your seasonal PPC landing pages are properly aligned with your ad text and holiday offers in order to make the most of PPC this holiday season</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages">7 Ways to Spruce Up Your Landing Pages for the Holidays</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In my last post on <a href="/blog/ws/2013/11/25/ultimate-holiday-text-ad">ad text improvements for the holidays</a>, I mentioned that your PPC landing pages are a critical component you need to tweak for the holiday season.</p>
+<p>It stands to reason that a highly effective, holiday-targeted PPC campaign needs to incorporate contextually aligned landing pages that support the expectations of holiday shoppers that are clicking on your paid ads. This article is going to focus exclusively on improvements that you can make to your website’s landing pages in order to maximize your performance potential during the holiday season.</p>
+<p>Similar to my last post, we’re going to categorize landing page tweaks into two specific areas.</p>
+<p>Below is a quick outline of how I’d like to cover landing pages. The seven tips I provide below will tie in to these two key areas of focus that you should keep in mind anytime you are developing a landing page (beyond just the holiday season):</p>
+<p><strong>Two Key Areas of Focus for Landing Pages</strong></p>
+<ol>
+<li>Creating Alignment with Ad Text and Search Context</li>
+<li>Driving for <a href="/blog/ws/2013/07/11/landing-page-conversion-rate-guide">Conversions</a></li>
+</ol>
+<p>Let’s start by discussing how you can ensure that your landing pages are properly aligned with your ad text and the context of your prospect’s search…</p>
+<h2>1. Emphasize Time-Sensitivity and Sense of Urgency</h2>
+<p>If your paid search ads are constantly reminding shoppers about your year-end deals, countdown promotions, etc. you absolutely need to communicate that same sense of urgency and time-sensitivity above-the-fold on your landing pages. Check out this distinct example from Amazon.com:</p>
+<p><em>The Landing Page:</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8fff3d5e-ed7f-4496-98d5-369256786b00" data-langcode="und">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/amazon-black-friday-landing-page-1.png" alt="Seasonal Landing Page Guide" width="1383" height="294" /></div>
+</article>
+</div>
+<p>Chances are, Amazon.com is running a bull rush of holiday-themed text ads right now, many of which are likely promoting some degree of time-sensitivity combined with an urgent call-to-action. Amazon.com reinforces that type of messaging by placing a Black Friday Counter on one of their landing pages, further emphasizing the fact that these deals won’t last.</p>
+<p>If you are using any sort of urgent messaging in your ad text, look for ways to implement that language on your landing pages as well.</p>
+<h2>2. Prominently Display Promotions and Specials</h2>
+<p>If you are creating text ads that communicate specific promotions, be sure to make those exact promotions prominently visible on your landing pages. Let’s check out another example…</p>
+<p><em>L.L. Bean: Here’s the Ad…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d09f4f62-468a-4b6b-84d7-a76e4ee8c4cd" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ll-bean-holiday-text-ad-promotion-1.png" alt="Seasonal PPC Ad" width="443" height="120" /></div>
+</article>
+</div>
+<p><em>And here’s the Landing Page…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c209cd23-46b0-42a6-9518-1dab70f2ffb3" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ll-bean-holiday-landing-page-1.png" alt="Christmas Season Landing Page" width="735" height="488" /></div>
+</article>
+</div>
+<p>As you can see, there is close alignment between the promotion in the ad text and the actual landing page header. L.L. Bean has done an excellent job ensuring that their “sale” and coupon code messaging in their ad text is prominently displayed on their landing page as well, right there above the fold (meaning, users don’t have to scroll down to find it).</p>
+<p>As a shopper, I know exactly what I’m going to get AND I am even more confident that I made the right choice because the promotion that I was interested in is clearly communicated to me a second time. I KNOW WHAT I NEED TO DO TO TAKE ADVANTAGE OF THE PROMOTION! Providing this level of guidance and alignment to your prospects will reward you in the long run.</p>
+<h2>3. Provide a Clear Path to Conversion</h2>
+<p>This is a fairly basic recommendation, but one that tends to get overlooked more frequently than you may think.</p>
+<p>Make it as easy as possible for your prospects to convert. This means ensuring that your prospects do not have to click more than two times to get to a conversion form. For e-commerce companies, it should be one click from your product to your order form. For service-oriented businesses, you should feature a conversion form directly on your landing page. Anything beyond 1 to 2 clicks to convert and you will see your bounce rates climb.</p>
+<p>(<strong>Shameless Plug Alert:</strong> if you are a WordStream customer, you have access to a dedicated <a href="/blog/ws/2013/09/10/landing-page-builder">landing page builder and lead management tool</a> right in our software that was built with PPC-optimized landing pages in mind. As an added bonus, any of our customers that register and verify a subdomain for their WordStream landing pages before Dec. 31, 2013 will be automatically entered to win an Apple iPad Mini!)</p>
+<h2>4. Ease of Navigation to Relevant Content</h2>
+<p>Similar to providing a clear path to conversion, online businesses should also consider making it as easy as possible for prospects to access relevant information that may give them a better chance to find more targeted content/offers and convert. A great example of this applied to the holiday season is REI’s Gift Center. Let’s check out the example:</p>
+<p><em>REI: Here’s the Landing Page…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b5629241-81e0-4db8-9bb9-be993674750d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rei-landing-page-holiday-season-1.png" alt="Seasonal Landing Pages" width="845" height="409" /></div>
+</article>
+</div>
+<p><em>Here’s the Navigation Menu…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b7d6d3af-c214-478b-85fc-d1201965d539" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/rei-navigation-menu-1.png" alt="Landing Page Navigation" width="815" height="389" /></div>
+</article>
+</div>
+<p>REI has made it exceptionally easy for its potential customers to navigate to even more gift ideas on their site by providing a unique, gift-oriented product menu in their navigation. Not only that, but they differentiated their “gift center” from the rest of the menu bar by highlighting it in red.</p>
+<p>Now, a disclaimer. You’ll hear conflicting opinions on this type of navigation. Many hardcore landing page experts (usually coming from the <a href="/blog/ws/2013/05/29/what-is-inbound-marketing">inbound marketing</a> side of the universe) will balk at the idea of adding menu navigation to your landing pages. Some businesses simply don’t have a choice as they don’t have dedicated landing page builders that can incorporate that feature. Others will simply find that providing additional navigation from your PPC-specific landing pages opens up a lot of opportunity for additional conversions. Experiment with what you have, and don’t listen to any absolute recommendations until you have some data to work with, especially during the holiday season, as this is probably the most important time of year for your <a href="/effective-landing-pages">effective landing pages</a> to perform well.</p>
+<h2>5. Use Seasonal Color Themes and Images</h2>
+<p>First, an example.</p>
+<p><em>Oriental Trading Company: Here’s the Landing Page…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4c843163-b83a-48e3-9b8b-b2146b3cb90a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/oriental-trading-seasonal-landing-page-1.png" alt="Holiday PPC Landing Page Tips" width="711" height="300" /></div>
+</article>
+</div>
+<p>How’s that for holiday spirit? It’s almost… too cheery… Maybe I’m just Scrooge!</p>
+<p>Regardless, if you have the capability, create landing pages that incorporate holiday-specific images and themes. If you want to wow your prospects right off the bat, a stylistically sound landing page can go a long way.</p>
+<p>Just try not to go overboard…</p>
+<h2>6. Create Mobile-Optimized Landing Pages</h2>
+<p>You’ve heard it before, you’re going to hear it again. The movement toward mobile is real, and you need to respond. Creating mobile-optimized landing pages will be a huge improvement to your holiday campaigns now that all of us are opted-in to <a href="/blog/ws/2013/02/06/google-adwords-enhanced-campaigns">enhanced campaigns with improved mobile targeting</a>.</p>
+<p>Imagine Christmas mornings all across the globe. I would be willing to bet that quite a few lucky individuals will be getting some sort of mobile device under the tree. And (*gasp*) what’s that? A $100 gift card to their favorite chocolate shop where you can order online? Guess who’s going to find your ad on their mobile device and try to make a purchase right there, that morning? You don’t want to lose out on that type of business, and studies have shown that mobile purchases and general traffic spike massively during the holidays. Creating mobile-optimized landing pages is a must if you want to capitalize on this traffic.</p>
+<p>If you need some quick resources for creating mobile landing pages, I recommend giving <a href="http://www.dudamobile.com/">DudaMobile</a> a look.</p>
+<h2>7. Enable Social Sharing and Customize Default Sharing Messages</h2>
+<p>Last, but not least: social media integration.</p>
+<p>Developing landing pages that incorporate some level of social media sharing options is a great idea to capitalize on the giving and sharing spirit of your holiday shoppers. Check out this example from Moosejaw:</p>
+<p><em>Moosejaw: Here’s the Landing Page…</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4a95beaa-902a-47d2-b76c-5f37c45aa096" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/moosejaw-seasonal-landing-page-1.png" alt="Holiday Landing Page" width="1077" height="361" /></div>
+</article>
+</div>
+<p>I’ve highlighted the social sharing buttons (Facebook, Twitter, Pinterest) on the left.</p>
+<p>Enabling social sharing from your landing pages opens the door to allowing your shoppers to promote FOR you. In fact, you can make your biggest fan’s job a little bit easier by customizing your default sharing messages from your unique landing pages. Depending on the tool that you are using to <a href="https://www.wordstream.com/blog/ws/great-landing-pages">build landing pages</a>, you should have the option to edit the sharing message that is automatically populated in the comment/tweet field of the link that your shoppers would like to share, making it exceptionally easy for your best customers to spread the cheer.</p>
+<p>Shoppers like knowing that the companies that they are interested in are also connected to their common networks. Social sharing is an excellent feature to enable for the holiday season if you have not already.</p>
+<p>At the end of the day, it’s all about making your prospect’s journey as smooth and satisfying as possible. Tight alignment between your ad text and landing pages is crucial to not only providing that experience that is likely to drive a conversion, but also to showing the Google Gods that your keywords deserve a nice little <a href="/blog/ws/2013/08/20/quality-score-hacks">Quality Score boost</a> this holiday season.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages">7 Ways to Spruce Up Your Landing Pages for the Holidays</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/11/27/seasonal-landing-pages/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

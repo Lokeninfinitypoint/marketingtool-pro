@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Greg Palmer, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/greg-palmer/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 16 Aug 2024 12:15:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Greg Palmer, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ITP 2.0: What Advertisers Need to Know</title>
+		<link>https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0#respond</comments>
+		
+		<dc:creator><![CDATA[Greg Palmer]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0/</guid>
+
+					<description><![CDATA[<p>Here’s what you need to know about ITP 2.0 and what you need to do to make sure you’re tracking all of your conversions.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0">ITP 2.0: What Advertisers Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We all want to stay protected on the internet, and big tech companies are trying to strike a balance between supporting user privacy and giving businesses the ability to better understand users to target relevant advertisements. The most recent update of Safari features Intelligent Tracking Prevention 2.0, or <a href="https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0/" target="_blank" rel="noopener">ITP 2.0</a>. This security measure uses machine learning to identify and block tracking cookies. This blocking assures users that their data is better protected. However, it also prevents advertisers from better understanding their target customers.</p>
+<p>For advertisers, the biggest impact is to conversion tracking. Here’s what you need to know about ITP 2.0 and what you need to do to make sure you’re tracking all of your conversions.</p>
+<h2>What do I need to know about ITP 2.0?</h2>
+<p>ITP 2.0 is a recent feature of the Safari web browser, popular on iPhones, iPads, and Macs. By blocking cookies placed by advertising companies, it can prevent you as an advertiser from effectively recording conversions like form fills and purchases.</p>
+<p>When you can’t <a href="https://www.wordstream.com/blog/ws/2014/02/13/tracking-conversions-in-adwords">record conversions</a>, you aren’t able to evaluate how well your accounts are performing or make informed changes to improve. Basically, without conversion tracking, you don’t understand the effectiveness of your advertising campaigns.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="abb06b5f-ff7b-4bb7-bbb9-f0699a1286a5" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/itp-2.0-safari.jpg" alt="ITP 2.0 Safari browser" width="883" height="510" /></div>
+</article>
+</div>
+<p>The good news is, Google, Bing, and Facebook have come up with solutions that allow you to continue to track conversions and add Safari visitors to your remarketing lists. But you may need to take action.</p>
+<h2>Am I affected?</h2>
+<p>If you haven’t already prepared for ITP 2.0, you likely are.</p>
+<p>According to Net Marketshare, Safari is the second most popular browser on the market when counting desktops, phones, and tablets. Overall, it represents 17.5% of web visitors, and a much higher proportion of mobile visitors.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ce9fa5d8-64ff-4c19-9eb4-c8976d31106f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/itp-2.0-browser-market-share.jpg" alt="ITP 2.0 browser market share graph" width="1011" height="287" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Image via <a href="https://netmarketshare.com/browser-market-share.aspx?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%2C%22Mobile%22%2C%22Tablet%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222017-11%22%2C%22dateEnd%22%3A%222018-10%22%2C%22segments%22%3A%22-1000%22%7D" target="_blank" rel="noopener">Net Marketshare</a></em></p>
+<p>If you rely on mobile visitors to convert on your site (and <a href="https://www.wordstream.com/blog/ws/2016/09/15/mobile-advertising-statistics">you probably do</a>!), it’s very possible that you are missing conversion data. The <a href="https://www.wordstream.com/blog/ws/2018/10/22/lead-capture-form">landing page form fills</a> and other valuable conversion actions are still occurring, but they’re not being attributed to your ads.</p>
+<h2>What should I do about it?</h2>
+<p>Luckily, all three major advertising companies have solutions that will continue to allow you to accurately track conversions.</p>
+<p>If you’re using Google Ads, with or without Google Analytics, you should update your tracking tag to use their new <a href="https://developers.google.com/analytics/devguides/collection/gtagjs/">GTag</a>, which will track both Google Analytics and Ads actions from the <a href="https://support.google.com/google-ads/answer/7548399?hl=en" target="_blank" rel="noopener">same tag</a>. If you’re using this combined tag to track both, make sure it includes your Google Ads ID as well as your Google Analytics ID. Placing this updated site-wide tag and conversion snippets will ensure that you are correctly recording conversions to your account.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ab7cfc4c-1bf3-4756-a0d9-192dce018239" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/itp-2.0-gtag-conversion-tracking.jpg" alt="ITP 2.0 GTag" width="770" height="190" /></div>
+</article>
+</div>
+<p>If you&#8217;re using Bing Ads, ensure that you are using their <a href="https://advertise.bingads.microsoft.com/en-us/blog/post/january-2018/conversion-tracking-update-on-bing-ads" target="_blank" rel="noopener">Universal Event Tracking</a> tag and have also enabled Auto-Tagging in your account.</p>
+<p>And if you’re a WordStream customer using our tag to track your Bing and Google Ads conversions, we’ve made those updates, so you’re protected.</p>
+<p>If you are using the <a href="https://www.wordstream.com/blog/ws/2016/10/11/facebook-conversion-tracking">Facebook Pixel</a>, be sure you don’t dismiss the prompt that updates your conversion tracking. Other than this, you don’t need to make any changes in order to continue tracking conversion effectively.</p>
+<h2>Review your accounts to keep recording conversions</h2>
+<p>Conversion tracking is important; this records where you’re spending your ad dollars, and it also lets you evaluate account performance so that you can improve. ITP 2.0 may have impacted your ability to track conversions, but it doesn’t prevent you from capturing this information going forward. To make sure you’re recording all of your conversion data, you should take the time to review your accounts and make any of the updates necessary today.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0">ITP 2.0: What Advertisers Need to Know</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/11/20/itp-2-0/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

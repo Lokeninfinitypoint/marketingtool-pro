@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kate Lindsay, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/kate-lindsay/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 18 Dec 2023 18:42:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Kate Lindsay, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>I&#8217;ve Designed 100+ Display Ads: Here&#8217;s What I Learned</title>
+		<link>https://www.wordstream.com/blog/ws/2019/07/09/ad-design</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/07/09/ad-design#respond</comments>
+		
+		<dc:creator><![CDATA[Kate Lindsay]]></dc:creator>
+		<pubDate>Tue, 09 Jul 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/07/09/ad-design/</guid>
+
+					<description><![CDATA[<p>Get ready for a crash course in display ad design: WordStream's in-house design expert shares the seven most important lessons for creating the best display ads possible.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/07/09/ad-design">I&#8217;ve Designed 100+ Display Ads: Here&#8217;s What I Learned</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span lang="EN">There’s nothing like spending hours perfecting your beautiful new display ad and sending it off into the wilds of the Google Display Network (GDN) and Facebook. You’ve got a big red button, a blue background (that universally appealing color, right?), and the word “FREE” in there five times. This ad design is going to do great! Right?</span></p>
+<p><span lang="EN">But then the click-through rate <em>dropped </em>by .5%? Huh.</span></p>
+<div style=text-align:center;><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-confusion.jpg" alt="confusion" width="500" height="314" /></div>
+<p><span lang="EN">I’ve designed at least a hundred display ads over the course of my career, so I’m all too familiar with the confusion and disappointment of seeing your ad go <em>wrong</em> when you theoretically followed all of the textbook rules to get it <em>right</em>.</span></p>
+<p><span lang="EN">Here’s the thing: <strong>Those textbook rules of ad design aren’t always right for <em>your </em>campaign or your company. </strong>I’m going to share the seven biggest ad design lessons I’ve learned in my career as a designer so that you can get your display ad creative on track.</span></p>
+<h2>1. It’s not about the colors, it’s about the contrast</h2>
+<p><span lang="EN">I can’t tell you how many blog posts I’ve read over the years that get into the great button color debate. What color button performs best? Well, I’m here to tell you once and for all, the <a href="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/inline-images/ad-design-orange.gif?fIgMaXTi33TPvhZNxRipcZiK_Qwb2S58">definitive answer is </a><strong><a href="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/inline-images/ad-design-orange.gif?fIgMaXTi33TPvhZNxRipcZiK_Qwb2S58">orange</a>.</strong></span></p>
+<p><span lang="EN">Just kidding!</span></p>
+<p><span lang="EN">In reality, there is no hard and fast answer here, and a lot of it comes down to a) your audience and b) a little design principle called contrast. This <a href="https://blog.hubspot.com/blog/tabid/6307/bid/20566/the-button-color-a-b-test-red-beats-green.aspx" target="_blank" rel="noopener">study from Hubspot</a><span lang="EN"> might, at first glance, appear to suggest that red buttons <em>do</em> perform better than green buttons. But a closer look at the page designs will reveal that both Performable’s logo and website used a lot of green. What contrasts well against green? Red. </span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-button-contrast.jpg" alt="ad design button contrast image" width="500" height="266" /></div>
+<p><span lang="EN">So how do you take advantage of contrast in your ads? The easiest way to find opposite colors is to revisit our old friend, <a href="https://coschedule.com/blog/color-psychology-marketing/" target="_blank" rel="noopener">the color wheel</a><span lang="EN">.</span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-color-wheel.jpg" alt="color wheel" width="820" height="820" /></div>
+<p><span lang="EN">Find the most dominant color in your ad, and move to the exact opposite end of the color wheel to find your contrasting color.</span></p>
+<p><span lang="EN">Need some help creating color schemes for your ads? There are tons of excellent free color palette tools out there, but some of my favorites are <a href="https://www.canva.com/colors/color-palettes/">Canva’s Color Palettes</a><span lang="EN"> and <a href="https://color.adobe.com/create" target="_blank" rel="noopener">Adobe Color</a><span lang="EN">, which lets you select a complementary (a.k.a., opposite) <a href="https://www.wordstream.com/blog/ws/2019/10/03/website-color-scheme">color scheme</a>.</span></span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-color-display-ad-example.jpg" alt="display ad example with contrasting colors" width="300" height="250" /></div>
+<p class="text-align-center"><em><span lang="EN">The orange button pops against the blue background.</span></em></p>
+<p><span lang="EN">Color isn’t the only way to create a sense of contrast in your <a href="https://www.wordstream.com/blog/ws/2020/03/02/banner-ads-examples">banner ads</a><span lang="EN">—<span lang="EN">you can also play with things like brightness, saturation, and scale to make your button stand out more. Heck, I’ve created high-performing banners that didn’t even have buttons, but we’ll get to that in the next section.</span></span></span></p>
+<h2>2. Keep your ad design simple</h2>
+<p><span lang="EN">Communicating your message in the simplest, cleanest way is critical for successful ad creative. After all, only <a href="https://www.marketingweek.com/2016/07/26/marketers-continue-to-waste-money-as-only-9-of-digital-ads-are-viewed-for-more-than-a-second/" target="_blank" rel="noopener">9% of display ads</a><span lang="EN"> are viewed for more than one second, and that shrinks down to a measly 4% for over two seconds. If a prospect can’t immediately understand your ad, they’re not going to click, let alone remember who you are. </span></span></p>
+<p><span lang="EN">Below is an example of an ad that <em>didn’t</em> perform well for us.</span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-keep-it-simple-display-ad.jpg" alt="display ad example with too much going on" width="300" height="250" /></div>
+<p><span lang="EN">The contrast of the button looks good, so why didn’t this ad do well? Let’s dive into the problematic parts of this banner (and for the record, I made this, so I’m allowed to talk trash about it). </span></p>
+<p><span lang="EN">For one, there’s too much copy here. Between the headline, subheading, button, and the “Safe &amp; Secure” text, there’s so much happening that you don’t even know where to look first. The <a href="https://www.wordstream.com/blog/ws/2014/10/09/call-to-action">call to action</a><span lang="EN"> copy itself is too ambiguous (and probably wouldn’t fly with <a href="https://support.google.com/adspolicy/answer/6008942?hl=en" target="_blank" rel="noopener">Google’s current policies</a><span lang="EN">). And the visual theme, which could be compelling, is too busy for such a small composition. </span></span></span></p>
+<p><span lang="EN">Here’s how I would make this better today:</span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-keep-it-simple-display-ad-revision.jpg" alt="ad design revision" width="300" height="250" /></div>
+<p><span lang="EN">So much nicer, right? A concise headline with better <a href="https://unbounce.com/landing-pages/increase-conversions-by-improving-the-clarity-of-your-value-proposition/" target="_blank" rel="noopener">value prop clarity</a><span lang="EN"> paired with a more direct call-to-action and a cleaned up design makes for a much better ad.</span></span></p>
+<h2>3. Context is key</h2>
+<p><span lang="EN">Have you ever taken a high-performing ad from one platform and moved it onto another, just to discover that same creative <em>tanked</em> on the other platform?</span></p>
+<p><span lang="EN">Yeah, ditto. That is why it’s critical to consider the context in which your ad will be displayed when you <a href="https://www.wordstream.com/blog/ws/2020/03/27/design-thinking">think about the design</a>. When I first started at WordStream and was just beginning to get a feel for our brand, I was tasked with making some new sidebar ads for our Google Ads Performance Grader. I felt good about how clean and modern my ad looked. I was certain it would perform well.</span></p>
+<p><span lang="EN">In reality:</span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-keep-it-simple-context.jpg" alt="Drake with display ads" width="500" height="397" /></div>
+<p><span lang="EN">So what gives? What’s the magic ingredient at play here? I’ll give you a hint: It’s context! While that top ad might perform great on the Google Display Network (GDN), appearing on websites that have nary to do with WordStream, it did poorly on our own website because it <strong>felt too much like an ad. </strong></span></p>
+<p><span lang="EN">We’ve found ads on our website tend to perform better when they work together to create a cohesive experience with the site itself. Otherwise, banner blindness comes in to play. Creating ads that <a href="https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/" target="_blank" rel="noopener">blend in with your website</a><span lang="EN"> is a great way to improve your clicks and conversions for on-site native ads.</span></span></p>
+<p><span lang="EN">Likewise, you may find certain ad formats tend to perform better on some networks than others. You might see great results with static images on GDN, but <a href="https://www.facebook.com/business/news/insights/creative-combinations-that-work" target="_blank" rel="noopener">according to Facebook</a><span lang="EN"> a combined approach of image and video drives the most conversions on their platform. And <a href="https://www.wordstream.com/blog/ws/2018/05/21/facebook-carousel-ads">carousel ads</a><span lang="EN"> tend to perform especially well for ecommerce businesses.</span></span></span></p>
+<h2>4. Copy and ad design = BFFs</h2>
+<p><span lang="EN">I’ll be the first to admit that I’m not a copywriter. My brief desire to become a short story writer was quickly squashed by my 10th grade English teacher. Regardless, I recognize how important it is to have engaging copy in the <a href="https://www.wordstream.com/blog/ws/2020/01/29/youtube-display-ads">display ads</a> that I design. I’ve learned that it’s important to develop copy and design in tandem when planning an ad campaign. </span></p>
+<p><span lang="EN">Too many words will not only make a banner feel cluttered, but they will also make it much harder to effectively communicate your value prop. Less is definitely more when it comes to display ad copy. This banner redesign for Delta does a great job of stripping down the messaging to the most important parts (you can also see how they’ve improved their button contrast):</span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-delta-version-one.jpg" alt="Delta ad design version one" width="768" height="488" /></div>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-delta-version-two.jpg" alt="Delta ad design version two" width="768" height="501" /></div>
+<p class="text-align-center"><em><span lang="EN">Source: </span></em><a href="https://www.forbes.com/sites/gabrielshaoolian/2016/04/08/effective-banner-designs-real-world-examples" target="_blank" rel="noopener"><em>Forbes</em></a></p>
+<p><span lang="EN">Concise ad copy is especially important when considering mobile views (not to mention cramming more than five words into a 320&#215;100 banner is one of my least favorite tasks).</span></p>
+<h2>5. Use seasonality to refresh your creative</h2>
+<p><span lang="EN">Aside from being great fuel for clever copywriting, utilizing holidays and seasonality in your ads is a great way to refresh existing campaigns throughout the year.</span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-seasonality.jpg" alt="Halloween-themed display ad" width="720" height="377" /></div>
+<p class="text-align-center"><em><span lang="EN">I’m not gonna lie and tell you this </span></em><span lang="EN">isn’t<em> the best thing I’ve ever written.</em></span></p>
+<p><span lang="EN">Take the above ad I created for one of our guides–we have a standard ad we promote throughout the year, but for Halloween we decided to have a little fun and it <strong>really paid off.</strong> We saw a huge bump in click-through rate and conversion rate, and we were genuinely bummed to have turn it off after Halloween was over.</span></p>
+<p><span lang="EN">Just remember to be considerate of your audiences when making seasonal or holiday-themed ads. While it’s heating up for summer here in Boston, Australia is starting to cool off for winter<span lang="EN">—<span lang="EN">and your Fourth of July themed ad is likely to fall flat in geographies outside of the USA.</span></span></span></p>
+<h2>6. Take advantage of free resources</h2>
+<p><span lang="EN">Not every business can afford to hire a full-time designer or wants to splurge on a stock photo subscription when they’re just getting started, so it’s a good idea to make use of all the great free tools that are available (hot tip<span lang="EN">—<span lang="EN">you <em>cannot </em>just pull images from Google and use them in your ads). In addition to the color palette resources I mentioned above, here are a few other free tools I can personally recommend.</span></span></span></p>
+<h3>Moat, the GOAT of competitive creative analysis</h3>
+<p><span lang="EN">While <a href="https://moat.com" target="_blank" rel="noopener">Moat</a><span lang="EN"> offers a paid product with more in-depth data, their free banner ad search tool is a FANTASTIC place to start if you’re looking for some creative inspiration. Simply type in an existing brand, and Moat will return with several examples of ad creative that has been run by that particular brand.</span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-free-display-ad-tools.jpg" alt="Moat example" width="768" height="514" /></div>
+<p><span lang="EN">Be sure to use this information responsibly. Just because someone <em>has</em> done something, doesn’t necessarily mean it performed well for them. Consider this more of a jumping off point if you’re stuck.</span></p>
+<h3>Unsplash, for free stock photos that don’t suck</h3>
+<p><span lang="EN">Even with access to a paid stock resource, I find myself occasionally browsing <a href="https://unsplash.com/" target="_blank" rel="noopener">Unsplash</a><span lang="EN">, simply because the images are often superior to what I can dig up on your typical <a href="https://www.wordstream.com/blog/ws/2019/03/22/best-practices-stock-photos">stock photo</a><span lang="EN"> sites. The photography is high-quality and modern, plus it feels more natural than some of the stereotypical uncomfortably posed stock out there.</span></span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-free-display-ad-tools-salad.jpg" alt="happy woman eating salad with &quot;nobody does this&quot; overlay" width="800" height="576" /></div>
+<p class="text-align-center"><em><span lang="EN">Am I the only one that cries when I eat salad?</span></em></p>
+<h2>7. Kill your darlings</h2>
+<p><span lang="EN">My final tip is arguably the most important: Don’t be married to your ideas! </span></p>
+<p><span lang="EN">As a creative, I totally understand how easy it is to get emotionally attached to something you’ve poured hours of work into. Learn to separate what you <em>think </em>is good from what actually performs well (see our <a href="/blog/ws/2020/09/30/best-display-ad-examples">best display ad picks from 2020</a>), because this is something that will be different for every business and every audience. Maybe you think cats are hysterical, but your audience LOVES dogs<span lang="EN">—<span lang="EN">that’s totally ok (but cats are better).</span></span></span></p>
+<div style=text-align:center;><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-design-kill-your-darlings.jpg" alt="your opinion, man meme" width="625" height="352" /></div>
+<p><span lang="EN">Good art may be subjective, but <a href="https://uxmag.com/articles/designing-objectively" target="_blank" rel="noopener">good ad design is </a><a href="https://uxmag.com/articles/designing-objectively"><em>objective</em></a><em><span lang="EN">. </span></em><span lang="EN">How something makes you feel might affect another person in an entirely different way based on their individual upbringing and life experiences (this is why I take oversimplification of color psychology with a big ol’ grain of salt). Learn what your audiences like by testing new creative frequently, and set up A/B tests to help you nail down just what the secret ingredient is that’s making a campaign a top performer.</span></span></p>
+<p><span lang="EN">Designing high-performing creative can be <em>hard</em>, but don’t get discouraged<span lang="EN">—<span lang="EN">by testing and iterating often, you’ll start to notice patterns that you can use to inform your future campaigns and the process will feel a little easier every time.</span></span></span></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/07/09/ad-design">I&#8217;ve Designed 100+ Display Ads: Here&#8217;s What I Learned</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/07/09/ad-design/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

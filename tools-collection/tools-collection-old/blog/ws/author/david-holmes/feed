@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>David Holmes, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/david-holmes/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Tue, 16 Nov 2021 07:03:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>David Holmes, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>News Flash, Your Sales Funnel Isn&#8217;t Linear &#8211; Why You Need Remarketing</title>
+		<link>https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel#respond</comments>
+		
+		<dc:creator><![CDATA[David Holmes]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel/</guid>
+
+					<description><![CDATA[<p>The sales funnel just isn't linear anymore. Here are two common misconceptions about the sales funnel - and why you need remarketing to close more deals.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel">News Flash, Your Sales Funnel Isn&#8217;t Linear &#8211; Why You Need Remarketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Are you tired of getting this same old sales pitch?</p>
+<p><em>“Our marketing strategy is based around attracting website visitors and nurturing them into qualified leads down the sales funnel to a point of sale.” – Dinosaur</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ec6018e4-3bb8-4e1e-94b8-b438fd819f85" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/dinosaur-sales-funnel-model.png" alt="Your sales funnel is not linear - why you need remarketing" width="1242" height="771" /></div>
+</article>
+</div>
+<p>In a world that follows a perfect order and sequence, this all sounds dandy, but the truth is that in the 21st century our modern buyer does not necessarily behave this way anymore. I used to buy into this mode of thinking, but the more and more I thought about my own buying behavior, the more I realized how flawed this way of thinking is.</p>
+<p>Regardless of whether you are in the B2B or B2C realm, the linear sales funnel is somewhat of an obsolete model. I say “somewhat” because of course it is possible for someone to visit a website, sign up for their emails, and become more qualified through nurturing emails to a point of sale; it happens all the time. <strong>But</strong> <strong>you can miss a lot of opportunities if you presume this linear type of buying behavior is true for every lead</strong>. (Remarketing can help you capitalize on these missed opportunities, but more on that later.)</p>
+<p>Let’s take a look at two core misconceptions when it comes to the traditional sales funnel before diving into the power of remarketing.</p>
+<h2>Misconception #1: We assume there is only one person making the purchasing decision.</h2>
+<p>This is something that is fairly obvious when it comes to B2B purchases. According to the International Data Corporation (IDC), a market research firm, <a href="https://www.salesforce.com/blog/2015/04/the-b2b-sales-funnel-is-dead-heres-the-proof.html"><strong>the average B2B deal has over 8 decision makers.</strong></a>When it comes to B2C consumerism, there is usually one buyer involved, but that doesn’t mean that the purchasing decision is solely attributed to that one buyer.</p>
+<p>For example, friends of a buyer, online reviews or exposure on social media can <a href="/blog/ws/2016/02/02/marketing-to-millennials">greatly influence one’s decision making process</a>.</p>
+<p>Imagine two people going on to try clothes at the store, and one friend asks another if they like the shoes they are trying on. Whatever the answer is, it will most likely affect (not necessarily determine) how the buyer thinks about the clothes they are considering to purchase.</p>
+<p>Many shoppers also use <a href="/blog/ws/2016/02/11/google-ratings">online reviews</a> as a guide to decide whether or not to make a purchase. It really depends on what the buyer is purchasing.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="8124bdd9-4279-4899-832f-223291813613" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/online-reviews-in-sales-funnel.png" alt="Influence of online reviews" width="617" height="280" /></div>
+</article>
+</div>
+<p><em><a href="https://d16cvnquvjw7pr.cloudfront.net/resources/whitepapers/Zendesk_WP_Customer_Service_and_Business_Results.pdf">Dimensional Research, 2013</a></em></p>
+<p>According to Forbes, <a href="http://www.forbes.com/sites/marketshare/2012/05/07/are-brands-wielding-more-influence-in-social-media-than-we-thought/"><strong>81% of US respondents indicated that friends’ social media posts directly influenced their purchase decision.</strong></a>This is pretty interesting because the graph below emphasizes that there are a lot of factors that can influence a buyer and that humans don’t necessarily always make decisions based on logic and thorough research.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d2febcb4-5ee7-4279-870b-8792c35bbd61" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/social-media-influence-on-sales-funnel.png" alt="Social media influence on sales funnel" width="804" height="277" /></div>
+</article>
+</div>
+<p><a href="http://www.forbes.com/sites/marketshare/2012/05/07/are-brands-wielding-more-influence-in-social-media-than-we-thought/">Market Force, 2012</a></p>
+<p>&nbsp;</p>
+<p>This actually happened to me a few weeks ago when my friend tagged me on Facebook on a guitar pedal video.</p>
+<p>My initial reaction was that it cost too much for what it did, so I just decided that I wasn&#8217;t going to buy it (even though I really wanted it).</p>
+<p>After viewing the video, I noticed ads appearing for that product on various websites that I visited. I ended up clicking on it only to land on a landing page with a video (I guess a part of me still really wanted this pedal).</p>
+<p>Once I watched the video, I realized there was a functionality to the pedal that I did not initially realize even existed, which shifted my thinking to “Okay…this pedal is worth the money, but I still don’t want to buy it.”</p>
+<p>For weeks I said I wasn’t going to buy it due to the cost alone, but my friend and I began talking about the pedal in comparison to other pedals, which ultimately led to me purchasing the guitar pedal since I felt the price was now justified, especially relative to other pedals’ quality and price.</p>
+<h2>Misconception #2: We pretend we understand buying behavior by letting them reach out when they’re ready.</h2>
+<p>This is one of the biggest fallacies marketers can fall into. The traditional way of thinking about the funnel in simple terms represents the need for <a href="/blog/ws/2014/09/12/lead-generation-offer">education on a product or service</a> and additional content that speaks to that product or service more in depth to a point where they will reach out wanting to buy.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b4dc4c12-aee1-4694-90ec-80bade533069" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/why-use-call-only-ads.jpg" alt="why use call only ads" width="500" height="435" /></div>
+</article>
+</div>
+<p>The concept of “waiting for the customer to come to you” doesn’t always work when you’re trying to <a href="/blog/ws/2016/02/16/landing-a-big-ppc-account">land a deal</a>. That’s not to say you should blast them with emails or call them incessantly, but rather, find ways of getting your message across in a non-obtrusive way.</p>
+<p>The traditional funnel-like sequence of decision making does happen, but I believe it’s more beneficial to have an additional dynamic approach that doesn’t rely on a static funnel. Why limit yourself to one strategy?</p>
+<p>So, if we can’t truly predict buyer behavior, what’s the best method of influencing an action from a person? What is this dynamic approach you speak of?</p>
+<h2>Retargeting!</h2>
+<p>Ah yes, the power of retargeting! For those of you who don’t understand the <a href="/google-remarketing">concept of ad retargeting</a>, also known as remarketing, let me cover it real quick for you.</p>
+<p><strong>Ad Retargeting: </strong><em>A form of online advertising that enables advertisers to show ads to users who have already visited their site while browsing the web.</em></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="248735f9-3cd2-4491-b1b2-baadef585000" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/remarketing-3.jpg" alt="Remarketing concept diagram" width="632" height="300" /></div>
+</article>
+</div>
+<p>Essentially, remarketing allows you to stalk website visitors who have been to your website by retargeting them with relevant ads. They are tracked through their browser cookies, which is what allows you to display ads to them, even when they aren’t actively searching for your product or service. This means that an ad can show up on the sidebar of their email, through the Google display network while they’re browsing the web, and even Facebook.</p>
+<p>What does this mean? Instead of waiting around for the potential customer to come back to you, you’re staying top of mind by reminding them what they showed interest in in the first place. It’s a subtle method of conversion rate optimization.</p>
+<p>Further, remarketing can subconsciously help address the multiple buyer dilemma in the sense that it serves as a reminder to the web visitor of the existence of the product. In the example of the guitar pedal above, if it wasn’t for the combination of the remarketing campaign and the conversation with my friend (whose opinion I trust very much), I wouldn’t have even considered making the purchase.</p>
+<p>Below are a couple more situations where remarketing can really come in handy:</p>
+<ul>
+<li>Retargeting people who abandon online shopping carts</li>
+<li>Branding purposes – <a href="/blog/ws/2015/07/10/brand-awareness">creating awareness for your brand</a> or seasonal promotions</li>
+</ul>
+<p>The real benefit of retargeting is how granular you can get with you retargeting criteria regarding demographics (e.g. age, gender, income, location, etc.) and web behavior (e.g. keyword search terms, devices being used, specific pages touched, etc.) This can mean you can get hyper-focused with who you want to target.</p>
+<h2>Case Study: Similar Audiences</h2>
+<p>A specific example of how you can use remarketing would be to increase traffic from audiences similar to those who have visited your site in the past. This targeting is done based on demographic information and web browser behavior to look for common trends based on who has visited your site in the past.</p>
+<p>Below is a screenshot of a client’s remarketing list size growing substantially in the past month. In this particular example, what the client did was retarget audiences that were similar to web visitors that converted on their website.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="beaf94ce-0b6d-4fd9-9aa5-334264c98636" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sales-funnel-model-remarketing-list-size.png" alt="Sales funnel model" width="980" height="312" /></div>
+</article>
+</div>
+<p>Below is another specific example of a remarketing campaign that had an ad that generated 154 conversions from July 21, 2014 – November 20, 2015, with a total of approximately 300 thousand impressions. The primary goal of this campaign was to raise awareness of the product, but in doing so, they were also able to acquire new customers based on the success of their remarketing list!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5451a056-78fa-412b-a0ec-b95eec7d48c2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/sales-funnel-remarketing-case-study.png" alt="Sales funnel marketing case study" width="1642" height="729" /></div>
+</article>
+</div>
+<p>If you’d like to learn about remarketing more in depth, check out some of our resources below:</p>
+<ul>
+<li><a href="/blog/ws/2013/12/04/adwords-remarketing-best-practices-guide">The Complete Guide to AdWords Remarketing Best Practices</a></li>
+<li><a href="/blog/ws/2015/11/16/facebook-remarketing">The Ridiculously Awesome Guide to Facebook Remarketing</a></li>
+<li><a href="/blog/ws/2015/10/01/remarketing-facts">10 Remarketing Facts to Make You Rethink Your Entire PPC Strategy</a></li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel">News Flash, Your Sales Funnel Isn&#8217;t Linear &#8211; Why You Need Remarketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/03/03/sales-funnel/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

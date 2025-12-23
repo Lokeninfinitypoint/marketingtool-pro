@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordStream, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/wordstream/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 29 Aug 2025 20:05:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>WordStream, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How the Coronavirus (COVID-19) Pandemic Is Affecting Small Businesses &#038; Marketers</title>
+		<link>https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response</link>
+					<comments>https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response#respond</comments>
+		
+		<dc:creator><![CDATA[WordStream]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2020 05:00:00 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response/</guid>
+
+					<description><![CDATA[<p>With the global pandemic COVID-19, it's uncertain times. While we don't have all the answers, we want to share what we do know and offer guidance for small business and monitoring their online advertising accounts.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response">How the Coronavirus (COVID-19) Pandemic Is Affecting Small Businesses &amp; Marketers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://twitter.com/WHO/status/1237777021742338049?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1237777021742338049&amp;ref_url=https%3A%2F%2Fwww.who.int%2Femergencies%2Fdiseases%2Fnovel-coronavirus-2019%2Fevents-as-they-happen">World Health Organization</a> has declared the coronavirus, or COVID-19, a pandemic. It’s an uncertain time with lots of unknowns, and while we don’t have all the answers, we want to share what we do know and offer some guidance for our customers and other small businesses that may be experiencing shifts in their business.</p>
+<p>This pandemic is affecting the health of the public, and it’s also impacting the economy. According to <a href="https://blog.google/inside-google/company-announcements/coronavirus-covid19-response/">Google</a>, “since the first week of February, search interest in coronavirus increased by +260% globally.” While spikes in <a href="/blog/ws/2020/03/30/covid-19-google-search-trends">search trends </a>are common during events of this scale, there have also been surges in traffic for related products and topics as a direct response to the pandemic.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b65870d1-6a05-41d1-a961-63e99392d30b" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/covid-19-search-trends.jpg" alt="COVID-19 search trends" width="817" height="286" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://trends.google.com/trends/story/US_cu_4Rjdh3ABAABMHM_en" target="_blank" rel="noopener"><em>Image Source</em></a></p>
+<p>WordStream leadership has been watching the news closely, and we’ve responded by taking the action to make remote work the default for all WordStream employees. However, we’ve taken all steps to ensure minimal disruption to our operations and our customers. While we’ll leave the medical advice to medical and public health experts—and would urge you to do the same—we looked to our in-house agency experts to provide more <a href="https://www.wordstream.com/blog/ws/2020/04/10/covid-19-resources">information about what actions you can</a> take in your online advertising accounts now.</p>
+<p class="text-align-center"><strong><a href="https://marketing.wordstream.com/WSRegWebAnyCOVIDResourcePageCOVID19OnDemandWebinar.html?cid=Web_Any_COVIDResourcePage_COVID19_OnDemandWebinar_Reg" target="_blank" rel="noopener"><em>Want more? Watch Mark&#8217;s on-demand webinar today!</em></a></strong></p>
+<h2>How are Google and Facebook responding to COVID-19?</h2>
+<p>In addition to making it easier for people to learn more about symptoms, vaccine information, and travel advisories, Google is removing any content on YouTube that claims to prevent the coronavirus in place of seeking medical treatment, and is also blocking all ads capitalizing on the coronavirus. Similarly, <a href="https://www.facebook.com/zuck/posts/10111615249124441" target="_blank" rel="noopener">Facebook</a> is blocking anyone running ads to exploit the situation.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="337d1c91-9f90-4f73-b3fe-2e10806be019" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/covid-19-facebook-response.jpg" alt="COVID-19 Facebook response example" width="600" height="549" /></div>
+</article>
+</div>
+<p>Will this affect you? The short answer is no—as long as you are not using messaging in your ad copy that makes any claims to cure, prevent, or treat COVID-19, this change will have minimal effect on your paid accounts.</p>
+<p>Although these platform policies will not likely impact your account, the pandemic and the <a href="/blog/ws/2020/03/23/covid-19-business-trends">resulting market changes</a> will. Here are a few recommended strategies to prepare and adjust your accounts accordingly.</p>
+<h3><em><a href="https://marketing.wordstream.com/WSContentDLWebAnyInContentTextLinkPPCCOVID19Guide.html?cid=Web_Any_InContentTextLink_PPC_COVID19Guide_Download">Navigate the changing online advertising landscape with this free small business guide to COVID-19.</a></em></h3>
+<h2>Review your accounts</h2>
+<p>It’s important to stay on top of how <a href="/blog/ws/2020/03/23/covid-19-business-trends">changing markets and trends</a> might affect your paid search and paid social accounts, from changing click and impression volumes to changing costs.</p>
+<p>“Paid search reflects the market; it isn&#8217;t the market itself,” says Managed Services Senior Manager Mike Emilliani. “So if people&#8217;s search trends have gone somewhere else in the moment and that Invisalign treatment or bouquet of flowers isn&#8217;t, rightfully, on their mind anymore—that&#8217;s a reality. Check for drops in traffic—clicks and impressions—in Google Analytics and Google Ads. Those will usually signal that something is happening and will manifest into a drop in conversions.”</p>
+<p>Our post on <a href="/blog/ws/2020/04/06/google-ads-benchmarks-during-covid-19">Google Ads Benchmarks During COVID-19</a> may help you to get a more accurate picture of where you stand in terms of your metrics. You may also want to give our special <a href="https://www.wordstream.com/blog/ws/2020/04/21/goal-talk-episode-11">COVID-19 episode of the Goal Talk Podcast </a>a listen to better understand search trend changes.</p>
+<p>“One of my clients, streaming service, started getting a number of queries on &#8216;wuhan live streaming.&#8217;These searches aren’t good for the pandemic,&#8221; Director of Managed Services Zina Kayyali says, &#8220;and they’re not good for the account, so we added additional negatives.”</p>
+<p>You may also need to step up your vigilance in terms of monitoring comments. “For Facebook and Instagram,” Account Manager Tyler Ward explains, “it is extremely important to monitor comments within your posts. There is a lot of misinformation being spread and certain fear-based comments can detract potential customers.”</p>
+<h2>Communicate changes</h2>
+<p><a href="https://www.wordstream.com/blog/ws/2020/05/21/client-communication-during-covid-19">Communicating effectively and efficientl</a>y is going to be key to maintaining your customer relationships. “In all cases, advertisers should look to build trust with current and potential customers through proactive communication via email and/or information directly on their site,” Tyler says. “In cases where events or store locations need to postpone operations, businesses should consider their long-term relationship with customers and know that a refund or reschedule could be a relief point for those who may experience stress or hardship during these times.”</p>
+<p>Account Manager Holly Niemiec also recommends communicating these changes online as soon as possible. “If your business is affected, Google recommends <a href="https://support.google.com/business/answer/9773423?p=covid_19&amp;visit_id=637194021457344571-48127973&amp;rd=1" target="_blank" rel="noopener">updating your business hours and description</a> in your Google My Business profile. Aside from letting people know when they can stop by your business, you can also update your description to give more information regarding any additional precautions you are taking or if there are changes in services. These changes will update your business information on Google Search and Maps.”</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="94d0d1ff-6014-4ae5-83a6-f27e7bec6b6e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/covid-19-updated-gmb-hours.jpg" alt="COVID-19 hours updated" width="464" height="619" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>The Isabella Stewart Gardner Musem&#8217;s GMB reflects its closure for the week.</em></p>
+<p>In addition to updating your profile, Holly suggests updating your ad copy and extensions to reflect any changes (see our <a href="/blog/ws/2020/04/02/marketing-during-covid-19">Guide to Copywriting During COVID-19</a>). This is especially important if you have any <a href="https://www.wordstream.com/blog/ws/2017/11/13/creative-ad-extensions">callout extensions</a> stating your business hours.</p>
+<h2>Adjust your strategy</h2>
+<p>There has been a lot that has happened as a direct or indirect result of COVID-19. As people are being encouraged to wash their hands to prevent the spread of germs, there has been a shortage of hand sanitizer, bleach and cleaning wipes, and other similar products. A lot of work culture will be temporarily changed as companies start to deploy mandatory work from home policies, and travel and tourism will be affected as our government temporarily bans travel to certain places where cases of the virus are high.</p>
+<p>A lot of these changes can be stressful, but the best thing that we can do as marketers is to look forward and to calm the nerves of consumers as best we can by having clear, concise, and accurate messaging.</p>
+<p>Holly noted that keeping your ads up to date with your stock is crucial. “If your business does sell some of the ‘hot ticket’ items that have been flying off the shelves, make sure you are not still advertising products that may be out of stock. In order to prevent this, you can temporarily exclude these products from your <a href="https://www.wordstream.com/blog/ws/2018/03/12/google-shopping-campaign-structure">shopping campaigns</a>, that way you are not at risk of showing an ad for a product that you no longer have.”</p>
+<p>For brick-and-mortar businesses, adjusting your strategy might mean limited budgets or pausing certain campaigns. “Some clients are worried about the decline in leads or foot traffic that they are experiencing,” Tyler says. “My recommendation at this point has been to either lower budgets for or even pause non-essential campaigns at the moment for certain industries, and then to focus ad spend on branded terms due to the higher quality traffic they naturally receive. For those SMBs that have tight annual budgets, the reallocation of ad spend toward more effective marketing periods could be essential to their success.”</p>
+<p>For more help, check out our post <a href="/blog/ws/2020/03/25/covid-19-facebook-advertising">6 Strategies for Facebook and Instagram Advertising During COVID-19</a>.</p>
+<h3>A note on the travel industry</h3>
+<p>If you are in the travel and tourism industry, things are changing by the day. The U.S. currently has banned travel to high-risk countries, and other nations have instituted similar bans on non-essential travel.</p>
+<p>Still, interest in “cheap flights right now” has grown by 90% over the last 30 days, and “cheap flights due to coronavirus” has increased by 2,450%.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f5f6f5c6-481d-40c8-8f70-d30f4f87ecb3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/covid-19-cheap-flights-search-trends.jpg" alt="COVID-19 cheap flights search trends" width="868" height="460" /></div>
+</article>
+</div>
+<p>What does this mean? “While a lot of people can’t travel right now,” Holly says, “there is an increased interest to do so in the future, especially while flight costs are low. Knowing this, focus strategy on the long term. Advertise trips or activities in low-risk areas, and provide additional content about what trips and activities are still safe.”</p>
+<p>Tyler agreed that shifting your messaging to long-term travel can help. “I have heard from one client in the travel industry that they are experiencing a massive shift in their customer base for 2020 travel to 2021 travel,” Tyler said. “So we are planning to revise some messaging in both the website and our ads regarding something along the lines of: ‘Book Your 2021 Travel Today’ or ‘2021 Travel Options Available.’”</p>
+<p>To learn more, check out this post: <a href="https://www.wordstream.com/blog/ws/2020/03/18/covid-19-google-ads-data" target="_blank" rel="noopener">How COVID-19 Has Impacted Google Ads Results for 21 Industries [Data]</a></p>
+<h2>Keep checking in</h2>
+<p>COVID-19 has unfortunately affected the health and wellbeing of communities worldwide, and keeping communities safe should be our first priority. Many, if not most, businesses are already feeling the effects of the virus, and staying up to date with information (such as with the <a href="/blog/ws/2020/04/01/cares-act-paycheck-protection-program">CARES act</a>) is key.</p>
+<p>Here at WordStream, we are putting people first. As we continue to monitor the situation and markets, expect more data, analysis, and <a href="/blog/ws/2020/04/10/covid-19-resources">resources</a> in the coming days and weeks.</p>
+<p>Post-COVID-19 update: While the coronavirus is still very much an active pandemic, we do seem to be past its peak. For help with marketing to your customers if your business is back open, check out t<a href="https://www.wordstream.com/blog/ws/2020/09/18/post-covid-19-customers">hese smart ways to get to know your post-COVID-19 customers.</a></p>
+<p><em>This post was a joint effort with Holly Niemiec, Ceillie Clark-Keane, Elisa Gabbert, Tyler Ward, Mike Emilliani, and Zina Kayyali.</em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response">How the Coronavirus (COVID-19) Pandemic Is Affecting Small Businesses &amp; Marketers</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2020/03/13/covid-19-response/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

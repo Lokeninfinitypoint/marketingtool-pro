@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="25px" viewBox="0 0 23 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu-V1" transform="translate(-748, -275)" stroke-width="1.56">
+            <g id="target-center" transform="translate(749, 276)">
+                <line x1="9.47841013" y1="11.3558667" x2="13.8001731" y2="7.09626667" id="Shape" stroke="#FFAF24"></line>
+                <polygon id="Shape" stroke="#FFAF24" points="13.8001731 7.09626667 14.3892687 3.26293333 17.7578999 0 18.2785443 2.68231111 21 3.19546667 17.6894487 6.51564444"></polygon>
+                <path d="M19.89026,8.95773333 C21.0184257,13.1728225 19.2363771,17.621454 15.4909384,19.9400157 C11.7454996,22.2585775 6.90586464,21.9090071 3.54339037,19.0770356 C0.180916088,16.2450641 -0.924077155,11.5878995 0.815507002,7.57995 C2.55509116,3.57200049 6.73555212,1.14338011 11.1357601,1.58444444" id="Shape" stroke="#3A56BC"></path>
+                <path d="M15.3963318,10.2089333 C15.9556194,12.4316122 15.0226146,14.7592415 13.0730442,16.0049938 C11.1234737,17.2507461 8.58672921,17.1402455 6.75626303,15.7298346 C4.92579684,14.3194237 4.20476789,11.9197447 4.96081928,9.75436204 C5.71687067,7.58897938 7.78348261,6.13481713 10.1069171,6.13333333" id="Shape" stroke="#3A56BC"></path>
+                <line x1="4.81127948" y1="19.9333333" x2="4.03342438" y2="23" id="Shape" stroke="#3A56BC"></line>
+                <line x1="15.701251" y1="19.9333333" x2="16.4791061" y2="23" id="Shape" stroke="#3A56BC"></line>
+            </g>
+        </g>
+    </g>
+</svg>

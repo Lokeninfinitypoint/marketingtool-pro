@@ -1,0 +1,93 @@
+.hide-color-picker {display:inline !important;}
+
+.tcg-demos-container{
+  width: 960px; 
+  position: relative; 
+  margin: 30px auto 0;
+}
+
+.tcg-demos-container h2{
+	margin-bottom: 0 !important;
+	margin-top: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #ccd0d4;
+}
+
+.tcg-demos-container .postbox .inside{
+    padding: 0 20px;
+    margin-top: 0;
+    overflow: hidden;
+}
+
+
+.tcg-demos-container h2, #tcg-registration-wrap h3 {
+    line-height: 30px;
+}
+
+.tcg-demos-container p {
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.tcg-demos-container li {
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.tcg-demos-container i {
+    color: #2d6ff7;
+    margin-right: 10px;
+}
+ 
+.tcg-dash-container .community-events-footer {
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tcg-support-status {
+    float: left;
+    color: #444;
+}
+
+.tcg-support-status-active span {
+    color: green;
+}
+
+.tcg-support-status .button {
+    margin: 0 5px;
+}
+
+.tcg-support-status {
+    float: left;
+    color: #444;
+}
+
+.tcg-support-status-active span {
+    color: green;
+}
+
+.tcg-support-status span {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.tcg-support-status .button {
+    margin: 0 5px;
+}
+
+.is-registered .dashicons {
+    color: green;
+}
+
+#adminmenu .current div.wp-menu-image.dashicons-align-center:before{
+	color: #fab475;
+}
+
+#adminmenu div.wp-menu-image.dashicons-align-center:before{
+	color: #fab475;
+}

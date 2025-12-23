@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Solutions-dropdown" transform="translate(-486, -134)">
+            <g id="messages-bubble-square-menu" transform="translate(487, 135)">
+                <path d="M18.6666667,16 L9.33333333,16 L4,20 L4,16 L1.33333333,16 C0.596953667,16 0,15.4030463 0,14.6666667 L0,1.33333333 C0,0.596953667 0.596953667,0 1.33333333,0 L18.6666667,0 C19.4030463,0 20,0.596953667 20,1.33333333 L20,14.6666667 C20,15.4030463 19.4030463,16 18.6666667,16 Z" id="Shape" stroke="#3A56BC" stroke-width="1.6"></path>
+                <line x1="8" y1="6.33333333" x2="16" y2="6.33333333" id="Shape" stroke="#3A56BC" stroke-width="1.6"></line>
+                <line x1="8" y1="10.3333333" x2="16" y2="10.3333333" id="Shape" stroke="#FFAF24" stroke-width="1.6"></line>
+                <path d="M4,6 C3.81590508,6 3.66666667,6.14923842 3.66666667,6.33333333 C3.66666667,6.51742825 3.81590508,6.66666667 4,6.66666667 C4.18409492,6.66666667 4.33333333,6.51742825 4.33333333,6.33333333 C4.33333333,6.14923842 4.18409492,6 4,6" id="Shape" stroke="#3A56BC" stroke-width="1.35"></path>
+                <path d="M4,10 C3.81590508,10 3.66666667,10.1492384 3.66666667,10.3333333 C3.66666667,10.5174282 3.81590508,10.6666667 4,10.6666667 C4.18409492,10.6666667 4.33333333,10.5174282 4.33333333,10.3333333 C4.33333333,10.1492384 4.18409492,10 4,10" id="Shape" stroke="#FFAF24" stroke-width="1.35"></path>
+            </g>
+        </g>
+    </g>
+</svg>

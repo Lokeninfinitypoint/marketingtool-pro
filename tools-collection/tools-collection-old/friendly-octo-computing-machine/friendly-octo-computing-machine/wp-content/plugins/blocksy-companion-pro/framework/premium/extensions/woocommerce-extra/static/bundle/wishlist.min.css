@@ -1,0 +1,8 @@
+/**
+ *  - v2.1.17
+ * 
+ * Copyright (c) 2025
+ * Licensed GPLv2+
+ */
+
+[class*=ct-wishlist-button]:not([data-button-state=active]) .ct-heart-fill{opacity:0}[class*=ct-wishlist-button][data-button-state=disabled]{opacity:.5;pointer-events:none}

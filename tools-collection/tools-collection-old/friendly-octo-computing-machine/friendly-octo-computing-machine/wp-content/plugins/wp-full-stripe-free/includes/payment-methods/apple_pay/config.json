@@ -1,0 +1,18 @@
+{
+  "id": "apple_pay",
+  "title": "Apple Pay",
+  "longTitle": "Apple Pay",
+  "countries": [],
+  "currencies": [],
+  "version": "1.0.0",
+  "description": "Apple Pay enables frictionless card payments and eliminates the need to manually type card or shipping details.",
+  "icon": "apple_pay.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "wallet": true,
+  "external_docs": "https://docs.stripe.com/payments/apple-pay",
+  "internal_docs": "https://docs.stripe.com/payments/apple-pay",
+  "enabled": false
+}

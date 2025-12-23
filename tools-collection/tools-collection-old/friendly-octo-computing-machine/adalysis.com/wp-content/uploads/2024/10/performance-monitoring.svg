@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Use-Case-page---Monitoring" transform="translate(-942, -753)" stroke-width="2.13323852">
+            <g id="Group-19" transform="translate(809, 735)">
+                <g id="Group-26-Copy" transform="translate(115, 0)">
+                    <g id="analytics-graph-bar" transform="translate(20, 20)">
+                        <line x1="0" y1="30.6382979" x2="30.9319586" y2="30.6382979" id="Shape" stroke="#2A4BC2"></line>
+                        <path d="M2.84431803,24.5106383 L6.75667748,24.5106383 C7.14939585,24.5106383 7.46775699,24.8154657 7.46775699,25.1914894 L7.46775699,30.6382979 L2.13323852,30.6382979 L2.13323852,25.1914894 C2.13323852,24.8154657 2.45159966,24.5106383 2.84431803,24.5106383 Z" id="Shape" stroke="#2A4BC2"></path>
+                        <path d="M13.5105106,12.2553191 L17.4228701,12.2553191 C17.8155885,12.2553191 18.1339496,12.5601466 18.1339496,12.9361702 L18.1339496,30.6382979 L12.7994311,30.6382979 L12.7994311,12.9361702 C12.7994311,12.5601466 13.1177923,12.2553191 13.5105106,12.2553191 Z" id="Shape" stroke="#2A4BC2"></path>
+                        <path d="M24.1767033,18.3829787 L28.0890627,18.3829787 C28.4817811,18.3829787 28.8001422,18.6878061 28.8001422,19.0638298 L28.8001422,30.6382979 L23.4670459,30.6382979 L23.4670459,19.0638298 C23.4670459,18.6883373 23.7845404,18.3837297 24.1767033,18.3829787 Z" id="Shape" stroke="#2A4BC2"></path>
+                        <line x1="8.7235234" y1="5.952" x2="3.01071064" y2="11.4165106" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="19.2873206" y1="7.59148936" x2="12.6401493" y2="5.8893617" id="Shape" stroke="#FFAF24"></line>
+                        <line x1="27.9354695" y1="2.91268085" x2="22.8427181" y2="6.72544681" id="Shape" stroke="#FFAF24"></line>
+                        <ellipse id="Oval" stroke="#FFAF24" cx="10.6661926" cy="5.10774468" rx="2.13323852" ry="2.04255319"></ellipse>
+                        <ellipse id="Oval" stroke="#FFAF24" cx="29.8667615" cy="2.04255319" rx="2.13323852" ry="2.04255319"></ellipse>
+                        <ellipse id="Oval" stroke="#FFAF24" cx="21.3338074" cy="8.17021277" rx="2.13323852" ry="2.04255319"></ellipse>
+                        <ellipse id="Oval" stroke="#FFAF24" cx="2.13323852" cy="13.2779574" rx="2.13323852" ry="2.04255319"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

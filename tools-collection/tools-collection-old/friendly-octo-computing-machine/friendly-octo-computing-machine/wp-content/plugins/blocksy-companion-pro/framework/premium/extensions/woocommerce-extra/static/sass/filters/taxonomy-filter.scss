@@ -1,0 +1,63 @@
+[data-filter-criteria*='taxonomy'] {
+
+	.ct-filter-children {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+
+		li:first-child {
+			margin-top: 10px;
+		}
+	}
+
+	// filter image
+	.ct-media-container {
+		overflow: initial;
+		justify-content: center;
+		width: var(--product-taxonomy-logo-size, 40px);
+
+		// tooltip
+		.ct-tooltip {
+			top: 0;
+			transform: translate3d(0px, calc(-100% - 7px), 0px);
+		}
+
+		&:hover {
+
+			.ct-tooltip {
+				opacity: 1;
+				visibility: visible;
+				transform: translate3d(0px, calc(-100% - 12px), 0px);
+			}
+		}
+	}
+
+
+	// filter image frame
+	&[data-frame='yes'] {
+
+		.ct-media-container {
+			padding: 8px;
+			border-radius: 2px;
+			box-sizing: content-box;
+			transition: border 0.2s ease;
+			border: 2px solid var(--theme-border-color);
+		}
+
+		.ct-filter-item:is(:hover, .active) {
+
+			.ct-media-container {
+				border-color: var(--theme-link-hover-color);
+			}
+		}
+	}
+}
+
+
+
+[data-filter-criteria*='brands'] {
+
+	&[data-display-type='inline'] {
+		row-gap: 15px;
+	}
+}

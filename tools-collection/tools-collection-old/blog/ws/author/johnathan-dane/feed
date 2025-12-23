@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Johnathan Dane, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/johnathan-dane/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Mon, 18 Dec 2023 21:51:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Johnathan Dane, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>7 Ways to Write Super-Effective Google Ads (with Real Examples)</title>
+		<link>https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads</link>
+					<comments>https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads#respond</comments>
+		
+		<dc:creator><![CDATA[Johnathan Dane]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2015 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads/</guid>
+
+					<description><![CDATA[<p>Writing Google ads can be extremely frustrating. You need to fit all your ad copy into such a tiny space. How do you do it? Learn some proven tactics to writing amazing Google ads that bring you higher click-through rates and Quality Scores.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads">7 Ways to Write Super-Effective Google Ads (with Real Examples)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Writing Google Ads (formerly known as AdWords) ads can be extremely frustrating because you need to fit all your <a href="/blog/ws/2015/07/20/ppc-ad-copy">ad copy</a> into such a tiny space.</p>
+<blockquote><p>“Only 25 characters for the <a href="/blog/ws/2017/08/15/headline-testing">headline</a>?!” “I can’t use the word ‘click’? But that’s what I want them to do!” “I can’t fit all my <a href="/blog/ws/2017/02/21/features-vs-benefits">benefits and features</a> here&#8230;”</p></blockquote>
+<p>Seriously Google?</p>
+<p>You have to get creative to stand out from the nine other advertisers you’re sharing real estate space with (or as few as <em>four</em> competitors if you’re on mobile).</p>
+<p>So how do you do it?</p>
+<p>I’m here to give you some proven tactics, tips, and ad copy examples you can use to write <a href="/blog/ws/2017/06/06/best-ads">amazing Google ads</a> that will bring you <strong>higher click-through rates, higher Quality Scores and higher conversion rates.</strong></p>
+<p>Ready to have some fun while learning how to write Google Ads? Let’s go!</p>
+<h2>Mirror the visitor’s end goal</h2>
+<p>Because many of your competitors are using <a href="https://support.google.com/adwords/answer/74992?hl=en" target="_blank" rel="noopener">dynamic keyword insertion</a> and bidding on similar keywords, you’ll notice that a lot of their ads <strong>say the same thing</strong>.</p>
+<p>It’s easy to get lost in the mix and hurt your chances of getting that click – so how can you stand out?</p>
+<p>Advertisers sometimes lose sight of what their customers are truly looking for. I call this <strong>“The End Goal:” what people ultimately want to accomplish with the help of your product or service.</strong></p>
+<p>Understanding this can be the secret to writing <a href="https://www.wordstream.com/blog/ws/2019/05/16/gallery-ads">an ad that stands out</a> from the sea of DKI keywords.</p>
+<h3>A hypothetical example</h3>
+<p>Let’s say you sell acne products and your visitors search for keywords like, “Help get rid of acne.” You want to know <a href="https://www.wordstream.com/blog/ws/2022/10/03/how-to-write-exceptional-ppc-ad-copy">how to write a Google ad</a> based on that search term.</p>
+<p>Your headline shouldn’t ask prospects if they’re “Dealing with Acne?” – as the advertiser, you already know that they are.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-copy-get-rid-of-acne.png" alt="adwords-copy-get-rid-of-acne" width="560" height="398" /></p>
+<p>Instead, you should speak to their End Goal – what they’re looking to achieve – with a headline like this:</p>
+<blockquote><p>Kill Acne Once &amp; For All</p></blockquote>
+<p>Don’t give up very precious headline space for something you and the visitor already know. Instead, give visitors that end solution they’re looking for.<a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader"></a></p>
+<h3>A real-world example</h3>
+<p>What if you’re a car buyer who purchases cars from the general public? What should your Google ad copy look like?</p>
+<p>Interested prospects might search for something like this:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-copy-sell-your-car.png" alt="adwords-copy-sell-your-car" width="560" height="310" /></p>
+<p>WeBuyCars.com tells the visitor they’ll buy the car – which mirrors the prospect’s end goal.</p>
+<p>To make it easy for people to convert and remove ambiguity, all these ads should focus on telling prospects what they want to hear: “We’ll Buy Your Car Today.”</p>
+<p>Why? Because the goal of the searcher is to have someone buy their car. <strong>How they go about selling it isn’t as important as actually getting it sold.</strong></p>
+<p>With a headline like “Sell Your Car Today,” the searcher might wonder if they have to list their car themselves on an AutoTrader-like platform and field calls from a ton of tire-kickers who aren’t really serious about buying a car. Or even worse, will they get a call back from seven interested companies who will spam them until they die?</p>
+<p>I’ve run this test, specifically for a car buyer, pitting “Need To Sell Your Car?” (control) versus “We’ll Buy Your Car Today” (variation).</p>
+<p>This simple headline tweak resulted in a <strong>30% increase in conversions.</strong></p>
+<p><span><div class='et-box et-shadow'>
+					<div class='et-box-content'></span></p>
+<p><span><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f332.png" alt="🌲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Want to spruce up your Google Ads copy? Get the free guide</strong> <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/2935.png" alt="⤵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span></p>
+<p><strong><a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLinkTrickstoClicks.html?cid=Web_Blog_InContent_TextLink_TrickstoClicks_Download" class="waffle-rich-text-link">&gt;&gt; 10 Tricks to Write Exceptional PPC Ad Copy (With Examples!)</a></strong><span> </span></p>
+<p><span></div></div></span></p>
+<h2>Use countdown timers to trigger loss aversion</h2>
+<p>Did you know that we’re more readily motivated by the idea of losing out than the idea of gaining something?</p>
+<p>This commonly known psychological force is called <a href="http://en.wikipedia.org/wiki/Loss_aversion" target="_blank" rel="noopener">loss aversion</a> <strong>and it can be a powerful way of boosting your Google Ads click-through and conversion rates.</strong></p>
+<p>Luckily, injecting a little <a href="http://en.wikipedia.org/wiki/Fear_of_missing_out" target="_blank" rel="noopener">FOMO</a> into your ads isn’t very hard.</p>
+<p>Google has recently come out with a <a href="https://support.google.com/adwords/answer/6093368" target="_blank" rel="noopener">simple countdown timer</a> you can set within your <a href="https://www.wordstream.com/blog/ws/2019/07/29/google-ads-not-showing">text ads</a>. All you have to do is add this little snippet inside your headline or description:</p>
+<blockquote><p>{=</p></blockquote>
+<p>Then this popup will appear:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-countdown.png" alt="google-countdown" width="560" height="303" /></p>
+<p>This is what the countdown dashboard looks like.</p>
+<p>After you set the end date, your ad will include a countdown in real time. Visitors seeing your ads will be <strong>motivated by their fear of loss,</strong> giving you the edge over your competitors who aren’t using this tactic.</p>
+<h3>A real-world example</h3>
+<p>Ad agency Merkle | IMPAQT did this for some of their clients pre-Black Friday to have their Google text ads countdown to when the actual sale started. Here’s what they found:</p>
+<blockquote><p>We used the countdown feature to countdown the days until Thanksgiving and holiday deals began. We discovered the click and impression assisted conversions for this ad copy performed at a<strong> significantly higher rate than other copy</strong>. We also saw higher conversions associated with this copy on Thanksgiving and for about a week after as a result.</p></blockquote>
+<p>They’re not the only ones to have seen success with this new feature – Clarks America saw a <a href="http://adwords.blogspot.com/2014/12/use-ad-customizers-to-gear-up-for-your.html" target="_blank" rel="noopener">32% increase in CTR and a 3% increase on conversion rates</a> from using the countdown timers.</p>
+<h2>Keep your ads current</h2>
+<p>Now that we’re on the subject of time, have you ever felt that certain things are more relevant or exciting when they just happened?</p>
+<p>The concept of being current and timely is pretty intuitive; what happened recently will get more eyeballs and interest than what happened three months ago.</p>
+<p>The same is true <a href="http://blogs.adobe.com/digitalmarketing/search-marketing/importance-timeliness-sem/" target="_blank" rel="noopener">with your Google ads</a>.</p>
+<p>Have you tried testing copy that states <strong>how many customers you serviced <em>last month</em> or <em>this year</em>?</strong></p>
+<p>I put this to the test for a tax accounting firm. Here were the two ads we pitted against each other:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-local-tax-prep.png" alt="adwords-local-tax-prep" width="560" height="296" /></p>
+<p>The control ad (top) and the variation (bottom)</p>
+<p>The result? The more timely, current ad saw a whopping <strong>217% increase in CTR and 23% improvement in conversion rates.</strong></p>
+<p>And I’m willing to bet that the specificity of the number also added some conversion power&#8230;</p>
+<p class="text-align-center"><em>Want better ad copy? <a href="https://www.youtube.com/watch?v=3OIc0jcgE-I&amp;t=8s" target="_blank" rel="noopener">Make sure to check out our video on which Google ad copy mistakes you need to avoid! </a></em></p>
+<div style=text-align:center;>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/3OIc0jcgE-I?autoplay=0&amp;start=8&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<h2>Get super specific</h2>
+<p>Numbers are easy to digest and understand, and studies show that incorporating them into your copy can make it appear <a href="http://www.copyblogger.com/specificity-in-copywriting/" target="_blank" rel="noopener">more accurate and credible</a>.</p>
+<p>Here’s a <a href="http://www.blastam.com/blog/index.php/2014/07/how-to-write-ppc-text-ads" target="_blank" rel="noopener">great example from MECLABS</a> in which Amy Hebdon created a new numbers-driven ad to compete against her control ad:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-marketing-strategies.png" alt="adwords-marketing-strategies" width="560" height="416" /></p>
+<p>The control ad (top) and the variation (bottom)</p>
+<p>Which one do you think performed the best?</p>
+<p>The control ad did.</p>
+<p>Just kidding, the new ad did! It actually <strong>received an 88% higher click-through rate at a confidence level of 99%.</strong></p>
+<p>Why did this happen? The specificity of the new ad could have made it just a tad more credible than the control ad.</p>
+<p>How could we make the ad perform even better?</p>
+<p>By getting <em>even more specific.</em></p>
+<p>It’s <a href="http://www.copyblogger.com/specificity-in-copywriting/" target="_blank" rel="noopener">been shown</a> that specific numbers like 1,542 can improve performance over round numbers like 1,500+. If you&#8217;re including a number, write out the <em>exact</em> number!</p>
+<p><strong>The more specific you are, the more believable you become.</strong></p>
+<p>And the more believable you become, the bigger your chances are of becoming the next David Blaine, or just<em> really good at giving people a pleasant experience</em>.</p>
+<h2>Make things personal</h2>
+<p>When it comes to writing ads, do you sometimes fall into the trap of being a little egocentric? Do you use words like “we,” “us,” “me,” “myself” and “I”?</p>
+<p>Words like that fail to <strong>focus on the customer&#8217;s needs</strong> and can hurt your chances of getting a click – not to mention they&#8217;ve been shown to <a href="http://copyhackers.com/2012/09/web-copywriting-the-word-we/" target="_blank" rel="noopener">hurt conversions on landing pages, too</a>.</p>
+<p>When it comes to <a href="http://marketing.wordstream.com/WSContentDLCopywritingToolkit.html?camplink=InContentCTA">writing copy that resonates</a>, I couldn’t agree more with this nugget from <a href="http://www.kuraoka.com/how-to-write-better-ads.html" target="_blank" rel="noopener">John Kuraoka</a>:</p>
+<blockquote><p>The second-best word is “you.” The best word is the customer’s name.</p></blockquote>
+<p>Since we’re still in the stone age of advertising and can’t add the visitor’s first name to our <a href="https://www.wordstream.com/blog/ws/2018/04/17/adwords-ad-suggestions">Google ads</a> automatically, we’ll have to settle for second best.</p>
+<p>So how do you craft Google ads that use <a href="/blog/ws/2015/04/08/persuasive-landing-pages">power words</a> like “you” to enhance ad performance? Take these ads for example:</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-copy-personal-you.png" alt="adwords-copy-personal-you" width="560" height="402" /></p>
+<p>Which one stands out and gets you <strong>most excited to click?</strong></p>
+<p>One could argue both Shopify and Volusion do a great job, but we all know that AmeriCommerce struggles.</p>
+<p>“Awarded “Best eCommerce Solution”? Ptssshh. Enough about yourself. <strong>What can you do for me?!</strong></p>
+<p>Find opportunities where you can include the word “you” in your headline or first description line. And as always, lead with <a href="http://unbounce.com/conversion-glossary/definition/benefits/" target="_blank" rel="noopener">benefits</a>.</p>
+<h2>Make your ads hyper-local</h2>
+<p>A lot of advertisers target more than just one city when creating their Google Ads campaigns. Many even advertise nationally.</p>
+<p>Even if you offer services <em>world-wide</em>, you want to be welcoming to your potential customers and <strong>show them that help is right around the corner.</strong></p>
+<p>You may already have a 800 number that you use for all your Google Ads call extensions and landing pages, or maybe even a pool of 800 numbers. But did you know that <strong>having phone numbers with geographic proximity to the visitor can </strong><a href="http://www.engineready.com/sem-resources/sem-newsletter/when-an-800-number-may-work-against-you.php" target="_blank" rel="noopener"><strong>double your conversion rates</strong></a><strong>?</strong></p>
+<p>Yeah, believe it or not, your 800 numbers could be working against you.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adwords-copy-local-numbers.png" alt="adwords-copy-local-numbers" width="560" height="242" /></p>
+<p class="text-align-center"><a href="http://www.engineready.com/sem-resources/sem-newsletter/when-an-800-number-may-work-against-you.php" target="_blank" rel="noopener">Image source</a>.</p>
+<p>So how can you put this to the test in your Google ads?</p>
+<p>By creating <a href="https://support.google.com/adwords/answer/1722043?hl=en" target="_blank" rel="noopener">geographic-specific Google Ads campaigns</a> and have your ad copy and call extensions specific to that geographic area as well.</p>
+<p>The goal here is to let your prospective customers know that <strong>you’re right around the corner, <em>with a helping hand</em>.</strong></p>
+<p>If you’re still using the regular Google call forwarding in your Google Ads call extensions, <strong>stop it immediately.</strong> Go to a <a href="/adwords-call-tracking">call tracking</a> provider and start buying all their local phone numbers.</p>
+<p>Seriously.</p>
+<h2>Test your heart out</h2>
+<p>With so many of your competitors worrying about 1,000 things <em>other than writing better ads</em>, you now have the ammunition to <strong>make your Google ads the most glorious ads in the world</strong> (read: the best-performing ones).</p>
+<p>That is, if you start testing today.</p>
+<p><em>So go!</em></p>
+<p><em>This post originally appeared <a href="http://unbounce.com/ppc/write-high-performing-adwords-ads/">on the Unbounce blog</a>. </em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads">7 Ways to Write Super-Effective Google Ads (with Real Examples)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2015/04/21/adwords-ads/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>12 Tests to Increase Your Landing Page Conversion Rate, Starting Today</title>
+		<link>https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide</link>
+					<comments>https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide#respond</comments>
+		
+		<dc:creator><![CDATA[Johnathan Dane]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 05:00:00 +0000</pubDate>
+				<category><![CDATA[Conversion Rates]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide/</guid>
+
+					<description><![CDATA[<p>Learn the 12 easiest ways to improve your landing page conversion rate, including testing your headline, using directional cues, shortening your lead form and more.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide">12 Tests to Increase Your Landing Page Conversion Rate, Starting Today</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your bids are competitive, your ads are laser targeted, and you&#8217;ve tested and tweaked your landing page to get the highest possible conversion rate. <strong>Ever.</strong></p>
+<p>You feel like Leonardo DiCaprio stand-spooning Kate Winslet on the Titanic, breathing in that fresh scent of saltwater greenbacks while your sales and leads keep pouring in. You&#8217;re a marketing genius (and you&#8217;ve earned the right to call yourself that).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="09de7ef2-f8b4-42eb-ac92-4847619a072d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/conversion-rate-optimization-dream-world-1.jpg" alt="Landing Page Conversion Rate Guide" width="450" height="226" /></div>
+</article>
+</div>
+<p><strong>But then you wake up. </strong></p>
+<p>Realizing that your 1997 GeoCities hosted landing page hasn&#8217;t seen an improvement since, well, 1997. And your potential profits are like a leaking ship. Slowly. Dripping. Away.</p>
+<p>While you’re staying profitable (for now), your competitors are figuring out ways to improve, enhance, and build trust and relationships with clients that could have been yours. All because their first impression was more impressive than yours.</p>
+<p>But don’t worry. There’s still time to <a href="https://www.wordstream.com/blog/ws/2018/07/31/f-z-patterns-landing-page-design">improve your landing page conversion rates</a>.</p>
+<p>First, let’s clear the air and separate fact from fiction.</p>
+<p><strong>FACT:</strong> Your biggest conversion rate gains won&#8217;t come from the new ad you create, they&#8217;ll come from the landing page you test.</p>
+<p><strong>FICTION:</strong> Landing page testing is difficult and expensive, not to mention time-consuming.</p>
+<p>The goal of this post is to give you proven ideas to test and try on your own site to <strong>increase your landing page conversion rates</strong> and <strong>lower your cost per acquisition</strong>.</p>
+<p>Let’s get to work!</p>
+<h2>1. Test Your Headline &amp; Value Proposition</h2>
+<p>Not only is the headline one of the first things a person sees when on your site, but did you know that on average, only <a href="http://www.copyblogger.com/magnetic-headlines/">2 out of 10 people continue to read what’s after the headline?</a></p>
+<p>Talk about do or die!</p>
+<p>The goal of your headline should be for your visitor to feel compelled enough to read whatever’s next.</p>
+<p>Here are some tips for landing page headline testing:</p>
+<ul>
+<li><strong>Keep it simple and clear</strong>, as clarity almost always trumps persuasion, e.g. “We’ll Improve Your Conversion Rates, Guaranteed.”</li>
+<li><strong>Promise to solve a unique problem</strong> your visitor is facing. Give them a solution.</li>
+<li><strong>Does your headline match what your ad is saying?</strong> If not, test this out to see the power of consistency.</li>
+<li><strong>Use “Title Case for Your Headlines”</strong> and “Subhead case for your subheads.”</li>
+<li><strong>Start it off as a question.</strong> For example: Want More Conversions For Less Money?</li>
+<li><strong>Try National Enquirer type headlines:</strong> <em>“Godly New</em><em> Fruit Melts Away Fat. American </em><em>Moms Now In A Frenzy!”</em> Just make sure you’re being truthful.</li>
+<li><strong>Use words that sell</strong>, like Free, Discover, Secret, Results, Quick, Guaranteed, etc.</li>
+<li><strong>Are you funny?</strong> Then try humor.</li>
+<li><strong>Use the wording “How To&#8230;..”</strong></li>
+</ul>
+<p>These are just a few ideas to get you started. Your job is to get creative and test them out, as every type of headline will yield different results.</p>
+<p>And whether you’re writing headlines for <a href="/blog/ws/2013/04/16/best-landing-pages">PPC landing pages</a> or trying to SEO your blog post, make sure you’re compelling, honest, and leave the reader wanting more.</p>
+<p>Here’s another little trick: <a href="http://www.aminstitute.com/headline/index.htm">The Emotional Marketing Value Headline Analyzer</a> is a free tool that lets you test different variations of your headline, and then gives you a percentage score telling you whether your headline is more intellectual, empathetic, or spiritual and what emotional marketing value it has.</p>
+<p>The higher the percentage, the more emotional marketing power there is in your headline.</p>
+<p>For example, here are some of the headlines I tested with the EMVHA:</p>
+<ol>
+<li>12 Landing Page Changes That Will Shock Your Conversion Rates (10%)</li>
+<li>Higher Conversion Rates With Lower Costs, The Fast Way (11.11%)</li>
+<li>Improve Your Conversion Rates With These Easy Tips (37.5%)</li>
+<li>12 Quick &amp; Fast Ways To Get More Sales, Leads, and Sign Ups (18.18%)</li>
+<li>12 Easy Landing Page Tweaks That Will Shock Your Conversions, Starting Today (38.46%)</li>
+<li>Woah! 12 Ideas To Increase Your Conversion Rates (37.50%)</li>
+<li>Do Your Conversion Rates Need A Little Lift? (25%)</li>
+<li>These 12 Easy Tricks Will Increase Your Conversion Rates, Starting Today. (45.45%)</li>
+<li>WARNING: Increasing Your Conversion Rate Is Easier Than You Thought (30%)</li>
+</ol>
+<p>(Of course, you’ll still want to run your own <a href="/blog/ws/2013/04/16/best-landing-pages">A/B tests</a>, since “emotion” is subjective, and your audience might not enjoy being manipulated emotionally.)</p>
+<p>Much like your headline, your <strong>value proposition</strong> is something that is unique to your business, like your <a href="/blog/ws/2014/04/07/unique-selling-proposition">USP</a>, and it’s very similar to what you’d want to communicate in your headline.</p>
+<p>If you know the pain points and fears your potential customer is facing, this should help you write a headline and value proposition specifically tailored to them.</p>
+<h2>2. Add Testimonials &amp; Reviews</h2>
+<p>Positive endorsements give your visitors assurance that you’re legit – if they’re done right.</p>
+<p>Word of mouth is the most powerful marketing there is, and <a href="/blog/ws/2015/05/05/customer-testimonials">client testimonials</a>, reviews, and endorsements are your closest thing to social proof.</p>
+<p>Many companies put up landing page testimonials that are way too generic and weak. They’re simply not believable. Stuff like:</p>
+<p>“Great work!” &#8211; John A.</p>
+<p>“Wow!” &#8211; Vicky H.</p>
+<p>“We’re making so much more money now!” &#8211; Frank Q.</p>
+<p>And my favorite&#8230;</p>
+<p>“Thanks.” &#8211; Ricky B.</p>
+<p>Not only are these testimonials insanely short, but they come off as fake.</p>
+<p>Who is Vicky? And who the hell is Ricky?</p>
+<p>You want to use testimonials that describe how your client has benefited from something you’ve helped with. The more detail there is, the more “human” they are. And the more human, the more believable.</p>
+<p>Here’s a better example (not real):</p>
+<p>“Not only did WordStream help me overcome my fear of marketing, but they showed me exactly where my advertising dollars were being wasted and which areas were more profitable than others. My business now has a 72% better ROI than before.” &#8211; James Van Der Beek, CEO of DawsonsCreekDVDs.com</p>
+<p>Note that the full name and business are included, as well details about what kind of results they got with the product/service. Not only is this testimonial more convincing, but it can be used as a reference if your potential customer is still not convinced about doing business with you.</p>
+<p>If you don’t think testimonials are important, take a look at our CrazyEgg heat map from a testimonial on the KlientBoost site:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="85c0b645-bce6-44ed-b796-183ed8e22887" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-testimonials-heat-map-1.png" alt="Testimonial Heat Map" width="1087" height="363" /></div>
+</article>
+</div>
+<p>We have a slider for our testimonials, and it’s obvious that the clicks are red hot. <strong>People do care about this stuff!</strong></p>
+<p>Do you have well-known clients that are higher up the brand food chain? Use them instead of your average mom n’ pop store. Those people are the people your new customers are aspiring to be!</p>
+<p>But be careful. The easy, quick, and wrong way to do this is to write the testimonials yourself, or go on Fiverr and hire someone to do it. I’ve spotted a couple of companies with testimonials from the same person because of their picture. Ouch!</p>
+<p>If you can, ask your clients for their LinkedIn picture, as they already have that online. That way they’re more likely to go with it and let you use their picture.</p>
+<h2>3. Optimize Your Lead Capture Form</h2>
+<p>Your lead gen/capture form may be the quickest and easiest area for conversion rate improvement on your landing page.</p>
+<p>Many studies have been conducted about <a href="/blog/ws/2015/07/27/landing-page-forms">landing page forms</a>, and it’s a general consensus that <strong>the more information you ask for, the lower your conversion rate will be.</strong></p>
+<p>See, even if the visitor doesn’t actually start to fill out the form, they’ll still see it and may decide whether or not they want to start filling it out based on the number of fields. A high number of required fields will either scare them away, or they’ll abandon it half way through.</p>
+<p>Do you ask for both first and last name? Why? Why not just “Name”?</p>
+<p>Are you asking for their company name too? Why?! <strong>You can get that later!</strong></p>
+<p>What about different home phone, cell phone, work phone fields?</p>
+<p>Here’s a test we ran for Cash4UsedCars.com, an online car selling service.</p>
+<p>Their old form looked like this:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f47f6d41-415c-4bb4-8bd6-35fa5c38a4c0" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-form-before-1.png" alt="Landing Page Form" width="601" height="568" /></div>
+</article>
+</div>
+<p>Here’s the new form (note that they wanted to keep the first and last name fields):</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b3dc2102-2c49-4b8f-a37d-7eb5328e7f87" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-form-after-1.png" alt="Landing Page CRO" width="652" height="614" /></div>
+</article>
+</div>
+<p>The result? A 77% increase in <a href="https://www.wordstream.com/blog/ws/2018/05/18/residensportalen-customer-spotlight">conversion rates</a> and a decrease of 42% cost per lead.</p>
+<p>While this was more of a radical redesign, we are still testing all the elements of the page to continually <a href="/blog/ws/2014/03/17/what-is-a-good-conversion-rate">improve the conversion rates</a>.</p>
+<p>Here’s another example from one of our clients, Second Wave Recycling, an online cell phone donation charity. This one’s a bit more creative. Their old form:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c6fad362-e3d4-4f6d-868d-f5f6364b60ab" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/secondwave-landing-page-before-cro-1.png" alt="Landing Page Conversion Rate Optimization" width="1008" height="855" /></div>
+</article>
+</div>
+<p>And the new form:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a5f15d66-f591-48d4-923c-91dbbc69e213" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/secondwave-landing-page-after-cro-1.png" alt="Landing Page Test" width="516" height="583" /></div>
+</article>
+</div>
+<p>The result of this <a href="https://www.wordstream.com/blog/ws/2018/05/07/real-estate-landing-pages">landing page</a> test was a 53% increase in donations. That&#8217;s with no change in advertising budget, no change in the ads, and no change in the bids.</p>
+<p>We made it visually simpler and easier to distinguish between the two options. Either print a free pre-paid USPS label, or request a pre-paid envelope. We also made the copy easier to read, added some directional cues, and changed the color of the buttons.</p>
+<p>But what if your form has a ton of required information and you’re not able to reduce the amount of fields?</p>
+<p>Let me introduce you to the<strong> power of the progress bar. </strong></p>
+<p>The progress bar is a simple solution to break up your form into multiple steps so people aren’t overwhelmed with a form that’s as long as the dead sea scrolls. You can see a simple educational one in action <a href="http://klientboost.com/progress-bar-form/">right here.</a></p>
+<h2>4. Put Landing Page Visitors in the Isolation Tank</h2>
+<p>One common theme you see with strong PPC landing pages is isolation.</p>
+<p>The Cash4UsedCars landing page I showed you earlier is a great example of an isolated landing page that only has one purpose and no other links, besides some hidden away in the footer.</p>
+<p>No header links and nothing else you can click on that might distract you from filling out the form.</p>
+<p>This method of isolating the visitor is a great combatant of something called the <a href="http://en.wikipedia.org/wiki/Bluma_Zeigarnik#The_Zeigarnik_Effect">Zeigarnik Effect</a><strong>. </strong>The Zeigarnik Effect occurs when your brain feels dissonance from uncompleted tasks. You’ll remember these unfinished tasks better than the ones you finished.</p>
+<p>So with only one task on the site, it’s easier for visitors to focus on that and complete the conversion. Keep that in mind when you create your landing pages.</p>
+<h2>5. Test Button Color, Shape, and Size</h2>
+<p>There&#8217;s a science behind Amazon’s, Apple’s, and Target’s rounded corner buttons. The color, shape, and size of the button is <a href="https://www.wordstream.com/blog/ws/2019/02/04/landing-page-design">a huge part of conversion psychology</a><strong>.</strong></p>
+<p>The button on your site is the #1 most important item that you want clicked. So it’s vital to make sure it’s performing at peak condition, like Michael Phelps was during the 2008 Olympics (and not how he performed afterwards).</p>
+<p><strong>Here are some things to consider:</strong></p>
+<p><strong>COLOR: </strong>Your button’s color should contrast from the rest of the site so it sticks out. Don’t make it the same colors as other elements on your site.</p>
+<p>Take LegalZoom for example.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="17262fe5-39c9-4e04-9d7f-ce5799b97b2e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-button-color-example-1.png" alt="Landing Page Colors" width="933" height="496" /></div>
+</article>
+</div>
+<p>Orange is the opposite of blue, red the opposite of green, and purple the opposite of yellow. Use this color wheel to find your complementary and contrasting color for your button test.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a4487603-9295-4032-9da8-82a67ab9ed69" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-conversion-rate-color-wheel-1.jpg" alt="Landing Page color wheel" width="616" height="462" /></div>
+</article>
+</div>
+<p>What’s the best practice? It’s widely accepted that orange is a great “click color” because it creates the feeling of buying or selling, it’s energetic. Both Unbounce and SiteTuners use it on their sites – and they’re <a href="https://www.wordstream.com/blog/ws/2019/07/25/ecommerce-user-experience">conversion rate optimization</a> companies, so they should know!</p>
+<p>Red, on the other hand, creates a sense of urgency and could work just as well, or even better than an orange button. Don’t make assumptions – your tests will determine which button color works best for you.</p>
+<p>You’ll never find one color that makes everyone happy. But you’ll find one that makes the majority happy, and that’s the one that’s best for your landing page conversion rates.</p>
+<p><strong>SHAPE: </strong>Sometimes, buttons with sharp corners don’t convert as well as ones with rounded corners. Here’s why:</p>
+<ol>
+<li>Rounded corners are easier for the eyes and brain to process.</li>
+<li>We’ve been conditioned to be wary of sharp corners, as they can pose a threat. That also applies to buttons (crazy, right?).</li>
+<li>Sharp corners also tend to act as arrows, directing attention <em>away</em> from the button and not toward what’s inside, the <a href="/blog/ws/2010/09/29/unusual-effective-calls-to-action">call to action</a>.</li>
+</ol>
+<p>Consider, instead of a regular rectangle, square, oval, or round shape, using a combination of shapes. Amazon uses a combination of a circle and a rectangle:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="86ef98e2-fa8d-45c2-b164-490d95b83e8a" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/amazon-landing-page-add-to-cart-button-1.png" alt="add to cart" width="174" height="42" /></div>
+</article>
+</div>
+<p>The only way to figure out which one works best for you is, again, to test it out.</p>
+<p><strong>SIZE: </strong>Finally, your button size is also worthy of some easy testing. Increase or decrease its size to determine what gives you the highest conversion rates. (Hint: <a href="/blog/ws/2012/09/25/a-b-testing#Livengood">Bigger is usually better</a>!)</p>
+<h2>6. Test Button Call-To-Action</h2>
+<p>Sometimes the call to action (CTA) on your button is more important than what the button looks like, and it’s also easier to test.</p>
+<p>Take this test from Michael Aagaard at <a href="http://www.contentverve.com/">ContentVerve.com</a>, for example.</p>
+<p>By adding relevancy and value to the button’s CTA and also changing the form title, the landing page conversion rate increased by 31.54%.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="50bb84e4-83b7-480d-9639-5d75868eb090" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-button-call-to-action-1.png" alt="Call to Action Test" width="788" height="562" /></div>
+</article>
+</div>
+<p>The best approach is to focus on what the <strong>value and relevance</strong> is for the visitor. The vagueness of “Submit” doesn’t do much to tell the visitor what they&#8217;ll be getting.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="0c8b09f7-6702-4b42-84c5-e0bd86710418" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-confusion-1.png" alt="Submit Call to Action" width="350" height="450" /></div>
+</article>
+</div>
+<p>Here’s an interesting video with some of Aagaard’s button call-to-action findings:</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="827d631b-d349-40b3-b0f0-7f012ea8ed54" data-langcode="und">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe src="https://www.youtube.com/embed/-fsN_6ylNBw?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p>His suggestions for testing your button CTA include:</p>
+<ul>
+<li>Test the font color.</li>
+<li>Test using “My” instead of “Your.”</li>
+<li>Don’t focus on what a visitor has to do, focus on what they’ll get.</li>
+<li>Change verbs to “Get” where it makes sense. (“Get To Cart” doesn’t.)</li>
+<li>Test a right-pointing arrow on your button’s left side.</li>
+<li>Add value and relevancy to the button.</li>
+<li>Test a headline CTA and a subhead CTA.</li>
+<li>Test a hover effect that changes the color of the button.</li>
+</ul>
+<h2>7. Try a Chat Tool for Your Landing Page</h2>
+<p>For potential customers, calling someone at your company could feel extremely threatening.</p>
+<p>Right there on the other side of the phone is a salesman waiting like a cat about to attack.</p>
+<p>He’s got his hair slicked, script ready, his objection blockers rehearsed, and he just finished his third 5-Hour Energy shot while taking a look at his ankle tattoo saying “A.B.C.” (Always. Be. Closing).</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6a08b6e3-17dc-4a6f-b95e-615804ecf9b1" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/salesman-of-the-month-1.png" alt="Salesman" width="359" height="450" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>He’s gonna get you.</em></p>
+<p>But it’s not just the salesman on the other end of the line that’s a problem. What about the expectation of the dreaded call answering machine? &#8220;Sorry, zero is an invalid function, please try again.&#8221;</p>
+<p>So how do you calm a visitor who knows that by calling, you have their phone number, and by emailing, you have their email address?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d605134e-3041-4d1f-9565-9aa9bcb113f2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-chat-tool-1.png" alt="Landing Page Chat" width="216" height="172" /></div>
+</article>
+</div>
+<p>Meet Olark. Olark is by far my favorite solution when it comes to <a href="https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook">website chat</a>. It looks great and has some unique features that allow for in-depth data and customization:</p>
+<ol>
+<li>See what city your visitors are from within the chat.</li>
+<li>See what page they’re currently on.</li>
+<li>See how long they’ve been on your site.</li>
+<li>Add any attention-grabbing image (like me juggling).</li>
+<li>Round robin operator system.</li>
+<li>Easy split-testing of greeter texts.</li>
+</ol>
+<p>But most importantly, it’s an easy way for your prospective clients to get answers without having to pick up the phone, and it’s a lot faster than email.</p>
+<p>We don’t require your name, email, phone number, or social security before the chat starts. We let our visitors hit the ground running with no lead capture.</p>
+<p>I can’t even begin to tell you how many of our new clients have started their relationship with us via Olark.<strong> (</strong>We call it Cupid!)</p>
+<h2>8. Look Here! (Add Directional Cues)</h2>
+<p>Directional cues are like finger pointers. They try to move your attention to wherever they’re pointing.</p>
+<p>There are two types of directional cues: explicit and implicit.</p>
+<p><strong>Explicit directional cues</strong> are like arrows that are obviously trying to move your attention to the form or the button the site wants you to click on.</p>
+<p>Here’s one from CrazyEgg’s pricing page:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c3439ce9-d4b8-4817-b0ea-cbff6ba13c4b" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-directional-cue-1-1.png" alt="Landing Page Cues" width="1015" height="572" /></div>
+</article>
+</div>
+<p><strong>Implicit directional cues</strong> are more subtle. They’re like that woman-drinking-a-green-juice-out-of-a-mason-jar-because-all-the-other-glasses-were-dirty type of look.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5a8732f4-f462-4f5c-b38f-30431eda1eda" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/subtle-landing-pagedirection-cue-1.png" alt="Implicit Directional Cue" width="532" height="310" /></div>
+</article>
+</div>
+<p>See how she’s looking in the direction of the form? (Even though it looks like she’s actually by-passing the form and eyeballing that ice cream truck in the distance?)</p>
+<p>And here’s everyone’s favorite gecko.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6940171e-5044-484c-b4e2-fd4037e0cca4" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/geico-implicit-directional-cues-1.jpeg" alt="Directional Cues for Landing Page Forms" width="600" height="489" /></div>
+</article>
+</div>
+<p>(The red arrows are only there to show you the subtle directional cues. They weren’t there in the live image.)</p>
+<p>And to prove how powerful directional cues can be, take a look at these eye tracking examples and see the difference based on directional cues or lack thereof. <strong>Red indicates laser-focused eyes.</strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4b036d1d-4de1-496e-ab51-dc38883239f2" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-directional-cue-bad-1.jpeg" alt="Landing Page Eye Tracking" width="267" height="189" /></div>
+</article>
+</div>
+<p>vs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5bd6c83d-dde1-4bd8-b286-1d4b31b2ab9d" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-directional-cue-good-1.jpeg" alt="Eye tracking study" width="265" height="190" /></div>
+</article>
+</div>
+<p>The difference is clear.</p>
+<h2>9. Create Explainer Videos &amp; Sliders</h2>
+<p>You know those white board animated videos you see on websites that are around 1 to 3 minutes long? Those are <a href="/blog/ws/2014/03/13/explainer-videos">explainer videos</a>.</p>
+<p>Explainer videos are, well, videos that explain what your business does. And if done right, these little animated masterpieces could increase your conversion rates by 30% (or more).</p>
+<p><strong>Why are they so effective?</strong> The answer has to do with our attention spans.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a421ebfd-b8fc-4cfe-a096-eb4cfe51ccea" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/attention-span-tweet-1.png" alt="Landing Page attention span" width="484" height="197" /></div>
+</article>
+</div>
+<p>Our online attention spans have been steadily declining because of the speed of information we’re able to retrieve.</p>
+<p>We don’t want to read books that have too many pages. We don’t even want to read a newspaper!</p>
+<p>Explainer videos are easy to consume and understand because they’re visual and can arouse more emotions than reading.</p>
+<p>But don’t just go all Steven Spielberg on me here. Explainer videos can be a bit tricky, so here are some tips:</p>
+<ol>
+<li>Explainer videos can be very expensive and hard to A/B split test since you’ll have to create uniquely different videos to do so. Plan things carefully.</li>
+<li>You might think the idea is all in the animation, but really it’s in the script. Spend some time creating a killer script.</li>
+<li>Think about voiceovers too. You want someone who meshes with your business identity. Do you sell saddles? <strong>Talk like a Texan.</strong> Do you rent out bouncey dragons? <strong>Talk like a kid</strong>. Do you want to sound super-smart and impress Americans? <strong>Talk like a Brit. </strong>(J/K. Sort of.)</li>
+<li>Include your best features/benefits and direct viewers with a call to action at the end of the video.</li>
+<li>Keep it as short as possible. Anything after a minute and a half will be hard to watch.</li>
+</ol>
+<p>Want to see some examples? Here’s a look at WordStream’s own explainer video they use for their PPC landing pages:</p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="208d521a-ebfb-49ef-bbd3-7c9363908e49" data-langcode="und">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe src="https://www.youtube.com/embed/KMw1FARpHF0?autoplay=0&amp;start=0&amp;rel=0" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p>Even though creating an explainer video isn’t easy, it’s well worth the effort if done right. And if you’ve ever thought about it before, make sure you do your research and inquire about pricing, because some providers aren’t the cheapest.</p>
+<p>An alternative to explainer videos would be image sliders that have proven to sometimes work better than explainer videos.</p>
+<p>Visual Website Optimizer <a href="http://visualwebsiteoptimizer.com/split-testing-blog/video-or-image-slider-ab-test/">created a case study</a> in which the image slider had a 35% higher conversion rate lift than the explainer video. (However, in this case, the explainer video was almost 5 minutes long and very technical.)</p>
+<p>Either way, an image slider or explainer video (or both!) is a great test if you have the resources.</p>
+<h2>10.  Employ Trust Badges &amp; Guarantees</h2>
+<p>Trust badges are pretty commonplace these days. Like <a href="/blog/ws/2013/06/05/product-listing-ads-stealing-conversions">product listing ads</a>, it’s a must-test if you’re running an e-commerce store.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d1919de6-c02d-4bc4-9049-9162d8724d6f" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-trust-badges-1.jpg" alt="Trust badges" width="500" height="200" /></div>
+</article>
+</div>
+<p><em>Badges like these have been known to help increase landing page conversion rates</em></p>
+<p>It’s obvious that people care about your level of trustworthiness when shopping with you. But did you know that people will actually click on the badges, look at your https:// connection, and investigate your reviews to make sure you’re legit before even considering doing business with you?</p>
+<p>A fellow Dane by the name of Karsten Lund <a href="http://visualwebsiteoptimizer.com/split-testing-blog/do-trust-badges-on-websites-work-oh-yes-32-increase-in-conversions/">ran a 6-month long A/B test</a> in which he added just one badge in the header for an e-commerce store. The result? 32% conversion rate increase.</p>
+<p>Here are some quick ideas for badge and seal tests:</p>
+<ol>
+<li>Move your seal or badge closer to the desired action (like the “Place Order” button).</li>
+<li>Add the seal or badge to your header.</li>
+<li>Make it clickable so that it’s not just an image, taking people to the third-party verification of your site.</li>
+<li>Don’t overdo your badges. We’re not looking to start any fashion trends here.</li>
+</ol>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cb36b371-8c1b-4e69-8a0d-51534457a042" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/trust-badges-aplenty-1.jpg" alt="Trust Badges for Landing Pages" width="594" height="396" /></div>
+</article>
+</div>
+<p>Do you have any corporate rewards or big media mentions? Include those on your site as well. And if possible, add the images as links going straight to the mentions. Make sure they open up in new tabs and don’t take the visitor away from your site.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b696258e-6fac-4693-b787-0b6eb98ac70e" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-test-media-mentions-1.jpg" alt="Landing Page Tests" width="547" height="115" /></div>
+</article>
+</div>
+<p>Now when it comes to <strong>guarantees</strong>, <a href="http://blog.kissmetrics.com/10-guarantees/">KISSmetrics made some interesting findings.</a></p>
+<p>Here are some different guarantees you can test out:</p>
+<ol>
+<li>100% Money Back Guarantee</li>
+<li>100% Risk Free Guarantee</li>
+<li>100% Satisfaction Guarantee</li>
+<li>The Lifetime Guarantee</li>
+<li>Lowest Price Guarantee</li>
+<li>The Free Trial</li>
+<li>The Extreme Guarantee (Zappo’s 365 day return policy)</li>
+</ol>
+<p>All poised to disrupt your conversion rates in some way. How much? That’s for you to find out.</p>
+<h2>11. Stop Hoarding &amp; Remove Your Clutter</h2>
+<p>You might think it’s necessary to provide a visitor with all the benefits and everything you can offer on your landing page.</p>
+<p><strong>It’s not.</strong></p>
+<p>Sometimes removing unnecessary paragraphs can improve the experience for the visitor and make it easier to understand, thereby increasing conversion rates.</p>
+<p>Remember, attention spans have never been lower than they are today.</p>
+<p>So take a look at your site, and say goodbye to that prized paragraph you’re so proud of.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d774085c-6d80-42c6-a569-8d5653c09f05" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/landing-page-hoarders-1.jpg" alt="Landing Page Cleanup" width="948" height="533" /></div>
+</article>
+</div>
+<p>It’s time to clean up.</p>
+<h2>12. Fancy it Up &amp; Be Ridiculous</h2>
+<p>As a wise person once said, “Don’t take yourself so seriously, no one else does.”</p>
+<p>We’re living in an age of visual eye candy. Social sites like Pinterest and Instagram are not popular because people loved pinboards before they were digital or photography before there were filters. People love these sites because they can express themselves and be unique.</p>
+<p><strong>Don’t try to fit in. <a href="/blog/ws/2012/05/18/tricia-lockwood">Try to stand out</a>.</strong></p>
+<p>When people like something because “it’s different,” they tell their friends and their friends will tell their friends.</p>
+<p>Before you know it, you’re not just a company, but a source of inspiration.</p>
+<p>One great example is Groupon’s cat:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cc606fe1-b2d0-47f1-bafc-9c27c1d98f27" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/groupon-cat-1.jpg" alt="Groupon Cat" width="550" height="340" /></div>
+</article>
+</div>
+<p>It has nothing to do with business, but it’s fun.</p>
+<p>Here’s a fun Mad Libs style twist on the regular lead generation form that actually increased conversions by 40%.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="af66c36e-a07a-46e7-8fdd-38b01928e5a0" data-langcode="und">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/mad-libs-conversion-rate-landing-page-form-1.gif" alt="Fun Landing Page Form" width="600" height="600" /></div>
+</article>
+</div>
+<h2>Bonus Landing Page Conversion Rate Tips</h2>
+<p>Here are a few final things to consider before I let you go:</p>
+<ul>
+<li>When you do make changes to your site, make sure you <strong>test one major thing at a time,</strong> i.e. redesign, layout, headline etc. (If you change too many things at once, some of the changes might have improved conversion rate while others didn’t, and you won’t know what worked and what didn’t.)</li>
+<li>You want to reach statistical significance with at least a <strong>95% confidence level</strong>. (To be on the safe side, make sure your increase in conversions is actually from the change you made, not some external reason you can’t control, like seasonal variance.) You can use <a href="http://mystatscalc.com/">this easy calculator</a> to test if your results are significant.</li>
+<li><strong>No testing is foolproof.</strong> Making your button bigger or having more testimonials does not guarantee an increase in conversion rate; it could actually make it worse! Be smart and don’t make assumptions.</li>
+<li><strong>Never. Stop. Testing.</strong></li>
+<li>Sometimes it can take weeks, even months before you reach a <strong>significant result</strong>. Use <a href="http://visualwebsiteoptimizer.com/ab-split-test-duration/">this calculator</a> to determine how long you should run your A/B tests for.</li>
+<li>Remember that <strong>getting the sale doesn&#8217;t end on the landing page</strong>. Look at your approach in terms of how you talk and communicate, and mystery shop your competition and your own employees. Even if you have a 42% lead gen conversion rate on your landing page, your <strong>real conversion rate could be much lower</strong> when it comes to actually sealing the deal.</li>
+</ul>
+<h2>Want To Learn More About Conversion Rate Optimization?</h2>
+<p>Check out our list of seven <a href="/blog/ws/2015/06/24/landing-page-tools">favorite landing page tools</a>.</p>
+<p>Happy converting!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide">12 Tests to Increase Your Landing Page Conversion Rate, Starting Today</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2013/07/11/landing-page-conversion-rate-guide/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

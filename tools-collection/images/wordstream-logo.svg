@@ -1,0 +1,6 @@
+<!-- WordStream Logo SVG -->
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="40" fill="#1e3b99"/>
+  <text x="20" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">WordStream</text>
+  <circle cx="170" cy="20" r="8" fill="#ff6900"/>
+</svg>

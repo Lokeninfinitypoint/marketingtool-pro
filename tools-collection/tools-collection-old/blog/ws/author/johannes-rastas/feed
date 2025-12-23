@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Johannes Rastas, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/johannes-rastas/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 09 Dec 2021 09:49:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Johannes Rastas, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Fresh Content Really Means to Google (+How to Create It)</title>
+		<link>https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor</link>
+					<comments>https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor#respond</comments>
+		
+		<dc:creator><![CDATA[Johannes Rastas]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 05:00:00 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor</guid>
+
+					<description><![CDATA[<p>Find out how Google measures content freshness, when it's important, and how to improve your freshness score for better SEO.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor">What Fresh Content Really Means to Google (+How to Create It)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span lang="EN" xml_lang="EN">We commonly hear that having fresh content can help your SEO, but it’s not as common for us to see a breakdown of exactly what fresh content means and how important it is for ranking. </span></p>
+<p><span lang="EN" xml_lang="EN">So in this post, we’re going to cover:</span></p>
+<ul>
+<li><span lang="EN" xml_lang="EN">What content freshness is and how it’s measured.</span></li>
+<li><span lang="EN" xml_lang="EN">When content freshness is a ranking factor.</span></li>
+<li><span lang="EN" xml_lang="EN">How to know when it’s time to refresh content.</span></li>
+<li><span lang="EN" xml_lang="EN">How to improve your freshness score.</span></li>
+</ul>
+<h2>What is fresh content?</h2>
+<p><span lang="EN" xml_lang="EN">Fresh content refers to recently published, updated, or rewritten content. Google and its users appreciate fresh content because it’s more likely to be accurate. </span></p>
+<p><span lang="EN" xml_lang="EN">Ever since its <a href="https://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html" target="_blank" rel="noopener">freshness algorithm update</a> in 2011, queries for trending or time-sensitive keywords trigger Google to prioritize newer pages with the most up-to-date information. The freshness update impacted at least one result on the page for 35% of searches.</span></p>
+<p>We can identify four dates associated with any URL that has been published online:</p>
+<ul>
+<li><strong>Published: </strong>when the page was uploaded on the website.</li>
+<li><strong>Indexed: </strong>when the crawlers first discovered the page and added it to Google Search.</li>
+<li><strong>Last crawl:</strong> when the page was last crawled by those bots.</li>
+<li><strong>Modified:</strong> when the last change was made to the page.</li>
+</ul>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9aa035e6-8199-4804-9a68-8308d7ca634c" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-URL-inspection.png" width="600" height="540" alt="Google search console URL inspection" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>If a page is updated and republished after the first crawl, the published time indicates when the page was most recently edited by the website. If the page is updated without republishing, it is shown as modified time.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="43e5e001-73ca-405d-b7ce-b79016823333" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-modified-time.png" width="700" height="292" alt="page modified time meta data" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h2><span lang="EN" xml_lang="EN">How does Google measure content freshness?</span></h2>
+<p>According to <a href="https://moz.com/blog/google-fresh-factor-new" target="_blank" rel="noopener">Moz</a>, Google estimates the freshness of your content based on many factors, including:</p>
+<ul>
+<li><strong>Page inception date: </strong>The date it was indexed by Google.</li>
+<li><strong>Amount of change to the updated page: </strong>Large changes signal more freshness.</li>
+<li><strong>Number of changes to core content of the page: </strong>Changes to the main body content add more freshness than adjusting the date/time tags.</li>
+<li><strong>Rate of page change: </strong>Frequent changes on the page signal more freshness.</li>
+<li><strong>Rate of new page creation: </strong>Websites that add new pages more frequently may get a higher freshness score.</li>
+<li><strong>Freshness of backlinks to the page: </strong>Links from sites that have high freshness scores can improve yours.</li>
+</ul>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1559499c-776e-4277-b459-57ff5ce1e2bb" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-fresh-links.png" width="706" height="416" alt="content freshness score factor: freshness of backlinks" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p class="text-align-center"><a href="https://moz.com/blog/google-fresh-factor-new" target="_blank" rel="noopener"><em>Image source</em></a></p>
+<h2>Is content freshness a Google ranking factor?</h2>
+<p><span lang="EN" xml_lang="EN">The freshness factor doesn’t exist in a vacuum. Rather, it’s one of the multiple factors or<a href="/blog/ws/2017/03/27/trust-signals"> trust signals</a> that both search algorithms use for ranking and users contemplate before clicking any of the results. And since freshness is more relevant to certain queries than others, the requirement for fresh content should always be evaluated on the basis of your primary keyword. </span></p>
+<h3>Fresh vs “unfresh” queries</h3>
+<p>Query categories for which Google will seek out fresh content include:</p>
+<ul>
+<li>Recent events (e.g. a playoff game)</li>
+<li>Hot topics (e.g. <a href="/blog/ws/2021/08/26/google-page-title-update">Google’s page title update</a> &#8211; trending at the time of this post).</li>
+<li>Recurring events and reports (e.g. presidential elections, annual conferences).</li>
+<li>Ongoing but always-changing information (e.g. product reviews).</li>
+</ul>
+<p>Query categories where recency has no major impact on the accuracy of the information may include:</p>
+<ul>
+<li>Food recipes</li>
+<li>Historical facts</li>
+<li>Broad topics</li>
+<li><a href="https://www.wordstream.com/blog/ws/2012/10/16/guide-to-evergreen-content-marketing">Evergreen</a> topics</li>
+</ul>
+<p>Let’s take a look at some examples.</p>
+<p><strong>Fresh queries</strong></p>
+<p><span lang="EN" xml_lang="EN">Someone interested in reading about ecommerce trends will likely be looking for the latest trends in the ecommerce industry, not those of the previous years.</span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a5f73def-733b-42fa-a628-855734731358" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-freshness-query.png" width="600" height="538" alt="example of query where recency matters" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>A page targeting a recency-sensitive query will slowly decay if not updated, whereas frequently updated content is more likely to have its position reassessed.</p>
+<p><strong><span lang="EN" xml_lang="EN">“Unfresh” queries</span></strong></p>
+<p><span lang="EN" xml_lang="EN">But for a keyword such as “search marketing,” freshness is not necessarily among the most crucial factors. People who search for that keyword will likely want to find out the basics of what <span lang="EN" xml_lang="EN"><a href="https://www.wordstream.com/search-marketing">search marketing</a><span lang="EN" xml_lang="EN"> is and what it covers, which hasn’t really changed in the last few years.</span></span></span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f53c2022-7e78-4360-a3f8-e10bf31498c3" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-non-fresh-query.png" width="600" height="486" alt="example of query where recency does not matter" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>In this case, an older but still-accurate page that <a href="https://www.wordstream.com/blog/ws/2010/04/01/build-amazing-backlinks">gains new backlinks</a> continually but is not updated can certainly compete with a newer page that doesn’t have inbound links or keeps losing its existing links.</p>
+<h2>How to improve your freshness score: best practices</h2>
+<p>Now that we established how content freshness can impact ranking for time-sensitive queries, let’s quickly go through some tips and best practices for incorporating the freshness factor into your<a href="https://www.wordstream.com/blog/ws/2021/03/05/seo-strategy"> SEO strategy</a>.</p>
+<h3>1. Check the SERP</h3>
+<p>The easiest way to evaluate the level of freshness that users presumably want for a query is to look at the publication dates of the top results. For example, you can check the first 10 or 20 results and calculate their average age. Ideally, you should also give more weight to the top-ranking results in your calculation.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6fe7a1b3-26b5-4c83-b5e8-6cd0867c3d11" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-SERP-first-page.png" width="600" height="895" alt="SERP for query about getting on the first page of google" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>We can see by the SERP that recency is important, but not critical for the query “how to get on the first page of google.”</em></p>
+<h3>2. Publish new (evergreen) content regularly</h3>
+<p>You don’t have to always be publishing content on new topics. But as we learned earlier, your rate of new page creation factors into your freshness score. So be sure to be publishing new content regularly, whether on evergreen or time-sensitive topics.</p>
+<p>The more frequently you publish content, the more often Google knows to crawl your site.</p>
+<h3>3. Update <em>old </em>content regularly</h3>
+<p>This <a href="https://research.google/pubs/pub34570/" target="_blank" rel="noopener">Google research publication</a> points out that search engines cannot recrawl every page all the time due to the massive scale of new content being published every day.</p>
+<p>As a result, Google crawls pages preferentially based on their rate of content update.</p>
+<p>By updating old content regularly, you improve your freshness score which can then make it easier for your time-sensitive content to rank.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a0781f01-b8dc-4ae8-bb1c-d12f6e455c1a" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-ahrefs-pages-published.png" width="600" height="192" alt="pages pubished report in ahrefs" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Report pulled from ahrefs for a social media marketing brand; as expected, they have to update their content very frequently.</em></p>
+<h3>4. Prioritize already-ranking content</h3>
+<p>If your content didn’t rank in the first place, the updates are hardly enough to rise to the top. Here are some resources to help you with getting your content to rank:</p>
+<ul>
+<li><a href="https://www.wordstream.com/blog/ws/2020/08/19/get-on-first-page-google">10 Free Ways to Get on the First Page of Google</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2012/11/14/how-to-rank-for-a-keyword">How to Rank for a Keyword in 10 Steps</a></li>
+<li><a href="https://www.wordstream.com/blog/ws/2015/04/30/seo-basics">The Complete Guide to SEO Basics</a></li>
+</ul>
+<h3>5. Actually update your content&#8230;</h3>
+<p><span lang="EN" xml_lang="EN">Changing your article’s published date and the year in the title is a common practice, but this does little to signal freshness to Google. As we covered earlier, changes to the main body of the page are more important to Google than adjusting the date/time tags. So you’ll need to update the core content of the page.  </span></p>
+<p><span lang="EN" xml_lang="EN">While creating fake freshness can potentially increase your CTR, at least momentarily, it will likely result in shorter dwell time on your page if users still find your content somewhat outdated. </span></p>
+<p><span lang="EN" xml_lang="EN">And if you end up with weaker <a href="/blog/ws/2021/07/27/seo-metrics">engagement metrics</a>, that certainly can have a negative impact on your ranking.</span></p>
+<h3>6. &#8230;and then actually change the publish date</h3>
+<p>In his <a href="https://seoblueprint.com/" target="_blank" rel="noopener">SEO Blueprint</a> training course, Glen Allsopp stresses the importance of aligning the published time Google associates with your URL with the year in your page title.</p>
+<p><span lang="EN" xml_lang="EN">Articles where the published time doesn’t match the year in the title are, in fact, fairly common.</span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eca5fb78-9900-45bc-98e5-9aa6c8e1b17c" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-best-seo-tools-serp-date-mismatch.png" width="600" height="486" alt="mismatch of publish date and date in title on SERP" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h3>7. Submit to Google through Search Console</h3>
+<p><span lang="EN" xml_lang="EN">After updating your core content, you may choose to resubmit your sitemap on Google Search Console if you wish to speed up the process of having Google recrawl your updated content. Google will find the changes eventually on its own, so this is usually not worth it for smaller changes.</span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cb03125f-8f19-4753-86e2-92686de3c6c4" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-sitemap.png" width="600" height="579" alt="google search console sitemap submission" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h2>When to update, republish, or publish new content</h2>
+<p>Whether it makes sense to update content so Googlebot will crawl your page more frequently and <a href="https://localiq.com/rank-your-business-higher-on-google/" target="_blank" rel="noopener">rank it higher</a> depends on how important freshness is for your query.</p>
+<p>Here is what <a href="https://ahrefs.com/blog/google-ranking-factors/#freshness" target="_blank" rel="noopener">Ahrefs</a> suggests:</p>
+<ul>
+<li><strong>When freshness is crucial:</strong> Update the page frequently or publish new articles on the topic regularly to keep up with demand.</li>
+<li><strong>When freshness is important but not critical:</strong> Update the page regularly, and if ranking starts to drop, consider revising and republishing.</li>
+<li><strong>When freshness isn’t important: </strong>Focus on creating the best possible guide on the topic.</li>
+</ul>
+<p>So let’s take a look at your options when freshness is crucial or important.</p>
+<h3>When to update content</h3>
+<p>While Google pays more attention to major updates, minor updates to a page are still important, because as we mentioned, a page’s freshness deprecates over time, no matter how evergreen. Examples of small updates include:</p>
+<ul>
+<li>Adding in new internal links</li>
+<li>Updating platform screenshots</li>
+<li>Adjusting headings</li>
+<li>Adding a new item to a list</li>
+</ul>
+<p>This method is a great way to <a href="https://www.wordstream.com/blog/ws/2021/03/03/get-more-traffic-from-evergreen-content">get more traffic from your evergreen posts</a> that don’t need major revisions.</p>
+<h3>When to revise and republish content</h3>
+<p>Revising outdated posts/pages and changing the published date is an effective way to boost freshness. This becomes relevant when an article requires a complete overhaul to meet visitors’ need for recent, up-to-date content. It should earn you a higher freshness score than a simple update.</p>
+<p>This method is best for evergreen topics that resonate with your audience long-term; as well as pages for which you want to preserve backlinks and other <a href="/blog/ws/2020/09/09/google-ranking-factors">beneficial SEO traits</a>.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="20eb1ed9-dfe5-495f-8fc4-192191cb3091" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-always-up-to-date-guide.png" width="600" height="404" alt="content freshness: example of revising and republishing " typeof="foaf:Image" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>Great example of revising and republishing by </em><a href="https://sproutsocial.com/insights/social-media-image-sizes-guide/"><em>Sprout Social</em></a><em>.</em></p>
+<p>Whenever republishing revised articles, it’s a good idea to share them on social media, just as you would any other new article to boost engagement.</p>
+<p><strong>Pro tip: </strong>Another option is to combine several topically related, outdated articles into one updated ultimate guide and redirect all traffic from the old pages to the new one. Especially if those old pages are performing well, you don’t end up losing that existing traffic, either.</p>
+<h3>When to publish new content</h3>
+<p><span lang="EN" xml_lang="EN">A good example of topics that require new content regularly is any article that lists out and explains trends around a certain theme. </span></p>
+<p><span lang="EN" xml_lang="EN">For example, at Supermetrics, we cover <span lang="EN" xml_lang="EN"><a href="https://supermetrics.com/blog/affiliate-marketing-statistics" target="_blank" rel="noopener">affiliate marketing trends</a><span lang="EN" xml_lang="EN"> every year. If you search for “affiliate marketing trends,” none of the results on the first or second page are older than from 2020. </span></span></span></p>
+<p>&nbsp;</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eb2d51ad-43c1-47bb-95cc-59e24fde4bcf" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-affiliate-marketing-trends.png" width="600" height="355" alt="supermetrics blog post on affiliate marketing trends" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p><span lang="EN" xml_lang="EN">To maintain freshness for this topic, we write an entirely new article every year, where we feature new experts and go through recent developments. </span></p>
+<p><span lang="EN" xml_lang="EN">Another reason for this practice is that we’re also targeting the query “affiliate marketing [current year].<span lang="EN" xml_lang="EN">”</span></span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c3549d53-60f3-47fe-a47a-3b3235c9e01a" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-query-report.png" width="600" height="278" alt="example of query report google search console" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>An additional bonus is that your older posts provide historical data that is useful for looking at trends over time.</p>
+<h2>How to know if I need to refresh my content</h2>
+<p>Keeping tabs on your page performance, including traffic trends and engagement, is crucial for understanding freshness.</p>
+<h3>Track performance metrics</h3>
+<p>For example, a page that doesn’t rank at the top but attracts a good amount of clicks that result in visits with a high average time on the page and low bounce rate will signal to Google that users consider your page relevant and fresh enough for that query.</p>
+<p>You can <a href="https://www.wordstream.com/blog/ws/2021/07/27/seo-metrics">learn more SEO metrics here</a>.</p>
+<p>Following these metrics for your content over time will provide useful insights into your page performance and whether there’s a need for updates or revisions. You can track these metrics using Google Analytics or by pulling the data to a spreadsheet with a reporting tool like Supermetrics (as in the image below)</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="cdb276ef-f801-4200-994a-d9d008621deb" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-supermetrics.png" width="400" height="735" alt="example of supermetrics dashboard creation" typeof="foaf:Image" /></div>
+</article>
+</div>
+<p>&nbsp;</p>
+<h3>Check keyword and query data</h3>
+<p>Keyword traffic volumes tend to fluctuate, and not only for trending topics. So, if your page traffic is down, it could also be due to recently declined keyword volume for that query.</p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2be16821-ae4c-4228-a272-a7cdad4ccbb1" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-query-data.png" width="720" height="345" alt="example of query data via google trends" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h3>Look at position history</h3>
+<p><span lang="EN" xml_lang="EN">Or maybe there’s new competition for your target keyword and one of those new pages managed to cut in with their fresh content. A brief look at the SERP position history could reveal if this is the case.</span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="f5d4162c-6dd7-47cf-9001-f5c51ff4a50b" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-position-history.png" width="720" height="312" alt="position history report ahrefs" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h3>Keep an eye on clicks and impressions</h3>
+<p><span lang="EN" xml_lang="EN">And keeping a close eye on the clicks and impressions and the search queries that generate them helps you evaluate when it might be time for updating your page to improve freshness.</span></p>
+<div data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="52c5ac05-2122-4948-98a1-0828149ceec8" data-langcode="en" class="embedded-entity align-center">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/12/content-freshness-ranking-factor-seo-search-console.png" width="720" height="374" alt="clicks and impressions report in search console" typeof="foaf:Image" /></div>
+</article>
+</div>
+<h2>Recap</h2>
+<p>The aim of keeping your content fresh is to serve users better by making sure your information is up to date. This should lead to more clicks and engagement and <a href="https://www.wordstream.com/blog/ws/2017/05/24/link-building-now">attract links</a> organically, all of which is a signal to Google that your page deserves to be at the top of the search results.</p>
+<p>We covered a lot in this post, so let’s finish off with a recap:</p>
+<ul>
+<li>Freshness is a ranking factor for Google but only for pages that target time-sensitive and trending queries.</li>
+<li>If recency adds little or no value to the query you are targeting, frequent updates won’t help your page to outrank an older, authoritative result.</li>
+<li>The best way to determine how important freshness is for a particular keyword is to search that query and look at the top 10-20 results.</li>
+<li>If freshness is important, monitor your page performance and update your content only when its ranking starts to decline.</li>
+<li>Depending on the performance metrics, you can decide whether to update the page regularly, revise and republish it, or create entirely new content on the topic.</li>
+</ul>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor">What Fresh Content Really Means to Google (+How to Create It)</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2021/09/29/fresh-content-google-ranking-factor/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

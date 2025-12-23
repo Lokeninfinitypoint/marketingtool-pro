@@ -1,0 +1,628 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*About theme*/
+.appearance_page_software_agency_guide{
+    background: #fff;
+}
+.wrapper-info {
+    margin-top: 20px;
+}
+.col-left{
+    width: 65%;
+    float: left;
+}
+.col-right {
+    width: 30%;
+    float: right;
+    padding: 5px;
+    margin: 0px 20px;
+    background: #eee;
+    border: solid 1px #ddd;
+}
+.wrapper-info h2 {
+    color: #004c75;
+    font-size: 28px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+.logo {
+    margin: 5px 0;
+}
+span.version {
+    font-size: 15px;
+    color: #333;
+}
+.col-left p {
+    font-size: 20px;
+    color: #333;
+}
+.update-now h4 {
+    text-align: left;
+    color: #004c75;
+    margin: 8px 0 0 0;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.update-now span {
+    color: red;
+    font-size: 20px;
+}
+/*Tab Button*/
+.tab-sec, .featurebox {
+    width: 100%;
+    float: left;
+}
+.tab {
+    margin-top: 20px;
+}
+td.update-link, .info-link a, .col-left-pro a,.col-right-pro a, a.vw-pattern-page-btn.button-primary.button, .software-agency-recommended-plugins a.button, .theme-offer .run-import, #theme_offer a.button.button-primary.site-btn {
+    padding: 3px 27px;
+    font-weight: bold;
+    font-size: 15px;
+    background: linear-gradient(#6ccef5,#016194);
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    display: inline-block;
+    line-height: 2.15384615;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.tab button{
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    text-decoration: none;
+    text-shadow: none;
+    display: inline-block;
+    line-height: 2.15384615;
+    border-radius: 3px;
+    cursor: pointer;
+    background: linear-gradient(#eee,#cacaca);
+    color: #004c75;
+    padding: 3px 12px !important; 
+}
+button.tablinks.active {
+    background: linear-gradient(#6ccef5,#016194);
+    color: #fff;
+}
+#install_ibtana-visual-editor h3, #install_ibtana-ecommerce-product-addons h3{
+    margin: 0px 0 20px;
+}
+hr.h3hr {
+    width: 10%;
+    border-top: 2px solid;
+    margin: 0;
+}
+.tab-sec h3 {
+    color: #004c75;
+    font-size: 25px;
+    margin: 20px 0 10px;
+}
+.tab-sec p {
+    font-size: 16px;
+    color: #333;
+}
+.col-right-inner h3{
+    margin-top: 0;
+}
+.col-right-inner {
+    width: 60%;
+    float: right;
+    padding: 0 20px;
+}
+.col-left-inner, .col-right-inner{
+    margin: 20px 0px 0px 0px;
+}
+.col-left-inner {
+    width: 34%;
+    float: left;
+}
+.col-right-inner img {
+    width: 100%;
+    box-shadow: 0 0 15px 1px #bbb;
+    margin: 20px 0px 20px 0px;
+}
+#block_pattern img {
+    width: 60%;
+    box-shadow: 0 0 15px 1px #bbb;
+    margin-top: 25px;
+}
+.col-left-inner h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.col-left-inner p {
+    font-size: 14px;
+    margin: 8px 0;
+}
+.info-link a:hover, .col-left-pro a:hover, td.update-link:hover, a.vw-pattern-page-btn.button-primary.button:hover{
+    background: #0771ab !important;
+}
+.info-link {
+    margin: 20px 0;
+}
+.col-right .info-link,
+.logo{
+    text-align: center;
+}
+button.tablinks:focus {
+    outline: none;
+}
+.tabcontent {
+    display: none;
+}
+.open {
+    display: block ;
+}
+#free_pro .dashicons {
+    margin-right: 5px;
+}
+.row-box1 {
+    float: left;
+    width: 52%;
+}
+.first-row {
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    background: #f5f5f5;
+}
+.row-box {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 8px;
+    font-size: 14px;
+}
+.row-box span {
+    margin-right: 8px;
+    color: #000;
+}
+.row-box a {
+    text-decoration: none;
+}
+.col-left-pro {
+    width: 40%;
+    float: left;
+}
+.col-left-pro p {
+    margin-top: 25px;
+}
+.col-right-pro {
+    width: 55%;
+    float: right;
+    padding: 15px;
+}
+.pro-links a {
+    margin-right: 8px;
+    padding: 10px 15px;
+}
+/*Table CSS*/
+.table-image {
+    padding: 20px 20px 20px 0;
+}
+.tablebox td {
+    padding: 15px 10px;
+    font-size: 18px;
+    color: #000;
+    border: solid 1px #ddd;
+}
+td.table-img {
+    text-align: center;
+}
+tr.odd {
+    background: #eee;
+}
+.tablebox th {
+    padding: 15px;
+    background: #eee;
+    color: #000;
+    font-size: 20px;
+    border: solid 1px #ddd;
+}
+table.tablebox {
+    border: solid 1px #ddd;
+    padding: 2px;
+    width: 100%;
+}
+td.update-link {
+    padding: 0px !important;
+    display: block;
+    text-align: center;
+}
+td.update-link a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+.tablebox span.dashicons.dashicons-saved, .tablebox span.dashicons.dashicons-no{
+    font-size: 25px;
+    line-height: inherit;
+    font-weight: 600;
+    width: auto;
+    height: auto;
+}
+.tablebox span.dashicons.dashicons-saved{
+    color: #24a562;
+}
+.tablebox span.dashicons.dashicons-no{
+    color: #db1601;
+}
+/*Support CSS*/
+.col-3 {
+    width: 28%;
+    float: left;
+    padding: 10px;
+    border: solid 1px #ddd;
+    margin: 25px 10px;
+}
+.col-3 h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+/*activation notice*/
+.notice.notice-success.is-dismissible.welcome-notice span a{
+    margin: 10px 10px 10px 0px;
+    padding: 2px 20px !important;
+    font-weight: 600;
+    line-height: 1.8;
+}
+.notice.notice-success.is-dismissible.welcome-notice span a:hover{
+    background: transparent !important;
+    color: #242628 !important;
+    border: 2px solid #242628 !important;
+    padding: 2px 20px !important;
+}
+.notice.notice-success.is-dismissible.welcome-notice span.import-btn a{
+    background: #242628;
+    border: 2px solid #242628;
+}
+.notice.notice-success.is-dismissible.welcome-notice span.upgrade-btn a{
+    background-color: #2271b1;
+    border: 2px solid #2271b1;
+}
+.notice.notice-success.is-dismissible.welcome-notice span.demo-btn a{
+    background-color: #00a32a;
+    border: 2px solid #00a32a;
+}
+.notice.notice-success.is-dismissible.welcome-notice span.bundle-btn a{
+    background-color: #17A2B8;
+   border: 2px solid #17A2B8;
+}
+.real-estate-developer-action{
+    margin-bottom: 20px;
+}
+.notice.notice-success.is-dismissible.welcome-notice .notice-row{
+    display: flex;
+    justify-content: space-between;
+}
+.notice.notice-success.is-dismissible.welcome-notice .notice-text{
+    align-self: center;
+}
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text1,.notice.notice-success.is-dismissible.welcome-notice .welcome-text2,
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text3{   
+    color: #242628;;
+}
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text1{
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0;
+}
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text2{
+    font-weight: 600;
+    font-size: 19px;
+    margin: 0;
+    padding: 0;
+}
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text3{
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.notice.notice-success.is-dismissible.welcome-notice .notice-img2 img{
+    width: 100%;
+}
+.notice.notice-success.is-dismissible.welcome-notice{
+    background: transparent linear-gradient(276deg, #F1FFE1 0%, #CDE5F4 100%) 0% 0% no-repeat padding-box;
+    height: 180px;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text1,.notice.notice-success.is-dismissible.welcome-notice .welcome-text2,
+.notice.notice-success.is-dismissible.welcome-notice .welcome-text3,.notice.notice-success.is-dismissible.welcome-notice span a,
+.theme-info-left h2,.theme-info h4,.coupen-section .disc-text, .coupen-section .coupen-text,.coupen-section h1,.coupen-section h5,.coupen-info .info-link a{
+    font-family: "Poppins", sans-serif;
+}/* -------- Ibtana gutenberg link to customizer --------- */
+.link-customizer-with-guternberg-ibtana {
+    width: 50%;
+}
+/* -------- Block pattern link to customizer--------- */
+.block-pattern-img {
+    width: 55%;
+    float: left;
+}
+#block_pattern img {
+    width: 100%;
+    box-shadow: 0 0 15px 1px #bbb;
+    margin-top: 25px;
+}
+.block-pattern-link-customizer {
+    width: 40%;
+    float: right;
+    padding: 0 25px;
+}
+.block-pattern-link-customizer h3{
+    margin: 25px 0 10px;
+}
+#product_addons_editor img {
+    width: auto;
+    box-shadow: 0 0 15px 1px #bbb;
+    margin-top: 10px;
+}
+.software-agency-pattern-page p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#product_addons_editor hr.h3hr{
+    margin: 10px auto;
+}
+/* -------- Plugin Activation Css --------- */
+
+.software-agency-recommended-plugins .software-agency-action-list, .demo-content{
+    max-width: 735px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 0 10px #e2e2e2;
+    margin-top: 31px;
+    background: #fff;
+}
+.software-agency-recommended-plugins .action-link,.software-agency-recommended-plugins a.button,.theme-offer .run-import, #theme_offer a.button.button-primary.site-btn{
+    padding: 10px 56px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.software-agency-recommended-plugins .action-link span{
+    position: relative;
+    top: 5px;
+}
+.software-agency-recommended-plugins .ibtana-skip-btn{
+    padding: 16px 56px;
+    display: inline-block;
+    margin-top: 20px;
+    color: #0071a1;
+    background: #eaf0f3;
+    text-decoration: none;
+    margin-left: 10px;
+}
+#lite_theme .software-agency-recommended-plugins{
+    display: none;
+}
+.gutenberg-editor-tab{
+    display: none;
+}
+.software-agency-pattern-page {
+    margin-top: 15px;
+}
+.appearance_page_software_agency_guide .notice.notice-success.is-dismissible.welcome-notice{
+    display: none;
+}
+
+/* theme bundle */
+#get_bundle .feature p:before{
+  background: url(./images/tick.svg) no-repeat;
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0%;
+}
+#get_bundle .feature p{
+    margin-top: 0;
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 4%;
+}
+#get_bundle .feature  h4{
+    color: #0A5481;
+    font-size: 20px;
+}
+#get_bundle .col-right-pro{
+    padding: 0;
+    width: 65%;
+}
+#get_bundle .col-left-pro{
+    margin-top: 0px;
+    width: 35%;
+}
+button.tablinks{
+    margin: 0 5px 10px 0;
+}
+.pro-links a {
+    margin-bottom: 10px;
+}
+
+/*new added css*/
+#theme_offer{
+    max-height: auto;
+}
+#theme_offer .notice-text{
+    color: #00a700;
+    font-size: 18px;
+}
+#theme_offer .notice.notice-success.is-dismissible P{
+    color: #F30F0A;
+}
+#theme_offer a.button.button-primary.site-btn{
+    margin-top:0 !important;
+    margin-bottom: 10px !important;
+}
+#theme_offer button.notice-dismiss{
+    width: auto !important;
+}
+#theme_offer a.button.button-primary.site-btn:hover, #theme_offer .run-import:hover{
+    background: #135e96;
+    border-color: #135e96;
+    color: #fff;
+}
+#theme_offer .run-import:hover{
+    background: #135e96;
+    border-color: #135e96;
+    color: #fff;
+}
+#theme_offer .notice{
+    display: none;
+}
+/* Spinner styling */
+.theme-offer{
+    position: relative;
+}
+#spinner {
+    position: absolute;
+    top: 83%;
+    left: 40%;
+    transform: translate(-50%, -50%); 
+    z-index: 1000;
+}
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+#spinner img {
+    width: 20px;
+    height: 20px; 
+    animation: rotate 1s linear infinite;
+}
+.tab-sec{
+    display: flex;
+    gap: 2em;
+}
+.tab-sec button {
+    display: block !important;
+    width: 290px;
+}
+button.tablinks {
+    margin: 0 5px 10px 0;
+}
+#theme_pro .col-right-pro .pro-links{
+    margin-top: 0 !important;
+}
+#free_pro,#gutenberg_editor{
+    width: 100%;
+}
+/*logo css*/
+.logo-section img{
+    width: 210px;
+    object-fit: contain;
+    height: 100%;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.coupen-section{
+    display: flex;
+    width: 37% !important;
+    border: 1px solid #c3c4c7;
+}
+.coupen-section .logo-img img{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+.logo-section{
+    flex-basis: 37%;
+    align-self: center;
+}
+.logo-right{
+    flex-basis: 63%;
+}
+.logo-img{
+    flex-basis: 20%;
+}
+.sshot-section{
+    width: 58%;
+}
+.update-now .info-link {
+    text-align: left !important;
+}
+
+/*coupen code css*/
+.coupen-section .disc-text,.coupen-section .coupen-text,.theme-info h4,.coupen-section h1{
+    font-weight: 500;
+}
+.theme-info-left h2{
+    font-size: 32px;
+    font-weight: 800 !important;   
+}
+.coupen-section .disc-text,.coupen-section .coupen-text{
+    font-size: 12px;
+}
+.coupen-section .coupen-code{
+    font-size: 14px;
+    margin: 0;
+}
+.theme-info h4{
+    line-height: 1.2;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+.theme-info h2,.theme-info h4,.dicount-row h5,.dicount-row h1{
+    color: #fff;
+}
+.dicount-row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.coupen-info h5{
+    text-align: center;   
+}
+.coupen-info .coupen-text{
+    margin:5px 0;
+}
+.update-now .info-link,.coupen-section .disc-text{
+    margin: 0;
+}
+.coupen-section h1{
+    font-size: 50px;
+    margin-top: 15px;
+}
+.coupen-info .info-link a{
+    padding: 6px 12px !important;
+    background: #fff !important;
+    color: #000 !important;
+    line-height: 1.2 !important;
+    border-radius: 0 !important;
+    font-size: 13px !important;
+}
+.coupen-info .info-link a:hover{
+    background: #fff !important;
+    color: #000 !important;
+}
+.theme-info .theme-info-left{
+    width: 60%;
+}
+.theme-info .theme-info-right{
+    width: 40%;
+}
+.coupen-section{
+    background: transparent linear-gradient(145deg, #aa0606 10%, #e9363bed 70%, #08223B 55%, #08223B 100%);
+    padding: 20px 20px;
+    box-shadow: 0px 3px 8px #00000082;
+}
+.coupen-section .logo-right{
+    align-self: center;
+}
+.coupen-info{
+    align-self: center;
+}

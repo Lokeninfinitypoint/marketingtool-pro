@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Company" transform="translate(-290, -152)" stroke-width="1.5">
+            <g id="common-file-text-clock" transform="translate(291, 153)">
+                <circle id="Oval" stroke="#FFAF24" cx="16.5" cy="16.5" r="6"></circle>
+                <polyline id="Shape" stroke="#FFAF24" points="19.152 16.5 16.5 16.5 16.5 13.848"></polyline>
+                <line x1="3" y1="6" x2="13.5" y2="6" id="Shape" stroke="#3A56BC"></line>
+                <line x1="3" y1="10.5" x2="9" y2="10.5" id="Shape" stroke="#3A56BC"></line>
+                <line x1="3" y1="15" x2="6.75" y2="15" id="Shape" stroke="#3A56BC"></line>
+                <path d="M6.75,19.5 L1.5,19.5 C0.671572875,19.5 0,18.8284271 0,18 L0,1.5 C0,0.671572875 0.671572875,0 1.5,0 L12.129,0 C12.5265472,0 12.9078016,0.157981752 13.189,0.439 L16.061,3.311 C16.3420182,3.59219839 16.5,3.97345279 16.5,4.371 L16.5,6.75" id="Shape" stroke="#3A56BC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

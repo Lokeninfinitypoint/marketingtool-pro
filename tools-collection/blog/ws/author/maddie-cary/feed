@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maddie Cary, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/maddie-cary/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 25 Jan 2024 21:34:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Maddie Cary, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3 Ways to Run More Effective Client Meetings</title>
+		<link>https://www.wordstream.com/blog/ws/2016/07/08/client-meetings</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/07/08/client-meetings#respond</comments>
+		
+		<dc:creator><![CDATA[Maddie Cary]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Strategies for Agencies]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/07/06/client-meetings/</guid>
+
+					<description><![CDATA[<p>Want to hold better, more productive client meetings? Then follow Maddie Cary's essential tips for more effective, productive meetings that keep clients happy.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/08/client-meetings">3 Ways to Run More Effective Client Meetings</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>PPC agency life can be hectic – bouncing from tasks, meetings, phone calls, training, blog-reading. Within a given week, I can average 4-7 meetings per day. Sometimes it’s amazing that we can balance getting all of our tactical work done when comparing the time we spend living in conference rooms or enduring hour-long conference calls. How do we keep our sanity?</p>
+<p>Hey, it’s what we do! And we’re (hopefully) good at it! But have you ever finished a meeting and found you were asking yourself, “What was the point of this meeting? What did we just accomplish”? Or worse, have you LED meetings where you felt like that at the end? Trust me, we’ve all been there.</p>
+<p><strong>The core of client and account management is communication</strong> – How do we speak to our target consumer audience to persuade them to take an action? How do we interpret the data to tell the performance story? How do we collaborate with our peers and our clients to achieve great results? It all comes down to how we communicate with each other, and meetings are where a lot of that talking happens. But does a lot truly get done? If you’re immediate answer is “no,” then it may be time to change how you run your client meetings.</p>
+<p>Below are the top three tips I have for how to take your meetings from dud to stud.</p>
+<h2>#1: State Your Meeting Goal</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="ffc3bfa8-8e06-481a-8acc-3d3ca61bfaf8" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/client-meetings-goals.png" alt="Client meetings set goals" width="762" height="482" /></div>
+</article>
+</div>
+<p>Say you jump on your weekly call with your client. Your assumption going in is that she’d like to review week-over-week performance and hear about the optimization tasks you’ve completed. But as you begin to chat, you find she’s discussing a new product line and launch dates. What was the original goal of the meeting? Where did it end up detouring? How do you get it back on track?</p>
+<p>My suggestion here is going to feel awkward, but it works incredibly well – <strong>at the very start of your meeting, state what the goal of the meeting is.</strong> What are you hoping to accomplish in the next 30 mins? We all feel a sense of comfort when ambiguity is removed, so stating the meeting goal up front allows for the client to either confirm that they are on the same page as you, or interject to express their different desired goal. From there, you can set the expectation for what will be reviewed during your time together and ensure there’s a central topic to return to if the conversation moves in another direction.</p>
+<p>Want to take it a step further? Make sure that the goal ties back to your client’s emotional need. They don’t just care about the goal, but about how it impacts them and how it’ll make their life easier or happier. Be sure to include that in your beginning meeting goal statement.</p>
+<p><strong>Here are some examples:</strong></p>
+<p>“The goal of our meeting today is to review our campaign structure suggestions and how they will aid in hitting your company’s monthly CPA target”</p>
+<p>“Our meeting today will be centered on mobile search trends and their impact on your account, and end in a summary that you can provide your boss this week”</p>
+<p>“Our goal during our time together today is to review weekly campaign performance and discuss how we’re pacing to your monthly KPIs”</p>
+<h2>#2: Stop Reading Off The Numbers</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e05dfcdf-d0d5-4a05-a99d-7df709be1f03" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/client-meeting-tips-numbers.png" alt="Client meetings take control" width="740" height="502" /></div>
+</article>
+</div>
+<p>Agency folks get into a comfortable rhythm, particularly when leading client calls or meetings. We tend to want to just talk about the data, and save less time to discuss what the data means or what it’s guiding us to do.</p>
+<p>But that’s what clients are paying us for! So CTR went down by 20% – okay, what does that mean to the client? And what are we as their agency going to do about it? <strong>The equation is typically 80/20 – we wrongly spend 80% of the meeting time walking through the data and 20% of the time talking about action items or next steps</strong>. If you want your client to believe in the value you bring to them, then you better switch to 20/80.</p>
+<p>How do you do refocus on your account plans without appearing like you’re avoiding talking about performance? You have to be delicate with your approach. What kind of client are they? Are they well-versed in the channel you’re discussing? Do they want a bit more of the nitty-gritty tactical or optimization details? Or do they really only laser-beam focus on the core KPIs?</p>
+<p>Know what your clients care about, and spend the majority of the time talking about optimizations, projects, and initiatives you as their agency are doing in order to help them grow. At the end of the day, a client can read a report of the numbers you send to them regularly. What they really want to know is what path their account is headed on and how they can deliver that message upward.</p>
+<p>Before any client meeting, write down no more than three major data-supported performance takeaways from the previous week or month. Keep numbers clear and clean. (Did CTR go up by 27.24%? Say 28%. No one is going to remember the decimals.) And get straight to the point. Then, tie action items or next steps directly to those numbers.</p>
+<p><strong>Here’s a simplistic example:</strong></p>
+<p>“CTR went up 28% month-over-month, which was due to our bidding strategy adjustment to increase bids to aim for Positions 1 &#8211; 3. Therefore, for this next month, we’re going to continue bidding for the same ad positioning in order to maintain elevated CTR and get more people to our pages and through the conversion path.”</p>
+<h2>#3: Outline, Expand, Repeat</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="01b77208-24df-42a9-8a0f-e46f3c761262" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/how-to-improve-client-meetings.png" alt="How to improve client meetings" width="720" height="618" /></div>
+</article>
+</div>
+<p>How do you know your ideas are being believed by clients? You’re not going to find success if you’re waiting to get affirmation from them every time you share a nugget of knowledge or try to persuade them to your way of thinking. Instead, you know you’ve been successful when you hear your clients saying back to you what you’ve told them. That tells you they understand and trust in your knowledge, advice, and partnership.</p>
+<p>Therefore, don’t share an idea once with your client and assume they’ve got it down pat. Especially if it’s a complex solution, or if it’s something you’re hoping to sell them on but sense resistance or roadblocks (also, please don’t just sell for the sake of selling – clients can smell it a mile away). Come to your client meeting ready to walk through the following three steps:</p>
+<ol>
+<li><strong>OUTLINE</strong> the core ideas (keep it to 3-4, since beyond that is too much information)</li>
+<li><strong>EXPAND </strong>on the details behind each core idea</li>
+<li><strong>REPEAT</strong> the core ideas</li>
+</ol>
+<p><strong>Here’s an example:</strong></p>
+<p><strong>OUTLINE</strong></p>
+<p>“I wanted to talk to you today about enabling mobile bidding in the account. The three reasons why I think we should do this include 1) capitalizing on growing mobile search trends in your vertical 2) utilizing your newly optimized mobile site experience and 3) accurately tracking mobile conversions to understand how that device targeting contributes to your monthly KPIs.”</p>
+<p><strong>EXPAND</strong></p>
+<p><strong>“</strong>Mobile searches are growing monthly, having surpassed desktop searches in 2015. Knowing this search trend is growing rapidly in your vertical, I think we should capitalize on this growing audience and enable mobile bidding…”</p>
+<p>“We also now have a great opportunity to send mobile searchers to your mobile-optimized site, which will provide a better user experience and likely result in higher conversion rate opportunity…”</p>
+<p>“Lastly, we can track mobile conversions just as we currently track desktop and tablet and can measure and understand the impact this device could have on growing your conversion volume month-over-month.”</p>
+<p><strong>REPEAT</strong></p>
+<p>“In summary, I think it’s a great time to enable mobile bidding in the account to capitalize on growing mobile searches in your vertical, send mobile searchers to an optimized landing experience for their device, and measure how mobile impacts your bottom line.”</p>
+<h2>This Seems So Simple…</h2>
+<p>You’re right, this isn’t complex stuff! But client managers often leave these simple processes and practices by the wayside because it means having to do preemptive planning and list-making – something we don’t always feel we have time to do.</p>
+<p>Be intentional and make the time. Show your client you run an organized, efficient ship by coming to client meetings with agendas, checklists, and goals in mind so that you can accomplish more when you’re together.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="60d36a5f-12eb-401e-8a7a-78757efa6d76" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/client-meetings-waynes-world.gif" alt="Client meetings Wayne's World gif" width="500" height="278" /></div>
+</article>
+</div>
+<p>Let’s end the “what was that meeting about?” feeling! Let’s deliver a better experience for our clients with <a href="/blog/ws/2020/07/07/marketing-meetings">more effective meetings</a>.</p>
+<h3>Next steps&#8230;</h3>
+<p>Get our free guide that outlines <a href="https://marketing.wordstream.com/WSContentDLWebBlogInContentTextLink11WaystoClients.html?cid=Web_Blog_InContent_TextLink_11WaystoClients_Download">11 mistakes agencies make</a> that prevent them from gaining new clients and retaining the clients they have!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/07/08/client-meetings">3 Ways to Run More Effective Client Meetings</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/07/08/client-meetings/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>12 Remarketing Audiences You Should Be Targeting in PPC</title>
+		<link>https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences#respond</comments>
+		
+		<dc:creator><![CDATA[Maddie Cary]]></dc:creator>
+		<pubDate>Mon, 16 May 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Display Ads]]></category>
+		<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/05/16/remarketing-audiences/</guid>
+
+					<description><![CDATA[<p>Learn how to leverage remarketing campaigns to layer rich audience data on top of keyword search intent to get the biggest bang for your buck!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences">12 Remarketing Audiences You Should Be Targeting in PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A crucial part of running successful PPC campaigns is knowing who you want to get your ads in front of (and then of course, persuading them to convert!). <a href="/blog/ws/2015/03/12/remarketing-lists-for-search-ads">Remarketing List for Search Ads (RLSA) campaigns</a> allow you to layer rich audience data on top of keyword search intent to get the biggest (and smartest) bang for your buck.</p>
+<p>With a thought-out <a href="/blog/ws/2016/06/08/rlsa">RLSA strategy</a>, you can better craft your ad messaging, landing page experience, and bidding tactics to align with where your target searchers are in the conversion funnel to then drive higher conversion rates and more efficient return.</p>
+<p>So don’t leave conversions on the table! You’ve got so much data in the palm of your hands — and it’s all coming from your own site analytics. How people interact with your site provides insightful data that you should definitely be leveraging across your PPC efforts.</p>
+<h2>First, what is the conversion funnel?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="b43ffa17-e42d-45f8-8090-665690c5b946" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/remarketing-audiences-conversion-funnel.png" alt="conversion funnel" width="616" height="614" /></div>
+</article>
+</div>
+<p>Each person within your target audience goes through a path before they reach your desired action. That path is best defined based on their behavior on your site, as well as the context within their given searches. Many marketers give themselves a pat on the back once a searcher completes a conversion – the job is done, we are victorious, HOORAY! But in order to grow your PPC program, it’s important to go beyond new acquisition and also consider <strong>how you can create continued loyalty and lifetime revenue from your consumer base</strong>.</p>
+<p>How does audience targeting come into play in all of this, particularly for PPC? It all comes down to how you define and segment your audience data and combine it with <a href="/blog/ws/2016/01/26/intent-marketing">the intention behind each search</a>. Consider how much more sophisticated your search retargeting strategy could be when you adjust your tactics based on how different audiences make the exact same search:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e93db38c-dce4-4881-91e6-12ffdcdbf313" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/remarketing-audiences-intent-2.png" alt="intent behind search" width="597" height="282" /></div>
+</article>
+</div>
+<p>So where do you begin? Below are the remarketing audiences that you can (and should) set up right now for PPC:</p>
+<h2>Remarketing Audiences in the Research Stage</h2>
+<p>Here are some audiences that are still researching or learning more about what you offer:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="fcb4f0f3-600a-4cd2-8ade-252c784901ad" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/research-phase-remarketing-audiences.gif" alt="research phase gif" width="360" height="184" /></div>
+</article>
+</div>
+<h3>Length of Time on Site</h3>
+<p>Dive into your analytics platform and try to get an understanding of how long users are spending on site before bouncing off. Do converters spend more than 5, 6, 7 minutes on site? What pages are they drifting towards? Are there pages that they’re <a href="/blog/ws/2016/04/07/reduce-bounce-rate">bouncing off</a> of more frequently? If this audience makes a non-branded search again while still in the researching phase, you can message to them differently to entice that reengagement and pull them back to the site and further down the funnel.</p>
+<h3>Site Search Users</h3>
+<p>Google Analytics allows you to set up <a href="https://support.google.com/analytics/answer/1012264?hl=en">Site Search tracking</a>, which can help you identify how often site visitors are using site search and what they’re most often looking for. It’s basically a whole new set of search term data to work with that includes revenue and orders driven from those specific searchers. This provides new behavioral audiences opportunities for RLSA, as well as new keyword ideas to test out in your legacy paid search campaigns.</p>
+<h3>Customer Match</h3>
+<p>Do you provide an option to sign-up for a newsletter, download a whitepaper or case study, or subscribe to your email list? As long as this data is first-party collected, you can be using it for search remarketing using Google’s <a href="/blog/ws/2015/11/02/adwords-customer-match-setup">Customer Match</a>. Not only does this audience option allow you to expand your targeting based on customer data that lives outside of Google Ads (AdWords), but initial results have shown that it has <a href="/blog/ws/2015/10/05/adwords-customer-match">a higher email match rate</a> compared to other ad platforms like Facebook and Twitter.</p>
+<h2>Remarketing Audiences in the Awareness Stage</h2>
+<p>These are audiences that are already showing engagement with your brand:</p>
+<h3>Blog Readers</h3>
+<p>People regularly reading and following your blog are part of your brand’s dedicated fan base. Test building audiences based on highly visited or liked blog pages. Adjust your messaging or landing experience, possibly offering incentives, loyalty program sign-ups, or early promo exclusives to continue nurturing that brand love and furthering content engagement, sharing, and ultimately conversions down the line.</p>
+<h3>YouTube Viewers</h3>
+<p>YouTube may not be the biggest driver of your last-click attributed conversions, but don’t write it off altogether. Studies show that across social platforms, <a href="http://venturebeat.com/2014/09/04/study-in-social-advertising-youtube-converts-more-customers-than-anyone-else/">YouTube has some of the stronger rates in product introduction during the first stage of the conversion funnel</a>, as well as higher rates in closing sales. Audiences watching your videos or subscribing to your channel are interested in your content, and remarketing to this group when they’re making relevant searches to your brand could present new ways to move potential converters into those final purchase stages.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="780c6fe6-6a56-4e15-88d3-658ae793f4b9" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/funnel-position-social-network.jpg" alt="funnel position social network" width="800" height="538" /></div>
+</article>
+</div>
+<h3>Your different business groups/domains</h3>
+<p>Your site doesn’t have to live on an island on its own! Does your company have additional business groups, product lines, or entities that have their own domains? Depending on how your analytics code or other audience platforms are collecting data, sharing this first-party data across groups can open new doors to revenue opportunity <a href="https://www.wordstream.com/blog/ws/2018/05/22/advanced-remarketing-strategy">via remarketing</a>, especially if searchers often interact between these different domains during the awareness phase.</p>
+<h2>Remarketing Audiences in the Intent Stage</h2>
+<p>These are audiences that are demonstrating <a href="/blog/ws/2014/06/30/commercial-intent-keywords">strong intent to purchase</a>.</p>
+<h3>Abandoned Carts</h3>
+<p>This audience is often cited as the classic, go-to pool to target for e-commerce advertisers in both Search and Display Network remarketing campaigns. Why not aggressively bid for those who made it all the way to <a href="/blog/ws/2016/03/17/shopping-cart-abandonment">filling the shopping cart and just didn’t click “buy”</a>? When this group comes back through the SERP via your Branded terms, test offering them something that would incentivize them to buy, including discounted shipping or a coupon, making it all too easy for them to come back, whip out their credit card, and take that final step to purchase.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4be573eb-e1db-4718-91ff-7bcfc890fdb8" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/shopping-cart-abandonment-remarketing.png" alt="Shopping cart abandonment remarketing" width="893" height="361" /></div>
+</article>
+</div>
+<h3>Sales Page Visitors</h3>
+<p>If someone engaged with your Sales Page, whether they converted or not – it means they are either interested and/or regularly aware of your discounts and reductions. What does that translate to – an audience with a high intention to give you dollah bills! Be sure to run up-to-date promotional copy to this group, highlighting specific offers or biggest discounts available to pull them back into the site.</p>
+<h3>Product Page Visitors</h3>
+<p>What products are your highest sellers or see the best conversion rate? What searchers are visiting certain products on the site but often not converting? Digging deeper into this data in your analytics platform can not only help you determine where to target, but also which pages to change up or exclude from your campaign builds. <a href="https://support.google.com/analytics/answer/2611404?hl=en#new">Segment out and bid up on product page defined audiences</a> that populate beyond the 1,000 audience minimum and show tailored product-based copy to bring them back in to learn more and convert.</p>
+<h2>Action + Loyalty Audiences</h2>
+<p>Finally, for audiences that have both taken action and demonstrate <a href="/blog/ws/2016/11/10/customer-loyalty">brand loyalty</a>, is there an opportunity to pull them back in?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="a8e6cb97-8fd1-4f47-8af0-c6eba0e4a9c2" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/loyalty-based-remarketing-audiences.gif" alt="loyalty based remarketing" width="460" height="230" /></div>
+</article>
+</div>
+<h3>Repeat Purchases</h3>
+<p>Do you sell products that need to be refilled, restocked, or repurchased in a shorter window (maybe 60-90 days?) Build an audience of those who purchased those particular products and set up remarketing campaigns prepped to message to them in the days right before they may be looking to stock back up. If they had a positive experience with your brand’s product, you’ll likely see higher conversion rates and return on this audience group when you <a href="https://www.wordstream.com/blog/ws/2020/02/24/combining-audiences-and-keywords">layer them</a> onto your Branded campaigns.</p>
+<h3>Past Converters</h3>
+<p>Many advertisers may immediately exclude any previous converters – why would we dedicate marketing dollars to people who have already did what we wanted them to do? Don’t devalue the repeat purchaser or loyal brand buyer, who already has a strong association with your company and will likely come back, whether that be through a remarketing banner or while doing a search on your brand name. Be sure to be there with a remarketing ad when they do.</p>
+<h3>Loyalty/Rewards Program Participants</h3>
+<p>Maybe you’ve exhausted quite a bit of audience testing and are looking for further ways to build new revenue streams in paid search. Look no farther than your customers who are going out of their way to opt into a loyalty or rewards program you provide. Give this audience every opportunity to be regular converters by putting them on a pedestal. When possible, direct them to special offer pages or site experiences that give them that high-level service feel (like welcoming them to the site by name, prompting them to login for more features/offers, or showing them previous purchases and visited pages to give them a relevant returning point).</p>
+<h2>The Power of Audience Targeting in PPC</h2>
+<p>Keyword intent is incredibly important for paid search, and it’s not going anywhere anytime soon. <strong>But there’s greater power in layering keywords with high-quality audience data.</strong> PPC is going to continue following the paths carved out in channels like Display and Social, with Google and Bing further launching paid search targeting methods that are audience-focused. Rather than let your remarketing audience strategy sit dusty and untouched on the shelf, understand the stories your site visitor data is telling you and shape your paid search retargeting tactics accordingly.</p>
+<p>What are some <a href="https://www.wordstream.com/blog/ws/2019/11/05/google-ads-remarketing-lists">remarketing audiences</a> you’ve seen success with? Share with us in the comments or on Twitter!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences">12 Remarketing Audiences You Should Be Targeting in PPC</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/05/17/remarketing-audiences/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spring Cleaning! 4 PPC Account Audit Tips To Save You Money</title>
+		<link>https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips#respond</comments>
+		
+		<dc:creator><![CDATA[Maddie Cary]]></dc:creator>
+		<pubDate>Fri, 18 Mar 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips/</guid>
+
+					<description><![CDATA[<p>It’s that time of year again. You’re pulling out your colorful shorts and lighter sweaters. You’re looking at your disaster of a pantry and asking yourself if you should impulsively buy that labeler.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips">Spring Cleaning! 4 PPC Account Audit Tips To Save You Money</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<section class="section">
+<div class="section__inner section__inner--column_seperator">
+<div class="column">
+<div>
+<h1>Spring Cleaning! 4 PPC Account Audit Tips To Save You Money</h1>
+</div>
+</div>
+<div class="column">
+<div></div>
+</div>
+<div class="column">
+<div class="field-item">
+<div class="text text--grey"><label class="label"><br />
+Last updated: </label><br />
+April 9, 2018</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="tag">
+<div class="tag__text">Paid Search Marketing</div>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="column">
+<div>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d9f790ea-a862-407f-a0ba-9ec80b3c17fb" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-spring-cleaning.png" alt="ppc account audit tips" width="700" height="235" /></div>
+</article>
+</div>
+<p>It’s that time of year again. You’re pulling out your colorful shorts and lighter sweaters. You’re looking at your disaster of a pantry and asking yourself if you should impulsively buy that labeler.  Your junk drawer has hit the point where it’s starting to give you an eye twitch every time you open it. You can’t fight the organizational urges any longer – it’s time for spring cleaning!</p>
+<p>But don’t stop at cleaning your closets, your pantries, your drawers –clean up your PPC account too! Get rid of all those moolah gobblers in your campaigns that have been lurking for far too long in the dark, dusty corners. Start this next quarter off right with a handful of simple account changes you can make that will cut inefficient costs and drive better results.</p>
+<p><strong>Are you ready to do some clean-up? </strong>Ask yourself these four questions as you start your spring PPC account auditing.</p>
+<h2>#1: Are You Targeting The Right Devices?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="86ba468b-0e17-4e09-8dab-f86eea4ae53a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-audit-device-targeting.png" alt="how to do a ppc account audit" width="650" height="203" /></div>
+</article>
+</div>
+<h3>To Mobile or Not to Mobile?</h3>
+<p>That is the question. You’ve likely read the proclamation “This is the year of mobile!” so many times in SEM articles that it now makes you nauseated. But ever since <a href="http://searchengineland.com/its-official-google-says-more-searches-now-on-mobile-than-on-desktop-220369">Google officially confirmed that mobile searches surpassed desktop searches in 2015</a>, we’ve all finally had to sigh deeply, admit this whole mobile thing wasn’t just a buzzword, and really evaluate our device targeting strategy.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2929b95d-039c-43f8-9500-26a63d7ebf82" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/mobile-ppc-charts-10.png" alt="mobile search volume" width="550" height="384" /></div>
+</article>
+</div>
+<p>The scary part is that many paid search marketers leave their mobile targeting equal to desktop – essentially opting into paying for clicks on an additional device without even first evaluating if it makes sense for them to do. More times than I can count, I’ve pulled a new client’s historical device report only to find that mobile performance is a dud (usually because mobile bidding wasn’t actively being managed).</p>
+<p>The moral of the story is that <strong>mobile targeting isn’t right for every advertiser</strong>. For some it’s like burning money, for others it’s a great growth opportunity. So the first things you need to ask yourself are:</p>
+<ul>
+<li><strong>Should I be targeting mobile? </strong>Is my product accessible or functional on a mobile device? Or is my service offering something that should be made available to a mobile searcher?</li>
+<li><strong>What’s my mobile experience like? </strong>Is my site design responsive? Is there a provided option to complete the conversion path on a mobile device?</li>
+<li><strong>Has mobile performed well for me previously? </strong>Have I tested and seen success with mobile targeting in the past? What does mobile performance look like for me via other channels (Organic, Social, Display?)</li>
+</ul>
+<h3>What Should My Mobile Bid Modifier Be?</h3>
+<p>Now, the even trickier part – the step that honestly makes you feel like you’re taking a complete shot in the dark: What should your mobile bid modifiers be set at? Where do you start? Do you slowly open up, from -90% to -80% to -70%&#8230;? Or do you immediately set things equal to desktop and cross your fingers?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="eba71a11-706a-436e-a4cf-a55897c3251c" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/praying.gif" width="256" height="201" /></div>
+</article>
+</div>
+<p>Neither. Google actually has a great formula you can use as a baseline for what your mobile bid modifiers should be. If you’re already opted into mobile and have historical device performance for your campaign, you can insert that data to calculate. If you’ve never targeted mobile, you can pull your organic device-specific performance from Google Analytics as a jumping off point.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="388be7f6-aa18-4f68-9e2b-0653894aa071" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/account-audit-mobile-bid-modifier-formula.png" alt="mobile bid modifier" width="800" height="243" /></div>
+</article>
+</div>
+<p>So for example, if my campaign’s historical <a href="/blog/ws/2015/10/19/dominate-mobile-conversion-rates">mobile conversion rate</a> over the last 30 days was 2.3%, and my historical desktop conversion rate was 5.3%, a good mobile bid modifier percentage to start with would be around -53%.</p>
+<h3>Do You Have Mobile Messaging In Your Ads?</h3>
+<p>So you are opted into mobile, eh? This mobile targeting is old news to you. You’ve had a sophisticated mobile bidding strategy from the start.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="113610c5-5126-406f-8b5d-4accc9996881" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-test-mobile-messaging.png" alt="mobile ppc audit" width="650" height="494" /></div>
+</article>
+</div>
+<p>But the question is – are you messaging for mobile?</p>
+<ul>
+<li>Do all your ad groups have at least one active mobile-preferred ad?</li>
+<li>Does that ad use mobile CTAs and/or copy?</li>
+<li>Have you tested display URLs like m.domain.com?</li>
+<li>Do your mobile-preferred ads all have Description Line 1’s ending in punctuation so as to keep your ad from being truncated on the mobile SERP?</li>
+</ul>
+<p>Elevating your mobile performance to the next level means regularly auditing, creating, and testing mobile copy. This one can get skipped or looked over during campaign launch time-crunches, but it’s an important piece of your device targeting strategy to increase relevancy, improve CTR, raise your Quality Scores, and ultimately reduce your actual <a href="/cost-per-click">cost per click</a>.</p>
+<h2>#2: Are You Matching To Relevant Queries?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="def7c616-1914-4257-9aba-cf49ca53614b" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-query-matching.png" alt="ppc account audit steps" width="650" height="202" /></div>
+</article>
+</div>
+<h3>Branded vs. Non-Branded Queries</h3>
+<p>What really kills me during PPC account audits is when I find campaigns that are a blend of branded and non-branded keywords. These two keyword types perform very differently, and should be managed and budgeted separately. Lumping branded keywords into non-branded ad groups means showing ad copy that’s not as tightly relevant, hurting CTR and providing no help to cutting down CPCs. Plus, it puts limitations on your ability to bid scalably when both keyword categories are intermixed under the same campaign umbrella.</p>
+<p>So do yourself a favor and split out branded and non-branded campaigns to save yourself a lot of headache (and money) down the line.</p>
+<h3>Negative Keyword Fencing</h3>
+<p>I’ve heard this technique called by many names, but “fencing” is my personal favorite. This is the strategy of applying Phrase and/or Exact match negative keywords to campaigns or ad groups in order to funnel queries to the most relevant keyword.</p>
+<p>Here’s an example. I have two separate ad groups:</p>
+<ul>
+<li>Boots</li>
+<li>Brown Boots</li>
+</ul>
+<p>I want my boot-specific queries to match to my Boots ad group. However, if I’m not careful, a higher bid “Boots” or +Boots keyword in that ad group may outbid my “Brown Boots” keyword in the other ad group. Therefore, I can add “Brown” as a negative phrase match to my Boots ad group to fence off brown boot queries to match to the ad group with the most relevant copy.</p>
+<p>Negative fencing takes time, dedication, and patience to set up. Some account managers will apply them in a very granular, methodical fashion. Others will focus on just adding them selectively so that their Broad match keywords don’t absorb all relative query volume. The best step you can take during your account audit process is to pull a Search Terms report that includes the Keyword column, taking a look at your highest-spending queries and watch keywords they’re actually matching to. From there, you’ll know where the cost damage is most notable and can implement a “fencing” plan!</p>
+<h3>Review Search Term Reports &amp; Negative Keyword Conflicts</h3>
+<p>The biggest offender you find during account auditing? It’s the lack of negative keywords. Nothing makes you face-palm harder than finding little to no negative keywords assigned to campaigns (especially high-spending campaigns). Another one that brings tears to the eyes? When a negative keyword has been added and is completely blocking ads from showing on a previously top-converting keyword. Yikes!</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3df55a7e-174a-4cc5-99c0-0c0c411c5161" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-audit-keyword-conflicts.png" alt="negative keyword conflicts audit" width="601" height="253" /></div>
+</article>
+</div>
+<p>But we’ve all done it or caught it. The goal is to fix it as soon as possible. So as part of your spring cleaning, take the time to set up regular search term report reviews, as well as time each month to audit your negative keyword conflicts (found in the Alerts section of the AdWords UI).</p>
+<h2>#3: Are You In The Right Place at the Right Time?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="acf29c84-3212-4983-bd22-2faec314cc08" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-location-geo-targeting.png" alt="ppc account audit guide" width="650" height="203" /></div>
+</article>
+</div>
+<p><a href="/blog/ws/2016/03/02/default-adwords-settings-to-avoid">Default settings can be dangerous</a>, and paid search managers can end up accidentally launching campaigns targeting the entire world, all languages, or all hours of the day. It’s pretty frustrating to later discover you were accidentally targeting a region you don’t deliver to, or running campaigns for a language you don’t want to be matching to.</p>
+<p>Let me call it out now before you think it – you probably think you haven’t made those mistakes. But it never hurts to double-check (especially if you catch the error before it costs you a pile of dough). Take the time during an account audit to review these settings for all campaigns:</p>
+<h3>Location Targeting Settings</h3>
+<ul>
+<li>Do you want to show ads just to people in your targeted location? Or people searching for and viewing pages about your targeted location?</li>
+<li>Are you <a href="/blog/ws/2013/11/13/adwords-geotargeting-local-ppc-guide">targeting all the right geos</a>?</li>
+<li>Pull a User Location Report from the Dimensions Tab. Are there locations worth adding as campaign exclusions?</li>
+</ul>
+<h3>Language Targeting</h3>
+<ul>
+<li>Are you targeting all the right languages?</li>
+<li>Are the keywords and ad copy correctly localized based on that campaign’s language targeting?</li>
+<li>Is it worthwhile to break out multi-language targeted campaigns into their own separate campaigns?</li>
+</ul>
+<h3>Hour of Day Targeting</h3>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="9be3e1f1-8b83-455f-9028-447f1273e32f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ad-scheduling-data-b2b-5.png" alt="Ad scheduling data B2B ecommerce" width="697" height="313" /></div>
+</article>
+</div>
+<ul>
+<li>Does it make sense for your account to be targeting all hours of the day?</li>
+<li>Pull an Hour of Day Report from the Dimensions Tab. How does performance vary based on time of day?</li>
+<li>Is it worth testing <a href="/blog/ws/2014/07/30/ad-scheduling">Ad Scheduling</a> to maximize your budget?</li>
+</ul>
+<h2>#4: Are You Using All The Bells &amp; Whistles?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="98a59c2d-96b3-495f-8956-d1da07dc5eb3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/account-audit-bells-whistles.png" alt="adwords account audit" width="650" height="204" /></div>
+</article>
+</div>
+<p>Not every available ad feature should be used by every advertiser. You’ll want to pick the add-ons that are most applicable to your goals and that realistically will help drive performance. With updates in the last few years to <a href="http://searchengineland.com/google-changes-adwords-ad-rank-calculation-now-factors-in-ad-extensions-and-formats-174854">how Google factors in ad extensions to determine ad rank</a>, as well as recent SERP changes like the <a href="/blog/ws/2016/02/23/google-kills-side-ads-more-data">removal of sidebar ads</a>, it’s critical to understand how some of those bells and whistles can give you a leg up on your ad positioning without needing to boost your costs via increasing bids.</p>
+<h3>Ad Extensions</h3>
+<p>So many options, so little time! At a minimum, all accounts should be running campaign-level “enhanced” sitelink extensions to maximize their real estate on the SERP and give searchers an ad experience that allows them to navigate to your other relevant site pages. With sidebars being removed from the paid results landscape, ad extensions are now eligible to show for ads in all positions, including bottom-page spots like Positions 5, 6, and 7.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="96e80c70-f6d5-42e4-8d9f-86521fa7349f" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-account-audit-bottom-page-ads.png" alt="doing a ppc account audit" width="493" height="555" /></div>
+</article>
+</div>
+<p><a href="https://support.google.com/adwords/answer/2375499?hl=en">The list of available ad extensions in AdWords alone includes</a>:</p>
+<h3>Manual Extensions</h3>
+<ul>
+<li>(Enhanced) Sitelink Extensions</li>
+<li>Call Extensions</li>
+<li>Location Extensions</li>
+<li>App Extensions</li>
+<li>Review Extensions</li>
+<li>Callout Extensions</li>
+</ul>
+<h3>Automated Extensions</h3>
+<ul>
+<li>Previous Visits</li>
+<li>Consumer Ratings</li>
+<li><a href="/blog/ws/2016/02/11/google-ratings">Seller Ratings</a></li>
+<li><a href="/blog/ws/2015/10/27/google-goes-dynamic">Dynamic Sitelink Extensions</a></li>
+<li>Dynamic Structured Snippets</li>
+</ul>
+<h2>You’re Off To A Fresh, Clean Start!</h2>
+<p>This is just the tip of the iceberg when it comes to auditing an AdWords account – but cleaning up these four areas of your account can lead to campaigns doing a complete 180. So sit down this month, dedicate some time to tidy things up, and step into the next quarter with a successful “new year, new me!” PPC attitude.</p>
+</div>
+</div>
+<div class="column">
+<div class="views-element-container contextual-region"></div>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips">Spring Cleaning! 4 PPC Account Audit Tips To Save You Money</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/03/18/ppc-account-audit-tips/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Do You Know Who Your Competitors Are? The 5 W&#8217;s of PPC Competitor Analysis</title>
+		<link>https://www.wordstream.com/blog/ws/2016/02/18/ppc-competitor-analysis</link>
+					<comments>https://www.wordstream.com/blog/ws/2016/02/18/ppc-competitor-analysis#respond</comments>
+		
+		<dc:creator><![CDATA[Maddie Cary]]></dc:creator>
+		<pubDate>Wed, 17 Feb 2016 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2016/02/17/ppc-competitor-analysis/</guid>
+
+					<description><![CDATA[<p>Do you need to do competitor analysis for PPC? YES! Find out how - plus when, why, who your competitors are, what tools to use for competitive analysis and more...</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/02/18/ppc-competitor-analysis">Do You Know Who Your Competitors Are? The 5 W&#8217;s of PPC Competitor Analysis</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>To kick off this blog post, I’m going to ask you to participate in an imagination exercise.</p>
+<p>Close your eyes. You’re sitting in an auction for avid Beyoncé fans. Beyoncé’s iconic outfit from the recent 2016 Super Bowl halftime show is up for bid. The auctioneer is warming up at the podium, buzzing and wriggling his lips. Sitting right in front of you are your two biggest competitors – Kelly Rowland (who, I guess, has a vested interest, or whatever) and Blue Ivy (mommy issues). The two are gripping their paddles, ready to enter the ring and throw their punches – anything to win the auction.</p>
+<p>And you’re off! The auctioneer begins spitting fire. You raise your paddle rapidly, eyeing Kelly and Blue Ivy as they follow suit. The bid level rises higher and higher, but you continue to pursue the prize, sweat dripping from your brow. As your competitors become weary, you battle on, until you’re confident you’re the last bidder in the mix. To your dismay, you hear a voice behind you make a final, ridiculously high bid, beyond what you’re able to afford. Who is this mystery bidder? Were they participating the entire time without you knowing? You turn around. JAY-Z?!? WHERE THE HELL DID YOU COME FROM?!?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="3dc6918e-48a4-4e14-9e1a-e194f053a358" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-competitor-analysis-jay-z.jpg" alt="competitive analysis tips" width="777" height="480" /></div>
+</article>
+</div>
+<p>Okay, so this weird little fantasy scenario I’ve conjured up is to help illustrate a point. If you didn’t know it already, search engine SERPs are competitive. Google set up the auction format for a reason:</p>
+<p>1) To make moolah, and</p>
+<p>2) To force advertisers into following their best practices to create the most relevant search environment possible.</p>
+<p>And while I’m someone who doesn’t identify as being aggressively competitive, I understand that competition can be a good thing. Rivalries can be healthy, spark innovation, and even push the underdog to accomplish things she would have never imagined. But for some, PPC competitors can be incredibly difficult to manage, whether they come in a constant stream, or show up out of the blue (you know, like Jay-Z blind-siding you and crushing your dreams).</p>
+<p>So it begs the question: <strong>Do you know who your PPC competitors are?</strong></p>
+<p>Did you hesitate when you read that question? How often are you monitoring and tracking competitor impacts on your paid search campaigns? Are competitors bidding on your branded keywords? What is your <a href="/blog/ws/2013/10/28/adwords-impression-share">impression share</a> on your top non-branded terms? Are any other advertisers using your trademark in their ads?</p>
+<p>If you feel uncertain about any of the above, never fear! <strong>Below are the 5 “W’s” (Who, What, Where, Why, &amp; When) every paid search marketer should use to analyze and understand their competitive landscape.</strong></p>
+<h2>WHO are your competitors?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e88b8efa-282c-409e-9d5c-59c39813f1b4" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/competitor-analysis-who-are-your-competitors.png" alt="how to do competitive analysis" width="471" height="254" /></div>
+</article>
+</div>
+<p>Many advertisers assume that their online competitors are the same as their perceived offline competitors. But this often isn’t fully true. It’s important to take a look at which domains are actively showing on the keyword sets you’re bidding on to determine two things:</p>
+<ul>
+<li>Who are my relevant competitors in PPC?</li>
+<li>If nearly all of the domains I’m showing ads with aren’t relevant to my company or my offering, am I bidding on the right keywords?</li>
+</ul>
+<p>So what should you do first?</p>
+<h3>Step #1: Pull the data!</h3>
+<p>Get familiar with Google Ads (formerly known as Google AdWords) and Bing Ads’ Auction Insights, which can be accessed via the “Details” drop down in both platforms. The metrics you’ll want to look at are:</p>
+<ul>
+<li><strong>Impression Share: </strong>How often another advertiser received an impression, as a proportion of the auctions in which you were also competing. Note that your impression share is a measurement of the number of impressions you received divided by the estimated number of impressions you were <strong><em>eligible</em></strong> to receive.</li>
+<li><strong>Overlap Rate: </strong>How often another advertiser’s ad received an impression when your ad also received an impression.</li>
+<li><strong>Position Above Rate: </strong>How often the other advertiser’s ad was shown in a higher position than yours was, when both of your ads were shown at the same time.</li>
+<li><strong>Top of Page Rate: </strong>How often you or your competitor’s ad was shown at the top of the page, above the organic search results.</li>
+<li><strong>Outranking Share: </strong>How often your ad ranked higher in the auction than another advertiser’s ad, or your ad showed when theirs did not.</li>
+</ul>
+<h3>Step #2: Take the data and make it actionable</h3>
+<p>My all-time favorite tool for visualizing Auction Insights data is from BrainLabs, who have a great guide for setting up their <a href="http://www.brainlabsdigital.com/blog/tracking-auction-insights-over-time/">Google Apps script for Auction Insights.</a> Since Auction Insights data isn’t available in Google Ads Scripts, this app script is a fantastic workaround solution. By pulling segmented campaign and Auction Insights data and plopping it into a Google Sheets doc, you can automatically generate graphs that illustrate competitive metrics alongside your trending CPCs.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="dfd59ddb-a4ab-41d5-b4a2-587780f130f3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/auction-insights-data-competitive-analysis.png" alt="auction insights" width="827" height="556" /></div>
+</article>
+</div>
+<h2>WHAT kind of competitors are they?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6a544506-9e4d-4ae2-aa76-8e46fced4042" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/competitor-analysis-dating-game.png" alt="competitor analysis" width="488" height="262" /></div>
+</article>
+</div>
+<p>All of your competitors are not created equal. Some may be <a href="/blog/ws/2015/11/03/small-business-ppc-management">big-budget bullies</a>. Others may be overlapping on just a few of your keywords and barely break through &lt; 10% impression share. Some may not even be what you’d define as true competitors. Closely look at who you’re up against in the auction and determine if a competing domain may be negatively impacting your impression share (though you’re both aiming for a common goal):</p>
+<p>So are you competing against:</p>
+<ul>
+<li><strong>Affiliates: </strong>Marketing partners that use a third-party link directing to your brand site in order to earn commissions on sales</li>
+<li><strong>CSE: </strong>Comparison Shopping Engine that lists products that send to outbound links for your retailer website</li>
+<li><strong>OTA: </strong>Online travel agency site where searchers can book travel-related services</li>
+<li><strong>Partner: </strong>Marketing partner who is not an affiliate and helps promote your brand’s product or services</li>
+<li><strong>Search Arbitrager: </strong>Site who works to attract traffic to a page that shows additional ads</li>
+<li><strong>Reseller: </strong>Retailer that sells your brand’s products or services</li>
+<li><strong>No Trademark: </strong>Advertiser who doesn’t have permission to use your trademark but is doing so</li>
+</ul>
+<p>So where do you begin?</p>
+<h3>Step #1: Do your research</h3>
+<p>Keep an eye on <a href="/blog/ws/2017/11/09/competitor-keywords">which keywords</a> your SEM affiliates, partners, or approved resellers are bidding on. Have discussions on keyword alignment ahead of time to ensure you’re not unnecessarily inflating CPCs. Track impression share weekly to identify any major fluctuations. You may also want to follow these tips for a <a href="/blog/ws/2021/03/16/marketing-competitive-analysis">marketing competitive analysis across search and social</a>.</p>
+<h3>Step #2: Determine if you’re getting the full story</h3>
+<p><a href="/articles/what-is-google-adwords">PPC auctions</a> aren’t always clear-cut. If you’re partners or affiliates are pointing to the same domain as you, then Google and Bing won’t be able to differentiate you both in Auction Insights and will lump you both under the same domain (listed as “You”).</p>
+<p>Managing resellers vs. non-approved trademark users can also be difficult (especially if you have a multitude of resellers). Remember that it’s also challenging for the approved resellers on the other side of the equation. If you find an advertiser breaking editorial guidelines and running unapproved with your trademark in their copy, you can escalate through <a href="https://support.google.com/adwordspolicy/answer/6118?hl=en">AdWords’ trademark policy channels.</a></p>
+<p>There are also helpful resources and tools from companies like <a href="https://www.brandverity.com/">BrandVerity</a>, <a href="https://www.adgooroo.com/">AdGooroo</a>, and <a href="https://www.semrush.com/">SEMRush</a> that allow you to monitor your PPC competitors, track the trends of top branded PPC keywords in your vertical, or do direct channel activity comparisons between your domain and another.</p>
+<p><strong><em>BrandVerity – Snippet from Q3 2015 Branded Keywords Report</em></strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="06e6b418-26a4-4526-bb84-360b027e0a46" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/brand-verity-for-competitor-analysis.png" alt="competitor analysis tools" width="1141" height="638" /></div>
+</article>
+</div>
+<p><strong><em>AdGooroo – Share of Voice Reporting</em></strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e5c5fd48-c342-4a66-b986-4293ea7b7821" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/adgooroo-competitive-analysis.png" alt="tools for competitive analysis in ppc" width="625" height="429" /></div>
+</article>
+</div>
+<p><strong><em>SEMRush Domain vs. Domain Reporting</em></strong></p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="417f1f4a-f11a-4848-ab3b-cc7f2f12d6d7" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/semrush-domain-vs-domain.png" alt="adwords competition analysis" width="1546" height="737" /></div>
+</article>
+</div>
+<p>WHERE are they competing with you?</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="115b542b-5c3f-4592-a1aa-e369069a3aa0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/where-are-your-competitors.png" alt="finding competitors in ppc" width="565" height="398" /></div>
+</article>
+</div>
+<p>You’re going to end up pulling out your hair if you try to track every little impression share or ad positioning change across your entire account. There are simpler ways to investigate beyond the campaign or ad group level and identify where you should focus your optimization time.</p>
+<h3>Step #1: Label top performing keywords</h3>
+<p>Use labels within publishers or third-party bidding tools to monitor any major changes on your top performing terms – those cash cows are going to see the quickest impact if a competitor comes in and begins to push you out. You can utilize the Dimensions tab to quickly pivot your data and look for changes or pull ad-hoc reports.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7c9037b3-fed0-422e-9350-af87132b2afe" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/competitive-analysis-adwords-dimensions-tab.png" alt="doing competitor analysis in adwords" width="991" height="217" /></div>
+</article>
+</div>
+<h3>Step #2: Set up alerts, reports, &amp; automated bidding rules</h3>
+<p>Set up automated Search Impression Share reports for top performing campaigns, ad groups, or keywords to send to your email. Use Google and Bing’s automated rules or Google’s flexible bidding strategies like Target Search Page Location to keep keywords from slipping from positions that result in the best return.</p>
+<h2>WHY are they competing?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="4886c7c2-0bba-48e5-8ede-588fb11fa382" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/why-competitive-analysis-ppc.png" alt="why do competitive analysis" width="464" height="344" /></div>
+</article>
+</div>
+<p>Every once in a while, you’ll run into a competitor domain bidding on your keywords solely for the sake of causing you pain – examples are competing brands who bid on each other’s branded keywords for the purpose of inflating CPCs. (Yes, it’s a real thing, and yes, I’ve had it happen with clients. I once had a client where it got so bad, they reached out to each other to agree to what they called a “gentleman’s agreement” and ceased their bidding war.)</p>
+<p>But many of your competitors will be trying to show ads on your keywords for the same reasons you are, and you won’t be able to beat them with just bidding alone. Take the time to review your competitor’s strategy on the public SERP and develop an action plan around your learnings.</p>
+<h3>Step #1: Review your competitors’ messaging regularly</h3>
+<p>We all know how to search on keywords directly on a given search engine. But this method leads to increasing impressions on your ads, mucking with CTR. To get a sense of what the SERP looks like in real time, you can use the Ad Preview &amp; Diagnosis Tool as a starting point. But if you’re looking for more detailed data on your competitors’ ad copy, there’s quite a few tools to help you from <a href="http://www.spyfu.com/">SpyFu</a>, <a href="http://www.ispionage.com/">iSpionage</a>, and <a href="http://www.semrush.com">SEMRush</a>.</p>
+<p><strong><em>SpyFu Google Ads History Report</em></strong></p>
+<p>Pluses: <a href="https://www.wordstream.com/spyfu">SpyFu</a> includes color-coded tables which outline a competitor domain’s historical ad copy trends, as well as highlights top performing ads.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="c6a18972-8fee-4f6d-b5a9-53b46dc055f1" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/spyfu-adwords-history-report.png" alt="spyfu for competitive analysis" width="1477" height="752" /></div>
+</article>
+</div>
+<p><strong><em>iSpionage Ads Report</em></strong></p>
+<p>Helpful option to review your competitor’s ad copy for both Google and Bing, as well as when ads were first and last seen, therefore showing you when your competitor launched and updated ads.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6683098f-4e35-4b3e-bf1a-da1735cca5ef" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ispionage-ads-report.png" alt="ispionage for competitor analysis" width="1467" height="742" /></div>
+</article>
+</div>
+<p><strong><em>SEMRush Ad Copies Report</em></strong></p>
+<p>Great for advertisers who are interested in reviewing competitor ad messaging in other countries.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6b4bd4dc-4bcb-40ae-a973-6caf4358ca13" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/semrush-ad-copies.png" alt="SEM Rush for Competitive Analysis" width="1464" height="783" /></div>
+</article>
+</div>
+<h3>Step #2: Test your ad copy strategy</h3>
+<p>You don’t get to control exactly what your competitor puts in their ads, but you can test your own messaging. What are your competitors offering? Are you using clear <a href="/blog/ws/2014/10/20/call-to-action-examples">calls to action</a>? If you’re in a crowded vertical, how can you stand out from other ads? How often are you considering your competitor’s strategy when writing your copy for ad testing?</p>
+<h2>WHEN should you take action?</h2>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="78a27701-fc60-4048-9d51-7850207810d0" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/ppc-competitor-analysis-when.png" alt="when to do competitive analysis" width="649" height="297" /></div>
+</article>
+</div>
+<p>Don’t spend every waking moment thinking about your paid search competitors. Your first priority should be driving results for <strong><em>your</em></strong> account. But competitors can rock your boat, and knowing how to steer the ship through that is the first step in the right direction.</p>
+<h2>Lastly, the most important step…</h2>
+<p><strong>Take your EGO out of it! </strong>When that imaginary auction with Jay-Z ends, you can’t let yourself get worked up enough to verbally attack him (#1 because he’s probably your best option for developing a friendship with Queen Bey, and #2 because he’s Jay-Z, WHAT ARE YOU THINKING?).</p>
+<p>Jokes aside, attacking your PPC competitors with all ego (AKA jacking up bids and throwing your goals out the window) and no intelligent thought, planning, or strategy is going to result in a whole lot of cost and very little pay-off. Next time you feel your ego creeping in or see your competitors start to make bigger moves, take a deep breath, recite the 5 W’s, roll up your sleeves, and kick off your best competitive PPC game!</p>
+<p><em><strong>&gt;&gt; Get more <a href="https://www.wordstream.com/blog/ws/2023/09/21/competitive-analysis-templates">competitive analysis templates</a> here!</strong></em></p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2016/02/18/ppc-competitor-analysis">Do You Know Who Your Competitors Are? The 5 W&#8217;s of PPC Competitor Analysis</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2016/02/18/ppc-competitor-analysis/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

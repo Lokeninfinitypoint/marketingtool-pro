@@ -1,0 +1,1 @@
+import{A as t}from"./aos.i_SIqWJ0.js";import{H as r}from"./index.BBJ6AqEX.js";import"./_commonjsHelpers.Cpj98o6Y.js";import"./index.DguOkqPK.js";document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".hs-accordion").forEach(o=>{setTimeout(()=>{const{element:e}=r.getInstance(`#${o.getAttribute("id")}`,!0);e.on("open",()=>{t.refresh()})},1e3)})});

@@ -1,0 +1,43 @@
+.iteck-slider.style-0 .swiper-slide .bg-img .container .caption .main-title{
+    letter-spacing: 1px;
+}
+.navigation li a, .iteck-header.style-6 .sec-head h6,.simple-btn,.portfolio.style-4 .noraidus .cont h6,.iteck-testim-2 .head-box h6{
+    letter-spacing: 0;
+
+}
+
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev{
+    background-image: none !important;
+}
+.swiper-nav .fa-chevron-right:before{
+    content: "\f053";
+}
+.swiper-nav .fa-chevron-left:before {
+    content: "\f054" ;
+}
+.skills.style-1 .skill input{
+    margin-right: -84px !important;
+}
+
+.iteck-title.style-2 h2{
+    -webkit-text-stroke-width: initial;
+    -webkit-text-stroke-color: initial;
+    color: transparent;
+    color: #fff;
+    text-shadow: 0px 0px 0 #fff, 0px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+body.iteck-dark-mode .iteck-title.style-2 h2{
+    -webkit-text-stroke-width: initial;
+    -webkit-text-stroke-color: initial;
+    color: transparent;
+    color: #000;
+    text-shadow: 0px 0px 0 #000, 0px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+
+.sidebar .widget ul li a:before{
+    content: "\f104";
+}
+
+

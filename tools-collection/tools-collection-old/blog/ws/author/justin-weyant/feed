@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Justin Weyant, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/justin-weyant/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 25 Jan 2024 21:25:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Justin Weyant, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Online Marketer&#8217;s Definitive Rulebook for Live Chat</title>
+		<link>https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook</link>
+					<comments>https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook#respond</comments>
+		
+		<dc:creator><![CDATA[Justin Weyant]]></dc:creator>
+		<pubDate>Wed, 08 May 2019 05:00:00 +0000</pubDate>
+				<category><![CDATA[Websites & Online Presence]]></category>
+		<category><![CDATA[Chatbots]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook/</guid>
+
+					<description><![CDATA[<p>Using live chat helps you reach your prospects and your customers when and where they need you—as long you're following the rules. Here's our complete live chat rulebook for online marketers, including tips on handling common questions, testing auto messages, and more!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook">The Online Marketer&#8217;s Definitive Rulebook for Live Chat</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Three years ago, WordStream started an online chat feature for prospective advertisers and agencies using our free tools on our website. I was new to the SaaS industry, and I was going to be working on a new initiative that our former CEO Ralph Folz was very excited about. All of a sudden, 23-year-old Justin had a great opportunity to prove himself.</p>
+<p>Live chat ended up becoming an instrumental tool that helped us scale our sales processes, and it’s not surprising why. (No, not <em>only </em>because 23-year-old Justin rose to the challenge.)</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="e4c96eba-befb-4699-a14a-586428d3804a" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook.jpg" alt="image of celebration statue" width="820" height="548" /></div>
+</article>
+</div>
+<p>Using live chat helps you reach your prospects and your customers when and where they need you. When you have someone on your website that has questions, you can blow their mind by providing great service over live chat. Some people don’t want to email or call you or even submit their contact info over a form. Live chatmaa quicker, easier option—can be the best way to build their trust.</p>
+<p>Whether you are using live chat to generate more demos and more top-of-funnel leads, to improve customer experience, or to <a href="https://www.wordstream.com/blog/ws/2017/09/07/ecommerce-sales-product-pages">drive more ecommerce sales</a>, there are some standard rules for using live chat effectively. Here are my top eight rules. Follow these, and live chat can help you create a WOW experience for your customers and turn their inquiries into revenue for your business.</p>
+<h2>Rule #1: Make it obvious you are human</h2>
+<p>When the little chat bubble pops up on a website, your customers think this is what your selfie looks like:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="5cb6af4f-c1e9-4eaf-bb2d-ef3020d7d146" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook-robot.jpg" alt="robot" width="501" height="442" /></div>
+</article>
+</div>
+<p>At WordStream, we have used a variety of live chat platforms, including SnapEngage, Intercom, and Drift. These platforms all allow you to have an automated message pop up when visitors enter your site. This first message they see is automated. But if they respond, then you have a chance to talk to them live.</p>
+<p>If this is new information for you, you are not alone.</p>
+<p>A lot of people don’t realize they are talking to an actual person on live chat—ever. So try to use some slang or mention something funny to make it obvious you are a real human being. Many chat platforms allow you to upload a picture, too, so make sure you add a professional photo and show off your beautiful, human face!</p>
+<p><a href="https://www.wordstream.com/blog/ws/2018/09/14/chatbot-marketing">Chatbots</a> can be effective—and more on this later—but people are more likely to open up to you once they know you are a real person. This is a quick win for humanity (and your business).</p>
+<h2>Rule #2: Get the right people involved</h2>
+<p>Live chat is perfect for answering quick questions, sending someone helpful resources, and connecting prospects and customers with the right person to help them. We quickly realized that a lot of people asking questions on our website were current WordStream clients reaching out for assistance. I worked with the Customer Success team to come up with a fast process to connect clients with their account manager or support staff when they reached out to us on chat. That’s an easy fix there.</p>
+<p>Getting prospective clients connected with the right person on our sales team was a bit more challenging. I realized that, in most cases, these people to get in touch with an actual expert. I learned a lot about PPC management in my first few months at WordStream, but I was NOT the best person to explain how to increase <a href="https://www.wordstream.com/blog/ws/2019/01/16/return-on-ad-spend-roas">ROAS</a> or how to <a href="https://www.wordstream.com/blog/ws/2017/05/02/adwords-account-structure-guide">restructure a Google Ads account</a> at that time. We had Google Ads certified experts with years of experience, so I needed to direct people on chat looking for expertise to them.</p>
+<p>Most people are reasonable when you explain to them that they are better off jumping on a quick call with a more qualified expert, and they will ultimately have a much better experience talking to someone who has the answers to all their questions. Work on identifying when it’s time to hand off the conversation to someone else and who they should talk to, and then make sure you have those systems in place.</p>
+<h2>Rule #3: Don’t miss any messages</h2>
+<p>Responsiveness is always important, but it’s make-or-break when it comes to live chat.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="530629dc-8ec8-448f-86b9-c817e2995f5e" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook-missed-messages.jpg" alt="Jackie Chan meme" width="678" height="441" /></div>
+</article>
+</div>
+<p>Imagine if were so happy to see an option to ask a question over live chat, and then 10 minutes later you have no response! You may never talk to that company again, so make sure you are always ready to help.</p>
+<p>Now, you’re probably not on there 24/7, and that’s okay. Make sure you have an automated message response for off hours, and always have someone on live chat during business hours.</p>
+<p>We used to have two people in sales operations when we introduced live chat, so we would coordinate breaks at different times to make sure we had constant coverage on chat. You can pause the chat feature if no one is available, but who knows what opportunities you are missing when you are paused.</p>
+<p>And when you are online and available, respond promptly. The average response time is <a href="https://www.superoffice.com/blog/live-chat-statistics/" target="_blank" rel="noopener">2 minutes and 40 seconds</a>. If you want to create that WOW experience, you need to reply to messages in 30-60 seconds.</p>
+<h2>Rule #4: Understand common questions</h2>
+<p>When I was covering chat, I kept getting questions about negative keywords, <a href="https://www.wordstream.com/long-tail-keywords">long-tail keywords</a>, and Quality Score over chat, so I started to listen to my colleagues&#8217; calls and attend training sessions to expand my knowledge. <strong>When you start to understand trends in what people need help with, you can start to find ways to provide support faster and more thoroughly.</strong></p>
+<p>In addition to learning how to answer questions better, I also worked to make sure I could answer repeat questions more easily. Some platforms, including SnapEngage, allow you to program certain responses, which can be helpful when you are sending the same links over and over again. I used to send the link to our <a href="https://www.wordstream.com/learn">PPC University</a> to people who were not currently advertising on Google Ads and Facebook Ads, but had been doing research to learn more about it. I also saved links to the <a href="https://www.wordstream.com/ppc-free-trial">free trial</a> of our software and other free tools, so that I could send useful information to someone on chat more efficiently.</p>
+<p>When you have a new employee, chat can be a great way to get them ramped up. If they are sitting next to some senior team members, they can get hands-on experience and ask people around them when they need help. Win-win.</p>
+<h2>Rule #5: Test your auto messages</h2>
+<p>Like I mentioned earlier, the first message you send someone in the chat window is automated. Some chat options, like <a href="https://chatbots.org/intercom">Intercom</a>, allow you to test different auto messages. That way, you can compare the results and see which one gets the best response. I tested a few different ones before I figured out the one below was working the best:</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="2352e488-9b30-41e3-84c4-43bf8178349a" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook-automated-responses.jpg" alt="live chat automated response example" width="440" height="399" /></div>
+</article>
+</div>
+<p>These days I’m on our Pacific Region sales team, so I found I get more demos booked when I mentioned the fact that I work during Australian business hours. Intercom also integrates with <a href="https://calendly.com/" target="_blank" rel="noopener">Calendly</a>, so people can book time on my calendar using the Schedule Here button. Plus, my clients are in Australia, New Zealand, and Asia, so I’m more likely to earn their trust when they learn that I’m dedicated to working in their region.</p>
+<p>I tend to find that shorter auto messages work best, but you should really test a wide range of messages to figure out what’s best for your customers.</p>
+<h2>Rule #6: Get the app</h2>
+<p>If you want to keep the ball rolling and respond to chat outside of your work day, you should make sure you have your chat app on your phone. I’ve had luck setting up meetings, answering people’s questions, and helping prospects with action items while I’m riding the train, playing videogames, and out to eat. It sounds crazy, but sometimes you have to put down the Xbox controller on the weekends when your prospects need help .</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="322a2897-6d05-4d41-888e-c0c6e0fdd6e6" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook-video-game-meme.jpg" alt="video game meme" width="560" height="482" /></div>
+</article>
+</div>
+<p>All the platforms we have used at WordStream have a mobile app, and I’m sure most <a href="https://blog.hubspot.com/sales/best-live-chat-software" target="_blank" rel="noopener">other software options</a> do, as well.</p>
+<p>Another great win here is to look at integrations that suit your workflow—or fit into apps that you’re already using. <a href="https://www.refuelcreative.com.au" target="_blank" rel="noopener">Refuel Creative, an Australian HubSpot &amp; Drift partner</a>, gets great results from Slack integrations. Refuel Managing Director Ryan Jones explains, “We always set up HubSpot Conversations and Drift to integrate with Slack because it allows our team to respond to messages faster. You can respond to Drift chat without even leaving Slack, and the Drift integration even shows us the contextual information about the person we’re chatting to!”</p>
+<h2>Rule #7: Let the bots help</h2>
+<p>As much as you might like to, you can’t be around 24/7 to respond to live chats. Even if the app is on my phone, there are times I can’t answer—or times I just shouldn’t, because breaks from work are important. Since I’m working Australian business hours, most messages that I miss can get routed to a colleague during WordStream’s EST business hours. But what if you don’t have a colleague who can take the message?</p>
+<p>Rule #3 says I can’t miss a message, so I need to make sure I have a strategy to handle this.</p>
+<p>Enter bots.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="1cfbebbb-d2a9-4761-b36a-86f243a7b951" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/robot.jpg" alt="robot" width="660" height="371" /></div>
+</article>
+</div>
+<p>You can create bots using most live chat tools now. You can set up your bots to manage conversation routing, meeting booking, linking to your company’s knowledge base, and more.</p>
+<p>No one likes dealing with simple robots, though—the experience is too often frustrating. So you need to contextualize your conversation.</p>
+<p>Do you think your visitors are going to respond better to: “Hi, how can I help?”</p>
+<p>Or something like this: “Do you want to know how WordStream can help you increase CTR by 20%?”</p>
+<p>You can set up different messages based on the page of the website, because that will let you know what the visitor is interested in. Like with live chat, your goal with using chat bots is still to assist and engage your visitors.</p>
+<p>As Ryan from Refuel explains, “We use bots to ask qualifying questions of our and our clients&#8217; prospects. Our bot picks up the conversation, nurtures the lead, and then works to book them into a call when our team are available. This means if you message us through the website, even if we’re sleeping, the bot is either helping or booking you into a call to speak to a human.”</p>
+<h2>Rule #8: Study your past conversations</h2>
+<p>One of the things I really like about SnapEngage is that people can rate YOU after your conversation with them, and they can leave comments about their experience with you. This is a great data point to evaluate, and you should look back at recent conversations to see what’s working and what’s not working.</p>
+<p>Sometimes you may notice that people disappear suddenly and stop responding to your messages. Maybe there’s something you are saying that turns people away, so try to figure out if there are common trends amongst conversations that go nowhere.</p>
+<p>And don’t forget to take a look at the conversations that went well.</p>
+<p>When I was in sales operations, I would review the chat logs from prospects that ended up buying WordStream. I looked for patterns that could be replicated or language that seemed clear and effective. By reviewing your successful chat logs, you should be able to figure out what “lyrics” you can use in chat to provide that WOW experience you are hoping to give everyone reaching out to your company for help.</p>
+<p>At the same time, some user feedback should be disregarded &#8230; which brings me to my BONUS RULE in this guide to using live chat.</p>
+<h2>BONUS RULE: Don’t worry about trolls</h2>
+<p>If only there was a magic spray that will remove trolls from the internet.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="6b015a13-9b47-4cb0-bf5c-704387af3336" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/live-chat-rulebook-troll-book.jpg" alt="troll spray" width="502" height="493" /></div>
+</article>
+</div>
+<p>Alas. I guarantee if you have 100 people reach out to you over live chat, at least one or two will be someone bored, cranky, or just pulling your leg.</p>
+<p>Don’t sweat it if you are having a great conversation with a “super qualified” client that suddenly goes dark on you. Maybe it really was the CEO of a company that you really want to work with, but it also could be a 13-year-old hacker who is having a good laugh at your expense. Just keep your head up, stay logged in, and focus on creating a great experience for the next person to chat with you!</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook">The Online Marketer&#8217;s Definitive Rulebook for Live Chat</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2019/05/08/live-chat-rulebook/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

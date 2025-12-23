@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Content Generator - Data Client</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f8f9fa;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+    }
+    .header p {
+      opacity: 0.9;
+    }
+    .content {
+      padding: 30px;
+    }
+    .form-group {
+      margin-bottom: 25px;
+    }
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: #2d3748;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: inherit;
+      transition: border-color 0.2s;
+    }
+    input:focus, select:focus, textarea:focus {
+      outline: none;
+      border-color: #667eea;
+    }
+    textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+    .btn {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 14px 30px;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      width: 100%;
+      transition: all 0.3s;
+    }
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+    }
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+    .info-box {
+      background: #f0f4ff;
+      border-left: 4px solid #667eea;
+      padding: 15px;
+      border-radius: 6px;
+      margin-bottom: 25px;
+    }
+    .info-box p {
+      color: #4a5568;
+      line-height: 1.6;
+      margin: 0;
+    }
+    .preview {
+      margin-top: 30px;
+      padding: 20px;
+      background: #f8f9fa;
+      border-radius: 8px;
+      display: none;
+    }
+    .preview.active {
+      display: block;
+    }
+    .preview h3 {
+      margin-bottom: 15px;
+      color: #2d3748;
+    }
+    .preview-item {
+      background: white;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-radius: 6px;
+      border: 1px solid #e0e0e0;
+    }
+    .preview-title {
+      font-weight: 600;
+      color: #2d3748;
+      margin-bottom: 5px;
+    }
+    .preview-content {
+      color: #718096;
+      font-size: 0.9rem;
+    }
+    .stats {
+      display: flex;
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .stat {
+      flex: 1;
+      text-align: center;
+      padding: 15px;
+      background: white;
+      border-radius: 8px;
+      border: 1px solid #e0e0e0;
+    }
+    .stat-value {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #667eea;
+    }
+    .stat-label {
+      font-size: 0.85rem;
+      color: #718096;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🤖 AI Content Generator</h1>
+      <p>Bulk generate content into Webflow CMS</p>
+    </div>
+
+    <div class="content">
+      <div class="info-box">
+        <p>
+          <strong>💡 How it works:</strong> Select your CMS collection, choose content type, 
+          and generate high-quality AI content at scale. Perfect for blogs, products, and more.
+        </p>
+      </div>
+
+      <form id="generateForm">
+        <div class="form-group">
+          <label for="collection">CMS Collection *</label>
+          <select id="collection" required>
+            <option value="">Select a collection...</option>
+            <option value="blog-posts">Blog Posts</option>
+            <option value="products">Products</option>
+            <option value="team-members">Team Members</option>
+            <option value="testimonials">Testimonials</option>
+            <option value="portfolio">Portfolio Items</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="contentType">Content Type *</label>
+          <select id="contentType" required>
+            <option value="">Select content type...</option>
+            <option value="blog-post">Blog Post (SEO optimized)</option>
+            <option value="product-description">Product Description</option>
+            <option value="landing-page">Landing Page Copy</option>
+            <option value="social-post">Social Media Post</option>
+            <option value="email">Email Campaign</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="topic">Topic / Keywords *</label>
+          <input 
+            type="text" 
+            id="topic" 
+            placeholder="e.g., AI marketing tools, sustainable fashion, web design tips"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="quantity">Number of Items *</label>
+          <input 
+            type="number" 
+            id="quantity" 
+            min="1" 
+            max="100" 
+            value="5"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="tone">Tone & Style</label>
+          <select id="tone">
+            <option value="professional">Professional</option>
+            <option value="casual">Casual & Friendly</option>
+            <option value="persuasive">Persuasive & Sales</option>
+            <option value="educational">Educational</option>
+            <option value="inspirational">Inspirational</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="instructions">Additional Instructions (Optional)</label>
+          <textarea 
+            id="instructions" 
+            placeholder="Any specific requirements, style guidelines, or information to include..."
+          ></textarea>
+        </div>
+
+        <button type="submit" class="btn" id="generateBtn">
+          🚀 Generate Content
+        </button>
+      </form>
+
+      <div class="preview" id="preview">
+        <h3>✨ Generated Content Preview</h3>
+        <div id="previewItems"></div>
+        
+        <div class="stats">
+          <div class="stat">
+            <div class="stat-value" id="statItems">0</div>
+            <div class="stat-label">Items Created</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value" id="statWords">0</div>
+            <div class="stat-label">Total Words</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value" id="statTime">0s</div>
+            <div class="stat-label">Time Taken</div>
+          </div>
+        </div>
+
+        <button type="button" class="btn" onclick="location.reload()" style="margin-top: 20px;">
+          ✨ Generate More
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById('generateForm');
+    const preview = document.getElementById('preview');
+    const generateBtn = document.getElementById('generateBtn');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const formData = {
+        collection: document.getElementById('collection').value,
+        contentType: document.getElementById('contentType').value,
+        topic: document.getElementById('topic').value,
+        quantity: parseInt(document.getElementById('quantity').value),
+        tone: document.getElementById('tone').value,
+        instructions: document.getElementById('instructions').value
+      };
+
+      // Disable button and show loading
+      generateBtn.disabled = true;
+      generateBtn.textContent = '⏳ Generating content...';
+
+      // Simulate AI generation (in production, this would call your API)
+      const startTime = Date.now();
+      
+      setTimeout(() => {
+        const items = [];
+        const totalWords = formData.quantity * Math.floor(Math.random() * 200 + 300);
+        
+        for (let i = 0; i < formData.quantity; i++) {
+          items.push({
+            title: `${formData.topic} - Article ${i + 1}`,
+            content: `High-quality AI-generated content about ${formData.topic} with ${formData.tone} tone. This would be a full article in production.`
+          });
+        }
+
+        // Show preview
+        document.getElementById('previewItems').innerHTML = items.map(item => `
+          <div class="preview-item">
+            <div class="preview-title">${item.title}</div>
+            <div class="preview-content">${item.content}</div>
+          </div>
+        `).join('');
+
+        // Update stats
+        document.getElementById('statItems').textContent = items.length;
+        document.getElementById('statWords').textContent = totalWords.toLocaleString();
+        document.getElementById('statTime').textContent = ((Date.now() - startTime) / 1000).toFixed(1) + 's';
+
+        // Show preview section
+        preview.classList.add('active');
+        form.style.display = 'none';
+
+        // In production: Send to Webflow CMS API
+        console.log('Generated content:', items);
+        console.log('Would insert into Webflow CMS collection:', formData.collection);
+      }, 2000);
+    });
+  </script>
+</body>
+</html>

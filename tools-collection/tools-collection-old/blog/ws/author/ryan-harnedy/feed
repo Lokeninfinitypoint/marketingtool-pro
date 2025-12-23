@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ryan Harnedy, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/ryan-harnedy/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Fri, 11 Nov 2022 21:18:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Ryan Harnedy, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3 Shockingly Common Google Ads Account Issues</title>
+		<link>https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues</link>
+					<comments>https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues#respond</comments>
+		
+		<dc:creator><![CDATA[Ryan Harnedy]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2018 05:00:00 +0000</pubDate>
+				<category><![CDATA[Paid Search Marketing]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues/</guid>
+
+					<description><![CDATA[<p>To help you make sure you’re getting the most out of your Google Ads account, we're sharing three surprisingly common issues we see when auditing Google Ads accounts – and we're going to tell you how you can fix them.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues">3 Shockingly Common Google Ads Account Issues</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As a digital marketing specialist here at WordStream, I spend a large portion of my day auditing Google Ads accounts. Luckily, I enjoy doing it because it gives me the opportunity to help people who are passionate about their businesses see better performance out of their marketing.</p>
+<p>While every audit is (and should be) unique, I’ve noticed a number of issues that seem to come up in the majority of underperforming accounts. Nine times out of ten these issues arise simply because people are so busy with other responsibilities that they don’t have time to work on them. However, if you know what to look for, it’s easy to identify these areas of opportunity and take advantage of them.</p>
+<p>To help you make sure you’re getting the most out of your Google Ads account, I’m sharing three of the most common issues I see when auditing a Google Ads account – and I’m going to tell you how you can fix them.</p>
+<h2>Issue #1: Not Turning Good Search Terms into Keywords</h2>
+<p>Keywords are the heart and soul of Google Ads: they determine what searches your ads are showing up for, which determines who is seeing your ads.</p>
+<p>One of the most important things to understand in PPC is the relationship between keywords and search terms: people type in search terms, which match to keywords, which show your ads. However, it’s really important to remember that your keyword and the search term it’s showing up for are not always the same. In fact, depending on the <a href="https://www.wordstream.com/keyword-match-types">match type</a> you’re using, the majority of the searches your ads show for will be similar to, but not the same as, the keywords you typed in.</p>
+<p>The good news is that these searches that we’re matching into provide us with a massive collection of new potential keywords. By going through the searches that your ads are showing up for, either in the Google Ads Editor or by using a tool like WordStream’s <a href="https://www.wordstream.com/using-querystream">QueryStream</a>, you can see exactly what people are searching for and use that as the basis for new keywords.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="d9d1a173-7d6c-4ab7-9b3d-0cbc9af020ee" data-langcode="en">
+<article>
+<div><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-issues-keywords.jpg" alt="Google Ads issues keywords" width="1500" height="391" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>These search terms are much longer than the keywords that this person is currently bidding on and would work great as keywords.</em></p>
+<p>Why is this helpful? Well, you have to remember that Google Ads is an auction. The shorter the keyword phrase, the more people are bidding on it. If your audience is searching for something more specific than you’re bidding on, it means there’s a much less competitive auction where you could be winning customers at a much lower price.</p>
+<p>For example, let’s say that you’re an auto dealership in Los Angeles that sells Honda Civics. If you’re bidding on “Honda,” you’re competing against everyone else who is selling Hondas. However, you go through your search terms report and you see that a lot of your clicks are coming from people looking for “Los Angeles Honda Civic.” If you added that in as a keyword, the next time someone types that search in you’ll go from competing against every single company selling Hondas to just competing against people in your area who are selling Civics.</p>
+<p>Even better, once you turn those searches into keywords, you’ll be able to build more customized ad groups and ad copy around them. Someone who is looking for a Honda Civic in Los Angeles is going to be much more likely to click on your ad and come to your dealership if your ad lets them know that, in addition to being a Honda dealership, you have Civics in stock <em>and</em> you’re right in L.A.</p>
+<h2>Issue #2: Not Adding Negative Keywords Regularly</h2>
+<p>If you’re not familiar with negative keywords, then you’ve come to the right place. Negative keywords are simply keywords in reverse. Keywords tell Google and Bing what we want to show up for. Negative keywords tell Google and Bing what we don’t want to show up for.</p>
+<p>However, one of the most common issues I run across when looking at someone’s <a href="https://www.wordstream.com/google-adwords?cid=Web_Any_InContentTextLink_PPC_AWGrader_AWGrader">Google Ads Performance Grader</a> is that they’re not adding negative keywords to the account on a regular basis. Most advertisers know that they need to add in negative keywords when they start, but only the savviest (and most successful) digital marketers realize that they need to monitor their search traffic to keep on the lookout for new negatives.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="44b2ceb0-1385-4d98-b7d2-0e859609dec3" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-issues-negative-keywords.jpg" alt="Google Ads negative keywords" width="659" height="210" /></div>
+</article>
+</div>
+<p>Search marketing is a dynamic field and what people are searching for changes every day. <strong>Over 20% of daily Google searches are entirely unique.</strong> That means that every day, one of out every five searches you’re showing up for are searches nobody (not even Google) has seen before.</p>
+<p>To prevent yourself from wasting your search budget on irrelevant clicks from unqualified visitors, you need to know what searches you’re showing up for. Then, you need to add in negative keywords to the account to prevent yourself from showing up for searches that aren’t going to get you closer to your digital advertising goals (or use a tool like our <a href="https://www.wordstream.com/ppc-free-trial">20-Minute Work Week</a> to help you automate the process).</p>
+<p>Let’s continue our example of the Honda Dealership in L.A. that sells Civics. Imagine if a local Civics teacher named Ms. Honda started posting the assignments from her class online. People in your area would start searching for “Honda Civics Homework,” which, depending on the match type you set up, could be close enough to match to your keyword and serve up your ad. When you’re regularly on the lookout for new negatives you’d immediately see an increase in impressions from people looking for their civics homework assignments. You can then add in “homework” as a negative keyword to prevent your budget from being spent on people looking for their homework assignments and focus your budget on people who are really looking to buy a Civic.</p>
+<h2>Issue #3: Bloated Ad Groups</h2>
+<p>One of the most common issues I see when I’m looking at an under-performing Google Ads account is too many keywords per ad group.</p>
+<p>The keywords in an ad group determine which ad is shown when that keyword is triggered. If you have too many keywords in ad group, the ads you’re showing will be too general and people won’t click on them because they won’t feel your ads are relevant. Far too often I’ll see ad groups with 30, 40, or more keywords. There’s no way you can write ads that are relevant to that many different keywords. Usually, any more than 20 keywords per ad group is too many.</p>
+<div class="embedded-entity align-center" data-embed-button="images" data-entity-embed-display="view_mode:media.simple_image" data-entity-type="media" data-entity-uuid="7a8e7f01-9580-46da-83e2-2370f1e93483" data-langcode="en">
+<article>
+<div><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2021/07/google-ads-issues-ad-groups.jpg" alt="Google Ads issues bloated ad groups" width="519" height="142" /></div>
+</article>
+</div>
+<p class="text-align-center"><em>This person’s account has 3 ad groups and each one more than 27 keywords on average. That’s too many!</em></p>
+<p>Relevancy is one of the most important things to your potential clients and customers. They are on Google because they’re searching for something; if they’re going to click on your ad, they need to know that you understand what they’re looking for and you can provide it.</p>
+<p>Whenever I audit a Google Ads account, one of the first things I’ll do is take a look at any ad group with more than 15 keywords and see if I can identify two or more themes in each group. Once you understand what the themes of smaller, more targeted ad groups would be, it’s a simple process to create new ad groups and then move the keywords around And if this is too time-consuming, WordStream does have a Split Ad Groups tool that will automatically monitor your ad group size and let you know when it’s time to split them up.</p>
+<p>To wrap up the example of our friends at the Honda dealership, let’s say that they sell a bunch of different kinds of cars: Civics, Fits, Odysseys etc. If they have keywords for each of these kinds of cars in one ad group, people looking for specific makes and models will just see a generic ad about a Honda dealership.</p>
+<p>If the dealership split up the ad groups by make and model, they can then write targeted ads that let each potential customer know that the dealership has the exact make and model they’re looking for. This is going to give them an edge over a dealership whose ads follow a “one size fits all” strategy.</p>
+<p>And there you have it, those are the three most common issues I see when auditing a Google Ads account. Want to see how your account stacks up? Give our <a href="https://www.wordstream.com/google-adwords">Google Ads Performance Grader </a>a run and see how you can use these tips to start getting more out of your digital marketing.</p>
+<p>Ads still not showing? <a href="https://www.youtube.com/watch?v=VAVQW2IUf_A&amp;t=13s" target="_blank" rel="noopener">Check out this video for 11 reasons why – plus how to fix them! </a></p>
+<div class="embedded-entity align-center" data-embed-button="videos" data-entity-embed-display="view_mode:media.embed_video" data-entity-type="media" data-entity-uuid="998b2031-7d47-4556-8edc-6a07b8fdb82a" data-langcode="en">
+<article>
+<div>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" src="https://www.youtube.com/embed/VAVQW2IUf_A?autoplay=0&amp;start=13&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</article>
+</div>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues">3 Shockingly Common Google Ads Account Issues</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.wordstream.com/blog/ws/2018/12/17/google-ads-issues/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

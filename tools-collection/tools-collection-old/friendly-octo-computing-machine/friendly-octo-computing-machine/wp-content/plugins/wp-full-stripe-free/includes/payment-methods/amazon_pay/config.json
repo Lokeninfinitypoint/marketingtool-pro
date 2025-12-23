@@ -1,0 +1,22 @@
+{
+  "id": "amazon_pay",
+  "title": "Amazon Pay",
+  "longTitle": "Amazon Pay",
+  "countries": [
+    "us"
+  ],
+  "currencies": [
+    "usd"
+  ],
+  "version": "1.0.0",
+  "description": "Amazon Pay is a wallet payment method that lets your customers check out the same way as on Amazon.com.",
+  "icon": "amazon_pay.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "wallet": true,
+  "external_docs": "https://docs.stripe.com/payments/amazon-pay",
+  "internal_docs": "https://docs.stripe.com/payments/amazon-pay",
+  "enabled": true
+}

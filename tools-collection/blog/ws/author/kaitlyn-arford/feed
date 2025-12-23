@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaitlyn Arford, Author at WordStream</title>
+	<atom:link href="https://www.wordstream.com/blog/ws/author/kaitlyn-arford/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>By LocaliQ</description>
+	<lastBuildDate>Thu, 27 Mar 2025 19:45:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>https://www.wordstream.com/wp-content/uploads/2024/10/cropped-2024-WS-Logomark-Blue-Favicon-32x32.png</url>
+	<title>Kaitlyn Arford, Author at WordStream</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>9 Customer Segmentation Models &#038; How to Use Them for Smarter Marketing</title>
+		<link>https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models</link>
+		
+		<dc:creator><![CDATA[Kaitlyn Arford]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 12:30:53 +0000</pubDate>
+				<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.wordstream.com/?p=74985</guid>
+
+					<description><![CDATA[<p>These nine customer segmentation models can help you develop smarter and more effective marketing strategies to reach and engage your customers.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models">9 Customer Segmentation Models &#038; How to Use Them for Smarter Marketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Customers are the lifeblood of your business. You need to understand their pain points, desires, wants, and needs.</p>
+<p>Today, you can use technology and customer surveys to gather information about your customers. Then you can use this important data to understand your customers better, so you can ultimately serve them to the best of your ability (while improving revenue, customer service, and your return on investment). This process is called customer segmentation, and it’s how you can understand every part of your customer base.</p>
+<p>We’re going over nine customer segmentation models and how to use them to improve your marketing.</p>
+<p><img fetchpriority="high" decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models.webp" alt="nine customer segmentation models" width="936" height="600" class="aligncenter size-full wp-image-74999" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-480x308.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h2>What is customer segmentation?</h2>
+<p><strong><a href="https://localiq.com/blog/audience-segmentation-for-email-campaigns/" target="_blank" rel="noopener">Customer segmentation</a> is the process of grouping customers by similar characteristics.</strong> Think of it like planning a wedding reception: you group together tables of your friends, tables of friends, and a separate table for food.</p>
+<p>Different customer segmentation models separate customers by <a href="https://www.wordstream.com/blog/ws/2021/07/07/google-ads-geotargeting">geographic location</a>, behavior, demographics (age and gender), and values. You can separate your customers by whatever criteria you want.</p>
+<h2>How customer segmentation models can help your business</h2>
+<p>Customer segmentation models give you insight into your customers. By understanding the age, gender, location, values, and behavior of your customers, you will be able to tailor your offerings to their needs.</p>
+<h3>Improved customer service</h3>
+<p>With customer segmentation, you can give your customers better service. When a customer reaches out to your support team, your customer support agents will have information gathered from customer segmentation models. They’ll be able to provide smoother, faster customer service.</p>
+<p>That’s good news for your business: <a href="https://cdn2.assets-servd.host/paltry-coyote/production/exports/24f0c7e1039033ee5e88f1eaec5c867a/zendesk-cx-trends-2022-report.pdf" target="_blank" rel="noopener">90%</a> of customers will spend more with businesses that personalize their customer service.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/personalize-customer-service-stat.webp" alt="customer service personalization stat" width="936" height="357" class="aligncenter size-full wp-image-74997" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/personalize-customer-service-stat.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/08/personalize-customer-service-stat-480x183.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>Improved advertising campaigns</h3>
+<p>A farmer in small-town Indiana won’t share the same needs as a first-time homeowner. Yet both customers can buy the products they need from John Deere. If John Deere started advertising combines to homeowners, it would be a waste of the company’s time (and <a href="https://www.wordstream.com/blog/ws/2022/09/28/small-business-budget">advertising budget</a>!).</p>
+<p>By using customer segmentation models, John Deere can split its customer base into segments so the company can pinpoint and target different people’s needs. John Deere, and any other company, can send <a href="https://www.wordstream.com/blog/ws/2021/09/13/facebook-ad-targeting-privacy-first-world">relevant ads</a> and communications to the perfect customer. This in turn <a href="https://localiq.com/blog/marketing-leads/">marketing leads</a> to more sales, higher conversions, and less useless spending.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-targeting.webp" alt="customer segmentation models benefits - audience targeting" width="752" height="598" class="aligncenter size-full wp-image-74989" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-targeting.webp 752w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-targeting-480x382.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 752px, 100vw" /></p>
+<h3>Improved communications that engage your customers</h3>
+<p>Customer segmentation models will help you understand more about what your customers need and want. The communications they receive from you will be relevant to their lives and interests, instead of something they ignore.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-messaging.webp" alt="customer segmentation models example - messaging targeting" width="511" height="600" class="aligncenter size-full wp-image-74990" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-messaging.webp 511w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-benefits-messaging-480x564.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 511px, 100vw" /></p>
+<h2>9 customer segmentation models for your business</h2>
+<p>Use these nine customer segmentation models to connect with specific customers so you can increase your sales, spend advertising money wisely, and improve your customer service.</p>
+<h3>1. Demographic segmentation</h3>
+<p>Demographic segmentation is the one you’re probably most familiar with. This customer segmentation model separates customers by:</p>
+<ul>
+<li>Age</li>
+<li>Race</li>
+<li>Gender</li>
+<li>Marital status</li>
+<li>Income</li>
+<li>Education</li>
+</ul>
+<p>Demographic segmentation can be used by marketing teams, customer service representatives, and researchers. There are no limits to how you can use this information!</p>
+<p>You could:</p>
+<ul>
+<li>Use age demographics to <a href="https://www.wordstream.com/blog/ws/generational-marketing-tactics">communicate with different generations</a> through chats, email, and phone calls.</li>
+<li>Use education status to identify people who would be interested in <a href="https://localiq.com/industries/education/" target="_blank" rel="noopener">higher education</a>.</li>
+<li>Use income level to target customers who are on a budget.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/07/buying-motives-self-actualization.webp" alt="buying motive - self actualization - ad from college that appeals to self actualization buyer motive" width="461" height="600" class="aligncenter size-full wp-image-74758" srcset="https://www.wordstream.com/wp-content/uploads/2023/07/buying-motives-self-actualization.webp 461w, https://www.wordstream.com/wp-content/uploads/2023/07/buying-motives-self-actualization-231x300.webp 231w" sizes="(max-width: 461px) 100vw, 461px" /></p>
+<p style="text-align: center;"><em>This school likely used demographic segmentation to target current students.</em></p>
+<h3>2. Behavioral segmentation</h3>
+<p>With <a href="https://www.wordstream.com/blog/ws/2017/08/28/behavioral-segmentation">behavioral segmentation</a>, you can separate customers by how they use your brand. For example, you can divide them by:</p>
+<ul>
+<li>How they use your products.</li>
+<li>Buying patterns.</li>
+<li>How they shop (in person or online).</li>
+</ul>
+<p>This information will be most useful with personalized ads. You can target loyal customers with similar products.</p>
+<p>You can also use it with your customer service team. Study your customer’s behavior and look for frequently asked questions. Then create a <a href="https://www.wordstream.com/blog/ws/2023/04/24/faq-page">FAQ page</a>, help desk, or <a href="https://localiq.com/products/chat/" target="_blank" rel="noopener">automated customer support chats</a> that address them.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-behavioral.webp" alt="customer segmentation - behavioral segmentation use examples" width="936" height="528" class="aligncenter size-full wp-image-74991" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-behavioral.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-behavioral-480x271.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<h3>3. Psychographic segmentation</h3>
+<p>Psychographic segmentation is all about the inner feelings and attitudes your customers hold. It includes:</p>
+<ul>
+<li>Values</li>
+<li>Interests</li>
+<li>Attitudes</li>
+<li>Personality types</li>
+<li>Lifestyle</li>
+<li>Opinions</li>
+</ul>
+<p>This type of customer segmentation model allows you to get the most personal point of view into your customer’s thoughts, beliefs, and feelings. Run <a href="https://www.wordstream.com/blog/ws/2014/11/10/best-online-survey-tools">customer surveys</a> to gather some of this info.</p>
+<p>Then, use psychographic segmentation to appeal to their perceptions.</p>
+<ul>
+<li>Showcase your environmental, LGBTQ, and diversity initiatives with passionate customers.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2020/08/03/how-to-sell-on-etsy">Sell handmade goods</a> to customers by using the personal stories of their makers.</li>
+<li>Identify customers who have similar interests (like reading) to sell related products to (like bookmarks).</li>
+<li>Create a <a href="https://www.wordstream.com/blog/ws/2023/07/25/buyer-persona-examples">customer persona</a> (a fictional character) who represents a customer segment.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-psychographic.webp" alt="example of psychographic customer segmentation model in action from canva" width="616" height="599" class="aligncenter size-full wp-image-74992" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-psychographic.webp 616w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-psychographic-480x467.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 616px, 100vw" /></p>
+<div class='et-box et-shadow'>
+					<div class='et-box-content'><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f9e0.png" alt="🧠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Appeal to your customers&#8217; minds. Free guide &gt;&gt; <a href="https://marketing.localiq.com/WSLIQContentDLWebsite26BrilliantWaysToUsePsychology.html?cid=Web_WS_InContent_TextLink_guide_26waysPsychGuide_Download">26 Brilliant Ways to Use Psychology in Your Copywriting</a></div></div>
+<h3>4. Value-based segmentation</h3>
+<p>Value-based segmentation is all about the level of value your customer is offering <em>you</em>. With this customer segmentation model, you’ll measure your customer’s return on investment (<a href="https://localiq.com/blog/marketing-roi/" target="_blank" rel="noopener">ROI</a>). You’ll be able to identify your most loyal customers and understand where you’re losing value. You can sort customers by how many purchases they make, how much they spend, and how often they buy.</p>
+<p>Use value-based segmentation to understand the <a href="https://www.wordstream.com/blog/ws/2019/01/10/cac-vs-clv">lifetime value of your customers</a> so you can increase the ROI.</p>
+<ul>
+<li>Identify which customers buy products with high and low prices.</li>
+<li>Implement a <a href="https://localiq.com/blog/live-chat-benefits/">chatbot</a> to answer customer questions.</li>
+<li>Send messages and special sales to unsatisfied customers.</li>
+<li>Create a <a href="https://www.wordstream.com/blog/ws/2021/04/14/referral-program-ideas">rewards program</a> to increase sales.</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/increase-average-order-value-loyalty-program.png" alt="how to increase average order value - loyalty program example" width="720" height="273" class="aligncenter size-full wp-image-62953" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/increase-average-order-value-loyalty-program.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/increase-average-order-value-loyalty-program-480x182.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>5. Geographic segmentation</h3>
+<p>Geographic segmentation is pretty obvious. This customer segmentation model groups people together by location, including country, state, city, and town.</p>
+<p>By understanding where your customers are based, you can serve them better. You could:</p>
+<ul>
+<li>Send tailored communications celebrating local festivals and traditions.</li>
+<li>Use local terminology, slang, and knowledge to appeal to them.</li>
+<li>Identify opportunities for secondary locations.</li>
+</ul>
+<p>This is also essential when <a href="https://www.wordstream.com/blog/ws/2021/07/07/google-ads-geotargeting">targeting your ads to local customers</a>.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2022/07/google-ads-location-extension-example.png" alt="google ads location extension example" width="720" height="238" class="aligncenter size-full wp-image-63034" srcset="https://www.wordstream.com/wp-content/uploads/2022/07/google-ads-location-extension-example.png 720w, https://www.wordstream.com/wp-content/uploads/2022/07/google-ads-location-extension-example-480x159.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 720px, 100vw" /></p>
+<h3>6. Technographic segmentation</h3>
+<p>Teghnographic segmentation separates your costumes by their comfort level with technology.</p>
+<p>You can gain this knowledge by:</p>
+<ul>
+<li>Sending out customer surveys.</li>
+<li>Looking at how people access your site.</li>
+<li>Discovering what brand of devices customers use (Apple, Android, etc.).</li>
+</ul>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-technographic-google-analytics.webp" alt="customer segmentation models - technographic - example of data in google analytics" width="936" height="485" class="aligncenter size-full wp-image-74993" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-technographic-google-analytics.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-technographic-google-analytics-480x249.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p style="text-align: center;"><em>You can see what devices people use to visit your website in <a href="https://www.wordstream.com/blog/ws/2022/06/23/google-analytics-4-vs-universal-analytics">Google Analytics</a>. </em></p>
+<p>Then you can use this knowledge to:</p>
+<ul>
+<li>Decide if launching a <a href="https://localiq.com/blog/how-to-market-an-app/" target="_blank" rel="noopener">mobile app</a> is worth it.</li>
+<li>Understand how to improve your existing SaaS product.</li>
+<li><a href="https://www.wordstream.com/blog/ws/2023/06/20/product-positioning">Design products</a> for people less familiar with technology.</li>
+</ul>
+<p>You can also use this information to determine if you should use a marketing strategy like <a href="https://localiq.com/blog/geofencing-examples/" target="_blank" rel="noopener">geofencing</a> or <a href="https://www.wordstream.com/blog/ws/2022/11/09/sms-marketing" target="_blank" rel="noopener">SMS marketing</a> to target people on their mobile devices (here are some <a href="https://localiq.com/blog/text-message-templates/">SMS marketing templates</a> to help).</p>
+<h3>7. Needs-based segmentation</h3>
+<p>Every customer needs something different from your company. With needs-based segmentation, you can figure out what you need to improve on. Needs-based segmentation groups customers by <a href="https://localiq.com/blog/types-of-customer-needs/" target="_blank" rel="noopener">problems and desires</a>.</p>
+<p>For an example of needs-based segmentation, let&#8217;s look at food delivery. If Home Chef delivered its food boxes at the wrong time, customers would be upset about spoiled goods. But by allowing customers to choose delivery days, the company can provide better customer service.</p>
+<p>Here’s another example of needs-based segmentation: accessibility. Not all of your customers can see your brand photos, or hear your videos. By putting <a href="https://localiq.com/blog/ada-compliant-website/" target="_blank" rel="noopener">accessibility measures</a> in place, you can reach every one of your customers.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-needs-based-example.webp" alt="customer segmentation models - need-based - example for accessibility on website" width="731" height="599" class="aligncenter size-full wp-image-74994" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-needs-based-example.webp 731w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-needs-based-example-480x393.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 731px, 100vw" /></p>
+<h3>8. Firmographic segmentation</h3>
+<p>Firmographic segmentation is when you separate customers by company attributes. You can use firmographic segmentation to group customers by company size or structure, industry, revenue, and type of organization.</p>
+<p>Find this information by looking at public data sources, company websites, annual reports, and <a href="https://www.wordstream.com/blog/ws/2021/11/04/how-to-write-a-press-release">press releases</a>.</p>
+<p>This type of segmentation is most helpful when your customer base is primarily companies, <a href="https://localiq.com/blog/small-business-marketing-data/">small businesses</a>, and other organizations.</p>
+<h3>9. Lifecycle stage segmentation</h3>
+<p>Another type of customer segmentation model is grouping customers by where they are on the <a href="https://localiq.com/blog/marketing-customer-journey/">customer journey</a>. Lifecycle stage segmentation divides customers into different stages so you know how to target them.</p>
+<p><img decoding="async" src="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-lifecycle.webp" alt="customer segmentation models - lifecycle journey - buyers journey example graphic" width="936" height="553" class="aligncenter size-full wp-image-74995" srcset="https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-lifecycle.webp 936w, https://www.wordstream.com/wp-content/uploads/2023/08/customer-segmentation-models-lifecycle-480x284.webp 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 936px, 100vw" /></p>
+<p>You can use data from your CRM or <a href="https://localiq.com/products/marketing-dashboard/" target="_blank" rel="noopener">lead management software</a> to track and tag customers or prospects to better target them through this customer segmentation model.</p>
+<p>Here’s how you can use lifecycle stage segmentation:</p>
+<ul>
+<li>Identify how to help potential customers.</li>
+<li>Find new ways to keep customers engaged.</li>
+<li>Improve onboarding for new customers.</li>
+<li>Reduce customer turnover.</li>
+</ul>
+<h2>Start using customer segmentation models now</h2>
+<p>Using customer segmentation models is the best method of separating customers by different characteristics. Gathering these insights will lead to new strategies, processes, and policies that will improve your business.</p>
+<p>Here are the nine customer segmentations models you need to know:</p>
+<ol>
+<li class="p1"><span class="s1">Demographic segmentation</span></li>
+<li class="p1"><span class="s1">Behavioral segmentation</span></li>
+<li class="p1"><span class="s1">Psychographic segmentation</span></li>
+<li class="p1"><span class="s1">Value-based segmentation</span></li>
+<li class="p1"><span class="s1">Geographic segmentation</span></li>
+<li class="p1"><span class="s1">Technographic segmentation</span></li>
+<li class="p1"><span class="s1">Needs-based segmentation</span></li>
+<li class="p1"><span class="s1">Firmographic segmentation</span></li>
+<li class="p1"><span class="s1">Lifecycle stage segmentation</span></li>
+</ol>
+<p>By using these customer segmentation models, you’ll be able to provide your customers with the best you have to offer. As a result, you’ll have more loyal customers and <a href="https://localiq.com/blog/how-to-increase-sales-for-your-business-on-a-budget/" target="_blank" rel="noopener">more sales</a>.</p>
+<p>The post <a href="https://www.wordstream.com/blog/ws/2023/08/04/customer-segmentation-models">9 Customer Segmentation Models &#038; How to Use Them for Smarter Marketing</a> appeared first on <a href="https://www.wordstream.com">WordStream</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

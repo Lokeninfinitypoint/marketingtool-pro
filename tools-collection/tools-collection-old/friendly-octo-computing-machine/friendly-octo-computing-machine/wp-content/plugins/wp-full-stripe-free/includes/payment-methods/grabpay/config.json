@@ -1,0 +1,22 @@
+{
+  "id": "grabpay",
+  "title": "GrabPay",
+  "longTitle": "GrabPay",
+  "countries": [
+    "my", "sg"
+  ],
+  "currencies": [
+    "sgd", "myr"
+  ],
+  "version": "1.0.0",
+  "description": "GrabPay is a payment method developed by Grab. GrabPay is a digital wallet - customers maintain a balance in their wallets that they pay out with.",
+  "icon": "grabpay.svg",
+  "author": "dennis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": false,
+  "wallet": true,
+  "external_docs": "https://docs.stripe.com/payments/grabpay",
+  "internal_docs": "https://docs.stripe.com/payments/grabpay",
+  "enabled": true
+}

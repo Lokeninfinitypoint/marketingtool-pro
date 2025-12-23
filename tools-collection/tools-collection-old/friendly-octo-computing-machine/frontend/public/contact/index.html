@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <title>Contact Waduit – Talk with our PPC team</title>
+  <meta name="description" content="Reach the Waduit crew for product questions, onboarding support, or partnership ideas. We’ll respond within one business day.">
+  <link rel="canonical" href="https://waduit.sbs/contact/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Waduit">
+  <meta property="og:title" content="Contact Waduit – Talk with our PPC team">
+  <meta property="og:description" content="Reach the Waduit crew for product questions, onboarding support, or partnership ideas. We’ll respond within one business day.">
+  <meta property="og:url" content="https://waduit.sbs/contact/">
+  <meta property="og:image" content="https://waduit.sbs/wp-content/uploads/2025/10/waduit-contact-hero.png">
+  <meta property="og:image:alt" content="Waduit teammates collaborating on PPC strategy.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Contact Waduit – Talk with our PPC team">
+  <meta name="twitter:description" content="Reach the Waduit crew for product questions, onboarding support, or partnership ideas. We’ll respond within one business day.">
+  <meta name="twitter:image" content="https://waduit.sbs/wp-content/uploads/2025/10/waduit-contact-hero.png">
+  <link rel="icon" href="/logo-waduit-new.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/logo-waduit-new.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="/logo-waduit-new.png">
+  <link rel="shortcut icon" href="/logo-waduit-new.png" type="image/png">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="stylesheet" href="../help/help.css">
+  <style>
+    .contact-hero {
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.96), rgba(45, 76, 160, 0.92));
+      color: #ffffff;
+      padding: 3.5rem 0 4rem;
+    }
+
+    .contact-hero .container {
+      display: grid;
+      gap: 2.5rem;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      align-items: center;
+    }
+
+    .contact-hero h1 {
+      margin: 0 0 1rem;
+      font-size: 2.75rem;
+      letter-spacing: -0.025em;
+    }
+
+    .contact-hero p {
+      margin: 0 0 1.25rem;
+      font-size: 1.05rem;
+      color: rgba(226, 232, 240, 0.9);
+      max-width: 60ch;
+    }
+
+    .contact-summary {
+      display: grid;
+      gap: 1rem;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .contact-summary li {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      background: rgba(15, 23, 42, 0.2);
+      border: 1px solid rgba(226, 232, 240, 0.15);
+      border-radius: var(--radius-lg);
+      padding: 1.25rem 1.5rem;
+    }
+
+    .contact-summary strong {
+      font-size: 0.9rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(226, 232, 240, 0.8);
+    }
+
+    .contact-wrapper {
+      display: grid;
+      gap: 2.5rem;
+      margin: 4rem 0;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+
+    .contact-card {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      border: 1px solid #e2e8f0;
+      padding: 2rem;
+      box-shadow: var(--shadow-card);
+    }
+
+    .contact-card h2 {
+      margin: 0 0 0.9rem;
+      font-size: 1.9rem;
+      color: var(--ink-700);
+    }
+
+    .contact-card p,
+    .contact-card li {
+      margin: 0 0 0.8rem;
+      color: var(--ink-500);
+      font-size: 0.98rem;
+    }
+
+    .contact-card ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .contact-card address {
+      font-style: normal;
+      line-height: 1.6;
+      color: var(--ink-500);
+    }
+
+    .contact-card a {
+      color: var(--brand-accent);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .contact-card a:hover,
+    .contact-card a:focus-visible {
+      text-decoration: underline;
+    }
+
+    .contact-form {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .contact-form label {
+      display: block;
+      font-weight: 600;
+      color: var(--ink-600);
+      margin-bottom: 0.35rem;
+    }
+
+    .contact-form input[type="text"],
+    .contact-form input[type="email"],
+    .contact-form textarea {
+      width: 100%;
+      padding: 0.85rem 1rem;
+      border-radius: var(--radius-md);
+      border: 1px solid #cbd5f5;
+      font-size: 1rem;
+      color: var(--ink-700);
+      background: #f8fafc;
+    }
+
+    .contact-form textarea {
+      min-height: 160px;
+      resize: vertical;
+    }
+
+    .contact-form button {
+      align-self: start;
+      padding: 0.85rem 1.75rem;
+      border-radius: 12px;
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.95), rgba(124, 58, 237, 0.92));
+      border: none;
+      color: #ffffff;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(46, 91, 240, 0.28);
+    }
+
+    .contact-form button:hover,
+    .contact-form button:focus-visible {
+      background: linear-gradient(135deg, rgba(37, 99, 235, 1), rgba(124, 58, 237, 1));
+    }
+
+    .support-meta {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 1.5rem;
+    }
+
+    .support-meta span {
+      font-size: 0.95rem;
+      color: var(--ink-500);
+    }
+
+    .support-meta small {
+      color: var(--ink-400);
+      font-size: 0.85rem;
+    }
+
+    .social-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .social-links a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.6rem 1rem;
+      border-radius: 999px;
+      border: 1px solid #e2e8f0;
+      color: var(--ink-600);
+      font-weight: 600;
+      text-decoration: none;
+      background: #ffffff;
+    }
+
+    .social-links a:hover,
+    .social-links a:focus-visible {
+      border-color: var(--brand-accent);
+      color: var(--brand-accent);
+    }
+
+    @media (max-width: 640px) {
+      .contact-card {
+        padding: 1.5rem;
+      }
+
+      .contact-form button {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  </style>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container">
+      <a class="site-logo" href="../index.html"><span>W</span>Waduit</a>
+      <nav class="primary-nav" aria-label="Primary navigation">
+        <ul>
+          <li><a href="../products/index.html">Products</a></li>
+          <li><a href="../solutions/index.html">Solutions</a></li>
+          <li><a href="https://help.waduit.sbs">Help Center</a></li>
+          <li><a href="index.html" aria-current="page">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="nav-cta">
+        <a class="cta-outline" href="https://app.waduit.sbs/">Login</a>
+        <a class="cta-primary" href="../free-trial/index.html">Start free trial</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="contact-hero">
+    <div class="container">
+      <div>
+        <span class="section-label">Support</span>
+        <h1>Talk with the Waduit support team</h1>
+        <p>Need a product walkthrough, help configuring alerts, or answers for stakeholders? Drop us a note and the right teammate will follow up within one business day.</p>
+      </div>
+      <ul class="contact-summary" aria-label="Direct contact details">
+        <li>
+          <strong>Email us</strong>
+          <a href="mailto:Support@waduit.sbs">Support@waduit.sbs</a>
+          <small>Shared inbox monitored 24/5</small>
+        </li>
+        <li>
+          <strong>Call us</strong>
+          <a href="tel:+18555742506">+1-855-574-2506</a>
+          <small>North America &amp; India business hours</small>
+        </li>
+        <li>
+          <strong>Headquarters</strong>
+          <span>F-12 Govindam Tower, 1st Floor<br>Jaipur 302012, Rajasthan, India</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <main id="main-content">
+    <div class="container contact-wrapper">
+      <section class="contact-card" aria-labelledby="contact-form-title">
+        <h2 id="contact-form-title">Send us a message</h2>
+        <p>Share a few details about how we can help. Our crew routes requests to onboarding, success, or billing immediately.</p>
+        <form class="contact-form" id="waduit-contact-form" method="post" action="https://waduit.sbs/wp-admin/admin-ajax.php">
+          <input type="hidden" name="action" value="frm_forms_create_entry">
+          <input type="hidden" name="frm_action" value="create">
+          <input type="hidden" name="form_id" value="4">
+          <input type="hidden" name="frm_hide_fields_4" id="frm_hide_fields_4" value="">
+          <input type="hidden" name="form_key" value="form-for-freshdesk">
+          <input type="hidden" name="item_meta[0]" value="">
+          <input type="hidden" id="frm_submit_entry_4" name="frm_submit_entry_4" value="9a75b5422e">
+          <input type="hidden" name="_wp_http_referer" value="/contact/">
+          <label for="contact-email">Email<span aria-hidden="true">*</span></label>
+          <input type="email" id="contact-email" name="item_meta[19]" placeholder="name@example.com" required data-reqmsg="This field cannot be blank." data-invmsg="Email is invalid">
+          <label for="contact-name">Name<span aria-hidden="true">*</span></label>
+          <input type="text" id="contact-name" name="item_meta[20]" placeholder="Your name" required data-reqmsg="This field cannot be blank." data-invmsg="Text is invalid">
+          <label for="contact-subject">Subject<span aria-hidden="true">*</span></label>
+          <input type="text" id="contact-subject" name="item_meta[21]" placeholder="What can we help with?" required data-reqmsg="This field cannot be blank." data-invmsg="Text is invalid">
+          <label for="contact-message">Message<span aria-hidden="true">*</span></label>
+          <textarea id="contact-message" name="item_meta[22]" placeholder="Share context, links, or timelines." required data-reqmsg="This field cannot be blank." data-invmsg="This field is invalid"></textarea>
+          <div class="g-recaptcha" data-sitekey="6Le4q6MUAAAAAImQrm2ZllwHB_h-_toiKBZlcEyi"></div>
+          <input type="hidden" name="item_key" value="">
+          <label for="contact-human" class="frm_screen_reader">If you are human, leave this field blank.</label>
+          <input id="contact-human" type="text" name="item_meta[35]" value="" style="display:none !important;">
+          <input name="frm_state" type="hidden" value="iJaCnOiGqAosyylMCAihLy5uUsdS0vANvb3ucT6vUI8=">
+          <button type="submit">Submit</button>
+        </form>
+        <div class="support-meta" aria-live="polite">
+          <span>Prefer to collaborate asynchronously? Drop a note in the form and we’ll invite you to our shared workspace.</span>
+          <small>By submitting, you agree to our <a href="../index.html?p=300.html">Terms of Service</a> and <a href="../index.html?p=3.html">Privacy Policy</a>.</small>
+        </div>
+      </section>
+
+      <section class="contact-card" aria-labelledby="contact-options-title">
+        <h2 id="contact-options-title">More ways to connect</h2>
+        <p>We’re happy to tailor onboarding plans, coordinate security reviews, or talk through partner ideas. Here’s how to reach the right channel quickly.</p>
+        <ul>
+          <li><strong>Customer onboarding:</strong> Work with a specialist to configure alerts and automations for your first workspace.</li>
+          <li><strong>Account billing:</strong> Email <a href="mailto:billing@waduit.sbs">billing@waduit.sbs</a> for invoices and vendor documentation.</li>
+          <li><strong>Partnerships:</strong> Connect with <a href="mailto:alliances@waduit.sbs">alliances@waduit.sbs</a> to explore integrations or co-marketing.</li>
+        </ul>
+        <div class="social-links" aria-label="Social links">
+          <a href="https://www.linkedin.com/company/waduit" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.youtube.com/@waduit" target="_blank" rel="noopener">YouTube</a>
+          <a href="https://docs.waduit.sbs/" target="_blank" rel="noopener">Help Center</a>
+        </div>
+        <div class="support-meta">
+          <span>Support hours: Monday–Friday, 8:00–20:00 IST / 08:00–18:00 ET</span>
+          <span>Emergency escalation? Ping us at <a href="mailto:oncall@waduit.sbs">oncall@waduit.sbs</a>.</span>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>
+        <strong>Need more help?</strong>
+  <p>Visit the <a href="https://help.waduit.sbs">Help Center</a> or <a href="index.html">contact the Waduit support team</a>.</p>
+      </div>
+      <div>
+        <strong>Support</strong>
+        <address>
+          Waduit.sbs<br>
+          F-12 Govindam Tower, 1st Floor<br>
+          Jaipur 302012, Rajasthan, India<br>
+          Phone: <a href="tel:+18555742506">+1-855-574-2506</a><br>
+          Email: <a href="mailto:Support@waduit.sbs">Support@waduit.sbs</a><br>
+          GST No: 08AAUFC7776R1Z2
+        </address>
+      </div>
+      <div class="footer-meta">
+        © 2025 Waduit. All rights reserved.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

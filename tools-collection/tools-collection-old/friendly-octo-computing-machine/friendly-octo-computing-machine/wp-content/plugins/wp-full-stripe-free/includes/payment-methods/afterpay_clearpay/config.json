@@ -1,0 +1,33 @@
+{
+  "id": "afterpay-clearpay",
+  "title": "Afterpay",
+  "longTitle": "Afterpay & Clearpay",
+  "countries": [
+    "au",
+    "ca",
+    "fr",
+    "ie",
+    "it",
+    "nz",
+    "es",
+    "us",
+    "gb"
+  ],
+  "currencies": [
+    "usd",
+    "cad",
+    "gbp",
+    "aud",
+    "nzd"
+  ],
+  "version": "1.0.0",
+  "description": "Afterpay Clearpay Payment Gateway for WP Full Stripe",
+  "icon": "",
+  "author": "ardis",
+  "recurring": false,
+  "stripe_checkout": true,
+  "bnpl": true,
+  "external_docs": "https://stripe.com/payments/payment-methods-guide#afterpay-clearpay",
+  "internal_docs": "https://stripe.com/payments/payment-methods-guide#afterpay-clearpay",
+  "enabled": false
+}
