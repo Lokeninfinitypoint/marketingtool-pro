@@ -1,0 +1,66 @@
+/* Preloader */
+
+.pre-loading{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 9999999999999;
+}
+
+.pre-loading:after,
+.pre-loading:before{
+  content: '';
+  background: #fff;
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  transition: all 1s;
+}
+
+.pre-loading:after{
+  top: 0;
+}
+
+.pre-loading:before{
+  bottom: 0;
+}
+
+.loading-end:after{
+  top: -60%;
+}
+
+.loading-end:before{
+  bottom: -60%;
+}
+
+.load-circle {
+  margin: 50vh auto; 
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 10px solid #eee;
+  border-top: 10px solid #f96152;
+  -webkit-animation: rotate 1.2s infinite linear;
+  animation: rotate 1.2s infinite linear;
+}
+
+@-webkit-keyframes rotate {
+  0%{
+    transform: rotate(0deg);
+  }
+  100%{
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate {
+  0%{
+    transform: rotate(0deg);
+  }
+  100%{
+    transform: rotate(360deg);
+  }
+}

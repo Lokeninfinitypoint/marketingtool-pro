@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Products-dropdown-menu-V1" transform="translate(-748, -84)">
+            <g id="analytics-graph-bar-1" transform="translate(749, 85)">
+                <line x1="0" y1="21.0638298" x2="22" y2="21.0638298" id="Shape" stroke="#3A56BC" stroke-width="1.488"></line>
+                <path d="M5.13333333,15.4468085 L2.2,15.4468085 C1.79499118,15.4468085 1.46666667,15.7611618 1.46666667,16.1489362 L1.46666667,21.0638298 L5.86666667,21.0638298 L5.86666667,16.1489362 C5.86666667,15.7611618 5.53834215,15.4468085 5.13333333,15.4468085 Z" id="Shape" stroke="#3A56BC" stroke-width="1.5"></path>
+                <path d="M12.4666667,8.42553191 L9.53333333,8.42553191 C9.12832452,8.42553191 8.8,8.73988518 8.8,9.12765957 L8.8,21.0638298 L13.2,21.0638298 L13.2,9.12765957 C13.2,8.73988518 12.8716755,8.42553191 12.4666667,8.42553191 Z" id="Shape" stroke="#3A56BC" stroke-width="1.5"></path>
+                <path d="M19.8,12.6382979 L16.8666667,12.6382979 C16.4616579,12.6382979 16.1333333,12.9526511 16.1333333,13.3404255 L16.1333333,21.0638298 L20.5333333,21.0638298 L20.5333333,13.3404255 C20.5333333,12.9526511 20.2050088,12.6382979 19.8,12.6382979 Z" id="Shape" stroke="#3A56BC" stroke-width="1.5"></path>
+                <ellipse id="Oval" stroke="#FFAF24" stroke-width="1.488" cx="1.46666667" cy="9.12765957" rx="1.46666667" ry="1.40425532"></ellipse>
+                <ellipse id="Oval" stroke="#FFAF24" stroke-width="1.488" cx="8.06666667" cy="1.40425532" rx="1.46666667" ry="1.40425532"></ellipse>
+                <ellipse id="Oval" stroke="#FFAF24" stroke-width="1.488" cx="20.5333333" cy="4.91489362" rx="1.46666667" ry="1.40425532"></ellipse>
+                <line x1="2.39555556" y1="8.04076596" x2="7.13777778" y2="2.49114894" id="Shape" stroke="#FFAF24" stroke-width="1.5"></line>
+                <line x1="19.1263111" y1="4.51795745" x2="9.47368889" y2="1.80025532" id="Shape" stroke="#FFAF24" stroke-width="1.5"></line>
+            </g>
+        </g>
+    </g>
+</svg>

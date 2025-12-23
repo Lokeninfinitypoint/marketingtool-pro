@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Solutions-dropdown" transform="translate(-279, -84)" stroke-width="1.5">
+            <g id="Regular" transform="translate(279.25, 84.25)">
+                <circle id="Oval" stroke="#3A56BC" cx="5.25" cy="3.75" r="3"></circle>
+                <line x1="5.25" y1="8.25" x2="5.25" y2="14.25" id="Shape" stroke="#3A56BC"></line>
+                <path d="M7.5,23.2500001 L8.25,15.7500001 L9.75,15.7500001 L9.75,12.7500001 C9.75,10.2647187 7.73528135,8.25000007 5.25,8.25000007 C2.76471865,8.25000007 0.75,10.2647187 0.75,12.7500001 L0.75,15.7500001 L2.25,15.7500001 L3,23.2500001 L7.5,23.2500001 Z" id="Shape" stroke="#3A56BC"></path>
+                <path d="M12.75,14.25 L21.75,14.25 C22.5784271,14.25 23.25,13.5784271 23.25,12.75 L23.25,2.25 C23.25,1.42157288 22.5784271,0.75 21.75,0.75 L11.25,0.75" id="Shape" stroke="#3A56BC"></path>
+                <polyline id="Shape" stroke="#FFAF24" points="12 9 14.25 5.25 17.25 8.25 20.25 3.75"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

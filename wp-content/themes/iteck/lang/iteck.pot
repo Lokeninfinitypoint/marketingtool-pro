@@ -1,0 +1,1672 @@
+# Copyright (C) 2025 ThemesCamp
+# This file is distributed under the GNU General Public License version 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iteck 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/iteck\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-25T19:26:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: iteck\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Iteck"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://themeforest.net/item/iteck-software-technology-wordpress-theme/38682639"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Iteck is a Modern IT Solutions & Technology WordPress Theme for agencies to show their works."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "ThemesCamp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "http://themeforest.net/user/themescamp/"
+msgstr ""
+
+#: author.php:22
+msgid "Author: "
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank Page Builder"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:10
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:14
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:32
+msgid "Type your comment here ..."
+msgstr ""
+
+#: functions.php:174
+#: inc/menu-normal.php:153
+#: inc/menu.php:213
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:198
+msgid "All pages menu"
+msgstr ""
+
+#: functions.php:255
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:257
+msgid "Appears as the sidebar on blog and pages"
+msgstr ""
+
+#: functions.php:285
+msgid "Type keyword here"
+msgstr ""
+
+#: functions.php:337
+msgid "Your Name ..."
+msgstr ""
+
+#: functions.php:338
+msgid "Your Email ..."
+msgstr ""
+
+#: functions.php:339
+msgid "Your Website ..."
+msgstr ""
+
+#: functions.php:362
+msgid "ago"
+msgstr ""
+
+#: inc/bottom-footer.php:15
+msgid "LogoWhite"
+msgstr ""
+
+#: inc/bottom-footer.php:17
+msgid "LogoDark"
+msgstr ""
+
+#: inc/bottom-footer.php:88
+msgid "Copyright 2022 by ThemesCamp All Rights Reserved."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#: inc/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1042
+#: inc/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1243
+#: inc/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class/menu-walker.php:135
+#: inc/class/menu-walker.php:256
+msgid "Add a menu"
+msgstr ""
+
+#: inc/comment-template.php:25
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/count-view.php:8
+msgid "0 Views"
+msgstr ""
+
+#: inc/count-view.php:9
+msgid " View "
+msgstr ""
+
+#: inc/count-view.php:10
+#: inc/count-view.php:23
+msgid " Views "
+msgstr ""
+
+#: inc/loop-post.php:108
+#: templates/post/post-1.php:120
+#: templates/post/post-2.php:109
+#: templates/post/post-3.php:42
+msgid " Comment"
+msgstr ""
+
+#: inc/loop-post.php:110
+#: templates/post/post-1.php:122
+#: templates/post/post-2.php:111
+#: templates/post/post-3.php:44
+msgid " Comments"
+msgstr ""
+
+#: inc/loop-post.php:120
+#: templates/blog/loop/style-3.php:146
+#: templates/portfolio/loop-portfolio.php:146
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/menu-normal.php:22
+#: inc/menu-normal.php:30
+#: inc/menu.php:58
+#: inc/menu.php:66
+#: inc/menu.php:76
+#: inc/menu.php:87
+msgid "Logo"
+msgstr ""
+
+#: inc/menu-normal.php:137
+#: inc/menu.php:197
+#: search.php:45
+msgid "Type search keyword..."
+msgstr ""
+
+#: inc/option-init.php:35
+#: inc/option-init.php:36
+msgid "Iteck Theme Options"
+msgstr ""
+
+#: inc/option-init.php:131
+msgid "If you need help please read docs and open a ticket on our support center."
+msgstr ""
+
+#: inc/options/blog.php:10
+msgid "Blog"
+msgstr ""
+
+#: inc/options/blog.php:17
+msgid "Blog setting"
+msgstr ""
+
+#: inc/options/blog.php:18
+msgid "Configuration blog settings"
+msgstr ""
+
+#: inc/options/blog.php:25
+msgid "Featured Image in Related Posts"
+msgstr ""
+
+#: inc/options/blog.php:27
+#: inc/options/blog.php:70
+#: inc/options/blog.php:96
+#: inc/options/blog.php:116
+#: inc/options/blog.php:129
+msgid "Show"
+msgstr ""
+
+#: inc/options/blog.php:28
+#: inc/options/blog.php:71
+#: inc/options/blog.php:97
+#: inc/options/blog.php:117
+#: inc/options/blog.php:130
+#: inc/options/post.php:54
+msgid "Hide"
+msgstr ""
+
+#: inc/options/blog.php:36
+msgid "Blog Slider Delay"
+msgstr ""
+
+#: inc/options/blog.php:37
+msgid "Insert the slider delay for slider in blog sidebar,blog wide and single blog post here. The default value 8000"
+msgstr ""
+
+#: inc/options/blog.php:48
+msgid "Blog Articles"
+msgstr ""
+
+#: inc/options/blog.php:55
+msgid "Default Blog Article Layout"
+msgstr ""
+
+#: inc/options/blog.php:56
+#: inc/options/sidebar.php:17
+msgid "Note: each Style can be additionally customized within the chiled theme."
+msgstr ""
+
+#: inc/options/blog.php:58
+#: inc/options/sidebar.php:34
+msgid "Clean Style"
+msgstr ""
+
+#: inc/options/blog.php:59
+#: inc/options/sidebar.php:35
+msgid "Boundary Style"
+msgstr ""
+
+#: inc/options/blog.php:60
+#: inc/options/sidebar.php:36
+msgid "Elegant Style"
+msgstr ""
+
+#: inc/options/blog.php:68
+msgid "Show latest blog slider"
+msgstr ""
+
+#: inc/options/blog.php:79
+msgid "Blog slider title"
+msgstr ""
+
+#: inc/options/blog.php:86
+msgid "Blog slider sub-title"
+msgstr ""
+
+#: inc/options/blog.php:94
+msgid "Show Popular blog"
+msgstr ""
+
+#: inc/options/blog.php:104
+msgid "Blog popular title"
+msgstr ""
+
+#: inc/options/blog.php:113
+msgid "Blog Tags"
+msgstr ""
+
+#: inc/options/blog.php:114
+msgid "Enable Tags"
+msgstr ""
+
+#: inc/options/blog.php:126
+msgid "Blog Button (Continue Reading)"
+msgstr ""
+
+#: inc/options/blog.php:127
+msgid "Enable Blog Button (Continue Reading)"
+msgstr ""
+
+#: inc/options/blog.php:136
+msgid "Post Excerpt Size (max word count)"
+msgstr ""
+
+#: inc/options/blog.php:137
+msgid "You can control blog post excerpt size with this option."
+msgstr ""
+
+#: inc/options/extras.php:9
+msgid "Extras"
+msgstr ""
+
+#: inc/options/extras.php:16
+msgid "404 Page"
+msgstr ""
+
+#: inc/options/extras.php:23
+msgid "Enable custom 404 page"
+msgstr ""
+
+#: inc/options/extras.php:30
+msgid "Custom 404 page"
+msgstr ""
+
+#: inc/options/footer.php:9
+msgid "Footer"
+msgstr ""
+
+#: inc/options/footer.php:15
+msgid "Footer settings"
+msgstr ""
+
+#: inc/options/footer.php:16
+msgid "Assign menu for footer section."
+msgstr ""
+
+#: inc/options/footer.php:22
+msgid "Footer type"
+msgstr ""
+
+#: inc/options/footer.php:24
+msgid "Standard Footer"
+msgstr ""
+
+#: inc/options/footer.php:25
+msgid "Custom Footer"
+msgstr ""
+
+#: inc/options/footer.php:32
+msgid "Custom Header name"
+msgstr ""
+
+#: inc/options/footer.php:47
+msgid "Footer logo"
+msgstr ""
+
+#: inc/options/footer.php:48
+#: inc/options/general.php:57
+#: inc/options/general.php:171
+#: inc/options/header.php:75
+msgid "Configuration the style settings"
+msgstr ""
+
+#: inc/options/footer.php:55
+#: inc/options/header.php:82
+msgid "Logo White Text"
+msgstr ""
+
+#: inc/options/footer.php:56
+msgid "Upload your logo for white text (standard) footer (Recommended size 240x80px)"
+msgstr ""
+
+#: inc/options/footer.php:64
+#: inc/options/header.php:90
+msgid "Logo Dark Text"
+msgstr ""
+
+#: inc/options/footer.php:65
+#: inc/options/footer.php:72
+msgid "Upload your logo for dark text (standard) footer (Recommended size 240x80px)"
+msgstr ""
+
+#: inc/options/footer.php:71
+msgid "Footer Text"
+msgstr ""
+
+#: inc/options/footer.php:82
+msgid "Footer social"
+msgstr ""
+
+#: inc/options/footer.php:83
+msgid "Configuration the footer social icons"
+msgstr ""
+
+#: inc/options/footer.php:89
+msgid "Enable Footer Social"
+msgstr ""
+
+#: inc/options/footer.php:95
+#: inc/options/header.php:184
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/options/footer.php:96
+#: inc/options/header.php:185
+msgid "Input facebook link here"
+msgstr ""
+
+#: inc/options/footer.php:102
+#: inc/options/header.php:191
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/options/footer.php:103
+#: inc/options/header.php:192
+msgid "Input Twitter link here"
+msgstr ""
+
+#: inc/options/footer.php:109
+#: inc/options/header.php:198
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/options/footer.php:110
+#: inc/options/header.php:199
+msgid "Input Instagram link here"
+msgstr ""
+
+#: inc/options/footer.php:116
+#: inc/options/header.php:205
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/options/footer.php:117
+#: inc/options/header.php:206
+msgid "Input Pinterest link here"
+msgstr ""
+
+#: inc/options/footer.php:123
+#: inc/options/header.php:212
+msgid "Xing Link"
+msgstr ""
+
+#: inc/options/footer.php:124
+#: inc/options/header.php:213
+msgid "Input Xing link here"
+msgstr ""
+
+#: inc/options/footer.php:130
+#: inc/options/header.php:219
+msgid "LinkedIn Link"
+msgstr ""
+
+#: inc/options/footer.php:131
+#: inc/options/header.php:220
+msgid "Input LinkedIn link here"
+msgstr ""
+
+#: inc/options/general.php:11
+msgid "General"
+msgstr ""
+
+#: inc/options/general.php:12
+msgid "Welcome to the theme options"
+msgstr ""
+
+#: inc/options/general.php:20
+msgid "Iteck Mode"
+msgstr ""
+
+#: inc/options/general.php:27
+msgid "Website Dark/Light Mode"
+msgstr ""
+
+#: inc/options/general.php:28
+msgid "Enable dark color scheme for your website"
+msgstr ""
+
+#: inc/options/general.php:29
+msgid "Auto: Mode at the Operating System of each user"
+msgstr ""
+
+#: inc/options/general.php:31
+msgid "Light"
+msgstr ""
+
+#: inc/options/general.php:32
+msgid "Auto"
+msgstr ""
+
+#: inc/options/general.php:33
+msgid "Dark"
+msgstr ""
+
+#: inc/options/general.php:41
+msgid "Color mode switcher"
+msgstr ""
+
+#: inc/options/general.php:42
+msgid "Enable color mode switcher for your website"
+msgstr ""
+
+#: inc/options/general.php:44
+#: inc/options/header.php:120
+#: inc/options/header.php:165
+#: inc/options/header.php:175
+#: inc/options/header.php:236
+#: inc/options/header.php:247
+#: inc/options/woocommerce.php:27
+msgid "On"
+msgstr ""
+
+#: inc/options/general.php:45
+#: inc/options/header.php:121
+#: inc/options/header.php:166
+#: inc/options/header.php:176
+#: inc/options/header.php:237
+#: inc/options/header.php:248
+#: inc/options/post.php:107
+#: inc/options/woocommerce.php:28
+msgid "Off"
+msgstr ""
+
+#: inc/options/general.php:56
+msgid "Styling"
+msgstr ""
+
+#: inc/options/general.php:63
+msgid "Main Color Scheme"
+msgstr ""
+
+#: inc/options/general.php:64
+msgid "Pick your color scheme (default: #501E9C)."
+msgstr ""
+
+#: inc/options/general.php:71
+msgid "primary Color Scheme"
+msgstr ""
+
+#: inc/options/general.php:72
+msgid "Pick your color scheme (default: #8169F1)."
+msgstr ""
+
+#: inc/options/general.php:79
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: inc/options/general.php:80
+msgid "Pick your color scheme (default: #A44CEE)."
+msgstr ""
+
+#: inc/options/general.php:87
+msgid "Ternary Color Scheme"
+msgstr ""
+
+#: inc/options/general.php:88
+msgid "Pick your color scheme (default: #FF847F)."
+msgstr ""
+
+#: inc/options/general.php:95
+msgid "Hyperlink Color"
+msgstr ""
+
+#: inc/options/general.php:96
+msgid "Pick your color for hyperlink. Default color is black #999999"
+msgstr ""
+
+#: inc/options/general.php:103
+msgid "Hyperlink color on hover state"
+msgstr ""
+
+#: inc/options/general.php:104
+msgid "Pick your color for hover state in hyperlink. Default color is #12c2e9"
+msgstr ""
+
+#: inc/options/general.php:111
+msgid "Color on Heading"
+msgstr ""
+
+#: inc/options/general.php:112
+msgid "Pick your color for heading text. Default color is black #000000"
+msgstr ""
+
+#: inc/options/general.php:119
+msgid "Color on General Paragraph"
+msgstr ""
+
+#: inc/options/general.php:120
+msgid "Pick your color for general paragraph text. Default color is black #666"
+msgstr ""
+
+#: inc/options/general.php:127
+msgid "Sticky Menu Background color (for menu with black background & All Sticky Custom Menu)"
+msgstr ""
+
+#: inc/options/general.php:128
+msgid "Pick your background color for sticky menu in white text header. Default color is #fff"
+msgstr ""
+
+#: inc/options/general.php:135
+msgid "Sticky Menu Background color (for menu with white background)"
+msgstr ""
+
+#: inc/options/general.php:136
+msgid "Pick your background color for sticky menu in white text header. Default color is #ffffff"
+msgstr ""
+
+#: inc/options/general.php:143
+msgid "Sticky Menu BBorder color (for menu with transparent background)"
+msgstr ""
+
+#: inc/options/general.php:144
+msgid "Pick your border color for sticky menu in transparent text header. Default color is #ffffff"
+msgstr ""
+
+#: inc/options/general.php:151
+#: inc/options/general.php:159
+msgid "Standard Footer Background color"
+msgstr ""
+
+#: inc/options/general.php:152
+#: inc/options/general.php:160
+msgid "Pick your background color for standard footer. Default color is black #202020"
+msgstr ""
+
+#: inc/options/general.php:170
+msgid "Preloader"
+msgstr ""
+
+#: inc/options/general.php:177
+msgid "Preloader Setting"
+msgstr ""
+
+#: inc/options/general.php:179
+msgid "Show in All pages"
+msgstr ""
+
+#: inc/options/general.php:180
+msgid "Show in Home page only"
+msgstr ""
+
+#: inc/options/general.php:181
+msgid "Hide in all pages"
+msgstr ""
+
+#: inc/options/general.php:187
+msgid "Preloader Type"
+msgstr ""
+
+#: inc/options/general.php:189
+msgid "Circle"
+msgstr ""
+
+#: inc/options/general.php:190
+msgid "Progress"
+msgstr ""
+
+#: inc/options/general.php:198
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/options/general.php:199
+msgid "Pick your color scheme (default: #12c2e9)."
+msgstr ""
+
+#: inc/options/general.php:209
+msgid "Cursor"
+msgstr ""
+
+#: inc/options/general.php:210
+msgid "Select your cursor type"
+msgstr ""
+
+#: inc/options/general.php:217
+msgid "Theme Cursor Type"
+msgstr ""
+
+#: inc/options/general.php:219
+#: inc/options/post.php:144
+#: inc/options/sidebar.php:61
+msgid "None"
+msgstr ""
+
+#: inc/options/general.php:220
+msgid "Style 1"
+msgstr ""
+
+#: inc/options/general.php:229
+msgid "Typography"
+msgstr ""
+
+#: inc/options/general.php:234
+msgid "Body"
+msgstr ""
+
+#: inc/options/general.php:235
+msgid "Choose Size and Style for Body"
+msgstr ""
+
+#: inc/options/general.php:253
+msgid "Paragraph"
+msgstr ""
+
+#: inc/options/general.php:254
+msgid "Choose Size and Style for paragraph"
+msgstr ""
+
+#: inc/options/general.php:272
+msgid "H1 Headings"
+msgstr ""
+
+#: inc/options/general.php:273
+msgid "Choose Size and Style for h1"
+msgstr ""
+
+#: inc/options/general.php:291
+msgid "H2 Headings"
+msgstr ""
+
+#: inc/options/general.php:292
+msgid "Choose Size and Style for h2"
+msgstr ""
+
+#: inc/options/general.php:310
+msgid "H3 Headings"
+msgstr ""
+
+#: inc/options/general.php:311
+msgid "Choose Size and Style for h3"
+msgstr ""
+
+#: inc/options/general.php:329
+msgid "H4 Headings"
+msgstr ""
+
+#: inc/options/general.php:330
+msgid "Choose Size and Style for h4"
+msgstr ""
+
+#: inc/options/general.php:348
+msgid "H5 Headings"
+msgstr ""
+
+#: inc/options/general.php:349
+msgid "Choose Size and Style for h5"
+msgstr ""
+
+#: inc/options/general.php:367
+msgid "H6 Headings"
+msgstr ""
+
+#: inc/options/general.php:368
+msgid "Choose Size and Style for h6"
+msgstr ""
+
+#: inc/options/header.php:9
+msgid "Header"
+msgstr ""
+
+#: inc/options/header.php:15
+msgid "Header settings"
+msgstr ""
+
+#: inc/options/header.php:16
+msgid "Assign menu for header section."
+msgstr ""
+
+#: inc/options/header.php:22
+msgid "Header type"
+msgstr ""
+
+#: inc/options/header.php:24
+msgid "Standard Header"
+msgstr ""
+
+#: inc/options/header.php:25
+msgid "Custom Header"
+msgstr ""
+
+#: inc/options/header.php:26
+msgid "No Header"
+msgstr ""
+
+#: inc/options/header.php:34
+msgid "(Only if custom header selected as header type))"
+msgstr ""
+
+#: inc/options/header.php:35
+msgid "Custom Header format"
+msgstr ""
+
+#: inc/options/header.php:48
+msgid "Header Position"
+msgstr ""
+
+#: inc/options/header.php:50
+msgid "Relative Position with Background, "
+msgstr ""
+
+#: inc/options/header.php:51
+msgid "Absolute Position, Transperant"
+msgstr ""
+
+#: inc/options/header.php:60
+msgid "Menu Position"
+msgstr ""
+
+#: inc/options/header.php:62
+#: inc/options/sidebar.php:62
+msgid "Right"
+msgstr ""
+
+#: inc/options/header.php:63
+msgid "Center"
+msgstr ""
+
+#: inc/options/header.php:74
+msgid "Header logo"
+msgstr ""
+
+#: inc/options/header.php:83
+msgid "Upload your logo for white text (standard) header (Recommended size 240x80px)"
+msgstr ""
+
+#: inc/options/header.php:91
+msgid "Upload your logo for dark text (standard) header (Recommended size 240x80px)"
+msgstr ""
+
+#: inc/options/header.php:100
+msgid "Logo dimensions Height"
+msgstr ""
+
+#: inc/options/header.php:101
+msgid "Enable or disable any piece of this field. Width, Height, or Units.)"
+msgstr ""
+
+#: inc/options/header.php:111
+msgid "Header social"
+msgstr ""
+
+#: inc/options/header.php:112
+msgid "Configuration the header social icons"
+msgstr ""
+
+#: inc/options/header.php:118
+msgid "Enable Top Menu"
+msgstr ""
+
+#: inc/options/header.php:128
+msgid "Phone"
+msgstr ""
+
+#: inc/options/header.php:129
+msgid "Input phone number"
+msgstr ""
+
+#: inc/options/header.php:135
+msgid "Mail"
+msgstr ""
+
+#: inc/options/header.php:136
+msgid "Input mail address"
+msgstr ""
+
+#: inc/options/header.php:142
+msgid "Address"
+msgstr ""
+
+#: inc/options/header.php:143
+msgid "Input address"
+msgstr ""
+
+#: inc/options/header.php:149
+#: inc/options/header.php:156
+msgid "Join"
+msgstr ""
+
+#: inc/options/header.php:150
+msgid "Input Join text"
+msgstr ""
+
+#: inc/options/header.php:157
+msgid "Input Join link"
+msgstr ""
+
+#: inc/options/header.php:163
+msgid "Enable Header Social"
+msgstr ""
+
+#: inc/options/header.php:173
+msgid "Enable Header Social New Tab"
+msgstr ""
+
+#: inc/options/header.php:226
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/options/header.php:227
+msgid "Input Youtube link here"
+msgstr ""
+
+#: inc/options/header.php:233
+msgid "Search Icon"
+msgstr ""
+
+#: inc/options/header.php:234
+msgid "To show search icon in header"
+msgstr ""
+
+#: inc/options/header.php:244
+msgid "Button"
+msgstr ""
+
+#: inc/options/header.php:245
+msgid "To show Button in header"
+msgstr ""
+
+#: inc/options/header.php:255
+msgid "Button Text"
+msgstr ""
+
+#: inc/options/header.php:261
+msgid "Button URL"
+msgstr ""
+
+#: inc/options/portfolio.php:8
+msgid "portfolio"
+msgstr ""
+
+#: inc/options/portfolio.php:13
+msgid "Portfolio settings"
+msgstr ""
+
+#: inc/options/portfolio.php:14
+msgid "Configuration portfolio settings"
+msgstr ""
+
+#: inc/options/portfolio.php:20
+msgid "All categories filter"
+msgstr ""
+
+#: inc/options/portfolio.php:21
+msgid "Portfolio Text Filter for all categories"
+msgstr ""
+
+#: inc/options/portfolio.php:22
+msgid "Insert your text for portfolio filter for all categories. The default text is \"All\""
+msgstr ""
+
+#: inc/options/portfolio.php:28
+msgid "Other Portfolio Section Subtitle"
+msgstr ""
+
+#: inc/options/portfolio.php:29
+msgid "Insert your text for subt title of other portfolio section on single portfolio page.<br/>Leave it blank if you want to use the default text."
+msgstr ""
+
+#: inc/options/portfolio.php:35
+msgid "Other Portfolio Section Title"
+msgstr ""
+
+#: inc/options/portfolio.php:36
+msgid "Insert your text for title of other portfolio section on single portfolio page.<br/>Leave it blank if you want to use the default text."
+msgstr ""
+
+#: inc/options/post.php:11
+msgid "Single"
+msgstr ""
+
+#: inc/options/post.php:19
+#: inc/options/post.php:141
+msgid "Default Post Layout"
+msgstr ""
+
+#: inc/options/post.php:20
+#: inc/options/post.php:142
+msgid "Note: each Post can be additionally customized within its Meta boxes section."
+msgstr ""
+
+#: inc/options/post.php:22
+msgid "Elegant"
+msgstr ""
+
+#: inc/options/post.php:23
+msgid "Classic"
+msgstr ""
+
+#: inc/options/post.php:24
+msgid "Overlay Image"
+msgstr ""
+
+#: inc/options/post.php:31
+msgid "Page Title"
+msgstr ""
+
+#: inc/options/post.php:37
+msgid "Page Title Text"
+msgstr ""
+
+#: inc/options/post.php:38
+msgid "Custom"
+msgstr ""
+
+#: inc/options/post.php:39
+#: inc/options/post.php:106
+msgid "Default"
+msgstr ""
+
+#: inc/options/post.php:45
+msgid "Custom Page Title Text"
+msgstr ""
+
+#: inc/options/post.php:46
+msgid "Blog Post"
+msgstr ""
+
+#: inc/options/post.php:52
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/options/post.php:53
+msgid "Use"
+msgstr ""
+
+#: inc/options/post.php:60
+msgid "Background Image"
+msgstr ""
+
+#: inc/options/post.php:81
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: inc/options/post.php:82
+msgid "Note: this setting affects only the \"Overlay Image\" post layout."
+msgstr ""
+
+#: inc/options/post.php:97
+msgid "Appearance"
+msgstr ""
+
+#: inc/options/post.php:104
+msgid "Featured Image"
+msgstr ""
+
+#: inc/options/post.php:124
+msgid "Related posts"
+msgstr ""
+
+#: inc/options/post.php:128
+msgid "Single Related Post Count"
+msgstr ""
+
+#: inc/options/post.php:145
+msgid "Standard"
+msgstr ""
+
+#: inc/options/post.php:146
+msgid "Slider"
+msgstr ""
+
+#: inc/options/post.php:153
+msgid "Post Extras"
+msgstr ""
+
+#: inc/options/post.php:160
+msgid "Share Box"
+msgstr ""
+
+#: inc/options/side-panel.php:8
+#: inc/options/side-panel.php:21
+msgid "Side Panel"
+msgstr ""
+
+#: inc/options/side-panel.php:14
+msgid "Side Panel settings"
+msgstr ""
+
+#: inc/options/side-panel.php:15
+msgid "Assign menu for side panel section."
+msgstr ""
+
+#: inc/options/side-panel.php:23
+msgid "Standard Side panel"
+msgstr ""
+
+#: inc/options/side-panel.php:24
+msgid "Custom Side panel"
+msgstr ""
+
+#: inc/options/side-panel.php:30
+msgid "Side panel"
+msgstr ""
+
+#: inc/options/sidebar.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: inc/options/sidebar.php:14
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/options/sidebar.php:24
+msgid "Style"
+msgstr ""
+
+#: inc/options/sidebar.php:31
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/options/sidebar.php:32
+msgid "Select the style for Sidebar"
+msgstr ""
+
+#: inc/options/sidebar.php:51
+msgid "Layout"
+msgstr ""
+
+#: inc/options/sidebar.php:58
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/options/sidebar.php:60
+msgid "Left"
+msgstr ""
+
+#: inc/options/sidebar.php:70
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+#: inc/options/sidebar.php:92
+msgid "Search Sidebar Layout"
+msgstr ""
+
+#: inc/options/woocommerce.php:9
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/options/woocommerce.php:16
+msgid "Woocommerce settings"
+msgstr ""
+
+#: inc/options/woocommerce.php:17
+msgid "Configuration the Woocommerce"
+msgstr ""
+
+#: inc/options/woocommerce.php:24
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/options/woocommerce.php:25
+msgid "To show Cart icon in header"
+msgstr ""
+
+#: inc/plugin-install.php:49
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/plugin-install.php:54
+msgid "Redux framework"
+msgstr ""
+
+#: inc/plugin-install.php:59
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugin-install.php:64
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/plugin-install.php:69
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/plugin-install.php:74
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/plugin-install.php:79
+msgid "Iteck Theme Core"
+msgstr ""
+
+#: inc/related-posts.php:19
+#: templates/post/related-1.php:23
+#: templates/post/related-2.php:23
+msgid "Related Posts"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/theme-style.php:45
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Iteck Page Builder"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Wide"
+msgstr ""
+
+#: page-wide.php:39
+#: page.php:49
+msgid "Pages:"
+msgstr ""
+
+#: search.php:29
+msgid "Search result for:"
+msgstr ""
+
+#: search.php:41
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr ""
+
+#: single-portfolio.php:154
+msgid "See our other portfolio"
+msgstr ""
+
+#: single-portfolio.php:156
+msgid "Other portfolio"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Shop Page template"
+msgstr ""
+
+#: templates/404.php:5
+msgid "404"
+msgstr ""
+
+#: templates/404.php:6
+msgid "Oops..!!! Page not found!"
+msgstr ""
+
+#: templates/404.php:9
+msgid "Go Back Now!"
+msgstr ""
+
+#: templates/blog/blog-1.php:16
+#: templates/blog/blog-2.php:16
+#: templates/blog/blog-3.php:18
+#: templates/portfolio/taxonomy-portfolio.php:33
+msgid "Previous Page"
+msgstr ""
+
+#: templates/blog/blog-1.php:17
+#: templates/blog/blog-2.php:17
+#: templates/blog/blog-3.php:19
+#: templates/portfolio/taxonomy-portfolio.php:34
+msgid "Next Page"
+msgstr ""
+
+#: templates/blog/popular-1.php:50
+#: templates/blog/slider-1.php:53
+#: templates/post/post-1.php:19
+msgid "Posted on"
+msgstr ""
+
+#: templates/post/pagination.php:5
+#: templates/post/post-2.php:159
+#: templates/post/post-3.php:93
+msgid "Previous post"
+msgstr ""
+
+#: templates/post/pagination.php:13
+#: templates/post/post-2.php:167
+#: templates/post/post-3.php:101
+msgid "Next post"
+msgstr ""
+
+#: templates/post/post-1.php:145
+msgid "Tags:  "
+msgstr ""
+
+#: templates/post/related-2.php:42
+msgid "Posted on "
+msgstr ""

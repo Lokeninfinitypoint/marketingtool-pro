@@ -1,0 +1,181 @@
+.hamburger {
+	display: block;
+	width: 20px;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	padding: 26px 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-tap-highlight-color: transparent;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	transition:0.5s;
+	-index: 10000;
+}
+.nav-active{overflow:hidden;}
+.hamburger.active {
+		z-index: 10000;
+		margin-right: 0;
+}
+.no-para .hamburger.active{margin:0;}
+.hamburger__icon {
+	position: relative;
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.hamburger__icon, .hamburger__icon:before, .hamburger__icon:after {
+	display: block;
+	width: 20px;
+	height: 2px;
+	background-color: #333;
+	-moz-transition-property: background-color, -moz-transform;
+	-o-transition-property: background-color, -o-transform;
+	-webkit-transition-property: background-color, -webkit-transform;
+	transition-property: background-color, transform;
+	-moz-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+.custom-absolute-menu .hamburger__icon, .custom-absolute-menu .hamburger__icon:before, .custom-absolute-menu .hamburger__icon:after {
+	background-color: #fff;
+}
+.custom-absolute-menu .is-sticky .hamburger__icon, .custom-absolute-menu .is-sticky .hamburger__icon:before, .custom-absolute-menu .is-sticky .hamburger__icon:after {
+	background-color: #333;
+}
+.hamburger__icon:before, .hamburger__icon:after {
+	position: absolute;
+	content: "";
+}
+.hamburger__icon:before {
+	top: -7px;
+}
+.hamburger__icon:after {
+	top: 7px;
+}
+.hamburger.active .hamburger__icon {
+	background-color: transparent;
+}
+.hamburger.active .hamburger__icon:before, .hamburger.active .hamburger__icon:after {
+	background-color: #000;
+}
+.hamburger.active .hamburger__icon:before {
+	-moz-transform: translateY(7px) rotate(45deg);
+	-ms-transform: translateY(7px) rotate(45deg);
+	-webkit-transform: translateY(7px) rotate(45deg);
+	transform: translateY(7px) rotate(45deg);
+}
+.hamburger.active .hamburger__icon:after {
+	-moz-transform: translateY(-7px) rotate(-45deg);
+	-ms-transform: translateY(-7px) rotate(-45deg);
+	-webkit-transform: translateY(-7px) rotate(-45deg);
+	transform: translateY(-7px) rotate(-45deg);
+}
+
+.fat-nav {
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	position: fixed;
+	display: none;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	-moz-transform: scale(1.4);
+	-ms-transform: scale(1.4);
+	-webkit-transform: scale(1.4);
+	transform: scale(1.4);
+	-moz-transition-property: -moz-transform;
+	-o-transition-property: -o-transform;
+	-webkit-transition-property: -webkit-transform;
+	transition-property: transform;
+	-moz-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	overflow-y: auto;
+	overflow-x: hidden;
+	-webkit-overflow-scrolling: touch;
+}
+.fat-nav__wrapper {
+	width: 100%;
+	height: 100%;
+	display: table;
+	table-layout: fixed;
+	z-index: 333;
+	padding: 70px 15px 20px 15px;
+}
+.fat-nav.active {
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.fat-nav ul {
+	margin: 0;
+	padding: 0 0 0 15px;
+}
+ul.fat-list, .fat-list > .menu > ul {
+	padding: 0;
+}
+
+.fat-nav .sub-menu, .fat-nav .children{
+	display: none;
+}
+
+.fat-nav .menu-item-has-children, .fat-nav  .page_item_has_children{
+	position: relative;
+}
+.fat-nav .menu-item-icon{
+	position: absolute;
+    right: 0;
+    top: 2px;
+    -webkit-transition: -webkit-transform cubic-bezier(.25,.46,.45,.94) .15s;
+    transition: -webkit-transform cubic-bezier(.25,.46,.45,.94) .15s;
+    -o-transition: transform cubic-bezier(.25,.46,.45,.94) .15s;
+    transition: transform cubic-bezier(.25,.46,.45,.94) .15s;
+    transition: transform cubic-bezier(.25,.46,.45,.94) .15s,-webkit-transform cubic-bezier(.25,.46,.45,.94) .15s;
+        border: none;
+}
+.fat-nav .menu-item-icon.active{
+	-webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+    top: 2px;
+}
+
+
+.fat-nav ul.mob-nav {
+	padding:40px 0 20px 0;
+}
+.fat-nav li {
+	list-style-type: none;
+	text-align: left;
+	font-size: 13px;
+}
+.fat-nav li a {
+	display: block;
+	padding: 10px 0;
+	color: #777;
+}
+
+.fat-nav li, .fat-nav li a {
+	font-weight: 500;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.fat-nav li > a {
+
+	border-bottom: 1px solid #eee;
+	border-top: 1px solid #eee;
+	margin-bottom: -1px;
+}
+.fat-nav li a {
+	text-decoration: none;
+}

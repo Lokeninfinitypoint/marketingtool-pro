@@ -1,0 +1,262 @@
+.et-db #et-boc .et-l .et_pb_text_0 h2 {
+    font-family: 'unifysans semibold' !important;
+  }
+  .mktoForm .mktoButtonWrap.mktoSimple .mktoButton:hover {
+border:1px solid #ff551d !important;
+  color: #ff551d !important;
+  background-color: #fff !important;
+}
+  #mktoForm_9400.mktoForm .mktoLabel {
+    float: none !important;
+    display: none !important;
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
+    color: #fff;
+    font-family: 'unifysans semibold', !important;
+    font-size: 20px;
+    margin-bottom: 3px;
+    width: auto !important;
+  }
+  #mktoForm_9400.mktoForm input[type=email] {
+    padding: 16px !important;
+    font-size: 18px !important;
+    border: none !important;
+    border-radius: 26px !important;
+    font-family: 'unifysans' !important;
+    width: 100% !important;
+    height: 55px;
+    -webkit-border-radius: 26px !important;
+    -moz-border-radius: 26px !important;
+  }
+  #mktoForm_9400.mktoForm .mktoButtonWrap.mktoSimple .mktoButton {
+    width: 100% !important;
+    background-image: none !important;
+    background-color: #ff551d !important;
+    color: #fff !important;
+    font-family: 'unifysans semibold' !important;
+    font-size: 18px !important;
+    box-sizing: border-box !important;
+    border-radius: 26px !important;
+    border: 1px solid #ff551d;
+    padding: 10px 40px !important;
+    -webkit-border-radius: 26px !important;
+    -moz-border-radius: 26px !important;
+    height: 55px;
+    margin-top: 4px;
+  }
+  #mktoForm_9400.mktoForm .mktoButtonWrap.mktoSimple .mktoButton {
+    border-bottom: none !important;
+  }
+  #mktoForm_9400 {
+    width: 100% !important;
+    max-width: 1080px !important;
+  margin: auto !important;
+    background-color: #000!important;
+    padding: 2.5%;
+}
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'unifysans' !important;
+    font-size: 20px !important;
+    color: #000 !important;
+    line-height: 1.6em !important;
+}
+.ws-col-3 a {
+    color: #0047ff !important;
+}
+  .ws-col-3 a:hover {
+    color: #0097ff !important;
+}
+  .container {
+    width: 100% !important;
+  }
+.containerKeywords {
+    position: relative;
+    margin-top: 1rem;
+}
+
+.react-table-title-row {
+    padding: 18px;
+    background: #000 !important;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.react-table-title {
+    font-family: 'unifysans semibold'!important;
+    font-size: 22px !important;
+    color: #fff;
+    display: inline-block;
+}
+
+.react-even.table-rows,.react-odd.table-rows {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: center;
+    align-items: center;
+    border-bottom: 1px solid #f3eee2 !important;
+}
+
+.react-even {
+    background-color: #f9f5ea !important;
+    padding: 15px !important;
+}
+
+.react-odd {
+    background-color: #fff !important;
+    padding: 15px !important;
+}
+
+.react-table-element {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.react-table-element.keyword-index {
+    font-family: 'unifysans semibold' !important;
+}
+
+.react-table-element.keyword-name {
+    padding-left: 50px;
+    font-family: 'unifysans' !important;
+}
+
+.react-table-element.keyword-volume {
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    color: #ff551d !important;
+    font-size: 24px !important;
+}
+
+.gray-overlay {
+    position: absolute;
+    bottom: 0;
+    z-index: 5;
+    background: linear-gradient(0deg, rgb(0 0 0 / 95%) 0%, rgb(75 73 70 / 66%) 50%) !important;
+    color: #fff;
+    font-size: 30px !important;
+  font-family: 'unifysans semibold' !important;
+    line-height: 1.1em !important;
+    height: 369px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 0 100px
+}
+
+.gray-overlay.broken {
+    height: 25%
+}
+
+.lock-image {
+    max-width: 60px;
+    height: auto;
+    margin-bottom: 18px
+}
+
+@media (max-width: 1054px) {
+    .orangeButton {
+        padding:13px 70px
+    }
+
+    .productCard:last-child {
+        border-left: 1px solid #dbdce1;
+        border-top: none
+    }
+}
+
+@media (max-width: 768px) {
+    .selectionContainer {
+        -ms-flex-direction:column;
+        flex-direction: column
+    }
+
+    .selection {
+        font-size: .9rem;
+        width: inherit;
+        margin-top: 0;
+        margin-bottom: 20px
+    }
+
+    .tooltipText {
+        position: inherit;
+        width: auto
+    }
+
+    .orangeButton {
+        padding: 13px 9px
+    }
+
+    .productCard {
+        border: 1px solid #dbdce1
+    }
+
+    .productCard:first-child {
+        border-bottom: none
+    }
+
+    #mktoForm_9400 .mktoButtonRow {
+        width: 100%;
+    }
+
+    .gray-overlay {
+        padding: 0px 20px;
+        height: 394px;
+    }
+        
+    .react-table-title {
+        padding: 0px 14px;
+    }
+}
+
+.gray-overlay {
+    height: 330px;
+}
+    
+#mktoForm_9400 .mktoButtonRow {
+    top: -120px;
+}
+    
+#mktoForm_9400.mktoForm .mktoButtonWrap.mktoSimple .mktoButton:hover {
+    background-color: #fff!important;
+    color: #ff551d!important;
+    border: 1px solid #ff551d!important;
+}
+
+#thank-you-msg {
+    min-height: 216px;
+    background-color: #000000;
+    color: #f9f5ea;
+    padding: 2.5%;
+    display: none;
+}
+#thank-you-msg p {
+    text-align: center;
+}
+    
+.color-black standard-text__heading--center {
+    color: #000;
+    font-size: 30px;
+}
+    
+.ws-wysiwyg-2 h4 {
+    font-size: 24px;
+}
+
+/*# sourceMappingURL=main.dd478cf8.css.map*/

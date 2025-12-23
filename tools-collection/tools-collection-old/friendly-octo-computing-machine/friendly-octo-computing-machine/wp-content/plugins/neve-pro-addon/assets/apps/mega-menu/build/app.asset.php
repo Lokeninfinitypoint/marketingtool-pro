@@ -1,0 +1,1 @@
+<?php return array('chunks' => array('aba6f2c5110ac8eb0ba9.js', '4bbee58f9a12dd9a28f1.js'),'dependencies' => array('neve-components', 'react', 'wp-components', 'wp-element', 'wp-i18n', 'wp-primitives'), 'version' => 'f8e60d3b32d6666325f8b5c671cdf406');

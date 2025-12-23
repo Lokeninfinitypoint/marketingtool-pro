@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wp-full-pay/form",
+  "version": "1.0.0",
+  "title": "Form by WP Full Pay",
+  "category": "widgets",
+  "attributes": {
+    "shortcode": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false
+  },
+  "textdomain": "wp-full-stripe-free",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php"
+}
