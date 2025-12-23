@@ -1,9 +1,9 @@
-# Node modules (auto-installed with npm install)
-node_modules/
-
-# Build outputs (auto-built with npm run build)
-dist/
+# Only ignore regenerable cache
 .astro/
+
+# Commit these (user wants them committed):
+# node_modules/ - WILL BE COMMITTED
+# dist/ - WILL BE COMMITTED
 
 # Environment files (keep secrets safe)
 .env
@@ -12,7 +12,4 @@ dist/
 
 # OS files
 .DS_Store
-Thumbs.db
-
-# Logs
 *.log
