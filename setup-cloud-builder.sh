@@ -4,8 +4,12 @@
 
 set -e
 
-BUILDER_NAME="cloud-lokendra334-loken"
-CLOUD_BUILDER="lokendra334/loken"
+# Use environment variables with sensible defaults
+DOCKER_USER="${DOCKER_USER:-builder}"
+REPO="${REPO:-loken}"
+BUILDER_BASE="${BUILDER_BASE:-cloud}"
+BUILDER_NAME="${BUILDER_NAME:-${BUILDER_BASE}-${DOCKER_USER}-${REPO}}"
+CLOUD_BUILDER="${CLOUD_BUILDER:-${DOCKER_USER}/${REPO}}"
 
 echo "═══════════════════════════════════════════════════"
 echo "  Docker Build Cloud Setup"
@@ -35,7 +39,7 @@ if ! docker info 2>/dev/null | grep -q "Username:"; then
     echo "⚠️  Warning: Not logged in to Docker Hub"
     echo ""
     echo "Please login to Docker Hub:"
-    echo "  docker login -u lokendra334"
+    echo "  docker login -u ${DOCKER_USER}"
     echo ""
     read -p "Press Enter after logging in, or Ctrl+C to cancel..."
 fi

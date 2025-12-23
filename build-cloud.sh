@@ -4,8 +4,9 @@
 
 set -e
 
-BUILDER_NAME="cloud-lokendra334-loken"
-IMAGE_NAME="lokendra334/marketingtool-pro"
+# Use environment variables with sensible defaults
+BUILDER_NAME="${BUILDER_NAME:-cloud-${DOCKER_USER:-builder}-loken}"
+IMAGE_NAME="${IMAGE_NAME:-${DOCKER_USER:-builder}/marketingtool-pro}"
 GIT_SHA=$(git rev-parse --short HEAD 2>/dev/null || echo "local")
 
 echo "═══════════════════════════════════════════════════"
@@ -33,7 +34,7 @@ if ! docker info 2>/dev/null | grep -q "Username:"; then
     echo "❌ Error: Not logged in to Docker Hub"
     echo ""
     echo "Please login first:"
-    echo "  docker login -u lokendra334"
+    echo "  docker login -u ${DOCKER_USER:-builder}"
     exit 1
 fi
 
