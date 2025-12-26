@@ -1,0 +1,28 @@
+# Copy and Paste This ENTIRE Block to Fix Nginx
+
+# Step 1: Kill everything on port 80
+systemctl stop nginx 2>/dev/null || true
+pkill -9 nginx 2>/dev/null || true
+pkill -9 certbot 2>/dev/null || true
+fuser -k 80/tcp 2>/dev/null || true
+sleep 3
+
+# Step 2: Check what's using port 80
+echo "Checking port 80..."
+lsof -i :80 || echo "Port 80 is free"
+netstat -tulpn | grep :80 || echo "Port 80 is free"
+
+# Step 3: Check Nginx config
+nginx -t
+
+# Step 4: Try starting Nginx
+systemctl start nginx
+
+# Step 5: Check status
+systemctl status nginx --no-pager | head -15
+
+# Step 6: If still failing, check logs
+if ! systemctl is-active --quiet nginx; then
+    echo "Nginx failed. Checking logs:"
+    journalctl -xeu nginx.service --no-pager | tail -30
+fi
