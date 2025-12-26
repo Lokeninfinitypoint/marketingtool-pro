@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { memo } from 'react';
 import Link from 'next/link';
 
 interface AnimatedButtonProps {
@@ -12,7 +12,7 @@ interface AnimatedButtonProps {
   target?: string;
 }
 
-export default function AnimatedButton({ 
+const AnimatedButton = memo(function AnimatedButton({ 
   href, 
   children, 
   className = '',
@@ -37,4 +37,6 @@ export default function AnimatedButton({
       </Link>
     </div>
   );
-}
+});
+
+export default AnimatedButton;

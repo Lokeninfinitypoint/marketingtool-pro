@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, memo } from 'react';
 import Link from 'next/link';
 import { 
   ChevronDown, 
@@ -20,9 +20,9 @@ import {
   Briefcase,
   Info,
   Eye
-} from 'lucide-react';
+} from '@/utils/icons';
 
-export default function Navigation() {
+function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
   const dropdownRefs = {
@@ -306,3 +306,5 @@ export default function Navigation() {
     </nav>
   );
 }
+
+export default memo(Navigation);

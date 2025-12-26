@@ -1,10 +1,10 @@
 'use client';
 
-import React from 'react';
+import React, { memo } from 'react';
 import Link from 'next/link';
-import { Phone, MapPin, FileText, Mail, Youtube, Linkedin, Twitter, Facebook, Instagram } from 'lucide-react';
+import { Phone, MapPin, FileText, Mail, Youtube, Linkedin, Twitter, Facebook, Instagram } from '@/utils/icons';
 
-export default function Footer() {
+function Footer() {
   return (
     <footer className="bg-gray-900 border-t border-purple-500/20">
       <div className="container-responsive py-12 phone:py-16">
@@ -140,3 +140,5 @@ export default function Footer() {
     </footer>
   );
 }
+
+export default memo(Footer);

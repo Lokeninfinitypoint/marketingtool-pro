@@ -1,13 +1,13 @@
 'use client';
 
-import React from 'react';
+import React, { memo } from 'react';
 
 interface SeparatorProps {
   opacity?: number;
   className?: string;
 }
 
-export default function Separator({ opacity = 1, className = '' }: SeparatorProps) {
+const Separator = memo(function Separator({ opacity = 1, className = '' }: SeparatorProps) {
   return (
     <div className={`separator_component ${className}`}>
       {/* Using CSS-based separator since we don't have the image yet */}
@@ -17,4 +17,6 @@ export default function Separator({ opacity = 1, className = '' }: SeparatorProp
       ></div>
     </div>
   );
-}
+});
+
+export default Separator;

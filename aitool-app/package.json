@@ -6,7 +6,9 @@
     "dev": "next dev -p 3000",
     "build": "next build",
     "start": "next start -p 3000",
-    "lint": "next lint"
+    "lint": "next lint",
+    "analyze": "ANALYZE=true next build",
+    "build:analyze": "cross-env ANALYZE=true next build"
   },
   "dependencies": {
     "next": "^14.0.0",

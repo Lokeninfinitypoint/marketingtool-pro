@@ -1,13 +1,11 @@
-import Navigation from '@/components/Navigation';
-import Footer from '@/components/Footer';
-import AnimatedButton from '@/components/AnimatedButton';
-import AnimatedScreen from '@/components/AnimatedScreen';
+import { Navigation, Footer, AnimatedButton, AnimatedScreen } from '@/utils/dynamic-imports';
 import Separator from '@/components/Separator';
 import Link from 'next/link';
-import { Sparkles, TrendingUp, Zap, Shield, BarChart3, Target, ArrowRight, CheckCircle, Users, Award, Clock, X, Check } from 'lucide-react';
+import { Sparkles, TrendingUp, Zap, Shield, BarChart3, Target, ArrowRight, CheckCircle, Users, Award, Clock, X, Check } from '@/utils/icons';
+import { memo, useMemo } from 'react';
 
-export default function Home() {
-  const features = [
+function Home() {
+  const features = useMemo(() => [
     {
       icon: Sparkles,
       title: 'AI-Powered Ad Generation',
@@ -50,9 +48,9 @@ export default function Home() {
       description: '425+ tools accessible via API for custom integrations and automation.',
       details: 'Complete API access to all 425+ tools enables seamless integration with your existing workflow and custom automation solutions.',
     },
-  ];
+  ], []);
 
-  const benefits = [
+  const benefits = useMemo(() => [
     'Increase ROAS by up to 3.2x',
     'Save 20+ hours per week on campaign management',
     'Generate 100+ ad variations automatically',
@@ -61,28 +59,28 @@ export default function Home() {
     '425+ Tools with Full API Access',
     'Enterprise-grade security',
     '60x More Capabilities Than Competitors',
-  ];
+  ], []);
 
-  const stats = [
+  const stats = useMemo(() => [
     { value: '2000+', label: 'Active Users', icon: Users },
     { value: '3.2x', label: 'Average ROAS', icon: TrendingUp },
     { value: '99.9%', label: 'Uptime', icon: Award },
     { value: '24/7', label: 'Support', icon: Clock },
-  ];
+  ], []);
 
-  const problems = [
+  const problems = useMemo(() => [
     { text: 'Lower ROAS', icon: X },
     { text: 'Discrepancies between platforms', icon: X },
     { text: 'Struggle to scale', icon: X },
     { text: 'Limited Optimization by Meta AI', icon: X },
-  ];
+  ], []);
 
-  const solutions = [
+  const solutions = useMemo(() => [
     { text: 'Better and clear results', icon: Check },
     { text: 'Alignment between Meta and store', icon: Check },
     { text: 'Growth without guesswork', icon: Check },
     { text: 'Meta\'s brain works for you again', icon: Check },
-  ];
+  ], []);
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -450,3 +448,5 @@ export default function Home() {
     </div>
   );
 }
+
+export default memo(Home);

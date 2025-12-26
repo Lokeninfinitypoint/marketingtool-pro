@@ -1,13 +1,13 @@
 'use client';
 
-import React from 'react';
+import React, { memo } from 'react';
 
 interface AnimatedScreenProps {
   children: React.ReactNode;
   className?: string;
 }
 
-export default function AnimatedScreen({ children, className = '' }: AnimatedScreenProps) {
+const AnimatedScreen = memo(function AnimatedScreen({ children, className = '' }: AnimatedScreenProps) {
   return (
     <div className={`animated-screen relative ${className}`}>
       <div className="relative z-10">
@@ -15,4 +15,6 @@ export default function AnimatedScreen({ children, className = '' }: AnimatedScr
       </div>
     </div>
   );
-}
+});
+
+export default AnimatedScreen;
