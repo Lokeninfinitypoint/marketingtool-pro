@@ -2,7 +2,24 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { ChevronDown, Menu, X, HelpCircle, FileText, ClipboardCheck, BarChart3, Wrench, Search, BookOpen, TrendingUp, Gift, Mail, Briefcase, Info } from 'lucide-react';
+// Import icons individually for better tree-shaking
+import { 
+  ChevronDown, 
+  Menu, 
+  X, 
+  HelpCircle, 
+  FileText, 
+  ClipboardCheck, 
+  BarChart3, 
+  Wrench, 
+  Search, 
+  BookOpen, 
+  TrendingUp, 
+  Gift, 
+  Mail, 
+  Briefcase, 
+  Info 
+} from 'lucide-react';
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
