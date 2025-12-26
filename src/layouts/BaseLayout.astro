@@ -4,9 +4,14 @@ import '../styles/global.css';
 export interface Props {
   title: string;
   description?: string;
+  bodyClass?: string;
 }
 
-const { title, description = "226+ AI Marketing Tools in One Platform" } = Astro.props;
+const {
+  title,
+  description = "226+ AI Marketing Tools in One Platform",
+  bodyClass = "min-h-screen bg-gray-50",
+} = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -19,8 +24,9 @@ const { title, description = "226+ AI Marketing Tools in One Platform" } = Astro
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <slot name="head" />
 </head>
-<body class="min-h-screen bg-gray-50">
+<body class={bodyClass}>
   <slot name="header" />
   <main class="flex-1">
     <slot />
