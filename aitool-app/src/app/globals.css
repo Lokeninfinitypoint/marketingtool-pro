@@ -69,7 +69,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Starry background effect - Premium */
+/* Starry background effect - Premium (GPU accelerated) */
 .starry-bg {
   background-image: 
     radial-gradient(2px 2px at 20% 30%, rgba(255, 255, 255, 0.3), transparent),
@@ -82,6 +82,8 @@ body {
   background-size: 200% 200%;
   animation: starryMove 20s ease-in-out infinite;
   pointer-events: none;
+  will-change: background-position;
+  contain: strict;
 }
 
 @keyframes starryMove {
@@ -162,7 +164,7 @@ h6 { font-size: 1rem; }
   transform: translateY(-2px);
 }
 
-/* Premium Card Styles */
+/* Premium Card Styles - GPU accelerated */
 .card-premium {
   background: rgba(30, 41, 59, 0.5);
   border: 1px solid var(--border);
@@ -171,23 +173,27 @@ h6 { font-size: 1rem; }
   transition: all var(--transition-base);
   backdrop-filter: blur(10px);
   transform-style: preserve-3d;
+  contain: layout style paint;
 }
 
 .card-premium:hover {
   border-color: rgba(147, 51, 234, 0.5);
   box-shadow: var(--shadow-3d);
   transform: perspective(1000px) rotateX(5deg) rotateY(5deg) translateY(-10px);
+  will-change: transform, box-shadow;
 }
 
-/* 3D Card Effects */
+/* 3D Card Effects - Optimized with will-change and containment */
 .card-3d {
   transform-style: preserve-3d;
   transition: transform 0.3s ease;
   perspective: 1000px;
+  contain: layout style;
 }
 
 .card-3d:hover {
   transform: perspective(1000px) rotateX(5deg) rotateY(5deg) translateY(-10px);
+  will-change: transform;
 }
 
 /* Scrollbar Styling - Premium */
@@ -281,16 +287,36 @@ img {
   }
 }
 
+/* Optimized animations with GPU acceleration */
 .animate-fade-in-up {
   animation: fadeInUp 0.6s ease-out;
+  will-change: opacity, transform;
 }
 
 .animate-float-3d {
   animation: float3d 6s ease-in-out infinite;
+  will-change: transform;
+  transform: translateZ(0); /* Force GPU layer */
 }
 
 .animate-glow-pulse {
   animation: glow-pulse 3s ease-in-out infinite;
+  will-change: box-shadow;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in-up,
+  .animate-float-3d,
+  .animate-glow-pulse,
+  .starry-bg,
+  .animated-button::after,
+  .animated-button::before,
+  .animated-screen::after,
+  .animated-screen::before {
+    animation: none !important;
+    transition: none !important;
+  }
 }
 
 /* Glass morphism effect */
@@ -475,16 +501,6 @@ img {
 .info_icon {
   width: 161px;
   height: auto;
-}
-
-/* 3D Card Effects */
-.card-3d {
-  transform-style: preserve-3d;
-  transition: transform 0.3s ease;
-}
-
-.card-3d:hover {
-  transform: perspective(1000px) rotateX(5deg) rotateY(5deg) translateY(-10px);
 }
 
 /* Responsive Container */

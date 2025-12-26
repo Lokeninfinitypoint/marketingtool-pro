@@ -1,16 +1,14 @@
 'use client';
 
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useCallback, memo } from 'react';
 import Link from 'next/link';
 import { 
   ChevronDown, 
   Menu, 
   X, 
-  BookOpen, 
   ClipboardCheck, 
   BarChart3, 
   FileCheck,
-  TrendingUp, 
   Wrench, 
   Search,
   HelpCircle,
@@ -20,7 +18,7 @@ import {
   Briefcase,
   Info,
   Eye
-} from 'lucide-react';
+} from '@/components/icons';
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -30,7 +28,7 @@ export default function Navigation() {
     company: useRef<HTMLDivElement>(null),
   };
 
-  // Close dropdowns when clicking outside
+  // Close dropdowns when clicking outside - memoized handler
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       Object.values(dropdownRefs).forEach(ref => {
@@ -40,13 +38,23 @@ export default function Navigation() {
       });
     };
 
-    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('mousedown', handleClickOutside, { passive: true });
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
-  const toggleDropdown = (dropdown: string) => {
-    setActiveDropdown(activeDropdown === dropdown ? null : dropdown);
-  };
+  // Memoized toggle function to prevent unnecessary re-renders
+  const toggleDropdown = useCallback((dropdown: string) => {
+    setActiveDropdown(prev => prev === dropdown ? null : dropdown);
+  }, []);
+
+  // Memoized handlers for dropdown hover
+  const handleMouseEnter = useCallback((dropdown: string) => {
+    setActiveDropdown(dropdown);
+  }, []);
+
+  const handleMouseLeave = useCallback(() => {
+    setActiveDropdown(null);
+  }, []);
 
 
   const companyItems = [
