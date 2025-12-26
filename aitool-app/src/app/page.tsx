@@ -4,7 +4,7 @@ import AnimatedButton from '@/components/AnimatedButton';
 import AnimatedScreen from '@/components/AnimatedScreen';
 import Separator from '@/components/Separator';
 import Link from 'next/link';
-import { Sparkles, TrendingUp, Zap, Shield, BarChart3, Target, ArrowRight, CheckCircle, Users, Award, Clock, X, Check } from 'lucide-react';
+import { Sparkles, TrendingUp, Zap, Shield, BarChart3, Target, ArrowRight, CheckCircle, Users, Award, Clock, X, Check } from '@/components/icons';
 
 export default function Home() {
   const features = [

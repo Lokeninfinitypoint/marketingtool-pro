@@ -1,6 +1,7 @@
 // Database of all 418 AI Marketing Tools
+// Lazy loaded to reduce initial bundle size
 
-export const toolsDatabase = {
+export const toolsDatabase: Record<string, Array<{id: number, name: string, description: string, category: string}>> = {
   "meta-facebook-ads": [
     { id: 1, name: "Campaign Manager Pro", description: "Advanced Facebook Ads campaign management with AI optimization", category: "Meta/Facebook Ads" },
     { id: 2, name: "Ad Copy Generator", description: "Generate high-converting Facebook ad copy using AI", category: "Meta/Facebook Ads" },
