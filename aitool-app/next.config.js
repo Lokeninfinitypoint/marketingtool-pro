@@ -25,8 +25,10 @@ const nextConfig = {
   },
 
   // Webpack Optimizations
-  webpack: (config, { isServer }) => {
+  webpack: (config, { isServer, webpack }) => {
+    // Production optimizations
     if (!isServer && process.env.NODE_ENV === 'production') {
+      // Enable tree shaking
       config.optimization = {
         ...config.optimization,
         usedExports: true,
@@ -35,28 +37,58 @@ const nextConfig = {
         splitChunks: {
           chunks: 'all',
           cacheGroups: {
+            default: false,
+            vendors: false,
+            // Vendor chunk for node_modules
             vendor: {
               name: 'vendor',
+              chunks: 'all',
               test: /node_modules/,
               priority: 20,
             },
+            // Common chunk for shared code
             common: {
               name: 'common',
               minChunks: 2,
+              chunks: 'all',
               priority: 10,
               reuseExistingChunk: true,
+              enforce: true,
+            },
+            // Separate chunk for lucide-react icons
+            icons: {
+              name: 'icons',
+              test: /[\\/]node_modules[\\/]lucide-react[\\/]/,
+              chunks: 'all',
+              priority: 30,
             },
           },
         },
       };
     }
+
+    // Module resolution optimizations
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      '@components': '/workspace/aitool-app/src/components',
+      '@app': '/workspace/aitool-app/src/app',
+    };
+
     return config;
   },
 
-  // Experimental features
+  // Experimental features for better performance
   experimental: {
     optimizeCss: true,
     optimizePackageImports: ['lucide-react'],
+    turbo: {
+      rules: {
+        '*.svg': {
+          loaders: ['@svgr/webpack'],
+          as: '*.js',
+        },
+      },
+    },
   },
 
   // Headers for caching
@@ -64,6 +96,15 @@ const nextConfig = {
     return [
       {
         source: '/:all*(svg|jpg|jpeg|png|webp|avif|ico|css|js)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
+        source: '/_next/static/:path*',
         headers: [
           {
             key: 'Cache-Control',

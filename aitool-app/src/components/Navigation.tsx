@@ -20,7 +20,7 @@ import {
   Briefcase,
   Info,
   Eye
-} from 'lucide-react';
+} from '@/components/icons';
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

@@ -3,7 +3,7 @@
 import React from 'react';
 import DashboardLayout from '@/components/DashboardLayout';
 import Link from 'next/link';
-import { Sparkles, TrendingUp, Zap, Library, BarChart3, Target, Users, ArrowRight, Award, Clock, DollarSign } from 'lucide-react';
+import { Sparkles, TrendingUp, Zap, Library, BarChart3, Target, Users, ArrowRight, Award, Clock, DollarSign } from '@/components/icons';
 
 export default function DashboardPage() {
   return (
